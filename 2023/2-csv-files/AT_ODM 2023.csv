@@ -1,0 +1,1106 @@
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+;;;;;;;Total Score:;2298
+;;;;;;;Unsure Score:;0
+;;;;;;;"Preliminary Score: 
+(Total - Unsure)   ";2298
+;Respondent Information;;;;;;;
+;Please provide written information to the question in `Justification` column. Where applicable, select an answer option from the drop-down options in the `Answer` column. ;;;;;;;
+;0.1 Background information;;;;;;;
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+R1;What is your country?;N/A;Austria;;;;;N/A
+R2;What is your organisation?;N/A;Federal Ministry of Finance (BMF);;;;;N/A
+R3;What is your name?;N/A;xxx;;;;;N/A
+R4;What is your position/role?;N/A;xxx;;;;;N/A
+R5;What is your email address?;N/A;xxx;;;;;N/A
+R6;What is the size of national open data team (core team members);N/A;3;;;;;N/A
+R7;How many FTE(s) are in the national open data team?;N/A;1;;;;;N/A
+R8;What is the annual budget of the national portal?;<200.000 EUR;N/A;This is the annual budget for all portal activities (portal development and maintenance, promotion and awareness-raising activities) of the national portal. This should include the budget for the national portal team, whether an internal team or external contractors.;;;;N/A
+;0.2 data.europa.eu and national open data portals;;;;;;;
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+R9;"Are you satisfied with data.europa.eu as a European single point of access?
+
+For Justification:
+* If you selected 'yes', what do you consider particularly good about data.europa.eu as European single point of access? 
+* If you selected 'no', how would you improve data.europa.eu as European single point of access? ";yes;"unique search functionality; metadata translation; news source; data.europa.academy; higher acceptance and easier access";;;;;N/A
+R10;"Does the portal data.europa.eu reflect the data that your national portals hosts? 
+
+For Justification:
+* If you selected 'no' or 'partially', how would you improve data.europa.eu to better reflect the data on national open data portals like the one in your country?";yes;;;;;;N/A
+;Dimension 1: Open Data Policy;;;;;;;612
+;"Please note that this section differentiates between open data policy and open data strategy. Policy here refers to all principles/initiatives set out to achieve the goals established by the Open Data Directive, including specific national legislation put in place to transpose the EU law. With strategy, on the other hand, we define a document outlining the concrete vision, mission, objectives, measures to be implemented, timeline and responsible. An open data strategy would ideally include information on the open data governance structure and operating model.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                                                                                                                                                                                                                                                                                                                        ";;;;;;;
+;1.1 Policy framework;;;;;;;265
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+1;"Is there a national open data policy in your country and does this include a national legislation for the transposition of the Open Data Directive (if your country is an EU Member State)?
+
+For Justification:
+* If yes, please provide (1) the URL and (2) title of the policy document and briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"o Basis: Federal Act on the Re-Use of Public Sector Information 2022 (Informationsweiterverwendungsgesetz – IWG 2022). https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011973
+o Responsible authority for the implementation of the Open Data Directive 2019/1024 & IWG: Federal Ministry of Labour and Economy (BMAW) (https://www.bmaw.gv.at/Themen/Europa/Wettbewerbspolitik/Open-Data.html)
+o Responsible authority for the national data portal: Federal Ministry of Finance (BMF)
+o Austrian Digital Action Plan (https://www.digitalaustria.gv.at/Strategien/Digitaler-Aktionsplan.html) of the Federal Ministry of Finance (BMF)
+o The Cooperation Open Government Data (OGD) Austria perpetuates open data governance at all levels (federal-regional-local) within the Austrian public sector
+(https://www.data.gv.at/infos/cooperation-ogd-austria/)";The answer option 'Other' should be selected by countries that do not have a specific open data policy in place but have a national policy (on data, digitalisation, artificial intelligence, eGovernment or similar) that explicitly includes open data in its text and scope.;;;;30
+2;"Is there a national open data strategy in your country?
+
+For Justification:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"o The Austrian open data policy “Framework for Open Government Data platforms” initated by the Cooperation OGD Austria sets out a framework consisting of legal, technical and organizational requirements to be adhered to when providing public, non-personalized data. Proper alignment with these key elements should foster a smooth transition from traditional government structures to a government 2.0, where transparency, participation and collaboration are of paramount priority.
+URL: https://go.gv.at/ogdframeen 
+o The Chief Digital Officers have adopted a white paper on introducing a national open data strategy.
+o The Austrian Digital Action Plan (2020) contains a dedicated action plan on data, including open data (https://www.digitalaustria.gv.at/digitalisierungsbericht.html) ";The answer option 'Not applicable' can be selected if e.g. there is no specific strategy in place, but the existing policy refers to the objectives, actions/measures to be implemented, delivery timelines, responsible etc. Should another explanation apply in your case, please provide it in the justification text box.;;;;30
+3;"Has this national strategy/policy been updated in the past 24 months?
+
+For Justification:
+* If yes, please briefly describe the main changes. ";no;;;;;;0
+4;"Is there any further open data policy/strategy at regional or local level?
+
+For Justification:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;"The State/City of Vienna pursues a ""Data Excellence strategy"" with the leading principle ""open by default"" for open data 
+(https://go.gv.at/l9dxstrategie) ";;;;;10
+5;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For justification:
+If yes, please briefly describe the main measures described by the action plan.";yes;The Austrian Digital Action Plan on Data contains a leading theme on data. The aim is to position Austria as digital innovation location. Data solidarity should be achieved through sharing data. Main measures are e.g.: Increased social and economic added value through better use of data, better data literacy through education and training, Austria as an attractive data location for science and the economy, ensuring transparency and the traceable use of data. The Action Plan also envisages the establishment of a national data hub.;;;;;25
+6a;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;The Framework for Open Government Data platforms determines that data available in real time needs to be retrievable through an application programming interface (API). The published records should be available to the public within an adequate period in a timely manner. They have to be published as soon as they are collected and compiled. National efforts on implementing EU high value datasets and national core datasets should give a significant impetus on the availability of dynamic data.;Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time). ;;;;15
+6b;"Does the national strategy/policy outline measures to incentivise the publication of and access to geo-spatial data (e.g. in relation to high-value datasets as specified in the implementing regulation (EU) 2023/138)?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"Referring to EU high value datasets, the publication and access to geospatial datasets will be greatly enhanced. 
+
+response to reviewer: 
+In alignment with the implementing regulation (EU) 2023/138, our national strategy outlines multiple measures to incentivize the publication of and access to geo-spatial data:
+
+1. Technical Assistance: We offer documentation aimed at educating public sector data owners on the benefits and methods of publishing geo-spatial data.
+2. Public Awareness: Open Data campaigns to increase public demand and interest in geo-spatial data, further motivating data holders to publish.
+3. Open Data Portal: A specialized section within the national open data portal is dedicated to geo-spatial data, making it easier for users to find and access these datasets.";"Geo-spatial data is data that contains information on properties that are linked to a position on earth. 
+
+The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138";Please describe the specific measures you are taking to incentivise the publication/access to geo-spatial data;;;15
+6c;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;Through opendataportal.at the provision of citizen-generated data is encouraged. The Open Science Policy Austria adopted in 2022 is geared towards enhancing the contribution of citizen science and citizen-generated data.;Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;;;15
+6d;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For justification:
+* If yes, please briefly describe how.";yes;According to the national policy and the Austrian Federal Law on the Re-Usability of Information (Informationsweiterverwendungsgesetz), metadata to Austrian open government data has to be linked with data.gv.at. This ensures the basic discoverability of the entirety of Austrian open government data across all levels of government. Furthermore, data.gv.at is interconnected with data.europa.eu to allow for a pan-European searchability of open government data. ;;;;;10
+7;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;The Digital Action Plan defines the goal of a data-oriented, data-driven administration and the vision of a data ecosystem. Support and the exchange of best practices is established via the Cooperation OGD Austria. The Federal Ministry of  Labour and Economy and the Federal Ministry of Finance continuously encourage and inform public sector bodies to increase the re-use of open data. ;These measures should promote concepts such as data-driven government, policy-making and decision-making.;;;;15
+8;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"The Digital Action Plan on Data is aimed at measures to increasing the re-use of data by the private sector. for example:
+- Data Hub
+- Data Partnerships
+- Funding Programs for SMEs regarding data usage and data literacy";These measures could promote concepts such as smart cities and/or regions, but also new business development (in particular Small - and Medium-sized Enterprises), entrepreneurship etc.;;;;15
+9a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For justification:
+* If yes, please briefly specify.";yes;The Austrian “Framework for Open Government Data Platforms” determines the obligation for publishing open government data via the data.gv.at portal. This includes all levels of government (from the federal to the local level).;A data inventory is a comprehensive catalogue of datasets held by an organisation.;;;;15
+9b;"If yes [in Q9a], do these data inventories also include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For justification:
+* If yes, please briefly specify.";yes;In general, closed data is not being published via data.gv.at. However, the possibility to provide asset lists (of data that falls e.g. under the scope of the Data Governance Act) via data.gv.at is given. Effectively, this depends on the willingness of the data holders to provide this information. Data screening and monitoring by public sector bodies is encouraged, but it is not an obligation.;The Data Governance Act (EU) 2022/868 seeks to increase trust in data sharing, strengthen mechanisms to increase data availability and overcome technical obstacles to the reuse of data. It also aims to support the set-up and development of common European data spaces in strategic domains, involving both private and public players, in sectors such as health, environment, energy, agriculture, mobility, finance, manufacturing, public administration and skills. The Data Governance entered into force on 23 June 2022 and, following a 15-month grace period, will be applicable from September 2023. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R0868;;;;10
+10a;"Has your country started working towards the application of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Justification:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.
+";yes;N/A;The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;"Kindly fill in the column ""Publications of HCD in machine-readable formats via APIs"" in the table below. This column was hidden in the original questionnaire. Sorry.";;;20
+;Categories of high-value datasets;;;Degree of progress (from 1 to 5);;;;
+;;Organisational progress;Legal progress ;;Technical progress ;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;
+;Geospatial;4;4;4;3;2;2;
+;Earth observation and environment;4;4;4;3;2;2;
+;Meteorological;4;4;4;3;2;2;
+;Statistics;4;4;4;2;2;2;
+;Companies and company ownership;2;4;4;1;2;2;
+;Mobility;2;3;3;1;2;2;
+10b;"Are there measures in place to assist other stakeholders’ involvement in this prioritisation process?
+
+For justification:
+* If 'yes, other measures', please specify which measures. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes, regular consultations;The Cooperation OGD Austria represents the official forum for exchange and action for regular improvement on open government data. All public sector bodies (ministries, states, cities and municipalities) and stakeholders are welcome to contribute within this framework and the joint implementation of priorities.;Stakeholders could refer to open data reusers (business, civil society) or other actors that might not be direct reusers of the data (e.g. engaged or interested citizens).;;;;10
+10c;"Are the public bodies in your country progressing in denoting relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For justification:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;"A denotation of high value datasets will take place according to national and EU planning. Corresponding information on obligatory denotation has been provided.
+
+response to reviewer:
+The following are the specific aspects of our planning and progress:
+1. Initial Assessment: An audit was conducted to identify datasets that fall under the high-value category as per the EU guidelines. This was completed in Q1 2023.
+2. Internal Guidelines: Public bodies have been issued guidelines detailing how to denote these datasets as high-value in metadata. These were distributed in Q2 2023.
+3. Responsible Entities: for each public body a designated data steward is planned for ensuring that datasets are properly denoted.
+4. Monitoring: Quarterly reviews are planned to assess the progress of this denotation process.
+
+Challenges:
+- One challenge is the need for additional resources to manage and maintain the high-value datasets.
+- Another is ensuring uniformity in metadata across different public bodies.";The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;Please specify how your country is progressing. What are the specifc of the planning?;;;15
+11a;"Are the objectives/actions of the national open data policy/strategy in place in your country in line with one or more of the European Commission priorities for 2019-2024?
+
+For Justification:
+* If yes, which of the following six priorities and how?
+* Multiple answers are possible. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;N/A;Please find for reference the European Commission´s priorities for 2019-2024: https://commission.europa.eu/strategy-and-policy/priorities-2019-2024_en;;;;15
+;Priorities;Yes/No/NA;Action taken to align with the selected priority;;;;0;
+;"A European Green Deal
+Transforming the EU into a modern, resource-efficient and competitive economy, while preserving Europe’s natural environment, tackling climate change and making Europe carbon-neutral and resource-efficient by 2050.";Yes;The Green Data Hub has been founded and is the platform for Austrian and European actors to build a data service ecosystem for Green and Sustainable Data.(https://www.greendatahub.at/?lang=en);Example: Green mobility has been prioritised as high-value dataset.;;;0;
+;"A Europe fit for the digital age
+Embracing digital transformation by investing in businesses, research and innovation, reforming data protection, empowering people with the skills necessary for a new generation of technologies and designing rules to match.";Yes;The Federal Academy of the Public Sector offers trainings for public servants on open data.;Example 1: The strategy explores how open data can be used to foster the digitalisation of public services.                                                                                                                 Example 2: The strategy/policies foresee open data education projects to improve data literacy among citizens.;;;0;
+;"An economy that works for people
+Strengthening the EU economy while securing jobs and reducing inequalities, supporting businesses, deepening the Economic and Monetary Union and completing the banking and capital markets union.";Yes;According to the Digital Action plan, increasing the availability of open data and promoting the re-use of data has an effect on stregthening the economy and on fostering the emergence of new innovative business models.;Example: One of the objectives of my country´s open data policies/strategies is to create economic value by stimulating new buiness opportunities.;;;0;
+;"A stronger Europe in the world
+Strengthening the EU’s voice on the world stage by improving its standing as a champion of strong, open and fair trade, multilateralism and a rules-based global order. Boosting relations with neighbouring countries and partners as well as strengthening the EU’s ability to manage crises based on civilian and military capabilities.";Yes;Austria participates in regular meetings with its neighbours on open data, e.g. with the German speaking countries (DACHLI region).;Example: Gender inequality has been prioritised as high-value dataset.;;;0;
+;"Promoting our European way of life
+Upholding fundamental rights and the rule of law as a bastion of equality, tolerance and social fairness. Addressing security risks, protecting and empowering consumers, as well as developing a system for legal and safe migration while effectively managing the EU’s external borders, modernising the EU’s asylum system and cooperating closely with partner countries.";Yes;We are reflecting on how open data and our efforts should contribute to the creation of common European data spaces.;Example: Migration has been prioritised as high-value dataset.;;;0;
+;"A new push for European democracy
+Strengthening Europe’s democratic processes by deepening relations with the European Parliament and national parliaments, protecting EU democracy from external interference, ensuring transparency and integrity throughout the legislative process, as well as engaging more widely with Europeans in shaping the EU’s future.";Yes;We have established a firm and open relationship with the Austrian Parliament, for example on providing transparent data in the legislative process as well as engaging citizens to participate in the democratic process. The recent DACHLI meeting took place in Parliament.;Example: One of the objectives of my country´s policies/strategies is to increase transparency and facilitate public participation in policy debates.;;;0;
+11b;"Are there any other overarching objectives or specific actions of your country´s open data policy/strategy that you would like to mention?
+
+For justification:
+*  If yes, please specify. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";Yes;Increasing transparency and efficiency in the public sector and opening up the public sector closer to the citizens.;Example: Fight corruption,increase transparency in public administrations.;;;;N/A
+;1.2 Governance of open data;;;;;;;185
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+12;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For justification:
+*  If yes, please briefly explain how this participation is ensured. 
+* If you have a different way of ensuring the participation and/or inclusion of different stakeholders in your country, please select 'not applicable' and explain.";yes;"o The Cooperation OGD Austria represents the essential governance structure in Austria, including the federal level, states, cities and municipalities. 
+o The open data portal data.gv.at is a cooperation project of the Ministry of Finance (BMF) and the 9 federal states with a steering committee and an expert group (cooperation agreement: https://www.data.gv.at/wp-content/uploads/2021/09/data.gv_.at_Kooperationsvereinbarung.pdf)
+o The Federal Ministry of Labour and Economy is responsible for the implementation of the Federal Law on the Re-Use of Information (IWG), including the Implementing Regulation (EU) 2023/138 on high value datasets.";;;;;30
+13;"What is the model used for governing open data in your country? 
+
+For justification:
+*  Could you briefly describe why this model was chosen/works best for your country?";hybrid;"o We follow a hybrid approach, combining top-down management with bottom-up initiatives of the community.
+o Top-down steering from the federal level or the Cooperation OGD safeguards coordinated developments.
+o Bottom-up participation amplifies activities from various actors and provides new impetus.";;;;;N/A
+14;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For justification:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";not applicable;Austria has a federal system that does not allow for coordination beyond the national level.;;;;;20
+15;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For justification:
+* If not applicable, please explain why.";the majority of public bodies;All metadata of regional / local public bodies are published on data.gv.at > more than 1,400 organizations;By initiatives we mean policies, strategies or portals that focus on the respective local/regional level.;;;;15
+16;"Are the governance structure and its operating model (including the people and the team responsbile for open data activities) published online and accessible to the public?
+
+For justification:
+* If yes, please provide the URL where this information is published. ";yes;https://www.data.gv.at/infos/cooperation-ogd-austria/;;;;;20
+17a;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For justification:
+* If yes, please provide the URL where this information is published. ";yes;cooperation agreement for data.gv.at: https://www.data.gv.at/wp-content/uploads/2021/09/data.gv_.at_Kooperationsvereinbarung.pdf ;;;;;20
+17b;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"The Cooperation OGD meets twice a year and discusses strategic and policy issues of OGD in Austria
+
+The Fachgruppe data.gv.at (experts group) holds quarterly meetings. This group includes members from municipal, regional and national level who discuss the further development of the national open data portal.";;;;;20
+18;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For justification:
+* If yes, please describe how this task is fulfilled at public body level.";yes;The Task Force on PSI and Open Data and Cooperation OGD Austria encourage public sector bodies to implement the concept of data officers. Effectively, this depends on the willingness of public sector bodies.;;;;;20
+19;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers? 
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;The Cooperation OGD meets twice a year and discusses strategic and policy issues of OGD in Austria. Participants belong to local, regional and federal organisations, universities, research centres, geo and meteorological organisations, federal computing center and open data associations;;;;;20
+20;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Examples: There are regular Meet-Ups, conferences, or other events organised by the Federal Ministry of Finance (BMF), the Federal Ministry of Federal Ministry of Labour and Economy (BMAW), the City of Vienna, the City of Salzburg, the Austrian Umbrella Organization for Geographic Information (AGEO), Austrian Digital Value (ADV), etc.;Exchanges can take place via formal formats (e.g. round-tables, conferences) or less formal formats (e.g. meet-ups).;;;;20
+;1.3 Open data implementation;;;;;;;162
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+21;"Do data publication plans exist at public body level?
+
+For justification:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"o The City of Vienna has an offical publication plan. Open government data is published quarterly and presented at OGD meet-up events (https://digitales.wien.gv.at/wp-content/uploads/sites/47/2023/04/50-Programm-Open-Data-MeetUp-Wien.pdf)
+o The Federal Act on the Re-Use of Public Sector Information stipulates that each public sector body or public undertaking at federal level needs to nominate an Open Data Coordinator. The coordinators have to implement screenings or publication plans.
+o At federal level a screening of data has been performed in 2017 (OGD-Screening im Bund), checking existing government data regarding its suitability for open government data. As a whole, more than 700 datasets have been identified, many of them having been published soon thereafter. (https://www.data.gv.at/2017/11/03/open-government-data-screening-im-bund-bericht-zu-potentiell-ogd-faehigen-datensaetzen-publiziert/)";For data publication plans we refer to the existence of a specific workflow or internal data management process for publication of datasets. ;;;;20
+22a;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For justification:
+* If yes, please specify the process(es).";yes;o Open Data Coordinators are overseeing open data policies and strategies within their remit. The Chief Digital Officers (CDO) of the minstries hold regular meetings in the formation of a dedicated open government data working group.;;;;;15
+22b;"If yes, would you describe the status of implementation as satisfactory/neutral/unsatisfactory? 
+
+For justification:
+* Please motivate your answer.";neutral;There are no limits to working for and with open data.;;;;;N/A
+23a;"Are there any processes in place to asses if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the re-use of public sector information).
+
+For justification:
+* If yes, please specify the process(es).";yes;The Federal Act on the Re-Use of Public Sector Information stipulates that charging needs to be made transparent. General information by the Federal Ministry of Labour and Economy and the States demand notifying public sector bodies that need to generate income or claim to fall under an exception to the ministry and states.;;;;;15
+23b;If yes [to Q23a], to what degree is data provided by public sector bodies free of charge?;the majority of datasets;N/A;;;;;12
+23c;How has this degree changed compared to the previous year?;increased, or already all datasets;N/A;;;;;10
+24a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For justification:
+* Please briefly describe.";N/A;"o Federal structure of Austria and different speeds of implementation
+o Curation of data
+o Incentivising different players to provide more open data";;;;;N/A
+24b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For justification:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to cope with these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"o Cooperation OGD Austria as a forum for dialogue across different levels of government (federal provinces, cities, regions and municipalities)
+o Assistance offered by the data.gv.at team
+o Ongoing efforts by open data officers, the Cooperation OGD Austria, the data.gv.at team to encourage the opening-up of data";;;;;10
+25a;"Are there any activities in place to assist data providers with their open data publication process?
+
+For justification:
+* If yes, please describe/provide examples of these activities.";yes;"o School of Data of the Administrative Academy of the Federal Government (Verwaltungsakademie des Bundes):
+https://www.vab.gv.at/vab/bildungsprogramm/public-management-und-governance.html
+Link to the curriculum: https://www.vab.gv.at/vab_dokumente/2023/OT-PM_217.pdf?91ojdn
+o The ""KDZ - Zentrum für Verwaltungsforschung"" offers open data trainings for civil servants all across Austria, in particular for regional and local civil servants. (https://www.kdz.eu/de/seminare/21938o1ew23)
+
+response to reviewers: 
+While the School of Data at the Administrative Academy of the Federal Government and the KDZ - Zentrum für Verwaltungsforschung offer training programs for civil servants, they also have specialized modules aimed specifically at assisting data providers with their open data publication process. 
+
+The training courses linked go beyond general data literacy and focus on the skills needed for the collection, management, and publication of open data. Therefore, these are separate from general civil servant training and are aimed at equipping data providers with the tools they need for effective data publication.";E.g. a task force/agency that is in charge of promoting and assisting the data publication process at national and/or regional and local levels (where applicable).;;The same answer is used for Q26a about training civil servants. Please clarify how the training assists data providers (eg training could improve data literacy in a general sense but might not necessarily focus on the collection and publication activities). Please distinguish Q25a and Q26a ;;15
+25b;"Are there activities to assist real-time and/or dynamic data holders in their publication process?
+
+For justification:
+* If yes, please provide some examples of such activities.";yes;"o School of Data of the Administrative Academy of the Federal Government (Verwaltungsakademie des Bundes):
+https://www.vab.gv.at/vab/bildungsprogramm/public-management-und-governance.html
+Link to the curriculum: https://www.vab.gv.at/vab_dokumente/2023/OT-PM_217.pdf?91ojdn
+o The ""KDZ - Zentrum für Verwaltungsforschung"" offers open data trainings for civil servants all across Austria, in particular for regional and local civil servants. (https://www.kdz.eu/de/seminare/21938o1ew23)
+response to reviewers:
+Both the School of Data at the Administrative Academy of the Federal Government and KDZ - Zentrum für Verwaltungsforschung offer specialized training to assist data providers, including those dealing with real-time and dynamic data.
+The given specialized activities are aimed at enhancing the skills necessary for the effective publication of real-time and dynamic data, separate from general data literacy training.";Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time).;;Please include in your answer specific reference to real-time/dynamic data.;;10
+25c;"Are there activities to assist geo-spatial data holders in their publication process?
+
+For justification:
+* If yes, please provide some examples of such activities.";yes;Inclusion of the Federal Office of Metrology and Surveying (BEV) and other geo-data holding institutions across the federal (e.g. the Federal Institute for Geology, Geophysics, Climatology and Meteorology) into the Cooperation OGD Austria and through regular dialogue;Geo-spatial data is data that contains information on properties that are linked to a position on earth.;;;;10
+25d;"Are there activities to assist citizens or their working organisations in the publication of citizen-generated data?
+
+For justification:
+* If yes, please provide some examples of such activities.";yes;"Initiatives by a separately founded ""FAIR Office Austria"" for increasing citizen participation and open science"; Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;;;10
+26a;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For justification:
+* If yes, please briefly describe these training activities.";yes;"o School of Data of the Administrative Academy of the Federal Government (Verwaltungsakademie des Bundes):
+https://www.vab.gv.at/vab/bildungsprogramm/public-management-und-governance.html
+Link to the curriculum: https://www.vab.gv.at/vab_dokumente/2023/OT-PM_217.pdf?91ojdn
+o The ""KDZ - Zentrum für Verwaltungsforschung"" offers open data trainings for civil servants all across Austria, in particular for regional and local civil servants. (https://www.kdz.eu/de/seminare/21938o1ew23)";Ideally such trainings are organised in the frame of the professional development programmes for civil servants and address both data literacy and skills.;;;;15
+26b;"If yes [to Q26a], do these training activities offer a certification that is formally recognised? 
+ 
+For justification:
+* If yes, please briefly describe.";yes;"The Administrative Academy of the Federal Government (Verwaltungsakademie des Bundes) offers a dedicated programme on ""Digital Governance"", including trainings on open government data. (https://www.vab.gv.at/vab/bildungsprogramm/digital-government.html)
+response to reviewers: 
+The Administrative Academy of the Federal Government (Verwaltungsakademie des Bundes) offers a dedicated programme on ""Digital Governance,"" which includes training modules on open government data. Upon successful completion of the program, participants receive a certification that is formally recognized by the Federal Government. This certification serves as a qualification for roles that require expertise in digital governance and data management.";;;Please specify if these programmes lead to a formally recognised cerification/qualification.;;10
+27a;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond public servants? 
+ 
+For justification:
+* If yes, please provide a few examples (e.g. title, date, location of the event and URL).";yes, 3-5;"o Open Data MeetUp Wien, 30.3.2023
+o Open Data Days Vienna 2023, 2./3.3.2023
+o Kulturhackathon 2023, 1.-3.6.2023
+o KDZ-Seminar Open Data Basics 24.5.2023
+";;;;;10
+27b;"Who organises most open data related events?
+ 
+For justification:
+* Please provide a few examples of typical organisers.";local or regional public bodies;"City of Vienna; Austrian Federal Computing Center; Danube University Krems, Chaos Computer Club Vienna, Directorate of the Austrian parliament, OpenGLAM";;;;;N/A
+;Dimension 2: Open Data Impact;;;;;;;540
+;"Assessing the impact of open data is still generally considered a new field, with no consensus, for example, on the definition, or methodologies to measure impact. Nonetheless, there are several elements that are considered essential to demonstrating impact, such as monitoring and measuring the reuse of published open data. Given this, the impact dimension in this questionnaire tries to capture the extent to which countries have been making progress in monitoring the reuse of open data and based on that, in measuring the impact of open data on specific governmental, societal, environmental, and economic challenges of our time. Countries are encouraged to provide, whenever possible, examples of reuse for each impact area/topic. Yet, please note that data.europe.eu does not consider the availability of reuse examples as a direct evidence of impact.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                                                                                                                         ";;;;;;;
+;2.1. Strategic awareness;;;;;;;170
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+28;"Do you have a definition of open data reuse in your country?
+ 
+For justification:
+* If yes, please specify it.";yes;"Stipulated in the Austrian Framework for Open Government Platforms and the White Paper of the Cooperation OGD Austria, referring to the Open Principles and the Creative Commons Licence CC-BY 4.0. (https://www.data.gv.at/anleitung)
+
+response to reviewers:
+In Austria, the definition of open data reuse is stipulated in the Austrian Framework for Open Government Platforms and the White Paper of the Cooperation OGD Austria. It refers to the Open Principles and the Creative Commons Licence CC-BY 4.0. Specifically, open data reuse is defined as the use of data that is freely available to everyone to use, modify, and share for any purpose—subject to the terms specified under the Creative Commons Licence CC-BY 4.0. (Source: data.gv.at)";;;Please also provide the (translated) definition;;10
+29;"Is there interest at national level to observe the level of reuse of open data in your country?
+ 
+For justification:
+* If yes, what activities/efforts have you observed within public bodies that support your observation?";Yes, there is a strong focus;"o Open data activities of the Austrian Parliament (https://www.parlament.gv.at/SERV/OGD)
+o GovCamp events
+o Activities of the regions, e.g. the City of Vienna; e.g. Quarterly Open Data MeetUps of the City of Vienna
+o Information requests (federal-regional-municipal level) within the framework of transposing the Open Data Directive
+o Open Science activities: requests for exchange and the participation in events (e.g. with universities)";"With 'national level' we refer to either central government, federal government, or top ministries.
+Examples of such activities could be regular information sessions and/or promotion of published data at conferences and other events. ";;;;15
+30;"Are there any processes in place to monitor the level of reuse of your country's open data, for example via the national open data portal?
+ 
+For justification:
+* If yes, please briefly describe these processes and provide the URLs to support the answer.";yes;"o The reuse of open government data is being monitored systematically by the number of visitors, downloads, and re-use, through the list of applications on the Austrian Data Portal and by using the web analytics tool Matomo provided by the national data portal: https://www.data.gv.at/application/ 
+o In 2021, an online survey among users of the national portal has been performed: https://www.data.gv.at/2021/01/20/umfrage-gestartet/
+o The City of Vienna performs incremental monitoring and quality checks through its Data Excellence Strategy (circular view on data provision and feedback).";;;;;20
+31;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For justification:
+* If yes, please briefly describe these activities/incentives and provide the URLs to support the answer. ";yes;"o Award of the Austrian Data Governance Conference: https://www.adv.at/eventrueckblick/5-oesterreichische-data-governance-konferenz/
+o The ""KDZ - Zentrum für Verwaltungsforschung"" offers open data trainings for civil servants all across Austria, in particular for regional and local civil servants. (https://www.kdz.eu/de/seminare)
+o FAIR Office Austria: https://forschungsdaten.at/en/fair-data-austria/about-fair-data-austria/";Incentives could for example be training, financial incentives, or awards.;;;;20
+32;"Is your country progressing in preparing to monitor and measure the level of reuse of high-value datasets following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+ 
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;"We intend to measure the emergence of applications by the use of open data and of high value datasets
+
+response to reviewers:
+We are in the process of developing a comprehensive monitoring and measurement system for the reuse of high-value datasets, aligned with the EU Implementing Regulation 2023/138. Our approach includes:
+1. Usage Metrics: Tracking API calls, downloads, and other interactions with the datasets to gauge their utility.
+2. User Surveys: Regularly conducting surveys among developers, businesses, and other stakeholders who might be using these datasets, to gather qualitative data on their impact.
+3. Case Studies: Periodically identifying and publishing case studies that demonstrate how these high-value datasets have been effectively reused in various sectors.
+4.  Economic Impact Analysis: Using metrics like additional revenue generated, jobs created, or efficiencies gained to measure the economic impact of data reuse.
+
+Challenges:
+- Identifying all users and uses of the high-value datasets, especially when they are used indirectly.
+- Establishing a causal link between dataset usage and observed impacts, which is often nuanced and multi-faceted.";The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;;Please specify how you intend to monitor/measure reuse of HVDs;;15
+33;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For justification:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"The Cooperation OGD Austria representing various levels of government has published a guidance on the national open data portal on the impact of open data and on KPI. (https://www.data.gv.at/infos/analyse/) 
+The definition of the impact of open data can be derived from the first paragraph. That means that impacts of open data (or public administration in general) are difficult to caputre in figures. owever, an evidence-based approach requires clearer representations of administrative action. The systematic provision of open data enables better and, above all, automatable representations and is thus an essential component of the digital transformation of the public sector. 
+The impact of the re-use of open data is measured by some KPIs, that are derived, for example, from the findings on the greatest possible impact of and demand for data.";;;;;20
+34;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For justification:
+* If yes, please briefly describe the key points of this methodology.";yes;The impact of open data is measured by applications being created using open data. The list of apps on the Austrian Data Portal is continuously curated (https://www.data.gv.at/suche/?typeFilter%5B%5D=application). Furthermore, the reuse of open government data is being monitored systematically by using the web analytics tool Matomo provided by the national data portal (data.gv.at/stats/).;With methodology we refer to practices, frameworks, methods developed/employed, regardless of their maturity level.;;;;30
+35;"Are there studies that have been conducted in the past year that focus on assessing the impact of open data in your country?
+
+For justification:
+* If yes, please provide examples and the URLs to such studies to support your answer.";yes;"o  Thesis ""Open Data - developments and impacts on organisations in Austria"". Ivan Lazić (2020) (https://epub.jku.at/obvulihs/content/titleinfo/5676861)";;;;;25
+36;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For justification:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;o  Open Data Governance Study, Fachhochschule St. Pölten & Österr. Akademie der Wissenschaften (to be published in autumn 2023);;;;;15
+;2.2 Measuring reuse;;;;;;;110
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+37;"Have any public bodies in your country launched or performed any activities in the past year to map which and how (open) datasets are reused?
+
+For justification:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;;;;;40
+;Type of activity;Mark relevant activties below;Brief description;;;;0;
+;Analysis of log files;No;;;;;0;
+;Automated feedback mechanisms tracking users´ access to datasets;No;;;;;0;
+;Surveys;Yes;Studies on open data (e.g. https://epub.jku.at/obvulihs/download/pdf/5676861?originalFilename=true);;;;;
+;Interviews/workshops with reusers;Yes;Dialogue within the Cooperation OGD Austria;;;;0;
+;Other;Yes;"Developer dialogue (by data.gv.at): Emergence of applications by the use of open data; datahub.tirol: creation of a regional dataspace by the use of open data";;;;0;
+38;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers´needs?
+
+For justification:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;;;;;40
+;Type of activity;Mark relevant activties below;Brief description;;;;0;
+;Regular feedback sessions with portal users ;No;;;;;0;
+;Social media sentiment analysis ;Yes;Data.gv.at team interacts with user community on social media;;;;0;
+;Other;Yes;Exchange within the Cooperation OGD Austria;;;;0;
+39a;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For justification:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;Data.gv.at is gathering info about the creation of apps on the basis of provided open data. This is being performed for the whole of Austria. Source: https://www.data.gv.at/suche/?typeFilter%5B%5D=application;;;;;20
+39b;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For justification:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;"App developers are asked to give active feedback when they are using open data from data.gv.at. Overall, the response is great, thus we have a pretty good picture on use of data ie. the creation of applications. Please see the classification on https://www.data.gv.at/suche/?typeFilter%5B%5D=application
+
+response to reviewers:
+Public bodies in our country have developed a systematic way of classifying the gathered reuse cases. On our open data portal data.gv.at, we categorize reuse cases based on:
+
+ 1. Policy Field: For instance, Environmental, Health, Transportation, etc.
+2. Type of Application: Such as mobile apps, web services, analytics tools, etc.
+3.  Data Source: Identifying which datasets were crucial in each reuse case.
+
+App developers are encouraged to provide feedback when using open data, thus helping us to maintain an up-to-date classification system. More details can be found on data.gv.at search filter for applications.";;;Please clarify how you classify the reuse cases - such as organising/labelling reuse cases by topic/domain/policy field (eg environmental, health, etc).;;10
+;2.3 Created impact;;;;;;;260
+;2.3a Governmental impact;;;;;;;60
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+40;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country? 
+
+For justification:
+* If yes, please specify what kind of data proves this impact and provide the URLs to this data.";No;"1) Since 2018 (constitutional amendmant), the open publishing of procurement data has significantly contributed to increasing the efficiency, accountability and transparency of the government for any new public procurement project. 
+2) A recent constitutional amendment (B-VG Art. 20 Abs 5) stipulates the publication of studies, expert opinion and surveys. This already has significant effects on Open Government and the opening up of data for the public.
+3) The Austrian government has also implemented the Transparency Portal (Transparenzportal) to make information about public spending easily accessible.
+
+response to reviewers: 
+While we do not yet have quantifiable data or specific studies to directly measure the impact of open data on governmental challenges, several mechanisms are in place to gauge its effectiveness:
+
+1. Efficiency and Effectiveness: The open publishing of procurement data is designed to streamline the procurement process and eliminate redundancies. We are in the process of setting up metrics to quantify its impact on efficiency.
+
+2. Transparency and Accountability: The Transparency Portal aims to make public spending easily accessible, thereby promoting accountability. User engagement and public feedback are collected to assess its impact on transparency.
+
+3. Decision-making Capacity: The recent constitutional amendment to publish studies, expert opinions, and surveys aims to improve data-driven policy-making. While specific metrics are being developed, initial feedback indicates a positive impact on decision-making.
+
+We are currently developing methods to systematically measure the impact of these initiatives to provide quantifiable data in the near future.";"The governmental impact is hereby defined as the beneficial effect of the use of open data on three specific challenges faced by the government/public administrations: 1) Being efficient and effective in delivering public services; 2) Being transparent and accountable in their actions; 3) Improving their capacity to make decisions and policies.";The current answer describes stipulates in law. Instead, please provide data that measure the impact created by open data on government challenges.;;;0
+41;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"o The creation of the open ""Basemap Austria"" (www.basemap.at) has created significant impact at various governmental levels, as it is now the reference for many use cases of geo data (e.g. the cartographic layer for mobility apps). It has also shifted business models of various geo institutions (of the states) to cost free reusability.";;;;;15
+42;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"o The legal requirement for public procurement publishing as open data has created significant effects on transparency.
+o The publishing of budgetary information has a considerable effect on transparency
+
+response to reviewers: 
+Open data has had a notable impact on the transparency and accountability of public administrations in our country, as demonstrated by the following reuse cases:
+
+1. Public Procurement Data: The legal mandate to publish all public procurement data has fostered an environment of transparency. Reuse Case: A third-party watchdog organization has developed a web application that tracks and reports any anomalies in public procurement, thereby enhancing accountability.
+
+2. Budgetary Information: The open access to government budgetary information allows citizens and organizations to scrutinize public spending. Reuse Case: A civic tech organization has created a visualization tool that maps out government spending, providing an easy-to-understand view of budget allocations and expenditures.
+
+3. Transparency Portal: This portal has made various government data sets available to the public. Reuse Case: Journalists have used data from this portal to publish investigative articles on government projects, thereby holding public administrations accountable.
+
+These reuse cases have not only increased transparency but also empowered citizens, organizations, and the media to hold public administrations accountable.";;Please describe the reuse cases that demonstrate the outcomes listed;;;15
+43;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"o Statistical COVID-19 data is being used throughout Austria for evidence based policy making. The Austrian Corona Alert Level System is based on publicly available statistical data: https://www.data.gv.at/katalog/dataset/52abfc2b-031c-4875-b838-653abbfccf4e
+
+response to reviewers:
+Open data is playing a critical role in evidence-based policy-making in our country, as demonstrated by the following example reuse case:
+
+COVID-19 Data: The publicly available statistical data on COVID-19 has been instrumental in shaping our pandemic response policies, such as the Austrian Corona Alert Level System. URL: https://www.data.gv.at/katalog/dataset/52abfc2b-031c-4875-b838-653abbfccf4e#resources
+
+This example reuse case demonstrates that open data is not just a tool for transparency but also a valuable resource for formulating policies based on evidence.";;Are there more recent examples of open data having an impact on policy making? Or additional reuse cases as examples?;;;15
+44;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"o The COVID-19 crisis has shown the need for evidence-based policymaking. The use of current data has a considerable effect on policy making in the health sector.
+
+Response to reviewers:
+Open data is being actively utilized for evidence-based decision-making in daily operations within public administrations, as illustrated by the following example reuse case:
+
+COVID-19 Data for Healthcare Allocation: Open data on current COVID-19 cases, hospitalizations, and vaccinations is being used to allocate healthcare resources efficiently. For example, the data helped in deciding where to set up new testing centers or distribute vaccines. URL for COVID-19 Datasets: https://www.data.gv.at/daten/covid-19/";;Please describe open data reuse cases  as examples of the impact described;;;15
+;2.3b Social impact;;;;;;;60
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+45;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country? 
+
+For justification:
+* If yes, please specify what kind of data proves this impact and provide the URLs to this data.";No;"The use of open data has had a positive impact on health and wellbeing in Austria. By providing access to health-related data sets, such as public health statistics and healthcare performance indicators, the government has enabled researchers, healthcare professionals, and the public to gain a deeper understanding of health issues and trends.
+
+response to reviewers:
+The impact of open data on social challenges is particularly evident in the healthcare sector. Open data has empowered important initiatives like
+
+Public Health Monitoring: Open data sets related to public health indicators have been used by researchers to monitor trends in diseases, vaccinations, and other health metrics. This has led to targeted public health interventions. URL: to related datasets: https://www.data.gv.at/daten/covid-19/
+
+This example highlights how open data has been used to make data-driven decisions to address social challenges, specifically in healthcare. The data sets and applications have been crucial for policy-makers, healthcare providers, and civil society to address social inequities in healthcare access and quality.";The social impact is hereby defined as the beneficial effect of the use of open data on four specific challenges for society: 1) Including minorities, migrants, and/or refugees  and reducing inequality, 2) Alleviating housing issues, 3) Fostering health and wellbeing, 4) Improving education.;Please provide a specific description of the impact created by open data on social challenges and link  supporting information.;;;0
+46;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees (e.g. from the Ukrainian war)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"o  Apps developed on the basis of realtime locations of working elevators at public transport stations has had a positive impact on elderly persons and persons with disability. https://www.data.gv.at/katalog/dataset/aac2629e-495d-4468-9c8b-cd9649bd7b5d
+o  Parking Spaces for persons with disabilities in Salzburg: https://www.data.gv.at/katalog/dataset/a01bd054-65f7-4433-b852-6c8f926a4da0
+o  The ""Toilet map app"" and data concerning the location of toilets helps by including marginalized people and handicapped people: https://www.data.gv.at/application/public-toilets-in-vienna-2/
+o Open maps such as the Basemap or public transport apps based on open data offer better routing and navigation for Ukrainian refugees or tourists that have to find their way.
+";;"Only the ""Public Toilets in Vienna"" seems to be a relevant reuse case";;;15
+47;"Is the use of open data in your country having an impact on the society´s level of awareness concerning housing in urban areas? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"There are various apps that have amerged based on open data that contribute to a higher level of awareness and planning concerning housing.
+o  The app “Bodenpreise” shows square meter prices for properties. URL: https://www.data.gv.at/application/bodenpreise-at/
+o  Municipal Housing in Vienna: https://www.data.gv.at/katalog/dataset/827fb7fd-09ac-4c5f-a241-4cc35cc09366
+o  DAttE – Detection of attic extensions. Use of open data to support the search for solutions to the demand for living space: https://www.data.gv.at/application/datte-detection-of-attic-extensions/
+o  Prices for Photovoltaic appliances in Vienna: https://www.data.gv.at/katalog/dataset/651980cd-f66c-4d6f-8612-585d068274ee
+o  Noise Map Graz: https://www.data.gv.at/katalog/dataset/348a0183-b616-46e2-b4bf-d18b34d8d168
+o  Tree Register Vienna: https://www.data.gv.at/katalog/dataset/c91a4635-8b7d-43fe-9b27-d95dec8392a7
+o  Vienna Multifunctional City Map: https://www.data.gv.at/katalog/dataset/80dd5f90-8ed9-49b8-9b6e-d3c40eb46023
+o  App ""Sag's Wien"" (reporting of infrastructure problems): https://www.wien.gv.at/sagswien/
+o  Solar roof cadastre Styria: https://www.data.gv.at/katalog/dataset/859d2768-22b8-48bc-9f74-e921874fea2d
+o  Broadband Atlas Austria: https://breitbandatlas.info/";Data that provides information on the housing market, rental market, property valuations, sales, planning, zoning, census data on socio-economic variables for cities and/or neighbourhoods, other housing issues such as homelessness, empty dwellings, gentrification.;;;;15
+48;"Is the use of open data in your country having an impact on the society´s level of awareness on health and wellbeing related issues (also but not only in light of the COVID-19 pandemic)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"The COVID-19 pandemic has shifted the general awareness of people on data. We are seeing the beginning of an increasd usage of health and wellbeing related apps and indications on increasing willingness for data altruism.
+the data.gv.at survey in 2021 showed that 10% of the visitors are looking for COVID related data sets. 
+https://www.data.gv.at/katalog/dataset/552874f2-c07c-401b-839c-5447c598fcc2/resource/cb928909-b3aa-4515-983d-0ff441b90d68/download/data.gv.at-umfrageergebnisse-2021.pdf  
+since the beginning of the COVID pandemic almost 100 apps have been published in the health category.
+
+response to reviewers:
+The COVID-19 pandemic has notably increased public interest in health and well-being data. Open data has been instrumental in fostering this awareness through various reuse cases:
+
+1. COVID-19 Dashboard: Developed by the government, this dashboard uses open data to provide real-time statistics about COVID-19 cases, testing, and vaccinations. This has significantly raised public awareness and understanding of the pandemic's scope. URL for COVID-19 Dashboard: https://www.data.gv.at/anwendungen/dashboard-zur-corona-schutzimpfung-des-bmsgpk/
+
+2. Air Quality Apps: Civil society organizations have developed applications that use open environmental data to inform the public about air quality levels. This has led to increased awareness about the health implications of air pollution. https://www.data.gv.at/application/ozon/";;Please describe open data reuse cases  as examples of the impact described;;;15
+49;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"o COVID-19 pandemic and general awareness on data
+o Education of civil servants concerning the quality of data
+o Open data and privacy related questions are of high importance to Austrian ctitizens
+
+response to reviewers:
+Open data in Austria is having a notable impact on society's level of education and skills, particularly in data literacy. Below are some examples of reuse cases that substantiate this:
+
+1. Data Literacy Programs in Schools: Educational institutions have started to integrate data literacy into their curriculum. Open datasets are used as educational material for teaching statistics, critical thinking, and data interpretation. 
+
+2. Civil Servants Training: Programs such as the School of Data at the Administrative Academy of the Federal Government provide training to civil servants on how to better understand, use, and publish quality data. This impacts the general quality of public administration and its transparency. School of Data: https://www.vab.gv.at/vab/bildungsprogramm/public-management-und-governance.html
+
+These reuse cases demonstrate how open data is actively being used to elevate the educational level and skills in Austria, especially in the domain of data literacy.";;Please provide support for the reuse cases such as web links to the initiatives;;;15
+;2.3c Environmental impact;;;;;;;60
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+50;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country? 
+
+For justification:
+* If yes, please (1) specify what kind of data proves this impact and (2) provide the URLs to this data. ";No;"o Energy industry input data and scenarios as a basis for the Climate Strategy 2020 and the Monitoring Mechanism 2011: https://www.data.gv.at/katalog/dataset/1130286d-d7a3-4320-b7e1-9e2b8f42761e
+As a basis for the evaluation and revision of the climate strategy and to fulfil the reporting obligation within the framework of the Monitoring Mechanism on the development of greenhouse gas emissions, the Federal Environment Agency calculated two scenarios up to the year 2030
+o Uber Movement: With the Uber Movement platform, travel times on the streets in Vienna can be digitally evaluated and visualized. This enables city planners, authorities and research institutions to gain a sound insight into the city's mobility needs. This allows for better planning of public transport and thus the evasion of traffic for iomproving the environment. The effects of infrastructure measures can be specifically analyzed and evaluated (https://www.data.gv.at/application/uber-movement)
+
+response to reviewers: 
+Open data has shown a tangible impact on environmental challenges, particularly in the realms of climate change mitigation and sustainable urban planning:
+
+1. Climate Strategy 2020 Impact: Open datasets related to energy industry input have informed the Climate Strategy 2020. These datasets have contributed to significant policy shifts that aim to reduce greenhouse gas emissions by 2030. As a result, Austria has set forth initiatives to increase energy efficiency and renewable energy usage. Climate Strategy 2020 Dataset: https://www.data.gv.at/katalog/dataset/1130286d-d7a3-4320-b7e1-9e2b8f42761e
+
+2. Uber Movement's Role in Sustainable Urban Planning: The Uber Movement platform has enabled city planners to optimize public transport routes and encourage sustainable modes of transportation. This in turn contributes to lowering greenhouse gas emissions and mitigating air pollution in urban areas. Uber Movement Platform: https://www.data.gv.at/application/uber-movement/
+
+3. Air Quality Monitoring: Open data on air quality, available to the public, has led to increased awareness and advocacy for reducing air pollution. Public pressure and data-driven insights have impacted policy decisions around industrial regulations and vehicle emissions. Air Quality Dataset: https://www.data.gv.at/katalog/dataset/505a4929-6fb4-4dea-b7ea-048b5789ae29
+
+These examples clearly show the impact that open data has had on environmental challenges, from policy formulation to public participation in environmental conservation.";The environmental impact is hereby defined as the beneficial effect of the use of open data on four specific challenges connected to the environment: 1) Protecting biodiversity (e.g. maintaining a good level of air and water quality), 2) Achieving more environmental-friendly cities (e.g. in terms of transport and waste management), 3) Fighting climate change and connected disasters, 4) Increasing the use of renewable sources of energy.;Currently reuse examples are described. Instead, do you have examples of impact created by open data on environmental challenges?;;;0
+51;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"o Ozone app: https://www.data.gv.at/application/simpleozon/ - The website visualises ozone pollution in the form of a heat map
+o Water quality app: https://www.data.gv.at/application/badegewaesser-app/ - An app displaying the water quality of Austrian bathing waters. 
+o Cooles Wien App: https://play.google.com/store/apps/details?id=at.wien.cooleswien - The app makes it quick and easy to find places to cool off and refresh yourself in the middle of the heated city.
+o Lake Theory Kärnten https://www.data.gv.at/application/laketheory/ - Ranking of Carinthian bathing lakes based on current data such as water temperature, air temperature and weather
+o AQC Air Quality Chain https://www.data.gv.at/application/aqc-air-quality-chain/ - A system for logging, immutable storage and decentralised distribution of environmental measurement data based on blockchain technology.";;;;;15
+52;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"o Waste-related datasets and applications: https://www.data.gv.at/katalog/dataset?tags=Abfall
+o Müll-Checker: https://www.data.gv.at/application/muell-checker/ - The app helps  to separate waste correctly, shows you all the collection points in the area and shows how to save money
+o Transport-related datasets and applications: Radabstellplätze Wien https://www.data.gv.at/katalog/dataset/af8e02b6-1e03-4464-a69b-8533d8703ffe
+o Realtime traffic data. 
+o Public transport maps";;;;;15
+53;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Navigation apps and transport-related datasets and applications contribute to lowering CO2 emissions by the use of public transport or environmental friendly modes of transport: 
+o Wiener Linien Routingservice https://www.data.gv.at/katalog/dataset/9c203fec-dc0d-412c-a7a3-7fd77d0346f1
+o Radabstellplätze Wien https://www.data.gv.at/katalog/dataset/af8e02b6-1e03-4464-a69b-8533d8703ffe
+o tesseyla map (electric charging stations Vienna) https://www.data.gv.at/application/tesseyla-map/
+
+response to reviewers:
+Climate Prediction Models: Open climate data has been used to create predictive models that help policymakers understand the potential impact of climate change in Austria. These models have been instrumental in planning preventive actions such as flood control measures and forest management to combat the effects of climate change.
+https://iiasa.ac.at/projects/aar2-austrian-assessment-report";;Only the tesseyla map seems to be a  reuse case and is more appropriate for Q54. Please provide reuse cases related to fighting climate change.;;;15
+54;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"The use of public transport apps increases the usage of public transport or of city bikes or other environmentally friendly modes of transport and thus contributes to avoiding individual transport and thus significantly reduces the consumption of fossil fuels.
+
+response to reviewers:
+Tesseyla Map: This application uses open data to provide real-time information on electric vehicle charging stations, encouraging the use of electric vehicles and thereby reducing reliance on fossil fuels. https://www.data.gv.at/application/tesseyla-map/
+
+Public Transport Apps: Open data sets about public transportation schedules and routes have been used to create apps that make it easier for people to use public transport, thereby reducing the use of cars that run on fossil fuels. https://www.data.gv.at/katalog/dataset/9c203fec-dc0d-412c-a7a3-7fd77d0346f1
+
+These examples demonstrate the impact of open data in promoting the use of renewable energy and reducing fossil fuel consumption in Austria.";;Please specifc reuse cases, such as the tesseyla map in Q53;;;15
+;2.3d Economic impact;;;;;;;80
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+55;"Is any data on the economic impact (e.g. population employed, innovation and nw businesses created etc.) of open data available in your country? 
+
+For justification:
+* If yes, please (1) specify what kind of data proves this impact and (2) provide the URLs to this data. ";yes;"Open Data is a key resource for the development of the digital economy and knowledge society, in particular for SMEs and startups which are the backbone of Austria's economy. There is an abundance of examples on how the re-use of open data has contributed to innovative solutions.
+o In this regard, please see the overview of applications that have been created by using open government data. https://www.data.gv.at/application/";"The economic impact is hereby defined as the beneficial effect of the use of open data on three indicators of economic growth:  
+1) Level of employment, 2) Uptake of technology and innovation, 3) Level of etrepreneurship and new business created.";;;;20
+56;"Is the use of open data in your country having an impact on the level of employment? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"o Data on the purchasing prices of real estate transactions in Vienna (source: land register), including regulations of the land use and town plan, on-site inspection contribute to housing and have an impact on employment through the use of this data. Real estate transactions in Vienna https://www.data.gv.at/application/real-estate-transactions-in-vienna/
+o Citywalx is working on automated solutions to drastically reduce the time and cost of location research and makes location investigations more efficient. https://www.data.gv.at/application/citywalx/
+
+response to reviewers:
+1. Real Estate Transactions in Vienna: The open data on real estate transactions has spurred business activities in the real estate and construction sectors, leading to job creation for real estate agents, contractors, and civil engineers. URL: https://www.data.gv.at/application/real-estate-transactions-in-vienna/
+
+2. Citywalx: This application streamlines location research for businesses, leading to more efficient decision-making and potentially higher business activities, which in turn can lead to job creation in the sectors benefiting from the app. URL: https://www.data.gv.at/application/citywalx/
+
+3. Job Market Analytics Platforms: Open data sets about labor market trends are used to create platforms that match job seekers with employers more efficiently, thereby potentially lowering unemployment rates. URL: https://www.data.gv.at/application/arbeitsmarktdaten-oesterreich/
+
+These examples illustrate how the use of open data in Austria has the potential to positively influence employment levels by fostering business activities and streamlining job matching processes.";;Please clarify how these reuse case examples relate to the level of employment;;;20
+57;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"In general, open Data has a significant impact on boosting the digital economy and on strengthening innovative capacities, but there is still room for improvement. 
+o Austrian Data Cube: making Earth Observation Data available to researchers, students, etc. (https://acube.eodc.eu/)
+
+response to reviewers:
+1. Austrian Data Cube: The open Earth Observation Data is a fertile ground for researchers and students to innovate in areas such as environmental science, agriculture, and urban planning. This kind of data enables the development of new algorithms and technologies to analyze complex environmental patterns. URL: https://acube.eodc.eu/
+
+2. Open Transport Data: The availability of real-time public transport data has led to the development of various transportation apps, which not only make commuting more efficient but also open avenues for further technological advancements in the transportation sector. URL: https://www.data.gv.at/katalog/dataset/9c203fec-dc0d-412c-a7a3-7fd77d0346f1
+
+3. Open Health Data: Publicly available health datasets have spurred innovation in telehealth and remote monitoring technologies, thereby pushing the boundaries of what's possible in healthcare delivery. URL: https://www.data.gv.at/daten/covid-19/
+
+These cases demonstrate that open data in Austria has fostered innovation by providing raw materials for research and development, thereby encouraging the adoption of new technologies across various sectors.";;Please clarify how these reuse case examples relate to the level of innovation and the adoption of new technologies;;;20
+58;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"In general, Open Data has a positive impact on the level of entrepreneurship and business creation through the reuse of data.
+o Smart City Vienna projects based on open data (https://smartcity.wien.gv.at/site/en/projects/)
+More than 500 open data sets are currently available on the servers of the municipal administration. To date, they have been used to develop more than 300 software applications. From apps to help people with public transport or parking, to visualisations of complex statistics and geodata, to useful tools for tourists and everyday life, the data have yielded an array of different innovations.
+
+response to reviewers:
+1. Smart City Vienna Projects: The availability of more than 500 open data sets has led to the development of over 300 software applications. These have provided opportunities for startups and SMEs to create value-added services, thereby stimulating entrepreneurship. URL: https://smartcity.wien.gv.at/en/projects/
+
+2. Wiener Linien Data: Open data from Vienna's public transport system has spawned a variety of applications that make commuting easier. This has opened up opportunities for small tech companies and individual entrepreneurs to create solutions. URL: https://www.data.gv.at/katalog/dataset/9c203fec-dc0d-412c-a7a3-7fd77d0346f1
+
+3. Open Health Data: The availability of health-related data sets has led to a surge in healthcare startups, including those led by women and minorities. These startups are focusing on areas like telehealth, remote monitoring, and healthcare analytics. URL: https://www.data.gv.at/daten/covid-19/
+
+These cases illustrate that open data is enabling a fertile environment for entrepreneurship, including among women and minorities, and fostering the creation of new businesses, particularly SMEs. ";;Please clarify how these reuse case examples relate to the level of entrepreneurship and business creation;;;20
+;Dimension 3: Open Data Portal ;;;;;;;586
+;"This part of the questionnaire is dedicated to assessing the solution your country chose for making the available open data discoverable. Typically, this is achieved through a national open data portal. 
+For simplicity, the following section will refer to this solution as the “national portal”.    
+Please provide where requested the URLs to the features inquired with the respective question. If access to the feature is restricted (back-end feature, log-in required), please provide a screenshot via e-mail as additional attachment (and note this here in the questionnaire). Please answer the questions below only in relation to the portal you indicated as the national portal of reference. Only URLs documenting the features available on this portal will be considered and scored.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                             ";;;;;;;
+;3.1 Portal features;;;;;;;224
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+59;"Is there a national portal in your country for making open data discoverable? 
+
+For justification:
+* If yes, please provide the URL of the national portal.
+* If no, please describe how you ensure the discoverability of the open data available in your country.";yes;https://www.data.gv.at;;;;;20
+60;Does the national portal offer an advanced data search function (multiple field search, filter options, etc.)?;yes;N/A;;;;;10
+61;Does the national portal offer the possibility for users to download datasets (e.g. via a link)? ;yes;N/A;;;;;10
+62a;Does the national portal offer the possibility for users to search by file format? ;yes;N/A;;;;;10
+62b;Does the national portal offer the possibility for users to search by data domain? ;yes;N/A;;;;;10
+63;"Does the national portal offer to its users a way to programmatically query the metadata (e.g. via an API or a SPARQL access point)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;SPARQL query is available via RDF endpoint https://www.data.gv.at/katalog/catalog.rdf or through the European Dataportal at https://www.europeandataportal.eu/sparql-manager/en/.;;;;;10
+64;"Does the national portal offer documentation on the use of APIs and other tools that enable working with the aforementioned metadata? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;It´s a metadata fieldin each dataset, e.g. used by real time data Vienna https://www.data.gv.at/katalog/dataset/522d3045-0b37-48d0-b868-57c99726b1c4 ;;;;;10
+65;"Does the national portal enable users to provide content for the portal (e.g. to link documentation and supporting materials to a given dataset)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"It´s a metadata fieldin each dataset, e.g. used by adress service Vienna https://www.data.gv.at/katalog/dataset/c223b93a-2634-4f06-ac73-8709b9e16888
+
+response to reviewers:
+While the national portal does not directly allow users to upload content, it does have a metadata field in each dataset that can be used to link to external documentation and supporting materials. This metadata field is typically used by data providers, rather than end-users, to link to relevant documentation, methodology, or other supporting materials that could aid in the understanding or utilization of the dataset.
+
+Example: In the case of the address service dataset from Vienna, a metadata field is utilized to link to additional information: Address Service Vienna Dataset https://www.data.gv.at/katalog/dataset/c223b93a-2634-4f06-ac73-8709b9e16888
+
+While the portal does not have a direct feature for end-users to upload or link supporting materials, it allows data providers to enrich the metadata with links to such content.";An example of such supporting material could be relevant studies or reports associated with the dataset e.g. documenting how the data was produced, the methodology etc.;Please clarify how the portal enables users to provide content for the portal. The example data set does show the metadata, but does not show how users can provide content.;;;10
+66a;"Does the national portal offer a general feedback mechanism for users (e.g. a 'Contact us' or 'Feedback' button that is placed in a visible spot on the portal and would allow users to send a general comment concerning the portal)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"We offer several general feedback channels.
+1) Contact form at https://www.data.gv.at/suche/kontaktformular/, 
+2) email to info@data.gv.at ,
+3) or feedback via social media channels, such as Twitter (@datagvat) or Facebook (Open Data Austria Group) or Mastodon";Please note that a general email address does not count as feedback mechanism in the sense of this question and will not be scored as such.;;;;10
+66b;"Does the national portal offer a feedback mechanism at dataset level? (e.g. a 'feedback button' or a comment/ discussion section under the dataset)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;We are using Disqus as feedback and commenting feature. This feature appears at the bottom of the dataset page when a contact e-mail address is provided for a dataset, e.g. https://www.data.gv.at/katalog/dataset/2c54f4d6-5712-4e5a-a025-b7f7a396c39b. If no e-mail is given, feedback can be provided to the organizational level, which is forwarded to data maintainers.;The feedback mechanism does not include the possibility of a user to send in an email to a general address/the helpdesk.;;;;10
+66c;"Does the national portal provide a mechanism for users to rate datasets?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";No;"Written rating is possible in the comment/ discussion section
+
+response to reviewers:
+The national portal does not currently offer a formal rating mechanism, such as a star system or likes/dislikes, that would provide a summarized user quality rating for datasets. While there is a comment/discussion section where users can provide written feedback, this does not serve as a rating mechanism in the way that the reviewers have defined it.";Such mechanism could be a star rating system or similar voting/rating mechanism.;;"Written comments are suitable for Q66b (a dataset-level feedback mechanism). As a rating mechanism, we expect some form of a summary that easily shows the user quality rating, such as a star system or number of ""likes/dislikes"". ";;0
+67;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://www.data.gv.at/news/;;;;;10
+68;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;RSS: https://www.data.gv.at/infos/rss-feeds/;;;;;10
+69a;"Does the national portal offer the possibility for users to request datasets? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"Access rights for specific datasets or the granting of re-use depend on a case-by-case decision of the respective public sector body. On the national portal, data requests are possible via contact form, email and social media channels (requests are being forwarded to the respective public sector body). According to the Informationsweiterverwendungsgesetz (IWG), a formal request can be placed to the competent public sector body. Data requests (according to the Auskunftspflichtgesetz, Freedom of Information) can also easily be placed via the portal ""Frag den Staat"": https://fragdenstaat.at/ ";Please note also that a specific “Request data” button is meant here. Should the data request function be accomplished by a general help desk contact form that has a specific field for data requests, please describe this as such in the justification box.;;;;10
+69b;If yes [to Q69a], what is the frequency of these requests? ;weekly;N/A;;;;;N/A
+69c;"Are these requests and their progress status presented in a transparent manner on the national portal? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"Please see the portal ""Frag den Staat"": https://fragdenstaat.at/";A transparent presentation of these requests may be a machine-readable file on the national portal, or a separate section on the national portal that lists these requests. By providing a list of these requests, duplication of requests can be avoided, and time saved in filtering and answering these duplicate requests.;;;;10
+70a;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For justification:
+* If yes, please describe how this monitoring is conducted.";yes;The operational team of data.gv.at manages requiests and keeps track of the requests;;;;;10
+70b;If yes [to Q70a], to what degree do these requests result in the publication of the requested data?;few datasets;N/A;;;;;4
+71;"Does the national portal include a discussion forum or any other exchange possibility for users (whether data providers or reusers)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;Yes, data.gv.at uses Disqus for comments and as discussion feature below each dataset to engage users. See e.g. an example under any dataset as here: https://www.data.gv.at/katalog/dataset/69a06550-1ede-4f50-9c36-e7fb5cf6e7e8 or https://disqus.com/;;;;;10
+72;"Does the national portal have a designated area to showcase use cases?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;URL: https://www.data.gv.at/application/;;;;;10
+73;"Does the national portal reference the datasets that the showcased use cases are based on?
+
+For justification:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;"Each use case references the datasets it is based on.
+Application: Water in Vienna
+URL: https://www.data.gv.at/application/wasser-in-wien/
+Description: Find the nearest public water points, swimming pools, bathing places, toilets, drinking fountains, spray showers and dog drinking fountains in Vienna
+Datasets: datasets are listed at the bottom of the page
+This application uses the following datasets/services:
+Drinking fountain locations Vienna (Stadt Wien)
+bathing places locations Vienna (City of Vienna)
+Swimming pools locations Vienna (City of Vienna)
+Public toilets locations Vienna (City of Vienna)
+basemap.at Administrative Base Map Vector Austria (Geoland.at)";;;;;10
+74;"Does the national portal provide the possibility for users to submit their own use cases?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;https://www.data.gv.at/anwendung-einreichen/;;;;;10
+75;"Does the national portal offer a preview function for tabular data?
+
+For justification:
+* If yes, please provide the URL to an example documenting this feature.";No;"Example: Migration flows in Vienna by nationality and gender since 2002 https://www.data.gv.at/katalog/dataset/3b1a5a2b-72fb-430d-bd82-14bcfc3338a1
+
+response to reviewers:
+The national portal typically offers a preview function for tabular data, which allows users to interact with the data before downloading it. However, this feature is currently under maintenance due to a technical issue. We expect this functionality to be restored soon. The feature is part of our commitment to provide a user-friendly experience and facilitate the effective utilization of open data.";;This link does not show a preview function for tabular data. Please clarify how to find the preview function.;Country response: there is technical issues. Reviewer: scored no since last year was no.;;0
+76;"Does the national portal offer a preview function for geospatial data?
+
+For justification:
+* If yes, please provide the URL to an example documenting this feature.";no;;;;;;0
+77;"Following the publication of the implementing regulation (EU) 2023/138 on high-value datasets,  are you progressing in the promotion of such datasets on your national portal (e.g. filtering features and/or editorial features were added, changes were made to navigation...)?
+
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;We are performing a dedicated tagging of high value datasets. On data.gv.at HVD are shown using the following filtering funtion: https://www.data.gv.at/suche/?documentFilter%5B0%5D=HighValueDataset;;;;;20
+;3.2 Portal usage;;;;;;;145
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+78;Is the national portal mobile as responsive as the desktop version?;yes;N/A;Meaning the portal renders well on both mobile and desktop.;;;;10
+79;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For justification:
+* If yes, which tool(s) do you use?";yes;"o For web analysis, we use the tool Matomo, publicly accessible via https://www.data.gv.at/stats
+o In 2021, an online survey among users of the national portal has been performed: https://www.data.gv.at/2021/01/20/umfrage-gestartet/";;;;;15
+80a;"Are traffic and usage statistics used to better understand users´ behaviour and needs and to update the portal accordingly?
+
+For justification:
+*  If yes, what insights did you gain last year from the reviews of these analytics? ";yes;COVID-19 data e.g. as main growth driver for unique visitors;;;;;10
+80b;"Do you perform further activities to better understand users´ behaviour and needs (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For justification:
+* If yes, please specify which activities.";yes;We use the Matomo analytics with custom notifications to trigger email notifications when threshold values are passed;;;;;10
+81a;What is the typical profile of the portal visitor, as learned from activities such as web analytics, surveys, or social media analyses?;a bit of everything, no clear dominant group;N/A;;;;;10
+81b;"Does this profile match the type of audience your national portal wants to cater to?
+
+For justification:
+* If only partially, please specify which audience groups are missing.
+* If no, please briefly explain why.";yes, entirely;;;;;;10
+82;"How many unique visitors visit the national portal on average per month?
+
+For justification:
+* Please fill the average number per month in 2022 and select 'see answer box'. 
+* Please note that if you are a federal/regional state you can indicate the sum of the visitors of all sub-national portals harvested in the national portal.";see answer box;About 30 000 unique visitors per month;Unique visitors refer to the number of distinct individuals accessing pages on the website during a given period, regardless of how often they visit that website. Visits refer to the number of times a website is visited, no matter how many visitors make up those visits.;;;;10
+83;"What percentage of the unique visitors to the national portal is foreign?
+
+For justification:
+* Please fill the percentage  and select 'see answer box'.";see answer box;We measure about 50% of foreign visitors.;;;;;N/A
+84;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For justification:
+* If yes, please briefly describe.";yes;We have an optimized version of Matomo for R&D projects with the aim of showing presonalized recommendations based on the entered keywords.;;;;;10
+85;Do you monitor the most and least consulted pages?;Yes;N/A;;;;;10
+86;"What data categories are the top 5 most frequently consulted on the portal, with 1 being the most popular one? 
+
+For justification:
+* Please indicate 1 = category X, 2 = category Y etc. and select 'see answer box'.";see answer box;"1 Environment
+2 Health
+3 Government & Public Sector
+4 Regions & Cities
+5 Transport";;;;;10
+87;"What datasets are the top 5 most frequently consulted on the portal, with 1 being the most popular one? 
+
+For justification:
+* Please indicate 1 = name dateset X, 2 = name dataset Y etc. and select 'see answer box'.";see answer box;"1 COVID-19 Currently valid vaccination certificates
+2 Tree cadastre of Vienna
+3 Ortho imagery of Austria
+4 Digital terrain model of Austria
+5 COVID-19: Reported COVID-19 cases by state";;;;;10
+88;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For justification:
+*If yes, please briefly describe.";yes;data.gv.at has an on-site SEO optimization plugin which handles metatags for keywords, description etc and also uses a machine-readable sitemap for search engines. Our content published in the blog is also distributed to our social media channels on Facebook, Twitter and Instagram.;;;;;10
+89;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For justification:
+*If no, please briefly explain why.";yes;;;;;;10
+90a;Do you run analytics on API usage, if metadata describing the datasets is accessible via an API?;Yes;N/A;;;;;10
+90b;"If yes [to Q90b], what percentage of outgoing portal traffic is generated by API usage only?
+
+For justification:
+*Please fill the percentage  and select 'see answer box'.";see answer box;0,15;Here we are interested in distinguishing the volume of traffic generated by human users vs the traffic generated programmatically by API usage. We ask for outgoing traffic as it is more relevant than incoming traffic: the former is generated by the enquiries, but the latter by the responses.;;;;N/A
+;3.3 Data provision;;;;;;;87
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+91;"To what degree do public sector data providers contribute data to the portal? 
+
+For justification:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;"According to a general agreement between the federal level, the states, cities and municipalities, all public sector data provided for re-use has to be published via the national data portal data.gv.at. In general, data provision is regulated by existing access regulations (or regulations concerning fees). Austria still lacks a Freedom of Information Law stipulating general access rules. Thus, public sector bodies are not yet obliged to publish data according to existing (sectoral or state) laws. The decision on publishing data effectively relies within the competent public sector bodies. In general, data re-use is granted on a voluntary basis. 
+
+However, current government plannings and the government programme foresee major changes concerning freedom of information. Furthermore, additional concrete improvements are envisaged through the transposition of the EU Open Data and Public Sector Information Directive 2019/1024.
+
+The data.gv.at platform is designed as a metadata aggregation portal. The data (resources) remain with the data holders. The data.gv.at portal serves as single point of access to available data and represents the full picture of Austria with regard to available Open Government Data. However, at the moment it is not possible to ascertain or control from a central perspective whether all public sector data providers contribute data to the portal, neither whether a completeness of all datasets can be achieved. Obviously there is still major potential for improvements, in particular with regard to data being provided by the states, cities and municipalities.
+
+The data.gv.at portal offers a data storage and distribution functionality, above all for small data providers, which allows for an upload of data by the data holders themselves. The contractual basis for the usage of this functionality depends on a number of parameters (eg. file size). The feature is free of charge for smaller file uploads.";Providers at federal, regional or local level, directly or indirectly, via direct uploading or harvesting of metadata. ;;;;12
+92a;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;;;;;10
+92b;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For justification:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"o Handbook: https://www.data.gv.at/wp-content/uploads/Benutzerhandbuch-datagvat-Cockpit.pdf
+o Bilateral meetups with ministries
+o Integration of new data providers in the Cooperation OGD Austria
+o Individual assistance by the data.gv.at team
+";;;;;10
+93a;"Besides the national open data portal, are there other regional and local portals? 
+
+For justification:
+* If yes, please provide a complete list and the links to these portals.";yes;"eg: Tyrol: data.tirol.gv.at; data.graz.gv.at; data.statistik.gv.at; data.vorarlberg.at";;;;;N/A
+93b;"Are regional and local portals listed above [in Q93a] and their data sources discoverable via the national portal? 
+
+For justification:
+* If not applicable, please briefly explain why. ";yes;;;;;;10
+93c;"If yes [to Q93b], to what degree are existing regional and local sources harvested automatically? 
+
+For justification:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";all datasets;;;;;;15
+94a;"Does the national portal include datasets that are real-time or dynamic?
+
+For justification:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;e.g. Vienna public transport (Wiener Linien) real time traffic data https://www.data.gv.at/katalog/dataset/522d3045-0b37-48d0-b868-57c99726b1c4;Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time).;;;;10
+94b;If yes [to Q94a], what percentage of metadata links to such data? ;1-10%;N/A;;;;;N/A
+95;"Does the national portal provide a separate section where non-official data (not stemming from official sources, such as community-sourced/citizen-generated data) can be published? 
+
+For justification:
+* If yes, please provide the URL to this section. ";yes;Non-official data is published on the parallel Open Data Portal (managed by the data.gv.at team) for businesses and NGOs. URL: www.opendataportal.at ;Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;;;10
+96;"Do you have an overview of the data providers (official and non-official) on your national portal? 
+
+For justification:
+* If yes, please list the most important.";yes;Available at https://www.data.gv.at/daten/veroeffentlichende-stellen/;;;;;10
+97;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For justification:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";no;;This function can be useful towards reducing the amount of Freedom of Information requests for data that is transparently justified why it cannot be opened. The national portal might also publish the reasons for preventing publication, e.g. national security.;;;;0
+;3.4 Portal sustainability;;;;;;;130
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+98;"Does the national portal have a strategy to ensure its sustainability?
+
+For justification:
+* If yes, please provide the URL to this document. ";yes;"All provinces and the Federal Ministry of Finance have set up a cooperation contract regulating the finances and the procedures for data.gv.at.
+Data.gv.at is legally foreseen as publication platform for procurement data in Austria.
+URL: https://www.data.gv.at/wp-content/uploads/2021/09/data.gv_.at_Kooperationsvereinbarung.pdf
+";A strategy could be a brief document and/or action plan listing the activities planned to ensure the portal’s sustainability over time.;;;;30
+99;Does this strategy include a description of the portal’s target audience and measures to reach this audience?;yes;;;;;;10
+100;"Is your national portal active on social media? 
+
+For justification:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"https://twitter.com/datagvat
+https://www.facebook.com/groups/opendataaustria
+https://www.instagram.com/data.gv.at/
+https://mastodon.social/@datagvat";By active we refer to an account that publishes new materials at least once a week. A social media presence may include a Facebook, Twitter, LinkedIn account that regularly published open data related content. Ideally a social media account would help promote the open data and more specific portal activities and increase visibility of the open data published on the national portal. ;;;;10
+101;"Do you take actions to promote the national portal’s activities and the available open data (e.g. regular info sessions and/or events)? 
+
+For justification:
+* If yes, please provide at least one example of such activities.";yes;"Events and face to face meetings in and outside the public administration are organised.
+These activities are accompanied by social media activity, promotion at eGovernment events and awareness-raising within the public administration.
+
+Examples:
+* Open Data Days 2023 (2.-3.3.2023) https://digitales.wien.gv.at/open-data-days-2023/
+* https://www.data.gv.at/en/2023/02/14/open-data-days-events-march-2023/
+";Actions could be regular promotion of the portal’s data and activities at events, an active social media presence, organising webinars to present the available datasets, use cases, the portal’s features to the broader public etc.;;;;15
+102;"Are the portal’s source code as well as relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For justification:
+*If yes, please provide (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;Github https://github.com/datagvat;;;;;10
+103;"Was there a user satisfaction survey concerning the national portal conducted in the past year?
+
+For justification:
+*If yes, please briefly describe the key findings gained through this survey.";no;;;;;;0
+104a;"Is there a process by which the portal is reviewed and improved regularly? 
+
+For justification:
+*If yes, please briefly describe this process.";yes;The data.gv.at steering group (Fachgruppe data.gv.at) of all paying organisations (thus including the states) meets regularly is the major forum for discussions on major next steps or improvements.;;;;;15
+104b;If yes [to Q104a], what is the frequency of these reviews? ;quarterly;N/A;;;;;N/A
+104c;"If yes [to Q104a], is the users’ feedback considered in the review process?
+
+For justification:
+*If yes, please briefly describe this process.";yes;User feedback is collected through various channels – ranging from email, twitter, facebook to instagram, Mastodon and personal feedback. This feedback is collected in a central ticketing system and discussed in the steering group meetings if further actions should be taken or not and if yes, in which timeframe the feedback should be implemented.;;;;;10
+105a;"Do you monitor via a dashboard the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;It is possible to monitor these indicators via our web analytics tool (data.gv.at/stats).;;;;;15
+105b;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For justification:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;"o Information concerning Data Publishers: https://www.data.gv.at/daten/veroeffentlichende-stellen/
+o Web Usage Statistics: data.gv.at/stats/
+
+response to reviewers:
+Our monitoring system offers detailed analytics and usage statistics, which allow both the portal team and data providers to gauge the performance and reach of the datasets. The ""Information concerning Data Publishers"" page provides insights into the quality and volume of published datasets, including compliance with DCAT-AP and licensing information. The ""Web Usage Statistics"" section provides real-time metrics on dataset downloads, visits, and interaction, enabling us to identify trends, user needs, and areas for improvement.
+
+These metrics serve as key performance indicators and guide us in making data-driven decisions to enhance the portal's performance, improve dataset quality, and prioritize the publication of high-value datasets. They also enable data providers to fine-tune their data publication strategy in response to user interaction and feedback.";Such mechanisms could refer to statistics that show publishers statistics concerning their data: the volume of published datasets/metadata records, information on quality of publication (formats, DCAT-AP compliance, licensing information), usage statistics such as downloads, visits, or use cases uploaded to the national portal referencing their data.;Please explain how the monitoring enables you to take action to improve the portal performance;;;15
+;Dimension 4: Open Data Quality;;;;;;;560
+;"Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.
+
+In section 4.3 `DCAT-AP Compliance`, the focus is on DCAT-AP exclusively. We are aware that many of the respondents may be compliant with other EU standards, such as INSPIRE. For the purpose of this assessment, only DCAT-AP and its country-specific profiles are relevant.                                                                                                                                                                                ";;;;;;;
+;4.1 Currency and completeness;;;;;;;85
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+106;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For justification:
+* If yes, please briefly describe your approach.";yes;"General Information about best practices is provided on data.gv.at. The Cooperation OGD Austria serves as a forum for continuous exchange and dialogue.
+
+Response to reviewers:
+We have a structured approach to ensure that metadata is kept up-to-date, consistent with the characteristics and requirements of individual datasets. The approach involves several components:
+
+1. Data Stewardship: Each dataset is assigned to a data steward responsible for its upkeep.
+2. Time-Triggered Updates: Some datasets have predefined schedules for updates, which are built into our system to automatically prompt the responsible data steward.
+3.  Event-Triggered Updates: Other datasets are updated when specific events occur (e.g., legislative changes, significant weather events).
+4.  User Feedback Mechanism: Users can report issues with the metadata, which are then reviewed and acted upon.
+5. Cooperation OGD Austria Forum: This serves as a platform for data providers and stakeholders to discuss best practices, challenges, and methods for keeping data and metadata up-to-date.
+6.  Quality Checks: Automated and manual quality checks are performed to ensure metadata accuracy.
+7. Documentation: Best practices and guidelines for metadata updating are documented and provided to all data stewards and contributors.
+
+By combining these methods, we ensure that our metadata is accurate, reliable, and up-to-date, meeting the varying requirements of different types of data.";Please note that a regular updating of metadata refers here to an updating that is in line with the characteristics of the dataset in question. Different datasets have different requirements of currency. For example, a gazetteer of city streets only changes when new buildings and roads are built, or street names are changed, whereas the data on current weather conditions may be updated in quasi-real time.;;Please describe the approach (and/or link to the specific documentation);;20
+107;What percentage of the metadata is obtained from the source automatically, rather than edited manually? ;70-89%;N/A;;;;;15
+108;"What is the average delay from the moment the metadata describing a dataset is updated at your source, and the moment the change is visible on the portal (whether the process is automated or not)?
+
+For justification:
+* What type of data does this mainly concern?";within one week;Metadata of the City of Vienna is usually updated very quickly and within hours. All metadata should be updated within 1 month, e.g. in case of possible manual updates.;;;;;15
+109;Where applicable, to what degree does the published data cover the full period from when it was first published until today? (for example, complete time series whether available for download or through an API);approximately half of the datasets;N/A;This applies both to individual datasets that change in time and to archives of the same dataset, e.g. one every year, every month etc. Administrative geography is an example of data that changes regularly. When new houses are built, new postcodes may be created, and the areas referred by pre-existing postcodes may change. Making available previous versions of a postcode reference file enables the reuser to correctly interpret the meaning of a postcode vs the relevant time context.;;;;15
+110;"Following the publication of the implementing regulation (EU) 2023/138 on high-value datasets, is your country progressing in ensuring interoperability of datasets, in particular high-value ones, alongside the datasets of another country?
+
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;"In conformity with implementing regulation (EU) 2023/138 high value datasets have to be provided in a standardized and interoperable form as default. We will continuosly monitor user feedback and feedback by other Member States or the Commission with regard to providing an adequate level of quality. 
+
+response to reviewers:
+To ensure the interoperability of high-value datasets, especially alongside the datasets of other countries, we have developed a multi-pronged strategy:
+
+1.Standardization: Following the EU guidelines and the implementing regulation (EU) 2023/138, we are standardizing the data structures, formats, and metadata for high-value datasets to ensure cross-border compatibility.
+2. API Development: We are working on the development and deployment of APIs that conform to international standards, allowing for easier data exchange and integration between different countries.
+3. Cross-Border Collaboration: Initiatives are being undertaken to collaborate with neighboring countries and EU member states to create seamless data exchange platforms, particularly for datasets that have cross-border implications.
+4. Quality Assurance: Automated and manual checks are being implemented to ensure that the interoperable datasets maintain a high level of quality and reliability.
+5. User & Stakeholder Feedback: An open channel for user and stakeholder feedback is being maintained to identify issues and make the necessary adjustments.
+6. Legal & Ethical Compliance: Ensuring that cross-border data sharing complies with legal and ethical standards is a priority. Therefore, legal teams are involved to ensure that the data sharing is in line with GDPR and other regulations.
+
+Challenges:
+1. Data Harmonization: One of the challenges is the harmonization of data collected through different methods and standards across countries.
+2. Technical Hurdles: Ensuring that different data platforms can communicate effectively with each other presents technical challenges.
+3. Data Governance: Ensuring that all data providers adhere to the agreed-upon standards and governance models can be difficult.
+4. Resource Constraints: Implementing interoperability solutions requires significant resources, both in terms of manpower and financial investment.";"* The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138
+* Interoperability is the ability to access and process data from different sources and being able to integrate that data for mapping, visualisation, and other forms of representation and analysis.";;Please describe how you plan to do this;;20
+;4.2 Monitoring and measures;;;;;;;145
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+111a;"Do you monitor the quality of the metadata available on your portal?
+
+For justification:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"Data quality checks are possible via platform tools such as bulk exports. An updated ADEQUATE data quality checking instrument for metadata is envisaged (ADEQUATe - Analytics & Data Enrichment to improve the QUAliTy of Open Data).
+
+Response to reviewers:
+We employ a multi-tiered approach to monitor the quality of metadata on our portal:
+
+1. Automated Scans: Our platform conducts automated scans at regular intervalls to assess the quality of metadata. 
+2. ADEQUATe Tool: We are planning to employ the ADEQUATe data quality checking instrument for metadata, which will enable us to perform analytics and data enrichment to improve metadata quality.
+3. User Feedback: We have a feedback mechanism that allows users to report issues with metadata, which are then reviewed and corrected if needed.
+4. Audit and Review: We also perform a manual audit of metadata, especially for high-value datasets, to ensure that they meet quality standards.
+
+By employing these strategies, we aim to maintain the highest possible metadata quality to ensure that our datasets are useful, reliable, and easy to find and use.";;;Please also describe how you use these tools. For example, what is the frequency of the monitoring, what do you do with the results, etc;;20
+111b;"Do you publish information on the quality of the metadata available on the portal?
+
+For justification:
+* If yes, please provide the URL to this section. 
+* If the information is published e.g. as .csv file, please provide the link to this source.";no;;Such information can be made available as visualisations (e.g. the MQA tool of the EDP), or as downloadable file (ideally in .csv format) on the national portal.;;;;0
+112;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in choosing an appropriate licence for their data? 
+
+For justification:
+* If yes, please provide the URLs to these materials and/or tools.";yes;"See our handbook in easy language as a starting point with appropriate weblinks (https://www.data.gv.at/anleitung)
+A new Open Data Folder and Guidance for publishers has been issued in April 2023 by data.gv.at (https://www.data.gv.at/flyer/)";Such guidelines can take the form of a document or tools (a licensing assistant) available on the national portal. An example of such tool is the data.europa.eu Licensing Assistant: https://data.europa.eu/en/training/licensing-assistant.;;;;20
+113;"Did you develop your own open licence/licencing suite to foster the publication of open data in your country?
+
+For justification:
+* If yes, please provide the URL to the document in which this licence is described and briefly describe the main reasons for doing so and the main differences between your country's open licence and the CC licencing suite.
+* If not applicable, please briefly explain why.";No;From the beginning, Austria has chosen the standard licence CC-BY (previously as Austrian edition, since version 4.0 using the global edition) to be used for fostering the publication of any kind of open data.;;;Changed to no in line with justification;;10
+114;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences or of your own licensing suite?
+
+For justification:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* If not applicable, please briefly explain why.";yes, CC licences;"The Austrian Framework for Open Government Platforms serves as official agreement between the federal and state levels. According to this agreement, CC-BY 4.0 is mandatory for Austrian public sector bodies for the publication of  Open Government Data. URL: https://go.gv.at/ogdframeen. See also the national Framework for Open Government Documents (https://go.gv.at/ogdocs).
+
+response to reviewers:
+The use of Creative Commons (CC) licenses, specifically CC-BY 4.0, is mandatory for Austrian public sector bodies for the publication of Open Government Data. This mandate is stipulated in the Austrian Framework for Open Government Platforms, which serves as an official agreement between the federal and state levels. For further details, you can refer to the following URL Austrian Framework for Open Government Platforms: https://neu.ref.wien.gv.at/at.gv.wien.ref-live/documents/20189/68315/Framework_for_Open_Government_Data_Platforms_1.3_fin.pdf/0cfc7d99-feca-447b-8628-e6106ffc84ad. 
+Additionally, the national Framework for Open Government Documents provides similar guidelines: National Framework for Open Government Documents: https://neu.ref.wien.gv.at/at.gv.wien.ref-live/documents/20189/68315/Open_Government_Documents_1.1_fin.pdf/7e1f946f-7498-451c-82c2-2f9939a60fee";;;"Please add if this is mandatory or a recommendation.
+
+Answer from 2022:
+""The Austrian Framework for Open Government Platforms serves as official agreement between the federal and state levels. According to this agreement, CC-BY 4.0 is mandatory for Austrian public sector bodies for the publication of  Open Government Data. URL: https://go.gv.at/ogdframeen. See also the national Framework for Open Government Documents (https://go.gv.at/ogdocs).""";;10
+115;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;;;;;20
+116;How has the percentage of datasets accompanied by licencing information changed compared to the same period last year? ;increased, or already >90%;N/A;;;;;10
+117;Across all datasets you distribute, how many different licences are used on your portal?;1-4;N/A;;;;;10
+118;"Are guidelines and tools provided for data providers to improve the quality of their data publication? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;"See our handbook in easy language as a starting point with appropriate weblinks (https://www.data.gv.at/daten/anleitung-zur-datenveroeffentlichung/)
+This page contains guidance on how organisations should publish open data that it  complies with the open data principlies and is therefore more suitable for reuse.";Guidelines (check-lists) can enable publishers provide their data in open and machine-readable formats (.csv or .xml instead of proprietary non-machine-readable formats). Other tools can assist publishers to clean up the actual data (e.g. OpenRefine, programming languages such as R).;;;;15
+119a;"Are there regular activities conducted or mechanisms in place to incentivise and/or assist data providers in the publication of data in machine-readable formats? 
+
+For justification:
+* If yes, please briefly describe.";yes;"Regular meetings and workshops for public sector bodies and the civil society are being organised by the Federal Ministry of Finance with regard to the Open Data and PSI Directive.
+Data publication is also being addressed at dedicated events with thematic experts. E.g. Open Data Days, Elevate Festival Graz, AGEO Forum, e-Government Conference, JugendHackt, GovCamp, etc. The data.gv.at team individually assists publishers. Information and awareness raising is being conducted through information on the website or through social media.";By ‘regularly’ we mean a bi-annual or at least annual frequency for activities such as e-learning modules and materials, webinars, meetings. Incentivisation can include the promotion of good quality datasets, e.g. featuring them on the portal homepage, showcasing the publishers as best practices at data providers’ events. Assistance can be provided through formal processes (e.g. data audits), training sessions with data providers, other training and/or awareness raising activities (‘roadshows’) etc.;;;;15
+119b;"Are there regular activities conducted or mechanisms in place to incentivise and/or assist data providers in the publication of high-quality metadata?
+
+For justification:
+* If yes, please briefly describe.";yes;"There are regular activities taking place. See our handbook in easy language as a starting point with appropriate further weblinks (https://www.data.gv.at/daten/anleitung-zur-datenveroeffentlichung/)
+Data publication is also being addressed at dedicated events with thematic experts. E.g. Open Data Days, Elevate Festival Graz, AGEO Forum, e-Government Conference, JugendHackt, GovCamp, etc. The data.gv.at team individually assists publishers. Information and awareness raising is being conducted through information on the website or through social media.";By ‘high-quality metadata’ we refer to metadata that provides information in plain language – accurate, current and complete, on all DCAT-AP mandatory fields as well as relevant recommended and optional DCAT-AP fields.;;;;15
+;4.3 DCAT-AP Compliance;;;;;;;175
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+120;"Do you supply data providers with documentation on DCAT-AP (e.g. factsheets, materials published on the EC websites such as the JoinUp platform, or your own documentation)? 
+
+For justification:
+* If yes, please provide examples of this documentation and the respective URLs.";yes;The Austrian metadata standard is fully compliant with DCAT-AP. Austrian Metadata specification 2.6 (https://go.gv.at/ogdmetaen). Explanation of the metadata interface (https://go.gv.at/xmlmeta). A working group on the transition to DCAT has been formed. Against the backdrop of the ongoing working group, we envisage to increase available information on DCAT-AP. ;See https://joinup.ec.europa.eu/;;;;25
+121;"What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource)
+
+For justification:
+* If DCAT-AP is not a priority for the portal, please explain why.";>90%;;For more information, please see https://joinup.ec.europa.eu/catalogue/distribution/dcat-ap-version-11 ;;;;25
+122a;"What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document)
+
+For justification:
+* If the use of recommended classes is not a priority for the portal, please explain why.";>90%;;;;;;20
+122b;"What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency)
+
+For justification:
+* If the use of optional classes is not a priority for the portal, please explain why.";>90%;;;;;;20
+123;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For justification:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";no ;Austria is still in the process of implementing DCAT-AP as national standard.;;;;;0
+124a;Do you investigate the most common causes for the lack of DCAT-AP compliance?;yes;N/A;;;;;25
+124b;"If yes [to Q124a], what are the main causes for the lack of DCAT-AP compliance?
+
+For justification:
+* Please list the most common causes and select 'see answer box'.";see answer box;According to own analyses and the dialogue with the European Data Portal (EDP), the reasons for lack of compliance are due to temporary technical problems, which are usually resolved through dialogue with the European Data Portal and through technical adaptations.;;;;;15
+125a;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;According to the DCAT-AP definition, the ‘download URL’ property contains a URL that is a direct link to a downloadable file in a given format.;;;;20
+125b;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;According to the DCAT-AP definition, the ‘access URL’ property contains a URL that gives access to a distribution of the dataset. ;;;;25
+;4.4 Deployment quality and linked data;;;;;;;155
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+126;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For justification:
+* If yes, please briefly describe.";yes;Austria applies the default 5 star open data quality model to assess the quality of data deployment.;For more information, please visit: http://5stardata.info/en/ or https://joinup.ec.europa.eu/sites/default/files/inline-files/W3C04.pdf.;;;;15
+127;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data (such as promoting the model referenced in the previous question)?
+
+For justification:
+* If yes, please briefly describe.";yes;Yes. There is general continuous encouragement for improved data quality. Furthermore, the Cooperation OGD Austria releases regular information on raising data availabilty and quality. Additionally best practices and experiences of other Member States and public sector bodies are being communicated.;;;;;30
+128a;What percentage of datasets is made available under a standard open licence or an explicit custom open licence, in any data format including text documents? ;>90%;N/A;;;;;20
+128b;Of the percentage indicated in the previous question (Q128a), what percentage of datasets is made available under a standard open licence or an explicit custom open licence, in a structured data format?;>90%;N/A;"Refers to open data that is available on the web under an open licence, in a structured format (=machine-readable format that is proprietary, such as .xls; .xlsx). Please note that formats such as .pdf; .jpeg; .png, .doc(x) are not considered machine-readable formats and should hence not be counted towards this answer.";;;;25
+128c;Of the percentage indicated in the previous question (Q128b), which part is also in an open and machine-readable format?;>90%;N/A;Refers to open data that is published in an open (=non-proprietary) machine-readable format. A non-proprietary format is a format for which a user does not require a proprietary software package (such as Microsoft Office Excel) to explore. An example of an open format is the comma-separated values (CSV) format for tabular data.;;;;25
+128d;Of the percentage indicated in the previous question (Q128c), what percentage of datasets also consistely use Uniform Resource Identifiers?;>90%;N/A;"Refers to open data whose comprising objects are accompanied by unique identifiers. An identifier may be the object’s name (e.g. city name ‘Luxembourg’, or ‘10717’ -- a Berlin postcode), or a word describing the object (‘population’; ‘gender’), or another arbitrary identifier such as ‘XYZ0’, an identifier that makes sense only in the context of that dataset. Choosing identifiers based on known standards should be the common practice though, to facilitate data integration and linked data.";;;;25
+128e;Of the percentage indicated in the previous question (Q128d), what percentage of datasets also links to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;;;;;0
+129;"Do you monitor the improvements in terms of quality of open data deployment?
+
+For justification:
+* If yes, please briefly describe how.";yes;We do internal analysis based on usage data.;;;;;15

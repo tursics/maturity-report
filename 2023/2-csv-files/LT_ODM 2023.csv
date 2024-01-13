@@ -1,0 +1,1227 @@
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+;;;;;;;Total Score:;2373
+;;;;;;;Unsure Score:;0
+;;;;;;;"Preliminary Score: 
+(Total - Unsure)   ";2373
+;Respondent Information;;;;;;;
+;Please provide written information to the question in `Justification` column. Where applicable, select an answer option from the drop-down options in the `Answer` column. ;;;;;;;
+;0.1 Background information;;;;;;;
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+R1;What is your country?;N/A;Lithuania;;;;;N/A
+R2;What is your organisation?;N/A;The Information Society Development Committee (J. Belickas), Ministry of Economy and Innovation (I. Bražinskė);;;;;N/A
+R3;What is your name?;N/A;xxx;;;;;N/A
+R4;What is your position/role?;N/A;xxx;;;;;N/A
+R5;What is your email address?;N/A;xxx;;;;;N/A
+R6;What is the size of national open data team (core team members);N/A;7;;;;;N/A
+R7;How many FTE(s) are in the national open data team?;N/A;7;;;;;N/A
+R8;What is the annual budget of the national portal?;200-400.000 EUR;N/A;This is the annual budget for all portal activities (portal development and maintenance, promotion and awareness-raising activities) of the national portal. This should include the budget for the national portal team, whether an internal team or external contractors.;;;;N/A
+;0.2 data.europa.eu and national open data portals;;;;;;;
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+R9;"Are you satisfied with data.europa.eu as a European single point of access?
+
+For Justification:
+* If you selected 'yes', what do you consider particularly good about data.europa.eu as European single point of access? 
+* If you selected 'no', how would you improve data.europa.eu as European single point of access? ";yes;Leadership and open data initiatives, methodological assistance, dissemination of good practice, specific advice;;;;;N/A
+R10;"Does the portal data.europa.eu reflect the data that your national portals hosts? 
+
+For Justification:
+* If you selected 'no' or 'partially', how would you improve data.europa.eu to better reflect the data on national open data portals like the one in your country?";yes;;;;;;N/A
+;Dimension 1: Open Data Policy;;;;;;;592
+;"Please note that this section differentiates between open data policy and open data strategy. Policy here refers to all principles/initiatives set out to achieve the goals established by the Open Data Directive, including specific national legislation put in place to transpose the EU law. With strategy, on the other hand, we define a document outlining the concrete vision, mission, objectives, measures to be implemented, timeline and responsible. An open data strategy would ideally include information on the open data governance structure and operating model.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                                                                                                                                                                                                                                                                                                                        ";;;;;;;
+;1.1 Policy framework;;;;;;;260
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+1;"Is there a national open data policy in your country and does this include a national legislation for the transposition of the Open Data Directive (if your country is an EU Member State)?
+
+For Justification:
+* If yes, please provide (1) the URL and (2) title of the policy document and briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"POLICY:
+Lithuania has a national open data policy and has reached tangible results in amending legislation in this regard recently. 
+Main legislation on open data policy:
+1) The Law on the Right to Receive Information and Re-use of Data
+https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.94745/asr 
+Amendments to the Law on the Right to Receive Information and Re-use of Data entered into force in July 2021 transposing provisions of the Directive (EU) 2019/1024 on open data and the re-use of public sector information as well as establishing a Model for data opening which obliges institutions to inventory their data to know what data are owned by the state and open the data on user demand. The Law was revised on 01/01/2023.
+https://eimin.lrv.lt/lt/naujienos/atveriami-dideles-vertes-duomenys-paskatins-nauju-produktu-kurima
+2) Description of data opening procedure was approved by the Minister of Economy and Innovation on 01/04/2022
+https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/327dd210495011ebb394e1efb98d3e67/asr
+https://eimin.lrv.lt/lt/naujienos/viesojo-sektoriaus-duomenu-atverimo-procesas-bus-bendras-ir-aiskus
+It ensures the overall data opening process of institutions, the quality of the open data, and favorable conditions for the reuse of data. It determines the data opening activities of institutions: appointment of persons responsible for organizing data opening, data inventory and creation of data sets to be opened, preparation of descriptions of data structure, usage of the State Data Management Information System for data anonymisation, data sets publication on the Lithuanian open data portal and ensuring feedback to open data users. 
+3) Amendments to the Regulations of Lithuanian open data portal were made by Lithuanian Government on 25/03/2022
+https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/6e0d9154391911eabd71c05e81f09716/asr
+https://eimin.lrv.lt/lt/naujienos/verslui-paprastesnes-galimybes-gauti-trukstamu-duomenu
+The essence of these changes is simpler and faster communication between data users (business) and data holders (public sector), as all communication takes place on the portal itself, without the need to write separate requests or inquiries. The business is able to request the missing data directly on the portal, if it cannot be found here. Thus, the data opening process becomes faster and of higher quality .";The answer option 'Other' should be selected by countries that do not have a specific open data policy in place but have a national policy (on data, digitalisation, artificial intelligence, eGovernment or similar) that explicitly includes open data in its text and scope.;;;;30
+2;"Is there a national open data strategy in your country?
+
+For Justification:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"Lithuanian open data ecosystem is based on 4 main elements: 1) strategic documents (STRATEGY), 2) legislation (POLICY), 3) competent bodies/instruments (BODIES), 4) financial measures/projects (PROJECTS).
+STRATEGY:
+Open data governance is one of main priorities of the Lithuanian Government. The Government pays particular attention to the implementation of good data governance and management best practices in the public sector and the widest possible opening and reuse of data, while encouraging the development of business products.  
+
+ - Open data is on the top in the Lithuanian government’s four-year programme – according to the programme, data is the cornerstone behind the government’s decisions and communication. Please see 17-29 paragraphs of the Programme -  https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/973c87403bc311eb8c97e01ffe050e1c 
+
+ - Lithuania’s strategy for open data is part of the plan for the implementation of the provisions of the program of the Eighteenth Government of the Republic of Lithuania. Open data is one of horizontal themes of actions, that are marked in the Plan with the letters AD (open data theme) - https://www.e-tar.lt/portal/lt/legalAct/d698ded086fe11eb9fecb5ecd3bd711c
+Actions of the plan for the implementation of the provisions of the program of the Eighteenth Government of the Republic of Lithuania:
+9.2.2. Develop and submit to the Government the concept of an open data and digital transformation competence center.
+9.2.4. Update the creation, prioritization, monitoring, evaluation and management of open data sets
+methodology - to create incentives and an obligation for authorities to open data.
+9.2.5. Create a state data architecture (centralized descriptions of all data processed in the state), establish its governance model and ensure its implementation.
+9.2.8. To create an ecosystem for assessing and promoting the quality of state information resources, open data and digital transformation.
+9.2.11. Integrate the data of the state information systems and registers in the State Data Management Information System, implement their centralized opening and experimentation platforms (sandbox), ensure efficient exchange of data required for decision-making between institutions and create a mechanism for data anonymisation and aggregation. registers of statistical operators.
+
+ - Data opening, as one of the strategic goals of the Lithuanian state, has also been put forward in the Lithuanian Digitization Development Programme for 2021–2030. The State Digitization Development Program is implemented through 4 measures of progress. One of the measures - Progress instrument no. 05-002-01-07-07 - Promote data availability and reuse, which includes activities financed by the Recovery and Resilience Facility (RRF) plan. 
+https://eimin.lrv.lt/lt/ekonomikos-ir-inovaciju-ministerija/administracine-informacija/planavimo-dokumentai/pletros-programos/valstybes-skaitmeninimo-pletros-programa-1
+
+ - Also, Open Government initiative includes actions for data opening:
+https://www.opengovpartnership.org/countries/lithuania
+https://www.opengovpartnership.org/wp-content/uploads/2021/06/Lithuania_Action-Plan_2021-2023_EN.pdf ";The answer option 'Not applicable' can be selected if e.g. there is no specific strategy in place, but the existing policy refers to the objectives, actions/measures to be implemented, delivery timelines, responsible etc. Should another explanation apply in your case, please provide it in the justification text box.;;;;30
+3;"Has this national strategy/policy been updated in the past 24 months?
+
+For Justification:
+* If yes, please briefly describe the main changes. ";yes;"STRATEGY:
+1) The Lithuanian Digitization Development Programme for 2021–2030 was approved on 17/11/2021 - https://www.e-tar.lt/portal/lt/legalAct/13206c504e8d11ec862fdcbc8b3e3e05
+2) Progress instrument no. 05-002-01-07-07 - Promote data availability and reuse of the State Digitization Development Program was approved 12/07/2022 - https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/6cd26880021911edbfe9c72e552dd5bd?positionInSearchResults=0&searchModelUUID=5d553ff6-9dae-4e88-ad05-0180c9443c0f
+3) The plan for the implementation of the provisions of the program of the Eighteenth Government of the Republic of Lithuania approved on 10/03/2021 - https://www.e-tar.lt/portal/lt/legalAct/d698ded086fe11eb9fecb5ecd3bd711c
+POLICY:
+1) Description of data opening procedure was approved by the Minister of Economy and Innovation on 01/04/2022
+https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/327dd210495011ebb394e1efb98d3e67/asr
+2)  Amendments to the Regulations of Lithuanian open data portal were made by Lithuanian Government on 25/03/2022
+https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/6e0d9154391911eabd71c05e81f09716/asr";;;;;10
+4;"Is there any further open data policy/strategy at regional or local level?
+
+For Justification:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;"The national open data policy is mandatory, but at the same time authorities at local level are allowed to have their own stratagies implementing national policy and national strategy. E.g. Vilnius municipality has its own agenda on open data and its open data web page OPEN DATA - OPEN ALGORITHM - OPEN INNOVATION - https://api.vilnius.lt/ . Vilnius municipality’s open data is used by both municipal employees and residents.
+Other examples:
+The 3D buildings layer of Klaipėda city includes buildings drawn in detail and generated according to the rules, as well as bridges located in the city territory. The attribute information of the layer contains the type of structure (tower, bridge, detailed building, procedural building, ship), height, slope angle, data source, detailed building author, unique identifier of the structure, functional zone information, solar energy potential information. (https://www.arcgis.com/home/group.html?id=e8473edeb12848ef827d656c484a1ce2&view=list#content)";;;;;10
+5;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For justification:
+If yes, please briefly describe the main measures described by the action plan.";yes;"STRATEGY:
+The plan for the implementation of the provisions of the program of the Eighteenth Government of the Republic of Lithuania  (https://www.e-tar.lt/portal/lt/legalAct/d698ded086fe11eb9fecb5ecd3bd711cActions) contains action plan with measures including  deadlines and responsible authorities in the field of open data:
+
+9.2.2. Develop and submit to the Government the concept of an open data and digital transformation competence center. 
+9.2.4. Update the creation, prioritization, monitoring, evaluation and management of open data sets 
+methodology - to create incentives and an obligation for authorities to open data. 
+9.2.5. Create a state data architecture (centralized descriptions of all data processed in the state), establish its governance model and ensure its implementation. 
+9.2.8. To create an ecosystem for assessing and promoting the quality of state information resources, open data and digital transformation. 
+9.2.11. Integrate the data of the state information systems and registers in the State Data Management Information System, implement their centralized opening and experimentation platforms (sandbox), ensure efficient exchange of data required for decision-making between institutions and create a mechanism for data anonymisation and aggregation. registers of statistical operators. 
+9.2.6. Establish a management mechanism for state information resources and digital transformation, ensuring centralized management of creation and development, needs assessment, use of mandatory basic components (rights management, interoperability, classifiers, metadata structures, functional requirements, opening, e-services, etc.), costs and preparation and use of cost-benefit analyzes, identification of managerial responsibilities, and the creation of incentives and obligations for institutions to implement digitization projects.    
+9.2.9. Design the central technical architecture of state information resources and digital transformation, including state information resources, electronic communications networks, state data center technologies, set minimum requirements for its components, mandatory data processing and technological development guidelines, ensure their mandatory application to all newly developed systems and implementation existing systems.                                                                                                                 
+1.5.4. Develop a set of tools to enable researchers to share Lithuanian research results through the European Open Science Cloud and access international research resources (international science databases and infrastructures) and start implementing these tools, etc. ";;;;;25
+6a;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"STRATEGY:
+According to Programme of the Eighteenth Government of the Republic of Lithuania: “Where possible, the Government will make and interpret decisions based on open data. We will ensure timely and orderly communication of open data to citizens and businesses. This would enable people, businesses and scientists to respond quickly and effectively to emerging challenges and to closely participate in decision-making”.
+„RESPONSE TO REVIEWER“: Please see 19 Article at the Programme of the Eighteenth Government of the Republic of Lithuania (https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/973c87403bc311eb8c97e01ffe050e1c). One of Governement‘s targets is that open data would be published and available on real time.
+
+POLICY:
+The Law on the Right to Receive Information and Reuse of Data (https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/77d2b640dd6711eb866fe2e083228059?positionInSearchResults=0&searchModelUUID=cc1dc85c-32fd-4295-a64c-b3ba508bc7fe) transposes the provisions of Directive (EU) 2019/1024 on open data and the re-use of public sector information and includes concrete provisions on the dynamic and real-time data (please see Articles 3(10), 13(5)(6)(7)).
+„RESPONSE TO REVIEWER“: The concept of dynamic and real-time data is defined in the law (Article 3(10)). The law also contains provisions on the provision of information and data: 
+•	Access to variable data is provided through API that allows downloading this data in one go (Article 13(5))
+•	The institution or state-run entity must ensure that the possibility to use dynamic data is provided as soon as it is collected or updated, with the exception of the exception established in paragraph 7 of this article (Article 13(6))
+•	If an institution or a state-controlled entity ensures the possibility of using dynamic data immediately, as soon as it is collected or updated, the financial and technical burden would disproportionately increase, the possibility of re-using these variable data must be provided during such a period or by applying such technical restrictions that would not cause disruptions repeatedly use variable data (Article 13(7))";Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time). ;;"The information under the policy is relevant. Could you please elaborate on the "" concrete provisions on the dynamic and real-time data"" that are mentioned in the current answer?";;15
+6b;"Does the national strategy/policy outline measures to incentivise the publication of and access to geo-spatial data (e.g. in relation to high-value datasets as specified in the implementing regulation (EU) 2023/138)?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"Yes, geo-spatial data is part of our national strategy. We require, that all geospatial data must be provided with proper metadata [1] and according to provided metada, we publish [2] as geometries.
+
+[1] https://atviriduomenys.readthedocs.io/dsa/duomenu-tipai.html#erdviniai-duomenys
+[2] https://get.data.gov.lt/datasets/gov/lhmt/hidrologija/VandensMatavimoStotis
+
+POLICY:
+- According to Article 21 of the Law on Geodesy and Cartography of the Republic of Lithuania (https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.143068/asr), the purpose of the Lithuanian Spatial Information Portal is to manage the metadata of spatial data sets and to provide spatial data sets and related services through one Internet portal (https://www.geoportal.lt/geoportal).  The procedure for managing the Lithuanian spatial information portal and providing spatial data sets to users is established in the Regulations of the Lithuanian Spatial Information Portal approved by the Minister of Agriculture. The Article 22 of the Law sets services provided by the Lithuanian Spatial Information Portal: 1 ) ""search service"" means a search for spatial data sets and services based on the content of certain metadata and the provision of the content of such metadata; 2 ) ""view service"" means to display, browse, zoom in, view a panoramic image or superimpose viewable spatial data sets, display them in a conventional manner and provide relevant metadata content; 3 ) ""download service"" means the downloading and direct access to copies of spatial data sets or parts thereof; 4 ) ""transformation service"" means the transformation of spatial data sets to achieve their interoperability; 5 ) spatial data activation service - to activate other spatial data or services according to one spatial data set or service.  In addition to the electronic services specified in Paragraph 1 of this Article, the Lithuanian Spatial Information Portal may also provide electronic services for the performance of functions related to spatial data sets, as well as for the performance of spatial data processing activities specified in the legal acts of state and municipal institutions.
+In 2020, integrations between Lithuanian open data portal (data.gov.lt) and https://www.geoportal.lt/geoportal were implemented.
+
+- General provisions on publication of high value data sets are set in the Article 16 of the Law on the Right to Receive Information and Reuse of Data ( https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/77d2b640dd6711eb866fe2e083228059?positionInSearchResults=0&searchModelUUID=cc1dc85c-32fd-4295-a64c-b3ba508bc7fe)";"Geo-spatial data is data that contains information on properties that are linked to a position on earth. 
+
+The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138";;;;15
+6c;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For justification:
+* If yes, please briefly describe the measures.";No;"It is possible for citizens to register and provide data same way as other government institutions do, but currently we don't have such cases. We avoid adding generated or derived data as separate datasets and instead, publish such dervied data, as data usecases [1], because we have quite strict quality requirements for datasets and usecases are much easier to publish. In future, we do have plans, to integerate with citizen-generated data such as data from OpenStreenMap project. The OpenStreetMap community is very active and has already done a lot of work [2].
+
+[1] https://data.gov.lt/usecases/examples
+[2] https://openmap.lt/
+https://blog.openmap.lt/category/duomenys/
+https://lists.openstreetmap.org/pipermail/talk-lt/2023-May/002882.html
+
+„RESPONSE TO REVIEWER“:  No";Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;This answer is very interesting for the portal dimension. However, are there any measures in terms of policy/strategy to incentivise the publication of/access to citizen-generated data?;;0
+6d;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For justification:
+* If yes, please briefly describe how.";yes;Yes, all datasets published in our national data portal are synced with the data.europa.eu, but currently we do not publish data usecases, we do not know if data.europe.eu can accept such data.;;;;;10
+7;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"STRATEGY:
+- The Programme of the Government includes the chapter “Open Data” stating: „<...> 18. We undertake to make open data a key element in Government decision-making and communication. We will seek to make it serve as the basis in judging the necessity for decisions, in proposing decision mechanisms and in measuring outcomes. Where possible, the Government will make and interpret decisions based on open data <…>”.
+- The Government Programme’s implementation plan provides the following action - To integrate data of the existing state information systems, realizing their opening and sandboxes, ensuring centralized data necessary for making decisions, efficient exchange between institutions, and creating a mechanism for anonymization and interconnection of data (deadline – 3rd Quarter 2024)
+- Also, Open Government initiative contains measures that promote concepts for data-driven government, policy-making and decision-making 
+https://www.opengovpartnership.org/countries/lithuania
+https://www.opengovpartnership.org/wp-content/uploads/2021/06/Lithuania_Action-Plan_2021-2023_EN.pdf 
+
+All institutions are required to re-use existing data from official registers and we are trying to deduplicate open data by rating if a data field comes from another dataset [1]. All open data are published as a single API service [2] to make re-use of data as easy as possible.
+
+[1] https://atviriduomenys.readthedocs.io/dsa/level.html
+[2] https://get.data.gov.lt/
+
+PROJECTS:
+ - In order to speed up the process of data opening in state institutions, strengthen strategic management processes and data literacy, the Government Chancellery performes a project  financed with the funds of the European Union. Employees of the public sector participate in the dedicated trainings. During the implementation of the project, in April and May of 2022, a survey of employees of the ministries and the Government Chancellery was conducted. During it, it was requested to self-assess the knowledge and abilities of open data and its use. The results of the survey showed that a large part of the respondents are not yet sufficiently familiar with open data management, and rate their knowledge and abilities as average. For this purpose, the Government Chancellery acquired open data management practical skills training services. The training that took place in the fall 2022 provided practical skills in open data management. Around 75 employees of the Government Office and ministries participated in these trainings.
+https://www.delfi.lt/uzsakomasis-turinys/aktualijos/vyriausybes-kanceliarija-siekia-sparciau-tobulinti-atviru-duomenu-valdyma-90667525
+https://www.delfi.lt/uzsakomasis-turinys/premium/duomenu-ir-atviru-duomenu-valdymas-dalis-viesojo-sektoriaus-specialistu-kompetenciju-92395709";These measures should promote concepts such as data-driven government, policy-making and decision-making.;;;;15
+8;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"POLICY:
+The Regulations of the Lithuanian open data portal sets conditions for opening data and managing requests on this portal. The Lithuanian open data portal https://data.gov.lt/ allows businesses and the public to conveniently receive and use data managed by public sector institutions on a one-stop basis. It is envisaged that data not published on this portal will be mandatory to open if such a request from data user is received and such data is not confidential. The responsible institution has to answer the requester within 5 working days from the date of submission of the request, what decision has been taken regarding the opening and submission of the requested data to the portal. The essence is simpler and faster communication between business and public sector data holders, as all communication takes place on the portal itself, without the need to write separate requests or inquiries. The business is able to request the missing data directly on the portal, if it cannot be found here. 
+
+PRACTICE:
+All data is provided in an easy to use and flexible API servcie [1], where all data are normalized, linked together and provided in various formats. Also we periodically do demos [2] with examples, how data can be used and interpreted. We do demos with experts of a field were data comes from.
+[1] https://get.data.gov.lt/
+[2] https://www.youtube.com/watch?v=JQ9nFFHpipI&list=PLtptnWie_iVvLbVihFZIvcErEZz4_Vc08
+
+PROJECTS:
+Additional funding for empowering the use of open data is planned under EU Structural Funds investments for the period 2021-2027. The project aims to encourage the use of open data by businesses so that demand-driven data from public authorities are used to develop innovative solutions and digital services. Accordingly, the following activities are formulated in the project: 
+•	Performance of joint public-private initiatives for the use of open data (show-case of use examples);
+•	Business investments in the development of new innovative solutions using open data;
+•	Business investments in the development of new digital services using open data;
+The activities for the implementation of the measure are performed for the period 2021-2027. Funding is planned to be allocated through a call for proposals, with a joint call for proposals for all three of the above activities.
+
+Generally, Lithuanian legislation does not oblige private businesses to open data, but also does not prohibit it. Business representatives can use all learning material and data opening tools, and some of them open data sets on their own initiative and publish them on the Lithuanian Open Data Portal - https://data.gov.lt/dataset/automatizuotu-buitiniu-vartotoju-valandiniai-duomenys-agreguoti-pagal-regiona.";These measures could promote concepts such as smart cities and/or regions, but also new business development (in particular Small - and Medium-sized Enterprises), entrepreneurship etc.;;;;15
+9a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For justification:
+* If yes, please briefly specify.";yes;"POLICY:
+The legal amendments address obligations on opening relevant data and seek to increase reuse of publicly funded information and to bring the legislative framework up to date with the advances in digital technologies. The Law on the Right to Receive Information and Reuse of Data (https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/77d2b640dd6711eb866fe2e083228059?positionInSearchResults=0&searchModelUUID=cc1dc85c-32fd-4295-a64c-b3ba508bc7fe) establishes Data opening model which obliges institutions to inventory their data to know what data are owned by the State and open data on user demand (Article 15 of the Law). ";A data inventory is a comprehensive catalogue of datasets held by an organisation.;;;;15
+9b;"If yes [in Q9a], do these data inventories also include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For justification:
+* If yes, please briefly specify.";yes;"PROJECTS:
+ - In the begining of 2023, the State Data Agency started performing a project ""Integration of state data into the Data lake"" financed from the Recovery and Resilience Facility plan. Until 2026 summer, all the most important data managed by the state will be inventoried and integrated into a common data lake - the State Data Management Information System (VDV IS). In this space, data is managed from the beginning - its collection - to the end - use for legitimate purposes and opening in the Lithuanian open data portal. More than 18.7 million euros have been earmarked for this purpose.
+https://eimin.lrv.lt/lt/naujienos/1-mlrd-lietuvos-ekonomikai-valstybes-duomenu-integracijai-i-duomenu-ezera-beveik-19-mln-euru
+https://www.stat.gov.lt/projektas-valstybes-informaciniu-istekliu-integravimas-i-duomenu-ezera
+
+POLICY:
+ - It is decided that the State Data Agency will permorm functions as competent body under Article 7 of DGA to assist the public sector institutions which grant or refuse access for the re-use of certain categories of protected data. Currently, the project of legal act authorizing the State Data Agency to act as a competent body is under preparation.";The Data Governance Act (EU) 2022/868 seeks to increase trust in data sharing, strengthen mechanisms to increase data availability and overcome technical obstacles to the reuse of data. It also aims to support the set-up and development of common European data spaces in strategic domains, involving both private and public players, in sectors such as health, environment, energy, agriculture, mobility, finance, manufacturing, public administration and skills. The Data Governance entered into force on 23 June 2022 and, following a 15-month grace period, will be applicable from September 2023. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R0868;;;;10
+10a;"Has your country started working towards the application of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Justification:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.
+";yes;N/A;The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;"Kindy fill in the column ""Publications of HCD in machine-readable formats via APIs"" in the table below. This column was hidden in the original questionnaire. Sorry.";"Note provided: The Ministry of Economy and Innovations encourages public sector institutions to prepare for the publication of high-value datasets. The Ministry of Economy and Innovations together with the Information Society Development Committee and state institutions have carried out the initial inventory of high-value datasets. High-value datasets will be opened in priority order by the State Data Agency during the project, which is funded by recovery and resilience plan for Lithuania, until 31.03.2024. 
+In the new version of the open data portal, the possibility to assign a data set to a high-value data group or its separate subgroup is implemented.";;20
+;Categories of high-value datasets;;;Degree of progress (from 1 to 5);;;;
+;;Organisational progress;Legal progress ;;Technical progress ;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;
+;Geospatial;3;2;3;2;4;4;
+;Earth observation and environment;4;3;3;3;4;4;
+;Meteorological;4;3;3;2;4;4;
+;Statistics;4;3;3;3;4;4;
+;Companies and company ownership;4;3;3;3;4;4;
+;Mobility;3;3;3;1;4;4;
+10b;"Are there measures in place to assist other stakeholders’ involvement in this prioritisation process?
+
+For justification:
+* If 'yes, other measures', please specify which measures. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes, regular consultations;"POLICY:
+ - The national Model for opening data, established by legal acts, is based on data User demand - https://eimin.lrv.lt/lt/veiklos-sritys/skaitmenine-politika/atviri-duomenys-1. Under the Model, all institutions are obliged to open data on User demand registered at the Portal. In case there is no data, that Users need, Users are encouraged to register their request at the same portal  - https://data.gov.lt/requests/submitted. All communication related to open data requests is performed on the Lithuanian open data portal, and is publicly visible.
+https://data.gov.lt/news/34
+PROJECTS:
+The Information Society Development Committee carries out regular consultations with public bodies on preparation of prioritized list of open data sets. The Committee works on the second stage of the project on data opening. During the project, the list of more than 500 prioritized open data sets was prepared in collaborations with 50 data owners – all these datasets will be open till September 2023. 
+https://data.gov.lt/news/33";Stakeholders could refer to open data reusers (business, civil society) or other actors that might not be direct reusers of the data (e.g. engaged or interested citizens).;;;;10
+10c;"Are the public bodies in your country progressing in denoting relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For justification:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;"POLICY:
+The provisions regarding HVD were added into the Article 16 of the Law on the Right to Receive Information and Reuse of Data (https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.94745/asr), setting that the list of specific high-value datasets belonging to the categories set out in Annex of Directive (EU) 2019/1024 should be accessible under specific conditions outlined in the Directive and Article 16 of the national Law. 
+In addition, after the draft of Implementing Regulation was issued in May 2022, the Ministry of Economy and Innovation sent a formal letter to the authorities, that hold high-value datasets belonging to the categories set out in Annex of Directive (EU) 2019/1024 and listed in the draft of Implementing Regulation, informing about consultation held by EC as well as asking to let the Ministry of Economy and Innovation know on their preparedness to publish the data.
+The Ministry of Economy and Innovation encorouges public sector institutions to prepare for the publication of high-value datasets. The Information Society Development Committee coordinates the publication of high-value datasets and currently is collecting information on already published HVD. 
+https://eimin.lrv.lt/lt/naujienos/rengiamasi-atverti-dideles-vertes-duomenis
+
+August Update
+Note provided: The Ministry of Economy and Innovations encourages public sector institutions to prepare for the publication of high-value datasets. The Ministry of Economy and Innovations together with the Information Society Development Committee and state institutions have carried out the initial inventory of high-value datasets. High-value datasets will be opened in priority order by the State Data Agency during the project, which is funded by recovery and resilience plan for Lithuania, until 31.03.2024. 
+In the new version of the open data portal, the possibility to assign a data set to a high-value data group or its separate subgroup is implemented.";The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;;;;15
+11a;"Are the objectives/actions of the national open data policy/strategy in place in your country in line with one or more of the European Commission priorities for 2019-2024?
+
+For Justification:
+* If yes, which of the following six priorities and how?
+* Multiple answers are possible. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;N/A;Please find for reference the European Commission´s priorities for 2019-2024: https://commission.europa.eu/strategy-and-policy/priorities-2019-2024_en;;;;15
+;Priorities;Yes/No/NA;Action taken to align with the selected priority;;;;0;
+;"A European Green Deal
+Transforming the EU into a modern, resource-efficient and competitive economy, while preserving Europe’s natural environment, tackling climate change and making Europe carbon-neutral and resource-efficient by 2050.";No;;Example: Green mobility has been prioritised as high-value dataset.;;;0;
+;"A Europe fit for the digital age
+Embracing digital transformation by investing in businesses, research and innovation, reforming data protection, empowering people with the skills necessary for a new generation of technologies and designing rules to match.";Yes;"Actions of the plan for the implementation of the provisions of the program of the Eighteenth Government of the Republic of Lithuania (https://www.e-tar.lt/portal/en/legalAct/d698ded086fe11eb9fecb5ecd3bd711c): 
+1.5.4. Develop a set of tools to enable researchers to share Lithuanian research results through the European Open Science Cloud and access international research resources (international science databases and infrastructures) and start implementing these tools
+11.6.16.	Improve the process of financial intelligence by using artificial intelligence for data analysis
+9.2.6. Establish a management mechanism for state information resources and digital transformation, ensuring centralized management of creation and development, needs assessment, use of mandatory basic components (rights management, interoperability, classifiers, metadata structures, functional requirements, opening, e-services, etc.), costs and preparation and use of cost-benefit analyzes, identification of managerial responsibilities, and the creation of incentives and obligations for institutions to implement digitization projects.
+9.2.9. Design the central technical architecture of state information resources and digital transformation, including state information resources, electronic communications networks, state data center technologies, set minimum requirements for its components, mandatory data processing and technological development guidelines, ensure their mandatory application to all newly developed systems and implementation existing systems
+";Example 1: The strategy explores how open data can be used to foster the digitalisation of public services.                                                                                                                 Example 2: The strategy/policies foresee open data education projects to improve data literacy among citizens.;;;0;
+;"An economy that works for people
+Strengthening the EU economy while securing jobs and reducing inequalities, supporting businesses, deepening the Economic and Monetary Union and completing the banking and capital markets union.";Yes;"Actions of the plan for the implementation of the provisions of the program of the Eighteenth Government of the Republic of Lithuania: 
+10.3.2. Increase the potential of data analytics and optimize the profiling of high-risk entities, in particular by implementing the necessary organizational and technical measures to reduce the VAT gap
+10.3.4. Prepare and adopt amendments to the Law on Accounting and the Law on the Valuation Framework for Assets and Business to increase transparency, traceability and reliability of data
+10.3.5. Ensure the opening and exchange of data in the areas of insolvency, asset valuation, accounting, so that the application of these data creates an unfavorable environment for the shadow, to implement the necessary technical and organizational measures
+10.3.8. To adopt the Government's decision on the data analysis and competence center of the Data Analysis and Competence Center for the reduction of the shadow economy at the national level, taking into account the assessment carried out by the Ministry of Finance";Example: One of the objectives of my country´s open data policies/strategies is to create economic value by stimulating new buiness opportunities.;;;0;
+;"A stronger Europe in the world
+Strengthening the EU’s voice on the world stage by improving its standing as a champion of strong, open and fair trade, multilateralism and a rules-based global order. Boosting relations with neighbouring countries and partners as well as strengthening the EU’s ability to manage crises based on civilian and military capabilities.";No;;Example: Gender inequality has been prioritised as high-value dataset.;;;0;
+;"Promoting our European way of life
+Upholding fundamental rights and the rule of law as a bastion of equality, tolerance and social fairness. Addressing security risks, protecting and empowering consumers, as well as developing a system for legal and safe migration while effectively managing the EU’s external borders, modernising the EU’s asylum system and cooperating closely with partner countries.";Yes;"Actions of the plan for the implementation of the provisions of the program of the Eighteenth Government of the Republic of Lithuania: 
+8.4.1. Carry out an analysis of the current situation (practice) in the field of anti-corruption assessment of draft regulatory enactments and develop methodological guidelines for an effective mechanism for implementing the measure";Example: Migration has been prioritised as high-value dataset.;;;0;
+;"A new push for European democracy
+Strengthening Europe’s democratic processes by deepening relations with the European Parliament and national parliaments, protecting EU democracy from external interference, ensuring transparency and integrity throughout the legislative process, as well as engaging more widely with Europeans in shaping the EU’s future.";Yes;"Actions of the plan for the implementation of the provisions of the program of the Eighteenth Government of the Republic of Lithuania: 
+8.1.5. Establish a common public consultation communication at government level: on the website “E.citizen” to create the preconditions for establishing the sequence of the public consultation process, to actively involve stakeholders and provide feedback, as well as to prepare and publish a list of the Government's planned real-time public consultations on the most important issues of the Plan.
+ 9.1.6. Evaluate the existing mechanism of coordination and implementation of open government initiatives, create an open government development model operating in the public sector on the basis of evaluation";Example: One of the objectives of my country´s policies/strategies is to increase transparency and facilitate public participation in policy debates.;;;0;
+11b;"Are there any other overarching objectives or specific actions of your country´s open data policy/strategy that you would like to mention?
+
+For justification:
+*  If yes, please specify. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";Yes;"All public data inventory and Model of state data architecture are planned and performed under RRF data reform and the Plan for the implementation of the provisions of the program of the Eighteenth Government of the Republic of Lithuania approved on 10/03/2021 (https://www.e-tar.lt/portal/en/legalAct/d698ded086fe11eb9fecb5ecd3bd711c). The aim of the reform is to ensure the availability of reliable public sector data, the possibility to share it, the possibilities for re-using the data and to create the preconditions for data-driven public policy as well as digital innovation in the private sector. 
+
+Office of the Governance of the Republic of Lithuania strengthenes the (open) data analyst forces. There is established Analytics and Sustainable Governance Unit. (https://lrvk.lrv.lt/lt/struktura-ir-kontaktai/vyriausybes-kanceliarijos-kontaktai-1) Also, the Government is encouraging the establishment of data analyst units in ministries.
+
+PROJECTS:
+Over the period of 2023-2026, Lithuania will invest around 30M EUR to upgrade the data architecture and e-services of the governmental IT systems. The national data model will describe the data stored in every IT system. It will help raise the overall data maturity level and will be useful when constructing new IT solutions. New-generation digital service platform will enable construction of modern, user-friendly digital services that follow the once-only principle. It will also implement the European Union’s Single Digital Gateway concept, which allows EU citizens to access cross-border digital services through unified identification and data exchange services. After completing these projects, Lithuania will have a significantly improved infrastructure for building new-generation data-driven digital solutions.";Example: Fight corruption,increase transparency in public administrations.;;;;N/A
+;1.2 Governance of open data;;;;;;;170
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+12;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For justification:
+*  If yes, please briefly explain how this participation is ensured. 
+* If you have a different way of ensuring the participation and/or inclusion of different stakeholders in your country, please select 'not applicable' and explain.";yes;"POLICY:
+- Requirement for communication with stakeholders (data users) is set in Description of data opening procedure approved by the Minister of Economy and Innovation (https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/327dd210495011ebb394e1efb98d3e67/asr). All communication between data users and institutions takes place on Portal publicly (please see Articles 8.5 and 9 of the Order https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/327dd210495011ebb394e1efb98d3e67/asr).
+
+In September 2022, the Ministry of Economy and Innovation together with Information Society Development Committee and State Data Agency have launched an initiative ""Open Data Club"" inviting the data opening coordinators of all ministries to the periodical meetings. The purpose of such meetings is to share experiences and challenges in opening the data of ministries and their subordinate institutions as well as to meet with stakeholders. 
+https://www.facebook.com/ekonomikosministerija/posts/pfbid0XvPWCLJ8gERYj1RV85wdR3c9u8qEkrHhw7AF84Smo81ZsSGybfUSDbV2o7hwuzG1l 
+https://data.gov.lt/news/31
+https://www.stat.gov.lt/home/-/asset_publisher/lbrXvLVHX2ln/content/tesiame-atviru-duomenu-klubo-veikla?inheritRedirect=false&redirect=https%3A%2F%2Fwww.stat.gov.lt%2Fhome%3Fp_p_id%3D101_INSTANCE_lbrXvLVHX2ln%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1
+https://www.facebook.com/ekonomikosministerija/posts/pfbid02kkSFmtQWEALHA4hMzGSjLYpXj9KKy72bKDZ1MVrUSX7RS8picKXTeds8wDx3VCCwl
+https://www.linkedin.com/posts/lina-giedraitien%C4%97-90a3a74a_opendata-collaboration-redcarpet-activity-7062851263012466688-XZi0?utm_source=share&utm_medium=member_desktop";;;;;30
+13;"What is the model used for governing open data in your country? 
+
+For justification:
+*  Could you briefly describe why this model was chosen/works best for your country?";hybrid;"BODIES:
+•	The Ministry of the Economy and Innovation is the main actor in charge of open data policy making including the following activities: 1) preparation of legal acts setting up principles and processes in the field of open data, 2) construction of financial measures for data opening and promotion of the use of open data (RRF reform, EU Structural Funds investments for the period 2021-2027, the state budget), 3) providing political messages on open data, 4) work with stakeholders, 5) coordination of Data opening coordinators network activities (Open Data club), 6) international cooperation, etc.
+https://eimin.lrv.lt/lt/veiklos-sritys/skaitmenine-politika/atviri-duomenys-1
+•	Information Society Development Committee is a body under the Ministry of Economy and Innovation, which is in charge of implementing open data policy including the following activities: 1) maintenance and development of the Lithuanian open data portal, 2) performing a project during which till September 2023 more than 500 new high-demand datasets from 50 public sector institutions will be opened, 3) administrative and technical consultations and help for institutions on data opening process, 4) promotion of open data, 5) cooperation with institutions’ Data opening coordinators and open data users, 6) ensuring the opening of the requested data, 7) analysis of the impact of open data, etc. 
+https://ivpk.lrv.lt/lt/veiklos-sritys-1/duomenu-atverimo-koordinavimas
+•	State Data Agency is responsible for a centralized data opening scheme. Data sets of state institutions are processed and opened centrally through the State Data Management Information System managed by the Agency, which ensures standardized anonymization and quality of data. 
+•	In addition, all public bodies are obliged to appoint a person responsible for organizing the opening of the authority’s data, the “Open data Coordinator”. The assigned coordinator has to ensure the process of opening of data, its supervision and compliance with the requirements laid down in the legislation.  
+
+Under the Model for opening data (https://eimin.lrv.lt/lt/veiklos-sritys/skaitmenine-politika/atviri-duomenys-1) all institutions are obliged to open data on user demand registered at the Portal as well as on their own decision. In case there is no data opened on the Portal, Users are encouraged to register their request here https://data.gov.lt/requests/submitted. Institutions are obliged to open data on User demand and all communication related to open data goes through the Lithuanian open data portal and is publicly visible under the updated law’s provisions. 
+Ministry of Economy and Innovation and Information Society Development Committee are responsible for promoting the Model for opening data and encouraging institutions to open data as well as data Users to register their needs at the Portal this way obliging institutions to open most valuable data.
+";;;;;N/A
+14;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For justification:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";yes, some initiatives;"Under new Model for opening data (https://eimin.lrv.lt/lt/veiklos-sritys/skaitmenine-politika/atviri-duomenys-1) established in 2021, all institutions are obliged to open data on user demand registered at the Portal as well as on their own decision. In case there is no data opened on the Portal, Users are encouraged to register their request here https://data.gov.lt/requests/submitted. Institutions are obliged to open data on User demand and all communication related to open data goes through the Lithuanian open data portal and is publicly visible under the updated law’s provisions. 
+Ministry of Economy and Innovation and Information Society Development Committee are responsible for promoting the Model for opening data and encouraging institutions to open data as well as data Users to register their needs at the Portal this way obliging institutions to open most valuable data.
+During a project „Strengthening Results Oriented Management Capacities“  it is prepared and distributed  newsletters with a separate section containing current affairs and news about open data (https://lrvk.lrv.lt/lt/apie-vyriausybes-kanceliarija/lrvk-projektu-portfelis/igyvendinami-projektai/valdymo-gebejimu-stiprinimas/naujienlaiskiai). These newsletters are distributed to regional municipalities that they would be informed about national and international  progress in open data.";;;;;10
+15;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For justification:
+* If not applicable, please explain why.";approximately half of the public bodies;;By initiatives we mean policies, strategies or portals that focus on the respective local/regional level.;;;;10
+16;"Are the governance structure and its operating model (including the people and the team responsbile for open data activities) published online and accessible to the public?
+
+For justification:
+* If yes, please provide the URL where this information is published. ";yes;https://eimin.lrv.lt/lt/veiklos-sritys/skaitmenine-politika/atviri-duomenys-1;;;;;20
+17a;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For justification:
+* If yes, please provide the URL where this information is published. ";yes;"Description of data opening procedure approved by the Minister of Economy and Innovation determines the responsabilities of competent authorities in the field of open data. Please see paragraphs 3, 4, 5.
+https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/327dd210495011ebb394e1efb98d3e67/asr
+https://eimin.lrv.lt/lt/naujienos/viesojo-sektoriaus-duomenu-atverimo-procesas-bus-bendras-ir-aiskus
+
+Contacts of competent authorities are published here - https://eimin.lrv.lt/lt/veiklos-sritys/skaitmenine-politika/atviri-duomenys-1";;;;;20
+17b;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"National open data team consists of 3 main actors: 1) the Lithuanian Ministry of the Economy and Innovation, which is responsible for open data policy making and construction of financial measures, 2) Information Society Development Committee which is responsible for implementing open data policy and maintenance of the Lithuanian open data portal, 3) State Data Agency, which is responsible for a centralized data opening scheme and standardized anonymization of data. 
+In conclusion, open data is a horizontal area where activities (including daily communication, exchanging  of knowledge) of responsible policy making and policy implementing authorities go hand in hand in order to reach target audience and set goals.
+
+""Open Data Club"" is an initiative connecting 3 main actors and additionaly including the data opening coordinators of all ministries to discuss relevant topics and exchange experiences in the field of open data: 
+https://www.facebook.com/ekonomikosministerija/posts/pfbid0XvPWCLJ8gERYj1RV85wdR3c9u8qEkrHhw7AF84Smo81ZsSGybfUSDbV2o7hwuzG1l 
+https://data.gov.lt/news/31
+https://www.stat.gov.lt/home/-/asset_publisher/lbrXvLVHX2ln/content/tesiame-atviru-duomenu-klubo-veikla?inheritRedirect=false&redirect=https%3A%2F%2Fwww.stat.gov.lt%2Fhome%3Fp_p_id%3D101_INSTANCE_lbrXvLVHX2ln%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1
+https://www.facebook.com/ekonomikosministerija/posts/pfbid02kkSFmtQWEALHA4hMzGSjLYpXj9KKy72bKDZ1MVrUSX7RS8picKXTeds8wDx3VCCwl
+https://www.linkedin.com/posts/lina-giedraitien%C4%97-90a3a74a_opendata-collaboration-redcarpet-activity-7062851263012466688-XZi0?utm_source=share&utm_medium=member_desktop";;;;;20
+18;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For justification:
+* If yes, please describe how this task is fulfilled at public body level.";yes;"POLICY:
+According to Article 7(1)(2)(3) of Description of data opening procedure approved by the Minister of Economy and Innovation 01/04/2022, (https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/327dd210495011ebb394e1efb98d3e67/asr), all public bodies are obliged to appoint a person responsible for organising the opening of the authority’s data, the ‘Data Opening Coordinator’. The designated coordinator has to ensure that the process of opening data is carried out, together with its supervision and compliance with the requirements laid down in the legislation.";;;;;20
+19;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers? 
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;" - ""OPEN DATA CLUB"" is an initiative connecting 3 main actors and additionaly including the data opening coordinators of all ministries to discuss relevant topics and exchange experiences in the field of open data: 
+1) https://www.facebook.com/ekonomikosministerija/posts/pfbid0XvPWCLJ8gERYj1RV85wdR3c9u8qEkrHhw7AF84Smo81ZsSGybfUSDbV2o7hwuzG1l 
+2) https://www.stat.gov.lt/home/-/asset_publisher/lbrXvLVHX2ln/content/tesiame-atviru-duomenu-klubo-veikla?inheritRedirect=false&redirect=https%3A%2F%2Fwww.stat.gov.lt%2Fhome%3Fp_p_id%3D101_INSTANCE_lbrXvLVHX2ln%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1
+3) https://data.gov.lt/news/31
+4) https://www.facebook.com/ekonomikosministerija/posts/pfbid02kkSFmtQWEALHA4hMzGSjLYpXj9KKy72bKDZ1MVrUSX7RS8picKXTeds8wDx3VCCwl
+5) https://www.linkedin.com/posts/lina-giedraitien%C4%97-90a3a74a_opendata-collaboration-redcarpet-activity-7062851263012466688-XZi0?utm_source=share&utm_medium=member_desktop
+
+ - The Chancellery of the Government of the Republic of Lithuania continues to strengthen the competencies of public sector employees and initiated practical workshops, which strengthen practical knowledge of strategic, data and open data management, and improve analytical skills:
+https://www.delfi.lt/uzsakomasis-turinys/premium/duomenu-ir-atviru-duomenu-valdymas-dalis-viesojo-sektoriaus-specialistu-kompetenciju-92395709
+
+ - Newsletters on strategic management in the public sector are being prepared in order to provide news on strategic management and open data in Lithuania and abroad are issued every quarter - https://lrvk.lrv.lt/lt/apie-vyriausybes-kanceliarija/lrvk-projektu-portfelis/igyvendinami-projektai/valdymo-gebejimu-stiprinimas/naujienlaiskiai ";;;;;20
+20;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;" - Infrmation Society Development Committee periodically provides demos for data users with examples, how data can be used and interpreted. Demos are provided with experts of a field were data comes from.
+https://www.youtube.com/playlist?list=PLtptnWie_iVvLbVihFZIvcErEZz4_Vc08
+
+ - Also, Information Society Development Committee monitors best practices of services, processes or products developed using open data or data, and all these examples are accessible here - https://data.gov.lt/usecases/examples . Sharing best practices on open data adds value and can inspire other data users to follow the example and create new services or otherwise increase the value of open data reuse.
+
+ - Moreover, regular meetings take place at the political level, as political leadership plays an important role in opening up data.";Exchanges can take place via formal formats (e.g. round-tables, conferences) or less formal formats (e.g. meet-ups).;;;;20
+;1.3 Open data implementation;;;;;;;162
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+21;"Do data publication plans exist at public body level?
+
+For justification:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"Information Society Development Committee is performing EU-funded open data project “Development of an open data platform enabling efficient re-use of public sector information for business and its management tools” (project value: EUR 3 931 456) - https://ivpk.lrv.lt/lt/apie-ivpk/atviru-duomenu-platformos-igalinancios-efektyvu-viesojo-sektoriaus-informacijos-pakartotini-panaudojima-verslui-ir-jos-valdymo-irankiu-sukurimas . 
+During the phase II of the project (2020-2023) public sector‘s priority data - new high-demand datasets from 50 public sector institutions will be opened - https://data.gov.lt/news/33. All these institutions prepared action plans with specified datasets. For project’s work planning, it is used GitHub - https://github.com/orgs/atviriduomenys/projects/2, which reviews and manages the descriptions of open data structures https://github.com/atviriduomenys/manifest. Finally, the data corresponding to the validated structure description are published in an open data repository https://get.data.gov.lt/
+
+Institutions also have their own plans/strategies for data opening, an example could be The Center of Registers, which oversees the country's main registers and information systems - https://eimin.lrv.lt/lt/naujienos/registru-centras-visuomenei-atvere-naujus-atviru-duomenu-rinkinius";For data publication plans we refer to the existence of a specific workflow or internal data management process for publication of datasets. ;;;;20
+22a;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For justification:
+* If yes, please specify the process(es).";yes;"As regards, the implementation of the open government data policy, one of responsibilities of the Information Society Development Committee is monitoring and ensuring the opening of the requested data. According to Article 23.5 of  the Resolution of Minister of Economy and Innovation on data opening procedure, (https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/327dd210495011ebb394e1efb98d3e67/asr), the coordinating authority (Information Society Development Committee) ensures the supervision of the opening of data of institutions and state-owned entities, requested by Users and registered here - https://data.gov.lt/requests/submitted. Also, monitors the progress of data opening and provides reports on the progress, demand and maturity of data opening of institutions and state-owned entities:
+https://data.gov.lt/news/34
+https://data.gov.lt/news/28";;;;;15
+22b;"If yes, would you describe the status of implementation as satisfactory/neutral/unsatisfactory? 
+
+For justification:
+* Please motivate your answer.";satisfactory;"During 2022 -2023, we see a progress in the field of open data: the amount of open data and the interest in it are growing:
+https://eimin.lrv.lt/lt/naujienos/auga-tiek-atvertu-duomenu-kiekis-tiek-domejimasis-jais
+https://eimin.lrv.lt/lt/naujienos/pernai-gautos-159-uzklausos-del-duomenu-atverimo-populiariausi-teisingumo-ministerijos-duomenys";;;;;N/A
+23a;"Are there any processes in place to asses if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the re-use of public sector information).
+
+For justification:
+* If yes, please specify the process(es).";yes;"According to Article 10 of the Law on the Right to Receive Information and Reuse of Data, data for re-use shall be provided to applicants free of charge, unless otherwise provided by the laws of the Republic of Lithuania or the legal acts of the European Union.
+ Where a charge is made for the re-use of data, it shall not exceed the marginal cost of reproducing, providing and publishing the data, as well as depersonalising and taking measures to protect confidential business information.
+The Communications Regulatory Authority of the Republic of Lithuania (https://www.rrt.lt/en/ ) is responsible authority in assesing if public sector bodies are charging for data above marginal cost.";;;;;15
+23b;If yes [to Q23a], to what degree is data provided by public sector bodies free of charge?;the majority of datasets;N/A;;;;;12
+23c;How has this degree changed compared to the previous year?;no change;N/A;;;;;5
+24a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For justification:
+* Please briefly describe.";N/A;"1. Our main challenge and goal is to increase use of open data. The process of opening up data is significantly intensified (almost 2000 data sets are opened and published on data.gov.lt), therefore we encourage our data users to use open data or request new data for opening so that data could be basis for their new products and technologies. The estimate shows that the efficient use of data can generate an additional 2% of national GDP.
+2. Lack of data analysts, competencies in the public sector in working with data and preparing it for opening is still a challenge in Lithuania.
+3.	Ensuring data confidentiality is also a challenge. Lithuania is a small country with a low population density, so the more detailed the data, the higher the risk of disclosure. For example, opening Covid-19 data on deaths, especially young people, by gender, age and age dimensions in practice ment identifying the relatives of such a person and escalating the relevant history in public, in violation of the privacy of the relatives.  On the other hand, the ongoing debate on data has led to a better understanding of it.";;;;;N/A
+24b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For justification:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to cope with these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"1.	Various workshops and learning material (https://data.gov.lt/opening/learningmaterial/22) are developed (please also see answers to 25a, 26a and 27a questions).
+2.	Data sets of state institutions are processed and opened centrally through the State Data Management Information System managed by State Data Agency in order to  ensure standardized quality for anonymisation of institutions’ datasets.
+3.	Various initiatives involving different actors are organized (e.g., Open Data Club - https://www.stat.gov.lt/home/-/asset_publisher/lbrXvLVHX2ln/content/tesiame-atviru-duomenu-klubo-veikla?inheritRedirect=false&redirect=https%3A%2F%2Fwww.stat.gov.lt%2Fhome%3Fp_p_id%3D101_INSTANCE_lbrXvLVHX2ln%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1).
+
+The Ministry of the Economy and Innovation and Information Society Development Committee monitor best practices of services, processes or products developed using open data or data, and all these examples are accessible here - https://data.gov.lt/usecases/examples . Sharing best practices on open data adds value and can inspire other data users to follow the example and create new services or otherwise increase the value of open data reuse.";;;;;10
+25a;"Are there any activities in place to assist data providers with their open data publication process?
+
+For justification:
+* If yes, please describe/provide examples of these activities.";yes;"•	Support for data opening. Information Society Development Committee and the State Data Agency provide institutions with assistance and technical support in opening data. Contacts are provided here - https://eimin.lrv.lt/lt/veiklos-sritys/skaitmenine-politika/atviri-duomenys-1
+•	National Model for opening data establishes a centralized data opening scheme, which speeds up the data opening process. Data sets of  institutions are processed and opened centrally through the State Data Management Information System managed by State Data Agency, which is responsible for anonymisation, and ensuring of standardized quality of datasets opened by institutions. 
+•	In addition, Information Society Development Committee has created video learning material - step by step instructions on data opening (27 series), publicly accessible on Lithuanian open data portal - https://data.gov.lt/opening/learningmaterial/22
+•	Also, Data Opening Guide, prepared as part of Lithuanian Open Data Portal, is dedicated tool for organizations that open data and users of open data - https://atviriduomenys.readthedocs.io/index.html.
+•	During a project „Strengthening Results Oriented Management Capacities“ (https://lrvk.lrv.lt/lt/apie-vyriausybes-kanceliarija/lrvk-projektu-portfelis/igyvendinami-projektai/valdymo-gebejimu-stiprinimas) methodological instructions on data opening were provided - https://lrvk.lrv.lt/uploads/lrvk/documents/files/DUOMEN%C5%B2-ATV%C4%96RIMAS-INSTITUCIJOJE_PROCESO-PRAD%C5%BDIA.pdf";E.g. a task force/agency that is in charge of promoting and assisting the data publication process at national and/or regional and local levels (where applicable).;;;;15
+25b;"Are there activities to assist real-time and/or dynamic data holders in their publication process?
+
+For justification:
+* If yes, please provide some examples of such activities.";yes;"We do provide tools [1], that can be used to provide data directly from data source in real time also we provide possiblity to publish historical real time data, for this we are experimenting with Timescale DB, but currently we do not have a vorking solution.
+
+[1] https://atviriduomenys.readthedocs.io/spinta.html";Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time).;;;;10
+25c;"Are there activities to assist geo-spatial data holders in their publication process?
+
+For justification:
+* If yes, please provide some examples of such activities.";yes;"Yes, we provide tools [1], that can inspect databases and can recognize geospatial data. We also ask data holders to properly describe metada [2] using specialized ""geometry"" type instead of x, y coordinates. And finally we provide data publishing via API service, where geospatial data are supported natively [3].
+
+[1] https://atviriduomenys.readthedocs.io/spinta.html
+[2] https://atviriduomenys.readthedocs.io/dsa/duomenu-tipai.html#erdviniai-duomenys
+[3] https://get.data.gov.lt/datasets/gov/lhmt/hidrologija/VandensMatavimoStotis";Geo-spatial data is data that contains information on properties that are linked to a position on earth.;;;;10
+25d;"Are there activities to assist citizens or their working organisations in the publication of citizen-generated data?
+
+For justification:
+* If yes, please provide some examples of such activities.";yes;"The European Data Portal e-learning programme was translated into Lithuanian language so that public sector and citizens can access learning material on open data online - http://theodi.github.io/EUeLearning/lt/#/id/co-01 . This programme containing 16 modules  has been designed to enable to discover what open data is and to motivate citizens and authorities to open and use data. The translated programme is accessible here - https://eimin.lrv.lt/lt/veiklos-sritys/skaitmenine-politika/atviri-duomenys-1
+
+In addition, all video learning material with step by step instructions on data opening (27 series) is publicly accessible on Lithuanian open data portal - https://data.gov.lt/opening/learningmaterial/22
+Also, Data Opening Guide, prepared as part of Lithuanian Open Data Portal, is dedicated tool for organizations and citizens that open and use data - https://atviriduomenys.readthedocs.io/index.html"; Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;;;10
+26a;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For justification:
+* If yes, please briefly describe these training activities.";yes;"The Information Society Development Committee periodically organises workshops for public bodies to discuss their plans for opening data and increase their knowledge. In 2021, it was organised 12 working sessions for the Open data coordinators of main public institutions. Based on these working sessions, it was created video learning material (27 series), publicly accessible on Lithuanian open data portal - https://data.gov.lt/opening/learningmaterial/22
+In addition, Data Opening Guide, prepared as part of Lithuanian Open Data Portal, is dedicated tool for organizations that open data and users of open data - https://atviriduomenys.readthedocs.io/index.html.
+The Data Opening Guide‘s documentation consists of the following essential parts:
+•	Information for data providers on the process of opening data, raising the level of maturity of open data and processing personal data .
+•	Information for data users on how to make requests and comments about the data and how to obtain the data itself .
+•	A data structure description specification that provides detailed information on how to write and read data structure’s description tables.
+•	Information for installers on how to install and configure tools for working with data and  data structure’s description tables.
+Also, the European Data Portal e-learning programme was translated into Lithuanian language so that public sector can access learning material on open data online - http://theodi.github.io/EUeLearning/lt/#/id/co-01 . This programme containing 16 modules  has been designed to enable to discover what open data is and how it is changing the lives of everyone on our planet is accessible here - https://eimin.lrv.lt/lt/veiklos-sritys/skaitmenine-politika/atviri-duomenys-1 
+The Ministry of Economy and Innovation and Information Society Development Committee are constantly promoting (on social media and by sending formal letters) the new Model of opening data as well as on-line learning material to public authorities in order increase data opening activities and data literacy among public authorities. 
+During a project „Strengthening Results Oriented Management Capacities“ (https://lrvk.lrv.lt/lt/apie-vyriausybes-kanceliarija/lrvk-projektu-portfelis/igyvendinami-projektai/valdymo-gebejimu-stiprinimas) at he begining of 2023, there were organized workshops „Aplication of data and open data in strategic management documents“. Target group strengthened knowledge and skills in the field of application of open data in the preparation of annual reports.";Ideally such trainings are organised in the frame of the professional development programmes for civil servants and address both data literacy and skills.;;;;15
+26b;"If yes [to Q26a], do these training activities offer a certification that is formally recognised? 
+ 
+For justification:
+* If yes, please briefly describe.";yes;During a project „Strengthening Results Oriented Management Capacities“ (https://lrvk.lrv.lt/lt/apie-vyriausybes-kanceliarija/lrvk-projektu-portfelis/igyvendinami-projektai/valdymo-gebejimu-stiprinimas) at he begining of 2023, there were organized workshops „Aplication of data and open data in strategic management documents“. Target group strengthened knowledge and skills in the field of application of open data in the preparation of annual reports. Training certificates were issued to the participants.;;;;;10
+27a;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond public servants? 
+ 
+For justification:
+* If yes, please provide a few examples (e.g. title, date, location of the event and URL).";yes, 6-9;"
+•	In 2023 May, Conference of the Ministry of Transport on transport sector open data - https://sumin.lrv.lt/lt/naujienos/susisiekimo-ministerija-kita-savaite-kviecia-i-pirmaja-susisiekimo-sektoriaus-apzvalgos-ir-atviru-duomenu-konferencija
+•	In 2023 May, The Ministry of Environment organised conference ""How to create an information system for the public sector 10 times faster and 10 times cheaper?"" where were talked about open enivronment data impact (https://www.facebook.com/events/1373265573242909)
+•	In 2023 April, general director of the State Data Agency gave a speech at the conference ""Lithuanian Digitization Progress"". Key highlight from the report ""Breakthrough in the opening of public sector data"":
+1. The State Data Agency has taken the lead in centralizing the opening of public sector data. Opening up high-maturity data is one of the most important goals of the state data ecosystem that the agency is building. Legal, technological and financial prerequisites have been created for this.
+2. Until 2026 an extremely ambitious goal was set - to centrally open the data of more than 300 state information resources, while at the same time creating a public sector metadata catalog that is understandable not only for systems, but also for people, which will allow for the creation of new data use needs. In this context, the Data Management Act is starting to work, expanding the possibilities of re-using public sector data. (https://www.youtube.com/watch?v=RH9-kUEul-M)
+•	In 2023 January-February Office of the Government organised workshops „Aplication of data and open data in strategic management documents“.
+•	In 2022 December Office of the Government organised an event ""Good experience in Open Data management in Ireland"" (https://www.youtube.com/watch?v=sNn2PfPMnlY)
+(https://verslodirbtuvesvideo.vz.lt/vieso-sektoriaus-duomen-atv-rimo-proverzis/)
+•	In 2022 October, Minsitry of Health organised public discussion ""Reuse of health data. Where are we and where do we want to go?"" (https://www.facebook.com/sam.lt/videos/vie%C5%A1oji-diskusija-pakartotinis-sveikatos-duomen%C5%B3-naudojimas-kur-esame-ir-kur-nor/778695336535306?locale=lt_LT)
+•	In 2022 Septemeber, Ministry of Transport conference ""Open data - a breakthrough in the transport sector""
+(https://www.delfi.lt/video/laidos/partnerio-turinys/atviri-duomenys-proverzis-susisiekimo-sektoriuje.d?id=91266827)";;;;;15
+27b;"Who organises most open data related events?
+ 
+For justification:
+* Please provide a few examples of typical organisers.";national public bodies;"•	Government’s Office has performed a project “Strengthening management skills” . The project’s aim is to improve the strategic management and open data management skills of the staff of the Office of the Government of the Republic of Lithuania and ministries through practical activities, to strengthen the results orientation of public administration and to improve networking and cooperation between institutions. 
+During the project:
+1)	the event was organized to present the open data management in Ireland (https://www.youtube.com/watch?v=sNn2PfPMnlY)
+2) 18 workshops ""Aplication of data and open data in strategic management documents"".
+•	Ministry of Transport was holded transportation sector review and open data conference, where speakers will review the road, air, sea, and rail transport situation, operational trends, and experts from companies and organizations in the sector will present future forecasts. (https://sumin.lrv.lt/lt/naujienos/susisiekimo-ministerija-kita-savaite-kviecia-i-pirmaja-susisiekimo-sektoriaus-apzvalgos-ir-atviru-duomenu-konferencija). Ministry of Transport organised a conference ""Open data - a breakthrough in the transport sector""
+(https://www.delfi.lt/video/laidos/partnerio-turinys/atviri-duomenys-proverzis-susisiekimo-sektoriuje.d?id=91266827)
+•	The Ministry of Environment organised conference ""How to create an information system for the public sector 10 times faster and 10 times cheaper?"" where were talked about open enivronment data impact (https://www.facebook.com/events/1373265573242909)
+•	Minsitry of Health organised public discussion ""Reuse of health data. Where are we and where do we want to go?"" (https://www.facebook.com/sam.lt/videos/vie%C5%A1oji-diskusija-pakartotinis-sveikatos-duomen%C5%B3-naudojimas-kur-esame-ir-kur-nor/778695336535306?locale=lt_LT)
+•	the State Data Agency  conference ""Lithuanian Digitization Progress"". Key highlight from the report ""Breakthrough in the opening of public sector data"" (https://www.youtube.com/watch?v=RH9-kUEul-M)";;;;;N/A
+;Dimension 2: Open Data Impact;;;;;;;585
+;"Assessing the impact of open data is still generally considered a new field, with no consensus, for example, on the definition, or methodologies to measure impact. Nonetheless, there are several elements that are considered essential to demonstrating impact, such as monitoring and measuring the reuse of published open data. Given this, the impact dimension in this questionnaire tries to capture the extent to which countries have been making progress in monitoring the reuse of open data and based on that, in measuring the impact of open data on specific governmental, societal, environmental, and economic challenges of our time. Countries are encouraged to provide, whenever possible, examples of reuse for each impact area/topic. Yet, please note that data.europe.eu does not consider the availability of reuse examples as a direct evidence of impact.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                                                                                                                         ";;;;;;;
+;2.1. Strategic awareness;;;;;;;170
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+28;"Do you have a definition of open data reuse in your country?
+ 
+For justification:
+* If yes, please specify it.";yes;"Article 3 (point 4) of the Law on the Right to Information and Re-use of Data 
+https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.94745/asr. 
+„RESPONSE TO REVIEWER“: ""4 . Reuse of data - the use of data by applicants and/or their representatives for commercial or non-commercial purposes, which differ from the original purpose of data preparation, in the performance of a public function. Data exchange between institutions or between institutions and state-run entities in the performance of public functions is not considered data reuse.""";;;For completeness, please include the (translated) definition here.;;10
+29;"Is there interest at national level to observe the level of reuse of open data in your country?
+ 
+For justification:
+* If yes, what activities/efforts have you observed within public bodies that support your observation?";Yes, there is a strong focus;"Methodology for the monitoring of open datasets, establishing monitoring indicators for open datasets and the methods of monitoring the data opening is approved by the Order of Director of Information Society Development Committee - https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/b781e5c0804e11eb9fc9c3970976dfa1?jfwid=-a3k5cpix9. 
+
+In line with this methodology, a study was carried out in June 2022 to determine the level of the re-use of open data, the impact of open data etc. among public sector institutions (https://data.gov.lt/news/27). An overview of this study was published in September 2022 - https://data.gov.lt/news/30
+
+In addition, an assessment of the early impact of digitization, including part on assesment of the prevoius open data projects, was performed by Visionary Analytics under the Ministry's of Economy and Innovation order and is published here - https://2014.esinvesticijos.lt/lt/dokumentai/2021-2027-m-visuomenes-skaitmeninimo-isankstinio-poveikio-vertinimas (please see pages 15-19 of the document).
+
+Also, Open Data Portal has tools in place to monitor the intensity of data use. Google Analytics is used to monitor data usage ant other parameters as well. ";"With 'national level' we refer to either central government, federal government, or top ministries.
+Examples of such activities could be regular information sessions and/or promotion of published data at conferences and other events. ";;;;15
+30;"Are there any processes in place to monitor the level of reuse of your country's open data, for example via the national open data portal?
+ 
+For justification:
+* If yes, please briefly describe these processes and provide the URLs to support the answer.";yes;Open Data Portal  has tools in place to monitor data usage. Google Analytics is used to monitor data user behaviour as well. Also, a study was carried out in June 2022 to determine the level of the re-use of open data, the impact of open data etc. among public sector institutions (https://data.gov.lt/news/27). An overview of this study was published in September 2022 - https://data.gov.lt/news/30;;;;;20
+31;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For justification:
+* If yes, please briefly describe these activities/incentives and provide the URLs to support the answer. ";yes;"A study/questionaire for institutions was carried out in June 2022 to determine the level of the re-use of open data, the impact of open data etc. among public sector institutions (https://data.gov.lt/news/27). An overview of this study was published in September 2022 - https://data.gov.lt/news/30. 
+The Ministry of Economy and Innovations periodically promotes re-use of open data seeking to show a sense of data opening for institutions:
+https://eimin.lrv.lt/lt/naujienos/auga-tiek-atvertu-duomenu-kiekis-tiek-domejimasis-jais 
+https://eimin.lrv.lt/lt/naujienos/pernai-gautos-159-uzklausos-del-duomenu-atverimo-populiariausi-teisingumo-ministerijos-duomenys
+";Incentives could for example be training, financial incentives, or awards.;;;;20
+32;"Is your country progressing in preparing to monitor and measure the level of reuse of high-value datasets following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+ 
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;The same measures, mentioned in questions 30 and 31, will be used to monitor and measure the level of reuse of high-value datasets.;The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;;;;15
+33;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For justification:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"The impact of open data is defined in a Methodology for assessing the impact of opening up data (definition is specified in page 1, point 3) The document for download is available - https://ivpk.lrv.lt/uploads/ivpk/documents/files/Poveikio%20vertinimo%20metodika_%20Projektas.docx 
+„RESPONSE TO REVIEWER“: ""3. The impact of data opening is understood as the added value of the open data initiative to the country's economy, social and political environment.""";;;For completeness, please include the (translated) definition here.;;20
+34;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For justification:
+* If yes, please briefly describe the key points of this methodology.";yes;Methodology for the monitoring of open datasets, establishing monitoring indicators for open datasets and the methods of monitoring the data opening is approved by the Order of Director of Information Society Development Committee - https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/b781e5c0804e11eb9fc9c3970976dfa1?jfwid=-a3k5cpix9.;With methodology we refer to practices, frameworks, methods developed/employed, regardless of their maturity level.;;;;30
+35;"Are there studies that have been conducted in the past year that focus on assessing the impact of open data in your country?
+
+For justification:
+* If yes, please provide examples and the URLs to such studies to support your answer.";yes;To assess the situation of open data in the public sector, The Ministry of Economy and Innovation, together with the Committee on the Development of the Information Society, has conducted a survey on the progress and impact of open data (https://data.gov.lt/news/27). The survey was carried out from 27-05-2022 to 17-06-2022. Survey link - https://eimin.lrv.lt/lt/apklausos/apklausa-del-duomenu-atverimo-pazangos-ir-poveikio-vertinimo . An overview of this study was published in September 2022 - https://data.gov.lt/news/30;;;;;25
+36;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For justification:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"""Transparency International Lithuania” collaborating with the Parliament to obtain data created online political integrity monitoring tool called Manoseimas.lt. The tool contains agendas of Members of Parliament including their meetings with interest groups and registered lobbyists allowing to compare the activity of individual MPs as well as different political groups. Moreover, recently the tool was updated with the data about long-term permits to access the Parliament, being one of the very few countries in the world to publish such information. Permits data was also matched with data from parliamentary committees meetings to see who and how much used their permits to participate in commitees discussions. Currently, Manoseimas.lt is being updated with 4 years data on committees’ meetings.";;;;;15
+;2.2 Measuring reuse;;;;;;;110
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+37;"Have any public bodies in your country launched or performed any activities in the past year to map which and how (open) datasets are reused?
+
+For justification:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;;;;;40
+;Type of activity;Mark relevant activties below;Brief description;;;;0;
+;Analysis of log files;Yes;Open data portal has a feature that enables to create and save log files, as well as to make detailed analysis. The administrator of the portal on a daily basis carries out thorough analysis on re-use of data sets, usage and other.   ;;;;0;
+;Automated feedback mechanisms tracking users´ access to datasets;Yes;Open data portal has a feature that enables to track users's access to data sets -  https://data.gov.lt/reports/66;;;;0;
+;Surveys;Yes;Survey results are published in Open data portal - https://data.gov.lt/news/30;;;;;
+;Interviews/workshops with reusers;Yes;Interviews and workshops are being held constantly, gathering information about re-use of data sets. First focus groups -  ministry representatives  (that are also data re-users). ;;;;0;
+;Other;No;;;;;0;
+38;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers´needs?
+
+For justification:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;;;;;40
+;Type of activity;Mark relevant activties below;Brief description;;;;0;
+;Regular feedback sessions with portal users ;Yes;"A public chat group ""Open Data"" has been created on the Microsoft Teams platform, where everyone can come together to share their experiences, suggestions, news, and to grow and expand the field of open data knowledge together -  https://data.gov.lt/news/11";;;;0;
+;Social media sentiment analysis ;Yes;There are few groups on social media dedicated to open data in Lithuania (https://www.facebook.com/groups/atviriduomenys), they are being tracked, and infromation analysed. ;;;;0;
+;Other;No;;;;;0;
+39a;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For justification:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;Re-use cases are gathered and published in Open data portal. Information about re-use cases are gathered through annual Open data surveys, during events (conferences and etc.), also following public information published via institution websites.;;;;;20
+39b;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For justification:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;"Classifications of the main topics can be found here: https://open-data-ls-osp-sdg.hub.arcgis.com/
+
+August Update
+Categories are ussually classified by policy field (e.g. environment, citizens, culture, social protection, health and etc.). For example, the State Data agency has identified the most popular fields – Covid-19 data, population and housing census, agricultural cesus and economic entities in operation and local units. 
+The State Data Agency provides not only open geospatial data of population and housing censuses, agricultural censuses, operating business entities, but also data on other topics. For example, the data of the Register of Cultural Values, the Register of Educational and Scientific Institutions, the General Help Center, etc. GIS applications are created operating open data. The demand for GIS applications comes from the Government, external (e.g. private sector), projects funded by EU. (https://open-data-ls-osp-sdg.hub.arcgis.com/)
+Furthermore, it is created the portal for Sustainable Development Goals. There each goal has dashboards of indicators which are created by using open data. (https://lithuaniasdg-ls-osp-sdg.hub.arcgis.com/)";;Please provide a brief explanation of the process you use to classify gathered reuse cases;;;10
+;2.3 Created impact;;;;;;;305
+;2.3a Governmental impact;;;;;;;65
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+40;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country? 
+
+For justification:
+* If yes, please specify what kind of data proves this impact and provide the URLs to this data.";yes;"To advance data opening and digital transformation across different fields of public administration, the Government has established an Open Data and Digital Transformation Centre of Excellence, which is responsible for assisting institutions in their activities regarding planning of data opening and digital transformation and project implementation, coordination of inter-institutional activities, initiating of shared solutions and ensuring quality of implementation, dissemination of knowledge needed to open data and implement digital transformation, and monitoring of the implementation of initiatives. (https://lrv.lt/en/news/green-light-to-initiative-to-proceed-with-open-data-and-digital-transformation-centre-of-excellence)
+
+In the middle of 2022 Open Data Progress and Impact Assessment survey was conducted by Ministry of Economy and Innovation and Information Society Development Committee. 165 state and municipal institutions and bodies participated in it. The results showed that the majority of respondents positively assess the impact of open data on the economy, social and political environment. Institutional respondents used open data in implementing regulatory policies. (https://data.gov.lt/news/30)
+
+Datasets regarding different topics can be found on our national data portal, here are some examples classified by topics: Government and Public sector datasets - https://data.gov.lt/datasets?category_id=231 ; Justice, legal system and public safety datasets - https://data.gov.lt/datasets?category_id=139
+
+State Enterprise Centre of Registers is one of the main state data managers, which has its Open data strategy (https://www.registrucentras.lt/bylos/dokumentai/duomenys/aduomenys/Duomenu_atverimo_strategija_2020-06-26_Final_papildyta_2020-08-17.pdf).
+
+The Government of the Republic of Lithuania uses national and international resources of open data in solving the deep problems, decision making, preparation of strategic management documents, such as annual activity reports (https://lrv.lt/lt/aktuali-informacija/xvii-vyriausybe/strateginis-valdymas/vyriausybes-veiklos-ataskaitos-seimui).";"The governmental impact is hereby defined as the beneficial effect of the use of open data on three specific challenges faced by the government/public administrations: 1) Being efficient and effective in delivering public services; 2) Being transparent and accountable in their actions; 3) Improving their capacity to make decisions and policies.";;The 2022 Open Data Progress and Impact Assessment survey is relevant for this question;;20
+41;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";No;"„RESPONSE TO REVIEWER“: 
+Open Vilnius (https://open.vilnius.lt/) 
+This portal not only provides easy access to all open data related to Vilnius, but as well shares all the information about the city‘s projects, or projects developed by the third parties, implemented using open data. Here you can find not only open data sets, but also reports about city‘s keypermorance indicators, greenery, demography, schools, kindergartens, doctors, municipal waste management, council meetings, wages and office expenses etc. (https://open.vilnius.lt/tag/17, https://app.powerbi.com/view?r=eyJrIjoiMDgxZmZjNTktZWNkMy00NWE1LWI3ZTktZDQ4NWI5OGU1NmQ3IiwidCI6ImFmZjM2MzMxLTNlNWUtNDdlOC1hZjkzLTE4NTFkNmQxZmUzYiIsImMiOjh9&pageName=ReportSection06765be5eaa1304be9, https://app.powerbi.com/view?r=eyJrIjoiYWZhOTAyNzktNzVjZC00MWM4LTkzMTQtOWM1Yjc3ZDBkMDNjIiwidCI6ImFmZjM2MzMxLTNlNWUtNDdlOC1hZjkzLTE4NTFkNmQxZmUzYiIsImMiOjh9&pageName=ReportSection, https://app.powerbi.com/view?r=eyJrIjoiOTE2Mzk5MjEtZGU5Yi00MTU1LWFkOGEtYmQ2M2ZiM2RmYzQxIiwidCI6ImFmZjM2MzMxLTNlNWUtNDdlOC1hZjkzLTE4NTFkNmQxZmUzYiIsImMiOjh9, etc.)
+Thus, it helps IT specialists to develop new digital solutions, as they can find lots of open data and as well – already developed systems codes and digital tools, all to be used free of charge. And Vilnius‘ population is provided with high-quality data and statistics that help to take information-based, smart decisions regarding various aspects of their lives. And this solution is offered to be implemented to other municipalities of Lithuania, free of charge and with the help of highly skilled Vilnius Innovation and Technology Group team. Thus, this innovation, based on culture of oppeness, collaboration and sharing, directly adds to a more sustainable urban development, and could be replicated in other cities and countries, too.
+
+„RESPONSE TO REVIEWER“: 
+Crime data sets (https://ird.lt/lt/paslaugos/tvarkomu-valdomu-registru-ir-informaciniu-sistemu-paslaugos/nusikalstamu-veiku-zinybinio-registro-nvzr-atviri-duomenys-paslaugos/nusikalstamumo-duomenu-rinkiniai/)
+The Department of Informatics and Communications at the Ministry of Internal Affairs of the Republic of Lithuania has created public electronic services - data from statistical REPORTS on crime in the Republic of Lithuania since 2003, prepared on the basis of data from the official register of criminal acts. May. (2003-05-01 the new Criminal Code of the Republic of Lithuania entered into force) analytical tools designed to perform a free search of crime data according to the individual needs of the data user and which provide the opportunity to filter data according to selected parameters, analyze them, compare them according to periods, municipalities of the Republic of Lithuania or other indicators, display graphically, create a data report according to the selected format (PDF, Excel or CSV), print or download it.
+
+Directory of API interfaces of state information systems (https://api.gov.lt/)
+The catalog is intended to help institutions and companies developing state information systems to find the necessary data. The directory contains API documentation and contacts for system administrators to access the test environment or sign a data acquisition agreement. The directory does not contain specific API addresses, passwords or keys - all information provided is public.
+
+„RESPONSE TO REVIEWER“: 
+Please see the publication about Open data and how it influences of opinion makers on elections to the housing choices of young people (https://www.vz.lt/inovacijos/2023/06/07/atviri-duomenys-nuo-nuomones-formuotoju-itakos-rinkimams-iki-jaunimo-busto-pasirinkimu#ixzz8EbmGZy4Ohttps://www.vz.lt/inovacijos/2023/06/07/atviri-duomenys-nuo-nuomones-formuotoju-itakos-rinkimams-iki-jaunimo-busto-pasirinkimu)
+";;;Portals and datasets are not examples of reuse cases. Portals make datasets available for reuse. This question is interested in examples of open data being put to use to achieve better government efficiency.;;0
+42;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"„RESPONSE TO REVIEWER“:
+1.	Klaipėda city municipality, in order to achieve transparency and accountability, opened its data in the following areas and created applications, reports and services in these areas:
+city development project proposal data (https://www.klaipeda.lt/lt/pp/data;  https://citify.eu/lt/klaipeda/); 
+environmental monitoring information system data (https://aplinka.klaipeda.lt/ );
+property data of Klaipėda city municipality;
+data on heat consumption in the house (https://www.klenergija.lt/gyventojams/silumos-kokybe-jusu-name/) .
+2.	Open Sodra website (https://atvira.sodra.lt/lt-eur/;  https://atvira.sodra.lt/imones/paieska/index.html) is aimed at observing and analyzing income and expenses of the State Social Insurance Fund budget, the tendencies of fluctuation of the number of insurers, the insured, beneficiaries, and average amounts of benefits, as well as structural changes. Data preview and analysis in the website can be carried out in three levels:
+1st level – preview of general summary data rendered in diagram form;
+2nd level – download of data file of selected diagram in .xlsx format;
+3rd level – download of data of selected topic for more detailed analysis, which can be previewed by chosen filters or imported to other programs, in .xlsx format.
+Also, there are applications and reports that are based on opena data.
+3.	Open Lithuanian finance (https://lietuvosfinansai.lt/ ) website opens up systemized and detailed data on Lithuanian public finances, the sources of which are sets of budget execution and financial statements. Also, the website automatically generate some financial reports, statistics and applications on the specific area or indicator. The purpose of data opening is to ensure the publicity of state financial data, to stimulate interest in the state financial management processes, to create preconditions for greater transparency and comprehensibility of the activities of public sector entities.";;;Examples of datasets being made open or portals that make the open datasets discoverable are not reuse cases. Examples of reuse are reports /applications/ products/services that make use of open data.;;15
+43;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"1.	The State Data Agency publishes operational and detailed statistics of migrants who have crossed the state border illegally. These data allow to perform a detailed analysis of the situation, make reasonable decisions on its management and forecast the course of the situation. The number of migrants who crossed the state border illegally, their number by declared citizenship, gender, age groups, statistics of illegal migrants by municipality is published on the light board . (https://www.arcgis.com/apps/dashboards/9b0a008b1fff41a88c5efcc61a876be2 )
+
+2.	Vilnius city air pollution monitoring data represent air quality in Vilnius. The data have been carried out in recent years by physical measurement or modeling. This gives policy makers an indication of the air pollution and amount of pollen in defferent microdistricts and streets and allows them to adjust policies based on this. (https://experience.arcgis.com/experience/c7d16712c5ab4c6087a1eede67491329/page/Realaus-laiko-duomenys/).
+
+3.	A common data space (or national data lake) to consolidate and enable important state data – State Data Governance System, was created in 2020 on the basis of a multifunctional and capable data management platform, which enables quick and efficient access to different data sources, with intention to provide services for state, science and business. It means centralised opening of administrative data, effective exchange, re-use of data and production of operational data as well. Now is realized model of operational COVID-19 data management processes: morbidity and mortality, vaccination and outbreak management. It created preconditions for decisions making “now and here”, to produce better and more transparent public information on COVID-19 - https://open-data-ls-osp-sdg.hub.arcgis.com/search 
+Benefits
+• Operational COVID-19 data management: data ecosystem from data collecting, anonymization, transformations, analysis to dissemination, fully automated process from data provider to user
+• Process management (vaccination logistics, COVID outbreaks management, sequencing)
+• Close to 500 users: from government (25), ministries and other public authorities (200), public health centers (50) hospitalities (145), municipalities (100), medicine laboratories and others
+(https://www.stat.gov.lt/paieska?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=8080713&_101_type=content&_101_urlTitle=statistikos-departamentas-valstybes-duomenu-ukvedys&redirect=%2Fweb%2Flsd%2Fpaieska%3Fq%3Dvalstyb%25C4%2597s%2Bduomen%25C5%25B3%2Bvaldysenos%2Binformacin%25C4%2597%2Bsistema) . 
+";;;Cases 1 and 2 seem like relevant reuse cases. ;;15
+44;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Road traffic information system of state importance, called EIS. The purpose of creating this system is to enable road users and road maintenance companies to use traffic data collected automatically and stored in one place. Data is collected into the EIS from several automatic weather stations, called KOS stations. These are roadside devices with sensors that measure parameters needed to determine road condition and traffic conditions (road surface temperature, air temperature and relative humidity, dew point, wind direction, speed and gusts, intensity and type of precipitation, visibility, road surface condition, frozen depth of road structures, etc.). The system also collects video data, which is collected from cameras installed and additionally installed at KOS stations. Another and no less important goal of EIS is to inform road users about traffic conditions, traffic disturbances, applied traffic management measures on roads and to provide users with the opportunity to perform automated traffic data analysis. (https://eismoinfo.lt/#!/)
+
+Vilnius Traffic maps for drivers show status of traffic, traffic monitoring cameras, traffic light controlled intersections and green corridors, fault finding devices and driver information LED boards. These data helps for drivers to plan their routes, allow to see traffic situasions for decision-makers. (https://judu.lt/vairuotojams/eismo-zemelapiai/)
+
+A common data space (or national data lake) to consolidate and enable important state data – State Data Governance System, was created in 2020 on the basis of a multifunctional and capable data management platform, which enables quick and efficient access to different data sources, with intention to provide services for state, science and business. It means centralised opening of administrative data, effective exchange, re-use of data and production of operational data as well. Now is realized model of operational COVID-19 data management processes: morbidity and mortality, vaccination and outbreak management. It created preconditions for decisions making “now and here”, to produce better and more transparent public information on COVID-19 - https://open-data-ls-osp-sdg.hub.arcgis.com/search 
+
+Benefits
+• Operational COVID-19 data management: data ecosystem from data collecting, anonymization, transformations, analysis to dissemination, fully automated process from data provider to user
+• Process management (vaccination logistics, COVID outbreaks management, sequencing)
+• Close to 500 users: from government (25), ministries and other public authorities (200), public health centers (50) hospitalities (145), municipalities (100), medicine laboratories and others
+
+https://www.stat.gov.lt/paieska?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=8080713&_101_type=content&_101_urlTitle=statistikos-departamentas-valstybes-duomenu-ukvedys&redirect=%2Fweb%2Flsd%2Fpaieska%3Fq%3Dvalstyb%25C4%2597s%2Bduomen%25C5%25B3%2Bvaldysenos%2Binformacin%25C4%2597%2Bsistema";;;;;15
+;2.3b Social impact;;;;;;;80
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+45;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country? 
+
+For justification:
+* If yes, please specify what kind of data proves this impact and provide the URLs to this data.";yes;"In 2022 Open Data Progress and Impact Assessment survey‘s results showed that open data created impact on social challenges - 73 % respondents from 165 state and municipal institutions and bodies (please look at the chart No. 12,  https://data.gov.lt/news/30)
+
+==Original===
+During the action of the plan for the implementation of the provisions of the program of the Eighteenth Government of the Republic of Lithuania “Create a common platform for monitoring NGO funding and develop an NGO database in order to ensure the collection of high-quality open data on the NGO sector” in 2022 a feasibility study was carried out, discussions were held with interested organizations and institutions, data on the sector was collected and analyzed in order to better prepare for the database development works (https://socmin.lrv.lt/uploads/socmin/documents/files/veikla/planavimo-dokumentai/2023/2023-03-20%20SADM%202022%20m_%20veiklos%20ataskaita_teikti.pdf).
+
+VAPRIS - medicinal products information system (https://vapris.vvkt.lt/vvkt-web/public/medications), where we can find any information about medicinal product that is of interest to society (medicines, personal licenses, company licenses, submit ADR (for patients or specialists)).
+
+Datasets regarding different topics can be found on our national data portal, here are some examples classified by topics: Social security datasets - https://data.gov.lt/datasets?category_id=85 ; Healthcare datasets - https://data.gov.lt/datasets?category_id=96 ; Education - https://data.gov.lt/datasets?category_id=115 ; Culture datasets - https://data.gov.lt/datasets?category_id=63";The social impact is hereby defined as the beneficial effect of the use of open data on four specific challenges for society: 1) Including minorities, migrants, and/or refugees  and reducing inequality, 2) Alleviating housing issues, 3) Fostering health and wellbeing, 4) Improving education.;The examples listed seem to be reuse cases, which fit better Q46-Q49. For this question, do you have studies/data that demonstrate the impact created by open data on social challenges? (A good example is the Open Data Progress and Impact Assessment survey you used for Q40);;;20
+46;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees (e.g. from the Ukrainian war)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"The State Data Agency collects data on war refugees from Ukraine. The data is updated every day. The data includes sizes flows by age and gender, professions, war map, distribution in Lithuanian regions. These data help the Government and municipalities to make political and practical decisions (https://experience.arcgis.com/experience/7b39dbfae2b74f4491dc69afdd2ba0a5/).
+
+Every year, the National Education Agency analyzes data and open data on the education of Lithuanian national minorities. The agency prepares a report, which reviews the current education situation in this area. (https://www.nsa.smm.lt/wp-content/uploads/2022/05/Tautiniu-mazumu-svietimo-bukles-analize-2022-05-23.pdf) . 
+
+Diversity Development group - one of their projects aims to improve the migration data: https://www.diversitygroup.lt/fwp_portfolio/mipas/.";;;;;15
+47;"Is the use of open data in your country having an impact on the society´s level of awareness concerning housing in urban areas? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Representatives of the real estate sector (https://m.aruodas.lt/ ; https://m.ntzemelapis.lt/?from_search=1&obj=1  ) uses open data to publish information about the object for sale: place on map, nearest objects (kindergarten, educational institution, shop, bus station), crimes within the last month.
+
+Municipalities of Vilnius, Kaunas, Klaipėda (biggest cities of the country) collect and provide data about planned and under construction residential, commercial, public purpose and infrastructure projects in cities.
+People will no longer have to spend time searching for projects, gathering and summarizing contacts or monitoring the progress of construction. They are able to select the projects that are relevant to them and get their information in a few minutes - https://citify.eu
+
+A service (https://kurgyvenu.lt/) collects and analyzes all the relevant information about the real estate and living environment. This data/information comes from local governments, public authorities, heat supply companies and other institutions. Here you will find utility taxes, real estate market value, crime rate, air pollution, noise level, distances, demographic situation of your district, school rankings and all the other useful information. ";Data that provides information on the housing market, rental market, property valuations, sales, planning, zoning, census data on socio-economic variables for cities and/or neighbourhoods, other housing issues such as homelessness, empty dwellings, gentrification.;;;;15
+48;"Is the use of open data in your country having an impact on the society´s level of awareness on health and wellbeing related issues (also but not only in light of the COVID-19 pandemic)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"During the action of the plan for the implementation of the provisions of the program of the Eighteenth Government of the Republic of Lithuania “Open data - new opportunities for business and people” it is initiated the opening of electronic prescription data. In cooperation with State Enterprise Centre of Registers electronic data registers are opened: for now, the data of written electronic prescriptions are opened, i.e. medicines prescribed to residents. In the future it is planned to open the data on issued ones, i.e. medicines purchased by residents. The initiative will enable healthcare institutes, businesses, startups and researchers to use and adapt prescription data for a variety of research purposes. Data on electronic prescriptions are provided in ESPBI IS and are available through the Lithuanian open data portal data.gov.lt. (https://data.gov.lt/dataset/espbi-is-e-recepto-posistemes-duomenys) 
+
+The portal E-health (https://www.esveikata.lt/)  - information systems of electronic health services and cooperation infrastructure - ESPBI IS. In the system, the doctor can provide and the patient can view the health data provided by the doctor. A pharmacist uses the system to dispense medications that are prescribed electronically.
+„RESPONSE TO REVIEWER“: in this website there are reports, which are generated using open data related to electronic health documents, medical images and their descriptions, maximum response times of external data sources (price list of medicinal products, enrollment at a primary health care facility, etc.), most popular treatment facilities, pre-registration of patients and applications (https://www.esveikata.lt/statistika/espbi-stat/doc.php, https://www.esveikata.lt/statistika/espbi-stat/v.php, https://www.esveikata.lt/statistika/espbi-stat/t.php, https://www.esveikata.lt/statistika/espbi-stat/top.php, https://www.esveikata.lt/statistika/espbi-stat/ipr.php/chart?statId=PR-3&orgId=0&year=2023) 
+
+The Ministry of Health together with the State Hospital Fund and the State Data Agency  created a new tool for monitoring queues at doctors. The light board, which displays the data of the Advance Patient Registration information system, will allow monitoring the dynamics of queues and identifying problems, as well as monitoring the effectiveness of the applied impact measures. (https://sam.lrv.lt/lt/naujienos/pradejo-veikti-naujas-eiliu-stebejimo-irankis-interaktyvi-svieslente; https://osp.stat.gov.lt/pacientu-eiles)";;;"Reuse 3 seems relevant. 
+
+Example 1: the data being made open is not a reuse case. Specific examples of healthcare institutes, businesses, startups and researchers using and adapting prescription data for a variety of research purposes would be reuse cases.
+
+Example 2: What is the role of open data in the e-health portal?
+";;15
+49;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Public administration institutions pay big attention to informing the public about open data and their application in practice:
+- Notifications about opened data are published on the social network (https://www.linkedin.com/posts/information-society-development-committee_atviruduomenuportalas-atviriduomenys-opendata-activity-7064146603342749696-LQGm?utm_source=share&utm_medium=member_desktop; https://www.linkedin.com/posts/information-society-development-committee_atviriduomenys-opendata-datagovernance-activity-7057231444267438080-vTCt?utm_source=share&utm_medium=member_desktop);
+-	Organized conferences and events, open data coordinators club meetings:
+(https://www.facebook.com/events/1373265573242909; https://verslodirbtuvesvideo.vz.lt/vieso-sektoriaus-duomen-atv-rimo-proverzis/; https://www.linkedin.com/company/lietuvos-statistika-statistics-lithuania/posts/?feedView=all; https://www.linkedin.com/feed/update/urn:li:activity:7005912551330836480?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7005912551330836480%29; https://www.linkedin.com/feed/update/urn:li:activity:7028693791997837314?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7028693791997837314%29; https://ivpk.lrv.lt/lt/naujienos/ivyko-atviru-duomenu-konferencija-atviriduomenys-pazink-suprask-ir-igalink; https://sumin.lrv.lt/lt/naujienos/susisiekimo-sektoriaus-duomenu-konferencijos-programa);
+-	During a project „Strengthening Results Oriented Management Capacities“ (https://lrvk.lrv.lt/lt/apie-vyriausybes-kanceliarija/lrvk-projektu-portfelis/igyvendinami-projektai/valdymo-gebejimu-stiprinimas), which is financed from of the European Social Fund, big attention is paid to: the topic of open data - national and international events are organized (round table discussions) (https://lrvk.lrv.lt/lt/apie-vyriausybes-kanceliarija/lrvk-projektu-portfelis/igyvendinami-projektai/valdymo-gebejimu-stiprinimas/apskritojo-stalo-diskusijos; https://lrvk.lrv.lt/lt/apie-vyriausybes-kanceliarija/lrvk-projektu-portfelis/igyvendinami-projektai/valdymo-gebejimu-stiprinimas/gerosios-uzsienio-patirties-renginiai). At he begining of 2023, there were organized workshops „Aplication of data and open data in strategic management documents“. Target group strengthened knowledge and skills in the field of application of open data in the preparation of annual reports. A newsletter is prepared and distributed every quarter, with a separate section containing current affairs and news about open data (https://lrvk.lrv.lt/lt/apie-vyriausybes-kanceliarija/lrvk-projektu-portfelis/igyvendinami-projektai/valdymo-gebejimu-stiprinimas/naujienlaiskiai).";;;;;15
+;2.3c Environmental impact;;;;;;;80
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+50;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country? 
+
+For justification:
+* If yes, please (1) specify what kind of data proves this impact and (2) provide the URLs to this data. ";yes;"In 2022 Open Data Progress and Impact Assessment survey‘s results showed that open data created impact on environmental challenges - 40 % respondents from 165 state and municipal institutions and bodies (please look at the chart No. 14,  https://data.gov.lt/news/30)
+
+==Original==
+
+
+1.	Portal “Tvarkau miestą” (https://tvarkaumiesta.lt/)  allows users to inform the relevant city municipality about problems in the city (abandoned cars, garbage, lighting, etc.)/ The portal uses and shows data for 8 cities on real time. 
+2.	Unified information system for accounting for products, packaging and waste – GPAIS (https://www.gpais.eu/web/guest) .GPAIS is dedicated to the collection, analysis and control of product, packaging and waste (GPA) accounting data. With its help, accounting of waste generation, management, supply of products and packaging to the domestic market is carried out, and other GPA accounting data is processed. In addition, GPAIS is a directory of manufacturers and importers. GPAIS functions include reporting and other document submission, report verification, data analysis and processing, and other processes.
+3.	Datasets on different domains can be found on our national data portal, here are some examples classified by topics: 
+Energy datasets - https://data.gov.lt/datasets?category_id=62; 
+environment datsets - https://data.gov.lt/datasets?category_id=1;
+transport datasets - https://data.gov.lt/datasets?category_id=161;
+regions and cities - https://data.gov.lt/datasets?category_id=244.
+";The environmental impact is hereby defined as the beneficial effect of the use of open data on four specific challenges connected to the environment: 1) Protecting biodiversity (e.g. maintaining a good level of air and water quality), 2) Achieving more environmental-friendly cities (e.g. in terms of transport and waste management), 3) Fighting climate change and connected disasters, 4) Increasing the use of renewable sources of energy.;The examples listed seem to be reuse cases, which fit better Q51-Q54. For this question, do you have studies/data that demostrate the impact created by open data on environmental challenges? (A good example is the Open Data Progress and Impact Assessment survey you used for Q40);;;20
+51;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"1.	Biodiversity information platform (https://biip.lt/) - digital data management modules covering the following areas: registration of habitats of protected species, management of wildlife monitoring data, registration of large carnivore reports, game accounting and hunting reporting, fisheries data management, spatial data management of GMO decisions, captive wild animal data handling and other services.
+„RESPONSE TO REVIEWER“: Biodiversity information platform shows information and data about problems and their solutions volumes in differen biodiversity areas, for instance:
+-	Protected species (https://sris.biip.lt/#, https://sris.biip.lt/zemelapis/, 
+-	Stocking (https://zuvys.biip.lt/izuvinimas/, https://zuvys.biip.lt/atlikti-izuvinimai/, https://zuvys.biip.lt/zuvu-istekliu-tyrimai/)
+-	Hunting (https://medziokle.biip.lt/, https://medziokle.biip.lt/demo-map/)
+-	Greenery (https://zeldynai.biip.lt/, https://zeldynai.biip.lt/zemelapis/)
+-	Invasive species (https://inva.biip.lt/, https://inva.biip.lt/zemelapis/).
+Based on these evicence and analyzes, the State and municipalities, others stakeholders can  perform various researches and propose solutinios how to manage the level of biodiversity.
+2.	A service (https://kurgyvenu.lt/)  collects and analyzes all the relevant information about the real estate and living environment. This data/information comes from local governments, public authorities, heat supply companies and other institutions. Here you will find utility taxes, real estate market value, crime rate, air pollution, noise level, distances, demographic situation of your district, school rankings and all the other useful information. Data about air pollution level and etc. allows to identify most polluted areas in the city, and stimulate the necessary protection decisions to change situation for the better. 
+„RESPONSE TO REVIEWER“: The service Kurgyvenu.lt is an open data reuse case, because this tool represents short reports about the place wanted to know. Reports are generated using open data. This service helps citizens to know about the place topics in different areas. Also the State and municipalities, others stakeholders can  perform various researches and propose solutinios how to manage, for instanse, air pollution quality.
+3.	Dashboard for utility waste based on open data - https://app.powerbi.com/view?r=eyJrIjoiMDBjNTQ2MGYtNjdiNy00NTc4LTk1ZGQtOGNkMTAwNjVhMWFmIiwidCI6ImFmZjM2MzMxLTNlNWUtNDdlOC1hZjkzLTE4NTFkNmQxZmUzYiIsImMiOjh9 . Data about waste level makes it possible to understand the current situation and to take the necessary steps to change the environment to preserve biodiversity.
+„RESPONSE TO REVIEWER“: Basen on open data like this dashboard, Vilnius city municipality is implementing strategic documents (https://vilnius.lt/wp-content/uploads/2021/06/Vilniaus-SPP_-miesto-pletra.pdf).";;;These seem to be examples of making data more accessible for potential reuse. This question is interested in reuse cases. E.g. for example 3, is there a case where the dashboard has been used that led to some steps to change the environment to preserve biodiversity?;;15
+52;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"1.	The portal „Atliekų kultūra“ (The Culture of Waste), using open data, publishes the waste reception locations on the map, the types of waste accepted in the landfills, and the places where used items are shared (https://atliekukultura.lt/). Citizens can find information how to sort waste.
+2.	The Park and Ride sites are intended for drivers. There are public transport stops near the Park and Ride sites, where public transport runs frequently, every few minutes during peak hours, and it runs in the direction of the centre. (https://judu.lt/vairuotojams/statyk-ir-vaziuok-aiksteles/;  https://judu.lt/vairuotojams/)
+3.	Dashboard for utility waste based on open data - https://app.powerbi.com/view?r=eyJrIjoiMDBjNTQ2MGYtNjdiNy00NTc4LTk1ZGQtOGNkMTAwNjVhMWFmIiwidCI6ImFmZjM2MzMxLTNlNWUtNDdlOC1hZjkzLTE4NTFkNmQxZmUzYiIsImMiOjh9 . Also Dashboard for utility waste based on open data - https://app.powerbi.com/view?r=eyJrIjoiMDBjNTQ2MGYtNjdiNy00NTc4LTk1ZGQtOGNkMTAwNjVhMWFmIiwidCI6ImFmZjM2MzMxLTNlNWUtNDdlOC1hZjkzLTE4NTFkNmQxZmUzYiIsImMiOjh9 . Data about waste level makes it possible to understand the current situation and to take the necessary steps to change the environment into more eco-friendly. 
+„RESPONSE TO REVIEWER“: 
+1)	with the development of waste management solutions, which are based on open data, the behavior of citizens has had changed. Citizens are becoming more and more aware of this issue as they find information about waste management culture more easily. Manucipalities see the impact on the achievement of more environment-friendly cities.
+2)	Real-time open data is used in special apps, for example, public transport timetables, stations and your and bus location on real-time, free park places in different districts.";;;"Portal (eg 1) and dashboard (3) please describe cases where the use of the data has had an impact (e.g. has the  portal led to changes in citizen behaviour? How has the dashboard led to a change?)
+
+EG 2: What is the role of open data in the Park and Ride examples?";;15
+53;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Weather radar information - intended for monitoring precipitation, calculating its phase, quantity, speed of movement, and making very short-term forecasts. Radar is an indispensable tool in the operational work of forecasters. Radar detects precipitation in this way: the transmitter sends out a concentrated electromagnetic beam, and the receiver receives the energy that returns (""reflects"") from any object ""encountered"" in the path of the beam. After measuring the strength of the returned electromagnetic energy, the radar calculates the intensity of the precipitation. (https://beta.meteo.lt/?pid=radarai)
+
+Flood threat and risk in Lithuania maps (https://potvyniai.aplinka.lt/map).
+ 
+Dashboard for utility waste based on open data - https://app.powerbi.com/view?r=eyJrIjoiMDBjNTQ2MGYtNjdiNy00NTc4LTk1ZGQtOGNkMTAwNjVhMWFmIiwidCI6ImFmZjM2MzMxLTNlNWUtNDdlOC1hZjkzLTE4NTFkNmQxZmUzYiIsImMiOjh9 Data about waste level makes it possible to understand the current situation and to take the necessary steps to fight climate change (for example - make decisions to recycle more waste, encourage residents to recycle and etc.) 
+
+Weather radar information - intended for monitoring precipitation, calculating its phase, quantity, speed of movement, and making very short-term forecasts. Radar is an indispensable tool in the operational work of forecasters. Radar detects precipitation in this way: the transmitter sends out a concentrated electromagnetic beam, and the receiver receives the energy that returns (""reflects"") from any object ""encountered"" in the path of the beam. After measuring the strength of the returned electromagnetic energy, the radar calculates the intensity of the precipitation. (https://beta.meteo.lt/?pid=radarai)
+
+Flood threat and risk in Lithuania maps (https://potvyniai.aplinka.lt/map).
+ 
+Dashboard for utility waste based on open data - https://app.powerbi.com/view?r=eyJrIjoiMDBjNTQ2MGYtNjdiNy00NTc4LTk1ZGQtOGNkMTAwNjVhMWFmIiwidCI6ImFmZjM2MzMxLTNlNWUtNDdlOC1hZjkzLTE4NTFkNmQxZmUzYiIsImMiOjh9 Data about waste level makes it possible to understand the current situation and to take the necessary steps to fight climate change (for example - make decisions to recycle more waste, encourage residents to recycle and etc.) 
+„RESPONSE TO REVIEWER“: 
+1.	Please pay attention that the question does not ask to clarify a reuse case about primary or not primary use of the data. 
+2.	A) The tool about weather radar warns users about dangerous phenomenon and weather conditions (rain, storm, heat, solar discharges, magnetic storms, snowfall ) preventively . This do important impact to citizens health, property and lifes. 
+B) Flood threat and risk in Lithuania map is used by different target groups: emergency services, nature conservation officers, institutions serving waterways, roads, railways, municipalities, citizens, etc. In Lithuania there are some places which become very dangerous in spring or after strong storm. This tool does very big impact to proactively inform about impending or existing floods so that all stakeholders could prepare and act accordingly. Furthermore, this tool helps to develop the necessary infrastructure in dangerous areas for avoing disasters.
+C) The development of waste management solutions cities and other places are becoming more envornment-friendly. ";;;"Eg 1: please clarify that this is a reuse case for a new purpose and not a primary use of the data for its original purpose
+All examples: please clarify the impact of these examples. Eg how is the flood risk map used and was is the effect of this use?";;15
+54;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Registration system for public charging stations for electric vehicles (https://ev.lakd.lt/). Map of electric vehicle charger stations shows their location across the country, inspiring people to use green energy. 
+
+Trafi, a smart city solution for real-time mapping of public transport, is now a key platform in Lithuania but also in Germany, Indonesia, Switzerland and other- https://www.trafi.com/ Based on open data Trafi build solutions to move towards more eco-friendly cities - encouraging to use shared mobility and other ""smart"" systems that allows to reduce fuel consumption.";;;;;15
+;2.3d Economic impact;;;;;;;80
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+55;"Is any data on the economic impact (e.g. population employed, innovation and nw businesses created etc.) of open data available in your country? 
+
+For justification:
+* If yes, please (1) specify what kind of data proves this impact and (2) provide the URLs to this data. ";yes;"In 2022 Open Data Progress and Impact Assessment survey‘s results showed that open data created impact on economic - 53 % respondents from 165 state and municipal institutions and bodies (please look at the chart No. 11,  https://data.gov.lt/news/30)
+
+===Original====
+1.	Open data is a significant resource for developing services and products. Natural and legal persons (companies, startups and etc.) can use open data published on the Lithuanian open data portal free of charge. It is also possible to submit a request for missing data on the open data portal. We conduct different projects, which bring together public and private sector or create some other value. Our lasts projects: https://govtechlab.lt/lt/version_winner/4-0/.  
+2.	Datasets on different domains can be found on our national data portal, here are some examples classified by topics: sience and technology datasets - https://data.gov.lt/datasets?category_id=229. 
+";"The economic impact is hereby defined as the beneficial effect of the use of open data on three indicators of economic growth:  
+1) Level of employment, 2) Uptake of technology and innovation, 3) Level of etrepreneurship and new business created.";The examples listed seem to be reuse cases, which fit better Q56-Q58. For this question, do you have studies/data that demonstrate the impact created by open data on economic impact? (A good example is the Open Data Progress and Impact Assessment survey you used for Q40);;;20
+56;"Is the use of open data in your country having an impact on the level of employment? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"1.	Neurotechnology's solution (https://www.neurotechnology.com/  or https://data.gov.lt/usecases/examples ) enables the automatic collection of freely available data to draw conclusions about the labour market situation and future needs. The solution provides a comprehensive and systematic forecast of the region's labour market needs, allowing for targeted organisation of local vocational guidance services and the formulation of training and retraining services. The solution requires fewer human and financial resources.
+2.	Datasets on different domains can be found on our national data portal, here are some examples classified by topics: the unemployed datasets - https://data.gov.lt/datasets?q=&category_id=94. 
+";;;eg 1 seems relevant;;20
+57;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;IT solution (https://www.vilantis.ai/) developed by Vilantis enables the collection, processing and systematisation of up-to-date data on the knowledge generated by Science and research institutions (STIs) through the application of artificial intelligence solutions. A user interface has been developed to provide structured data, allowing the contribution of MSIs to different sectors of the economy to be analysed in two ways: a quick comparison using an interactive interface chart, or a detailed and cross-sectional analysis using a data dashboard.;;;;;20
+58;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"„RESPONSE TO REVIEWER“: 
+Lithuanian startup ""Ocredo"" enables small European companies to take advantage of greater business opportunities. By using different open datasets, this company creates a product that makes it easy to understand data and help businesses solve problems (https://bznstart.lt/verslas/startuolis/vilniuje-isikurusi-okredo-pritrauke-650-tukst-euru-uz-atviru-duomenu-platforma/, https://www.facebook.com/OkredoLT/videos/561536649037977/, https://okredo.com/en-lt/open-data-platform). 
+
+1.	Open data not only increases the transparency of the organization and contributes to the improvement of the services provided, but also provides greater opportunities to engage the public, researchers, analysts and organizations by providing access to open data in ways that are convenient for them. The most popular sets of open data of the Bank of Lithuania on the data.gov.lt portal are the following:
+-	Address data of ATMs installed in Lithuania, which are collected quarterly from payment service providers operating in Lithuania and independent ATM network managers;
+-	balance sheet data of insurance companies, compiled from the data of Lithuanian insurance companies (excluding their branches established in other countries) and the data of branches of insurance companies of other countries established in our country;
+-	external sector statistics, including balances of payments and international investments, foreign reserves and foreign debt statistics;
+-	statistical data of payments – statistical indicators reflecting the Lithuanian payments market, which are collected quarterly from payment service providers operating in Lithuania, i.e. banks, credit unions, payment institutions, electronic money institutions and branches of foreign payment service providers operating in Lithuania.
+(https://www.lb.lt/lt/naujienos/pasauliui-minint-atviru-duomenu-diena-lietuvos-bankas-kviecia-labiau-pasinaudoti-suteikiamomis-galimybemis) 
+
+2.	Neurotechnology's solution (https://www.neurotechnology.com/  or https://data.gov.lt/usecases/examples ) enables the automatic collection of freely available data to draw conclusions about the labour market situation and future needs. The solution provides a comprehensive and systematic forecast of the region's labour market needs, allowing for targeted organisation of local vocational guidance services and the formulation of training and retraining services. The solution requires fewer human and financial resources. Other IT solution - https://dayqanalytics.eu/. The app offers free analysis of more than 40,000. For more than 1.2 million employees, you can analyse the number of employees and salary trends by sector, activity and municipality. Data is analysed visually, quickly and interactively. Based on open data, users can draw insights, compare their company's performance against competitors, and develop the right reward policy. At the same time, transparency is promoted and efficiency is improved.
+";;;E.g. 1 is about relevant datasets and not reuse cases of the datasets. E.g. 2 does not seem relevant for Q58 but is a good examples for Q56 (where it is duplicated).;;20
+;Dimension 3: Open Data Portal ;;;;;;;620
+;"This part of the questionnaire is dedicated to assessing the solution your country chose for making the available open data discoverable. Typically, this is achieved through a national open data portal. 
+For simplicity, the following section will refer to this solution as the “national portal”.    
+Please provide where requested the URLs to the features inquired with the respective question. If access to the feature is restricted (back-end feature, log-in required), please provide a screenshot via e-mail as additional attachment (and note this here in the questionnaire). Please answer the questions below only in relation to the portal you indicated as the national portal of reference. Only URLs documenting the features available on this portal will be considered and scored.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                             ";;;;;;;
+;3.1 Portal features;;;;;;;258
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+59;"Is there a national portal in your country for making open data discoverable? 
+
+For justification:
+* If yes, please provide the URL of the national portal.
+* If no, please describe how you ensure the discoverability of the open data available in your country.";yes;https://data.gov.lt/?lang=en;;;;;20
+60;Does the national portal offer an advanced data search function (multiple field search, filter options, etc.)?;yes;N/A;;;;;10
+61;Does the national portal offer the possibility for users to download datasets (e.g. via a link)? ;yes;N/A;;;;;10
+62a;Does the national portal offer the possibility for users to search by file format? ;yes;N/A;;;;;10
+62b;Does the national portal offer the possibility for users to search by data domain? ;yes;N/A;;;;;10
+63;"Does the national portal offer to its users a way to programmatically query the metadata (e.g. via an API or a SPARQL access point)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;"https://data.gov.lt/public/api/1;  https://data.gov.lt/sparql";;;;;10
+64;"Does the national portal offer documentation on the use of APIs and other tools that enable working with the aforementioned metadata? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://data.gov.lt/api.json?group=public;;;;;10
+65;"Does the national portal enable users to provide content for the portal (e.g. to link documentation and supporting materials to a given dataset)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;Yes, registered users are able to provide and attach any information to data set in Comments section of each data set in Data set view window. Example https://data.gov.lt/dataset/2014-m-tiesiogines-ir-kompensacines-ismokos-uz-deklaruotos-plotus-ir-arba-gyvulius-gyvuliu-rusis. Also, data users can add related sets when describing different use cases;An example of such supporting material could be relevant studies or reports associated with the dataset e.g. documenting how the data was produced, the methodology etc.;;;;10
+66a;"Does the national portal offer a general feedback mechanism for users (e.g. a 'Contact us' or 'Feedback' button that is placed in a visible spot on the portal and would allow users to send a general comment concerning the portal)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"In front page of the portal on the top there is ""Request and suggestions"" tag. https://data.gov.lt/
+Additionally  data users can put a comment to any particular data set, to register data request.
+https://data.gov.lt/dataset/2014-2020-metu-europos-sajungos-fondu-investicijos; Or send message by email from first page ""Contact us""
+https://data.gov.lt/page/contacts";Please note that a general email address does not count as feedback mechanism in the sense of this question and will not be scored as such.;;This question is interested in contact functionalities on the portal. We do not accept general mailboxes. The specific examples of data requests and dataset-level feedback are relevant to other questions.;;10
+66b;"Does the national portal offer a feedback mechanism at dataset level? (e.g. a 'feedback button' or a comment/ discussion section under the dataset)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"Each metadata page has Comment field.
+The examples: https://data.gov.lt/dataset/valstybes-islaidu-biudzetas?lang=en
+https://data.gov.lt/dataset/isrinkti-politikai";The feedback mechanism does not include the possibility of a user to send in an email to a general address/the helpdesk.;;;;10
+66c;"Does the national portal provide a mechanism for users to rate datasets?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;An example: https://data.gov.lt/dataset/juridiniu-asmenu-vardu-lietuvoje-iregistruotu-keliu-transporto-priemoniu-duomenys?lang=en;Such mechanism could be a star rating system or similar voting/rating mechanism.;;;;10
+67;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://data.gov.lt/news;;;;;10
+68;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"Users can subscribe to data set update notifications. 
+An example https://data.gov.lt/dataset/juridiniu-asmenu-vardu-lietuvoje-iregistruotu-keliu-transporto-priemoniu-duomenys";;;;;10
+69a;"Does the national portal offer the possibility for users to request datasets? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://data.gov.lt/requests/request;Please note also that a specific “Request data” button is meant here. Should the data request function be accomplished by a general help desk contact form that has a specific field for data requests, please describe this as such in the justification box.;;;;10
+69b;If yes [to Q69a], what is the frequency of these requests? ;monthly;N/A;;;;;N/A
+69c;"Are these requests and their progress status presented in a transparent manner on the national portal? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://data.gov.lt/requests/submitted;A transparent presentation of these requests may be a machine-readable file on the national portal, or a separate section on the national portal that lists these requests. By providing a list of these requests, duplication of requests can be avoided, and time saved in filtering and answering these duplicate requests.;;;;10
+70a;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For justification:
+* If yes, please describe how this monitoring is conducted.";yes;Inquiries are registered on the portal and directed to the organization. If no organization is specified, the request is routed to the coordinator. The Chief Coordinator is responsible for resdirecting to specific data provider.;;;;;10
+70b;If yes [to Q70a], to what degree do these requests result in the publication of the requested data?;approximately half of the datasets;N/A;;;;;8
+71;"Does the national portal include a discussion forum or any other exchange possibility for users (whether data providers or reusers)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;"This Portal site (https://data.gov.lt/news/11) provides with references to ""Open data"" disscussion group registration form https://docs.google.com/forms/d/e/1FAIpQLSdhN96KdzhwGszzTc2E3Ubc_JgscrctmbUE_OHA--7U7C_hbQ/viewform;
+The user can comment on the dataset and other users can express their different views, also.";;;;;10
+72;"Does the national portal have a designated area to showcase use cases?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;https://data.gov.lt/usecases/examples;;;;;10
+73;"Does the national portal reference the datasets that the showcased use cases are based on?
+
+For justification:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;https://data.gov.lt/usecases/examples;;;;;10
+74;"Does the national portal provide the possibility for users to submit their own use cases?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;"https://data.gov.lt/usecases/examples
+https://github.com/tomasrasymas/Lithuania-legal-entities-dataset";;;;;10
+75;"Does the national portal offer a preview function for tabular data?
+
+For justification:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://data.gov.lt/usecases/examples;;;Example: https://data.gov.lt/dataset/investicijos-i-zemes-ukio-produktu-gamyba-ir-paslaugas-iskaitant-projektus-iki-150-000-lt-bendra-informacija;;10
+76;"Does the national portal offer a preview function for geospatial data?
+
+For justification:
+* If yes, please provide the URL to an example documenting this feature.";yes;"Spatial data metadata is provided from the primary geoportal, which contains a spatial preview:
+https://www.geoportal.lt/metadata-catalog/catalog/search/resource/details.page?uuid={E8FFE336-ABE2-4950-BD49-D8B2501C4B8A}
+„RESPONSE TO REVIEWER“: From LT domain  this link is OK. Probably access caused by network restictions.";;;Please check the link. I get an error: Nepavyko atlikti veiksmo.//Action failed.;;10
+77;"Following the publication of the implementing regulation (EU) 2023/138 on high-value datasets,  are you progressing in the promotion of such datasets on your national portal (e.g. filtering features and/or editorial features were added, changes were made to navigation...)?
+
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;"The extended classifier management of Categories is installed for detailed attribution accordingly to the necessary thematic graduality. This feture allows to filter data sets by the detailed used thematic category. Take a look to The list of additional evidences. 
+Also, a new version of the portal is in the testing phase. It includes a new filter called ""Dataset Groups"" and allows you to select any dataset group, including HVD.";;;;;20
+;3.2 Portal usage;;;;;;;135
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+78;Is the national portal mobile as responsive as the desktop version?;yes;N/A;Meaning the portal renders well on both mobile and desktop.;;;;10
+79;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For justification:
+* If yes, which tool(s) do you use?";yes;"Google Analytics; Internal portal statistics data https://data.gov.lt/reports/53; 
+Portal data usage statistics are summarized in the annual review https://data.gov.lt/file/e5143acd-1324-43fd-bf37-47896cda263f ";;;;;15
+80a;"Are traffic and usage statistics used to better understand users´ behaviour and needs and to update the portal accordingly?
+
+For justification:
+*  If yes, what insights did you gain last year from the reviews of these analytics? ";yes;"Portal data usage statistics are summarized in the annual review https://data.gov.lt/file/e5143acd-1324-43fd-bf37-47896cda263f;The report shows that mostly data were downloaded from the International Relations, Energy, Education, Social Security, Regions and Cities categories. Although the amounts of open datasets for these topics are less numerical. It was surprising that the collections of the most numerous Economic activities and business categories were relatively least downloaded.";;;;;10
+80b;"Do you perform further activities to better understand users´ behaviour and needs (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For justification:
+* If yes, please specify which activities.";yes;"We disseminate information on social networks 
+(Facebook - https://www.facebook.com/IVPKomitetas/posts/pfbid02dZZRrYbifQvQjkjXftVGLUXGZX21vwjvRF96J165B4WFo3wBho6Tx5WhTKmyEfAFl
+Linkedin - https://www.linkedin.com/feed/update/urn:li:activity:7054693483554443264) about open data sets and monitor the response of respondents.
+ We also analyze user comments and evaluations submitted on the portal, expressing the needs of open data, and monitor how institutions take them into account.";;;;;10
+81a;What is the typical profile of the portal visitor, as learned from activities such as web analytics, surveys, or social media analyses?;a bit of everything, no clear dominant group;N/A;;;;;10
+81b;"Does this profile match the type of audience your national portal wants to cater to?
+
+For justification:
+* If only partially, please specify which audience groups are missing.
+* If no, please briefly explain why.";yes, entirely;;;;;;10
+82;"How many unique visitors visit the national portal on average per month?
+
+For justification:
+* Please fill the average number per month in 2022 and select 'see answer box'. 
+* Please note that if you are a federal/regional state you can indicate the sum of the visitors of all sub-national portals harvested in the national portal.";see answer box;The mathematical average of unique visitors is 165.;Unique visitors refer to the number of distinct individuals accessing pages on the website during a given period, regardless of how often they visit that website. Visits refer to the number of times a website is visited, no matter how many visitors make up those visits.;;;;10
+83;"What percentage of the unique visitors to the national portal is foreign?
+
+For justification:
+* Please fill the percentage  and select 'see answer box'.";see answer box;0,85;;;;;N/A
+84;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For justification:
+* If yes, please briefly describe.";no;;;;;;0
+85;Do you monitor the most and least consulted pages?;yes;N/A;;;;;10
+86;"What data categories are the top 5 most frequently consulted on the portal, with 1 being the most popular one? 
+
+For justification:
+* Please indicate 1 = category X, 2 = category Y etc. and select 'see answer box'.";see answer box;"By the average number of downloads per one conditional set in the categoryd: 1- Energy; 2 - Social security (Peaple and Society); 3 -Regions and Cities; 4- Education; 5 - Justice, legal system and public safety;
+By the total number of dataset downloads in the category: 1- Social security (Peaple and Society), 2- Education, 3 - Energy, 4- International issues;
+By the total number of dataset views in the category: 1- Education, 2- Environment, 3- Business activity (~Economy and finances),4- Economy and Finances, 5- Social security (Peaple and Society). ";;;;;10
+87;"What datasets are the top 5 most frequently consulted on the portal, with 1 being the most popular one? 
+
+For justification:
+* Please indicate 1 = name dateset X, 2 = name dataset Y etc. and select 'see answer box'.";see answer box;"By the average number of downloads: 
+1- https://data.gov.lt/dataset/galviju-supirkimo-kainos-lietuvoje; 
+2 - https://data.gov.lt/dataset/automatizuotu-buitiniu-vartotoju-valandiniai-duomenys-agreguoti-pagal-regiona?lang=en; 
+3 -https://data.gov.lt/datasets?q=%22CV+duomenys%2C+nenurodyti+prie+kit%C5%B3+darbo+ie%C5%A1kan%C4%8Di%C5%B3+asmen%C5%B3+duomen%C5%B3%22;
+4- https://data.gov.lt/datasets?q=%22Laikom%C5%B3+%C5%ABkini%C5%B3+gyv%C5%ABn%C5%B3+duomenys%22; 
+5 - https://data.gov.lt/harvested/195?lang=en;
+By the total number of dataset views in the category: 
+1-https://data.gov.lt/dataset/galviju-supirkimo-kainos-lietuvoje, 
+2- https://data.gov.lt/dataset/automatizuotu-buitiniu-vartotoju-valandiniai-duomenys-agreguoti-pagal-regiona?lang=en, 
+3-https://data.gov.lt/dataset/sveikatos-prieziuros-istaigu-licenciju-duomenys,
+4- https://data.gov.lt/datasets?q=deklaruotos+, 
+5- https://data.gov.lt/datasets?q=%22COVID-19+pandemijos+duomenys%22. ";;;;;10
+88;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For justification:
+*If yes, please briefly describe.";yes;We evaluate how many steps it takes to find the desired set, which filters are the most convenient to use. The number of findeablity improvemnts are planned to make interface more user friendly to search and edit data sets. For example, the new version that we will introduce in 2023 uses a multi-level hierarchy of activity categories;;;;;10
+89;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For justification:
+*If no, please briefly explain why.";yes;;;;;;10
+90a;Do you run analytics on API usage, if metadata describing the datasets is accessible via an API?;yes;N/A;;;;;10
+90b;"If yes [to Q90b], what percentage of outgoing portal traffic is generated by API usage only?
+
+For justification:
+*Please fill the percentage  and select 'see answer box'.";see answer box;The architecture of the Lithuanian Open Data Portal consists of two parts - the Catalog (data.gov.lt) and the Data Repository (get.data.gov.lt). We only measure the traffic coming out of the data repository. Through the API, it accounts for 50%.;Here we are interested in distinguishing the volume of traffic generated by human users vs the traffic generated programmatically by API usage. We ask for outgoing traffic as it is more relevant than incoming traffic: the former is generated by the enquiries, but the latter by the responses.;;;;N/A
+;3.3 Data provision;;;;;;;87
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+91;"To what degree do public sector data providers contribute data to the portal? 
+
+For justification:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;All public sector organizations are obligated to register their open data metadata in the Portal. Currently, 142 Central Public Institutions and Municipalities contribute data sets to the Portal. By the end of the ongoing project all major centrally managed public data sets is going to be opened. ;Providers at federal, regional or local level, directly or indirectly, via direct uploading or harvesting of metadata. ;;;;12
+92a;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;;;;;10
+92b;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For justification:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"For example, the open data portal of Vilnius municipality is not yet integrated into the national portal https://opendata.vilnius.lt/dataset/;
+After negotiations with the representatives of the Vilnius portal, we agreed to implement the changes ensuring integration.";;;;;10
+93a;"Besides the national open data portal, are there other regional and local portals? 
+
+For justification:
+* If yes, please provide a complete list and the links to these portals.";yes;"https://www.geoportal.lt/geoportal/
+https://lietuvosfinansai.lt/en/lithuanian-finance-2/
+https://open-data-ls-osp-sdg.hub.arcgis.com/search?collection=Dataset
+https://vilnius.lt/smart_city_projects/atviri-duomenys/
+https://atviri.siauliai.lt/";;;eg https://vilnius.lt seems to be a local portal.;;N/A
+93b;"Are regional and local portals listed above [in Q93a] and their data sources discoverable via the national portal? 
+
+For justification:
+* If not applicable, please briefly explain why. ";yes;;;;;;10
+93c;"If yes [to Q93b], to what degree are existing regional and local sources harvested automatically? 
+
+For justification:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";all datasets;;;;;;15
+94a;"Does the national portal include datasets that are real-time or dynamic?
+
+For justification:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;„RESPONSE TO REVIEWER“:  Road's traffic and weather conditions data https://eismoinfo.lt/#!/ (posted on local infrastructure), which data are accessible searchable and downloadable  from the national data portal metadata catalog https://data.gov.lt/dataset/transporto-priemoniu-eismo-duomenys , in which there is source URL https://eismoinfo.lt/traffic-intensity-service. Data are updated dinamically as registered in primary DB. Those data are presented for citizens in user friendly application, also  https://eismoinfo.lt/#!/;Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time).;;Please clarify why this portal is relevant (vs https://data.gov.lt/datasets) or provide an example from the national portal;;10
+94b;If yes [to Q94a], what percentage of metadata links to such data? ;1-10%;N/A;;;;;N/A
+95;"Does the national portal provide a separate section where non-official data (not stemming from official sources, such as community-sourced/citizen-generated data) can be published? 
+
+For justification:
+* If yes, please provide the URL to this section. ";yes;The portal has the possibility to register datasets of public active groups. These collections must be assigned to the category of Collections of Public Groups.;Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;;;10
+96;"Do you have an overview of the data providers (official and non-official) on your national portal? 
+
+For justification:
+* If yes, please list the most important.";yes;"„RESPONSE TO REVIEWER“: In the portal ""Datasets"" page there is list of organizations (under ""Organizations"" filtr), in which, the number next to each organization, shows the number of open data sets. https://data.gov.lt/datasets?q=&has_data=true
+The most important data providers are Žemės ūkio duomenų centras, Nacionalinė mokėjimų agentūra, Registrų centras.  
+ 
+The progress of the data opening is presented in the overview https://data.gov.lt/news/36
+
+";;;For completeness, please list the most important  providers;;10
+97;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For justification:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";no;;This function can be useful towards reducing the amount of Freedom of Information requests for data that is transparently justified why it cannot be opened. The national portal might also publish the reasons for preventing publication, e.g. national security.;;;;0
+;3.4 Portal sustainability;;;;;;;140
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+98;"Does the national portal have a strategy to ensure its sustainability?
+
+For justification:
+* If yes, please provide the URL to this document. ";yes;The portal is legalized by a resolution of the Government of the Republic of Lithuania, which ensures its continuity and development https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/6e0d9154391911eabd71c05e81f09716?jfwid=wny8rexrn;A strategy could be a brief document and/or action plan listing the activities planned to ensure the portal’s sustainability over time.;;;;30
+99;Does this strategy include a description of the portal’s target audience and measures to reach this audience?;yes;;;;;;10
+100;"Is your national portal active on social media? 
+
+For justification:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"National portal does not have it's own social media account, communication about national portal and open data content is published on national coordinator social media accounts:
+https://www.facebook.com/IVPKomitetas
+https://www.linkedin.com/company/information-society-development-committee-under-the-government-of-the-republic-of-lithuania/";By active we refer to an account that publishes new materials at least once a week. A social media presence may include a Facebook, Twitter, LinkedIn account that regularly published open data related content. Ideally a social media account would help promote the open data and more specific portal activities and increase visibility of the open data published on the national portal. ;;;;10
+101;"Do you take actions to promote the national portal’s activities and the available open data (e.g. regular info sessions and/or events)? 
+
+For justification:
+* If yes, please provide at least one example of such activities.";yes;"There were some promotional actions:
+- open data workshops (both national wide and targeted groups)
+- press releases in national cordinator website, social media accounts and etc.
+- communication for registered portal users (open data news, invites to events, etc.)
+- created a channel called ""Atviri duomenys"" for open data enthusiasts in MS Teams 
+- we announce newly opened datasets";Actions could be regular promotion of the portal’s data and activities at events, an active social media presence, organising webinars to present the available datasets, use cases, the portal’s features to the broader public etc.;;;;15
+102;"Are the portal’s source code as well as relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For justification:
+*If yes, please provide (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;The portal code is available to registered users in the GitLab environment. Homemade solution SPINTA for automative describtion, extraction and publishing data (DEP Framework) is published https://gitlab.com/atviriduomenys/spinta/. User documentation is publicly available on the portal https://data.gov.lt/opening/learningmaterial;;;;;10
+103;"Was there a user satisfaction survey concerning the national portal conducted in the past year?
+
+For justification:
+*If yes, please briefly describe the key findings gained through this survey.";yes;The suggestions and feedback of the users of the portal are recorded in the portal and then analyzed. The analysis of user feedback has shown which functions of the portal need to be improved. Data search, previev, vizualization and other improvements to the portal are scheduled to be implemented in 2023.;;;;;10
+104a;"Is there a process by which the portal is reviewed and improved regularly? 
+
+For justification:
+*If yes, please briefly describe this process.";yes;User feedback and comments about portal features are collected and recorded in GitLab on a regular basis as they are submitted. The need for major changes to the portal is discussed once a year.;;;;;15
+104b;If yes [to Q104a], what is the frequency of these reviews? ;annually;N/A;;;;;N/A
+104c;"If yes [to Q104a], is the users’ feedback considered in the review process?
+
+For justification:
+*If yes, please briefly describe this process.";yes;User feedback is evaluated as soon as it is submitted before a decision is made to commit it to the changelist in GitLab. Priorities for changes are discussed during the preparation of annual plans for the implementation of necessary changes.;;;;;10
+105a;"Do you monitor via a dashboard the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;"The portal contains reports that provide statistics on datasets and their use by thematic category. The amount of open datasets is visible in the category filter https://data.gov.lt/datasets?lang=en 
+In the modernized version of the portal, the dashboard will allow analysis of data users, data demand, quantities of goods by category, areas of ministry supervision, update frequency, formats and other criteria. Some examples from new testing implementations: 
+https://test.data.gov.lt/datasets/stats/category/? 
+https://test.data.gov.lt/datasets/stats/frequency/?
+https://test.data.gov.lt/datasets/stats/format/?";;;The category filter aids users to discover datasets. Do you monitor/analyse the characteristics of published data on the portal and make these analytics available online?;;15
+105b;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For justification:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;The functionality of the portal allows data users to submit a data request, query and comment on a specific data set or missing required data directly to the data provider or to the Portal administration team.;Such mechanisms could refer to statistics that show publishers statistics concerning their data: the volume of published datasets/metadata records, information on quality of publication (formats, DCAT-AP compliance, licensing information), usage statistics such as downloads, visits, or use cases uploaded to the national portal referencing their data.;;;;15
+;Dimension 4: Open Data Quality;;;;;;;576
+;"Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.
+
+In section 4.3 `DCAT-AP Compliance`, the focus is on DCAT-AP exclusively. We are aware that many of the respondents may be compliant with other EU standards, such as INSPIRE. For the purpose of this assessment, only DCAT-AP and its country-specific profiles are relevant.                                                                                                                                                                                ";;;;;;;
+;4.1 Currency and completeness;;;;;;;111
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+106;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For justification:
+* If yes, please briefly describe your approach.";yes;"Newly opened datasets are required to update the data with the periodicity specified in the metadata. Data user can see if the periodisity value of data set consides date of the last update. In future foreseen implement an automatic mechanism for such verification.
+
+Currently we are in process implementing DCAT extensions to add metadata for each data field, we have to special data field types temporal and spatial. If data provider specified temporal or spatial types, then we are able to automatically detect and update temporal and spatial coverage.";Please note that a regular updating of metadata refers here to an updating that is in line with the characteristics of the dataset in question. Different datasets have different requirements of currency. For example, a gazetteer of city streets only changes when new buildings and roads are built, or street names are changed, whereas the data on current weather conditions may be updated in quasi-real time.;;;;20
+107;What percentage of the metadata is obtained from the source automatically, rather than edited manually? ;50-69%;N/A;;;;;11
+108;"What is the average delay from the moment the metadata describing a dataset is updated at your source, and the moment the change is visible on the portal (whether the process is automated or not)?
+
+For justification:
+* What type of data does this mainly concern?";within one day;Metadata is visible from the moment it is saved and published. It applies to any data set. The update of part metadata is synchronized with the update of the data itself.;;;;;40
+109;Where applicable, to what degree does the published data cover the full period from when it was first published until today? (for example, complete time series whether available for download or through an API);the majority of datasets;N/A;This applies both to individual datasets that change in time and to archives of the same dataset, e.g. one every year, every month etc. Administrative geography is an example of data that changes regularly. When new houses are built, new postcodes may be created, and the areas referred by pre-existing postcodes may change. Making available previous versions of a postcode reference file enables the reuser to correctly interpret the meaning of a postcode vs the relevant time context.;;;;20
+110;"Following the publication of the implementing regulation (EU) 2023/138 on high-value datasets, is your country progressing in ensuring interoperability of datasets, in particular high-value ones, alongside the datasets of another country?
+
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;We intend to implement all the requirements that will be defined in the High Value Data Regulation including interoperability requirements;"* The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138
+* Interoperability is the ability to access and process data from different sources and being able to integrate that data for mapping, visualisation, and other forms of representation and analysis.";;;;20
+;4.2 Monitoring and measures;;;;;;;155
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+111a;"Do you monitor the quality of the metadata available on your portal?
+
+For justification:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"We monitor and inspect:
+- that the content of the opened data fully complies with the description of the data structure (https://atviriduomenys.readthedocs.io/atverimas/struktura.html);
+- compleatness of mandatory metadata fields;
+
+Also data prividers are obligated to ensure data acuracy, completeness and freshness. Also, Users' comments on the accuracy and errors of the data must be reviewed and, if justified, adjusted. The implementation of DCAT requirements is ensured by setting mandatory fields, keeping the consistency and completeness of their completion. E.g. a dataset is given the status ""open data"" only when the required metadata is fully completed and the data is loaded. The portal can filter data according to their preparation status (Inventory, prepared metadata, open data). Automatic data quality assurance algorithms are also developed. ";;;;;20
+111b;"Do you publish information on the quality of the metadata available on the portal?
+
+For justification:
+* If yes, please provide the URL to this section. 
+* If the information is published e.g. as .csv file, please provide the link to this source.";yes;"Portal visitors can filter data according to the completeness status of datasets: inventoried, metadata
+done, data structure exists, Data updated. Detailed information on the quality and content of the data set is provided in the data structure (csv format. Example https://data.gov.lt/dataset/adresu-registro-gyvenamuju-vietoviu-tekstiniu-duomenu-rinkinys).";Such information can be made available as visualisations (e.g. the MQA tool of the EDP), or as downloadable file (ideally in .csv format) on the national portal.;;;;15
+112;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in choosing an appropriate licence for their data? 
+
+For justification:
+* If yes, please provide the URLs to these materials and/or tools.";yes;Data providers have access to the Creative Common licences descriptions to choose necessry type of licence by using the portal's usesr interface. A CC BY 4.0 license is offered by default.;Such guidelines can take the form of a document or tools (a licensing assistant) available on the national portal. An example of such tool is the data.europa.eu Licensing Assistant: https://data.europa.eu/en/training/licensing-assistant.;;;;20
+113;"Did you develop your own open licence/licencing suite to foster the publication of open data in your country?
+
+For justification:
+* If yes, please provide the URL to the document in which this licence is described and briefly describe the main reasons for doing so and the main differences between your country's open licence and the CC licencing suite.
+* If not applicable, please briefly explain why.";not applicable;We deside to use CC licencing suite;;;;;10
+114;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences or of your own licensing suite?
+
+For justification:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* If not applicable, please briefly explain why.";yes, CC licences;The point 15 of Open data regulation (https://www.e-tar.lt/portal/lt/legalAct/82167b30b0ea11ec8d9390588bf2de65) states: For each set of open data, which is not subject to other data reuse conditions than specified in paragraphs 1, 2 and 3 of Article 8 of the Law, the type of reuse license is determined from the list selected on the Portal according to the international Creative Commons copyright model (https://creativecommons. org/licenses/?lang=en).  ;;;;;10
+115;What percentage of the open data available on the national portal is accompanied by licensing information? ;71-90%;N/A;;;;;15
+116;How has the percentage of datasets accompanied by licencing information changed compared to the same period last year? ;increased, or already >90%;N/A;;;;;10
+117;Across all datasets you distribute, how many different licences are used on your portal?;1-4;N/A;;;;;10
+118;"Are guidelines and tools provided for data providers to improve the quality of their data publication? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;All of the guidlines and tools are published https://atviriduomenys.readthedocs.io/brandos-lygio-kelimas/index.html. ;Guidelines (check-lists) can enable publishers provide their data in open and machine-readable formats (.csv or .xml instead of proprietary non-machine-readable formats). Other tools can assist publishers to clean up the actual data (e.g. OpenRefine, programming languages such as R).;;;;15
+119a;"Are there regular activities conducted or mechanisms in place to incentivise and/or assist data providers in the publication of data in machine-readable formats? 
+
+For justification:
+* If yes, please briefly describe.";yes;For an ongoing open data project (2020-2023), there is a requirement to provide data in machine-readable formats. Also, institutions not participating in the project are also strongly encouraged to open there data in a machine-readable formats.;By ‘regularly’ we mean a bi-annual or at least annual frequency for activities such as e-learning modules and materials, webinars, meetings. Incentivisation can include the promotion of good quality datasets, e.g. featuring them on the portal homepage, showcasing the publishers as best practices at data providers’ events. Assistance can be provided through formal processes (e.g. data audits), training sessions with data providers, other training and/or awareness raising activities (‘roadshows’) etc.;;;;15
+119b;"Are there regular activities conducted or mechanisms in place to incentivise and/or assist data providers in the publication of high-quality metadata?
+
+For justification:
+* If yes, please briefly describe.";yes;Data providers, when opening data, accordingly to the methodology (https://atviriduomenys.readthedocs.io/dsa/index.html) must prepare and present on the portal a detailed description of the data structure, which also includes data semantics and data linking.;By ‘high-quality metadata’ we refer to metadata that provides information in plain language – accurate, current and complete, on all DCAT-AP mandatory fields as well as relevant recommended and optional DCAT-AP fields.;;;;15
+;4.3 DCAT-AP Compliance;;;;;;;180
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+120;"Do you supply data providers with documentation on DCAT-AP (e.g. factsheets, materials published on the EC websites such as the JoinUp platform, or your own documentation)? 
+
+For justification:
+* If yes, please provide examples of this documentation and the respective URLs.";yes;https://atviriduomenys.readthedocs.io/search.html?q=DCAT&check_keywords=yes&area=default;See https://joinup.ec.europa.eu/;;;;25
+121;"What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource)
+
+For justification:
+* If DCAT-AP is not a priority for the portal, please explain why.";>90%;;For more information, please see https://joinup.ec.europa.eu/catalogue/distribution/dcat-ap-version-11 ;;;;25
+122a;"What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document)
+
+For justification:
+* If the use of recommended classes is not a priority for the portal, please explain why.";>90%;;;;;;20
+122b;"What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency)
+
+For justification:
+* If the use of optional classes is not a priority for the portal, please explain why.";>90%;;;;;;20
+123;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For justification:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;"
+Extensions relate to the national interest in having more comprehensive metadata. For example, a hierarchy of categories. https://atviriduomenys.readthedocs.io/dsa/index.html";;;;;5
+124a;Do you investigate the most common causes for the lack of DCAT-AP compliance?;yes;N/A;;;;;25
+124b;"If yes [to Q124a], what are the main causes for the lack of DCAT-AP compliance?
+
+For justification:
+* Please list the most common causes and select 'see answer box'.";see answer box;Various reasons, mostly depending on the external catalogs we are importing metadata from, or problems with our current catalog implementation. in 2023 we will release a new version of the portal that will remove the inconsistencies.;;;;;15
+125a;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;According to the DCAT-AP definition, the ‘download URL’ property contains a URL that is a direct link to a downloadable file in a given format.;;;;20
+125b;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;According to the DCAT-AP definition, the ‘access URL’ property contains a URL that gives access to a distribution of the dataset. ;;;;25
+;4.4 Deployment quality and linked data;;;;;;;130
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+126;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For justification:
+* If yes, please briefly describe.";yes;We use 5-5tar Open Data model. At the dataset level we assign stars based on distribution format used. But at individual data field level, stars from 0 to 3 are assigned manually, but 4 and 5 are detected automatically by checking if a data model has a primary key if field is a reference to another data model and if an association with external vocabulary is provided. So first at dataset level we have a very approximate rating, but on data fields level, we have a very precise rating.;For more information, please visit: http://5stardata.info/en/ or https://joinup.ec.europa.eu/sites/default/files/inline-files/W3C04.pdf.;;;;15
+127;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data (such as promoting the model referenced in the previous question)?
+
+For justification:
+* If yes, please briefly describe.";yes;Yes, we ask data providers to provide data structure description tables. With help of such tables and companion automated tools, we are able to increase data queality quite easily. If data itself is in good shape, then the rest is mostly matter of filling in some additional metadata about individual data fields. We keep track of data quality for each individual data fields and data users can easily request to miproved data maturity of each data field or even collaborate and provide missing metadat themselves, which can imporove data quality.;;;;;30
+128a;What percentage of datasets is made available under a standard open licence or an explicit custom open licence, in any data format including text documents? ;>90%;N/A;;;;;20
+128b;Of the percentage indicated in the previous question (Q128a), what percentage of datasets is made available under a standard open licence or an explicit custom open licence, in a structured data format?;>90%;N/A;"Refers to open data that is available on the web under an open licence, in a structured format (=machine-readable format that is proprietary, such as .xls; .xlsx). Please note that formats such as .pdf; .jpeg; .png, .doc(x) are not considered machine-readable formats and should hence not be counted towards this answer.";;;;25
+128c;Of the percentage indicated in the previous question (Q128b), which part is also in an open and machine-readable format?;>90%;N/A;Refers to open data that is published in an open (=non-proprietary) machine-readable format. A non-proprietary format is a format for which a user does not require a proprietary software package (such as Microsoft Office Excel) to explore. An example of an open format is the comma-separated values (CSV) format for tabular data.;;;;25
+128d;Of the percentage indicated in the previous question (Q128c), what percentage of datasets also consistely use Uniform Resource Identifiers?;<10%;N/A;"Refers to open data whose comprising objects are accompanied by unique identifiers. An identifier may be the object’s name (e.g. city name ‘Luxembourg’, or ‘10717’ -- a Berlin postcode), or a word describing the object (‘population’; ‘gender’), or another arbitrary identifier such as ‘XYZ0’, an identifier that makes sense only in the context of that dataset. Choosing identifiers based on known standards should be the common practice though, to facilitate data integration and linked data.";;;;0
+128e;Of the percentage indicated in the previous question (Q128d), what percentage of datasets also links to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;;;;;0
+129;"Do you monitor the improvements in terms of quality of open data deployment?
+
+For justification:
+* If yes, please briefly describe how.";yes;"Data providers contributs data structure description tables. Companion automated tools checks data compliance to data structure.
+We keep track of data quality for each individual data fields and data users can easily request to miproved data maturity of each data field or even collaborate and provide missing metadat themselves, which can imporove data quality.";;;;;15

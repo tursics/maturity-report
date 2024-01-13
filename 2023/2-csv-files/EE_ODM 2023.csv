@@ -1,0 +1,852 @@
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+;;;;;;;Total Score:;2440
+;;;;;;;Unsure Score:;0
+;;;;;;;"Preliminary Score: 
+(Total - Unsure)   ";2440
+;Respondent Information;;;;;;;
+;Please provide written information to the question in `Justification` column. Where applicable, select an answer option from the drop-down options in the `Answer` column. ;;;;;;;
+;0.1 Background information;;;;;;;
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+R1;What is your country?;N/A;Estonia;;;;;N/A
+R2;What is your organisation?;N/A;Ministry of Economic Affairs and Communications;;;;;N/A
+R3;What is your name?;N/A;xxx;;;;;N/A
+R4;What is your position/role?;N/A;xxx;;;;;N/A
+R5;What is your email address?;N/A;xxx;;;;;N/A
+R6;What is the size of national open data team (core team members);N/A;6;;;;;N/A
+R7;How many FTE(s) are in the national open data team?;N/A;4,5;;;;;N/A
+R8;What is the annual budget of the national portal?;400-600.000 EUR;N/A;This is the annual budget for all portal activities (portal development and maintenance, promotion and awareness-raising activities) of the national portal. This should include the budget for the national portal team, whether an internal team or external contractors.;;;;N/A
+;0.2 data.europa.eu and national open data portals;;;;;;;
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+R9;"Are you satisfied with data.europa.eu as a European single point of access?
+
+For Justification:
+* If you selected 'yes', what do you consider particularly good about data.europa.eu as European single point of access? 
+* If you selected 'no', how would you improve data.europa.eu as European single point of access? ";yes;In addition to the fact that it is a single point of access to data, we find it very useful that on the same portal you can find  a lot of helpful and practical information like event announcements, news, studies, etc. We also very appreciate the community built around data.europa.eu.;;;;;N/A
+R10;"Does the portal data.europa.eu reflect the data that your national portals hosts? 
+
+For Justification:
+* If you selected 'no' or 'partially', how would you improve data.europa.eu to better reflect the data on national open data portals like the one in your country?";no;Currently we are having some technical issues regarding reflection of our data on the European portal. Our open data team is dealing with this issue together with the European portal representatives in order to understand the cause of the problem.;;;;;N/A
+;Dimension 1: Open Data Policy;;;;;;;640
+;"Please note that this section differentiates between open data policy and open data strategy. Policy here refers to all principles/initiatives set out to achieve the goals established by the Open Data Directive, including specific national legislation put in place to transpose the EU law. With strategy, on the other hand, we define a document outlining the concrete vision, mission, objectives, measures to be implemented, timeline and responsible. An open data strategy would ideally include information on the open data governance structure and operating model.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                                                                                                                                                                                                                                                                                                                        ";;;;;;;
+;1.1 Policy framework;;;;;;;275
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+1;"Is there a national open data policy in your country and does this include a national legislation for the transposition of the Open Data Directive (if your country is an EU Member State)?
+
+For Justification:
+* If yes, please provide (1) the URL and (2) title of the policy document and briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"The Open Data Directive was adopted in Estonia as a legislative act called Public Information Act (PIA) https://www.riigiteataja.ee/en/eli/ee/510122021005/consolide/current .  This piece of legislation regulates data publishing in Estonia, including regulations regarding open data publishing, re-use of open data, high-value datasets, etc; There is also the Green Paper on Machine-Readable Open Government Data, which gives guidelines on open data publishing https://www.riha.ee/api/v1/systems/eaatv/files/cdbfa8bd-2594-8ad3-6022-ff3d3dbf6781";The answer option 'Other' should be selected by countries that do not have a specific open data policy in place but have a national policy (on data, digitalisation, artificial intelligence, eGovernment or similar) that explicitly includes open data in its text and scope.;;;;30
+2;"Is there a national open data strategy in your country?
+
+For Justification:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;Our Open Data Action Plan was recently renewed and covers actions and strategic goals for years 2023-2024. New action plan is yet to be approved by the government, so it isn't publicly available yet. The main highlights of the plan include actions and strategies in 4 dimensions (public sector, private sector, education and legislation) with a focus on upskilling public officials, publishing open data and its quality improvement, as well as open data reuse growth. The general goals (publishing public sector data as open by default) are stipulated in the Public Information Act: https://www.riigiteataja.ee/en/eli/ee/510122021005/consolide/current. (includes the goal of fostering open access to publicly funded research data among other known principals from the OD PSI Directive). Previous Open Data and Data Management action plans for 2021-2022 are available on the national open data portal https://avaandmed.eesti.ee/instructions/action-plans-for-open-data-and-data-management-2021-2022. ;The answer option 'Not applicable' can be selected if e.g. there is no specific strategy in place, but the existing policy refers to the objectives, actions/measures to be implemented, delivery timelines, responsible etc. Should another explanation apply in your case, please provide it in the justification text box.;;;;30
+3;"Has this national strategy/policy been updated in the past 24 months?
+
+For Justification:
+* If yes, please briefly describe the main changes. ";yes;Yes, the Open Data Action plan was updated for the new period 2023-2024, previous action plan covered years 2021-2022. The new action plan should be viewed as a continuation of the old one with a stronger focus on the data reuse as well as actios related to data publication. It also gives a better overview of the current situation, main challenges and strategical perspective of the planned actions.;;;;;10
+4;"Is there any further open data policy/strategy at regional or local level?
+
+For Justification:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;Digital transformation is handled on all levels. There are agencies and municipalities, which include topics related to digitalization and open data in their strategies. For example The Development Strategy Tallinn 2035 (https://strateegia.tallinn.ee/) includes goals on spatial data like making them more available. Environmental Board strategy 2022–2025 (https://keskkonnaamet.ee/en/media/3613/download) has separate chapter dedecated to open data, where they underline the importance of the freely available data high of quality and its impact on boosting innovation and making informed decisions. Similar tendecies can be notices across over agencies as well.;;;;;10
+5;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For justification:
+If yes, please briefly describe the main measures described by the action plan.";yes;The Open Data Action plan 2023-2024 includes concrete actions divided into quarters for the next two years in a four main categories - public sector, private sector, education and legislation. Activities include, but are not limited to, upskilling public officials, further developments of the national open data portal, events, communication, support of the open data projects, support of open data publication and its reuse etc.;;;;;25
+6a;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;We have activities to incentivise the publication of and access to open data (e.g. make more data colected and available via API). Recommendations for data providers on how to provide open data, including dynamic data, have been published at https://avaandmed.eesti.ee/instructions/avaandmete-loomise-juhend. In addition, the EU Structural Funds funding scheme for public sector IT developments requires open data to be provided according to user needs.;Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time). ;;;;15
+6b;"Does the national strategy/policy outline measures to incentivise the publication of and access to geo-spatial data (e.g. in relation to high-value datasets as specified in the implementing regulation (EU) 2023/138)?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;Together with the Ministry of Finance we continue working on a project, which will allow to collect and publish geo-spatial data from and for municipalities. Moreover, according to action plan we are preparing to regulate high-value data sets in the Public Information Act, which also include geo-spatial data.;"Geo-spatial data is data that contains information on properties that are linked to a position on earth. 
+
+The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138";;;;15
+6c;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"One of the goals of Estonia’s Digital Agenda 2030 (https://www.mkm.ee/media/6970/download) is achieving human-centric digital government. To achive that we plan to raise the awareness of people and the general public of human-centric digital government and the reliability of technology. Our Open Data Action plan includes activities on creating and keeping up-to-date e-courses including topics of open data, which describe open data concept, publication process, and reuse both for public oficials and citizens. Moreover, we constanly working on raising user-friendliness of our open data national portal and making data publishing as easy as possible.
+====
+To help boost publication to data generated by citizens we have created online courses at our government digital academy on open data and its publication (https://digiriigiakadeemia.ee/), we also carry out trainings on specific fields. We have carried out trainings on data literacy, which we plan to roll-out across the nation to raise competences and awareness. Today, this is covered in our digital-centric data governance vision and agenda. From technical means, we have created consent service, which enables citizens to share their government held data with external stakeholders. Today, over 300 000 consents have been generated to enable access to citizen data. 
+
+There are also domain specific activities to incentivse publication and access to data generated by citizens. For instance, eBiodiversity (https://elurikkus.ee/en), which operates much on citizen generated data to understand biodiversity in Estonia, nation-wide campaigns are ran to incentivse. We carried out Donate your Speech campaign to incentivise people to make their speech data available as open data (https://oecd-opsi.org/blog/estonians-donate-a-speech-preserving-language-and-driving-digital-service-delivery/). Similarly, there are other initiatives related to weather, trash, energy consumption, infrastructure which incentivise publication/access to citizen generated data.";Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;Please comment on any measures that incentivise the publication/access to data generated by citizens;;15
+6d;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For justification:
+* If yes, please briefly describe how.";yes;Yes, we plan to make mentioned data discoverable through our national portal, which is connected with data.europa.eu portal.;;;;;10
+7;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"New Open Data Action plan has a strong focus on open data reuse as well as raising open data quality. We plan to provide monetary support for open data projects; systematize our approach on educating and supporting public entities; initiate a few bigger open data publication and reuse projects in the near 1-2 years; conduct regular events to share knowledge and expertice in the field of data reuse and open data based projects, etc . The Green Paper on Machine-Readable Open Data includes measures such as conducting events targeted to re-users, improving data quality by ensuring that all new information systems are capable of providing at least 4-star open data, etc. (Green Paper, Annex 1: https://www.riha.ee/api/v1/systems/eaatv/files/cdbfa8bd-2594-8ad3-6022-ff3d3dbf6781) ";These measures should promote concepts such as data-driven government, policy-making and decision-making.;;;;15
+8;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"Yes, it outlines the measures together with our action plan, where have a quite strong focus on private sector. Here are some measures we are planning to implement in the two upcoming years:
+Mapping the need for open data in the private sector and making such data available;
+Carrying out a wider communication campaign to inform about open data and the ways it can be reused;
+Providing monetary support  for the development of services based on open data.";These measures could promote concepts such as smart cities and/or regions, but also new business development (in particular Small - and Medium-sized Enterprises), entrepreneurship etc.;;;;15
+9a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For justification:
+* If yes, please briefly specify.";yes;"The Public Information Act mandates data holders to make their data accessible through the national open data portal. Data Inventory in Estonia is called RIHA (https://www.riha.ee/Avaleht) where catalogues of information systems and databases is accessible.
+Supporting information can be found in the Public Information Act (https://www.riigiteataja.ee/en/eli/510122021005/consolide), chapter 5 (1) DATABASES.";A data inventory is a comprehensive catalogue of datasets held by an organisation.;;;;15
+9b;"If yes [in Q9a], do these data inventories also include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For justification:
+* If yes, please briefly specify.";yes;A full overview of what public sector information systems and data is available on the state information system's website: https://www.riha.ee/Infosüsteemid?sort=meta.update_timestamp&dir=DESC. According  to  the Public Information Act all databases/registries that belong to the state  information system must be registred at RIHA.;The Data Governance Act (EU) 2022/868 seeks to increase trust in data sharing, strengthen mechanisms to increase data availability and overcome technical obstacles to the reuse of data. It also aims to support the set-up and development of common European data spaces in strategic domains, involving both private and public players, in sectors such as health, environment, energy, agriculture, mobility, finance, manufacturing, public administration and skills. The Data Governance entered into force on 23 June 2022 and, following a 15-month grace period, will be applicable from September 2023. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R0868;;;;10
+10a;"Has your country started working towards the application of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Justification:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.
+";yes;N/A;The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;"Kindy fill in the column ""Publications of HCD in machine-readable formats via APIs"" in the table below. This column was hidden in the original questionnaire. Sorry.";;;20
+;Categories of high-value datasets;;;Degree of progress (from 1 to 5);;;;
+;;Organisational progress;Legal progress ;;Technical progress ;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;
+;Geospatial;5;5;5;5;5;5;
+;Earth observation and environment;5;5;5;5;5;5;
+;Meteorological;5;5;5;5;4;5;
+;Statistics;5;5;5;5;5;4;
+;Companies and company ownership;5;5;5;5;4;4;
+;Mobility;5;5;5;5;5;5;
+10b;"Are there measures in place to assist other stakeholders’ involvement in this prioritisation process?
+
+For justification:
+* If 'yes, other measures', please specify which measures. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes, regular consultations;We provide regular consultation and support in the publication of HVD and ensuring all stakeholders are involved, communication is prioritised after publication, ensure stakeholders needs are considered. We evaluate and fund initiatives and activities related to the publication of HVD. ;Stakeholders could refer to open data reusers (business, civil society) or other actors that might not be direct reusers of the data (e.g. engaged or interested citizens).;;;;10
+10c;"Are the public bodies in your country progressing in denoting relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For justification:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";not applicable;"We are currently working on adding a separate metadata element to describing open data, which includes separate category ""high-value dataset"" and extending the functionality in the government open data portal. Work started after the implemenetation of HVD.";The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;;;;15
+11a;"Are the objectives/actions of the national open data policy/strategy in place in your country in line with one or more of the European Commission priorities for 2019-2024?
+
+For Justification:
+* If yes, which of the following six priorities and how?
+* Multiple answers are possible. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;N/A;Please find for reference the European Commission´s priorities for 2019-2024: https://commission.europa.eu/strategy-and-policy/priorities-2019-2024_en;;;;15
+;Priorities;Yes/No/NA;Action taken to align with the selected priority;;;;0;
+;"A European Green Deal
+Transforming the EU into a modern, resource-efficient and competitive economy, while preserving Europe’s natural environment, tackling climate change and making Europe carbon-neutral and resource-efficient by 2050.";Yes;"The development and management of digital government are based on climate and environmental friendliness. Where possible, the option that is more climate and environmentally friendly 
+is chosen when introducing a new solution and the 
+environmental footprint of digital government is 
+reduced.(Estonia’s Digital Agenda 2030, p19, https://www.mkm.ee/media/6970/download )";Example: Green mobility has been prioritised as high-value dataset.;;;0;
+;"A Europe fit for the digital age
+Embracing digital transformation by investing in businesses, research and innovation, reforming data protection, empowering people with the skills necessary for a new generation of technologies and designing rules to match.";Yes;Estonia's Digital Agenda 2030 mentions the importanceof  launching widespread reskilling and upskilling initiatives in connection with digital skills. Overall direction of the Digital agenda is to digitalize as much public services as we can and as much as needed.;Example 1: The strategy explores how open data can be used to foster the digitalisation of public services.                                                                                                                 Example 2: The strategy/policies foresee open data education projects to improve data literacy among citizens.;;;0;
+;"An economy that works for people
+Strengthening the EU economy while securing jobs and reducing inequalities, supporting businesses, deepening the Economic and Monetary Union and completing the banking and capital markets union.";Yes;One of the goals mentioned in Estonia's Digital Agenda 2030 (p.4)  is making the Estonian economy  innovative and knowledge-based, using new technologies and business models as well as flexible forms of work. The contribution of the development plan lies in the creation of favourable conditions for business research and development and innovation. The Estonian economic environment invites people to work here, establish companies or do business virtually, invest, create and test new solutions which benefit the society at large.;Example: One of the objectives of my country´s open data policies/strategies is to create economic value by stimulating new buiness opportunities.;;;0;
+;"A stronger Europe in the world
+Strengthening the EU’s voice on the world stage by improving its standing as a champion of strong, open and fair trade, multilateralism and a rules-based global order. Boosting relations with neighbouring countries and partners as well as strengthening the EU’s ability to manage crises based on civilian and military capabilities.";Yes;Making Estonia’s cyberspace resilient to cyberthreats and trusted ( Estonia's Digital Agenda 2030 , p. 39-44). ;Example: Gender inequality has been prioritised as high-value dataset.;;;0;
+;"Promoting our European way of life
+Upholding fundamental rights and the rule of law as a bastion of equality, tolerance and social fairness. Addressing security risks, protecting and empowering consumers, as well as developing a system for legal and safe migration while effectively managing the EU’s external borders, modernising the EU’s asylum system and cooperating closely with partner countries.";Yes;Becoming  human-centric digital government. ( Estonia's Digital Agenda 2030 , p. 17-18). ;Example: Migration has been prioritised as high-value dataset.;;;0;
+;"A new push for European democracy
+Strengthening Europe’s democratic processes by deepening relations with the European Parliament and national parliaments, protecting EU democracy from external interference, ensuring transparency and integrity throughout the legislative process, as well as engaging more widely with Europeans in shaping the EU’s future.";Yes;Promoting international cooperation. We want Estonia to be expected and wanted in all international cooperation formats in the field of digital technology and an esteemed contributor to international policy-making. We want to actively we participate, both on the European Union and international level.  ( Estonia's Digital Agenda 2030 , p. 33).;Example: One of the objectives of my country´s policies/strategies is to increase transparency and facilitate public participation in policy debates.;;;0;
+11b;"Are there any other overarching objectives or specific actions of your country´s open data policy/strategy that you would like to mention?
+
+For justification:
+*  If yes, please specify. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";Yes;Most of the the main points are mentioned in the strategies, which were brought as an example in the previous answers, but there are a lot of local strategies/initiatives, which serve the same purpose.;Example: Fight corruption,increase transparency in public administrations.;;;;N/A
+;1.2 Governance of open data;;;;;;;190
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+12;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For justification:
+*  If yes, please briefly explain how this participation is ensured. 
+* If you have a different way of ensuring the participation and/or inclusion of different stakeholders in your country, please select 'not applicable' and explain.";yes;"The Ministry of Economic Affairs and Communications (MoEAC) is responsible for leading open data policy in Estonia.
+The have established public sector inter-departmental open data working group, which involves members from different interested ministries and other public sector organizations (e.g. National Audit Office, City of Tallinn). The working group meets on a regular basis (at least once a month) and participation is also open to non-members (e.g. civil society, private companies, academia). The working group aim is to share news, upcoming changes, share expiriences. Other stakeholders can participate in the governance process through stakeholder discussion events, such as the annual Open Data Forum or smaller workshops throughout the year devoted to specific open data issues. 
+Previous year the MoEAC together with other public authorities established Data Stewards Steering Group. Data Stewards Steering Group brings together data stewards from different public authorities to ensure the sustainable and balanced development of the data field. Steering group focuses on such topics as data retrieval, data quality improvement, data re-use, data life cycle management, and data protection requirements.
+Moreover, we have our own network on place connecting more than 500+ public sector oficials, which we use for information sharing, conducting surveys, promotion of events, etc.";;;;;30
+13;"What is the model used for governing open data in your country? 
+
+For justification:
+*  Could you briefly describe why this model was chosen/works best for your country?";top-down;Usually the MoEAC  leads different initiatives, provides a platform for others to promote their initiatives and plays the major role in engaging others. At the same time we are very open to initiatives from other authorities and sectors and encouredge them to be an active part of open data community. ;;;;;N/A
+14;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For justification:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";yes, all initiatives;Yes, all initiatives get support. Usually, it is monetary support or guiding authorities through implementing their initiatives.;;;;;20
+15;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For justification:
+* If not applicable, please explain why.";all public bodies;;By initiatives we mean policies, strategies or portals that focus on the respective local/regional level.;;;;20
+16;"Are the governance structure and its operating model (including the people and the team responsbile for open data activities) published online and accessible to the public?
+
+For justification:
+* If yes, please provide the URL where this information is published. ";yes;"Yes, we have 3 main platforms through which people can find our contact.  
+National Open Data Portal - contact of the national portal product owner is marked on the footer of every page on the national portal.
+https://www.kratid.ee/kontakt - Our teams webpage, where we post information related to data and AI topics has separate page for our contacts and support we provide.
+https://digiriik.eesti.ee/kusi-abi - E-service design toolbox also includes contacts of our team members, who can assist others on data related topics.
+Liable authorities are appointed in the PIA (https://www.riigiteataja.ee/en/eli/ee/510122021005/consolide/current)";;;;;20
+17a;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For justification:
+* If yes, please provide the URL where this information is published. ";yes;Resposibilities of our team members are described on our webpage https://www.kratid.ee/kontakt . Governance structure is explained in the Open Data Action plan. Current one is still waiting to be accepted on a governmental level, so we can provide the link to the previous one https://avaandmed.eesti.ee/instructions/action-plans-for-open-data-and-data-management-2021-2022;;;;;20
+17b;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;People who are maintaining the national portal  are a part of our national open data team. This year national portal was finally transfered to the Estonian Information System Authority. Product owner of a portal is a team member of the national open data team. We conduct regular weekly meetings and once a month we conduct meeting, which involves other members of a national data team to keep everyone up-to-date and exchange knowledge.;;;;;20
+18;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For justification:
+* If yes, please describe how this task is fulfilled at public body level.";yes;"According to the Official Statistics Act (https://www.riigiteataja.ee/en/eli/ee/517122019002/consolide/current), the national statistics agency Statistics Estonia is responsible for coordinating data governance at the central government level, while MoEAC is responsible for strategic planning. Organizations are free to either assign the role of data steward to an existing position or recruit a separate data steward.
+Previous year the MoEAC together with other public authorities established Data Stewards Steering Group. Data Stewards Steering Group brings together data stewards from different public authorities to ensure the sustainable and balanced development of the data field. Steering group focuses on such topics as data retrieval, data quality improvement, data re-use, data life cycle management, and data protection requirements.";;;;;20
+19;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers? 
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"We have the dat working group, which meets on a regular basis (at least once a month) and participation is also open to non-members (e.g. civil society, private companies, academia). The working group aim is to share news, upcoming changes, share expiriences (some meeting recordings are made public on our youtube channel https://www.youtube.com/playlist?list=PLrWgTNfFucnldKMzbpucJ1uv5pdsCvTxR). 
+Also we have Data Stewards Steering Group brings together data stewards from different public authorities to ensure the sustainable and balanced development of the data field. Steering group focuses on such topics as data retrieval, data quality improvement, data re-use, data life cycle management, and data protection requirements.";;;;;20
+20;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Other stakeholders can participate in the governance process through stakeholder discussion events, such as the annual Open Data Forum or smaller workshops throughout the year devoted to specific open data issues. Some working group meetings aim to bring together all stakeholders together, not depending on their organisation. Information about such public events we post on our webpage - https://www.kratid.ee/uritused;Exchanges can take place via formal formats (e.g. round-tables, conferences) or less formal formats (e.g. meet-ups).;;;;20
+;1.3 Open data implementation;;;;;;;175
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+21;"Do data publication plans exist at public body level?
+
+For justification:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"Public bodies have their own data publication plans, which they compile as part of their organizations' strategies and action plans (e.g One of the strategies of The Information Technology Centre of the Ministry of the Environment includes open data publication plans for every year from 2022-2025 https://envir.ee/media/5809/download )
+Some public organisations apply for monetary support provided by the MoEAC for carrying out their IT projects, one of the conditions for getting the support is open data publication, which would emerge during the project or be used for the project. This way open data publication plan becomes a part of the IT project plan.";For data publication plans we refer to the existence of a specific workflow or internal data management process for publication of datasets. ;;;;20
+22a;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For justification:
+* If yes, please specify the process(es).";yes;National Open Data team  follows up on the implementation of the plans with the respective data providers and provides advice, including technical support  together with State Information System Authority and Statistics Estonia. Information on the topics we provide support with is provided on our webpage https://www.kratid.ee/tugi-andmehaldus. ;;;;;15
+22b;"If yes, would you describe the status of implementation as satisfactory/neutral/unsatisfactory? 
+
+For justification:
+* Please motivate your answer.";satisfactory;All achieved agreements and plans in most of the cases got fulfilled by the organisations. ;;;;;N/A
+23a;"Are there any processes in place to asses if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the re-use of public sector information).
+
+For justification:
+* If yes, please specify the process(es).";yes;Most of the cases are found and investigated by the MoEAC, who has detailed overview of the data domain. Such cases are quite rare, so the MoEAC holds an information about most of them and with every year situation gets better.;;;;;15
+23b;If yes [to Q23a], to what degree is data provided by public sector bodies free of charge?;all datasets;N/A;;;;;15
+23c;How has this degree changed compared to the previous year?;increased, or already all datasets;N/A;;;;;10
+24a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For justification:
+* Please briefly describe.";N/A;"1) Making publishing and (re)use of data a priority for the authorities;
+2) Increasing open data quality and availability;
+3) Tackling human resource problem.";;;;;N/A
+24b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For justification:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to cope with these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"All mentioned problems and others are constantly addressed. The greatest potential we see in open dialogue and being open for support requests.
+1) ""Making publishing and (re)use of data a priority for the authorities"" - we underline the importance of the open data through various events and showing the real impact of open data using different reuse cases. We've created the support mechanisms like help with dataset description, meetings where we talk about open data 101, educational videos and courses about our portal and open data in general for the begginers, etc.  
+2) ""Increasing open data quality and availability"" - together with other authorities we work on creating the guidlines and instructions for data managment in general. Also, we have a regular steeward group meetings, where all data related questions are addressed and best data managment experiences get shared. From the side of the technical infrastracture, we are working daily on making national open data portal more useful, comfortable and having range of functionalities. 
+3) ""Tackling human resource problem"" - educating public sector officials is one of lines we are puting a lot of effort. We create our own e-courses, hire professionals for conducting physycal and online courses, as well as working with universities to involve more data and open data topics into all universities' programms and creating a new once.";;;;;10
+25a;"Are there any activities in place to assist data providers with their open data publication process?
+
+For justification:
+* If yes, please describe/provide examples of these activities.";yes;"We've created the support mechanisms through which we help with dataset description (https://www.stat.ee/en/statistics-estonia/data-governance); conduct meetings where we talk about open data 101 (https://www.kratid.ee/tugi-andmehaldus); film educational videos and create courses about our portal and open data in general for the begginers (https://digiriigiakadeemia.ee/enrol/index.php?id=23  and https://digiriigiakadeemia.ee/enrol/index.php?id=24), etc.  Also on the national portla we have guidlines on various topics https://avaandmed.eesti.ee/instructions";E.g. a task force/agency that is in charge of promoting and assisting the data publication process at national and/or regional and local levels (where applicable).;;;;15
+25b;"Are there activities to assist real-time and/or dynamic data holders in their publication process?
+
+For justification:
+* If yes, please provide some examples of such activities.";yes;MoEAC provides consultations and there is also a possibility to get finanacial support from MoEAC. Other support activities mentioned in 25a apply as well.;Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time).;;;;10
+25c;"Are there activities to assist geo-spatial data holders in their publication process?
+
+For justification:
+* If yes, please provide some examples of such activities.";yes;All mentioned above support mechanisms apply to geo-spatial open data providers. It should also be mentioned that the national portal allows to use AP and MoEAC provides fianacial support for the open data publication if needed;Geo-spatial data is data that contains information on properties that are linked to a position on earth.;;;;10
+25d;"Are there activities to assist citizens or their working organisations in the publication of citizen-generated data?
+
+For justification:
+* If yes, please provide some examples of such activities.";yes;"Our e-courses, where to get an inspiration and understand the first steps for publishing open data, are available for eveyone (https://digiriigiakadeemia.ee/enrol/index.php?id=23  and https://digiriigiakadeemia.ee/enrol/index.php?id=24). 
+Some of our events are conducted for general public as well, where people can get aninspiration for open data publication. 
+National portal provides guidelines on publishing open data https://avaandmed.eesti.ee/instructions/andmestiku-lisamine-muutmine-ja-kustutamine . People, who would like to know more about publication process, can always contact data team of the MoEAC, our contacts can be found on the national portal."; Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;;;10
+26a;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For justification:
+* If yes, please briefly describe these training activities.";yes;This year we plan to conduct around 10 trainings dedicated to topics related to data, which also contribute into open data quality and publication. In addition we plan to create 1-4 online courses, which would be available to everyone on our online learning platfrom digiriik.eesti.ee;Ideally such trainings are organised in the frame of the professional development programmes for civil servants and address both data literacy and skills.;;;;15
+26b;"If yes [to Q26a], do these training activities offer a certification that is formally recognised? 
+ 
+For justification:
+* If yes, please briefly describe.";yes;Not all trainings provide participants with the certificates, but most of them do. It depends on the format of the training and training provider. ;;;;;10
+27a;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond public servants? 
+ 
+For justification:
+* If yes, please provide a few examples (e.g. title, date, location of the event and URL).";yes, >9;Annualy we conduct around 10 online events (https://www.youtube.com/playlist?list=PLrWgTNfFucnldKMzbpucJ1uv5pdsCvTxR) and 2 big physical events, one of which is fully dedictaed to open data (https://www.kratid.ee/urituste-salvestused). On the online events we share policy updates, introduce new topics related to data, and provide organisations with the opportunity to speak about their work in the open data field.;;;;;20
+27b;"Who organises most open data related events?
+ 
+For justification:
+* Please provide a few examples of typical organisers.";national public bodies;The MoEAC tends to be the main organiser but there are some national and local initiatives as well.;;;;;N/A
+;Dimension 2: Open Data Impact;;;;;;;600
+;"Assessing the impact of open data is still generally considered a new field, with no consensus, for example, on the definition, or methodologies to measure impact. Nonetheless, there are several elements that are considered essential to demonstrating impact, such as monitoring and measuring the reuse of published open data. Given this, the impact dimension in this questionnaire tries to capture the extent to which countries have been making progress in monitoring the reuse of open data and based on that, in measuring the impact of open data on specific governmental, societal, environmental, and economic challenges of our time. Countries are encouraged to provide, whenever possible, examples of reuse for each impact area/topic. Yet, please note that data.europe.eu does not consider the availability of reuse examples as a direct evidence of impact.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                                                                                                                         ";;;;;;;
+;2.1. Strategic awareness;;;;;;;170
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+28;"Do you have a definition of open data reuse in your country?
+ 
+For justification:
+* If yes, please specify it.";yes;"According to Public Information Act (https://www.riigiteataja.ee/en/eli/ee/510122021005/consolide/current) § 3.  Re-use of public information
+ (1) The re-use of information is the use of such public information, the public use of which is not restricted by law or pursuant to the procedure established by law (hereinafter open data), by natural persons or legal persons for commercial or non-commercial purposes other than the initial purpose within the public duties for which the information was obtained or produced. The exchange of information between holders of information for the performance of their public duties does not constitute re-use of information.";;;;;10
+29;"Is there interest at national level to observe the level of reuse of open data in your country?
+ 
+For justification:
+* If yes, what activities/efforts have you observed within public bodies that support your observation?";Yes, there is a strong focus;"Public authorities promote their open datasets and reuse cases at events such as the public sector working group and even more so at AI use case events (https://www.youtube.com/playlist?list=PLrWgTNfFucnnkCATq8ebZxtoNL01ilkD8) or offline events like Open Data Forum.
+National portal has separate use-cases page https://avaandmed.eesti.ee/usage-stories.";"With 'national level' we refer to either central government, federal government, or top ministries.
+Examples of such activities could be regular information sessions and/or promotion of published data at conferences and other events. ";;;;15
+30;"Are there any processes in place to monitor the level of reuse of your country's open data, for example via the national open data portal?
+ 
+For justification:
+* If yes, please briefly describe these processes and provide the URLs to support the answer.";yes;Use-cases of open data can be found through national portal, page called use-cases (https://avaandmed.eesti.ee/usage-stories). As well, natinal portal provides information on the number of dataset's downloads, which can indirectly indicate the level of re-use. We also discuss use-cases during monthly working group meetings, where authorities present their use-cases. Use-cases are also shared during big annual event - Open Data Forum. ;;;;;20
+31;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For justification:
+* If yes, please briefly describe these activities/incentives and provide the URLs to support the answer. ";yes;One of the means to encourage pubic bodies to reuse open data is annual competition, where  we select best data publishers, best reuse cases and best visualization cases. During the year we are trying to find the most noticeable/valuable cases to make a shortlist in 3 categories. Digtal voting is open for everyone and we distribute an information about the competition via our mailing lists, social media and through our events. Winners get an award from the ministry, usually we present books on the topic reletad to data. Winners as well get marked on our portal.  After we winners have been choosen, they are invited to share their knowledge in our data working group meeting. Information about this year winners can be found here https://medium.com/digiriik/eesti-avaandmete-valdkonna-silmapaistvad-panustajad-2023-1f353177c0b0;Incentives could for example be training, financial incentives, or awards.;;;;20
+32;"Is your country progressing in preparing to monitor and measure the level of reuse of high-value datasets following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+ 
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;We will monitor their use through API and download rates.;The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;;;;15
+33;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For justification:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;The Information Society Strategy (https://www.mkm.ee/media/6970/download) the impact of data and its meaning is covered in many points: 1) data-driven state where any decision is based on data and that is reached by re-using data (pg 14), 2) Consent Service (https://github.com/e-gov/NT/blob/master/EN.md) and the economic impact to be had from sharing your personal data. Not open data but it still emphasizes the importance of data re-use because of its economic potential (pg 18). MoEAC has defined impact through use cases where opening up has had any type of impact.;;;;;20
+34;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For justification:
+* If yes, please briefly describe the key points of this methodology.";yes;"Our methodology is heavily centered around use cases/user stories because we had a discussion about measuring impact with numbers being the centre of it all, but it is very difficult to assign ""a price"" to a dataset. MoEAC and Statistics Estonia composed a questionnaire made up of 7 questions that ranged from defining the profile of a data re-users (to basically understand your customer) to actual examples they know of that are stemmed from their agency's datasets.
+This  year we plan to carry out a procurement to analyze the impact of open data in Estonia, overall value of open data, and creat methodology for further measurments.";With methodology we refer to practices, frameworks, methods developed/employed, regardless of their maturity level.;;;;30
+35;"Are there studies that have been conducted in the past year that focus on assessing the impact of open data in your country?
+
+For justification:
+* If yes, please provide examples and the URLs to such studies to support your answer.";yes;"The MoEAC annualy conducts Open data impact measurment survey across public bodies (https://avaandmed.eesti.ee/instructions/avaandmete-mojuhinnang-avalikus-sektoris-2022).
+This  year we plan to carry out a procurement to analyze the impact of open data in Estonia, overall value of open data, and creat methodology for further measurments.";;;;;25
+36;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For justification:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;E.g. last year we carried out the first Estonian government AI testbed competition, which invited everyone with expertise in data science and analysis to join an experimental testbed to find solutions to real-world problems using open data (https://medium.com/digiriik/esimesed-riiklikud-andmeteaduse-taibutalgud-d2ee7ec582ee). Universities took part of this competition and in this collaboration we have created more than 300 AI based soulitions for solving 5 problems formulated by public sector.  ;;;;;15
+;2.2 Measuring reuse;;;;;;;110
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+37;"Have any public bodies in your country launched or performed any activities in the past year to map which and how (open) datasets are reused?
+
+For justification:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;;;;;40
+;Type of activity;Mark relevant activties below;Brief description;;;;0;
+;Analysis of log files;Yes;done through national portal;;;;0;
+;Automated feedback mechanisms tracking users´ access to datasets;Yes;done through national portal;;;;0;
+;Surveys;Yes;Annual survey by the MoEAC (including open data topics);;;;;
+;Interviews/workshops with reusers;Yes;events and meetings with stakeholders;;;;0;
+;Other;No;;;;;0;
+38;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers´needs?
+
+For justification:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;;;;;40
+;Type of activity;Mark relevant activties below;Brief description;;;;0;
+;Regular feedback sessions with portal users ;Yes;events and meetings with stakeholders;;;;0;
+;Social media sentiment analysis ;No;;;;;0;
+;Other;Yes;public authorities speak directly with their clients and some of them conduct potential cliental surveys based on their own needs;;;;0;
+39a;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For justification:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;"The MoEAC doing it through meet-ups with other public sector representatives, NGOs, academia, and private sector.
+
+The following answer was partial from our end. A key part in collecting reuse cases is through yearly data maturity assessment, where public bodies are required to provide information on reuse cases, an overview of last years maturity assessment can be found in https://avaandmed.eesti.ee/instructions/public-sector-impact-assessment-of-open-data-2022. We also carry out assessment in the private sector. During the last assessment, we involved roughly 2000 Estonian companies representing different areas and sizes for representative purposes, in addition to interviewing and meeting with representative bodies, universities and clusters. These are regular activities we do to understand private  sector, NGO and other stakeholder needs and requirements regarding open data. During the meetups, focus group interviews and 1-1 interviews, we collect information on data re-use, stakeholder needs, investment requirements and so forth.";;;Please elaborate on this approach. How do you gather reuse cases systematic through these meet-ups?;;20
+39b;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For justification:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;"Data classification in Estonia is mainly based on the areas data-based solutions impact. On our national open data portal we tend to collect the main reuse cases, so they would be accessible from one place.
+
+The following answer was partial on our-end. For reuse cases we classifify specifically based on the geographic areas the use-cases cover and which public body data has been mainly used for the reuse case. The data itself is tied to 12 areas, that is, science and technology, agriculture, fisheries, forestry and food, energy, environment, population and society, economy and finances, justice, legal system and public safety, health, government and public sector, education, culture and sport, transport and regions and cities.";;;"For a full understanding/clearer definition, please provide examples of the ""areas data-based solutions impact"".";;10
+;2.3 Created impact;;;;;;;320
+;2.3a Governmental impact;;;;;;;80
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+40;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country? 
+
+For justification:
+* If yes, please specify what kind of data proves this impact and provide the URLs to this data.";yes;"Main impact includes government being more efficient and transparent. Also, we see an increasing trend on data-driven decision/making on governmental level. We notice that enteties tend to have more willingness to develope technologies and find the ways of solving problems using data. 
+The impact can be monitored mostly by the reuse. Open data reuse is very popular internally within the organization: many institutions have created interesting usage stories based on their open data, the most common of which are data visualizations. There are institutions that have found that they help non-thematic parties to better interpret very specific data and thus alleviate the institution's workload of clarifying the data logic.  Reuse cases can be found on our national portal in the use cases section https://avaandmed.eesti.ee/usage-stories. The number of use cases is constantly growing.  
+Every year we carry out an impact assessment of open data and data managment in the public sector, results are published on our open data portal (on estonian language). Year 2022  - https://avaandmed.eesti.ee/instructions/avaandmete-mojuhinnang-avalikus-sektoris-2022
+
+The yearly impact assessments are a systematic study, not anecdotal. Which are in addition assisted with additional studies and impact assessment requirements for public bodies. There are examples in all ministries and areas, where impact has been created and measured. For instance, Estonian Agricultural Registry is using satellite data (open data available through esthub) to verify whether the grasslands have been mowed to automate and support decision-making capacity, transportation authority is using open data to understand the likelihood of traffic accidents happening and plan investments to improve traffic management, Tallinn is using open data gathered through crowdsourcing to plan public investments in road maintenance and planning (https://gis.tallinn.ee/andmekorje/?fbclid=IwAR14eN87q_KGScM_E8jJVHHPdbOUdKnUKsss3rD-a24dFMZYMosQZ-JH_aU), and so forth. 
+
+For instance, in the traffic accident likelihood project, we understood what are the key factors that contribute to the traffic accidents and how likely it is that traffic accidents take place, the F1 score was for specific classes (road which are less likely to have any major accidents and thus need intervention) was 0.98794618 and so forth. In the agriculture use-cases, the precision is roughly 85%, which means in most cases the public official doesn’t need to do on-site inspections, thus contributing to efficiency.";"The governmental impact is hereby defined as the beneficial effect of the use of open data on three specific challenges faced by the government/public administrations: 1) Being efficient and effective in delivering public services; 2) Being transparent and accountable in their actions; 3) Improving their capacity to make decisions and policies.";;It is not clear if this information is anecdotal or based on research in the impact study. We would be interested to understand the data and statements from the impact assessment, as a systematic study. Examples of reuse cases are suitable for Q41-Q44.;;20
+41;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"My municipality („Minuomavalitsus“) project goal is better local governments’ services all over Estonia and raising public awareness of the organisation of local services and increase citizens’ informed involvement in discussing local priorities. The Ministry of Finance of Estonia shares hundreds of criteria to create systematised overview of the state of local governments’ services. Through application you can have an overview of the 18 different services provided by local governments and compare local governments’ service levels.  
+We know that municipalities use the indicators and service levels of the municipality in their development plans when setting and measuring goals. The data and indicators published by the local government was also used in national development documents (e.g. Estonia's Digital Agenda 2030).
+Moreover, it was noticed that My municipality project also had an impact on implementing participatory budget projects in a numer of municipalities. Application: https://minuomavalitsus.fin.ee/en";;;;;15
+42;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;The X-Road Metric (logs.x-tee.ee/visualizer/?profile=EE) is a visual application made on the basis of the Information System Authority open data, through which it is possible to see who communicates with whom via X-road (Data Exchange layer used in Estonia, X-Road connects different information systems that may include a variety of services. It has developed into a tool that can also write to multiple information systems, transmit large data sets and perform searches across several information systems simultaneously). X-Road Metrics is a tool for collecting, storing and analysing reporting data and metrics from an X-Road ecosystem. The data can be used to measure usage of individual services, understand dependencies and relationships between different information systems and services, monitor service health, etc. ;;;;;15
+43;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;The Citizen Initiative Portal Rahvaalgatus.ee enables people to write proposals, hold discussions, compose and send digitally signed collective addresses to the Estonian Parliament (Riigikogu) and the local government. The proposals should aim at improving the society or amending existing regulations. Rahvagatus.ee uses the open data of the Estonian Parliament's document register in order to directly publish the procedural information of each collective appeal at the moment it is published in the document register and to inform subscribers of the updates via e-mail. In addition to using open data, Rahvaalgatus.ee has created its own open data API, through which activists can keep an eye on the progress of initiatives in their field.;;;;;15
+44;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"1) My municipality (https://minuomavalitsus.fin.ee/en) indicators are being used in the discussions of budget negotiations held annually between ministries and municipalities, the service levels of My municipality have started to be used to find problem areas and prove their arguments. So this project assist data-driven decision-making.
+2) Statistics Estonia's creates dashboards (https://juhtimislauad.stat.ee/en), which include easy-to-use visualizations of various statistical indicators for all local municipalities in Estonia, including all the main services provided by local administrations, e.g. education (number of schools, students), construction and housing, unemployment and social benefits, etc. Dashboards help to understand the real situation in the state across several fields and make more informed decisions.";;;;;15
+;2.3b Social impact;;;;;;;80
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+45;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country? 
+
+For justification:
+* If yes, please specify what kind of data proves this impact and provide the URLs to this data.";yes;"Main impact is seen on raising the level of citizen's awarness, spreading  knowledge about social problems and tackling them. Also data helps to find out the problems, which have to be solved. .
+The impact is monitored mostly by the re-use cases of open data. Some of them are brought below. More re-use cases can be found on our national portal in the use cases section https://avaandmed.eesti.ee/usage-stories . The number of use cases is constantly growing. 
+Every year we carry out an impact assessment of open data and data managment in the public sector, results are published on our open data portal (on estonian language). Year 2022  - https://avaandmed.eesti.ee/instructions/avaandmete-mojuhinnang-avalikus-sektoris-2022
+
+We have additional information to question 47 as requested.";The social impact is hereby defined as the beneficial effect of the use of open data on four specific challenges for society: 1) Including minorities, migrants, and/or refugees  and reducing inequality, 2) Alleviating housing issues, 3) Fostering health and wellbeing, 4) Improving education.;;We would be interested to understand the data and statements from the impact assessment, as a systematic study. Examples of reuse cases are suitable for Q46-Q49.;;20
+46;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees (e.g. from the Ukrainian war)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;Equality center or Võrdsuskeskus is an application made by The Ministry of Social Affairs together with Norway grants. The purpose of an application is to create more equal and balanced society, showing data on men and women roles in Estonian. Topics showing inequality include work life, family, politics, education, civil society, media representation, business, criminal, etc. Application https://vordsuskeskus.ee/et/andmebaas;;;;;15
+47;"Is the use of open data in your country having an impact on the society´s level of awareness concerning housing in urban areas? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"PLANK is a national unified urban planning database developed by Ministry of Finance of Estonia. The database simplifies and speeds up access to urban planning data making process more comfortable and transparent for authorities, businesses, and residents. The central database ensures the accuracy of the data and allows various stakeholders to be sure that the available urban plans are up to date, what makes sure that a construction project can be prepared the right way.  Application: https://eehitus.ee/timeline-post/plank/
+
+To extend the answer, for every municipality that has not made their data available and for citizens themselves, receiving the information is time consuming. There was a total of approx 10,000 searches, of which 2,844 searches ended with a query (on average 3 requests every month for each local government). Each search took on average 60 min, average. Through making data available, the data can be found in less than 10 minutes, making it much more accessible to people. The data itself is also used for planning and understanding the impact on environment, urban planning and much more (https://planeerimine.ee/aktid-ja-kohtulahendid/orme-planeerimine/ and https://planeerimine.ee/ruumiline-planeerimine/moju/), various studies are also made to assess the impact: https://planeerimine.ee/category/uuringud/.";Data that provides information on the housing market, rental market, property valuations, sales, planning, zoning, census data on socio-economic variables for cities and/or neighbourhoods, other housing issues such as homelessness, empty dwellings, gentrification.;;Do you have reuse cases that provide examples of reusers putting this special database to use?;;15
+48;"Is the use of open data in your country having an impact on the society´s level of awareness on health and wellbeing related issues (also but not only in light of the COVID-19 pandemic)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;On the Health Board's vaccination website  (ta.vaktsineeri.ee/et/statistika) you can find statistics on the vaccination against infectious diseases in a visualized form. The graphs show vaccination coverage data for the whole of Estonia. The overview is based on vaccination against more than 20 infectious diseases, and the data can be viewed by year, quarter, county, and age group. The solution created based on Tableau software provides an overview of the health of Estonian residents and helps in assessing the risks of getting an infection as well as raises the awarness about vacination.;;;;;15
+49;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"1) Haridussilm (https://www.haridussilm.ee/ee ) is a portal, which holds the data on different levels of education in Estonia and reflects indicators related to the success of participation in learning and entering the labor market. Haridussilm also provides an overview of the goals of the education strategy and moving towards them. Portal helps to spot problems in education system using data.
+2) The Estonian museums' information system (MuIS) contains almost 4 million objects (musealia) from all over the world. Based on open data they got created accurate prediction model allowing both museum workers and ordinary users to find the objects more easily, enhance the national memory and improve its preservation. ";;;"the Estonian museums' information system (MuIS) example seems to be a relevant use case because it was used to create a prediction model.
+The Haridussilm does not seem to be a reuse case but rather a portal that makes open data more accessible to users";;15
+;2.3c Environmental impact;;;;;;;80
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+50;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country? 
+
+For justification:
+* If yes, please (1) specify what kind of data proves this impact and (2) provide the URLs to this data. ";yes;"Estonia aims to become the green digital state, so we try to contribute more into inventing solutions for fighting the climate change. For example, green way of thinking is applied developing infrastracture of the cities and making cities smart. People and enteties use data to choose there to put solar panels. Cities use sensors that detect light and noise polution, so they can collect the data and to take measures for reducing the level of pollution. People exploit detectors, which measure how much electricity or other resourses they use, finding the ways to cut down exessive spendings. 
+The impact is monitored mostly by the re-use cases of open data. Some of them are brought below. More re-use cases can be found on our national portal in the use cases section https://avaandmed.eesti.ee/usage-stories . The number of use cases is constantly growing. 
+Every year we carry out an impact assessment of open data and data managment in the public sector, results are published on our open data portal (on estonian language). Year 2022  - https://avaandmed.eesti.ee/instructions/avaandmete-mojuhinnang-avalikus-sektoris-2022
+
+We have additional information to question 51 as requested.";The environmental impact is hereby defined as the beneficial effect of the use of open data on four specific challenges connected to the environment: 1) Protecting biodiversity (e.g. maintaining a good level of air and water quality), 2) Achieving more environmental-friendly cities (e.g. in terms of transport and waste management), 3) Fighting climate change and connected disasters, 4) Increasing the use of renewable sources of energy.;;We would be interested to understand the data and statements from the impact assessment, as a systematic study. Examples of reuse cases are suitable for Q51-Q54.;;20
+51;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"1) eBiodiversity is a portal for the taxa found in Estonia. Currently portal provides information on more than 31 697 species. It not only helps to educate people, but also encourages citizens to care more about fauna in Estonia. Application:  https://elurikkus.ee/en. 
+
+The data itself is widely used by various different organisations, for instance, BirdLife Estonia links to eElurikkus for highlight observations of birds (https://www.eoy.ee/), use the data for migration census (https://www.eoy.ee/ET/17/18/rande-uurimine/), plan for the protection of important bird and biodiversity areas (https://www.eoy.ee/ET/17/19/iba/). The data is widely used also by the research community, for instance in 2023 alone research on exploring the nature and strength of the semiotic relation has been published (https://www.ceeol.com/search/article-detail?id=1128136) and How is plant biodiversity inside grassland type related to economic and ecosystem services: An Estonian case study (https://www.sciencedirect.com/science/article/pii/S0167880923000889?casa_token=CUyzkKTNmL8AAAAA:6EzmiJ4XGyUvOtHo-u1YS147_XaSsdcexXBP1ETnNj8kakCWH7MO-QDM-RRh3fPppRJ_4Hj8gYhg).
+
+2)The Agricultural Registers and Information Board (PRIA) statistics module (pria.ee/infokeskus/statistika) is a statistics module where everyone can find various information about PRIA topics, such as the number of animals or the amount of monetary support farmers get. The visualized data is conveniently divided into seven categories. The data is continuously updated so that users have access to up-to-date data in a visualized form. Interactive graphs are created using Power BI software. The PRIA statistics module makes data related to rural life easy to understand for everyone.
+
+Data, data visualisations and additional information are widely used to provide overview of funding (https://www.pria.ee/infokeskus/statistika/toetused) together with how much funding has been paid out, to many farmers, on what grounds, the sustainability of it etc. Various studies and research have utilised the data, for instance, Organic farming in Estonia 2023 (https://orgprints.org/50813/) and Are bees attracted by flower richness? Implications for ecosystem service-based policy (sciencedirect.com/science/article/pii/S1470160X23010695).";;;These examples seem to relate to portals, which make data more accessible to users but are not reuse cases. For example, the eBiodiversity portal is a special collection on the topic which encourages uptake of the data and makes the data more reusable. But reuse is when data held on the portal is used for some new purpose. Please clarify the reuse cases and their impact.;;15
+52;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"1) Each year, the Estonian Health Board inspectors are measuring the quality of drinking water in more than a thousand water stations. Based on that open data there  was made a predictive water quality model that enables the Health Board to prioritize the tests or react proactively to the deterioration of the water quality. The goal of this solution is to predict the water quality in Estonian water stations based on the government’s open data. The accurate prediction model would enables to increase the quality and accuracy of the work of water inspectors and ensure consistently high drinking water quality.
+2) Open data available on climate and environment is needed, by local governments to prepare climate and energy plans and to assess the achievement rates of set indicators. Today such plans have been prepared in almost half of the municipalities.";;;;;15
+53;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;ILM+ is the first national weather app made by Estonian Environment Agency. It allows not only see the weather forecast but also inspires people to share their weather observations, thus pay closer attention to the environment. Application https://keskkonnaagentuur.ee/ilmpluss/en;;;;;15
+54;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;Rexplorer rexplorer.ee is an information system for designing solar power plants based on dozens of map layers and integrated data. Using open data on hourly sunlight and electricity consumption combined with satellite photos, Rexplorer makes the initial solar panel planning process so fast that it only takes five minutes. They consider it their mission not only to ensure a green future, but also to create a database that would enable data sharing with other researchers and enthusiasts.;;;;;15
+;2.3d Economic impact;;;;;;;80
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+55;"Is any data on the economic impact (e.g. population employed, innovation and nw businesses created etc.) of open data available in your country? 
+
+For justification:
+* If yes, please (1) specify what kind of data proves this impact and (2) provide the URLs to this data. ";yes;"We are working closely with private sector to detect their needs in open data and share the knowledge we currently poses, so they won't need to spend time and money on the things, which already exist and can be reused. As well we try to inspire them to publish their open data. Our goal is to have more open data use cases generated by private sector, which can be used for creating servises and technologies as well as making private sector more transperant. We notice that there is still some lack of knowledge regarding opportuities government can provide, but we are working on it. From our side we conduct different projects, which bring together public and private sector or create some other value.  
+In advance, the impact is monitored mostly by the re-use cases of open data. The number of external uses reported to us is lower, but this is often also due to the fact that institutions often do not know how exactly the data has been re-used. The profile of the users is known, but the exact cases of use are not. In most cases, open data is also published under such a license that, in the case of re-use, it is not necessary to refer to the owner, so it is not possible to fully identify all usage stories – especially those where several data sets are interconnected. Some of them are brought below https://avaandmed.eesti.ee/usage-stories . The number of use cases is constantly growing.
+Every year we carry out an impact assessment of open data and data managment in the public sector, results are published on our open data portal (on estonian language). Year 2022  - https://avaandmed.eesti.ee/instructions/avaandmete-mojuhinnang-avalikus-sektoris-2022  
+
+For clarification, we base and evaluate the economic impact of open data on the following dataset: https://ec.europa.eu/newsroom/dae/redirection/document/93686 and https://ec.europa.eu/newsroom/dae/redirection/document/93915. There are also dashboards available at: https://tooturg.stat.ee/, which are used to decide and plan measures for the nation regarding employment and supporting economy. Various tools are also built to support the decision-making based on the changes in the labour market, for example OTT and MALLE (https://www.etag.ee/wp-content/uploads/2022/05/RITA_MAITT_LOPPARUANNE_FINAL.pdf).";"The economic impact is hereby defined as the beneficial effect of the use of open data on three indicators of economic growth:  
+1) Level of employment, 2) Uptake of technology and innovation, 3) Level of etrepreneurship and new business created.";;We would be interested to understand the data and statements from the impact assessment, as a systematic study. Examples of reuse cases are suitable for Q56-Q58.;;20
+56;"Is the use of open data in your country having an impact on the level of employment? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;The Estonian Qualifications Authority has created a skill detection model based on open data, which helps to  plan personal learning and career path. This model resulted big time saving for analysts, school principals, personnel specialists, career counselors, and the common person. Future career heavily depends on the skills person owns but sometimes it is hard to predict the entire spectrum of expertise one needs for one or another position. Matching and mapping the skills is important because the better the match is done the more benefit both parties will get.;;;;;20
+57;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"1) Project on calculating the height of a forest. The Environment Agency and KEMIT have, together with a development partner, created a remote sensing information system for forests which enables records of forest resources to be kept in a geo-referenced manner, and forest information to be collected and shared in an operative manner. The created solution is semi-automatic, being partially based on machine learning algorithms, partially on the visual verification of remote sensing data, and partially on the software solutions of third parties. Remote sensing data are mainly used as primary data, but forest notifications, soil maps, and other such data (including teaching and validation data) also act as inputs. The processing will create Estonia-wide map layers about more important survey characteristics, such as a raster map about the height of woody flora (for calculation of the average height of the forest).
+2) Water level monitoring in coastal seas and lakes, using satellite altimetry. Project includes hydrological operative monitoring of the satellite information on flooding; resource charge verification in peat deposits, using radar remote sensing data; and water level remote sensing data for improving hydrological monitoring and sea forecast services. Hydrological monitoring includes on-site measurements of water levels and flow rates at national hydrometry stations. This overview provides an opportunity to verify the data reflected in the resource charge declaration. When combined, the water level remote sensing prototypes enable remote sensing data, the forecast model, and artificial intelligence, to be used to ensure better water level information for interested parties and the public. Integrating altimetry data into hydrological monitoring would help to improve the spatial coverage of surveying on major lakes and improve the accuracy of sea level forecasting.";;;;;20
+58;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;" Last year the data of the Estonian Business Register became available to everyone free of charge. Previously, a query fee had to be paid to view the data contained in the e-business register for companies, non-profit organizations, foundations, and state and local government institutions. The business register says that making the data available for free is only the first step, which already allowed using open data in the most convenient form. Making business register data available free of charge is an important step that helps make the business sector more transparent and innovative.
+
+The data has been utilised in various circumstances, examples in research for example include:
+1. The impact of sanctions on the wood industry in Estonia (https://digiriiul.sisekaitse.ee/handle/123456789/3023)
+2. Financial Sustainability in a Medical Institution Tartu University Hospital (https://dspace.emu.ee/handle/10492/8119)
+3. Tax behavior of 2022 year’s tax debtors (https://digiriiul.sisekaitse.ee/handle/123456789/3015)
+4. Self-employed and business account users in 2019-2022 by county (https://digiriiul.sisekaitse.ee/handle/123456789/3016)";;;Do you have reuse case examples that demonstrate the effect of this decision to make the business register free?;;20
+;Dimension 3: Open Data Portal ;;;;;;;630
+;"This part of the questionnaire is dedicated to assessing the solution your country chose for making the available open data discoverable. Typically, this is achieved through a national open data portal. 
+For simplicity, the following section will refer to this solution as the “national portal”.    
+Please provide where requested the URLs to the features inquired with the respective question. If access to the feature is restricted (back-end feature, log-in required), please provide a screenshot via e-mail as additional attachment (and note this here in the questionnaire). Please answer the questions below only in relation to the portal you indicated as the national portal of reference. Only URLs documenting the features available on this portal will be considered and scored.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                             ";;;;;;;
+;3.1 Portal features;;;;;;;265
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+59;"Is there a national portal in your country for making open data discoverable? 
+
+For justification:
+* If yes, please provide the URL of the national portal.
+* If no, please describe how you ensure the discoverability of the open data available in your country.";yes;https://avaandmed.eesti.ee/;;;;;20
+60;Does the national portal offer an advanced data search function (multiple field search, filter options, etc.)?;yes;N/A;;;;;10
+61;Does the national portal offer the possibility for users to download datasets (e.g. via a link)? ;yes;N/A;;;;;10
+62a;Does the national portal offer the possibility for users to search by file format? ;yes;N/A;;;;;10
+62b;Does the national portal offer the possibility for users to search by data domain? ;yes;N/A;;;;;10
+63;"Does the national portal offer to its users a way to programmatically query the metadata (e.g. via an API or a SPARQL access point)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;https://avaandmed.eesti.ee/instructions/opendata-dataset-api;;;;;10
+64;"Does the national portal offer documentation on the use of APIs and other tools that enable working with the aforementioned metadata? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://www.dropbox.com/s/y4gpr9eo40pn764/API%20juhend.pdf?dl=0;;;;;10
+65;"Does the national portal enable users to provide content for the portal (e.g. to link documentation and supporting materials to a given dataset)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"https://avaandmed.eesti.ee/instructions/avaandmete-portaali-api
+
+Sending updated link: https://avaandmed.eesti.ee/instructions/api-manual
+
+Also for any given dataset, documentation and other relevant documents can be provided, for instance,  https://avaandmed.eesti.ee/datasets/inimkannatanutega-liiklusonnetuste-andmed has added various additional documentation";An example of such supporting material could be relevant studies or reports associated with the dataset e.g. documenting how the data was produced, the methodology etc.;;The URL appears to direct to a blank page. Please clarify whether the portal allows users to link materials to datasets.;;10
+66a;"Does the national portal offer a general feedback mechanism for users (e.g. a 'Contact us' or 'Feedback' button that is placed in a visible spot on the portal and would allow users to send a general comment concerning the portal)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://avaandmed.eesti.ee/discussions;Please note that a general email address does not count as feedback mechanism in the sense of this question and will not be scored as such.;;;;10
+66b;"Does the national portal offer a feedback mechanism at dataset level? (e.g. a 'feedback button' or a comment/ discussion section under the dataset)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"https://avaandmed.eesti.ee/discussions
+
+To extend the answer. There is a possibility to provide feedback on dataset level when users are logged. Also there is a possibility to discuss regarding datasets: https://avaandmed.eesti.ee/discussions";The feedback mechanism does not include the possibility of a user to send in an email to a general address/the helpdesk.;;This URL apprears to be relevant for general feedback (Q66a). Is there a feature to provide feedback at the level of datasets?;;10
+66c;"Does the national portal provide a mechanism for users to rate datasets?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"https://avaandmed.eesti.ee/datasets/rahulolu-elukeskkonna-ja-avalike-teenustega-kohalikes-omavalitsustes.
+
+To extend the answer. Datasets can be rated when users are logged. The user has possibility to rate based on dataset quality, dataset metadata, description.";Such mechanism could be a star rating system or similar voting/rating mechanism.;;"Please clarify how users can rate datasets. At this URL, I see the message ""Andmestiku hinnangAndmestikku ei ole veel hinnatud"" // ""Database evaluationThe dataset has not yet been rated"", but not the ability to rate the dataset.";;10
+67;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"https://avaandmed.eesti.ee/discussions
+
+Extending answer. There is a separate news section available at: https://avaandmed.eesti.ee/instructions";;;In addition to the discussion forum, does the portal have news content?;;10
+68;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"https://avaandmed.eesti.ee/
+
+Extending the answer, there is RSS feed available on the bottom of the portal. Also, if the user is logged in, they are able to manage their notifications, among other, when new datasets are requested, commented etc.";;;This URL seems to be for the home page. Is there an ability to receive notifications of new datasets?;;10
+69a;"Does the national portal offer the possibility for users to request datasets? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://avaandmed.eesti.ee/discussions;Please note also that a specific “Request data” button is meant here. Should the data request function be accomplished by a general help desk contact form that has a specific field for data requests, please describe this as such in the justification box.;;;;10
+69b;If yes [to Q69a], what is the frequency of these requests? ;less frequently than monthly;N/A;;;;;N/A
+69c;"Are these requests and their progress status presented in a transparent manner on the national portal? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"https://avaandmed.eesti.ee/discussions
+
+For clarification, for requests that are solved, answer is provided, for example: https://avaandmed.eesti.ee/discussions/avaandmed.eesti.ee and for examaple : https://avaandmed.eesti.ee/discussions/ettevottega-seotud-soidukid";A transparent presentation of these requests may be a machine-readable file on the national portal, or a separate section on the national portal that lists these requests. By providing a list of these requests, duplication of requests can be avoided, and time saved in filtering and answering these duplicate requests.;;I can see the proposed data set but not the outcomes of the requests. Please clairfy if the portal presents the progress status of requests.;;10
+70a;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For justification:
+* If yes, please describe how this monitoring is conducted.";yes;Open Data portal team monitor requests and take a communicates with data owner. If it is neccesary we advise data owner to publish data. ;;;;;10
+70b;If yes [to Q70a], to what degree do these requests result in the publication of the requested data?;all datasets;N/A;;;;;15
+71;"Does the national portal include a discussion forum or any other exchange possibility for users (whether data providers or reusers)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;https://avaandmed.eesti.ee/discussions;;;;;10
+72;"Does the national portal have a designated area to showcase use cases?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;https://avaandmed.eesti.ee/usage-stories;;;;;10
+73;"Does the national portal reference the datasets that the showcased use cases are based on?
+
+For justification:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;For example you can see it here: https://avaandmed.eesti.ee/usage-stories/eesti-3d-kaksik;;;;;10
+74;"Does the national portal provide the possibility for users to submit their own use cases?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;"https://avaandmed.eesti.ee/usage-stories
+
+For clarification, use-cases can be added only when users are logged in to the portal. From a public view, this functionality is not available. Everyone with eID or username/password can do that.";;;I do not see a submit button for new reuse cases. Please clarify (eg if it is behind a log in page).;;10
+75;"Does the national portal offer a preview function for tabular data?
+
+For justification:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://avaandmed.eesti.ee/datasets/liiklusloenduse-andmed;;;;;10
+76;"Does the national portal offer a preview function for geospatial data?
+
+For justification:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://avaandmed.eesti.ee/datasets/inspire-(tn)-eesti-sadamad-(wms);;;;;10
+77;"Following the publication of the implementing regulation (EU) 2023/138 on high-value datasets,  are you progressing in the promotion of such datasets on your national portal (e.g. filtering features and/or editorial features were added, changes were made to navigation...)?
+
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;Yes, we are planning to promote high-value datasets. We are planning to use keyword like indicator to filter high value datasets;;;;;20
+;3.2 Portal usage;;;;;;;135
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+78;Is the national portal mobile as responsive as the desktop version?;yes;N/A;Meaning the portal renders well on both mobile and desktop.;;;;10
+79;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For justification:
+* If yes, which tool(s) do you use?";yes;Google Analytics/Motomo;;;;;15
+80a;"Are traffic and usage statistics used to better understand users´ behaviour and needs and to update the portal accordingly?
+
+For justification:
+*  If yes, what insights did you gain last year from the reviews of these analytics? ";yes;One of the insights was that usesr want to have a searchbar function on our main page, which we will develop soon based on this input.;;;;;10
+80b;"Do you perform further activities to better understand users´ behaviour and needs (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For justification:
+* If yes, please specify which activities.";yes;We conduct surveys (e.g. One of the last surveys was carried out to better undrstand what dat visualization solutions users want), conduct intervews (e.g. The las one was for understanding users main challenges regarding using the portal), also once a year we carry out an open data impact assesment to understand overall attitude and practices inside organisations.;;;;;10
+81a;What is the typical profile of the portal visitor, as learned from activities such as web analytics, surveys, or social media analyses?;mostly public sector;N/A;;;;;10
+81b;"Does this profile match the type of audience your national portal wants to cater to?
+
+For justification:
+* If only partially, please specify which audience groups are missing.
+* If no, please briefly explain why.";yes, entirely;We want everyone to find their way to our portal. The most of the visitors are from the public sector, because public sector is the biggest publisher of data, but we have business developers and students as well. E.G universities' students make one of the highest number visitor groups of the portal.;;;;;10
+82;"How many unique visitors visit the national portal on average per month?
+
+For justification:
+* Please fill the average number per month in 2022 and select 'see answer box'. 
+* Please note that if you are a federal/regional state you can indicate the sum of the visitors of all sub-national portals harvested in the national portal.";see answer box;15140;Unique visitors refer to the number of distinct individuals accessing pages on the website during a given period, regardless of how often they visit that website. Visits refer to the number of times a website is visited, no matter how many visitors make up those visits.;;;;10
+83;"What percentage of the unique visitors to the national portal is foreign?
+
+For justification:
+* Please fill the percentage  and select 'see answer box'.";see answer box;0,16;;;;;N/A
+84;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For justification:
+* If yes, please briefly describe.";yes;the most popular  field is population and society;;;;;10
+85;Do you monitor the most and least consulted pages?;yes;N/A;;;;;10
+86;"What data categories are the top 5 most frequently consulted on the portal, with 1 being the most popular one? 
+
+For justification:
+* Please indicate 1 = category X, 2 = category Y etc. and select 'see answer box'.";see answer box;1= Population and society, 2= Science and Technology, 3= Economic and Finance, 4= Education, Culture and Sport, 5= Governement and Public Sector;;;;;10
+87;"What datasets are the top 5 most frequently consulted on the portal, with 1 being the most popular one? 
+
+For justification:
+* Please indicate 1 = name dateset X, 2 = name dataset Y etc. and select 'see answer box'.";see answer box;1= registered unemployed, 2= trafic accidents with human casualties, 3= vehicle statuses in Estonia, 4= traffic census data, 5= satisfaction with the living environmanet in local governments;;;;;10
+88;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For justification:
+*If yes, please briefly describe.";yes;"We planning to develop new searching funcionality. Our end goal will be such solution where datasets are found through google and data portal uses smarter searching tool (like elastic search).
+
+On a continuous basis we work on improving search optimisation to ensure that data is easily discoverable and accessible by users. We also validate each week whether the datasets are up to date, to ensure that search results are valid and lead to existing data. We have also implemented machine translation to improve search functionality of datasets in English. ";;;Do you also have examples of current, implemented measures that optimise search? E.g. your answer in 2022 noted that you have experimented with SEO to figure out effective means to reach our audience via dataset descriptions and data objects exposed as linked data.;;10
+89;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For justification:
+*If no, please briefly explain why.";yes;We offer opportunity to use API to enable machines to read and undserstand. To humans we have UI where metadata is understandable to human;;;;;10
+90a;Do you run analytics on API usage, if metadata describing the datasets is accessible via an API?;no ;N/A;;;;;0
+90b;"If yes [to Q90b], what percentage of outgoing portal traffic is generated by API usage only?
+
+For justification:
+*Please fill the percentage  and select 'see answer box'.";Select answer for Q90b;;Here we are interested in distinguishing the volume of traffic generated by human users vs the traffic generated programmatically by API usage. We ask for outgoing traffic as it is more relevant than incoming traffic: the former is generated by the enquiries, but the latter by the responses.;;;;N/A
+;3.3 Data provision;;;;;;;90
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+91;"To what degree do public sector data providers contribute data to the portal? 
+
+For justification:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;There are two pillars of public sector in Estonia - municipal and central. The majority of central government's public sector data providers have published data on the portal. Unfortunately, local governments, representing municipal level, aren't publishing that much data (bigger local governments, where lives more than one third of Estonian population, publishing data in machine readable formats (both in the central portal and they have their own portal, too) but smaller local governments are really behind, lacking the knowledge and funds. With every year we are taking more serious approach towards local governments and trying to raise the level of their contribution by educating and consulting them. ;Providers at federal, regional or local level, directly or indirectly, via direct uploading or harvesting of metadata. ;;;;12
+92a;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;;;;;10
+92b;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For justification:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;Data team of Ministry of Economic Affairs and National Information System Authority together with Statistics Estonia provides consultations for everyone, who needs an assistance with publication or description of datasets. Today we are trying to activly engage local governments using this mean. In addition, we have different working groups on data and AI related topics, working group meetings take place 1-2 times a month, other bigger events include annual Open Data Forum and Data camp. Last yearwe launched Data Steering Group, which brings together higher-level representatives from different public authorities to discuss data related questions. One more measure is creating e-courses, last year we made two publicly available e-courses on open data and its publication.;;;;;10
+93a;"Besides the national open data portal, are there other regional and local portals? 
+
+For justification:
+* If yes, please provide a complete list and the links to these portals.";yes;"Here are few examples of regional/local portals: Tallinn geoportal https://www.tallinn.ee/est/geoportaal/;  Land Board geoportal https://geoportaal.maaamet.ee/; Tartu Statistics https://tartu.ee/et/statistika; http://metashare.ilsp.gr:8080/repository/search/";;;;;N/A
+93b;"Are regional and local portals listed above [in Q93a] and their data sources discoverable via the national portal? 
+
+For justification:
+* If not applicable, please briefly explain why. ";yes;;;;;;10
+93c;"If yes [to Q93b], to what degree are existing regional and local sources harvested automatically? 
+
+For justification:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";approximately half of the datasets;Some of authorities intend to join automated harvesting (e.g. Transport Administration, Institute of the Estonian Language, Ministry of Environment), but the reason why we have less of majority of existing sources harvested automaticly is due to lack of financial means or knowledge about this feature. Moreover, some of authorities don't follow DCAT-AP standards. Luckily, knowledge level is getting better and we hope that more processes will become automated.;;;;;8
+94a;"Does the national portal include datasets that are real-time or dynamic?
+
+For justification:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;E.g. weather data https://avaandmed.eesti.ee/datasets/ilmavaatluste-andmestik;Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time).;;;;10
+94b;If yes [to Q94a], what percentage of metadata links to such data? ;21-30%;N/A;;;;;N/A
+95;"Does the national portal provide a separate section where non-official data (not stemming from official sources, such as community-sourced/citizen-generated data) can be published? 
+
+For justification:
+* If yes, please provide the URL to this section. ";yes;"We do not separate ""non-official"" from ""official"" data, rather we differentiate between the organisation or person who has made the data available.";Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;;;10
+96;"Do you have an overview of the data providers (official and non-official) on your national portal? 
+
+For justification:
+* If yes, please list the most important.";yes;"Here is the list of all publishers https://avaandmed.eesti.ee/information-holders, list includes not only publishing authorities but also authorities who can be potential publishers. On the left side users can filter publishers to find only once who have already published datasets. 
+
+The most important data providers are the following: Statistics Estonia 680 datasets, Estonian Language Institute 215 datasets and Land-board 193 datasets.";;;"For completeness, also please list the most important data providers. EG the 2022 answer: "" The bigest contribution in the number of datasets was made by Land Board (211 datasets) https://avaandmed.eesti.ee/information-holders/maa-amet, Tallinn local government (107 datasets) https://avaandmed.eesti.ee/information-holders/tallinna-linnavalitsus and Tartu University (59 datasets) """;;10
+97;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For justification:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;"There is an option to restrict an access to dataset and made it available only by personal request (e.g. https://avaandmed.eesti.ee/datasets/mkm-audiofailid). Users can see webpages and metadata of such datasets but there is a warning sign ""This dataset has limited access. Request access if you are unable to see the content!"". 
+";This function can be useful towards reducing the amount of Freedom of Information requests for data that is transparently justified why it cannot be opened. The national portal might also publish the reasons for preventing publication, e.g. national security.;;;;10
+;3.4 Portal sustainability;;;;;;;140
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+98;"Does the national portal have a strategy to ensure its sustainability?
+
+For justification:
+* If yes, please provide the URL to this document. ";yes;The owner of portal is Estonian Information System Authority who is constantly developing portal. Also we are planning to compound open data portal and our National registry of registry and in the future it will become National data portal (National cenral contact point of data). Some actions are stipulated in Open Data Action plan 2023-2024.;A strategy could be a brief document and/or action plan listing the activities planned to ensure the portal’s sustainability over time.;;;;30
+99;Does this strategy include a description of the portal’s target audience and measures to reach this audience?;yes;;;;;;10
+100;"Is your national portal active on social media? 
+
+For justification:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;We don't have separate page for the portal in social media, but national portal topics are often covered in a Facebook group OpenESTdata https://www.facebook.com/groups/1792458637715167 and our Youtube channel called Kratid https://www.youtube.com/channel/UC8n2eMS8FeeBl-azungXn4A . We are also started to add more information about data and open data on our AI related webpage https://www.kratid.ee/ ;By active we refer to an account that publishes new materials at least once a week. A social media presence may include a Facebook, Twitter, LinkedIn account that regularly published open data related content. Ideally a social media account would help promote the open data and more specific portal activities and increase visibility of the open data published on the national portal. ;;;;10
+101;"Do you take actions to promote the national portal’s activities and the available open data (e.g. regular info sessions and/or events)? 
+
+For justification:
+* If yes, please provide at least one example of such activities.";yes;"We are promoting national data portal on our monthly data an AI related events, on social media pages and through our newsletter. On the portal itself we show both the newest and most recently renewed/modified datasets, they are advertised on the first page (https://avaandmed.eesti.ee/)
+";Actions could be regular promotion of the portal’s data and activities at events, an active social media presence, organising webinars to present the available datasets, use cases, the portal’s features to the broader public etc.;;;;15
+102;"Are the portal’s source code as well as relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For justification:
+*If yes, please provide (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;https://koodivaramu.eesti.ee/andmete-teabevarav;;;;;10
+103;"Was there a user satisfaction survey concerning the national portal conducted in the past year?
+
+For justification:
+*If yes, please briefly describe the key findings gained through this survey.";yes;We conduct annual survey among stakeholders (https://avaandmed.eesti.ee/instructions/avaandmete-mojuhinnang-avalikus-sektoris-2022 (only on Estonian)), meet directly with a stakeholders to discuss relavant issues (https://digiriik.ee/index.php/avaandmete-tegevuskava/avaandmete-tegevuskava-protsess/ (only on Estonian)) and have a feedback and discussion feature on the portal itself (https://avaandmed.eesti.ee/discussions). ;;;;;10
+104a;"Is there a process by which the portal is reviewed and improved regularly? 
+
+For justification:
+*If yes, please briefly describe this process.";yes;Surveys, analytics, interviews, discussions with other team members. This comes as an insight for open Data portal product owner, who owns the baclog from where he selects works for developments and proceeds with them.;;;;;15
+104b;If yes [to Q104a], what is the frequency of these reviews? ;bi-annually;N/A;;;;;N/A
+104c;"If yes [to Q104a], is the users’ feedback considered in the review process?
+
+For justification:
+*If yes, please briefly describe this process.";yes;"We take into account all feedback we get regarding the portal. Users can give the feedback through the portal  https://avaandmed.eesti.ee/feedback or directly contact us. All feedback we get during the meetings with stakeholders, we also taking in consideration and trying to make the portal more user-friendly. 
+";;;;;10
+105a;"Do you monitor via a dashboard the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;https://avaandmed.eesti.ee/statistics;;;;;15
+105b;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For justification:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;"For the portal team it is a great tool to observe how often and which datasets are being published, so we could see which categories need more attention (fewer publications may indicate a problem)
+
+";Such mechanisms could refer to statistics that show publishers statistics concerning their data: the volume of published datasets/metadata records, information on quality of publication (formats, DCAT-AP compliance, licensing information), usage statistics such as downloads, visits, or use cases uploaded to the national portal referencing their data.;;;;15
+;Dimension 4: Open Data Quality;;;;;;;570
+;"Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.
+
+In section 4.3 `DCAT-AP Compliance`, the focus is on DCAT-AP exclusively. We are aware that many of the respondents may be compliant with other EU standards, such as INSPIRE. For the purpose of this assessment, only DCAT-AP and its country-specific profiles are relevant.                                                                                                                                                                                ";;;;;;;
+;4.1 Currency and completeness;;;;;;;100
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+106;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For justification:
+* If yes, please briefly describe your approach.";yes;This obligation for authorities comes from the Public Unformation Act  (https://www.riigiteataja.ee/en/eli/514112013001/consolide). In addition, MoEAC and Estonian Information System Authority data team monitors datasets and metadata on the national portla to ensure their quality.;Please note that a regular updating of metadata refers here to an updating that is in line with the characteristics of the dataset in question. Different datasets have different requirements of currency. For example, a gazetteer of city streets only changes when new buildings and roads are built, or street names are changed, whereas the data on current weather conditions may be updated in quasi-real time.;;;;20
+107;What percentage of the metadata is obtained from the source automatically, rather than edited manually? ;<30%;N/A;;;;;0
+108;"What is the average delay from the moment the metadata describing a dataset is updated at your source, and the moment the change is visible on the portal (whether the process is automated or not)?
+
+For justification:
+* What type of data does this mainly concern?";within one day;If there is automated process then mirroring API updated every night. ;;;;;40
+109;Where applicable, to what degree does the published data cover the full period from when it was first published until today? (for example, complete time series whether available for download or through an API);the majority of datasets;N/A;This applies both to individual datasets that change in time and to archives of the same dataset, e.g. one every year, every month etc. Administrative geography is an example of data that changes regularly. When new houses are built, new postcodes may be created, and the areas referred by pre-existing postcodes may change. Making available previous versions of a postcode reference file enables the reuser to correctly interpret the meaning of a postcode vs the relevant time context.;;;;20
+110;"Following the publication of the implementing regulation (EU) 2023/138 on high-value datasets, is your country progressing in ensuring interoperability of datasets, in particular high-value ones, alongside the datasets of another country?
+
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;In the publication of open data we consider the set out standards and requirements, together with sharing best practices and approaches with other member states.;"* The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138
+* Interoperability is the ability to access and process data from different sources and being able to integrate that data for mapping, visualisation, and other forms of representation and analysis.";;;;20
+;4.2 Monitoring and measures;;;;;;;160
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+111a;"Do you monitor the quality of the metadata available on your portal?
+
+For justification:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;The portal is DCAT-AP compliant and all the migrated datasets that have not yet modified to compliance have a notification added to them: https://avaandmed.eesti.ee/datasets/riigieelarve-2011.-aastaks. Currently we are contacting all stakeholders, who have such issue and ask to review their datasets. In addition, open data team are manualy reviwing all datasets and their metadata to ensure its quality.;;;;;20
+111b;"Do you publish information on the quality of the metadata available on the portal?
+
+For justification:
+* If yes, please provide the URL to this section. 
+* If the information is published e.g. as .csv file, please provide the link to this source.";yes;We have automatic controls to ensure metadata is up-to-date, also we have functionalities to provide ways to evaluate metadata and data quality. If metadata is (might) not  (be) up to date, we provide information regarding that.;Such information can be made available as visualisations (e.g. the MQA tool of the EDP), or as downloadable file (ideally in .csv format) on the national portal.;;;;15
+112;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in choosing an appropriate licence for their data? 
+
+For justification:
+* If yes, please provide the URLs to these materials and/or tools.";yes;https://avaandmed.eesti.ee/instructions/litsents;Such guidelines can take the form of a document or tools (a licensing assistant) available on the national portal. An example of such tool is the data.europa.eu Licensing Assistant: https://data.europa.eu/en/training/licensing-assistant.;;;;20
+113;"Did you develop your own open licence/licencing suite to foster the publication of open data in your country?
+
+For justification:
+* If yes, please provide the URL to the document in which this licence is described and briefly describe the main reasons for doing so and the main differences between your country's open licence and the CC licencing suite.
+* If not applicable, please briefly explain why.";not applicable;Some agencies have developed their own licenses (e.g. The Land Board) but our official stance is to promote standard licenses like CC ones.;;;;;10
+114;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences or of your own licensing suite?
+
+For justification:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* If not applicable, please briefly explain why.";yes, CC licences;https://avaandmed.eesti.ee/instructions/avaandmete-litsentsimise-juhend;;;;;10
+115;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;;;;;20
+116;How has the percentage of datasets accompanied by licencing information changed compared to the same period last year? ;increased, or already >90%;N/A;;;;;10
+117;Across all datasets you distribute, how many different licences are used on your portal?;1-4;N/A;;;;;10
+118;"Are guidelines and tools provided for data providers to improve the quality of their data publication? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;"Guidelines for data holders for ensuring data quality have been published online (only on Estonian) - https://www.stat.ee/sites/default/files/2022-03/Andmekirjelduse%20juhis_2020.pdf; Guide for creating open data on the national portal, which includes guidelines regarding data quality  (only on Estonian) - https://avaandmed.eesti.ee/instructions/avaandmete-loomise-juhend; ";Guidelines (check-lists) can enable publishers provide their data in open and machine-readable formats (.csv or .xml instead of proprietary non-machine-readable formats). Other tools can assist publishers to clean up the actual data (e.g. OpenRefine, programming languages such as R).;;;;15
+119a;"Are there regular activities conducted or mechanisms in place to incentivise and/or assist data providers in the publication of data in machine-readable formats? 
+
+For justification:
+* If yes, please briefly describe.";yes;Machine-readability is promoted as part of the key policy documents (Green Paper on Machine-Readable Public Sector Data) and most open data related events (e.g. the public sector working group that convenes  at least once in a month, monthly Data Steering Group meetings, and the yearly Open Data Forum). The Public Information Act mandates certain key datasets to be published as machine-readable open data by default.;By ‘regularly’ we mean a bi-annual or at least annual frequency for activities such as e-learning modules and materials, webinars, meetings. Incentivisation can include the promotion of good quality datasets, e.g. featuring them on the portal homepage, showcasing the publishers as best practices at data providers’ events. Assistance can be provided through formal processes (e.g. data audits), training sessions with data providers, other training and/or awareness raising activities (‘roadshows’) etc.;;;;15
+119b;"Are there regular activities conducted or mechanisms in place to incentivise and/or assist data providers in the publication of high-quality metadata?
+
+For justification:
+* If yes, please briefly describe.";yes;Tpógether with Statistics Estonia we provide support for dataset description (https://www.kratid.ee/tugi-andmehaldus). We also have data managment guidlines and standards on place  made publicly available as documents https://www.kratid.ee/andmehalduse-juhised ;By ‘high-quality metadata’ we refer to metadata that provides information in plain language – accurate, current and complete, on all DCAT-AP mandatory fields as well as relevant recommended and optional DCAT-AP fields.;;;;15
+;4.3 DCAT-AP Compliance;;;;;;;180
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+120;"Do you supply data providers with documentation on DCAT-AP (e.g. factsheets, materials published on the EC websites such as the JoinUp platform, or your own documentation)? 
+
+For justification:
+* If yes, please provide examples of this documentation and the respective URLs.";yes;https://avaandmed.eesti.ee/instructions/dcat-rakendusprofiil translation of DCAT-AP in Estonian, links to JoinUP https://avaandmed.eesti.ee/instructions/dcat-ap-materjalid;See https://joinup.ec.europa.eu/;;;;25
+121;"What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource)
+
+For justification:
+* If DCAT-AP is not a priority for the portal, please explain why.";>90%;Our open data standard is based on DCAP-AP and is de facto standard for government open data portal.;For more information, please see https://joinup.ec.europa.eu/catalogue/distribution/dcat-ap-version-11 ;;;;25
+122a;"What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document)
+
+For justification:
+* If the use of recommended classes is not a priority for the portal, please explain why.";>90%;"All the new or modified datasets use the recommended classes, this percentage is constantly going up, because data publishers go over their migrated (migration from the old data portal that wasn't DCAT-AP compliant) datasets and add DCAT-AP compliant metadata and all the new added datasets cannot be added unless they use DCAT-AP some recommended classes.
+";;;;;20
+122b;"What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency)
+
+For justification:
+* If the use of optional classes is not a priority for the portal, please explain why.";>90%;"For example, ""Frequency"" and ""Location"" as an optional classses from DCAT-AP are mandatory at the national open data portal, thus provided for majority datasets.";;;;;20
+123;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For justification:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;"We have made some of the recommended and optional required fields/classes., e.g. License, accessRights, author/agent etc. These are required fields to provide more metadata to the re-users.
+";;;;;5
+124a;Do you investigate the most common causes for the lack of DCAT-AP compliance?;yes;N/A;;;;;25
+124b;"If yes [to Q124a], what are the main causes for the lack of DCAT-AP compliance?
+
+For justification:
+* Please list the most common causes and select 'see answer box'.";see answer box;Few years ago we transitioned to the new portal and there is still some small amount of datasets, which we toghether with stakeholders still have been reviewing. So there is a chance that among these datasets can be the once, which are not DCAT-AP complient and we want to solve that.;;;;;15
+125a;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;According to the DCAT-AP definition, the ‘download URL’ property contains a URL that is a direct link to a downloadable file in a given format.;;;;20
+125b;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;According to the DCAT-AP definition, the ‘access URL’ property contains a URL that gives access to a distribution of the dataset. ;;;;25
+;4.4 Deployment quality and linked data;;;;;;;130
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+126;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For justification:
+* If yes, please briefly describe.";yes;The national policy document Green Paper on Machine-Readable Public Data (https://www.riha.ee/api/v1/systems/eaatv/files/cdbfa8bd-2594-8ad3-6022-ff3d3dbf6781) stipulates that public sector data should be published as at least 3-star open data. Open Data online training which is intended for open data publishers also based on FAIR (https://digiriigiakadeemia.ee/) ;For more information, please visit: http://5stardata.info/en/ or https://joinup.ec.europa.eu/sites/default/files/inline-files/W3C04.pdf.;;;;15
+127;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data (such as promoting the model referenced in the previous question)?
+
+For justification:
+* If yes, please briefly describe.";yes;We created Open Data online training which is intended for open data publishers  (https://digiriigiakadeemia.ee/) ;;;;;30
+128a;What percentage of datasets is made available under a standard open licence or an explicit custom open licence, in any data format including text documents? ;>90%;N/A;;;;;20
+128b;Of the percentage indicated in the previous question (Q128a), what percentage of datasets is made available under a standard open licence or an explicit custom open licence, in a structured data format?;>90%;N/A;"Refers to open data that is available on the web under an open licence, in a structured format (=machine-readable format that is proprietary, such as .xls; .xlsx). Please note that formats such as .pdf; .jpeg; .png, .doc(x) are not considered machine-readable formats and should hence not be counted towards this answer.";;;;25
+128c;Of the percentage indicated in the previous question (Q128b), which part is also in an open and machine-readable format?;>90%;N/A;Refers to open data that is published in an open (=non-proprietary) machine-readable format. A non-proprietary format is a format for which a user does not require a proprietary software package (such as Microsoft Office Excel) to explore. An example of an open format is the comma-separated values (CSV) format for tabular data.;;;;25
+128d;Of the percentage indicated in the previous question (Q128c), what percentage of datasets also consistely use Uniform Resource Identifiers?;<10%;N/A;"Refers to open data whose comprising objects are accompanied by unique identifiers. An identifier may be the object’s name (e.g. city name ‘Luxembourg’, or ‘10717’ -- a Berlin postcode), or a word describing the object (‘population’; ‘gender’), or another arbitrary identifier such as ‘XYZ0’, an identifier that makes sense only in the context of that dataset. Choosing identifiers based on known standards should be the common practice though, to facilitate data integration and linked data.";;;;0
+128e;Of the percentage indicated in the previous question (Q128d), what percentage of datasets also links to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;;;;;0
+129;"Do you monitor the improvements in terms of quality of open data deployment?
+
+For justification:
+* If yes, please briefly describe how.";yes;"The MoEAC together with Statistics Estonia and Estonian Information System Authority monitor datasets on the national portal and offer assitance in terms of dataset description. Moreover, all migrated to the new portal datasets have to be reviewed and become DCAT-AP complient.
+";;;;;15

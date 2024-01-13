@@ -1,0 +1,1053 @@
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+;;;;;;;Total Score:;2443
+;;;;;;;Unsure Score:;0
+;;;;;;;"Preliminary Score: 
+(Total - Unsure)   ";2443
+;Respondent Information;;;;;;;
+;Please provide written information to the question in `Justification` column. Where applicable, select an answer option from the drop-down options in the `Answer` column. ;;;;;;;
+;0.1 Background information;;;;;;;
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+R1;What is your country?;N/A;Ukraine;;;;;N/A
+R2;What is your organisation?;N/A;Ministry of Digital Transformation of Ukraine;;;;;N/A
+R3;What is your name?;N/A;xxx;;;;;N/A
+R4;What is your position/role?;N/A;xxx;;;;;N/A
+R5;What is your email address?;N/A;xxx;;;;;N/A
+R6;What is the size of national open data team (core team members);N/A;3;;;;;N/A
+R7;How many FTE(s) are in the national open data team?;N/A;More than 40 working hours per week;;;;;N/A
+R8;What is the annual budget of the national portal?;<200.000 EUR;N/A;This is the annual budget for all portal activities (portal development and maintenance, promotion and awareness-raising activities) of the national portal. This should include the budget for the national portal team, whether an internal team or external contractors.;;;;N/A
+;0.2 data.europa.eu and national open data portals;;;;;;;
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+R9;"Are you satisfied with data.europa.eu as a European single point of access?
+
+For Justification:
+* If you selected 'yes', what do you consider particularly good about data.europa.eu as European single point of access? 
+* If you selected 'no', how would you improve data.europa.eu as European single point of access? ";yes;data.europa.eu is good as a European single point of access tu public information and open datasets because it is a complete source of information about all activities about open data in Europe. In addition, UX/UI of data.europa.eu is clear and pleasant to work with.;;;;;N/A
+R10;"Does the portal data.europa.eu reflect the data that your national portals hosts? 
+
+For Justification:
+* If you selected 'no' or 'partially', how would you improve data.europa.eu to better reflect the data on national open data portals like the one in your country?";yes;;;;;;N/A
+;Dimension 1: Open Data Policy;;;;;;;625
+;"Please note that this section differentiates between open data policy and open data strategy. Policy here refers to all principles/initiatives set out to achieve the goals established by the Open Data Directive, including specific national legislation put in place to transpose the EU law. With strategy, on the other hand, we define a document outlining the concrete vision, mission, objectives, measures to be implemented, timeline and responsible. An open data strategy would ideally include information on the open data governance structure and operating model.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                                                                                                                                                                                                                                                                                                                        ";;;;;;;
+;1.1 Policy framework;;;;;;;260
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+1;"Is there a national open data policy in your country and does this include a national legislation for the transposition of the Open Data Directive (if your country is an EU Member State)?
+
+For Justification:
+* If yes, please provide (1) the URL and (2) title of the policy document and briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"The policy of open data in Ukraine includes the following basic documents that regulate open data sphere:
+Law of Ukraine ""On Information"" https://zakon.rada.gov.ua/laws/show/2657-12#Text 
+The law defines the basic principles of access to information, and establishes the categorization of information that is in the possession of state bodies                                                                                                                                                                                       The Law of Ukraine ""On Access to Public Information"" https://zakon.rada.gov.ua/laws/show/2939-17#Text  which contains a separate article on open data, and establishes the general principles of access to public information.
+Resolution of the Cabinet of Ministers of Ukraine dated October 21, 2015 No. 835 ""On approval of the regulation on data sets that are subject to publication in the form of open data"" https://zakon.rada.gov.ua/laws/show/835-2015-%D0%BF#Text 
+The regulation defines the procedure for publishing  open data, requirements for its metadata, and a list of sets of data that must be published in the form of open data.
+In addition, the provision contains implemented principles of the International Open Data Charter                                                                                                                                                                                                                                    Resolution of the Cabinet of Ministers of Ukraine dated November 30, 2016 No. 867 ""Some issues of public information disclosure in the form of open data"" https://zakon.rada.gov.ua/laws/show/867-2016-%D0%BF#Text The regulation contains basic information about the functioning of the national open data portal, and the obligations of data providers in working with portal
+Decree of the Cabinet of Ministers of Ukraine dated September 22, 2016 No. 686-r ""Some issues of joining the International Open Data Charter"" https://zakon.rada.gov.ua/laws/show/686-2016-%D1%80#Text Decree establishes Ukraine's accession to the International Open Data Charter and imposes an obligation on data providers to use the principles of the charter during the process of publishing datasets
+The implementation of Directive 2019/1024/EU regarding open data was carried out in 2021 with the adoption of Resolution No. 407 of the Cabinet of Ministers of Ukraine dated March 3, 2021 ""On Amendments to Resolutions No. 835 and No. 30 of the Cabinet of Ministers of Ukraine dated October 21, 2015 November 2016 No. 867""";The answer option 'Other' should be selected by countries that do not have a specific open data policy in place but have a national policy (on data, digitalisation, artificial intelligence, eGovernment or similar) that explicitly includes open data in its text and scope.;;;;30
+2;"Is there a national open data strategy in your country?
+
+For Justification:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"In January 2022, Ukraine developed a strategy for the development of open data until 2025. Link to strategy https://data.gov.ua/uploads/files/2022-06-15-102752.7196282150222.pdf 
+However, due to the large-scale military invasion of Russia on February 24, 2022, the Strategy wasn`t approved at the level of the Cabinet of Ministers of Ukraine, its official approval was postponed until Ukraine's victory in the war.
+At the same time, the main provisions of the draft strategy for the development of open data in Ukraine were reflected in other strategic documents of the Government, including those adopted in response to Russia's armed aggression.
+Among them: Plan for the recovery of Ukraine https://recovery.gov.ua/en/project 
+The Government's priority action plan for 2023 https://zakon.rada.gov.ua/laws/show/221-2023-%D1%80#Text https://zakon.rada.gov.ua/laws/file/text/104/f524487n15.docx 
+National strategy for promoting the development of civil society in Ukraine for 2021-2026 https://zakon.rada.gov.ua/laws/show/487/2021#Text 
+Anti-corruption strategy for 2021-2025 https://zakon.rada.gov.ua/laws/show/2322-20#Text 
+State strategy of regional development for 2021-2027 https://zakon.rada.gov.ua/laws/show/695-2020-%D0%BF#Text                    All of the strategies and action plans listed above contain separate sections on open data.
+First of all, they concern the intensification of the publication of open data, the use of machine-readable formats and the support of transparency and accountability of authorities, which is necessary for the development of civil society. In addition, all strategies in one way or another encourage the reuse of open data by both the public and private sectors";The answer option 'Not applicable' can be selected if e.g. there is no specific strategy in place, but the existing policy refers to the objectives, actions/measures to be implemented, delivery timelines, responsible etc. Should another explanation apply in your case, please provide it in the justification text box.;;;;30
+3;"Has this national strategy/policy been updated in the past 24 months?
+
+For Justification:
+* If yes, please briefly describe the main changes. ";yes;All government policy documents, including those related to open data and civil society development, have undergone changes over the past 12 months. first of all, it is connected with the challenges that appeared before the Ukrainian society in connection with the war. The main changes in open data strategies relate to the balance between access to public information and ensuring the interests of Ukraine's national security and defense. Moreover, the main regulatory legal acts, which refer to the list of data sets that must be published by the authorities, are constantly updated and expanded, the last such change took place in January 2023. https://zakon.rada.gov.ua/laws/show/2322-IX#Text https://www.kmu.gov.ua/storage/app/sites/1/recoveryrada/eng/digitization-eng.pdf https://zakon.rada.gov.ua/laws/show/220-2023-%D0%BF#Text   ;;Are there any URLs available to these documents?;;;10
+4;"Is there any further open data policy/strategy at regional or local level?
+
+For Justification:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;"Lviv https://www8.city-adm.lviv.ua/Pool/Info/doclmr_1.NSF/(SearchForWeb)/7676F23B77FA4D95C22581790030B9C7?OpenDocument                                                                                                                                                                            
+Vinnytsya http://www.vmr.gov.ua/Docs/MajorOrdersR/2017/%E2%84%96181-%D1%80%2018-10-2017%20%D0%9F%D1%80%D0%BE%20%D0%B7%D0%B0%D1%85%D0%BE%D0%B4%D0%B8.pdf 
+Ternopil https://ternopilcity.gov.ua/normative-documents/vidkriti-dani/28627.html                                                                                                                                                                                                                                                                                                                                                           
+The key points of such strategy are                                                                                                                                                                           Development, adoption, improvement of the internal regulatory framework, such as provisions on open data, job descriptions, procedures and maintenance and publication of registers, etc.
+Information audit of data sets, creation of the register of data sets of the information manager.
+Improving the skills of employees in the publication and use of data in training, courses, programs.
+Establishment of a structural subdivision (department, sector) or position in the field of open data.
+Modernization of information systems for data export in open machine-readable formats CSV, JSON, XML, creation of open APIs (application programming interfaces) for publishing sets.
+Establishment and strengthening of information exchange between structural subdivisions and with other authorities.
+Development of electronic services, analytical dashboards, chatbots and other products based on open data.
+Consulting and establishing partnerships with business and the public to open new sets, improve data quality.
+Introduction of own open data portal.
+Promotion of open data: holding hackathons, competitions for projects based on open data.";;;;;10
+5;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For justification:
+If yes, please briefly describe the main measures described by the action plan.";yes;"Action plan for implementation of open data strategy is available via link https://data.gov.ua/uploads/files/2022-06-15-120043.7877993140222-1.pdf The key-points of action plan are: 1. Disclosure in the form of open data of all available public information (implementation of the principles ""open by default"" and ""open by design"") 2. Increasing the level of reuse of public information in the form of open data 3. Compliance of the datasets published on the National Portal with the principles International Open Data Charter";;;;;25
+6a;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"The strategy envisages measures to increase the level of publication and use of dynamic data
+This is done by ensuring the disclosure of dynamic datasets at the time of creation with all the elements necessary for their reuse, which includes:
+empowering the central executive body that formulates policies in the field of open data to approve the list of dynamic datasets and to set requirements for the deadline for publication of such datasets
+organization by managers of access to dynamic data sets in real time exclusively through application programming interfaces (API) in accordance with the requirements of the legislation on their content, available elements, etc. (paragraph 7 page 11) https://data.gov.ua/uploads/files/2022-06-15-102752.7196282150222.pdf ";Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time). ;;;;15
+6b;"Does the national strategy/policy outline measures to incentivise the publication of and access to geo-spatial data (e.g. in relation to high-value datasets as specified in the implementing regulation (EU) 2023/138)?
+
+For justification:
+* If yes, please briefly describe the measures.";no;The Ministry continues work on the development of standards (requirements) for the publication of high-value datasets. Standards for datasets containing geospatial data are being developed. However, such activity is not foreseen by the current action plans for the development of open data. The work is carried out in accordance with the requirements of the legislation of Ukraine,  Resolution of the Cabinet of Ministers dated October 21, 2015 No. 835 (amended);"Geo-spatial data is data that contains information on properties that are linked to a position on earth. 
+
+The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138";"Last year's answer mentioned measures on geospatial data. Is this still relevant this year? Has there been progress on these?
+
+""The strategy envisages the creation of requirements (standards) for the publication of high-value datasets, which also include geospatial datasets.
+
+This applies in particular to those datasets that are not inherently geospatial but contain some cartographic information, or may be enriched by it. (paragraphs 1-5 page 10) https://data.gov.ua/uploads/files/2022-06-15-102752.7196282150222.pdf  (https://drive.google.com/file/d/1SAQD4qxrMqgH5BY_reZkHLrvMZGzCm5f/view?usp=sharing)""";;;0
+6c;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"The Law of Ukraine on ""Access to Public Information"" provides for the possibility of publishing information provided by individuals or legal entities under private law.
+
+However, if a natural or legal person under private law is a provider of information of significant public interest or concerns the environment, protection of life and health of citizens - such publication is mandatory. NGO ""Save Dnipro"" publish its own data on the National portal https://data.gov.ua/organization/9b012670-b499-4923-a3c9-4c23f1d86f8f";Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;;;15
+6d;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For justification:
+* If yes, please briefly describe how.";yes;From 2018, datasets from the national portal are harvested by the European Open Data Portal automatically https://data.europa.eu/data/datasets?locale=en&catalog=data-gov-ua&page=1  Ukraine's open data policy promotes unification of datasets and its interoperability with other datasets;;;;;10
+7;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"Decree 835 establishes among other things Principles For Improved Governance & Citizen Engagement and For Inclusive Development & Innovation. The last is defined as granting by information providers support and assistance in creating new information resources and services based on public information in the form of open data. It also sets definition of a term ""permanent applicability"" - ensuring the use of public information in the form of open data by public authorities and local governments in the exercise of their powers.
+Realization of the Principle For Improved Governance & Citizen Engagement of Open Data Strategy provides for:
+Promotion of the use of the open data by public bodies;
+Cooperation with NGOs and business  on the creation and promotion of visualizations, tools and analytical materials based on open data;
+Promotion of the development of skills in the use of open data by NGOs and other civil society organisations;
+Organization of informational and educational activities for the leadership of public authorities and local governments on the development of the effective open data programs in their government bodies.
+One of the goals of new Open Data Strategy  is the high level of re-use of public information in the form of open data, which also includes re-use of open data by the public sector";These measures should promote concepts such as data-driven government, policy-making and decision-making.;;;;15
+8;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"One of the goals of new Open Data Strategy is the high level of re-use of public information in the form of open data, which also includes re-use of open data by the private sector. It will include the following subgoals: the functionality of the Portal allows ordinary users to use its capabilities having basic technical skills; the Portal has implemented several channels of user interaction with information providers and the holder of the Portal; dynamic data, which is in high demand in society, is updated at the time of creation and measures to achieve those subgoals.
+Also as a measure to support the re-use of open data by priviate sector is the online course Open Data for Business that was created on the national platform of the digital education - https://osvita.diia.gov.ua/courses/opendata";These measures could promote concepts such as smart cities and/or regions, but also new business development (in particular Small - and Medium-sized Enterprises), entrepreneurship etc.;;;;15
+9a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For justification:
+* If yes, please briefly specify.";yes;"According to legislation, all public bodies must publish the result of data inventory on data.gov.ua. 
+Legislation establishes the definition of the term ""information audit"" - the process of analysis by the information provider on the availability, status, formats, management processes and use of all information in his possession. An information audit is mandatory and is performed at least once a year.
+The methodology of information audit is approved by the central executive body, which ensures the formation and implementation of state policy in the field of open data - Ministry of Digital Transformation.
+The results of the information audit of the information provider are subject to mandatory publication on the National portal as a separate dataset.                                                                                                                                                                                                                  One of the modules of the Open Data for Civil Servants curriculum is devoted exclusively to the methodology of auditing open data, which is mandatory for all data providers and should be conducted at least once a year. more than 18,000 civil servants successfully completed the training program in 2020-2021";A data inventory is a comprehensive catalogue of datasets held by an organisation.;;;;15
+9b;"If yes [in Q9a], do these data inventories also include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For justification:
+* If yes, please briefly specify.";yes;"In accordance with the legislation, information providers shall perform information audit of all information in their possession - both that can be published as open data and vice versa.
+Moreover, due to the ""open by default principle"", all public information is open. It means, that though containing, for example, personal data, dataset shall nevertheless be published as open data with anonymisation of such personal data.";The Data Governance Act (EU) 2022/868 seeks to increase trust in data sharing, strengthen mechanisms to increase data availability and overcome technical obstacles to the reuse of data. It also aims to support the set-up and development of common European data spaces in strategic domains, involving both private and public players, in sectors such as health, environment, energy, agriculture, mobility, finance, manufacturing, public administration and skills. The Data Governance entered into force on 23 June 2022 and, following a 15-month grace period, will be applicable from September 2023. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R0868;;;;10
+10a;"Has your country started working towards the application of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Justification:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.
+";yes;N/A;The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;"Kindy fill in the column ""Publications of HCD in machine-readable formats via APIs"" in the table below. This column was hidden in the original questionnaire. Sorry.";;;20
+;Categories of high-value datasets;;;Degree of progress (from 1 to 5);;;;
+;;Organisational progress;Legal progress ;;Technical progress ;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;
+;Geospatial;2;4;3;3;3;3;
+;Earth observation and environment;3;4;3;3;3;3;
+;Meteorological;1;4;2;2;2;2;
+;Statistics;4;4;4;4;4;4;
+;Companies and company ownership;4;4;4;4;4;4;
+;Mobility;1;3;2;2;2;2;
+10b;"Are there measures in place to assist other stakeholders’ involvement in this prioritisation process?
+
+For justification:
+* If 'yes, other measures', please specify which measures. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes, regular consultations;;Stakeholders could refer to open data reusers (business, civil society) or other actors that might not be direct reusers of the data (e.g. engaged or interested citizens).;;;;10
+10c;"Are the public bodies in your country progressing in denoting relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For justification:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;Thus, the Ministry of digital transformation continues work on forming a list of high-value data sets and developing standards for their publication, which will fully meet the relevant requirements of European legislation;The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;;;;15
+11a;"Are the objectives/actions of the national open data policy/strategy in place in your country in line with one or more of the European Commission priorities for 2019-2024?
+
+For Justification:
+* If yes, which of the following six priorities and how?
+* Multiple answers are possible. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;N/A;Please find for reference the European Commission´s priorities for 2019-2024: https://commission.europa.eu/strategy-and-policy/priorities-2019-2024_en;;;;15
+;Priorities;Yes/No/NA;Action taken to align with the selected priority;;;;0;
+;"A European Green Deal
+Transforming the EU into a modern, resource-efficient and competitive economy, while preserving Europe’s natural environment, tackling climate change and making Europe carbon-neutral and resource-efficient by 2050.";Yes;Preparation of proposals for the transition to a low-carbon and circular economy based on open data;Example: Green mobility has been prioritised as high-value dataset.;;;0;
+;"A Europe fit for the digital age
+Embracing digital transformation by investing in businesses, research and innovation, reforming data protection, empowering people with the skills necessary for a new generation of technologies and designing rules to match.";Yes;1) Improving the level of knowledge, skills and abilities to work with open data 2) Conducting educational activities to promote open data;Example 1: The strategy explores how open data can be used to foster the digitalisation of public services.                                                                                                                 Example 2: The strategy/policies foresee open data education projects to improve data literacy among citizens.;;;0;
+;"An economy that works for people
+Strengthening the EU economy while securing jobs and reducing inequalities, supporting businesses, deepening the Economic and Monetary Union and completing the banking and capital markets union.";Yes;Conducting a grant competition to support the open data ecosystem and implement new projects, including those aimed at addressing humanitarian and military issues;Example: One of the objectives of my country´s open data policies/strategies is to create economic value by stimulating new buiness opportunities.;;;0;
+;"A stronger Europe in the world
+Strengthening the EU’s voice on the world stage by improving its standing as a champion of strong, open and fair trade, multilateralism and a rules-based global order. Boosting relations with neighbouring countries and partners as well as strengthening the EU’s ability to manage crises based on civilian and military capabilities.";Yes;Publication of gender-disaggregated data according to a defined list in the format of open data;Example: Gender inequality has been prioritised as high-value dataset.;;;0;
+;"Promoting our European way of life
+Upholding fundamental rights and the rule of law as a bastion of equality, tolerance and social fairness. Addressing security risks, protecting and empowering consumers, as well as developing a system for legal and safe migration while effectively managing the EU’s external borders, modernising the EU’s asylum system and cooperating closely with partner countries.";No;-;Example: Migration has been prioritised as high-value dataset.;;;0;
+;"A new push for European democracy
+Strengthening Europe’s democratic processes by deepening relations with the European Parliament and national parliaments, protecting EU democracy from external interference, ensuring transparency and integrity throughout the legislative process, as well as engaging more widely with Europeans in shaping the EU’s future.";Yes;Creating publiсation standards for datasets that have a high anti-corruption impact and making them into  separate high-value domain ;Example: One of the objectives of my country´s policies/strategies is to increase transparency and facilitate public participation in policy debates.;;;0;
+11b;"Are there any other overarching objectives or specific actions of your country´s open data policy/strategy that you would like to mention?
+
+For justification:
+*  If yes, please specify. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";no;;Example: Fight corruption,increase transparency in public administrations.;;;;N/A
+;1.2 Governance of open data;;;;;;;190
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+12;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For justification:
+*  If yes, please briefly explain how this participation is ensured. 
+* If you have a different way of ensuring the participation and/or inclusion of different stakeholders in your country, please select 'not applicable' and explain.";yes;"Governance structure for different public bodies and government level (national, local, regional) 
+The Ministry of Digital Transformation is the main government authority that formulates and implements state open data policy. Also the Ministry is a responsible body for development and functioning of the National Open data Portal
+The Verkhovna Rada Commissioner for Human Rights is the state authority that monitors the compliance of publishers with the requirements of the legislation on access to public information, including open data
+The Open Data team within the Ministry coordinates with Chief digital transformation office and Digital transformation project managers in authorities 
+Chief digital transformation officer in government authority - Deputy Head of the authority responsible for digital transformation in the authority. The development of open data is a matter of responsibility
+Digital transformation project manager in authorities - project manager responsible for the implementation of specific projects of digital transformation in the authority. Development of open data is a matter of responsibility
+Chief digital transformation officer at the local government level - Deputy Chairman of the local government responsible for digital transformation of the city
+The structural unit in the local government, responsible for access to public information
+Within each body on national level and local level there is the body (department), responsible for access to public information and a person who is responsible for publishing datasets on the National portal.
+Governance structure for private and third sector actors active in the open data field.
+The Ministry of Digital Transformation and Chief digital transformation officers across public bodies are a responsible body for coordination with private and third sector actors active in the open data field - such as receiving requests on publication of the data and improving the  quality of data . Engagement with stakeholders is the defined in the Law and Open Data Strategy by official and non official means such as events/forums, etc.
+Also there is the Open Data commite to the Public Council of the Ministry of the Digital Transformation of Ukraine https://thedigital.gov.ua/community/council 
+https://www.facebook.com/egromrada ";;;;;30
+13;"What is the model used for governing open data in your country? 
+
+For justification:
+*  Could you briefly describe why this model was chosen/works best for your country?";hybrid;"Ukraine has implemented a bilateral system to support open data initiatives.
+The Ministry of Digital Transformation of Ukraine is the main authority in the system of government bodies responsible for the formation and implementation of open data policy and strategy.
+At the same time, local authorities, in accordance with their legal powers, develop the sphere of open data on the local level. Hence the model is hybrid where iniative for the open data sphere comes close from the Ministry and local goverements themselves";;;;;N/A
+14;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For justification:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";yes, all initiatives;In Ukraine the powers of central, regional and local authorities are separated. The Ministry coordinates the general directions of the open data sphere on national level, for example, recommendations on publishing datasets, supporting the work of the national portal and disseminating a standard solution of the local open data portal, provides training and monitors the publsihing and the use cases. The Ministry can only coordinate and faciliate with local and regional initiatives but not direclty support. ;;;;;20
+15;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For justification:
+* If not applicable, please explain why.";all public bodies;;By initiatives we mean policies, strategies or portals that focus on the respective local/regional level.;;;;20
+16;"Are the governance structure and its operating model (including the people and the team responsbile for open data activities) published online and accessible to the public?
+
+For justification:
+* If yes, please provide the URL where this information is published. ";yes;"The Ministry of Digital Transformation is the main body in Ukraine responsible for digital development, digital transformation and digitization. The development of open data is included in the list of issues of digital development.
+
+To ensure more effective digital development and digital transformation directly at the level of authorities, the Ministry of Digital Transformation has developed a special position in authorities - Chief Digital Transformation Officers
+Their activities are regulated by the resolution of the Cabinet of Ministers of Ukraine dated March 3, 2020 No. 194 https://zakon.rada.gov.ua/laws/show/194-2020-%D0%BF#Text In addition, in accordance with Article 16 of the Law of Ukraine ""On Access to Public Information"" https://zakon.rada.gov.ua/laws/show/2939-17#Text, each authority is obliged to create a special unit responsible for open data publication
+
+CDTOs are coordinated by the Ministry of Digital Transformation, and are directly engaged in the implementation of policy in the field of digital development in their bodies.";;;;;20
+17a;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For justification:
+* If yes, please provide the URL where this information is published. ";yes;"Article 14 of the Law of Ukraine ""On Access to Public Information"" defines the main duties of the responsible structural units regarding access to information.
+Article 15 of the same law defines special obligations for the publication of open data.
+In addition, the Ministry of Digital Transformation has developed a standard provision for public information disclosure in the form of open data https://docs.google.com/document/d/1KKozOoDr7w_kfq52Tr1uaivA0lV3T0etLgGZatW_Meg/edit";;;;;20
+17b;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;There is no separate team maintaining the national portal. National open data team and national opendata portal team are the same people;;;;;20
+18;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For justification:
+* If yes, please describe how this task is fulfilled at public body level.";yes;Since the creation of the Ministry of Digital Transformation in 2019, the position of the Chief Digital Transformation Officer was introduced. One of the responsibilities of the Chief Digital Transformation Officers is the coordination of the open data sphere. Furthermore, according to the Decree 835 each public body has to appoint  the person/s responsible for publication of the open data;;;;;20
+19;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers? 
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Between the national open data team and the Chief Digital transformation Offirecs hold weekly meetings to implement the open data policy in a specific executive body or specific region. The agendas and sum-ups of such meetings is used exclusively for official use;;;;;20
+20;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;https://www.youtube.com/watch?v=GHaDXGMBwPQ https://www.youtube.com/watch?v=kOuMopjMl4g https://www.youtube.com/watch?v=AZsGoVMnqks ;Exchanges can take place via formal formats (e.g. round-tables, conferences) or less formal formats (e.g. meet-ups).;;;;20
+;1.3 Open data implementation;;;;;;;175
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+21;"Do data publication plans exist at public body level?
+
+For justification:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"Different public bodies at national/regional/local levels publish different types of publication plans. On a local level some cities, who joined Open Data Charter, publish strategies and/or actions plans on publishing open data, some central bodies publish strategies and/or internal orders on publishing open data. There is no unified approach but in general publication plans are available. At the moment Decree states the list of the datasets that has to be published and at the same time all publishers must regalarly publish and update a register of data sets where the frequency of updating the sets is indicated. Thus,according to the Decree planning of particular datasets are divided between the national (list of datasets) and the local level (frequency of updating sets) Some example of already existing plans http://www.namvk.if.ua/dt/309482/ http://www.namvk.if.ua/ref_doc/62640 Different public bodies at national/regional/local levels publish different types of publication plans. On a local level some cities, who joined Open Data Charter, publish strategies and/or actions plans on publishing open data, some central bodies publish strategies and/or internal orders on publishing open data. There is no unified approach but in general publication plans are available. At the moment Decree states the list of the datasets that has to be published and at the same time all publishers must regalarly publish and update a register of data sets where the frequency of updating the sets is indicated. Thus,according to the Decree planning of particular datasets are divided between the national (list of datasets) and the local level (frequency of updating sets)
+Ministry of the digital transformation of Ukraine developed a tempalate plan for the local self-government bodies for improving the open data policy https://data.gov.ua/pages/plan-dii-z-pryiednannia-odc ";For data publication plans we refer to the existence of a specific workflow or internal data management process for publication of datasets. ;;;;20
+22a;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For justification:
+* If yes, please specify the process(es).";yes;"There are three government mechanisms of the monitoring of the implementation of strategies on national and local level 
+Yearly monitoring - Ministry of Digital Transformation submits yearly report to the Cabinet of Ministers on the implementation of The Open Data Strategy
+Quarterly monitoring of the policy implementation.  Ministry of Digital Transformation conducts quarterly monitoring of the implementation of the policy by central authorities. The monitoring focuses on the availability of the data according to the requirements  of the legislation and its quality. 
+Yearly monitoring  of open data programs.
+Assessment focuses on the availability and quality of the published data, regulation framework inside of the pubic body, engagement and promotion of the use of the open data. The last monitoring is available here: https://data.gov.ua/uploads/files/2021-10-11-151345.820104--2020.pdf";;;;;15
+22b;"If yes, would you describe the status of implementation as satisfactory/neutral/unsatisfactory? 
+
+For justification:
+* Please motivate your answer.";satisfactory;Since various monitoring mechanisms show the rise of the number of published datasets and its quality, as well, as growth of number of open data use cases - the status of the implementation is satisfactory;;;;;N/A
+23a;"Are there any processes in place to asses if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the re-use of public sector information).
+
+For justification:
+* If yes, please specify the process(es).";yes;"According to the Law of Ukraine ""On Access to Public Information"" there is no charging for opedata datasets. All of them are free of charge";;;;;15
+23b;If yes [to Q23a], to what degree is data provided by public sector bodies free of charge?;all datasets;N/A;;;;;15
+23c;How has this degree changed compared to the previous year?;increased, or already all datasets;N/A;;;;;10
+24a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For justification:
+* Please briefly describe.";N/A;"The war waged by Russia against Ukraine has a significant impact on the open data sphere and the implementation of strategies and plans for the development of the open data sphere.
+To ensure the interests of national security and defense, the work of national and local portals was suspended. Suspended activities related to improving the level of skills in open data. In addition, due to the war, funding for IT development, including open data, has been significantly reduced";;;;;N/A
+24b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For justification:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to cope with these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"To overcome the negative consequences of the war, the Government of Ukraine established the National Council for the Recovery of Ukraine from the effects of the war, one of the tasks of which is the further development of the IT sector, including open data. 
+It is planned that open data will be the basis for the reconstruction of Ukraine and ensure transparent and accountable funding for reconstruction projects https://www.kmu.gov.ua/diyalnist/nacionalna-rada-z-vidnovlennya-ukrayini-vid-naslidkiv-vijni/pro-nacionalnu-radu-z-vidnovlennya-ukrayini-vid-naslidkiv-vijni Action plan on recovery is available via link https://recovery.gov.ua/en/project ";;;;;10
+25a;"Are there any activities in place to assist data providers with their open data publication process?
+
+For justification:
+* If yes, please describe/provide examples of these activities.";yes;"Ministry of Digital Transformation, National Agency of Ukraine for Civil Service Affairs launched the course the certified advanced training program, which is titled, ""Open Data for Civil Servants: A Practical Course."" The program aims to increase the competency of officials from public authorities and local governments who are responsible for the disclosure of public information in the form of open data and covers 18 different topics. https://pdp.nacs.gov.ua/courses/vidkryti-dani-dlia-derzhsluzhbovtsiv-praktychnyi-kurs
+Also as a measure to develop professional skills of civil servants working with data is the online course Open Data for Civil Servants that was created on the national platform of the digital education - https://osvita.diia.gov.ua/courses/open-data. This was the first open data course certified by the National Agency of Ukraine for Civil Service Affairs. The course was launached on September 2020. Since then more than 132 000  goverment officials completed the course ";E.g. a task force/agency that is in charge of promoting and assisting the data publication process at national and/or regional and local levels (where applicable).;;;;15
+25b;"Are there activities to assist real-time and/or dynamic data holders in their publication process?
+
+For justification:
+* If yes, please provide some examples of such activities.";yes;"Ministry of Digital Transformation issued the guidance and standards on the the publication of data on public transport in real time. The purpose of these documents is to facilitate the publication of data in real time in accordance with GTGS-RT standards or analogues
+https://data.gov.ua/pages/835-recm-transport-realtime
+Also the documentation of the national portal provide data providers the instruction of API using and promote the API usage for realtime/dynamic data publication
+https://data.gov.ua/pages/instructions 
+https://data.gov.ua/pages/manager";Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time).;;;;10
+25c;"Are there activities to assist geo-spatial data holders in their publication process?
+
+For justification:
+* If yes, please provide some examples of such activities.";yes;"The Intensive ""Open Data for Data Providers"" by the Ministry of Digital Transformation of Ukraine includes materials on publication of geo-spatial data. It explains the difference of vector and raster types of geo-spatial data, covers appropriate data formats, current legislation of Ukraine on publication of geo-spatial data, shows opportunities for data providers by geo-spatial portals launch https://diia.data.gov.ua/news/vidkriti-dani-dlya-yuznenskoyi-miskoyi-radi https://diia.data.gov.ua/news/navcannya-z-vidkritix-danix-dlya-berdicivskoyi-miskoyi-radi https://loda.gov.ua/news/50402";Geo-spatial data is data that contains information on properties that are linked to a position on earth.;;;;10
+25d;"Are there activities to assist citizens or their working organisations in the publication of citizen-generated data?
+
+For justification:
+* If yes, please provide some examples of such activities.";yes;"There are a lot of unregular activities such as master-classes and work-shops for spesific data/datasets. Also Ministry developed a special Open Data Intensive for Beginners is a one-day open data intensive for beginners that will be useful for business, community, education, science and anyone looking to understand how open data can solve everyday problems and create new opportunities for development. own business. Participants will learn about open data, the impact they have on the development of the economy and democracy, where to look for datasets, what tools exist for their analysis and visualization.
+
+Responce to reviewer:
+Moreover, Ministry of Digital Transformation during events mentioned above promotes publication of citizen-generated data. Thus for e.g., public organization Save Dnipro (SD) publishes dataset ""Hourly atmospheric air quality index for fine dust fraction of 2.5 microns in populated areas of Ukraine"" (https://data.gov.ua/dataset/b1b08d68-52b8-48db-a9ef-5546c49a9e00) and popularises the case of publication the citizen-generated data.
+
+According to the Decree № 835 of the Cabinet of Ministers of Ukraine local governments are to publish e-democracy open datasets, inter alia, data on electronic petitions; data of public budget, participation budget, etc., including about projects, voting results, implementation of supported projects; data on queues of children in preschool educational institutions. This imformation is citizen-generated and transmitted by citizens to local governments."; Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;The current response seems to mainly refer to initiatives that promote data literacy. Please also comment on the aspect of assisting with the publication of citizen-generated data.;;10
+26a;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For justification:
+* If yes, please briefly describe these training activities.";yes;"Ministry of Digital Transformation, National Agency of Ukraine for Civil Service Affairs launched the course the certified advanced training program, which is titled, ""Open Data for Civil Servants: A Practical Course."" The program aims to increase the competency of officials from public authorities and local governments who are responsible for the disclosure of public information in the form of open data and covers 18 different topics. https://pdp.nacs.gov.ua/courses/vidkryti-dani-dlia-derzhsluzhbovtsiv-praktychnyi-kurs
+Also as a measure to develop professional skills of civil servants working with data is the online course Open Data for Civil Servants that was created on the national platform of the digital education - https://osvita.diia.gov.ua/courses/open-data. This was the first open data course certified by the National Agency of Ukraine for Civil Service Affairs. The course was launached on September 2020. Since then more than 132 000  goverment officials completed the course ";Ideally such trainings are organised in the frame of the professional development programmes for civil servants and address both data literacy and skills.;;;;15
+26b;"If yes [to Q26a], do these training activities offer a certification that is formally recognised? 
+ 
+For justification:
+* If yes, please briefly describe.";yes;"Program participants of above mentioned courses receive a a publicly recognised certificate upon successful completion of the course.   ""Open Data for Civil Servants: A Practical Course is worth 1  European Credit Transfer and Accumulation System credit  and 0.2  ECTS for online course Open Data for Civil Servants  ";;;;;10
+27a;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond public servants? 
+ 
+For justification:
+* If yes, please provide a few examples (e.g. title, date, location of the event and URL).";yes, >9;"https://diia.data.gov.ua/news/provedeno-navcannya-z-vidkritix-danix-dlya-mukacivskoyi-miskoyi-radi
+https://diia.data.gov.ua/news/bilocerkivska-miska-rada-dolucilasya-do-navcannya-z-vidkritix-danix
+https://diia.data.gov.ua/news/cortkivska-miska-rada-pidvishhuje-kompetenciyi-v-sferi-vidkritix-danix
+https://diia.data.gov.ua/news/vidkriti-dani-dlya-yuznenskoyi-miskoyi-radi
+https://diia.data.gov.ua/news/navcannya-z-vidkritix-danix-dlya-berdicivskoyi-miskoyi-radi
+https://loda.gov.ua/news/50402
+https://diia.data.gov.ua/news/navcannya-dlya-krasnosilskoyi-silskoyi-radi
+https://diia.data.gov.ua/news/vidkriti-dani-dlya-vinnickoyi-ova
+https://diia.data.gov.ua/news/kropivnicka-miska-rada-intensiv-z-vidkritix-danix
+https://diia.data.gov.ua/news/vidkriti-dani-dlya-zakarpatskoyi-ova
+https://diia.data.gov.ua/news/vidkriti-ekologicni-dani-navcannya
+https://diia.data.gov.ua/news/bilse-100-predstavnikiv-dniprovskoyi-miskoyi-radi-navciisya-pracyuvati-z-vidkritimi-danimi
+https://diia.data.gov.ua/news/vidkriti-dani-uzgorodskoyi-miskoyi-radi
+https://diia.data.gov.ua/news/navcannya-dlya-centralnix-organiv-vikonavcoyi-vladi
+https://diia.data.gov.ua/news/vidkriti-dani-dlya-organiv-miscevogo-samovryaduvannya https://thedigital.gov.ua/news/derzhsluzhbovtsiv-navchili-pratsyuvati-z-vidkritimi-danimi-zavdyaki-programuvannyu
+https://diia.data.gov.ua/news/derzekoinspekciya-nalagodzennya-sferi-vidkritix-danix
+https://diia.data.gov.ua/news/antiteroristicnii-centr-pri-sbu-analitika-danix
+https://diia.data.gov.ua/news/antiteroristicnii-centr-pri-sbu-analiticna-kultura
+https://thedigital.gov.ua/news/do-tizhnya-vidkritogo-uryadu-vidbudetsya-krugliy-stil-vidkriti-dani-tsirkulyarna-ta-nizkovugletseva-ekonomika https://cedem.org.ua/news/trening-z-dostupu/
+https://www.prostir.ua/event/treninh-dostup-do-publichnoji-informatsiji-v-umovah-vijny/";;;;;20
+27b;"Who organises most open data related events?
+ 
+For justification:
+* Please provide a few examples of typical organisers.";a mix of the above;Government body - Ministry of  digital transformation, state enterprise Prozzoro. Civil society representatives - Texty.org.ua, OpenUp, Assosiation of Ukraine`s cities. Municipalities - Kharkiv city council, Lviv city council. Private sector repsentative  - YouControl;;;;;N/A
+;Dimension 2: Open Data Impact;;;;;;;600
+;"Assessing the impact of open data is still generally considered a new field, with no consensus, for example, on the definition, or methodologies to measure impact. Nonetheless, there are several elements that are considered essential to demonstrating impact, such as monitoring and measuring the reuse of published open data. Given this, the impact dimension in this questionnaire tries to capture the extent to which countries have been making progress in monitoring the reuse of open data and based on that, in measuring the impact of open data on specific governmental, societal, environmental, and economic challenges of our time. Countries are encouraged to provide, whenever possible, examples of reuse for each impact area/topic. Yet, please note that data.europe.eu does not consider the availability of reuse examples as a direct evidence of impact.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                                                                                                                         ";;;;;;;
+;2.1. Strategic awareness;;;;;;;170
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+28;"Do you have a definition of open data reuse in your country?
+ 
+For justification:
+* If yes, please specify it.";yes;"Definition of open data re-use is specifed in the Law of Ukraine on Access to Public Information https://zakon.rada.gov.ua/laws/show/2939-17#n259 in the very definition of open data: ""Public information in the form of open data is public information in a format that allows its automated electronic processing, free and free access to it, and its further re-use. Dataproviders are obliged to provide public information in the form of open data on request, publish and regularly update it on the national portal and on their websites. Public information in the form of open data is allowed for its further free re-use and dissemination. Any person is free to copy, publish, distribute, re-use, including for commercial purposes, in combination with other information or by including in their own product, public information in the form of open data with mandatory reference to the source of such information .";;;;;10
+29;"Is there interest at national level to observe the level of reuse of open data in your country?
+ 
+For justification:
+* If yes, what activities/efforts have you observed within public bodies that support your observation?";Yes, there is a strong focus;"Determining the level of open data reuse and measuring its impact is one of the goals of public open data policy.
+The Center for Competence in the sphere of open data Diia. Open Data contains a special section ""The impact of open data"" https://diia.data.gov.ua/value which brings together all research and analysis on the impact of open data on various spheres/aspects of public life. In addition, each case study is accompanied by references to software products based on open data, as well as datasets used in the product";"With 'national level' we refer to either central government, federal government, or top ministries.
+Examples of such activities could be regular information sessions and/or promotion of published data at conferences and other events. ";;;;15
+30;"Are there any processes in place to monitor the level of reuse of your country's open data, for example via the national open data portal?
+ 
+For justification:
+* If yes, please briefly describe these processes and provide the URLs to support the answer.";yes;"There are few mechanisms on monitoring the level of open data re-use in Ukraine.
+Key measuring mechanism  of  open data development across ministries and cities is institutionalised in the legislation. The mechanism has 4 key chapters - policy, capacity, publishing the data and quality and use of the data. 
+Also catalogues of apps that use the open data are available which is regularly updated by users and the Ministry of  Digital Transformation https://diia.data.gov.ua/services                                                                                                                                                In addition, the national portal has the ability to track the level of use of data sets (number of views and downloads separately for each set) and to track which services based on open data use the data set";;;;;20
+31;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For justification:
+* If yes, please briefly describe these activities/incentives and provide the URLs to support the answer. ";yes;Key measuring mechanism  of  open data development across ministries and cities is institutionalised in the legislation. The mechanism has 4 key chapters - policy, capacity, quality of the data and the use of the data. The questions in the chapter regarding the use of data collects the estimation of the re-use from different public bodies.Since the measuring mechanism is institutionalised in the legislation all public bodies are  obligated to to measure their open data programs, including the re-use of their own or other public bodies' open data to measure their open data programs, including the re-use of their own or other public bodies' open data. Data is collected, analysed and reported to the Cabinet of Ministers                                                                                                                                                                         The results of such monitoring of published data by the public bodies and data providers itself are in special servey available via link https://data.gov.ua/uploads/files/2021-10-11-151345.820104--2020.pdf ;Incentives could for example be training, financial incentives, or awards.;;;;20
+32;"Is your country progressing in preparing to monitor and measure the level of reuse of high-value datasets following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+ 
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;"Ukraine has already identified areas in which the development of open data is a priority of state policy. In accordance with clause 27 of the Regulation on datasets subject to publication in the form of open data https://zakon.rada.gov.ua/laws/show/835-2015-%D0%BF#Text ""Publication of datasets in the spheres of justice, judiciary, health care, ecology and natural environment protection, transport and infrastructure, finance and taxes are the priority direction of implementation of state policy in the field of open data.""
+
+Currently, the Ministry of Digital Transformation is working on the formation of a list of high-value data sets, and standards for their publication which will also include data sets necessary for the post-war reconstruction of Ukraine.
+
+We are not planing to use different approach to monitor and measure the level of reuse of high-value datasets. The general approach for monitor and measure the level of reuse will be used";The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;;;;15
+33;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For justification:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"Impact of open data is specified as ""Impact of open data means anti-corruption, social, political, economic and other effects caused by the disclosure and re-use of public information in form of open data.""https://data.gov.ua/uploads/files/2022-06-15-102752.7196282150222.pdf                                                                                                                                                                                                                                                                                                                                                           Also we used privious approach to specified open data impact in Ukraine. For micro studies that we currently conduct  to assess the impact of open data in particular sectors we usually follow this KPIs -  number of views of the dataset  - number of services and products that were created or additinal finctions were created or integrated  the dataset into the existing product - number of users(citizens) of these services. If there is high use of services by citizens it shows that the dataset solves particular problems for them. 
+For macro economic impact study that was conducted the following metric were calculated - the rise in GDP, economic gain in UAH and  creation of jobs was calculated ";;;;;20
+34;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For justification:
+* If yes, please briefly describe the key points of this methodology.";yes;"The Ministry of Digital Transformation employ a framework to measure the impact of open data. We have utilized international best practices such as NYU’s GovLab project https://odimpact.org/ . Qualitative approach to its open data impact measurement is used . Typical open data impact research involves pre-screening of potential subjects either from a bottom-up approach (a large number of open data products found in a specific domain or from a specific open dataset) or a top-down one (research into a specific governmental body or domain, e.g. ecology, state regulatory commission, health, etc). The research relies heavily on interviews and focus-groups with parties involved in opening the data (state officials, data scientists), creating and using products based on these data (NGOs, civil activists, journalists, etc). The impact is measured by analysis of several key categories, namely: does it help prevent or detect corruption; does it provide new tools for civil impact; how many users of the open data and tools created on the basis of the open data? and does it improve social standards? Interviews with the before-mentioned parties allow to gain as much of an objective view of open data impact as possible.";With methodology we refer to practices, frameworks, methods developed/employed, regardless of their maturity level.;;;;30
+35;"Are there studies that have been conducted in the past year that focus on assessing the impact of open data in your country?
+
+For justification:
+* If yes, please provide examples and the URLs to such studies to support your answer.";yes;Two studies have been conducted: Social and anti-corruption impact of open data on local comunities (part 2) https://tapas.org.ua/wp-content/uploads/2022/07/OD_municipalities_part-2.pdf , Social and anti-corruption impact of open data on local comunities (part 3) https://tapas.org.ua/wp-content/uploads/2022/07/Report_Municipalities-OD_part-3.pdf ;;;;;25
+36;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For justification:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"Increasing the level of competence in the field of open data is one of the priority areas of the Open Data community. That is why a training course ""Working with open data in legal practice"" was held for teachers of higher education institutions that train law students. The idea of ";;;;;15
+;2.2 Measuring reuse;;;;;;;110
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+37;"Have any public bodies in your country launched or performed any activities in the past year to map which and how (open) datasets are reused?
+
+For justification:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;;;;;40
+;Type of activity;Mark relevant activties below;Brief description;;;;0;
+;Analysis of log files;Yes;All government bodies as well as users of National portal have accses to statistacal information about each dataset published on Portal. Due to monitoring mechanism data providers are obliged to analyse the statistic of datasets usage on regular basis;;;;0;
+;Automated feedback mechanisms tracking users´ access to datasets;No;;;;;0;
+;Surveys;No;;;;;;
+;Interviews/workshops with reusers;No;;;;;0;
+;Other;Yes;Ministry of digital transformation of Ukraine together with USAID/ UK Aid TAPAS project and East Europe Foundation organized a competition to support projects based on open data https://odss.data.gov.ua/ The main idea of competition is to help reusers of open data to realize their projects and increase the level of open data reuse;;;;0;
+38;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers´needs?
+
+For justification:
+* If yes, which of the following activities?
+* Multiple answers are possible.";Yes;N/A;;;;;40
+;Type of activity;Mark relevant activties below;Brief description;;;;0;
+;Regular feedback sessions with portal users ;No;;;;;0;
+;Social media sentiment analysis ;No;;;;;0;
+;Other;Yes;Ministry of digital transformation meeting  organized meeting with representatives of business, the public sector and developers of services based on open data, dedicated to the seventh anniversary of open data in Ukraine where was disscused a reusers` problem and possible solutions to solve them https://www.youtube.com/watch?v=GHaDXGMBwPQ;;;;0;
+39a;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For justification:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;"In Ukraine, the basis for confirming the case of reuse of a data set is a software product (application) that uses data sets in its work.  Ministry of Digital Transformation maintains a complete list of all applications/visualizations/dashboards and analytical panels in a special section of the Open Data Competence Center Diia.Open Data.
+The developers themselves submit their product for publication, it is necessary to specify the datasets used in the product. After the inspection,  Ministry either approves and publishes such a product, or returns the application to the developer for revision.";;;;;20
+39b;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For justification:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;"Ministry of Digital transformation has developed a comprehensive model to classify open data re-use cases.
+1. Classification by scope (Competitive Intelligence, Transport, Health, Environment, Real Estate and Urban Development, Government Transparency and Accountability, Anti-Corruption, Jurisprudence)
+2. By product type based on open data (information-analytical systems, decision support systems, visualizations, chatbots, mobile applications, analytical research)";;;;;10
+;2.3 Created impact;;;;;;;320
+;2.3a Governmental impact;;;;;;;80
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+40;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country? 
+
+For justification:
+* If yes, please specify what kind of data proves this impact and provide the URLs to this data.";yes;"Monitoring of the exercise of powers by deputies of local self-government. According to the latest study Social and anti-corruption impact of open data on local comunities (part 2) https://tapas.org.ua/wp-content/uploads/2022/07/OD_municipalities_part-2.pdf residents' understanding of the duties of deputies of local councils creates more opportunities for solving community problems, as there is no room for manipulation, instead there is a field for discussions and cooperation. Dataset ""Data on deputies of local councils, including contact details and reception schedule"" allows citizens to find out the following information: biographical data, phone number, e-mail address, pages in social networks, faction name and position in it, standing committee name and position in it, etc. Disclosure of data about MPs with reception schedule and contact information, as well as the results of MP activity can significantly simplify the processes of activity monitoring and feedback. Information collected in one place and presented in a convenient form increases the accountability of representatives in power to their constituents. ""Analytics of deputy activity"" is a service that provides the publication of projects, adopted decisions, the course of voting and analytics of the work of council deputies. Hosted on the Drohobych Smart City platform, it was launched on May 14, 2021. The system contains a created profile of each deputy with detailed information on voting statistics, proposed projects and amendments, and affiliation to factions. This helps the residents to be aware of the votes and not to allow the deputies to mislead the residents about the projects implemented in the city.";"The governmental impact is hereby defined as the beneficial effect of the use of open data on three specific challenges faced by the government/public administrations: 1) Being efficient and effective in delivering public services; 2) Being transparent and accountable in their actions; 3) Improving their capacity to make decisions and policies.";;"Analytics of deputy activity seems to be a reuse case, suitable for Q41-Q44. The study ""Social and anti-corruption impact of open data on local comunities "" seems to be an appropriate reference for this question.";;20
+41;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Control of sales or leasing of communal property: In order to transfer an object for rent, it must first be included in the lists of state or communal property of type I or II. The property must be entered in a single register in order to provide all citizens with access to information and to provide equal conditions for participation in the competition for property lease. In particular, the I-type list contains property objects that are transferred for use through an auction, the II-type list — those that are transferred without an auction to budget organizations. In addition to the norm regarding the implementation of the relevant law and the obligation to use the Prozoro.Prodazhi platform, local self-government bodies must publish this information in the form of open data. Resolution of the CMU No. 835 contains the following mandatory sets: ""List of communal property objects that have been leased or other right of use"", ""List of communal property objects that can be leased"". For example, the data set ""List of unused property objects (premises) of communal ownership that can be transferred to the use of the Chopska City Council"" contains the following information: purpose of the property, rental rate, lease term, information about the object, information about lessor, EDRPOU code, location (According to the latest study Social and anti-corruption impact of open data on local comunities (part 2) https://tapas.org.ua/wp-content/uploads/2022/07/OD_municipalities_part-2.pdf ) Interactive map of the register of communal property of Ternopil https://ternopilcity.gov.ua/municipal-data-map/interaktivna-karta-reestru-komunalnogo-mayna/ 
+The interactive map of the register of communal property is a system of recording and displaying information about communal 
+property of the Ternopil City Council. The idea of the project arose in 2018. It turned out that some premises allocated for public organizations actually serve as offices for pro-government political parties that do not pay the appropriate amount for their rent. Or the building does not function at all, is idle and does not benefit the city. This discovery was the impetus for the creation of a municipal property monitoring service in the city. Then the government, business (IT companies) and the public sector of Ternopil came together to digitize, process and verify information about the property and, ultimately, create an interactive map. The service uses two sets of open data: ""Register of Loan Agreements (free use) of communal property"" and ""Register of Lease Agreements of Communal Property"" of the Ternopil City Territorial Community.";;;;;15
+42;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Open Data Watchdog https://wd.clarity-project.info/ is a service that allows you to track events with datasets on the Unified State Open Data Portal. It is designed to contribute to increasing the level of transparency of managers and administrators responsible for the release of data and to reducing abuses on their part.
+An important feature of the Open Data Watchdog service is that you can find out more information about datasets, in particular, about their addition or removal, changes and editing. It is enough to make a few clicks to get the necessary information.
+The chatbot of the https://t.me/datagovua_watchdog service will also help monitor changes with open data sets.
+Monitoring the addition and removal of data sets will be of interest not only to a narrow circle of individuals, such as portal administrators, managers, experts and activists in the field of open data, but also to ordinary citizens. In Ukraine, there are more than 10,000 administrators who publish and withdraw sets of open data. Such sets can be both national (for example, in 2022, a set with financial statements for 2021 was removed from the portal, which was then published again), and local.
+Using the Open Data Watchdog, local activists, mass media, and the public will be able to monitor and control not only changes in open data sets, but also what consequences this has for the state and communities. Having such information, everyone can, for example, with the help of requests and appeals, influence the openness of authorities and their decisions.";;;;;15
+43;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Standardization of data and automation of their processing have simplified the process of planning measures of state supervision and control and made it less time-consuming, ie reduced the time spent on the preparation of inspection plans.
+Prior to the introduction of automated open data collection, the general process of planning state supervision and control measures took months. Only the construction of territorial plans by the central office of state supervision and control took several weeks and required the work of a separate department.
+Currently, this process is automated, which saves about 2,400 hours per year FTE.The openness of inspection data has also made information more accessible within state oversight and control bodies. The main results of the inspection, including scanned copies of documents, are now available online. In case of response to the information request, employees may provide copies of documents or links to them. To respond to a complaint, they have more time to prepare a quality response.                                                                                                                                                                                                                                                                                                                                                                             Internet Subvensions project. The purpose of the project Internet Subventions (https://bb.gov.ua/)  is to provide a technical opportunity for 1.5 million Ukrainians to connect to the optical Internet for the first time, connecting 6,000 educational, medical and cultural institutions to the optical Internet. For the first time the government will  cover 3,000 Ukrainian villages with optical networks . The Ministry of the Digital transformation uses open and shared data for the creation of the dashboard which allows for citizens to monitor the coverage of the  optical networks in Ukrainan villages and monitor the applications from heads of the communities for receiving government subvention. Using open data on  the coverage of the  optical networks, the Ministry outlined the current problem, created a new program to solve the problem  and checked the correctness of the data included in the applications. 
+Project http://bit.ly/subvention-dashboard ";;;;;15
+44;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"BOOST is a tool for analyzing budget indicators, implemented by the Ministry of Finance of Ukraine on the portal openbudget, developed on the basis of the methodology of the World Bank. The purpose of the tool is to use budget funds efficiently, improve decision-making processes, transparency and accountability.
+https://openbudget.gov.ua/analytics/incomes 
+https://openbudget.gov.ua/ 
+
+The National Health Service of Ukraine (NHSU) is the central executive body that implements the state policy in the field of state financial guarantees of medical care. The NHSU uses the principle ""money follows the patient"" and uses  the open data and the dashboards on its basis for financial spending during the COVID 19 pandemic. The open data and dashboards provide information on testing and inpatient treatment of patients with COVID-19, list of healthcare providers designated to provide inpatient care to patients with COVID-19 under an agreement with the National Health Insurance Fund, statistics of keeping medical records on vaccination of the population. This data is used on daily basis for decision-making processes by Cabinet of Ministers, Ministry of the Health and NHSU in fight against pandemic 
+
+Project https://nszu.gov.ua/e-data/dashboard/likarni-covid 
+https://nszu.gov.ua/e-data/dashboard/covid-drugs-inventory 
+https://nszu.gov.ua/e-data/dashboard/covid-package-stat 
+";;;;;15
+;2.3b Social impact;;;;;;;80
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+45;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country? 
+
+For justification:
+* If yes, please specify what kind of data proves this impact and provide the URLs to this data.";yes;"The report of open data impact on the healthcare in Ukraine is available via link https://data.gov.ua/uploads/files/2022-10-03-123908.651661Healthcare-OD-impact-study.pdf  The Ministry of Digital Transformation of Ukraine conducted a study on the impact of data discovery in the field of health care on society.
+The study collects examples of the use of open data and analyzes how they help Ukrainians in solving medical problems. In particular, the report analyzes whether it is possible to save money when buying drugs, how to get drugs for free at your hospital, how to understand the process of signing declarations with doctors, what changes are taking place in the health care system and where the budget goes. https://diia.data.gov.ua/value/health
+Open data in the medical field helps solve a number of problems in the context of low awareness of the above issues, in particular:
+Open data published by the NHSU promotes transparency in the functioning of the institution and allows anyone to check the accuracy of information about the activities of the NHSU and the course of healthcare reform.
+With the help of interactive services and products created on the basis of open data in the medical field, citizens receive information on signing declarations with physicians in a clear and informative format.
+Creating services based on open data helps attract citizens and pharmacies to the Affordable Medicine program, providing the following information in an accessible and efficient format: to patients about the availability of medicines that can be received on a free-of-charge basis, to pharmacy owners about the location of participating pharmacies,
+the level of competition in the market and the amount of payments to pharmacies and, accordingly, the analysis of opportunities to participate in the program. Informing about the results of health care reform, based on real data, stories and examples, has a positive effect on the attitude of the population to the reform and on the assessment of the state of affairs in the field as a whole ";The social impact is hereby defined as the beneficial effect of the use of open data on four specific challenges for society: 1) Including minorities, migrants, and/or refugees  and reducing inequality, 2) Alleviating housing issues, 3) Fostering health and wellbeing, 4) Improving education.;;;;20
+46;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees (e.g. from the Ukrainian war)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Visualizations and analytical panels are used by the authorities to better plan policies to protect vulnerable social groups and ensure equal rights and opportunities for all, including the protection of basic fundamental rights.
+
+A City for Everyone Visualization Tool for Zaporizhia City 
+A City for Everyone utilizes data on buildings accessibility for persons with disabilities (PWD).
+While researching the accessibility of buildings in Zaporizhia, and help to fight again several corruption risks, including inconsistency between the actual state of buildings’ accessibility and what is documented in the inspection results; inconsistency between planned and actual works performed to improve accessibility and the city’s actual needs; and approval of projects and commissioning of buildings with facilities that do not meet state accessibility standards.  This tool will greatly reduce or prevent potential corruption violations that can occur at each stage of the budget management cycle: approval of project documentation (e.g., non-compliant projects); selection of contractors (e.g., selection of affiliates); and acceptance of works (e.g., work that fails to meet project standards, which include state accessibility standards).
+Project : https://texty.org.ua/d/2021/zaporizhzhia_inclusive/ 
+Data https://data.gov.ua/dataset/bd9a85a7-610d-40ed-962b-bb1cf509d796 ";;;;;15
+47;"Is the use of open data in your country having an impact on the society´s level of awareness concerning housing in urban areas? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"According to the order ""On the approval of the Procedure for placement of temporary structures for conducting business activities"", the basis for placement of temporary structures is the permits issued by the executive bodies of village, settlement, and city councils. However, not all entrepreneurs comply with the requirements of the law and the current rules for the placement of temporary structures. So, for example, 4,500 illegally installed temporary structures were removed in Kyiv in 2020. However, according to various estimates, from six to seven thousand IAFs are still working illegally in Kyiv. Non-receipt of taxes for unaccounted-for constructions, as well as costs for their dismantling, are millions of hryvnias lost to local budgets. An excessive number of structures spoils the appearance of the city, they can interfere with the movement of pedestrians and pose a danger to all road users. The interactive map of temporary structures of the Rivne City Council https://arhrv.gov.ua/map/temp is a tool that allows you to easily determine the legal status of all temporary structures in Rivne. Thanks to this map, every resident can find out in a few clicks whether this or that kiosk is legally installed. The project is based on open data with a list of permits for the placement of temporary structures, which makes it possible to quickly monitor changes in the status of each specific object and respond to cases of violations of the law. The map is part of the Rivne geoportal, where, among other things, there are eight interactive maps that, in addition to the issue of temporary structures, also cover the zoning plan, the street register, passenger transport, and more. The interactive map of the temporary structures of the Zhytomyr City Council https://gis.zt-rada.gov.ua/ was created on the basis of the Zhytomyr geoportal, which contains a map of the city's temporary structures. Passports of temporary structures are also available for downloading and viewing on the site, and a convenient search and filtering system has been created for familiarization with the necessary data. Among other things, more than ten different formats are available on the portal, including visualization and data sets for communal property, register of advertising media, cadastral map, etc.";Data that provides information on the housing market, rental market, property valuations, sales, planning, zoning, census data on socio-economic variables for cities and/or neighbourhoods, other housing issues such as homelessness, empty dwellings, gentrification.;;;;15
+48;"Is the use of open data in your country having an impact on the society´s level of awareness on health and wellbeing related issues (also but not only in light of the COVID-19 pandemic)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"https://toolkit.data.gov.ua/c7/medicine.html Find out which medicines can be obtained free of charge during hospitalization, and check their availability at the medical institution. If you are receiving inpatient treatment, the medical institution must provide you with drugs included in the National List of Essential Medicines free of charge. But there may be cases when doctors either hide this right from patients, or say that the necessary drugs are not available, and patients have to buy the drugs themselves. With the help of open data, you can protect your rights by checking which drugs are guaranteed by the state and whether they are available in the medical institution. To find out whether the hospital has drugs that should be provided free of charge, you can use the analytical module from the State Enterprise ""Medical Procurement"" https://bi.medzakupivli.com/ or the ""E-MEDICINES"" https://eliky.in.ua/ service. The data of the latter is available for use through АРI. Map of pharmacies participating in the ""Affordable Medicines"" program from the data journalism agency Texty.org.ua https://texty.org.ua/d/2019/medical_reform/#/apteky ""Will be mother"" chat bot. This is a specialized service for pregnant women, developed on the basis of open data. It contains a step-by-step algorithm on how to get free pregnancy support, medical care during childbirth and neonatal services. Thanks to the chatbot, women planning pregnancy will find all the necessary information about their rights and state-guaranteed services https://t.me/IWillBeMother_bot ";;;;;15
+49;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"The development of open data in Ukraine has a significant impact on improving the level of knowledge and skills of the population in the field of data use and handling. This applies to both the use of ready-made products based on open data and the creation of their own. And directly increase the level of knowledge and awareness of the general public about the possibilities of using open data.
+
+Re-use cases based on open data and applications: How to know who is financing a political party? https://toolkit.data.gov.ua/c1/policy-funding.html  How to find undeclared property of state servants? https://toolkit.data.gov.ua/c2/undeclared-property.html How to find bussines owner? https://toolkit.data.gov.ua/c3/business-owner.html How to find out is company has all nessecery licens https://toolkit.data.gov.ua/c3/license.html How open data helps during the war https://diia.data.gov.ua/info-center/yak-vidkriti-dani-dopomagayut-ukrayincyam-pid-chas-vijni How to use open data in time of cyber war? https://diia.data.gov.ua/info-center/yak-povoditisya-v-kiber-ta-infoprostori-v-umovah-vijni";;;;;15
+;2.3c Environmental impact;;;;;;;80
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+50;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country? 
+
+For justification:
+* If yes, please (1) specify what kind of data proves this impact and (2) provide the URLs to this data. ";yes;"The report on the open data impact on environmen protection is available via link https://data.gov.ua/uploads/files/2022-10-03-123559.380394Ecology-OD-Impact-Study-1.pdf The issue of environmental pollution is important for 93% of Ukrainians. Government agencies have opened dozens of registers in the field of ecology: data on the quality of surface water, licenses for hazardous waste management, permits for air emissions, subsoil use and special water use, and many others.
+Publication of state data on the portal in free access is the first step. The data should be easy to understand even for non-specialists. Therefore, based on these data, developers create user-friendly services that make it easier for citizens to find information about the state of the environment, the presence of pollutants and potentially dangerous objects that can affect their health, habitat and other areas of life https://diia.data.gov.ua/value/ecology
+
+Responce to reviewer:
+The report discribes practical cases of open data usage on public control over compliance by enterprises environmental legislation, public air quality and water pollution monitoring, fight against illegal landfills and fighting fires in the ecosystems of Ukraine.
+
+Also toolkit on environmental Open Dsta usage is developed. It helps to find appropriate service to solve a problem, to fsnd out what exactly you can solve with open data. https://toolkit.data.gov.ua/c4/environment.html";The environmental impact is hereby defined as the beneficial effect of the use of open data on four specific challenges connected to the environment: 1) Protecting biodiversity (e.g. maintaining a good level of air and water quality), 2) Achieving more environmental-friendly cities (e.g. in terms of transport and waste management), 3) Fighting climate change and connected disasters, 4) Increasing the use of renewable sources of energy.;;The current answer focuses on making relevant datasets available. This is important, but impact comes from the use of the datasets. Does the study mention any impact already created by open data?;;20
+51;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Monitoring of surface water pollution
+The Clean Water and Open Environment tools, which use data from the State Water Resources Agency, will help check water quality. They provide information on the indicators of pollution of the largest river basins of Ukraine. Clean Water also contains a list of companies that pollute rivers in each region and the extent of that pollution.
+
+Air quality monitoring
+Services SaveEcoBot, CityScale, EcoCity, LUN City Air, EcoInfo integrate open data of the Ministry of Environmental Protection and Natural Resources with data from public monitoring networks on air pollution. This combination allows companies to monitor emissions of hazardous substances and justifiably require environmental investments in case of significant pollution, and residents - to avoid being outdoors during hazardous air pollution or choose housing in areas with less polluted air.              
+
+Re-use cases 
+SaveEcoBot https://www.saveecobot.com , EcoCity https://eco-city.org.ua/ , LUN City Air https://misto.lun.ua/air , EcoInfo https://ecoinfo.pro integrate open data of the Ministry of Environmental Protection and Natural Resources with data from public monitoring networks on air pollution to monitor emissions of hazardous substances and reasonably require environmental investments in case of significant pollution, and residents - to avoid being outdoors during hazardous air pollution or to choose housing in an area with less polluted air. The impact of the cases are described in the research on the anti-corruption and social impact of open data in the environmental sphere of Ukraine and products based on their use 
+
+“Battle for water. How global warming affects the agricultural south of Ukraine” project has a feature - a map where it's possible to look for companies and check where they get its water or extract it from underground deposits. 
+Project https://texty.org.ua/projects/102645/bytva-za-vodu-yak-hlobalne-poteplinnya-vplyvaye-na-ahrarnyj-pivden-ukrayiny/ 
+Data https://data.gov.ua/dataset/water-use-permits ";;;;;15
+52;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Combating landfills
+Ukraine is one of the ten countries in the world in terms of garbage production. According to various estimates, there are between 10,000 and more than 26,000 natural dumps in the country. Through the Ecomap service from the Ministry of Environment, citizens can apply for illegal landfills to eliminate them. The map also includes data on legal landfills, as well as the ability to monitor hazardous waste management sites. Ecomapa https://ecomapa.gov.ua/ is an interactive electronic catalog of legal landfills and a tool for monitoring illegal landfills and hazardous waste management sites. Thanks to him, it was possible to combine public and open data on landfills in Ukraine, as well as provide citizens with a convenient tool for monitoring hazardous waste management sites. The user can quickly and easily get information about the licensee's name, the type of hazardous waste handled by the licensee (eg collection, storage, transportation of hazardous waste), the list of waste types, the date of issue and the current status of the license.
+Creating a map allowed:
+For the first time, develop a convenient and effective channel for citizens to complain about landfills.
+Any citizen, noticing a landfill, can take a photo of it and send a photo, adding a location, through the mobile application ""Ecomapa"" or through the website ecomapa.gov.ua. Next, the operator of the contact center of the Ministry of Environment considers the appeal and submits it for execution to the relevant regional state administration, which sends a request to the district administration to liquidate the landfill and monitors the implementation. The applicant monitors the status of his application in the application or on the website and finally confirms or does not confirm its implementation. Appeals are considered in accordance with the Law of Ukraine ""On Citizens' Appeals"" and processed within a month from the date of receipt.
+Collect an array of data on landfills that could not be otherwise published.
+Thanks to the service it became possible to estimate the scale and territorial concentration of natural landfills. According to the developers of the service, about 95% of all appeals indicate the actual problem objects.
+In addition to appeals, the map displays four layers of other data:
+1) Register of waste disposal sites (legal landfills);
+2) Register of natural landfill sites (maintained by some regions in Ukraine);
+3) Recycling points;
+4) Licensees for hazardous waste management.";;;;;15
+53;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Fighting fires in ecosystems of Ukraine
+
+Every year in Ukraine there are about 40 thousand fires in the ecosystems of Ukraine. About 80% of seasonal fires in agricultural fields are repeated in the areas of the same owners / users. Project ""Don't burn - compost!"" helps communities address the burning of stubble, fallen leaves, organic and other garden and agricultural waste. The introduction of composting practices contributes to improving air quality, while helping to address environmental challenges and improving the situation with the disposal of organic waste in local communities.
+Re-use cases 
+Project ""Don't burn - compost!"" https://cid.center/dont-burn/  launched for communities that seek to effectively prevent the burning of stubble, fallen leaves, organic and other garden and agricultural waste in their communities. The initiators were the UNDP Innovation Development Laboratory in Ukraine and the Innovation Development Center. The project is based on two tasks: to assess the depth, scale and causes of the combustion problem and to stimulate the search for solutions to this problem.
+
+Responce to reviewer:
+Local governments analyze open data on fires within the citty/village. It was found that most of the fires happen on the same parts of the territory of the community. Most
+burning of garden waste (fallen leaves, branches) and residues on agricultural fields are relevant types of arson. For the future, local governments know: there is a risk zone.
+Thanks to geoanalytics based on open data, some local governments identified the ""firebugs"" with who it is necessary to carry out outreach work, and fire response plans are being developed, in particular planning
+placement of fire stations, water mains, sand and columns in places where fires happen most often.";;;For Project Don't Burn - compost! Please explain further the role of open data in the project.;;15
+54;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Disclosure of energy data allows you to choose gas suppliers and the best-priced services, experts - to monitor the situation in the energy market and detect abuses. This will increase the transparency of the industry.
+Open data also influences the development of a competitive energy market and helps small suppliers to grow. And thanks to data journalism, market participants receive information that is useful for their activities in a convenient and accessible form - planning the work of public utilities, analysis of competitors' prices, forecasting, etc.
+The Low Carbon Ukraine project https://www.lowcarbonukraine.com/uk/frontpage-uk/  and the Save Dnipro NGO https://www.savednipro.org/ are creating analytical materials on electricity production based on open data. In particular, they monitor the market, identify problems and prepare recommendations for their solution, as well as further development and reform of the industry.
+Kosatka.Media https://kosatka.media/ and EXPRO Electricity https://expro.com.ua/vydannya use open and other data in the energy sector to create infographics and analytics.
+“Zyma blyz`ko” https://coal.texty.org.ua/ service provides information on coal reserves at thermal power plants";;;;;15
+;2.3d Economic impact;;;;;;;80
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+55;"Is any data on the economic impact (e.g. population employed, innovation and nw businesses created etc.) of open data available in your country? 
+
+For justification:
+* If yes, please (1) specify what kind of data proves this impact and (2) provide the URLs to this data. ";yes;"In Ukraine, the economic effect of open data is divided into direct and secondary. Direct economic impacts include the economic value created by enterprises that provide services using open data, as well as the corresponding employment. Employment is considered to have a direct economic impact if the organization bases its business or activities on open data (for example, a startup that would not be able to operate without open data, or a civil servant working with a national portal).The creation of economic value in the macroeconomic sense involves the creation of gross value added. The latter includes three components: gross profit of the enterprise, wages of employees and taxes paid on products and taxes related to production (excluding subsidies). In other words, the business generates certain profits for its investors, employees and the state. Open data companies, like any business, also create gross value added - it is a direct economic contribution of such companies. https://kse.ua/wp-content/uploads/2021/11/Open-data-methodology-2021-11-04.pdf
+
+Responce to reviewer:
+Report on Economic Impact of Open Data in Ukraine has been developed (https://tapas.org.ua/wp-content/uploads/2022/08/Economic-impact_report.pdf).
+The report analyzed three key indicators: 1) the impact of open data on the Ukrainian economy; 2) the number of jobs related to open data in the country; and 3) the sectors of the Ukrainian economy that benefit the most from open data. 
+The information presented in the report is based on the pace of economic development and advancement in the Ukrainian open data sphere until Russia invaded Ukraine on February 24, 2022. 
+One of its findings was that open data contributed between 0.62-1.19% of Ukraine’s gross domestic product (GDP) in 2020. 
+The open data sphere could contribute between 0.78-2.08% to Ukraine’s economy i.e., UAH 49.9 billion ($167 million) by 2025 through a combination of direct and indirect benefits. 
+The research also found that the number of Ukrainians working directly with open data is between 4,400 - 6,700. In 2025, somewhere between 23,600 to 50,800 people could be working with open data. 
+Top sectors working with open data in Ukraine include: IT and telecommunications; scientific and technical activities; public administration; real estate, transportation; and postal and courier services. This was TAPAS’ second study on the impact of open data on Ukraine’s economy.";"The economic impact is hereby defined as the beneficial effect of the use of open data on three indicators of economic growth:  
+1) Level of employment, 2) Uptake of technology and innovation, 3) Level of etrepreneurship and new business created.";;"The current answer describes the methodology of the study. In addition, is it possible to add results/statistics/conclusions from the study? For example, what is the ""gross value added"" of open data in Ukraine?";;20
+56;"Is the use of open data in your country having an impact on the level of employment? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"The total employment in open data in 2020 was 15.9-24.5 thousand people. According to the State Statistics Service of Ukraine, in 2020 there were about 7.5 million full-time employees in Ukraine. As Ukraine is part of a cluster of ""fast-growing countries"", the share of direct employment related to open data is about 0.09% of all employees. Accordingly, according to the implementation of the Optimistic Scenario, direct employment in the field of open data is 6.7 thousand people. If employment grew in line with the growth of the general open data market, then in the Conservative scenario, direct employment is 4.4 thousand people.
+However, in addition to direct employment, open data also provide indirect employment. According to research by Shakespeare and Vickery, the indirect open data market is 250-278% of the direct market. Given the average value of these studies, the indirect employment associated with open data is 11.5-7.8 thousand people.YouControl https://youcontrol.com.ua/en/ - Analytical system for compliance, market analysis, business intelligence and investigations.
+The idea of a business intelligence service arose from the need for a retail business. There was a lack of automated service in an area where thousands of counterparties needed to be tested for reliability.
+Initially, a search was developed and implemented in the State Registration Bulletin. Soon 10 more registers were added to YouControl. More than 60 official sources are currently connected.
+YouControl functionality allows you to solve the following tasks:
+Monitoring of official data of contractors based on information from open data
+Solutions in the field of corporate economic and information security
+Competitive intelligence, business analytics, compliance
+Analysis of declarations and public procurement.
+Opendatabot https://opendatabot.ua/en  - Service for monitoring the registration data of Ukrainian companies and the court register to protect against raids and control of counterparties.
+The idea to create the service arose in 2013, when the own IT company of future developers faced a raider capture. Basically, all seizures take place according to one scheme - change of founders and directors on forged documents, withdrawal of assets from the company and subsequent bankruptcy. A chatbot could be the fastest way to tell an entrepreneur that something is going on with his assets
+In April 2016, a register of Ukrainian companies and entrepreneurs was published on the open data portal. Then the initiators of the project realized that it could be a tool to protect business. In 3 days the first version of the bot for Telegram was made.
+
+Response to reviewer:
+Whereas YouControl helps to provide due diligence it uses Open Data as a main source of information, for e.g. Unified Register of Legal Entities (now access to the Register is limited due to security measures), financial reports of enterprises, Register of Court Decisions etc.
+Youcontrol provides profile of the legal entity or natural person based on the above mentioned datasets. The tool also helps companies and individual entrepreneurs to analyse the market and look for new clients.";;;"The data on unemployment are a good fit for Q55. 
+For the reuse cases of YouControl, please clarify the role of open data in the tool. 
+Opendatabot is clear example.";;20
+57;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Eyes on Russia - https://maphub.net/Cen4infoRes/russian-ukraine-monitor Monitoring map created by Center for Information Resiliency, Bellingcat, CIT, Advance Democracy to document and verify significant facts during the Russian invasion of Ukraine. Filling occurs due to the use of OSINT techniques. "" Who are You?"" service from YouControl, Artellence and SBU. With its help, its possible to check: the correspondence of the photo in the passport to the person presenting it; passport is invalid or lost; whether the person is wanted by the state; whether the person is in the register of terrorists; whether the person has been sanctioned by the National Security Council; being on the list of military terrorists and DRG; stay at the ""Peacemaker"" base; Is the car wanted? More than 200,000 people actively use the application.
+
+Responce to the reviewer:
+Eyes on Russia Map uses OSINT techniques. Thus State Open Data is a source for clarification of information used for the service.";;;"Please clarify the role of open data in the ""eyes on Russia"" tool";;20
+58;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"OpenDataBot created the tool which helps to monitor the impact of the war on Ukrainian business.  The tool is updated mounthly and provides up-to-date information from both  government open data and shared commercial data. Key feature of the tool -new registration of business -both private  entrepreneurs and companies using open government data 
+Project https://opendatabot.ua/analytics/business-in-war-april
+https://opendatabot.ua/analytics/business-growth-in-war
+";;;;;20
+;Dimension 3: Open Data Portal ;;;;;;;607
+;"This part of the questionnaire is dedicated to assessing the solution your country chose for making the available open data discoverable. Typically, this is achieved through a national open data portal. 
+For simplicity, the following section will refer to this solution as the “national portal”.    
+Please provide where requested the URLs to the features inquired with the respective question. If access to the feature is restricted (back-end feature, log-in required), please provide a screenshot via e-mail as additional attachment (and note this here in the questionnaire). Please answer the questions below only in relation to the portal you indicated as the national portal of reference. Only URLs documenting the features available on this portal will be considered and scored.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                             ";;;;;;;
+;3.1 Portal features;;;;;;;262
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+59;"Is there a national portal in your country for making open data discoverable? 
+
+For justification:
+* If yes, please provide the URL of the national portal.
+* If no, please describe how you ensure the discoverability of the open data available in your country.";yes;https://data.gov.ua/;;;;;20
+60;Does the national portal offer an advanced data search function (multiple field search, filter options, etc.)?;yes;N/A;;;;;10
+61;Does the national portal offer the possibility for users to download datasets (e.g. via a link)? ;yes;N/A;;;;;10
+62a;Does the national portal offer the possibility for users to search by file format? ;yes;N/A;;;;;10
+62b;Does the national portal offer the possibility for users to search by data domain? ;yes;N/A;;;;;10
+63;"Does the national portal offer to its users a way to programmatically query the metadata (e.g. via an API or a SPARQL access point)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;https://data.gov.ua/api/3;;;;;10
+64;"Does the national portal offer documentation on the use of APIs and other tools that enable working with the aforementioned metadata? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;General information abou API-usage https://data.gov.ua/en/faq/13 Detailed information https://bit.ly/3dq9MYZ;;;;;10
+65;"Does the national portal enable users to provide content for the portal (e.g. to link documentation and supporting materials to a given dataset)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"In the context of data providers work with the portal and the distribution of additional information of uploaded data sets, the portal provides the opportunity during the creation of a data set (both in manual mode and in the mode of creating a data set with the help of API) to upload the structure of the data set (a set of metadata containing a description the composition (elements) of the data set, their format, parameters etc.), the portal also ensures the formation of the structure of the data set automatically (in case the data provider did not upload the structure by himself)
+
+In addition, the portal allows data providers when uploading (updating) data set resources to use the ""data dictionary"" function - that is, to upload additional information regarding the description of specific values and fields that are used directly in the data set.
+
+It is not possible to provide a direct link to this feature, as it is available only for data providers when creating/updating  dataset.";An example of such supporting material could be relevant studies or reports associated with the dataset e.g. documenting how the data was produced, the methodology etc.;;;;10
+66a;"Does the national portal offer a general feedback mechanism for users (e.g. a 'Contact us' or 'Feedback' button that is placed in a visible spot on the portal and would allow users to send a general comment concerning the portal)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://data.gov.ua/en/feedback;Please note that a general email address does not count as feedback mechanism in the sense of this question and will not be scored as such.;;;;10
+66b;"Does the national portal offer a feedback mechanism at dataset level? (e.g. a 'feedback button' or a comment/ discussion section under the dataset)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"Authorized users can use link ""Propositions"" and left their feedback on each dataset. For example, https://data.gov.ua/en/dataset/198185ea-44d6-48f0-877c-44251c413f64/issues ";The feedback mechanism does not include the possibility of a user to send in an email to a general address/the helpdesk.;;;;10
+66c;"Does the national portal provide a mechanism for users to rate datasets?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"National portal provides to authorized users a voting mechanism for each dataset (plus 1 or minus 1)
+https://data.gov.ua/en/dataset/1c7f3815-3259-45e0-bdf1-64dca07ddc10";Such mechanism could be a star rating system or similar voting/rating mechanism.;;;;10
+67;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://diia.data.gov.ua/news;;;;;10
+68;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"National portal provides few features for users to receive notifications when new datasets are available. Users can subscribe for defenite dataset updates ""Follow"" button on each dataset. For example, https://data.gov.ua/en/dataset/follow/9c82f0ad-42b3-402f-b22e-1061fc9bac65
+Also national portal provides ""Follow"" button for defenite data providers new datasets. For example, https://data.gov.ua/en/organization/ministerstvo-vnutrishnikh-sprav-ukrayiny
+Portal has a chatbot telegram version https://t.me/datagovua_watchdog where users can receive notifications when new data sets are available or the existing data dets are updated ";;;;;10
+69a;"Does the national portal offer the possibility for users to request datasets? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"National portal (its inherent part Competence center Diia.OpenData) provides ""Request Datasets"" feature via link https://diia.data.gov.ua/join It`s important to admit that abovementioned feature isn`t the only way to request datasets. The majority of open data users prefer to communicate (via email or other means of official communications) directly to the Ministry of digital transformation of Ukraine and to the data provider.";Please note also that a specific “Request data” button is meant here. Should the data request function be accomplished by a general help desk contact form that has a specific field for data requests, please describe this as such in the justification box.;;;;10
+69b;If yes [to Q69a], what is the frequency of these requests? ;monthly;N/A;;;;;N/A
+69c;"Are these requests and their progress status presented in a transparent manner on the national portal? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"National portal (its inherent part Competence center Diia.OpenData) provides ""Request Datasets"" feature via link https://diia.data.gov.ua/join/datasets
+
+Response to reviewer:
+It is possible to view the status of requests via the portal (transferred to the data provider, reviewed by the data provider, accepted, cancelled)";A transparent presentation of these requests may be a machine-readable file on the national portal, or a separate section on the national portal that lists these requests. By providing a list of these requests, duplication of requests can be avoided, and time saved in filtering and answering these duplicate requests.;;Please confirm if it is possible to view the status of requests via the portal (such as whether previous requests have been accepted or rejected). There are no requests at the URL so it is difficult to judge this functionality.;;10
+70a;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For justification:
+* If yes, please describe how this monitoring is conducted.";yes;Portal team monitors all requests. Those data providers who choose a proactive approach to data publishing disclose the requested data. If data providers do not contact the requesters, the Ministry of Digital Transformation acts as an intermediary during the negotiations on data disclosure. ;;;;;10
+70b;If yes [to Q70a], to what degree do these requests result in the publication of the requested data?;the majority of datasets;N/A;;;;;12
+71;"Does the national portal include a discussion forum or any other exchange possibility for users (whether data providers or reusers)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;National portal provides a disscution forum https://forum.data.gov.ua/  for autorised users (data providers, open data users (re-users) and for everyone with account on the portal;;;;;10
+72;"Does the national portal have a designated area to showcase use cases?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;National portal (its inherent part Competence center Diia.OpenData) has a special section for showcase usecases via link https://diia.data.gov.ua/services;;;;;10
+73;"Does the national portal reference the datasets that the showcased use cases are based on?
+
+For justification:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;"All use cases published on the national portal have references to the data sets its based on.  
+https://diia.data.gov.ua/services the feature describing information about use cases is realized as ""pop-up"" window.";;;;;10
+74;"Does the national portal provide the possibility for users to submit their own use cases?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;"To submit own application, user has to be registered and logged into the portal 
+https://diia.data.gov.ua/services  The ""ADD"" buttom this feature is realized as ""pop-up"" window. ";;;;;10
+75;"Does the national portal offer a preview function for tabular data?
+
+For justification:
+* If yes, please provide the URL to an example documenting this feature.";yes;"National portal provides automatic preview function for tabular data, if data set created according to the recomendation https://data.gov.ua/pages/835-rec-index
+Example of tabular data preview https://data.gov.ua/dataset/8f3e00b2-16e8-4b30-af7d-b9212837b0a6/resource/0709a8d2-69cd-4e65-a1eb-4570fb3eb7f9";;;;;10
+76;"Does the national portal offer a preview function for geospatial data?
+
+For justification:
+* If yes, please provide the URL to an example documenting this feature.";Yes;Portal offers such function, but there are no available public datasets (Due to security mesuares);;We can score this based on last year's response and mention in the report that the 2022 result was taken. Can answer yes.;;;10
+77;"Following the publication of the implementing regulation (EU) 2023/138 on high-value datasets,  are you progressing in the promotion of such datasets on your national portal (e.g. filtering features and/or editorial features were added, changes were made to navigation...)?
+
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;A large-scale update of the portal is planned for the second half of 2023, the technical requirements for the update provide for the creation of a separate section on the portal, which will contain information on high-value data sets, as well as cases of reuse of such data sets;;;;;20
+;3.2 Portal usage;;;;;;;145
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+78;Is the national portal mobile as responsive as the desktop version?;yes;N/A;Meaning the portal renders well on both mobile and desktop.;;;;10
+79;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For justification:
+* If yes, which tool(s) do you use?";yes;Portal team monitor the portal`s traffic and usage. We use google analytics tool, google trends and other SEO tools. Internal features of CKAN platform that evaluate the main traffic and usage indicators such as datasets view and download, API usage, etc.is also being used.;;;;;15
+80a;"Are traffic and usage statistics used to better understand users´ behaviour and needs and to update the portal accordingly?
+
+For justification:
+*  If yes, what insights did you gain last year from the reviews of these analytics? ";yes;One of the biggest update of national portal was based on trafffic and usage statistics analys. We find out that most of the portal users want find on the portal not only the datasets, but also some applications, analytic based on open data and also some study courses to increase their level of opendata skills. With the CKAN platform restrictions we can`t give it to them with friendly and clear interface. So we decided to separate the datastore, analytics and portal perfomance modules and features that support the development of open data sphere. So we developed Diia.OpenData - National Center of Competence in the sphere of open data https://diia.data.gov.ua/ which is inherent part of the National portal                                                                                                                                                               ;;;;;10
+80b;"Do you perform further activities to better understand users´ behaviour and needs (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For justification:
+* If yes, please specify which activities.";yes;Annually Ministry of the Digital transformation of Ukraine conduct survey on portal user`s level of satisfaction. The results of such servey are the basis for the further improvements of portal features and interface;;;;;10
+81a;What is the typical profile of the portal visitor, as learned from activities such as web analytics, surveys, or social media analyses?;a bit of everything, no clear dominant group;N/A;;;;;10
+81b;"Does this profile match the type of audience your national portal wants to cater to?
+
+For justification:
+* If only partially, please specify which audience groups are missing.
+* If no, please briefly explain why.";yes, entirely;;;;;;10
+82;"How many unique visitors visit the national portal on average per month?
+
+For justification:
+* Please fill the average number per month in 2022 and select 'see answer box'. 
+* Please note that if you are a federal/regional state you can indicate the sum of the visitors of all sub-national portals harvested in the national portal.";see answer box;230000;Unique visitors refer to the number of distinct individuals accessing pages on the website during a given period, regardless of how often they visit that website. Visits refer to the number of times a website is visited, no matter how many visitors make up those visits.;;;;10
+83;"What percentage of the unique visitors to the national portal is foreign?
+
+For justification:
+* Please fill the percentage  and select 'see answer box'.";see answer box;0,19;;;;;N/A
+84;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For justification:
+* If yes, please briefly describe.";yes;The portal team use a google search console to better understand how users search for some data in the internet and what type of search request was the reason for users to open the portal (dataset) page. Such search requests are analised by portal team and the results of such analisys are used for recomendation of better data publication;;;;;10
+85;Do you monitor the most and least consulted pages?;yes;N/A;;;;;10
+86;"What data categories are the top 5 most frequently consulted on the portal, with 1 being the most popular one? 
+
+For justification:
+* Please indicate 1 = category X, 2 = category Y etc. and select 'see answer box'.";see answer box;1 = Justice, legal system, public safety, 2 = Energy, 3 = Transport and infrustructure, 4 = Government, public sector, 5 = Economy and finance ;;;;;10
+87;"What datasets are the top 5 most frequently consulted on the portal, with 1 being the most popular one? 
+
+For justification:
+* Please indicate 1 = name dateset X, 2 = name dataset Y etc. and select 'see answer box'.";see answer box;1 = Data on registered vehicles, 2 = Financial reports of the companies, 3 = Address Register of The Unified State Register of Voters, 4 = Unified State Register of Court Decisions (2021 year), 5 = Information from the Unifed State electronic system on building and construction;;;;;10
+88;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For justification:
+*If yes, please briefly describe.";yes;"Publishers are provided with standards on metadata and content of data sets https://data.gov.ua/pages/835-rec-index  
+
+Also portal provide a search feature through  meta tags (open graph protocol) generated by the content management system and key-words";;;;;10
+89;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For justification:
+*If no, please briefly explain why.";yes;"Guidelines for metadata implemented in open data standards https://data.gov.ua/pages/835-rec-index 
+Machine-readable metadata published in CSV passports along with human-readable tables on datasets pages https://data.gov.ua/dataset/df12fed5-71db-40c6-835f-a4df93bfce66";;;;;10
+90a;Do you run analytics on API usage, if metadata describing the datasets is accessible via an API?;yes;N/A;;;;;10
+90b;"If yes [to Q90b], what percentage of outgoing portal traffic is generated by API usage only?
+
+For justification:
+*Please fill the percentage  and select 'see answer box'.";see answer box;0,87;Here we are interested in distinguishing the volume of traffic generated by human users vs the traffic generated programmatically by API usage. We ask for outgoing traffic as it is more relevant than incoming traffic: the former is generated by the enquiries, but the latter by the responses.;;;;N/A
+;3.3 Data provision;;;;;;;80
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+91;"To what degree do public sector data providers contribute data to the portal? 
+
+For justification:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";all public sector data providers;According to legislation, all public sector data providers have to publish their data on the portal. On the central level, approximately 95% of providers publish their data (at least 1 data set). On the regional/local level more than 80% of data providers publish their data(at least 1 data set) Portal team constantly monitors the level of data sets publication by both central and regional/local authorities. The main reasons why not all the required datasets are published are technical incompatibilities of publishers and lack of human resource;Providers at federal, regional or local level, directly or indirectly, via direct uploading or harvesting of metadata. ;;;;15
+92a;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;;;;;10
+92b;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For justification:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"Instruction and other materials helping data providers with their publication process are published at the portal https://data.gov.ua/pages/835-rec-index 
+Data providers can get technical support through the emails, chat or calls by the portal team.
+
+Moreover, Ministry of Digital Transformation has launched a curriculum - ""Intensive on Open Data for Information Providers - central executive bodies and local self-government bodies"". The purpose of the intensives is to improve the quality of datasets of central executive bodies and local self-government bodies. To this end, the participants of the Intensive together with the experts:
+diagnose their own open data policy;
+analyze its strengths and weaknesses;
+draw up an action plan to help effectively publicize datasets and begin implementing it.
+
+These intensives are carried out monthly (separated for central executive bodies and local self-government bodies) and last for 2 weeks including both intramural and asynchronous forms of work. Representatives from central executive bodies and local self-government bodies have already successfully finished 14 intensives (2023 year). In 2022 the 37 intensives were conducted. ";;;;;10
+93a;"Besides the national open data portal, are there other regional and local portals? 
+
+For justification:
+* If yes, please provide a complete list and the links to these portals.";yes;"Drogobych city opendata portal  https://opendata.drohobych-rada.gov.ua/
+Kharkiv city opendata portal  https://opendata.kharkivrada.gov.ua/ 
+Ternopil city opendata portal  https://opendata.ternopilcity.gov.ua/
+Lviv city opendata portal  https://opendata.city-adm.lviv.ua/ 
+Irpin city opendata portal  https://data.imr.gov.ua/ 
+Kyiv city opendata portal https://data.kyivcity.gov.ua/ 
+Dubno city opendata portal  https://ckan.dubno-adm.rv.ua 
+Kolomyia city opendata portal  https://dani.kolrada.gov.ua/ 
+Slavuta city opendata portal  https://opendata.slavuta-mvk.gov.ua/ 
+Dnipro city opendata portal  https://opendata.dniprorada.gov.ua 
+Chernihiv region opendata portal  http://opendata.cg.gov.ua/ 
+Vinnytsia city opendata portal  https://opendata.gov.ua/ 
+Kramatorsk city opendata portal  https://odp.krm.gov.ua/ ";;;;;N/A
+93b;"Are regional and local portals listed above [in Q93a] and their data sources discoverable via the national portal? 
+
+For justification:
+* If not applicable, please briefly explain why. ";yes;;;;;;10
+93c;"If yes [to Q93b], to what degree are existing regional and local sources harvested automatically? 
+
+For justification:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";all datasets;;;;;;15
+94a;"Does the national portal include datasets that are real-time or dynamic?
+
+For justification:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;https://data.gov.ua/dataset/b2b57c29-361c-4a6a-beb5-cec09583eac5/resource/cb998c37-7411-4290-85f1-87e1c42a1c5e https://data.gov.ua/dataset/21324354657687/resource/7ff96628-3ed1-4920-a1e3-da4c3d25ca7f;Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time).;;;;10
+94b;If yes [to Q94a], what percentage of metadata links to such data? ;11-20%;N/A;;;;;N/A
+95;"Does the national portal provide a separate section where non-official data (not stemming from official sources, such as community-sourced/citizen-generated data) can be published? 
+
+For justification:
+* If yes, please provide the URL to this section. ";no;;Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;;;0
+96;"Do you have an overview of the data providers (official and non-official) on your national portal? 
+
+For justification:
+* If yes, please list the most important.";yes;State Tax Service, Ministry of Justice, Ministry of internal affairs, Ministry of environmental protection, State Statistic Service;;;;;10
+97;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For justification:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";no;"Acording to ""open-by-default"" principle, all public information should be made available as open data";This function can be useful towards reducing the amount of Freedom of Information requests for data that is transparently justified why it cannot be opened. The national portal might also publish the reasons for preventing publication, e.g. national security.;;;;0
+;3.4 Portal sustainability;;;;;;;120
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+98;"Does the national portal have a strategy to ensure its sustainability?
+
+For justification:
+* If yes, please provide the URL to this document. ";yes;"National portal sustainability strategy is a part of National open data development action plan adopted by the Cabinet of Ministers of Ukraine ""On approval of the action plan for the implementation of the principles of the International Open Data Charter""
+https://zakon.rada.gov.ua/laws/show/900-2018-%D1%80?lang=en#Text
+Financial support for the functioning of the portal is provided by the state budget.
+Also, work on modernization of the portal's functionality is financed, including international financial assistance, which in turn provides greater sustainability.";A strategy could be a brief document and/or action plan listing the activities planned to ensure the portal’s sustainability over time.;;;;30
+99;Does this strategy include a description of the portal’s target audience and measures to reach this audience?;yes;;;;;;10
+100;"Is your national portal active on social media? 
+
+For justification:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;National portal  have its own YouTube channel https://www.youtube.com/@OpenDataUA/videos Moreover all activities of the portal Is being showed on the oficial pages of the Ministry of Digital trasformation, on the official page of Minister and also on the Diia.project pages https://www.rada.gov.ua/news/news_kom/235446.html https://www.facebook.com/mintsyfra/posts/pfbid022DJamSDziWwaf6xRwjFge9hMcQpX7sFqzXRrMGmuA1FcfbEtDU59FCCDLeWMAhx7l https://www.facebook.com/mintsyfra/posts/pfbid0hTkCzNYejjj4h8yBcE6Deg5D3CBo2LgX3BFSbC93v5aU1LSHTARNmThpkKLTe32Fl;By active we refer to an account that publishes new materials at least once a week. A social media presence may include a Facebook, Twitter, LinkedIn account that regularly published open data related content. Ideally a social media account would help promote the open data and more specific portal activities and increase visibility of the open data published on the national portal. ;;;;10
+101;"Do you take actions to promote the national portal’s activities and the available open data (e.g. regular info sessions and/or events)? 
+
+For justification:
+* If yes, please provide at least one example of such activities.";yes;https://www.facebook.com/TAPASproject/posts/pfbid024bjnMXCccbP99w9XTiMPze3tKt9bYGSzWfVp7LPT9ZDqMU99dZ9zeM4oPEm8SmCLl https://thedigital.gov.ua/news/do-tizhnya-vidkritogo-uryadu-vidbudetsya-krugliy-stil-vidkriti-dani-tsirkulyarna-ta-nizkovugletseva-ekonomika https://thedigital.gov.ua/news/derzhsluzhbovtsiv-navchili-pratsyuvati-z-vidkritimi-danimi-zavdyaki-programuvannyu;Actions could be regular promotion of the portal’s data and activities at events, an active social media presence, organising webinars to present the available datasets, use cases, the portal’s features to the broader public etc.;;;;15
+102;"Are the portal’s source code as well as relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For justification:
+*If yes, please provide (1) platform name and (2) the URL to the portal’s account on this platform.  ";no;;;;;;0
+103;"Was there a user satisfaction survey concerning the national portal conducted in the past year?
+
+For justification:
+*If yes, please briefly describe the key findings gained through this survey.";no;;;;;;0
+104a;"Is there a process by which the portal is reviewed and improved regularly? 
+
+For justification:
+*If yes, please briefly describe this process.";yes;"The portal is reviewed and improved regularly, last one was in March 2022.  The technical requirements for update is always developed through public consultations and collaboratively drafted by civil society, business and government bodies
+In 2023 Ministry of digital transformation plans large-scale software of the portal";;;;;15
+104b;If yes [to Q104a], what is the frequency of these reviews? ;annually;N/A;;;;;N/A
+104c;"If yes [to Q104a], is the users’ feedback considered in the review process?
+
+For justification:
+*If yes, please briefly describe this process.";yes;Ministry of digital transformation uses surveys to understand the portal users needs. But also portal team harvest the portal users` feedback on the daily basis. Feedback  from users is aggregated, the most typical problems in the functioning of the portal are identified, after which the portal team tries to either eliminate them or include fixes in the next stage of modernization;;;;;10
+105a;"Do you monitor via a dashboard the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;"Statistics are displayed at https://data.gov.ua/stats2/common
+number of data sets published - https://data.gov.ua/dataset  
+the distribution across categories - https://data.gov.ua/group 
+number of visitors - https://data.gov.ua/stats2/common
+changed over time - https://data.gov.ua/stats2/common
+Statistic provide information about number of datasets, dynamic of publication, most popular tags and keywords, most popular groups and datasets and also frequency of datasets updates
+Also each datasets has its own statistical information displayed on dataset page
+Google Analytics tools and own analytics module are also used to monitor the activity on the portal";;;;;15
+105b;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For justification:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;"National portal provides a few features to data providers to improve their performance on the national portal. 
+Public statistics of usage their datasets https://data.gov.ua/stats2/common 
+Some private feature available as part of data provider personal cabinet on portal.
+Data providers also gets from the portal team the result of datasets and portal quarterly monitoring and some informationation from Google Analytics tools and own analytics module are on the portal";Such mechanisms could refer to statistics that show publishers statistics concerning their data: the volume of published datasets/metadata records, information on quality of publication (formats, DCAT-AP compliance, licensing information), usage statistics such as downloads, visits, or use cases uploaded to the national portal referencing their data.;;;;15
+;Dimension 4: Open Data Quality;;;;;;;611
+;"Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.
+
+In section 4.3 `DCAT-AP Compliance`, the focus is on DCAT-AP exclusively. We are aware that many of the respondents may be compliant with other EU standards, such as INSPIRE. For the purpose of this assessment, only DCAT-AP and its country-specific profiles are relevant.                                                                                                                                                                                ";;;;;;;
+;4.1 Currency and completeness;;;;;;;121
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+106;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For justification:
+* If yes, please briefly describe your approach.";yes;Frequency of datasets and it`s metadata updates defined by Ukrainian legislation approximately for each type of data set. The portal automatically checks if the metadata is updated in time (acording to the chosed frequency), if the datasets and it`s metadata isn`t updated in-time, the portal sends to the data provider a reminder to update the dataset and all neseccery metadata. The non-updated datasets is marked by the portal automatically.;Please note that a regular updating of metadata refers here to an updating that is in line with the characteristics of the dataset in question. Different datasets have different requirements of currency. For example, a gazetteer of city streets only changes when new buildings and roads are built, or street names are changed, whereas the data on current weather conditions may be updated in quasi-real time.;;;;20
+107;What percentage of the metadata is obtained from the source automatically, rather than edited manually? ;50-69%;N/A;;;;;11
+108;"What is the average delay from the moment the metadata describing a dataset is updated at your source, and the moment the change is visible on the portal (whether the process is automated or not)?
+
+For justification:
+* What type of data does this mainly concern?";within one day;If the dataset is updated on the National Open Data Portal via API feature, all updates in dataset and it`s metadata are visibled immediately. It`s mainly concern the  dynamic data;;;;;40
+109;Where applicable, to what degree does the published data cover the full period from when it was first published until today? (for example, complete time series whether available for download or through an API);all datasets;N/A;This applies both to individual datasets that change in time and to archives of the same dataset, e.g. one every year, every month etc. Administrative geography is an example of data that changes regularly. When new houses are built, new postcodes may be created, and the areas referred by pre-existing postcodes may change. Making available previous versions of a postcode reference file enables the reuser to correctly interpret the meaning of a postcode vs the relevant time context.;;;;30
+110;"Following the publication of the implementing regulation (EU) 2023/138 on high-value datasets, is your country progressing in ensuring interoperability of datasets, in particular high-value ones, alongside the datasets of another country?
+
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";Not Applicable;As of May 2023, relevant measures and bilateral negotiations on the interoperability of high-value datasets have not been carried out. Otherwise Ukraine is developing reqirements (standards) for high-value datasets publication. Such development will also include the development of cross-border interoperability framework for datasets, published as open data;"* The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138
+* Interoperability is the ability to access and process data from different sources and being able to integrate that data for mapping, visualisation, and other forms of representation and analysis.";;Not applicable can be selected for non-EU countries;;20
+;4.2 Monitoring and measures;;;;;;;160
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+111a;"Do you monitor the quality of the metadata available on your portal?
+
+For justification:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"There are some check-ups and monitoring instruments for dataset and it`s metadata quality: 
+1. Before publishing the dataset moderator of the National portal checks correctness of metadata.
+2. When dataset creating manually by dataprovider, or via API, National portal require all metadata fields to be fill in.
+3. Also, National portal has BI tool for monitoring metadata https://data.gov.ua/pages/analityka";;;;;20
+111b;"Do you publish information on the quality of the metadata available on the portal?
+
+For justification:
+* If yes, please provide the URL to this section. 
+* If the information is published e.g. as .csv file, please provide the link to this source.";yes;"BI tool for metadata quality monitoring is public https://data.gov.ua/pages/analityka
+
+Also, Ministry of  Digital transformation of Ukraine preparing annual survey on dataset and it`s metadata quality the last version is available via link https://data.gov.ua/uploads/files/2021-10-11-151345.820104--2020.pdf (Due to the russian invasion, the assessment of the publication and updating of open data on the national portal was last carried out in November 2021. The link to the report is attached above)";Such information can be made available as visualisations (e.g. the MQA tool of the EDP), or as downloadable file (ideally in .csv format) on the national portal.;;;;15
+112;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in choosing an appropriate licence for their data? 
+
+For justification:
+* If yes, please provide the URLs to these materials and/or tools.";yes;"Not applicable.
+Licensing terms of open data defined in the Law of Ukraine ""On Access to Public Information"". These terms are similar to CC-By but the legislation doesn't define them as an explicit license. On the portal implemented one license CC-By by default.
+Nevertheless, Ministry of  Digital transformation of Ukraine provide a guidelines for dataproviders to improve the quality of datasets and it`s metadata https://data.gov.ua/pages/835-rec-index ";Such guidelines can take the form of a document or tools (a licensing assistant) available on the national portal. An example of such tool is the data.europa.eu Licensing Assistant: https://data.europa.eu/en/training/licensing-assistant.;;;;20
+113;"Did you develop your own open licence/licencing suite to foster the publication of open data in your country?
+
+For justification:
+* If yes, please provide the URL to the document in which this licence is described and briefly describe the main reasons for doing so and the main differences between your country's open licence and the CC licencing suite.
+* If not applicable, please briefly explain why.";not applicable;"Licencing terms of open data defined in the Law of Ukraine ""On Access to Public Information"". These terms are similar to CC-By but the legislation doesn't define them as an explicit licence. On the portal implemented single licence CC-By by default";;;;;10
+114;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences or of your own licensing suite?
+
+For justification:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* If not applicable, please briefly explain why.";yes, CC licences;"Licencing terms of open data defined in the Law of Ukraine ""On Access to Public Information"". These terms are similar to CC-By and this is mandatory.
+
+Response to the reviewer:
+All content is available on the portal under the Creative Commons Attribution 4.0 International license.
+Also licensing terms (similar to CC-By) are set forth in the above mentioned law and thus are obligatory.";;;To be clear, do you use CC licences or did you create your own license?;;10
+115;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;;;;;20
+116;How has the percentage of datasets accompanied by licencing information changed compared to the same period last year? ;increased, or already >90%;N/A;;;;;10
+117;Across all datasets you distribute, how many different licences are used on your portal?;1-4;N/A;;;;;10
+118;"Are guidelines and tools provided for data providers to improve the quality of their data publication? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;"The mechanism of automatic validation of datasets is introduced on the national portal. If errors are found in the metadata, the validator notifies data provider with additional information to improve metadata.
+In addition, the portal has a team of moderators who check metadata compliance before publishing datasets.
+Also, Ministry of Digital transformation of Ukraine provide a guidelines for data providers to improve the quality of datasets and it`s metadata https://data.gov.ua/pages/835-rec-index ";Guidelines (check-lists) can enable publishers provide their data in open and machine-readable formats (.csv or .xml instead of proprietary non-machine-readable formats). Other tools can assist publishers to clean up the actual data (e.g. OpenRefine, programming languages such as R).;;;;15
+119a;"Are there regular activities conducted or mechanisms in place to incentivise and/or assist data providers in the publication of data in machine-readable formats? 
+
+For justification:
+* If yes, please briefly describe.";yes;"Ministry of digital transformation of Ukraine have launched a curriculum - ""Intensive on Open Data for Information Providers - central executive bodies and local self-government bodies.The purpose of the Intensives is to improve the quality of datasets of central executive bodies and local self-government bodies. To this end, the participants of the Intensive together with the experts:
+diagnose their own open data policy;
+analyze its strengths and weaknesses;
+draw up an action plan to help effectively publicize datasets and begin implementing it.
+These intensives are carried out monthly (separated for central executive bodies and local self-government bodies) and last for 2 weeks including both intramural and asynchronous forms of work. Representatives from central executive bodies and local self-government bodies have already successfully finished Intensives. 
+Also, Ministry of digital transformation of Ukraine provide a guideline for data providers to improve the quality of datasets and it`s metadata https://data.gov.ua/pages/835-rec-index";By ‘regularly’ we mean a bi-annual or at least annual frequency for activities such as e-learning modules and materials, webinars, meetings. Incentivisation can include the promotion of good quality datasets, e.g. featuring them on the portal homepage, showcasing the publishers as best practices at data providers’ events. Assistance can be provided through formal processes (e.g. data audits), training sessions with data providers, other training and/or awareness raising activities (‘roadshows’) etc.;;;;15
+119b;"Are there regular activities conducted or mechanisms in place to incentivise and/or assist data providers in the publication of high-quality metadata?
+
+For justification:
+* If yes, please briefly describe.";yes;"Ministry of digital transformation of Ukraine provide a guideline for data providers to improve the quality of datasets and it`s metadata https://data.gov.ua/pages/835-rec-index 
+Also, Ministry developed a special video course for data providers to increase the level of implementing open data policy and quality of datasets and it`s metadata. Video course are available via link https://osvita.diia.gov.ua/courses/open-data  ";By ‘high-quality metadata’ we refer to metadata that provides information in plain language – accurate, current and complete, on all DCAT-AP mandatory fields as well as relevant recommended and optional DCAT-AP fields.;;;;15
+;4.3 DCAT-AP Compliance;;;;;;;175
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+120;"Do you supply data providers with documentation on DCAT-AP (e.g. factsheets, materials published on the EC websites such as the JoinUp platform, or your own documentation)? 
+
+For justification:
+* If yes, please provide examples of this documentation and the respective URLs.";yes;"National portal supports DCAT-AP standard https://diia.data.gov.ua/info-center/dcat 
+
+Data providers are supplied with requirements on data harvesting link for documentation https://data.gov.ua/uploads/files/2021-06-29-135404.275118-.pdf";See https://joinup.ec.europa.eu/;;;;25
+121;"What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource)
+
+For justification:
+* If DCAT-AP is not a priority for the portal, please explain why.";>90%;;For more information, please see https://joinup.ec.europa.eu/catalogue/distribution/dcat-ap-version-11 ;;;;25
+122a;"What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document)
+
+For justification:
+* If the use of recommended classes is not a priority for the portal, please explain why.";>90%;;;;;;20
+122b;"What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency)
+
+For justification:
+* If the use of optional classes is not a priority for the portal, please explain why.";>90%;;;;;;20
+123;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For justification:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";no ;There is no clear answear for this question. Mandatory and recommended (optional) class of open data metada prescribed by the Law. But Ukrainian legislation have no direct link to DCAT-AP standard;;;;;0
+124a;Do you investigate the most common causes for the lack of DCAT-AP compliance?;yes;N/A;;;;;25
+124b;"If yes [to Q124a], what are the main causes for the lack of DCAT-AP compliance?
+
+For justification:
+* Please list the most common causes and select 'see answer box'.";see answer box;In general, most data sets on the national portal fully correspond to both mandatory and recommended classes of DCAT-AP. As a rule, problems arise with data sets that are harvested to the national portal from regional and/or local open data portals. First of all, this is related to the internal legal framework of data providers at the regional and local and level;;;;;15
+125a;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;According to the DCAT-AP definition, the ‘download URL’ property contains a URL that is a direct link to a downloadable file in a given format.;;;;20
+125b;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;According to the DCAT-AP definition, the ‘access URL’ property contains a URL that gives access to a distribution of the dataset. ;;;;25
+;4.4 Deployment quality and linked data;;;;;;;155
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+126;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For justification:
+* If yes, please briefly describe.";yes;"The Decree of the Cabinet of Ministers of Ukraine no 835 envisages publication of open data in formats of the 5-Star Open Data Model. At the portal implemented the openness rating of data sets according to the 5-Star Open Data Model for example https://data.gov.ua/dataset/1c7f3815-3259-45e0-bdf1-64dca07ddc10 
+Moderation policy at the portal promotes usage of open machine-readable formats.";For more information, please visit: http://5stardata.info/en/ or https://joinup.ec.europa.eu/sites/default/files/inline-files/W3C04.pdf.;;;;15
+127;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data (such as promoting the model referenced in the previous question)?
+
+For justification:
+* If yes, please briefly describe.";yes;"Intensive on Open Data for Information Providers - central executive bodies and local self-government bodies. The purpose of the Intensives is to improve the quality of datasets of central executive bodies and local self-government bodies. To this end, the participants of the Intensive together with the experts:
+diagnose their own open data policy;
+analyze its strengths and weaknesses;
+draw up an action plan to help effectively publicize datasets and begin implementing it.
+Also, Ministry of Digital Transformation in partnership with the National Agency of Ukraine for Civil Service Affairs have prepared a practical training program containing all necessary components for effective disclosure of open data by information providers. The main goal of this program is to provide civil servants and local government officials with the necessary theoretical knowledge and practical skills for the effective publication of datasets. It covers 18 topics and helps to understand how open data policy is implemented at the national level and within a particular information provider, what components the open data policy includes and what impact it has on everyday life. ";;;;;30
+128a;What percentage of datasets is made available under a standard open licence or an explicit custom open licence, in any data format including text documents? ;>90%;N/A;;;;;20
+128b;Of the percentage indicated in the previous question (Q128a), what percentage of datasets is made available under a standard open licence or an explicit custom open licence, in a structured data format?;51-70%;N/A;"Refers to open data that is available on the web under an open licence, in a structured format (=machine-readable format that is proprietary, such as .xls; .xlsx). Please note that formats such as .pdf; .jpeg; .png, .doc(x) are not considered machine-readable formats and should hence not be counted towards this answer.";;;;15
+128c;Of the percentage indicated in the previous question (Q128b), which part is also in an open and machine-readable format?;>90%;N/A;Refers to open data that is published in an open (=non-proprietary) machine-readable format. A non-proprietary format is a format for which a user does not require a proprietary software package (such as Microsoft Office Excel) to explore. An example of an open format is the comma-separated values (CSV) format for tabular data.;;;;25
+128d;Of the percentage indicated in the previous question (Q128c), what percentage of datasets also consistely use Uniform Resource Identifiers?;71-90%;N/A;"Refers to open data whose comprising objects are accompanied by unique identifiers. An identifier may be the object’s name (e.g. city name ‘Luxembourg’, or ‘10717’ -- a Berlin postcode), or a word describing the object (‘population’; ‘gender’), or another arbitrary identifier such as ‘XYZ0’, an identifier that makes sense only in the context of that dataset. Choosing identifiers based on known standards should be the common practice though, to facilitate data integration and linked data.";;;;20
+128e;Of the percentage indicated in the previous question (Q128d), what percentage of datasets also links to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;51-70%;N/A;;;;;15
+129;"Do you monitor the improvements in terms of quality of open data deployment?
+
+For justification:
+* If yes, please briefly describe how.";yes;"The Ministry of Digital transformation as the owner of the National open data portal, has several tools for the monitoring of the datasets quality published by dataproviders on the portal. In fact, it consists of several levels of verification, monitoring and re-monitoring.
+1. Before all datasets are published, they are moderated - the authorized person checks the correct completion of the ""dataset`s passport"" and metadata compliance with approved standards.
+2. In the second stage, the portal automatically checks the data set files for logical /syntactic/semantic errors (Applies to files published in .xls(x), .xml, .json formats)
+Only if two checks (manual and automatic) successfully passed dataset is published on the portal.
+3. The Ministry shall continuously monitor already published datasets for their timely updating and updating in accordance with the approved requirements (standards). This applies to both the dataset`s metadata and the files that contain the information.
+In the event that the inspection finds out that the dataset no longer meets the established requirements (standards) for the publication, the dataprovider of such dataset receives a message requesting to correct errors, and the dataset itself is temporarily removed from public access.
+This format of monitoring and checking the quality of datasets and metadata on the portal has been operating for 4 years in a row and is constantly being improved, which has significantly improved the quality of datasets on the portal";;;;;15

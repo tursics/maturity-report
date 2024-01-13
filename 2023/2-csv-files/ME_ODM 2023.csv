@@ -1,0 +1,962 @@
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+;;;;;;;Total Score:;1587
+;;;;;;;Unsure Score:;0
+;;;;;;;"Preliminary Score: 
+(Total - Unsure)   ";1587
+;Respondent Information;;;;;;;
+;Please provide written information to the question in `Justification` column. Where applicable, select an answer option from the drop-down options in the `Answer` column. ;;;;;;;
+;0.1 Background information;;;;;;;
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+R1;What is your country?;N/A;Montenegro;;;;;N/A
+R2;What is your organisation?;N/A;Ministry of Public Administration;;;;;N/A
+R3;What is your name?;N/A;xxx;;;;;N/A
+R4;What is your position/role?;N/A;xxx;;;;;N/A
+R5;What is your email address?;N/A;xxx;;;;;N/A
+R6;What is the size of national open data team (core team members);N/A;3;;;;;N/A
+R7;How many FTE(s) are in the national open data team?;N/A;"maja.dragojevic@mju.gov.me; daliborka.spaic@mju.gov.me; ljiljana.novovic@mju.gov.me";;;;;N/A
+R8;What is the annual budget of the national portal?;<200.000 EUR;N/A;This is the annual budget for all portal activities (portal development and maintenance, promotion and awareness-raising activities) of the national portal. This should include the budget for the national portal team, whether an internal team or external contractors.;;;;N/A
+;0.2 data.europa.eu and national open data portals;;;;;;;
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+R9;"Are you satisfied with data.europa.eu as a European single point of access?
+
+For Justification:
+* If you selected 'yes', what do you consider particularly good about data.europa.eu as European single point of access? 
+* If you selected 'no', how would you improve data.europa.eu as European single point of access? ";yes;Very reviewed by a lot of criteria.;;;;;N/A
+R10;"Does the portal data.europa.eu reflect the data that your national portals hosts? 
+
+For Justification:
+* If you selected 'no' or 'partially', how would you improve data.europa.eu to better reflect the data on national open data portals like the one in your country?";yes;;;;;;N/A
+;Dimension 1: Open Data Policy;;;;;;;505
+;"Please note that this section differentiates between open data policy and open data strategy. Policy here refers to all principles/initiatives set out to achieve the goals established by the Open Data Directive, including specific national legislation put in place to transpose the EU law. With strategy, on the other hand, we define a document outlining the concrete vision, mission, objectives, measures to be implemented, timeline and responsible. An open data strategy would ideally include information on the open data governance structure and operating model.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                                                                                                                                                                                                                                                                                                                        ";;;;;;;
+;1.1 Policy framework;;;;;;;215
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+1;"Is there a national open data policy in your country and does this include a national legislation for the transposition of the Open Data Directive (if your country is an EU Member State)?
+
+For Justification:
+* If yes, please provide (1) the URL and (2) title of the policy document and briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"Article 12a of the Law on Free Access to Information from 2017 stipulates the obligation of public authorities to publish data on open data in an open format.
+You can find the policy at:
+https://www.ombudsman.co.me/spi/1613568996_zakon-o-slobodnom-pristupu-informacijama-1.pdf.
+or: https://www.gov.me/dokumenta/9501b36d-675c-454f-b3d3-fe84661ad923  Drafting of the Law on Amendments to the Law on Free Access to Information, in accordance with the Open Data Directive, is underway, and you can find it at https://www.gov.me/dokumenta/0b5e116c-4907-4c09-9921-0e574a78ee12";The answer option 'Other' should be selected by countries that do not have a specific open data policy in place but have a national policy (on data, digitalisation, artificial intelligence, eGovernment or similar) that explicitly includes open data in its text and scope.;;;;30
+2;"Is there a national open data strategy in your country?
+
+For Justification:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";not applicable;"1. The  Strategy for public administration reform 2022-2026 is adopted in 2021. It contains also measuers and activities related to improvng managing open data in Montenegro.
+Response to reviewer:
+https://www.gov.me/dokumenta/823842f4-2ffd-4a0d-936e-c1b00c669115
+objective 3.3.2 Public administration attractive employer – efficient system of assessment, promotion and rewarding based on merits and continuous development
+objective 4.3 Improvement of information reuse and increasing the availability of open data  
+2. NATIONAL ACTION PLAN FOR IMPLEMENTING THE OPEN GOVERNMENT PARTNERSHIP IN MONTENEGRO 2023-2024 (https://www.gov.me/en/documents/3b87202e-8a46-41ec-958f-f70655f86335 or https://www.otvorenauprava.me/wp-content/uploads/2023/04/Montenegro_Action-Plan_2022-2024_December_EN.pdf )
+Response to reviewer:
+ Promotion and improvement of open data policy and practice5.1. Promote access to the open data portal on the web of all state bodies and LGUs
+
+5.2. Award annual awards	for the best open data initiatives/projects
+
+
+5.3. Determine the obligation to adopt annual plans for the publication of Open data and the obligation to report to the Government on the implementation	of those plans
+
+5.4. Establish calendars for the publication of open data and monitor the Frequency of updates of published data (minimum weekly or even daily updates, especially statistical data)
+
+
+
+5.5. Conduct regular consultations with citizens, the economy and other interested actors on the need to publish new data sets of great importance
+
+5.6. The	launch of an open data hub (Open Data Hub), which includes open membership of representatives of public administration, business, NGOs, scientific and educational academic communities, with the mission of improving the open data ecosystem and promoting the reuse of data sets on the portal
+
+14. Improve the transparency of data on budget execution of loca self government units (LGUs)
+14.2. Conduct training	on how to publish municipal budgets	in open data with a visual presentation of the budget structure (budgets for citizens)
+
+16. Promotion of open data at the local level
+16.1. Organize an ""open data caravan"" at the local level, in cooperation with the economy and NGOs
+
+16.2. Organize in-house consultative meetings with management staff in LGUs on open data
+
+16.3. Preparation of an analysis of the availability of publicly	displayed Contact information in local self-government bodies and LLCs founded by LSU
+
+16.4. Create instructions for local self-government units on data	disclosure
+
+16.5. Hold workshops for LGU officials on data disclosure
+";The answer option 'Not applicable' can be selected if e.g. there is no specific strategy in place, but the existing policy refers to the objectives, actions/measures to be implemented, delivery timelines, responsible etc. Should another explanation apply in your case, please provide it in the justification text box.;In addition to the links, can you please elaborate further on the main highlights of these documents? What measures/activities in these documents contribute to strategy?;;;30
+3;"Has this national strategy/policy been updated in the past 24 months?
+
+For Justification:
+* If yes, please briefly describe the main changes. ";yes;1. One of the strategic goals is a transparent and open public administration that will explicitly include open data with OPERATIONAL OBJECTIVE 4.3. Improving the reuse of information and increasing the availability of open data. (Strategy for public administration reform 2022-2026);;;;;10
+4;"Is there any further open data policy/strategy at regional or local level?
+
+For Justification:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";no;;;;;;0
+5;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For justification:
+If yes, please briefly describe the main measures described by the action plan.";yes;"yes, the main measures improving the functioning of the legal protection system in the field of free access to information 
+Response to reviewer:
+Measures and activities from Public Administration Reform Strategy 2022-2026
+OPERATIONAL OBJECTIVE 3.2 	Public administration attractive employer – efficient system of assessment, promotion and rewarding based on merits and continuous development
+OPERATIONAL OBJECTIVE 4.3	Improvement of information reuse and increasing the availability of open data  
+";;;"Please elaborate. What do you mean by the ""legal protection system""? 
+
+Please also describe further the activities of the action plan. The answer in 6a suggests there are more activities/measure.";;25
+6a;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"The main activities from action plan relate to data selection, increasing the number and quality of datasets, API access to data.
+Response to reviewer:
+OPERATIONAL OBJECTIVE 4.3	Improvement of information reuse and increasing the availability of open data  ";Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time). ;Please describe the measures to specifically incentivise the publication of real-time or dynamic data.;;;15
+6b;"Does the national strategy/policy outline measures to incentivise the publication of and access to geo-spatial data (e.g. in relation to high-value datasets as specified in the implementing regulation (EU) 2023/138)?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"INSPIRE Directive 2007/2 / EC on the establishment of a geospatial data infrastructure within the European Community has been partially transposed in Montenegro.Geoportal of the Administration for Cadastre and State Property of Montenegro, provides access to spatial data from the competence of the Administration and other entities.
+http://www.geoportal.co.me/
+";"Geo-spatial data is data that contains information on properties that are linked to a position on earth. 
+
+The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138";;;;15
+6c;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For justification:
+* If yes, please briefly describe the measures.";no;;Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;;;0
+6d;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For justification:
+* If yes, please briefly describe how.";no;;;;;;0
+7;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"model where the user is at the center of the service 
+introduction of new data sets based on user needs, using modules for interviewing of  portal users, 
+preparation of reports based on data indicator
+Response to reviewer:
+Measures and activities from National Action Plan for the implementation of the initiative Open Government Partnership Montenegro 2023 - 2024
+16. Promotion of open data at the local level
+16.1. Organize an ""open data caravan"" at the local level, in cooperation with the economy and NGOs";These measures should promote concepts such as data-driven government, policy-making and decision-making.;Please  specify if the national strategy/policy contains measures to support the re-use of open data by public insitutions. ;;;15
+8;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"encouraging the use of open data for the development of start-ups, business communities, various business models through the organization of various events such as competitions for digital solutions, hackathons 
+Response to reviewer:
+Measures and activities from National Action Plan for the implementation of the initiative Open Government Partnership Montenegro 2023 - 2024
+5.5. Conduct regular consultations with citizens, the economy and other interested actors on the need to publish new data sets of great importance
+5.2. Award annual awards	for the best open data initiatives/projects	- Organized Hackathon 
+- development of applications using open data, 2024 (in Cooperation with the start-up community and the most frequent users of the open 
+data portal)
+-Awarded three awards for the best rated applications 
+	
+	";These measures could promote concepts such as smart cities and/or regions, but also new business development (in particular Small - and Medium-sized Enterprises), entrepreneurship etc.;Please describe more specifically what the measures in the strategy/policy are to support the private sector in open data reuse.;How do you encourage the use of open data for development of start-ups, etc? What are the measures/activities? ;;15
+9a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For justification:
+* If yes, please briefly specify.";No;"all public authorities, whether at the local or state level, are obliged to publish data for reuse in an open format on the open data portal, where they have their own corner for publication where they publish from their inventory.
+Response to reviewer:
+It is not specified in strategies, but portal is established as catalog of open datasets";A data inventory is a comprehensive catalogue of datasets held by an organisation.;;By data inventory, we mean a catalogue of datasets held by public sector bodies? Besides the requirement to publish certain data, does the strategy/policy include the need to create such a list of datasets?;;0
+9b;"If yes [in Q9a], do these data inventories also include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For justification:
+* If yes, please briefly specify.";No;"Response to reviewer:
+for now, on open data portal they can publish as open data, but on their own websites they can publish from their inventory on  other formats such as pdf,word, itc
+It is not specified in strategies, but portal is established as catalog of open datasets";The Data Governance Act (EU) 2022/868 seeks to increase trust in data sharing, strengthen mechanisms to increase data availability and overcome technical obstacles to the reuse of data. It also aims to support the set-up and development of common European data spaces in strategic domains, involving both private and public players, in sectors such as health, environment, energy, agriculture, mobility, finance, manufacturing, public administration and skills. The Data Governance entered into force on 23 June 2022 and, following a 15-month grace period, will be applicable from September 2023. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R0868;Please further clarify. The question relates to non-open data and not file formats of data. The inventory is the list of data collected by the public sector. It can be the case that not all datasets on the list are allowed to be open.;;;0
+10a;"Has your country started working towards the application of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Justification:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.
+";Not Applicable;N/A;The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;;;;20
+;Categories of high-value datasets;;;Degree of progress (from 1 to 5);;;;
+;;Organisational progress;Legal progress ;;Technical progress ;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;
+;Geospatial;N/A;N/A;N/A;N/A;N/A;N/A;
+;Earth observation and environment;N/A;N/A;N/A;N/A;N/A;N/A;
+;Meteorological;N/A;N/A;N/A;N/A;N/A;N/A;
+;Statistics;N/A;N/A;N/A;N/A;N/A;N/A;
+;Companies and company ownership;N/A;N/A;N/A;N/A;N/A;N/A;
+;Mobility;N/A;N/A;N/A;N/A;N/A;N/A;
+10b;"Are there measures in place to assist other stakeholders’ involvement in this prioritisation process?
+
+For justification:
+* If 'yes, other measures', please specify which measures. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";not applicable;;Stakeholders could refer to open data reusers (business, civil society) or other actors that might not be direct reusers of the data (e.g. engaged or interested citizens).;;;;10
+10c;"Are the public bodies in your country progressing in denoting relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For justification:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";not applicable;;The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;;;;15
+11a;"Are the objectives/actions of the national open data policy/strategy in place in your country in line with one or more of the European Commission priorities for 2019-2024?
+
+For Justification:
+* If yes, which of the following six priorities and how?
+* Multiple answers are possible. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";not applicable;N/A;Please find for reference the European Commission´s priorities for 2019-2024: https://commission.europa.eu/strategy-and-policy/priorities-2019-2024_en;;;;15
+;Priorities;Yes/No/NA;Action taken to align with the selected priority;;;;0;
+;"A European Green Deal
+Transforming the EU into a modern, resource-efficient and competitive economy, while preserving Europe’s natural environment, tackling climate change and making Europe carbon-neutral and resource-efficient by 2050.";Yes;this is more responsibility of other institutions, so we do not have official information from them yet;Example: Green mobility has been prioritised as high-value dataset.;;;0;
+;"A Europe fit for the digital age
+Embracing digital transformation by investing in businesses, research and innovation, reforming data protection, empowering people with the skills necessary for a new generation of technologies and designing rules to match.";Yes;"DIGITAL TRANSFORMATION STRATEGY
+MONTENEGRO 2022-2026 WITH ACTION PLAN 2022-2023 is made in accordance with the wider
+the strategic framework of the European Union that has been taken into account when defining goals and actions.
+https://www.gov.me/cyr/clanak/strategija-digitalne-transformacije-za-razvoj-digitalne-crne-gore
+in accordance with the defined deadlines, you can see the activities undertaken defined by the ACTION PLAN 2022-2023
+";Example 1: The strategy explores how open data can be used to foster the digitalisation of public services.                                                                                                                 Example 2: The strategy/policies foresee open data education projects to improve data literacy among citizens.;;;0;
+;"An economy that works for people
+Strengthening the EU economy while securing jobs and reducing inequalities, supporting businesses, deepening the Economic and Monetary Union and completing the banking and capital markets union.";Yes;this is more responsibility of other institutions, so we do not have official information from them yet;Example: One of the objectives of my country´s open data policies/strategies is to create economic value by stimulating new buiness opportunities.;;;0;
+;"A stronger Europe in the world
+Strengthening the EU’s voice on the world stage by improving its standing as a champion of strong, open and fair trade, multilateralism and a rules-based global order. Boosting relations with neighbouring countries and partners as well as strengthening the EU’s ability to manage crises based on civilian and military capabilities.";Yes;this is more responsibility of other institutions, so we do not have official information from them yet;Example: Gender inequality has been prioritised as high-value dataset.;;;0;
+;"Promoting our European way of life
+Upholding fundamental rights and the rule of law as a bastion of equality, tolerance and social fairness. Addressing security risks, protecting and empowering consumers, as well as developing a system for legal and safe migration while effectively managing the EU’s external borders, modernising the EU’s asylum system and cooperating closely with partner countries.";Yes;this is more responsibility of other institutions, so we do not have official information from them yet;Example: Migration has been prioritised as high-value dataset.;;;0;
+;"A new push for European democracy
+Strengthening Europe’s democratic processes by deepening relations with the European Parliament and national parliaments, protecting EU democracy from external interference, ensuring transparency and integrity throughout the legislative process, as well as engaging more widely with Europeans in shaping the EU’s future.";Yes;this is more responsibility of other institutions, so we do not have official information from them yet;Example: One of the objectives of my country´s policies/strategies is to increase transparency and facilitate public participation in policy debates.;;;0;
+11b;"Are there any other overarching objectives or specific actions of your country´s open data policy/strategy that you would like to mention?
+
+For justification:
+*  If yes, please specify. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";not applicable;;Example: Fight corruption,increase transparency in public administrations.;;;;N/A
+;1.2 Governance of open data;;;;;;;185
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+12;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For justification:
+*  If yes, please briefly explain how this participation is ensured. 
+* If you have a different way of ensuring the participation and/or inclusion of different stakeholders in your country, please select 'not applicable' and explain.";yes;The  Council for open data management is being reformed, and it will consists of represents of public sector, chamber commerce,civil sector and academic institutions;;;;;30
+13;"What is the model used for governing open data in your country? 
+
+For justification:
+*  Could you briefly describe why this model was chosen/works best for your country?";hybrid;The Council for open data management are representatives of the public sector, the chamber of commerce, the civil sector and academic institutions;;;;;N/A
+14;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For justification:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";yes, all initiatives;"The national law on free access to information prescribes the disclosure of data both on state and local level, including use of an open data form.
+Response to reviewer:
+Measures and activities from National Action Plan for the implementation of the initiative Open Government Partnership Montenegro 2023 - 2024
+16. Promotion of open data at the local level
+16.1. Organize an ""open data caravan"" at the local level, in cooperation with the economy and NGOs	- promotional activity held in three Montenegrin regions	during 2023 and 2024
+- number and type of promotional material
+- the number of citizens present
+	";;;What type of support is given to local/regional initiatives? The current answer says that they are obliged to make data open, but what help do they get?;;20
+15;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For justification:
+* If not applicable, please explain why.";the majority of public bodies;;By initiatives we mean policies, strategies or portals that focus on the respective local/regional level.;;;;15
+16;"Are the governance structure and its operating model (including the people and the team responsbile for open data activities) published online and accessible to the public?
+
+For justification:
+* If yes, please provide the URL where this information is published. ";yes;The formation of the Open Data Management Council is underway. On the page https://www.gov.me/dokumenta/352c5ca5-d625-4125-bd7f-1061fcb3b672 you can view the latest amendment to the Decision on the establishment of this body. The open data portal still does not have full functionality due to a cyber attack on the network infrastructure of the Government of Montenegro (IT systems are gradually being put into operation for the sake of the security of the network infrastructure), so when the recovery process of the open data portal is completed, the final formation of this body will be started.;;;;;20
+17a;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For justification:
+* If yes, please provide the URL where this information is published. ";yes;"The decision was made on 20.12.2021. and Article 5 lists the tasks of the Open Data Management Council. You can view the decision at https://www.gov.me/dokumenta/1153751b-b38f-43f0-8a07-c8ee09b88233. The amendment to the decision was made on June 23, 2022 and primarily refers to the composition of this body, and you can view it on the page: https://www.gov.me/dokumenta/352c5ca5-d625-4125-bd7f-1061fcb3b672
+The official formation of the Open Data Council is planned after the normal functioning of the open data portal is established.";;;;;20
+17b;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;This exchange of knowledge takes place through regular holding of workshops, some of them are of internal type and not public, some will be public as provided by the NATIONAL ACTION PLAN FOR THE IMPLEMENTATION OF THE OPEN GOVERNMENT PARTNERSHIP IN MONTENEGRO 2023-2024. which was adopted in December 2022 and in the drafting of which the international organization NDI was involved as support.;;;;;20
+18;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For justification:
+* If yes, please describe how this task is fulfilled at public body level.";yes;All institutions that publish data on the portal are obliged to appoint administrators who manage the process of opening data in the competence of these institutions;;;;;20
+19;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers? 
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Workshops, webinars and other activities are planned, which we will conduct after the recovery of the open data portal from the cyber attack, so we will provide the URL later.;;;;;20
+20;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"In order to speed up the process of digital transformation and improve the services provided by public administration bodies, the Government of Montenegro and the Ministry of Public Administration announce the launch of the Digital Academy - a platform for the education of civil servants and all citizens who want to improve their professional, leadership and digital skills in order to be more efficient, effective and competitive in their business environment.
+The Digital Academy in Montenegro is one of the first strategically designed projects for recognizing the potential and evaluating the achievements of employees in the field of digital transformation and, at a later stage, the development of leadership in this field. The Academy will deal with the most important topics that meet the needs of modern society, respecting global trends and present challenges. https://www.gov.me/clanak/digitalna-akademija";Exchanges can take place via formal formats (e.g. round-tables, conferences) or less formal formats (e.g. meet-ups).;;;;20
+;1.3 Open data implementation;;;;;;;105
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+21;"Do data publication plans exist at public body level?
+
+For justification:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";No;"The Government's work program for 2023, nurturing the principle of openness, transparency and participation, will implement activities that include proactive publication of data, reuse of information and increased availability open data, as well as ensuring quality participation of citizens in the process of creating public policies. https://www.gov.me/dokumenta/83c638de-063b-4bff-b881-03798b9d74c3
+Response to reviewer:
+the portal of open data is the places where public bodies publish data proactively";For data publication plans we refer to the existence of a specific workflow or internal data management process for publication of datasets. ;;"Please provide additional information on the point you mention about ""the proactive publication of data"". What are the key aspects of this process?";;0
+22a;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For justification:
+* If yes, please specify the process(es).";yes;"There is a monitoring mechanism that monitors all activities related to the successful opening of data from the Public Reform Strategy 2022-2026, and the Digital Transformation Strategy 2022-2026
+Response to reviewer:
+annual action plans from all strategies are monitored, reports are regularly published on the government
+";;;Please specify the monitoring mechanism;;15
+22b;"If yes, would you describe the status of implementation as satisfactory/neutral/unsatisfactory? 
+
+For justification:
+* Please motivate your answer.";satisfactory;The entire ecosystem shows an initiative for greater opening of data, this year we have planned a lot of activities with the NATIONAL ACTION PLAN FOR THE IMPLEMENTATION OF THE OPEN GOVERNMENT PARTNERSHIP IN MONTENEGRO 2023-2024 that also refer to local self-government units. With the launch of the Digital Academies project, citizens, the academic community, the civil sector, the business sector and everyone who wants to apply have also planned trainings related to open data.;;;;;N/A
+23a;"Are there any processes in place to asses if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the re-use of public sector information).
+
+For justification:
+* If yes, please specify the process(es).";yes;"for now its mehanizm of the Agency for personal data protections, it depends on the number of pages of each document, i.e.response to a request for free access to informatin
+as for the open data on the portal, they are under open license and free to download";;;;;15
+23b;If yes [to Q23a], to what degree is data provided by public sector bodies free of charge?;approximately half of the datasets;N/A;;;;;10
+23c;How has this degree changed compared to the previous year?;no change;N/A;;;;;5
+24a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For justification:
+* Please briefly describe.";N/A;"lack of financial resources
+lack of staff in our and other institutions
+insufficient awareness of benefits from spreading data opening initiative";;;;;N/A
+24b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For justification:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to cope with these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"These challenges are also encountered in other projects, so the question of how to overcome them is crucial for the development of the digital society.Due to more frequent changes in management, the priorities and ways to overcome these problems are changing
+Response to reviewer:
+yes, You're right --> the Digital Academy in Q20 might be one activity to address the challenge of insufficient awareness.
+
+
+";;;Are there current activities that try to address these challenges? E.g the Digital Academy in Q20 might be one activity to address the challenge of insufficient awareness.;;10
+25a;"Are there any activities in place to assist data providers with their open data publication process?
+
+For justification:
+* If yes, please describe/provide examples of these activities.";yes;There is a rulebook on how to publish information in an open format with a manual developed by the Ministry. The user guide makes it easier for providers how to publish data and the open data national team conducts training for data providers.;E.g. a task force/agency that is in charge of promoting and assisting the data publication process at national and/or regional and local levels (where applicable).;;;;15
+25b;"Are there activities to assist real-time and/or dynamic data holders in their publication process?
+
+For justification:
+* If yes, please provide some examples of such activities.";No;"trainings of administrators from government bodies are continuously conducted
+Response to reviewer:
+OPERATIONAL OBJECTIVE 4.3	Improvement of information reuse and increasing the availability of open data  
+Organization of campaign with a view to raising awareness of the public and of public administration on the importance of open data and their value";Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time).;;Please describe activities that are specific to assist data holders of real-time/dynamic data;;0
+25c;"Are there activities to assist geo-spatial data holders in their publication process?
+
+For justification:
+* If yes, please provide some examples of such activities.";no;;Geo-spatial data is data that contains information on properties that are linked to a position on earth.;;;;0
+25d;"Are there activities to assist citizens or their working organisations in the publication of citizen-generated data?
+
+For justification:
+* If yes, please provide some examples of such activities.";no;; Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;;;0
+26a;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For justification:
+* If yes, please briefly describe these training activities.";yes;"The plan for professional training of civil servants envisages training of civil servants in the field of data opening
+Response to reviewer:
+such training is planned in anual plan of Human resourses";Ideally such trainings are organised in the frame of the professional development programmes for civil servants and address both data literacy and skills.;;Please confirm if such training is current in place or only planned;;15
+26b;"If yes [to Q26a], do these training activities offer a certification that is formally recognised? 
+ 
+For justification:
+* If yes, please briefly describe.";yes;yes, considering that the trainings are foreseen by the plan of professional development of civil servants under the auspices of the Human Resources Administration;;;;;10
+27a;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond public servants? 
+ 
+For justification:
+* If yes, please provide a few examples (e.g. title, date, location of the event and URL).";yes, 3-5;The activities planned by NAP regarding the promotion of open data were planned in April, however, the portal is not yet operational, so the start of their implementation will be prolonged for some time.;;;;;10
+27b;"Who organises most open data related events?
+ 
+For justification:
+* Please provide a few examples of typical organisers.";a mix of the above;Ministy of public administartion, Community of municipalities, NDI In Montenegro;;;;;N/A
+;Dimension 2: Open Data Impact;;;;;;;300
+;"Assessing the impact of open data is still generally considered a new field, with no consensus, for example, on the definition, or methodologies to measure impact. Nonetheless, there are several elements that are considered essential to demonstrating impact, such as monitoring and measuring the reuse of published open data. Given this, the impact dimension in this questionnaire tries to capture the extent to which countries have been making progress in monitoring the reuse of open data and based on that, in measuring the impact of open data on specific governmental, societal, environmental, and economic challenges of our time. Countries are encouraged to provide, whenever possible, examples of reuse for each impact area/topic. Yet, please note that data.europe.eu does not consider the availability of reuse examples as a direct evidence of impact.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                                                                                                                         ";;;;;;;
+;2.1. Strategic awareness;;;;;;;105
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+28;"Do you have a definition of open data reuse in your country?
+ 
+For justification:
+* If yes, please specify it.";yes;yes, use for a purpose other than that for which they were created;;;;;10
+29;"Is there interest at national level to observe the level of reuse of open data in your country?
+ 
+For justification:
+* If yes, what activities/efforts have you observed within public bodies that support your observation?";Yes, there is a strong focus;The Ministry of Public Administration manages and coordinates the process of opening data held by public authorities and some authorities are making efforts to provide resources to prepare, format, publish data and monitor their reuse;"With 'national level' we refer to either central government, federal government, or top ministries.
+Examples of such activities could be regular information sessions and/or promotion of published data at conferences and other events. ";;;;15
+30;"Are there any processes in place to monitor the level of reuse of your country's open data, for example via the national open data portal?
+ 
+For justification:
+* If yes, please briefly describe these processes and provide the URLs to support the answer.";yes;"for example there is an analytics on portal open data
+(https://data.gov.me/analytics), and every data sets has a section with use cases ";;;;;20
+31;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For justification:
+* If yes, please briefly describe these activities/incentives and provide the URLs to support the answer. ";no ;;Incentives could for example be training, financial incentives, or awards.;;;;0
+32;"Is your country progressing in preparing to monitor and measure the level of reuse of high-value datasets following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+ 
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";Not Applicable;"As part of the joint project ""Acceleration of Digital Management"", UNDP and the Ministry of Public Administration prepared a report on the state of open data of high value, which also contains recommendations for improving the state, which you can view on the page https://www.undp.org/cnr/montenegro/publications/procjena-setova-otvorenih-podataka-visoke-vrijednosti-u-javnoj-upravi-crne-gore";The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;;;;15
+33;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For justification:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"Transparency of public administration, strengthening the role of citizens in creating public policies, as well as the use of new technologies in change management are the end results that the Ministry wants to achieve by improving the process of opening data
+https://www.gov.me/dokumenta/823842f4-2ffd-4a0d-936e-c1b00c669115";;;;;20
+34;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For justification:
+* If yes, please briefly describe the key points of this methodology.";no;;With methodology we refer to practices, frameworks, methods developed/employed, regardless of their maturity level.;;;;0
+35;"Are there studies that have been conducted in the past year that focus on assessing the impact of open data in your country?
+
+For justification:
+* If yes, please provide examples and the URLs to such studies to support your answer.";yes;"https://www.gov.me/dokumenta/7a211a06-401c-426c-9d98-85b8f1ae9d88
+https://www.undp.org/cnr/montenegro/publications/procjena-setova-otvorenih-podataka-visoke-vrijednosti-u-javnoj-upravi-crne-gore";;Links work, but further explanation is missing;;;25
+36;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For justification:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";No;Yes, but the projects have not yet started to be implemented, considering that the establishment of the functioning of the open data portal and the start of the implementation of the training provided by the Digital Academy program are awaited.;;Missing URL;Please describe some example. We can consider only activities that have been implemented and not those that are planned.;;0
+;2.2 Measuring reuse;;;;;;;100
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+37;"Have any public bodies in your country launched or performed any activities in the past year to map which and how (open) datasets are reused?
+
+For justification:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;;;;;40
+;Type of activity;Mark relevant activties below;Brief description;;;;0;
+;Analysis of log files;No;;;;;0;
+;Automated feedback mechanisms tracking users´ access to datasets;No;;;;;0;
+;Surveys;Yes;research is conducted under Ministry of Public Administration with UNDP support;;;;;
+;Interviews/workshops with reusers;Yes;interviews with focus groups;;;;0;
+;Other;No;;;;;0;
+38;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers´needs?
+
+For justification:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;;;;;40
+;Type of activity;Mark relevant activties below;Brief description;;;;0;
+;Regular feedback sessions with portal users ;No;;;;;0;
+;Social media sentiment analysis ;No;;;;;0;
+;Other;Yes;mansioned reseach under undp suport;;;;0;
+39a;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For justification:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;"only Ministry of Public Administration with mensioned use cases on portal of open data
+Response to reviewer:
+the portal has posibillity that external user can join on each datasets some use cases";;Please further elaborate on your answer. ;;;20
+39b;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For justification:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";no;;;;;;0
+;2.3 Created impact;;;;;;;95
+;2.3a Governmental impact;;;;;;;0
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+40;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country? 
+
+For justification:
+* If yes, please specify what kind of data proves this impact and provide the URLs to this data.";No;"There are mostly studies of the non-governmental sector, on the degree of openness of the government, for example CEDEM continuously conducts such research, you can find on their website and recommendations from these and similar studies are widely recognized in government programs, ministries and strategic documents.
+Response to reviewer:
+https://www.cedem.me/publikacije/studije-i-javne-politike/";"The governmental impact is hereby defined as the beneficial effect of the use of open data on three specific challenges faced by the government/public administrations: 1) Being efficient and effective in delivering public services; 2) Being transparent and accountable in their actions; 3) Improving their capacity to make decisions and policies.";Please provide URLs in support of your answer. ;;;0
+41;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";No;"The provision of electronic services depends to a large extent on the availability of public records. On our portal of open data, the Metaregister has been published in a machine-readable format, records of all registers kept in the state administration, so that everyone can see which types of data are kept in the state records. After a cyber attack at the end of August 2022, the portal was disabled and now work is being done to recover the data published on it.
+";;This question is interested in examples of re-use cases, such as apps or initiatives that make use of open data from your country, related to the effectiveness of the government. Do you know of such examples/projects? These projects can be from the government or civil society.;;;0
+42;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";No;only the opening of data affects the transparency of public administration, reduces the burden on the administration, reduces the number of requests for free access to information;;This question is interested in examples of re-use cases, such as apps or initiatives that make use of open data from your country. Please provide evidence for your statement, e.g., an example of use case that shows the positive impact of open data for governmental transparency. ;;;0
+43;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";No;Of course, unfortunately every year there is an increase in the number of patients with malignant and cardiovascular diseases, mental disorders that affect the creation of some public policies in the field of health, such as building new health facilities, reducing the burden on the health system, etc.;;This question is interested in examples of re-use cases, such as apps or initiatives that make use of open data from your country. Please provide evidence for your statement, e.g., an example of use case that shows the positive impact of open data on policy-making.;;;0
+44;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";No;"There are certainly plenty of such examples
+The capital is at the forefront of good use of open data and creating applications that, for example, serve citizens to report illegal dumps, to avoid traffic jams, etc., there are many benefits for the local community. You can visit site of capital Podgorica
+https://podgorica.me/mobilne-aplikacije";;Please clarify the way in which the mobile apps listed are related to open data. Also, please clarify which apps relate to the topic of decision-making processes;;;0
+;2.3b Social impact;;;;;;;30
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+45;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country? 
+
+For justification:
+* If yes, please specify what kind of data proves this impact and provide the URLs to this data.";No;"Response to reviewer:
+there are certainly plenty of such examples
+The Android and iOS application Klik Podgorica enables citizens and tourists to get information about city and railway traffic, cycling, catering, sports facilities, health care institutions, culture and the history of the Capital in a faster and simpler way.
+The Klik Podgorica mobile application serves to improve the mobility of young people, people with disabilities and people who use alternative modes of transport in Podgorica
+https://podgorica.me/mobilne-aplikacije
+https://klikbus.me/";The social impact is hereby defined as the beneficial effect of the use of open data on four specific challenges for society: 1) Including minorities, migrants, and/or refugees  and reducing inequality, 2) Alleviating housing issues, 3) Fostering health and wellbeing, 4) Improving education.;URL to the data is missing. Moreover, reuse case examples are suitable for Q44-Q49. This question is interested in data/studies about the impact created by open data on social challenges.;;;0
+46;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees (e.g. from the Ukrainian war)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";No;It is certain that migration data within the country and the number of foreign migrants affect the creation of public policies, such as more investment in the development of the northern part of the country with declining birth rates, attempts to find a way to infiltrate Ukrainian refugees into Montenegrin society ;;This question is interested in examples of re-use cases, such as apps or initiatives that make use of open data from your country. Do you know of such examples/projects? These projects can be from the government or civil society.;;;0
+47;"Is the use of open data in your country having an impact on the society´s level of awareness concerning housing in urban areas? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"partialy
+https://podgorica.me/mobilne-aplikacije
+Response to reviewer:
+these applications like www.biciklo.me have an impact on increasing awareness of the importance of using alternative modes of transportation";Data that provides information on the housing market, rental market, property valuations, sales, planning, zoning, census data on socio-economic variables for cities and/or neighbourhoods, other housing issues such as homelessness, empty dwellings, gentrification.;Please provide evidence in support of your answer, e.g., an example of use case that shows the positive impact of open data on this topic.;;;15
+48;"Is the use of open data in your country having an impact on the society´s level of awareness on health and wellbeing related issues (also but not only in light of the COVID-19 pandemic)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";No;Yes of course. You can view it on the website https://www.ijzcg.me/me/izvjestaji?page=1;;Please further elaborate on your answer and explain the impact of the studies mentioned. Also, the URL links to a general page on reports. Please specify which example is relevant. It must pertain to a reuse case for this question.;;;0
+49;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Response to reviewer:
+the topic of education is one of the best covered on our portal, and it is certain that detailed data on the number of students, educational programs, etc. affect the choice of schools, educational programs";;Please provide evidence in support of your answer, e.g., URL to a reuse case.;;;15
+;2.3c Environmental impact;;;;;;;45
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+50;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country? 
+
+For justification:
+* If yes, please (1) specify what kind of data proves this impact and (2) provide the URLs to this data. ";I don't know;;The environmental impact is hereby defined as the beneficial effect of the use of open data on four specific challenges connected to the environment: 1) Protecting biodiversity (e.g. maintaining a good level of air and water quality), 2) Achieving more environmental-friendly cities (e.g. in terms of transport and waste management), 3) Fighting climate change and connected disasters, 4) Increasing the use of renewable sources of energy.;;;;0
+51;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Response to reviewer:
+You can see different aplications: such as Monitoring of air quality http://www.epa.org.me/vazduh/  on https://epa.org.me/nase-aplikacije/ based on datasets from tab Mjerne stanice http://www.epa.org.me/vazduh/stanica/1 where are data published in graficone form
+we dont really understand your questions";;;Please describe the impact of these applications. What effects have they brought?;;15
+52;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"the civil society www.biciklo.me is very active on this issue and produced a publication:
+
+https://biciklo.me/wp-content/uploads/2020/10/Anketa_Uslovi-za-vo%C5%BEnju-biciklom-u-Podgorici_2020.pdf
+on https://epa.org.me/dozvole-i-rjesenja/ you can findd datasets from waste register and on 
+https://podgorica.me/mobilne-aplikacije 
+CASPER aplication is related to list of deponies in capital city";"
+
+";The link  www.biciklo.me seems to be broken. https://epa.org.me/dozvole-i-rjesenja/ seems to be data on permits. Please clarify the reuse case. Also, please clarify how the Kasper app relates to open data.;;;15
+53;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Environmental protection agency publishes a lot of data in graficone form on its website, but still not on the open data portal
+We hope that these useful datasets concerning the quality of water, air, soil will soon be found on our portal
+You can see some reports based on indicators on https://epa.org.me/izvjestaj-o-stanju-zivotne-sredine-na-bazi-indikatora/
+The step-by-step guide for the development of environmental indicators is based on datasets concerning the quality of water, air, soil  and designed to provide information on environmental indicators, as well as on environmental reporting. The main purpose of this document is to guide the reader through the general process that must be carried out in order to provide an accurate assessment of the current state of the environment.
+
+The guide for the development of environmental indicators is intended for government officials, members of the academic community, the private sector and other individuals interested in the environment.
+https://epa.org.me/wp-content/uploads/2018/03/Vodic-10.12-korak-po-korak.pdf";;Please provide reuse cases of open data being used in applications/initiatives/solutions relating to climate change;;;15
+54;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";I don't know;I can't find an example so the answer is I don't know;;;;;0
+;2.3d Economic impact;;;;;;;20
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+55;"Is any data on the economic impact (e.g. population employed, innovation and nw businesses created etc.) of open data available in your country? 
+
+For justification:
+* If yes, please (1) specify what kind of data proves this impact and (2) provide the URLs to this data. ";No;"The Employment Service regularly updates employment data by various cities, profiles and forms supply and demand, ie the labor market/stastistic centar/
+https://www.zzzcg.me/";"The economic impact is hereby defined as the beneficial effect of the use of open data on three indicators of economic growth:  
+1) Level of employment, 2) Uptake of technology and innovation, 3) Level of etrepreneurship and new business created.";This question is interested in studies/data on the economic impact of open data (it does not pertain to open datasets on the economy such as employment figures). Do you have information on the economic impact that open data creates in your country (eg the results of an impact assessment)?;;;0
+56;"Is the use of open data in your country having an impact on the level of employment? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";no;;;;;;0
+57;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";no;;;;;;0
+58;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";Yes;"Portal BInfo.me (http://www.binfo.me/portal.php) is a unique internet platform through which you can quickly and easily access public, online databases of legal entities registered in Montenegro and is intended for all companies registered in Montenegro
+
+ based on public data from www.crps.me (available soon on portal open data) you can search through this by several financial and non-financial criteria:
+- Ownership structure
+- Related companies, on several grounds,
+- REAL ESTATE owned and possible encumbrances, as well as pledged movable property
+Response to reviewer:
+https://100najvecih.me/?lang=en
+- Regularity in payment of tax liabilities,
+- Account blockages,
+- Assessment of financial condition,
+- Objective, methodologically and theoretically confirmed scoring model
+- Detailed insight into financial data, indicators and business trends
+- (In) solvency of companies
+- Monitoring changes in several companies and being fully informed about changes in them
+- Special search of the list of blocked companies, as well as regular and untidy tax debtors
+- Separate lists of newly established, deleted and liquidated companies, as well as initiated bankruptcies in the period
+- Special register of NGO sector in Montenegro
+- Special register of entrepreneurs
+- Data on companies from the EX-YU REGION: Slovenia, Croatia, BiH and Serbia
+- Success history in public tenders
+Based on this creditworthiness information, this company has developed a project of the 100 largest in Montenegro:
+The aim of the “Top 100 in Montenegro” project is to contribute to the development and strengthening of the positive business climate through promotion of positive business practice, the largest and the most profitable companies, as well as biggest employers. This indicator will also facilitate better recognition and promotion of those Montenegrin companies that make use of their right to present themselves to the clients, business partners and social community with the stamp “Top 100 in Montenegro” and thus show that they belong to the group of the most important companies in Montenegro.";;Do you know of other reuse cases where open data has had an impact on entrepreneurship and business creation? Also, please provide a link to the “Top 100 in Montenegro” project - that is a relevant piece of information since the current reuse case overall pertains more to getting insight into the business landscape in the country than to open data stimulating business development.;;;20
+;Dimension 3: Open Data Portal ;;;;;;;417
+;"This part of the questionnaire is dedicated to assessing the solution your country chose for making the available open data discoverable. Typically, this is achieved through a national open data portal. 
+For simplicity, the following section will refer to this solution as the “national portal”.    
+Please provide where requested the URLs to the features inquired with the respective question. If access to the feature is restricted (back-end feature, log-in required), please provide a screenshot via e-mail as additional attachment (and note this here in the questionnaire). Please answer the questions below only in relation to the portal you indicated as the national portal of reference. Only URLs documenting the features available on this portal will be considered and scored.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                             ";;;;;;;
+;3.1 Portal features;;;;;;;122
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+59;"Is there a national portal in your country for making open data discoverable? 
+
+For justification:
+* If yes, please provide the URL of the national portal.
+* If no, please describe how you ensure the discoverability of the open data available in your country.";yes;"https://data.gov.me/
+After the cyber attack, the process of recovering the data on the portal as well as its original functionalities was started, and we cannot specify the time for which it will be completed.
+Response to reviewer:
+since certain components of the portal could not be recovered, a decision was made to create a new portal, which we already informed you about via email.";;Do you have an update on the status of the portal since the cyber attack? In general, can you revise your answers in the section to reflect the latest status? If the portal is still unavailable due to the cyberattack, we can consider using the results from ODM 2022.;;;20
+60;Does the national portal offer an advanced data search function (multiple field search, filter options, etc.)?;yes;N/A;;;;;10
+61;Does the national portal offer the possibility for users to download datasets (e.g. via a link)? ;yes;N/A;;;;;10
+62a;Does the national portal offer the possibility for users to search by file format? ;yes;N/A;;;;;10
+62b;Does the national portal offer the possibility for users to search by data domain? ;yes;N/A;;;;;10
+63;"Does the national portal offer to its users a way to programmatically query the metadata (e.g. via an API or a SPARQL access point)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";No;"Once the portal recovery process is complete, we will be able to provide you with the direct  URL 
+Response to reviewer:
+maybe is the best solution that you can use 2022 answer, becouse we plan to establish the new portal of open data";;URL missing / will be provided later;If still unavailable, we can use the 2022 answer for this year and note the cyber attack;;0
+64;"Does the national portal offer documentation on the use of APIs and other tools that enable working with the aforementioned metadata? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"Once the portal recovery process is complete, we will be able to provide you with the direct  URL
+Response to reviewer:
+maybe is the best solution that you can use 2022 answer, becouse we plan to establish the new portal of open data";;URL missing / will be provided later;If still unavailable, we can use the 2022 answer for this year and note the cyber attack;;10
+65;"Does the national portal enable users to provide content for the portal (e.g. to link documentation and supporting materials to a given dataset)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";No;"Once the portal recovery process is complete, we will be able to provide you with the direct  URL
+Response to reviewer:
+maybe is the best solution that you can use 2022 answer, becouse we plan to establish the new portal of open data";An example of such supporting material could be relevant studies or reports associated with the dataset e.g. documenting how the data was produced, the methodology etc.;URL missing / will be provided later;If still unavailable, we can use the 2022 answer for this year and note the cyber attack;;0
+66a;"Does the national portal offer a general feedback mechanism for users (e.g. a 'Contact us' or 'Feedback' button that is placed in a visible spot on the portal and would allow users to send a general comment concerning the portal)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";No;"Once the portal recovery process is complete, we will be able to provide you with the direct  URL
+Response to reviewer:
+maybe is the best solution that you can use 2022 answer, becouse we plan to establish the new portal of open data";Please note that a general email address does not count as feedback mechanism in the sense of this question and will not be scored as such.;URL missing / will be provided later;If still unavailable, we can use the 2022 answer for this year and note the cyber attack;;0
+66b;"Does the national portal offer a feedback mechanism at dataset level? (e.g. a 'feedback button' or a comment/ discussion section under the dataset)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";No;"Once the portal recovery process is complete, we will be able to provide you with the direct  URL
+Response to reviewer:
+maybe is the best solution that you can use 2022 answer, becouse we plan to establish the new portal of open data";The feedback mechanism does not include the possibility of a user to send in an email to a general address/the helpdesk.;URL missing / will be provided later;If still unavailable, we can use the 2022 answer for this year and note the cyber attack;;0
+66c;"Does the national portal provide a mechanism for users to rate datasets?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";No;"Once the portal recovery process is complete, we will be able to provide you with the direct  URL
+Response to reviewer:
+maybe is the best solution that you can use 2022 answer, becouse we plan to establish the new portal of open data";Such mechanism could be a star rating system or similar voting/rating mechanism.;URL missing / will be provided later;If still unavailable, we can use the 2022 answer for this year and note the cyber attack;;0
+67;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";no;;;;;;0
+68;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";no ;;;;;;0
+69a;"Does the national portal offer the possibility for users to request datasets? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";No;"yes, you can leave a comment by clicking the Comment button and you can request changes or some new data sets , and your comments are read by delegated officials in front of the institutions that published the set. Once the portal recovery process is complete, we will be able to provide you with the direct  URL
+Response to reviewer:
+maybe is the best solution that you can use 2022 answer, becouse we plan to establish the new portal of open data";Please note also that a specific “Request data” button is meant here. Should the data request function be accomplished by a general help desk contact form that has a specific field for data requests, please describe this as such in the justification box.;URL missing / will be provided later;If still unavailable, we can use the 2022 answer for this year and note the cyber attack;;0
+69b;If yes [to Q69a], what is the frequency of these requests? ;monthly;N/A;;;;;N/A
+69c;"Are these requests and their progress status presented in a transparent manner on the national portal? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";no;;A transparent presentation of these requests may be a machine-readable file on the national portal, or a separate section on the national portal that lists these requests. By providing a list of these requests, duplication of requests can be avoided, and time saved in filtering and answering these duplicate requests.;;;;0
+70a;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For justification:
+* If yes, please describe how this monitoring is conducted.";yes;"these requirements are recorded and accordingly we are working continuously on their implementation.
+but, the dynamic realization depends on the institutions that are the data providers";;;;;10
+70b;If yes [to Q70a], to what degree do these requests result in the publication of the requested data?;the majority of datasets;N/A;;;;;12
+71;"Does the national portal include a discussion forum or any other exchange possibility for users (whether data providers or reusers)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";no;;;;;;0
+72;"Does the national portal have a designated area to showcase use cases?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";No;"Once the portal recovery process is complete, we will be able to provide you with the direct  URL
+Response to reviewer:
+https://data.gov.me/";;URL missing / will be provided later;If still unavailable, we can use the 2022 answer for this year and note the cyber attack;;0
+73;"Does the national portal reference the datasets that the showcased use cases are based on?
+
+For justification:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";No;"We have use cases section for every dataset . Once the portal recovery process is complete, we will be able to provide you with the direct  URL
+Response to reviewer:
+https://data.gov.me/";;URL missing / will be provided later;If still unavailable, we can use the 2022 answer for this year and note the cyber attack;;0
+74;"Does the national portal provide the possibility for users to submit their own use cases?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";No;"Once the portal recovery process is complete, we will be able to provide you with the direct  URL
+Response to reviewer:
+https://data.gov.me/";;URL missing / will be provided later;If still unavailable, we can use the 2022 answer for this year and note the cyber attack;;0
+75;"Does the national portal offer a preview function for tabular data?
+
+For justification:
+* If yes, please provide the URL to an example documenting this feature.";No;"Once the portal recovery process is complete, we will be able to provide you with the direct  URL
+Response to reviewer:
+https://data.gov.me/";;URL missing / will be provided later;If still unavailable, we can use the 2022 answer for this year and note the cyber attack;;0
+76;"Does the national portal offer a preview function for geospatial data?
+
+For justification:
+* If yes, please provide the URL to an example documenting this feature.";yes;"In CKAN every dataset with geo coordinates can be presented on a map. Once the portal recovery process is complete, we will be able to provide you with the direct  URL
+Response to reviewer:
+you can use answer 2022";;URL missing / will be provided later;If still unavailable, we can use the 2022 answer for this year and note the cyber attack;;10
+77;"Following the publication of the implementing regulation (EU) 2023/138 on high-value datasets,  are you progressing in the promotion of such datasets on your national portal (e.g. filtering features and/or editorial features were added, changes were made to navigation...)?
+
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;"We prepared visualisation of most visited dataset before the cyber attack. Once the portal recovery process is complete, we will be able to provide you with the direct  URL
+Response to reviewer:
+https://data.gov.me/";;URL missing / will be provided later;If still unavailable, we can use the 2022 answer for this year and note the cyber attack;;20
+;3.2 Portal usage;;;;;;;145
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+78;Is the national portal mobile as responsive as the desktop version?;yes;N/A;Meaning the portal renders well on both mobile and desktop.;;;;10
+79;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For justification:
+* If yes, which tool(s) do you use?";yes;Google Analytics, Nginx Amplify;;;;;15
+80a;"Are traffic and usage statistics used to better understand users´ behaviour and needs and to update the portal accordingly?
+
+For justification:
+*  If yes, what insights did you gain last year from the reviews of these analytics? ";yes;Add better visual representation of data, advanced fulltext search, visualization of most popular dataset...;;;;;10
+80b;"Do you perform further activities to better understand users´ behaviour and needs (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For justification:
+* If yes, please specify which activities.";yes;we monitor the activities of users on a daily basis, mostly based on the analytics of downloading datasets from the portal and their comments;;;;;10
+81a;What is the typical profile of the portal visitor, as learned from activities such as web analytics, surveys, or social media analyses?;mostly citizens;N/A;;;;;10
+81b;"Does this profile match the type of audience your national portal wants to cater to?
+
+For justification:
+* If only partially, please specify which audience groups are missing.
+* If no, please briefly explain why.";yes, entirely;;;;;;10
+82;"How many unique visitors visit the national portal on average per month?
+
+For justification:
+* Please fill the average number per month in 2022 and select 'see answer box'. 
+* Please note that if you are a federal/regional state you can indicate the sum of the visitors of all sub-national portals harvested in the national portal.";see answer box;Before the cyber attack it was 1200;Unique visitors refer to the number of distinct individuals accessing pages on the website during a given period, regardless of how often they visit that website. Visits refer to the number of times a website is visited, no matter how many visitors make up those visits.;Numbers are affected by Cyber Attack;If you have an update, please provide it. Otherwise, leave as is, the information is sufficient.;;10
+83;"What percentage of the unique visitors to the national portal is foreign?
+
+For justification:
+* Please fill the percentage  and select 'see answer box'.";see answer box;Before the cyber attack it was 18%;;Numbers are affected by Cyber Attack;If you have an update, please provide it. Otherwise, leave as is, the information is sufficient.;;N/A
+84;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For justification:
+* If yes, please briefly describe.";yes;Google Search Console is used;;;;;10
+85;Do you monitor the most and least consulted pages?;yes;N/A;;;;;10
+86;"What data categories are the top 5 most frequently consulted on the portal, with 1 being the most popular one? 
+
+For justification:
+* Please indicate 1 = category X, 2 = category Y etc. and select 'see answer box'.";see answer box;"Before the cyber attack it was
+Public Authority
+education
+statistics
+finance
+justice";;Numbers are affected by Cyber Attack;If you have an update, please provide it. Otherwise, leave as is, the information is sufficient.;;10
+87;"What datasets are the top 5 most frequently consulted on the portal, with 1 being the most popular one? 
+
+For justification:
+* Please indicate 1 = name dateset X, 2 = name dataset Y etc. and select 'see answer box'.";see answer box;"Before the cyber attacks, they were:
+1. Salaries of deputies, appointed, elected and appointed persons in the Parliament of Montenegro 
+2.Records of active NGOs 
+3.List of interpreters  
+4. Records of deleted NGOs 
+5.Taxpayers of electronic fiscalization ";;Numbers are affected by Cyber Attack;If you have an update, please provide it. Otherwise, leave as is, the information is sufficient.;;10
+88;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For justification:
+*If yes, please briefly describe.";yes;Proper metatags are used everywhere. OG tags for social networks. ;;;;;10
+89;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For justification:
+*If no, please briefly explain why.";yes;yes some of it;;;Please describe the reason for some of the metadata not being in clear plain language;;10
+90a;Do you run analytics on API usage, if metadata describing the datasets is accessible via an API?;yes;N/A;;;;;10
+90b;"If yes [to Q90b], what percentage of outgoing portal traffic is generated by API usage only?
+
+For justification:
+*Please fill the percentage  and select 'see answer box'.";see answer box;Before the cyber attack it was 50%;Here we are interested in distinguishing the volume of traffic generated by human users vs the traffic generated programmatically by API usage. We ask for outgoing traffic as it is more relevant than incoming traffic: the former is generated by the enquiries, but the latter by the responses.;Numbers are affected by Cyber Attack;If you have an update, please provide it. Otherwise, leave as is, the information is sufficient.;;N/A
+;3.3 Data provision;;;;;;;30
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+91;"To what degree do public sector data providers contribute data to the portal? 
+
+For justification:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";few public sector data providers;Before the cyber attacks only some nstitutions are publishing data so far, poor response after lack of staff capacity in institutions, insufficient awareness of importance.;Providers at federal, regional or local level, directly or indirectly, via direct uploading or harvesting of metadata. ;;;;0
+92a;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;;;;;10
+92b;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For justification:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;yes, they are invited to trainings, instructions are sent to them, datasets from their organizations are identified that could be on the portal,;;;;;10
+93a;"Besides the national open data portal, are there other regional and local portals? 
+
+For justification:
+* If yes, please provide a complete list and the links to these portals.";no;;;;;;N/A
+93b;"Are regional and local portals listed above [in Q93a] and their data sources discoverable via the national portal? 
+
+For justification:
+* If not applicable, please briefly explain why. ";no;;;;;;0
+93c;"If yes [to Q93b], to what degree are existing regional and local sources harvested automatically? 
+
+For justification:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";Select answer for Q93c;;;;;;0
+94a;"Does the national portal include datasets that are real-time or dynamic?
+
+For justification:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";no;;Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time).;;;;0
+94b;If yes [to Q94a], what percentage of metadata links to such data? ;Select answer for Q94b;N/A;;;;;N/A
+95;"Does the national portal provide a separate section where non-official data (not stemming from official sources, such as community-sourced/citizen-generated data) can be published? 
+
+For justification:
+* If yes, please provide the URL to this section. ";no;;Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;;;0
+96;"Do you have an overview of the data providers (official and non-official) on your national portal? 
+
+For justification:
+* If yes, please list the most important.";yes;"The parliament of Montenegro
+Ministry of Education
+Ministry of Public Administration";;;;;10
+97;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For justification:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";no;;This function can be useful towards reducing the amount of Freedom of Information requests for data that is transparently justified why it cannot be opened. The national portal might also publish the reasons for preventing publication, e.g. national security.;;;;0
+;3.4 Portal sustainability;;;;;;;120
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+98;"Does the national portal have a strategy to ensure its sustainability?
+
+For justification:
+* If yes, please provide the URL to this document. ";yes;"The new strategy for public administration reform 2022-2026 is adopted.
+https://www.gov.me/dokumenta/823842f4-2ffd-4a0d-936e-c1b00c669115
+Response to reviewer:
+the action plan within the strategy foresees funds for the implementation of measures";A strategy could be a brief document and/or action plan listing the activities planned to ensure the portal’s sustainability over time.;Please clairfy how this document relates to the sustainability of the national portal.;;;30
+99;Does this strategy include a description of the portal’s target audience and measures to reach this audience?;yes;;;;;;10
+100;"Is your national portal active on social media? 
+
+For justification:
+* If yes, please provide the URL(s) to your social media accounts. ";no;;By active we refer to an account that publishes new materials at least once a week. A social media presence may include a Facebook, Twitter, LinkedIn account that regularly published open data related content. Ideally a social media account would help promote the open data and more specific portal activities and increase visibility of the open data published on the national portal. ;;;;0
+101;"Do you take actions to promote the national portal’s activities and the available open data (e.g. regular info sessions and/or events)? 
+
+For justification:
+* If yes, please provide at least one example of such activities.";yes;regular promotion of the portal’s data and activities at eventssuch as week of open data;Actions could be regular promotion of the portal’s data and activities at events, an active social media presence, organising webinars to present the available datasets, use cases, the portal’s features to the broader public etc.;;;;15
+102;"Are the portal’s source code as well as relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For justification:
+*If yes, please provide (1) platform name and (2) the URL to the portal’s account on this platform.  ";no;;;;;;0
+103;"Was there a user satisfaction survey concerning the national portal conducted in the past year?
+
+For justification:
+*If yes, please briefly describe the key findings gained through this survey.";yes;research has been done among portal users and different focus groups, and the key findings are that we need to work on selecting and updating datasets for greater usability, that some need to be visualized, that communication modules need to be improved;;;;;10
+104a;"Is there a process by which the portal is reviewed and improved regularly? 
+
+For justification:
+*If yes, please briefly describe this process.";yes;"Response to reviewer:
+Before the cyber attack, in cooperation with UNDP, we tried to improve the portal
+Thanks to the memorandum of cooperation with NDI, experts were hired to audit Portal ";;;What does this process look like? How did you use to review the portal and describe which feature improvements to invest in?;;15
+104b;If yes [to Q104a], what is the frequency of these reviews? ;annually;N/A;;;;;N/A
+104c;"If yes [to Q104a], is the users’ feedback considered in the review process?
+
+For justification:
+*If yes, please briefly describe this process.";yes;the key results of the mentioned research gave us some guidelines for improving the portal;;;;;10
+105a;"Do you monitor via a dashboard the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;"the data is arranged by topics, which you will be able to see after the recovery of the portal
+Response to reviewer:
+yes you can use 2022 answer.";;URL missing / will be provided later;If still unavailable, we can use the 2022 answer for this year and note the cyber attack;;15
+105b;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For justification:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;"Before the cyber attack, there were data usage statistics that provided the number of visits and downloads for each data set, and we expect that the situation will be the same after the recovery of the portal
+Response to reviewer:
+yes you can use 2022 answer.";Such mechanisms could refer to statistics that show publishers statistics concerning their data: the volume of published datasets/metadata records, information on quality of publication (formats, DCAT-AP compliance, licensing information), usage statistics such as downloads, visits, or use cases uploaded to the national portal referencing their data.;URL missing / will be provided later;If still unavailable, we can use the 2022 answer for this year and note the cyber attack;;15
+;Dimension 4: Open Data Quality;;;;;;;365
+;"Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.
+
+In section 4.3 `DCAT-AP Compliance`, the focus is on DCAT-AP exclusively. We are aware that many of the respondents may be compliant with other EU standards, such as INSPIRE. For the purpose of this assessment, only DCAT-AP and its country-specific profiles are relevant.                                                                                                                                                                                ";;;;;;;
+;4.1 Currency and completeness;;;;;;;30
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+106;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For justification:
+* If yes, please briefly describe your approach.";no;;Please note that a regular updating of metadata refers here to an updating that is in line with the characteristics of the dataset in question. Different datasets have different requirements of currency. For example, a gazetteer of city streets only changes when new buildings and roads are built, or street names are changed, whereas the data on current weather conditions may be updated in quasi-real time.;;;;0
+107;What percentage of the metadata is obtained from the source automatically, rather than edited manually? ;<30%;N/A;;;;;0
+108;"What is the average delay from the moment the metadata describing a dataset is updated at your source, and the moment the change is visible on the portal (whether the process is automated or not)?
+
+For justification:
+* What type of data does this mainly concern?";within one week;public registries before a cyber attack;;;;;15
+109;Where applicable, to what degree does the published data cover the full period from when it was first published until today? (for example, complete time series whether available for download or through an API);approximately half of the datasets;N/A;This applies both to individual datasets that change in time and to archives of the same dataset, e.g. one every year, every month etc. Administrative geography is an example of data that changes regularly. When new houses are built, new postcodes may be created, and the areas referred by pre-existing postcodes may change. Making available previous versions of a postcode reference file enables the reuser to correctly interpret the meaning of a postcode vs the relevant time context.;;;;15
+110;"Following the publication of the implementing regulation (EU) 2023/138 on high-value datasets, is your country progressing in ensuring interoperability of datasets, in particular high-value ones, alongside the datasets of another country?
+
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";no;;"* The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138
+* Interoperability is the ability to access and process data from different sources and being able to integrate that data for mapping, visualisation, and other forms of representation and analysis.";;;;0
+;4.2 Monitoring and measures;;;;;;;85
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+111a;"Do you monitor the quality of the metadata available on your portal?
+
+For justification:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;Appropriate meta tags are used throughout. OG tags for social media.;;;How do you monitor this? E.g. How do you monitor/check that the meta tags are appropriate throughout?;;20
+111b;"Do you publish information on the quality of the metadata available on the portal?
+
+For justification:
+* If yes, please provide the URL to this section. 
+* If the information is published e.g. as .csv file, please provide the link to this source.";No;we have already mentioned that each data set has an evaluation, partialy it is quality of metadata ;Such information can be made available as visualisations (e.g. the MQA tool of the EDP), or as downloadable file (ideally in .csv format) on the national portal.;Please support this with a URL to the information about  the quality of metadata on the national portal;;;0
+112;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in choosing an appropriate licence for their data? 
+
+For justification:
+* If yes, please provide the URLs to these materials and/or tools.";no ;;Such guidelines can take the form of a document or tools (a licensing assistant) available on the national portal. An example of such tool is the data.europa.eu Licensing Assistant: https://data.europa.eu/en/training/licensing-assistant.;;;;0
+113;"Did you develop your own open licence/licencing suite to foster the publication of open data in your country?
+
+For justification:
+* If yes, please provide the URL to the document in which this licence is described and briefly describe the main reasons for doing so and the main differences between your country's open licence and the CC licencing suite.
+* If not applicable, please briefly explain why.";no;;;;;;10
+114;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences or of your own licensing suite?
+
+For justification:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* If not applicable, please briefly explain why.";not applicable;we recommend using Creative Commons (CC BY), we don't have our own licensing package?;;;;;10
+115;What percentage of the open data available on the national portal is accompanied by licensing information? ;<10%;N/A;;;;;0
+116;How has the percentage of datasets accompanied by licencing information changed compared to the same period last year? ;remained the same;N/A;;;;;5
+117;Across all datasets you distribute, how many different licences are used on your portal?;1-4;N/A;;;;;10
+118;"Are guidelines and tools provided for data providers to improve the quality of their data publication? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";No;"Response to reviewer:
+yes, user manuals will be available on portal as much as api dokumentation
+user manuals is visible only for administrators of open data portals";Guidelines (check-lists) can enable publishers provide their data in open and machine-readable formats (.csv or .xml instead of proprietary non-machine-readable formats). Other tools can assist publishers to clean up the actual data (e.g. OpenRefine, programming languages such as R).;URL missing / will be provided later;;;0
+119a;"Are there regular activities conducted or mechanisms in place to incentivise and/or assist data providers in the publication of data in machine-readable formats? 
+
+For justification:
+* If yes, please briefly describe.";yes;Assistance is be provided through training sessions with data providers,;By ‘regularly’ we mean a bi-annual or at least annual frequency for activities such as e-learning modules and materials, webinars, meetings. Incentivisation can include the promotion of good quality datasets, e.g. featuring them on the portal homepage, showcasing the publishers as best practices at data providers’ events. Assistance can be provided through formal processes (e.g. data audits), training sessions with data providers, other training and/or awareness raising activities (‘roadshows’) etc.;;;;15
+119b;"Are there regular activities conducted or mechanisms in place to incentivise and/or assist data providers in the publication of high-quality metadata?
+
+For justification:
+* If yes, please briefly describe.";yes;A new platform has been developed with dcat ap standards, so trainings with institution administrators are planned;By ‘high-quality metadata’ we refer to metadata that provides information in plain language – accurate, current and complete, on all DCAT-AP mandatory fields as well as relevant recommended and optional DCAT-AP fields.;;;;15
+;4.3 DCAT-AP Compliance;;;;;;;110
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+120;"Do you supply data providers with documentation on DCAT-AP (e.g. factsheets, materials published on the EC websites such as the JoinUp platform, or your own documentation)? 
+
+For justification:
+* If yes, please provide examples of this documentation and the respective URLs.";No;"Response to reviewer:
+our own documenation how to use ckan platforms and install it on their servers,
+ckan platform is unavailable";See https://joinup.ec.europa.eu/;Please provide URLs to support this answer;;;0
+121;"What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource)
+
+For justification:
+* If DCAT-AP is not a priority for the portal, please explain why.";>90%;;For more information, please see https://joinup.ec.europa.eu/catalogue/distribution/dcat-ap-version-11 ;;;;25
+122a;"What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document)
+
+For justification:
+* If the use of recommended classes is not a priority for the portal, please explain why.";>90%;;;;;;20
+122b;"What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency)
+
+For justification:
+* If the use of optional classes is not a priority for the portal, please explain why.";>90%;;;;;;20
+123;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For justification:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";no ;;;;;;0
+124a;Do you investigate the most common causes for the lack of DCAT-AP compliance?;no ;N/A;;;;;0
+124b;"If yes [to Q124a], what are the main causes for the lack of DCAT-AP compliance?
+
+For justification:
+* Please list the most common causes and select 'see answer box'.";Select answer for Q124b;"Response to reviewer:
+we aligned with dcat ap and implemented ckan platform, ckan platform is unavailable";;"Please clarify the answer. What are the main causes of the lack of DCAT-AP compliance? If these are not investigators [in Q124a], an appropriate answer for Q124b is ""I don't know""";;;0
+125a;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;According to the DCAT-AP definition, the ‘download URL’ property contains a URL that is a direct link to a downloadable file in a given format.;;;;20
+125b;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;According to the DCAT-AP definition, the ‘access URL’ property contains a URL that gives access to a distribution of the dataset. ;;;;25
+;4.4 Deployment quality and linked data;;;;;;;140
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+126;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For justification:
+* If yes, please briefly describe.";yes;https://5stardata.info/hr/;For more information, please visit: http://5stardata.info/en/ or https://joinup.ec.europa.eu/sites/default/files/inline-files/W3C04.pdf.;;;;15
+127;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data (such as promoting the model referenced in the previous question)?
+
+For justification:
+* If yes, please briefly describe.";yes;yes, we inform them that there are 4 and 5 star data, the improved portal will have a data export engine with the rdf(4*) format;;;;;30
+128a;What percentage of datasets is made available under a standard open licence or an explicit custom open licence, in any data format including text documents? ;>90%;N/A;;;;;20
+128b;Of the percentage indicated in the previous question (Q128a), what percentage of datasets is made available under a standard open licence or an explicit custom open licence, in a structured data format?;>90%;N/A;"Refers to open data that is available on the web under an open licence, in a structured format (=machine-readable format that is proprietary, such as .xls; .xlsx). Please note that formats such as .pdf; .jpeg; .png, .doc(x) are not considered machine-readable formats and should hence not be counted towards this answer.";;;;25
+128c;Of the percentage indicated in the previous question (Q128b), which part is also in an open and machine-readable format?;>90%;N/A;Refers to open data that is published in an open (=non-proprietary) machine-readable format. A non-proprietary format is a format for which a user does not require a proprietary software package (such as Microsoft Office Excel) to explore. An example of an open format is the comma-separated values (CSV) format for tabular data.;;;;25
+128d;Of the percentage indicated in the previous question (Q128c), what percentage of datasets also consistely use Uniform Resource Identifiers?;>90%;N/A;"Refers to open data whose comprising objects are accompanied by unique identifiers. An identifier may be the object’s name (e.g. city name ‘Luxembourg’, or ‘10717’ -- a Berlin postcode), or a word describing the object (‘population’; ‘gender’), or another arbitrary identifier such as ‘XYZ0’, an identifier that makes sense only in the context of that dataset. Choosing identifiers based on known standards should be the common practice though, to facilitate data integration and linked data.";;;;25
+128e;Of the percentage indicated in the previous question (Q128d), what percentage of datasets also links to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;;;;;0
+129;"Do you monitor the improvements in terms of quality of open data deployment?
+
+For justification:
+* If yes, please briefly describe how.";no ;maybe we can say no here, there is some monitoring but it is not sistematic;;;;;0

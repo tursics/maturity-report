@@ -1,0 +1,1211 @@
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+;;;;;;;Total Score:;2055
+;;;;;;;Unsure Score:;0
+;;;;;;;"Preliminary Score: 
+(Total - Unsure)   ";2055
+;Respondent Information;;;;;;;
+;Please provide written information to the question in `Justification` column. Where applicable, select an answer option from the drop-down options in the `Answer` column. ;;;;;;;
+;0.1 Background information;;;;;;;
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+R1;What is your country?;N/A;Sweden;;;;;N/A
+R2;What is your organisation?;N/A;Agency for digital government (Digg);;;;;N/A
+R3;What is your name?;N/A;xxx;;;;;N/A
+R4;What is your position/role?;N/A;xxx;;;;;N/A
+R5;What is your email address?;N/A;xxx;;;;;N/A
+R6;What is the size of national open data team (core team members);N/A;6;;;;;N/A
+R7;How many FTE(s) are in the national open data team?;N/A;3;;;;;N/A
+R8;What is the annual budget of the national portal?;200-400.000 EUR;N/A;This is the annual budget for all portal activities (portal development and maintenance, promotion and awareness-raising activities) of the national portal. This should include the budget for the national portal team, whether an internal team or external contractors.;;;;N/A
+;0.2 data.europa.eu and national open data portals;;;;;;;
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+R9;"Are you satisfied with data.europa.eu as a European single point of access?
+
+For Justification:
+* If you selected 'yes', what do you consider particularly good about data.europa.eu as European single point of access? 
+* If you selected 'no', how would you improve data.europa.eu as European single point of access? ";yes;That there is also sections on training and use cases etc. And we just realised that there is a blogs section, where Sweden is not represented. We'll have to do something about that:);;;;;N/A
+R10;"Does the portal data.europa.eu reflect the data that your national portals hosts? 
+
+For Justification:
+* If you selected 'no' or 'partially', how would you improve data.europa.eu to better reflect the data on national open data portals like the one in your country?";yes;;;;;;N/A
+;Dimension 1: Open Data Policy;;;;;;;547
+;"Please note that this section differentiates between open data policy and open data strategy. Policy here refers to all principles/initiatives set out to achieve the goals established by the Open Data Directive, including specific national legislation put in place to transpose the EU law. With strategy, on the other hand, we define a document outlining the concrete vision, mission, objectives, measures to be implemented, timeline and responsible. An open data strategy would ideally include information on the open data governance structure and operating model.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                                                                                                                                                                                                                                                                                                                        ";;;;;;;
+;1.1 Policy framework;;;;;;;235
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+1;"Is there a national open data policy in your country and does this include a national legislation for the transposition of the Open Data Directive (if your country is an EU Member State)?
+
+For Justification:
+* If yes, please provide (1) the URL and (2) title of the policy document and briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"Yes, there is a data strategy in Sweden since October 2021, and in chapter 4 about ""Styrning, reglering och uppföljning"" (in eng. governance, regulations, and follow-ups) the transposition of the open data directive into national law is specifically outlined as a strategically important area. 
+LINK: https://www.regeringen.se/informationsmaterial/2021/10/data--en-underutnyttjad-resurs-for-sverige/
+
+However, the actual investigation preseeding the national law was handled as a separate process, so the data strategy could be said to point to that work in a supportive manner, rather than investigation being a part of the data strategy. 
+LINK to the government investigation: https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2020/09/sou-202055/
+
+2022 (vi kan ta bort detta tycker jag):
+Since 1th of August 2022, there is a new law in Sweden that fullfills the requirements layed out in the open data directive.
+The government is proposing a new law on making data from the the public sector available. The amendments to the law are proposed to enter into force on 1 August 2022  (https://www.regeringen.se/rattsliga-dokument/proposition/2022/04/prop.-202122225/)  The Swedish Government outlined  a broader national digitalisation strategy already 2017 (https://www.regeringen.se/regeringens-politik/digitaliseringsstrategin/) how the digitization policy should contribute to competitiveness, full employment and economic, social and environmentally sustainable development. The strategy outlines the importance of public sector information and open data as a fuel for digital innovation and new services, improved efficiencies and for our democratic and transparent society in Sweden. The information produced or collected in the public sector is an asset that is common to state and municipal authorities and society in general. By refining, compiling and using information in other ways, different actors can create new commercial and non-profit services and thereby provide the conditions for society to take advantage of the value that the information can have when used for purposes other than the authorities' own activities. Operators who want to re-use public information should, as far as possible, access data. The Government believes that it should be as simple as possible for as many people as possible to assimilate the value of this information collection. Authorities should actively strive to enable efficient re-use of public information to facilitate the emergence of an information market.
+
+To implement the  this strategy the Agency for Digital Government (DIGG) was established in September 2018 with the purpose to support digitalisation in public administration with infrastructure and shared digital services. DIGG are mandated to promote open and datadriven innovation, the re-use of public information. 
+
+Efforts supporting the strategy
+- DIGG is responsible for the national framework of Europeean Interoperability Framework (EIF) where ""open by default"" is one pillar, see q1. https://www.digg.se/utveckling-av-digital-forvaltning/svenskt-ramverk-for-digital-samverkan. 
+- DIGG is responsible for the national open data portal and the open data strategy with guidelines and recommendations incl API strategy and access and quality of standardised basic data, methodological support and guidelines.";The answer option 'Other' should be selected by countries that do not have a specific open data policy in place but have a national policy (on data, digitalisation, artificial intelligence, eGovernment or similar) that explicitly includes open data in its text and scope.;;;;30
+2;"Is there a national open data strategy in your country?
+
+For Justification:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"Yes, the national data strategy is called (translated to english) ""Data - an underutilized resource for Sweden: A strategy for increased access to data for e.g. artificial intelligence and digital innovation.
+
+Following the digitalization strategy from 2017  (https://www.regeringen.se/regeringens-politik/digitaliseringsstrategin/) there was a national data strategy published 2021 to increase the amount of data being published and used for innovation, AI-analyses etc. The aim of the data strategy is  strengthening welfare, competitiveness and a sustainable society. The strategy contains goals with timelines as: 1) All state administrative authorities that can streamline operations and simplify for companies and citizens with the help of shared data, AI and data-driven analysis must have started this work by 2025 at the latest. 2) Publicly funded research data must, where appropriate, be open and accessible by 2026 and 3)  Swedish companies should be leading players in the internal market for data in 2030. 
+LINK: https://www.regeringen.se/informationsmaterial/2021/10/data--en-underutnyttjad-resurs-for-sverige/";The answer option 'Not applicable' can be selected if e.g. there is no specific strategy in place, but the existing policy refers to the objectives, actions/measures to be implemented, delivery timelines, responsible etc. Should another explanation apply in your case, please provide it in the justification text box.;;;;30
+3;"Has this national strategy/policy been updated in the past 24 months?
+
+For Justification:
+* If yes, please briefly describe the main changes. ";no;;;;;;0
+4;"Is there any further open data policy/strategy at regional or local level?
+
+For Justification:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;"Yes, there are also other open data policies, for example the following:
+
+# The Swedish Environmental Protection Agency has a policy for ""smart environmental  information"" that includes strategies  for open data, see: https://www.naturvardsverket.se/om-miljoarbetet/smart-miljoinformation/strategi-for-miljodatahantering
+
+# The Land Survey agency is responsible for a strategy about geografical data which includes strategies for open data: https://www.lantmateriet.se/sv/webb/nationell-geodatastrategi/
+
+# The Sundsvall municipality has a digitalisation strategy that includes sections for open data and data as a strategic resource: https://utveckling.sundsvall.se/malbild-och-strategi/strategiska-omraden-for-att-lyckas-med-digitalisering
+
+# The Region Västra Götaland has a regional development strategy, and in the focal area ""Digitalisation"" (page 18), the importance of access to digital information that can be used freely is highlighted: https://www.vgregion.se/regional-utveckling/regional-utvecklingsstrategi/regional-utvecklingsstrategi/";;;;;10
+5;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For justification:
+If yes, please briefly describe the main measures described by the action plan.";yes;"Yes, the national datastrategy outlines six strategic areas, and in each strategic area there are a number of strategic efforts/action plan described. The national datastrategy has goals including the open data field for 2023-2025. These can be for example specific goverment assignments or other types of actions and described goals. In particular the following strategic sections are related to open data: ""Insatsområde 1: Ökad tillgång till data"" (in eng. Increased access to data), ""Insatsområde 2: Öppen och kontrollerad datadelning"" (in eng. Open and controlled data sharing), ""Insatsområde 3: Samverkan och kultur (in eng. Cooperation and culture), and ""Insatsområde 4: Styrning, reglering och uppföljning"" (in eng. Governance, regulations and follow-up).
+
+There are also policy documents from the Agency for Digital Government for example: https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/nationella-principer-for-att-tillgangliggora-information.";;;;;25
+6a;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For justification:
+* If yes, please briefly describe the measures.";No;UPDATED ANSWER:The values of dynamic data  and real time data are described in the datastrategy and the strategy outlines that the Agency for digital government shall outline measures. But the Agency of digital government has not received a governmental mission to actually follow up on the strategy or to outline measures based on the strategy. ;Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time). ;;"By dynamic data, we mean data that changes over time (see ""Guide to Answering""). Please describe the measures to incentivise the publication of real-time/dynamic datasets";;0
+6b;"Does the national strategy/policy outline measures to incentivise the publication of and access to geo-spatial data (e.g. in relation to high-value datasets as specified in the implementing regulation (EU) 2023/138)?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"Yes, geodata is a part of ""Focus area 1: Increased access to data"" in the national data strategy which will be measured. A lot of Geodata is fee-based in Sweden today, but it could change if they are regarded as High value datasets according to the implementation act for the Open data directive.";"Geo-spatial data is data that contains information on properties that are linked to a position on earth. 
+
+The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138";;;;15
+6c;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For justification:
+* If yes, please briefly describe the measures.";no;;Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;;;0
+6d;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For justification:
+* If yes, please briefly describe how.";yes;Yes, the national datastrategy states that metadata about datasets are to be shared through Sveriges dataportal which is shown on data.europa.eu.;;;;;10
+7;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"This is the goal of both the national strategy and the new datalaw implementing the Open data directive in Sweden. For example by increasing the amount of data. This will be measured in an annual  follow-up.There are also principles and guidelines from the Agency for Digital Government which include recommendations for increased interoperability etc which could be used for the follow-up, see:
+
+# https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/nationella-principer-for-att-tillgangliggora-information 
+# https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information ";These measures should promote concepts such as data-driven government, policy-making and decision-making.;;;;15
+8;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For justification:
+* If yes, please briefly describe the measures.";yes;"For example in the the goal for ""Increased access to data"" in the National data strategy:
+Goal: Access to data shared openly or controlled to increase continuously.
+In 2023, there must be shared data to meet prioritized societal challenges
+as well as within a majority of data areas defined in the EU's data strategy.
+The following areas are prioritized: priority societal challenges, European
+common data areas, areas with identified valuable data sets
+as well as areas where data is requested by e.g. business.";These measures could promote concepts such as smart cities and/or regions, but also new business development (in particular Small - and Medium-sized Enterprises), entrepreneurship etc.;;;;15
+9a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For justification:
+* If yes, please briefly specify.";yes;Yes, but indirectly since the data strategy points out the new open data law as an important step for achieving increased data sharing and data use, and the requirements related to maintaining a data inventory is regulated in that law. The Agency for digital government (digg.se) is responsible for holding the national open data inventory via the national dataportal (dataportal.se).;A data inventory is a comprehensive catalogue of datasets held by an organisation.;;;;15
+9b;"If yes [in Q9a], do these data inventories also include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For justification:
+* If yes, please briefly specify.";yes;The Swedish data portal (the national data inventory) is for both open data and for shared data.;The Data Governance Act (EU) 2022/868 seeks to increase trust in data sharing, strengthen mechanisms to increase data availability and overcome technical obstacles to the reuse of data. It also aims to support the set-up and development of common European data spaces in strategic domains, involving both private and public players, in sectors such as health, environment, energy, agriculture, mobility, finance, manufacturing, public administration and skills. The Data Governance entered into force on 23 June 2022 and, following a 15-month grace period, will be applicable from September 2023. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R0868;;;;10
+10a;"Has your country started working towards the application of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Justification:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.
+";yes;N/A;The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;"Kindy fill in the column ""Publications of HCD in machine-readable formats via APIs"" in the table below. This column was hidden in the original questionnaire. Sorry.";;;20
+;Categories of high-value datasets;;;Degree of progress (from 1 to 5);;;;
+;;Organisational progress;Legal progress ;;Technical progress ;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;
+;Geospatial;3;3;3;3;3;3;
+;Earth observation and environment;3;3;3;3;3;3;
+;Meteorological;3;3;3;3;3;3;
+;Statistics;3;3;3;3;3;3;
+;Companies and company ownership;3;3;3;3;3;3;
+;Mobility;3;3;3;3;3;3;
+10b;"Are there measures in place to assist other stakeholders’ involvement in this prioritisation process?
+
+For justification:
+* If 'yes, other measures', please specify which measures. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes, regular consultations;;Stakeholders could refer to open data reusers (business, civil society) or other actors that might not be direct reusers of the data (e.g. engaged or interested citizens).;;;;10
+10c;"Are the public bodies in your country progressing in denoting relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For justification:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;"The organisation in Sweden is decentralised and there is no national coordination for the implementation of the high-value datasets regulation, but The Agency for Digital Government (digg.se) have had webinars to inform the different organisations about the imlementation act and publishing legal support https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/information-om-oppna-datalagen/vardefulla-datamangder. The different organisations concerned have had meetings to discuss the implementation within the national digital infrastructure at Digg (Ena) in the ""competence area data""-network.";The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;;;;15
+11a;"Are the objectives/actions of the national open data policy/strategy in place in your country in line with one or more of the European Commission priorities for 2019-2024?
+
+For Justification:
+* If yes, which of the following six priorities and how?
+* Multiple answers are possible. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;N/A;Please find for reference the European Commission´s priorities for 2019-2024: https://commission.europa.eu/strategy-and-policy/priorities-2019-2024_en;;;;15
+;Priorities;Yes/No/NA;Action taken to align with the selected priority;;;;0;
+;"A European Green Deal
+Transforming the EU into a modern, resource-efficient and competitive economy, while preserving Europe’s natural environment, tackling climate change and making Europe carbon-neutral and resource-efficient by 2050.";Yes;Green mobility has been highlighted in the data strategy.;Example: Green mobility has been prioritised as high-value dataset.;;;0;
+;"A Europe fit for the digital age
+Embracing digital transformation by investing in businesses, research and innovation, reforming data protection, empowering people with the skills necessary for a new generation of technologies and designing rules to match.";Yes;The strategy explores how open data can be used to foster the digitalisation of public services.  ;Example 1: The strategy explores how open data can be used to foster the digitalisation of public services.                                                                                                                 Example 2: The strategy/policies foresee open data education projects to improve data literacy among citizens.;;;0;
+;"An economy that works for people
+Strengthening the EU economy while securing jobs and reducing inequalities, supporting businesses, deepening the Economic and Monetary Union and completing the banking and capital markets union.";Yes;One of the objectives of my country´s data strategy is to create economic value by stimulating new buiness opportunities.;Example: One of the objectives of my country´s open data policies/strategies is to create economic value by stimulating new buiness opportunities.;;;0;
+;"A stronger Europe in the world
+Strengthening the EU’s voice on the world stage by improving its standing as a champion of strong, open and fair trade, multilateralism and a rules-based global order. Boosting relations with neighbouring countries and partners as well as strengthening the EU’s ability to manage crises based on civilian and military capabilities.";Yes;The national data stratgy supports the flow of data to the European dataspaces.;Example: Gender inequality has been prioritised as high-value dataset.;;;0;
+;"Promoting our European way of life
+Upholding fundamental rights and the rule of law as a bastion of equality, tolerance and social fairness. Addressing security risks, protecting and empowering consumers, as well as developing a system for legal and safe migration while effectively managing the EU’s external borders, modernising the EU’s asylum system and cooperating closely with partner countries.";Yes;This is a fundament in Sweden and the Agency for Digital Government supports with  legal aid regarding the digitalisation area.;Example: Migration has been prioritised as high-value dataset.;;;0;
+;"A new push for European democracy
+Strengthening Europe’s democratic processes by deepening relations with the European Parliament and national parliaments, protecting EU democracy from external interference, ensuring transparency and integrity throughout the legislative process, as well as engaging more widely with Europeans in shaping the EU’s future.";Yes;One of the objectives in Swedens OGP-work is to increase transparency and facilitate public participation in policy debates.;Example: One of the objectives of my country´s policies/strategies is to increase transparency and facilitate public participation in policy debates.;;;0;
+11b;"Are there any other overarching objectives or specific actions of your country´s open data policy/strategy that you would like to mention?
+
+For justification:
+*  If yes, please specify. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;In 2022 the Agency for Digital Government proposed to the Swedish government that Sweden should join the IODC, and a government decision on this matter was made in mars 2023. Sweden is in the process of joining the IODC. https://www.regeringen.se/pressmeddelanden/2023/03/sverige-ansluter-sig-till-international-open-data-charter-data-fran-offentliga-forvaltningen-gors-mer-oppen-och-lattillganglig/;Example: Fight corruption,increase transparency in public administrations.;;;;N/A
+;1.2 Governance of open data;;;;;;;160
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+12;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For justification:
+*  If yes, please briefly explain how this participation is ensured. 
+* If you have a different way of ensuring the participation and/or inclusion of different stakeholders in your country, please select 'not applicable' and explain.";yes;The Agency for Digital Government (digg.se) is responsible for the open data portal and the national guidelines. All data owners are responsible for their open data quality and compliance, as well as how they include the users and other stakeholders in the publishing and re-using process. This relates also to the government responsiblity for government registers. ;;;;;30
+13;"What is the model used for governing open data in your country? 
+
+For justification:
+*  Could you briefly describe why this model was chosen/works best for your country?";hybrid;"The Swedish model is decentralised with government agencies, regional authorities and local municipalites. The federal government cannot give special assignments to municipalites so the model has taken into account for this, to rather use external government funding and incentives for the local/regional level.
+
+#The ministry assigns centrally funded projects and initiatives to speed up progress in selected areas/domains/sectors. 
+#Innovation agency funds and incentivives local and regional, and domain specific labs through government funding. 
+#However, since our open by default policy and there are many initiatives that are developed and pursued at local level with no central guidance, or as a part of business development. 
+
+We encourage local and sector-specific projects, however it is a challenge to coordinate all and drive them to publish the data so that it is visible through the national open data portal. To further incentivavives open data and data for innovation and AI development, Innovation agency Vinnova funds projects. Vinnova, The National Innovation Agency are financing and incentivising initiatives for open and datadriven innvotion incl establishment of open data labs, cubs and factories in each sector. Vinnova also promotes and finance civic-tech iniitatives for open data re-use and open innovation with open data. ";;;;;N/A
+14;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For justification:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";yes, all initiatives;"Yes, since the Agency for digital government (Digg) is responible for the national policies and guidelines for opening up data and other related recommendations (e.g. related to API development), as well as for the national data portal (including services for harvesting data to the dataportal), local, regional and national open data initiatives can use this support structure for their work. 
+In 2023, Digg will also launch a shared metadata catalogue to further increase the support to public organisations, in particular those with less resources for developing or holding a data catalogue on their own. This is part of Diggs supports related to requirements in the new open data law (from 2022) that states that public organisations are required to share metadata about data that is made open at the national dataportal.  
+
+Furthermore, Vinnova, The National Innovation Agency are financing many initiatives for open and datadriven innvotion incl establishment of open data lebs and factories. But naturally there are a lot of open data initiative that are locally funded also. ";;;;;20
+15;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For justification:
+* If not applicable, please explain why.";approximately half of the public bodies;"There are some bigger initiatives, as for example: 
+
+# https://www.vgregion.se/ov/dataverkstad/
+# https://www.ri.se/sv/vad-vi-gor/projekt/smart-city-lab-kommunernas-stodfunktion-for-datadriven-utveckling
+# https://www.vinnova.se/p/databeredskapsverkstad/";By initiatives we mean policies, strategies or portals that focus on the respective local/regional level.;;;;10
+16;"Are the governance structure and its operating model (including the people and the team responsbile for open data activities) published online and accessible to the public?
+
+For justification:
+* If yes, please provide the URL where this information is published. ";yes;"Not on a detailed level but to contact-points and the people in charge: 
+
+# The Ministry of Finance is responsible for the open data area on a government level: https://www.regeringen.se/regeringens-politik/digitaliseringspolitik/ 
+
+# The Agency for digital government is responsible for providing support for open data and for holding the national open dataportal.
+https://www.digg.se/kunskap-och-stod/oppna-och-delade-data
+https://www.digg.se/om-oss/kontakta-oss
+https://www.dataportal.se/sv/om-oss ";;;;;20
+17a;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For justification:
+* If yes, please provide the URL where this information is published. ";no;;;;;;0
+17b;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Yes, the two teams (Government offices of Sweden and Agency for digital government) are working together both regarding more strategic questions e.g. having a dialogue about future government assignments or handling questions related to making prioritisations during on-going government assignments. Also, the two teams are co-hosting seminars, e.g. with civil society organisations. Moreover, the government team have been participating in the creation of digital educations that Digg (Agency for digital development) is responsible for, e.g. by recording videos about the national datastrategy and high-value datasets. ;;;;;20
+18;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For justification:
+* If yes, please describe how this task is fulfilled at public body level.";yes;"There are no requirements outlined at a national level for the appointment of e.g. open data officers, but the National Agency for digital government (Digg) recommends the appointment of a person per organisation that is responible for the coordination and organisational specific strategies related to open data. See https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information#h-Organiseraarbetetmedtillgangliggorande
+
+Information and data stewards for data are mandatory according to legislation but this is primarly from a GDPR perspective. See https://www.imy.se/verksamhet/dataskydd/ ";;;;;20
+19;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers? 
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Yes there is, although the ways in which is done varies depending on what government assignments are running or which networks or projects exists. At regular basis, knowledge exchange is carried out at public seminars such as ""Digg Forum"" (https://www.digg.se/kunskap-och-stod/evenemang/digg-forum), the seminars provided by NOSAD (https://nosad.se/workshops), and by discussions at the open community connected to the national dataportal (https://community.dataportal.se/).
+
+At the moment there is active and regular exchange of knowledge between the open data team at Digg and ""open data officers"" in e.g. the following projects/government assignments: 
+
+# A government assignment that relates to ""SKILLS"" actors and aims to increase the amount of open data from this sector.
+See https://www.regeringen.se/regeringsuppdrag/2021/06/uppdrag-att-utveckla-en-sammanhallen-datainfrastruktur-for-kompetensforsorjning-och-livslangt-larande/
+
+# The project ""National dataverkstad"" which is a stately funded project aiming to support regions and municipalities in open data sharing and use. This project is often used for proof-of-concepts related to Diggs development of recommendations, educations and other types of support, but also for identifying specific needs at local level. See https://www.vgregion.se/ov/dataverkstad/.
+
+# The project ""Smart city lab"" which is a statly funded project driven by the research institute RISE, and which aims to support municipalities in progressing IoT use, including data sharing. This has led to the co-creation of support related to MIMs. See https://www.ri.se/sv/vad-vi-gor/projekt/smart-city-lab-kommunernas-stodfunktion-for-datadriven-utveckling";;;;;20
+20;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For justification:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Yes, in multiple ways : 
+
+# At the national data portals open community there is continuous and on-going discussions between open data users and open data providers. See: https://community.dataportal.se/
+
+# NOSAD; a network established bty The employment ageny, Agency for digital government,  The Internet foundation invites to knowledge exchange through seminars, discussion forums etc.  See: https://www.nosad.se/
+
+#Within geodata- domain we have Geodata counsil and Geodata forum for the geodata community, stakeholder that hold the regular events for access and quality to geodata  https://geoforum.se/tidigare-motesplatser 
+https://www.geodata.se/om/geodataradet/
+
+#Vinnova community for datalabs and data factories: regular networking and meetinge for knowledge exchange https://blogg.vinnova.se/
+
+#Within Satellite data domain we have Copernicis-space data network to discuss access and re-use.  ";Exchanges can take place via formal formats (e.g. round-tables, conferences) or less formal formats (e.g. meet-ups).;;;;20
+;1.3 Open data implementation;;;;;;;152
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+21;"Do data publication plans exist at public body level?
+
+For justification:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"Yes, but depending on the open data maturity of the organisation, these publication plans can differ in extent and level of detail. Our assessment is that the municipalities (290 in Sweden), since many of them are rather small and lack resources, are those with the biggest challenges to come up with a data publication plan. We know that many organisation do have some sort of plan, however, not available online. 
+
+The project ""Nationell dataverkstad"" (in eng. National data workshop) helps Regions and municipalities with the on-boarding process, which includes coming up with a plan for publishing data as open data. At the moment, 10 regions (including many of their municipalities) have joined the project. In Sweden we have 21 regions, so the aim of the project is to get the 11 other regions to joins during 2023. 
+Link: https://www.vgregion.se/ov/dataverkstad/
+
+For the research community, the Swedish Research Council has a data publication plan online: https://www.vr.se/uppdrag/oppen-vetenskap/oppen-tillgang-till-forskningsdata/datahanteringsplaner.html";For data publication plans we refer to the existence of a specific workflow or internal data management process for publication of datasets. ;;;;20
+22a;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For justification:
+* If yes, please specify the process(es).";Yes;"UPDATED ANSWER:
+This part is still valid:
+""There is a structured way of monitoring the digitalisation strategy, see https://www.digg.se/analys-och-uppfoljning/publikationer/publikationer/2022-09-22-uppfoljning-av-statliga-myndigheters-digitalisering-2021 Regarding the data strategy from 2021, the Agency for digital governement is monitoring this  in connection with  supporting public organisations in their work of implementing the strategiy and in connection with the work with for example national base-data https://www.digg.se/ledning-och-samordning/ena---sveriges-digitala-infrastruktur/nationella-grunddata.""                    
+
+The onfollowing part (se below) is, sorry to say, not relevant since Digg never recieved an assignment from the government office to deliver the action plan mentioned in the national data strategy,: ""With the new action plan 2023 this will be taken further into a structured plan and there will also be indicators for these areas which may be included in the digitalisation report.""";;"Last year an answer discussing the structured way of monitoring the digitalisation strategy was provided. Is this still relevant? ANd does it relate to open data?
+
+""There is a structured way of monitoring the digitalisation strategy, see https://www.digg.se/analys-och-uppfoljning/publikationer/publikationer/2022-09-22-uppfoljning-av-statliga-myndigheters-digitalisering-2021 Regarding the data strategy from 2021, the Agency for digital governement is monitoring this  in connection with  supporting public organisations in their work of implementing the strategiy and in connection with the work with for example national base-data https://www.digg.se/ledning-och-samordning/ena---sveriges-digitala-infrastruktur/nationella-grunddata. With the new action plan 2023 this will be taken further into a structured plan and there will also be indicators for these areas which may be included in the digitalisation report.""";;;15
+22b;"If yes, would you describe the status of implementation as satisfactory/neutral/unsatisfactory? 
+
+For justification:
+* Please motivate your answer.";Unsatisfactory;"""The national data strategy (link in Q2) states that the Agency for digital government (Digg) should provide a yearly action plan, including indicatators for monitoring the strategy (see """"Insatsområde 4 - Styrning, reglering och uppföljning""""), but no such mandate or mission has yet been given to the agency. 
+
+This might be explained by the fact that Digg received a government mission in June 2021, an couple of months before the national data strategy was released (in October 2021). So even if the national data strategy did point to Digg for the action plan related to the national data strategy, that assignment was not part of Diggs mission in June 2021. And there has been no additional assigments or instructions to Digg after that. """;;;;;N/A
+23a;"Are there any processes in place to asses if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the re-use of public sector information).
+
+For justification:
+* If yes, please specify the process(es).";no;;;;;;0
+23b;If yes [to Q23a], to what degree is data provided by public sector bodies free of charge?;the majority of datasets;N/A;;;;;12
+23c;How has this degree changed compared to the previous year?;no change;N/A;;;;;5
+24a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For justification:
+* Please briefly describe.";N/A;"1. Finance. There are still several Agencys in Sweden charging for datasets (this is included in their instruction). Hopefully the implementation of HVD will change this. 
+2. Organisation. Sweden is very decentralised organisationally and this is complicated when it comes to responsibility for datasets. 
+3. Prioritisation. How to make the organisations prioritize publication of open data when the policies are mostly recommendations and not ""must-do-laws"".";;;;;N/A
+24b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For justification:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to cope with these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"2022:
+1. Connected to the implementation of HVD. 
+2,3. The Agency for Digital Government is working with different activities to address these challenges for example working with one of the regions in a project on datasharing https://www.vgregion.se/dataverkstad  and collecting good examples to be published at Sveriges dataportal.
+3. The Agency for Digital Government is working with a data ambassador program to raise awareness about data sharing.";;;;;10
+25a;"Are there any activities in place to assist data providers with their open data publication process?
+
+For justification:
+* If yes, please describe/provide examples of these activities.";yes;"Yes,  the the Agency for Digital Government (Digg) are working in a number of to support data providers in their data publications process, such as: 
+
+# Digg has a package of principles and recommendations related to open data sharing. See https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer. This support package was extended in Nov 2022 with new guidelines related to the procurement of data in order to improve the long-term possibilities for data to e.g. be relased as open data and in machine readible formats. See https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/rekommendationer-for-upphandling-av-data. In april 2023 additional support to these guidelines in the form of text examples of requirements to use in the procurement process was released.
+
+# Digg funds the regional project Nationell Dataverkstad (described in Q 24b) and has personel working in the project. 
+
+# During 2022, Digg has been engaged in a lot of activities related to the National data strategy and a government assignment related to open data sharing. https://www.regeringen.se/regeringsuppdrag/2021/06/uppdrag-att-framja-delning-och-nyttiggorande-av-data/ . The final report can be found here: https://www.digg.se/analys-och-uppfoljning/publikationer/publikationer/2023-01-31-slutrapport-uppdrag-att-framja-delning-och-nyttiggorande-av-data
+
+# Digg has launch a new education called ""Dataambassadörsprogrammet"", which is targeted to employees within public sector and aims to raise the general knowledge level about open data, how data can be shared, and what the benefits are. See https://www.digg.se/om-oss/nyheter/nyheter/2023-02-21-digg-lanserar-dataambassadorsprogram-for-att-stodja-arbetet-med-oppna-data 
+
+# Digg is currently developing a new tool called (in eng.) ""Shared metadata catalogue"" that aims to support public actor that don't have their own metadata catalogue in place. This can lower the threshold for getting started with sharing data. This will be lauched during 2023. 
+
+
+";E.g. a task force/agency that is in charge of promoting and assisting the data publication process at national and/or regional and local levels (where applicable).;;;;15
+25b;"Are there activities to assist real-time and/or dynamic data holders in their publication process?
+
+For justification:
+* If yes, please provide some examples of such activities.";yes;"The Agency for Digital Government (Digg) has a recommended REST API profile as well as an API Playbook with additional support and recommendations. See https://dev.dataportal.se/ 
+Also, at the national dataportal, integrated tooling for exploring API:s (Swagger) has been implemented, see an example here (the ""Utforska API"" button): https://www.dataportal.se/sv/datasets/180_7079/taxonomi-api#ref=?p=1&q=taxonomi&s=2&t=20&f=&rt=dataset%24esterms_IndependentDataService%24esterms_ServedByDataService&c=false
+
+Digg has also more recently started a work with producing information and recommendations on how to work with MIMS (Minimal Interoperability Mechanisms) in dialogue with the organisation IoT Sverige and a project called Smart City Labs within the RISE research institute. 
+See information on MIMs: https://oascities.org/minimal-interoperability-mechanisms/
+See also https://iotsverige.se/ and https://www.ri.se/sv/vad-vi-gor/projekt/smart-city-lab-kommunernas-stodfunktion-for-datadriven-utveckling
+
+Also, Smart City Lab is connected to another project called ""Nationell dataverkstad för regional och kommunal datadelning"" (in eng. National data  workshop for regional and municipality data sharing) that operatively supports county regions and municipalities getting starting with open data. Here Smart City Lab engages in knowledge sharing and support related to IoT data. Digg has partly funded Nationell dataverkstad. See https://www.vgregion.se/ov/dataverkstad/";Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time).;;;;10
+25c;"Are there activities to assist geo-spatial data holders in their publication process?
+
+For justification:
+* If yes, please provide some examples of such activities.";yes;"Yes, the  Swedish mapping, cadastral and land registration authority (Lantmäteriet) hosts a national geodata portal and also provides support for data publication specifically for geodata actors, see https://www.lantmateriet.se/sv/geodata/Geodataportalen/publicera-geodata-och-tjanster-i-geodataportalen/
+
+Also, Lantmäteriet is responsible for developing a number of geografical datasets into basic data as part of a national initiative called ""Ena - Sveriges digitala infrastruktur"" (in eng. The digital infrastructure of Sweden) driven by the Agency for digital government. See https://www.digg.se/ledning-och-samordning/ena---sveriges-digitala-infrastruktur and https://www.digg.se/ledning-och-samordning/ena---sveriges-digitala-infrastruktur/nationella-grunddata
+Lantmäteriet is currently working with investigating the requirements related to high-value datasets and how that will affect various data providers of geodata. ";Geo-spatial data is data that contains information on properties that are linked to a position on earth.;;;;10
+25d;"Are there activities to assist citizens or their working organisations in the publication of citizen-generated data?
+
+For justification:
+* If yes, please provide some examples of such activities.";yes;"Yes, some Swedish agencies use citizens generated data as a method for collecting different data, e.g. the inventory of animals and plants. See some examples below: 
+
+# The Swedish Board of Agriculture initiates ""citizen scientist"" to locate vermins in gardens, see https://www.mynewsdesk.com/se/jordbruksverket/pressreleases/medborgarforskare-ska-leta-skadegoerare-i-egen-traedgaard-3075773
+
+# The Swedish University of Agricultural Sciences regularly engages citizens in the inventory of plants through their ""Artportal"". See also a news article about this. https://www.artdatabanken.se/hjalpa-till/rapportera-fynd-av-arter/
+
+# Gothenburg University hosts a national platform for citizens science that provides tools and some resources, and citizens can add their own data collection project. See a news article https://www.gu.se/nyheter/nationell-webbportal-samlar-all-medborgarforskning, and the actual portal https://medborgarforskning.se/ 
+
+# The National Veterinary institute regularely engages citizens in collecting various types of data, such as reports on dead wild animals, and at the moment they've just launched a new data collection effort about sigthings of ticks: https://www.sva.se/aktuellt/pressmeddelanden/ny-insamling-rapportera-din-fastingbild-till-sva/ "; Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;;;10
+26a;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For justification:
+* If yes, please briefly describe these training activities.";yes;"# The Agency for digital government (Digg) launced a new education program called ""Data ambassadors"" in feb 2023, aiming to provide a basic education on open data and the process for releasing data. At the moment we have about 120 registrered participants from a broad range of different public actors, e.g. municipalities, county regions, public agencies and bigger organisations that work for the public sector.
+See https://www.digg.se/om-oss/nyheter/nyheter/2023-02-21-digg-lanserar-dataambassadorsprogram-for-att-stodja-arbetet-med-oppna-data
+
+# The Swedish Authority for Privacy Protection (IMY) provides two basic courses about GDPR. In 2023 these courses are planned to run in the autumn. This year they also arranges a conference called ""Dataskyddet 50 år"" (in eng. Data protection 50 years). For both, see https://www.imy.se/om-oss/utbildningar-och-konferenser/ 
+
+# The Swedish Civil and Contingencies Agency (MSB) provides a range of educations related to information security, among them a basic course in digital information security called DISA. See all courses in information security: https://www.msb.se/sv/utbildning--ovning/alla-utbildningar/?subject=132&sortOrder=Alphabetic
+
+# The Agency for digital government (Digg) regularly provids information about the work and support for the digitalisation of public sector at a monthly forum called Digg Forum, e.g. information about the progress of high-value datasets and information about new guidelines related to procurement of data (see also link in question 25a). The information is recorded and can be accessed at https://www.digg.se/kunskap-och-stod/digg-play.";Ideally such trainings are organised in the frame of the professional development programmes for civil servants and address both data literacy and skills.;;;;15
+26b;"If yes [to Q26a], do these training activities offer a certification that is formally recognised? 
+ 
+For justification:
+* If yes, please briefly describe.";yes;"The education ""Data ambassadors"" gives a formal certificate in the form of a diploma after a finished course (see 26a).";;;;;10
+27a;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond public servants? 
+ 
+For justification:
+* If yes, please provide a few examples (e.g. title, date, location of the event and URL).";yes, >9;"Yes, there are events arranged by the Agency for Digital Government (Digg), as for example information about the new datalaw https://www.dataportal.se/sv/nyheter/15/digg-bjuder-in-till-informationstraffar-om-den-foreslagna-datalagen and events arranged by Network Open Sourcce and Data https://nosad.se/ 
+
+Since Feb 2023, we also have a new education programme for employees within public sector called ""Dataambassadörsprogrammet"" (in eng. Programme for data ambassadors) that teaches the basics of open data, the most important aspect of the new open data law, as well as important aspects of the benefits of open data use. As a participant, you also gain access to educational material that can be used by the participants in their own work with spreading the word of open data in their own organisation. At the moment we have about 120 registrered participants from a broad range of different public actors, e.g. municipalities, county regions, public agencies and bigger organisations that work for the public sector. See https://www.digg.se/om-oss/nyheter/nyheter/2023-02-21-digg-lanserar-dataambassadorsprogram-for-att-stodja-arbetet-med-oppna-data";;;;;20
+27b;"Who organises most open data related events?
+ 
+For justification:
+* Please provide a few examples of typical organisers.";national public bodies;"The Agency of digital government arranges open data related events in cooperation with a range of other actors, e.g.:
+- The project ""Nationell dataverkstad"", see https://www.vgregion.se/ov/dataverkstad/. This project focuses on supporting county regions and the municipalites the are located in each county region, with a particular focus on enabling cooperation related to open data release. 
+- The event and knowledge plattform NOSAD, see https://nosad.se/. NOSAD specializes in promoting open data and open source. 
+- The Swedish government, for exemple a seminar for civil society organisations as part of the preparations for Sweden joining the IODC framework. ";;;;;N/A
+;Dimension 2: Open Data Impact;;;;;;;505
+;"Assessing the impact of open data is still generally considered a new field, with no consensus, for example, on the definition, or methodologies to measure impact. Nonetheless, there are several elements that are considered essential to demonstrating impact, such as monitoring and measuring the reuse of published open data. Given this, the impact dimension in this questionnaire tries to capture the extent to which countries have been making progress in monitoring the reuse of open data and based on that, in measuring the impact of open data on specific governmental, societal, environmental, and economic challenges of our time. Countries are encouraged to provide, whenever possible, examples of reuse for each impact area/topic. Yet, please note that data.europe.eu does not consider the availability of reuse examples as a direct evidence of impact.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                                                                                                                         ";;;;;;;
+;2.1. Strategic awareness;;;;;;;145
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+28;"Do you have a definition of open data reuse in your country?
+ 
+For justification:
+* If yes, please specify it.";yes;"Re-use: To use information for a purpose other than that for which it was originally produced. 
+SOURCE: https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information ";;;;;10
+29;"Is there interest at national level to observe the level of reuse of open data in your country?
+ 
+For justification:
+* If yes, what activities/efforts have you observed within public bodies that support your observation?";Yes, there is a strong focus;"Yes, the majority of public bodies that start publish their data and are in contact with Digg (Agency for digital government) in that process want to know how the data is being used. Among the more immature actors (related to providing open data), the pre-knowledge of the different ways that data can be used, including the benefits for public bodies themselves to use data, can still be considered rather low even if the interest of re-use effects are increasing. These actor search for general information about re-use. Among more mature organisations, the interest for the level of re-use is more focused on the kind of re-use and effects of data in various application areas, such as AI and sustainable development. 
+Here are some observations: 
+-	In most open seminars related open data it is common to get questions related to understanding the nature and levels of re-use of data. Particularity for data providers, the issue of ""what´s in it for us?"" is still very common.
+-	Last years government assignment to DIGG was partly focused on supporting the understanding and ability among public actors to create results and benefits by using open data. This was based on identified needs related to re-use.
+-	The Agency for digital government has started to explore possible solutions to measure the levels of re-use of data at various public organisations. 
+-	When discussing the emergence of more detailed specifications of high value datasets (from EU), the question of expected levels of re-use of these datasets are vivid.";"With 'national level' we refer to either central government, federal government, or top ministries.
+Examples of such activities could be regular information sessions and/or promotion of published data at conferences and other events. ";;;;15
+30;"Are there any processes in place to monitor the level of reuse of your country's open data, for example via the national open data portal?
+ 
+For justification:
+* If yes, please briefly describe these processes and provide the URLs to support the answer.";yes;"The monitoring of the re-use levels is performed in number of different ways:
+
+# Qualitative but unstructured information about re-use is collected at networking events, seminars, meetings and from various social media platforms. 
+# In the community related to the Swedish data portal, there is also a special category for sharing examples of re-use. SOURCE: https://community.dataportal.se/topic/325/om-denna-kategori   
+# At the national data portal, we also monitor the download statistics at regular basis. Most data providers have some sort of monitoring of at least download statistics, although the method can differ.
+
+In the autumn of 2022 Digg lead a studentproject for 10 weeks that aimed at investigating what technical and organisational options and scenarios are available for developing methods for automatic measurement of open data re-use in terms of gaining access to e.g.download data and data on number of API calls from dataproviders. The goals was also that this could enable the developement of a dashboard functionality on re-use. We are aware that API calls and download statistics is not a full clarification of re-use, but rather a component for understanding re-use that needs to be further contualized with more qualitative stories on re-use. ";;;;;20
+31;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For justification:
+* If yes, please briefly describe these activities/incentives and provide the URLs to support the answer. ";yes;"The Agency for digital governance (Digg) has a guide for how data should be relased as open data, and part of that guide is a particular section about user dialogue, re-use monitoring and continuous improvements of the released datasets. See https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information#h-Framjaanvandardialogochforvaltning 
+
+Also, in the work that is carrid out in the project ""Nationell dataverkstad"", which is partly financed by Digg and aims to support county regions and municipalities in their data sharing, the participants is continuously reminded that it is important to monitor the re-use of their datasets in order to improve the datasharing in various ways. See https://www.vgregion.se/ov/dataverkstad/";Incentives could for example be training, financial incentives, or awards.;;;;20
+32;"Is your country progressing in preparing to monitor and measure the level of reuse of high-value datasets following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+ 
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";Yes;"UPDATED ANSWER:
+We are evaluating DCAT for high-value datasets to be able to distinct those from other datasets in the Swedish dataportal, more specifically in the search function at the Swedish dataportal. There was no assignment to Digg for an actionplan related to HVD (as already mentioned in  22a). But with the ability of distinction in place, it will also be possible for us to mark and monitor provided re-use cases of high-value datasets.";The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138;"Has any progress been made on the answer provided last year?:
+
+""we are in a discussion phase for an action plan regarding the handling of the high-value datasets, and one part of that is the monitoring and measuring of the re-use of these datasets. 
+More broadly, we are also investigating structured processes to measure all open data re-use by collecting data of the level and number of users downloading data from data providers web sites. Also, we are also investigating ways to more structurally collect voluntary stories about the re-use of open data. """;;;15
+33;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For justification:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"Yes, in the national data strategy from 2021 the impact of open data is described as positive effects on society driven by data, more specifically something that strengthens the welfare of society, research and the private sector. 
+The data strategy: 
+SOURCE: https://www.regeringen.se/informationsmaterial/2021/10/data--en-underutnyttjad-resurs-for-sverige/
+
+Moreover, as assigned with responsibility to foster the open data movement in Sweden, in 2020 the Agency for digital government (DIGG) described open data impacts as the following areas:
+1) overall economic benefits (e.g. referring to the HVD-analys from 2020)
+2) new innovative services and products
+3) a data driven knowledge society
+4) A more efficient and innovative public administration
+5) the growth of data journalism
+6) research with new possibilities
+7) a resource for AI. 
+
+See information about DIGGs description on impacts in Swedish: https://www.digg.se/kunskap-och-stod/oppna-och-delade-data 
+
+In addition to the highlighted areas of impact, potential data users were also categorized based on identified need of data and general characteristics: 1) information driven users, 2) development driven users, 3) organisation improvement driven users, and 4) analysis driven users. See information about data users: https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer
+
+Moreover, in the new education called (in eng.) ""Data ambassadors"", an elborated and extended version of the above listed impacts are used to raise the awareness of impacts of open data re-use in a particular section of the education. See https://www.digg.se/om-oss/nyheter/nyheter/2023-02-21-digg-lanserar-dataambassadorsprogram-for-att-stodja-arbetet-med-oppna-data";;;;;20
+34;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For justification:
+* If yes, please briefly describe the key points of this methodology.";yes;"Yes, although it is not a single methodology but rather the accumulation of several processes.
+
+# At a national level, the Agency for digital government (DIGG) is both pushing the importance of a user driven opening up process and user dialogues, as well as the importance of collecting the insights about the impacts of re-use through seminars, national projects for escalating open and shared data, dialogues/networking with public organisations releasing open data, and having a presence in related social media groups. 
+
+# DIGG is also hosting a project about basic data, which focuses on both data that can be fully open and data that can be shared only within public sector, which gives additional insights into these re-use impacts. 
+
+# At local level, the processes for estimating the impact of re-use are set up by public bodies at their developer portals, open registries/databases etc. Most public bodies that have an API strategy measures the re-use as well as have web analytics on their websites.";With methodology we refer to practices, frameworks, methods developed/employed, regardless of their maturity level.;;;;30
+35;"Are there studies that have been conducted in the past year that focus on assessing the impact of open data in your country?
+
+For justification:
+* If yes, please provide examples and the URLs to such studies to support your answer.";no;;;;;;0
+36;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For justification:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"The Agency for digital government (DIGG) participates in a knowledge network called NOSAD (Network Open Source And Data) that enables dialogue between various actors in society, among them civil society, academia, private sector and public organisations. The larger aim is to incentivise actors to join the open movement by data and code, and to learn and work towards open data impact. www.nosad.se 
+
+Also, several other initiatives works to create open data impact, e.g.:
+# The Civic Tech Sweden organizes people that advocates for more open data and does that in three different themes; 1) Power to the people (a democracy and transparency perspective), 2) Sharing is caring (collaborative economy, common resources and sustainable development), and 3) I like to move it (focus on transports and mobility). Read more on: https://civictech.se/en/ 
+
+# Open Knowledge Sweden works in a number of areas aiming to spread knowledge about open data and increase impact of re-use.
+https://okfn.org/network/sweden/";;;;;15
+;2.2 Measuring reuse;;;;;;;100
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+37;"Have any public bodies in your country launched or performed any activities in the past year to map which and how (open) datasets are reused?
+
+For justification:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;;;;;40
+;Type of activity;Mark relevant activties below;Brief description;;;;0;
+;Analysis of log files;Yes;"# The Swedish Public Employment Service do regular analysis of their log files of data use, see report from mars 2023: https://data.arbetsformedlingen.se/expediering/Arbetsformedlingen-JobTech_Statistik_Opendata-2023-03-01.pdf
+
+# Södertälje municipality regularly analysis download statistics and API calls from their open data web page: https://www.sodertalje.se/kommun-och-politik/for-medborgare/oppna-data/ (also available at dataportal.se)
+
+# At the national data portal, we also monitor the download statistics at regular basis, e.g. for use in reports on government assignments, such as: https://www.digg.se/analys-och-uppfoljning/publikationer/publikationer/2023-01-31-slutrapport-uppdrag-att-framja-delning-och-nyttiggorande-av-data 
+
+# Most data providers have some sort of monitoring of at least download statistics, although the method can differ, e.g. Gävle municipality are measuring download statistics as a measure for open data re-use.";;;;0;
+;Automated feedback mechanisms tracking users´ access to datasets;No;;;;;0;
+;Surveys;Yes;# DIGG is measuring the awareness of open data re-use among public sector actors as part of a national survey on the status of public sector digitalization. See section 5.4 in https://www.digg.se/analys-och-uppfoljning/publikationer/publikationer/2023-03-01-digitala-sverige-2022;;;;;
+;Interviews/workshops with reusers;Yes;# DIGG is regulary performing usability tests on the national dataportal with open data users, including investigating their need of data.;;;;0;
+;Other;Yes;# Large public agencies that has special government assignment for acting as data providers monitors the re-use of the open data as part of their reporting to government. However, we do not have information on exactly what activities they are undertaking to do this. ;;;;0;
+38;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers´needs?
+
+For justification:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;;;;;40
+;Type of activity;Mark relevant activties below;Brief description;;;;0;
+;Regular feedback sessions with portal users ;Yes;# DIGG regularly performs usability tests with data users on the Swedish dataportal in order to understand the need for both functionality and data.;;;;0;
+;Social media sentiment analysis ;No;;;;;0;
+;Other;Yes;"# The community connected to the Swedish dataportal has a special section where data users can describe their need of data. SOURCE: https://community.dataportal.se/category/1/efterfr%C3%A5ga-data-och-api-er
+";;;;0;
+39a;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For justification:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";Yes;"The Agency for Digital Government (DIGG) urges open data enables open data users to share their story on open data in the community connected to the Swedish dataportal, aiming both to create valuable insights for DIGG and for other open data user and data publishers.  https://community.dataportal.se/topic/470/om-kategorin
+
+We are also currently in a process to improve a betaversion of the national dataportal (https://beta.dataportal.se/) from an UX perspective, and one of the top priorities is to clarify an area for re-use cases, so this will be available later this year. ";;;;;20
+39b;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For justification:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";I don't know;;;;;;0
+;2.3 Created impact;;;;;;;260
+;2.3a Governmental impact;;;;;;;60
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+40;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country? 
+
+For justification:
+* If yes, please specify what kind of data proves this impact and provide the URLs to this data.";I don't know;;"The governmental impact is hereby defined as the beneficial effect of the use of open data on three specific challenges faced by the government/public administrations: 1) Being efficient and effective in delivering public services; 2) Being transparent and accountable in their actions; 3) Improving their capacity to make decisions and policies.";;;;0
+41;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Yes, we estimate impact from open data on efficiency and reduction of operational costs within the government. Some examples:  
+
+# The Swedish government is using their own open data (via API's) as source for much web information which reportedly have increased the efficiency of their web services.
+
+#  The company Norsk Luftambulanse Teknologi uses open weather data from SMHI (the Swedish Meterological Institute) as a basis for a service that provides support for community/socity crucial aircrafts. This service (and thus also the open data) is then used by ""Svenskt Ambulansflyg"" (in eng. Swedish air ambulance), an organisation owned by all 21 Swedish regions, uses open weather data from SMHI (the Swedish Meterological Institute) to plan their transports of hospital patients.
+See: https://norskluftambulanse.no/
+See: https://www.svenskt-ambulansflyg.se/verksamhet/fkc-koordinering-av-flyg-och-medicin/
+
+# Lantmäteriet (the Swedish geodata agency) reports that laser scanned data of forests, in the form of open data, is widely used, e.g. by the Swedish forest agency which is updating their services with the help of this open data. https://www.skogsstyrelsen.se/skogligagrunddata ";;;;;15
+42;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Yes, we can see that open data has an impact on transparency and accountability in Sweden, although the impact om finding major corruption has not been that evident. See examples below:
+
+# Data journalists at public television have investigated Sweden's uncertain curves. They have found gaps in the Swedish Transport Administration's work with traffic safety on the Swedish roads. SVT's mapping shows that at least 15,800 curves cannot be rounded safely if you drive at the posted speed.                                                                                                                                                            SOURCE: https://www.svt.se/datajournalistik/sveriges-osakra-kurvor/ 
+
+# A number of municipalities have recently opened up their invoice information aiming to increase transparency and accountability, e.g.  Trolhättan city, Gothenburg city, Södertälje municipality and Umeå municipality. In Gothenburg you can find invoice information and e-service to order a screen shot on the actual invoice. This information is known to have an impact on transparency related to public procurement and supplier relations. Here are exemples of some of the most recent:
+LINK Trollhättan: https://www.dataportal.se/sv/datasets/47_3729/leverantorsfakturor-2023
+LINK Gothenburg: https://www.dataportal.se/sv/datasets/66_73461/leverantorsfakturor-for-2023
+LINK Södertälje: https://www.dataportal.se/sv/datasets/75_4979/leverantorsreskontra-2023
+LINK Umeå: https://www.dataportal.se/sv/datasets/43_47483/leverantorsfakturor-2023
+
+# The Riksdag's open data increase transparency about what elected representatives do during the term of office, what positions they hold, what committees they sit on, how they work with bills and motions and how they vote. This data is used by journalists, both the already open data and as a mean to enlighten which data is missing. A recent article high-lighted that some politicians hadn’t reported their total income correctly and argued efficiently for more and better open data on the topic. As a result, some politicians have now corrected their income reports in the official databases. 
+SOURCE: https://www.svt.se/nyheter/granskning/ug/sa-mycket-tjanar-partiledarna-se-hela-listan?fbclid=IwAR3swS8rUnfE9gAXI03QVGCQJ694KJXb4T4RhFAgrHrNpwggsTMOI6XBITk ";;;;;15
+43;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Yes, open data is used in policy-making processes in a range of different ways. Most common is open data used as indicators and foundation for further analyses within different policy areas, such as on equality, societal aspects, equality, gender/wage gaps, macro/micro economics, demographic trends, environment, traffic accidents, labour market and work environment etc, the list can be long. Selected government agencies also have the government mandate and task to serve the society and the public bodies with information/data, e.g. mobility, environment, geological, earth observation, forestry, traffic, climate/weather, maps/geodata, real estate and more than 20 government agencies that are responsible for official statistics in a number of different domains etc. 
+
+Examples: 
+
+# The news outlet ""iSkogen"" (in eng. In the forest) has compared data from sthe Swedish Forest Agency with satelite data used in a Nature research article in order to elaborate on a commonly critized research results with the capacity to influence policies on deforestation. 
+The news article: https://iskogen.se/skogsbruk/avverkningsniva-jrc-svensk-laserdata/ 
+Dataset used: https://www.skogsstyrelsen.se/sjalvservice/karttjanster/skogliga-grunddata/ 
+
+# The Swedish Environmental Institute (IVL) utilyses data from e.g. Statistics Sweden and The Swedish Environmental Protection Agency to analyse current challenges related to sustainable development and the role of the labour market to suggest a road ahead for decision makers. The impact is raised awareness on the importance of certain labour markets for achieving sustainability goals defined in the IPCC report.
+https://www.ivl.se/press/analys-och-kommentarer/2023-03-24-arbetsmarknaden-en-nyckelfraga-for-hallbar-omstallning.html
+
+# Open data on job ads from the Swedish Public Employment Service has been used by Digitalskills.se is a forecasting tool that provides both historical trends and projections of digital skills and professional titles by data-driven analysis of job advertisements from the Employment Agency's job bank. Digitalskills.se is developed by the Agency for Growth and the University Chancellor's Office (UKÄ) to be able to analyze and propose how the supply of digital excellence can be developed in both the short and long term.
+SOURCE https://www.digitalskills.se/";;;;;15
+44;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Yes, open data is used in decision making processes regularly as part of their daily operations, see some examples below: 
+
+# The Swedish National Road and Transport Research Institute (VTI) utilises a number of data sources for analysis, and where the results are used for making decisions on traffic control strategies. The impact is improved traffic control strategies.
+https://www.vti.se/forskning/transportsystemanalys-och-logistik/transportsystemanalys/bearbetning-och-analys-av-trafikdata
+
+# A county Administrative Boards in the north of Sweden utilises a data driven map on protected nature (in Swedish “Skyddad natur”) from Swedish EPA to support their daily processes for making decisions related to events, investments and building projects, based on assessment on how wild life is affected. This data enabled process results in decisions on permits and approvals (or rejections). This process looks about the same in all County Administrative Boards in Sweden. 
+
+SOURCE for service related to applying for permits: https://www.lansstyrelsen.se/vasterbotten/natur-och-landsbygd/aktiviteter-och-ingrepp-i-naturen.html  
+SOURCE https://skyddadnatur.naturvardsverket.se/ 
+ 
+# The Copernicus program report that their satellite data is used for increasing the efficiency in several Swedish authorities in their daily operations. Public bodies are using clear cut maps or the GIS shape files delineating the clear-cut areas, such actors are e.g. the Lantmäteriet (the Swedish mapping agency), The Swedish Environmental Protection Agency (SEPA) and The Swedish Agency for Marine and Water Management (SwAM23) as well as the 21 Regional government agencies. These public bodies are using the data to: 
+1) increase the efficiency in decisions regarding a clear-cut notification referred to them by the SFA. If there is a nature reserve or sensitive area adjacent to the clear-cut notification, then the CB will write informing the SFA which will inform the forest owner not to encroach on this in any way.
+2) efficient processes in making decisions regarding new nature reserves. For example, if there is an adjacent area which has been cleared, then much of the biodiversity value will have been lost and they will not waste time evaluating the new notification.
+-inform the SEPA which will ask the CB for an annual update on the sensitive areas. Whilst SEPA will already know the nature reserves and the areas under surveillance, only the county knows if there are further areas which maybe under consideration. Hence the CB provides an updated map to SEPA showing any new such areas. For full report: https://eijournal.com/news/business-2/what-is-the-economic-value-of-satellite-imagery-the-case-of-forest-management-in-sweden .   ";;;;;15
+;2.3b Social impact;;;;;;;60
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+45;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country? 
+
+For justification:
+* If yes, please specify what kind of data proves this impact and provide the URLs to this data.";No;"COMMENT: We have obviously misinterpreted this question, and we do not currently have that kind of data. However, we are planning to start collecting this type of data when we launch an updated version of the Swedish dataportal later this year. Then we will have a clear page for reuse cases which enables us to filter out the statistics that we think you are looking for. Therefore we have have our reply to NO. 
+The answer below can be removed. 
+---------------
+
+Yes, here are some examples.
+
+# A new data lab related to innovating and evolving prehospital health care practices by data was launched in 2021 by a number of research actors. The main aim is to become a central knowledge node for Regions (the state actors responsible for regional health care), private sector actors, and researchers. Prehospital care is centred around ambulance practice and the advanced information exchange that takes place before patients arrive at the hospital. The data lab supports the structuring, sharing and usage of data in a secure way based on various technologies such as AI, synthetic data and cloned data.
+SOURCE:  https://www.hb.se/om-hogskolan/aktuellt/nyhetsarkiv/2021/november/nu-startar-sveriges-forsta-prehospitala-datalabb/              
+
+Exemples of data with impact on societal challanges  already published: Healthcare: Covid 19: https://covid19dataportal.se/ Inequality: https://skr.se/download/18.5627773817e39e979efbb3b2/1643290142550/7585-413-7.pdf                                                                                                                                                          ";The social impact is hereby defined as the beneficial effect of the use of open data on four specific challenges for society: 1) Including minorities, migrants, and/or refugees  and reducing inequality, 2) Alleviating housing issues, 3) Fostering health and wellbeing, 4) Improving education.;These examples seem more like reuse cases, which are suitable for Q45-Q49. This question is interested in studies/data on the impact created by open data on social challenges (for example, the measurements of an impact assessment).;;;0
+46;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees (e.g. from the Ukrainian war)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Yes, here are some examples: 
+
+# Statistics Sweden is using data from the Migration Agency in an in-depth analysis of the economic effects of the increase in migrants from Ukraine. 
+https://www.scb.se/hitta-statistik/temaomraden/sveriges-ekonomi/fordjupningsartiklar_Sveriges_ekonomi/migrationen-fran-ukraina-hojde-bnp-marginellt/ 
+
+# The goal of our international aid (openaid.se) is to combat poverty as effectively as possible. To reach this goal, assistance needs to be opened up for transparency and ideas from more people. As part of the Open Assistance, a transparency guarantee has been introduced in the development assistance. 
+SOURCE: www.openaid.se
+
+# The hackathon Good Tech Hack had a theme “Digitalization for inclusion” where the winner was developing an app for blind/vision impaired when voting individually.
+SOURCE: https://www.goodtechhack.se/ ";;;;;15
+47;"Is the use of open data in your country having an impact on the society´s level of awareness concerning housing in urban areas? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Yes, here are some examples:
+
+# Using open data, the citizens within Umeå municipality can see how long the estimated processing time will be when applying for a building permit. They can also by viewing historical data get a sense for when, during the year, it would be smart to send in the application for a faster process.
+The municipality also plan to use that open data to inform applicants about expected processing time when creating an e-service for applying for a building permit. 
+SOURCE: https://opendata.umea.se/explore/?disjunctive.keyword&disjunctive.theme&sort=explore.popularity_score&refine.keyword=Bygglov 
+
+# Econans – a company that uses government open data to sell services related financial support for e.g. private citizens. Part of this support is related to keeping track housing expenditures related to relocating from one housing to another etc. 
+SOURCE service: https://econans.se/  
+SOURCE for datasets used: 
+-	Tax levels per municipality: https://www.dataportal.se/sv/datasets/6_68000/skattesatser-per-kommun  
+-	Average rental price levels: https://www.dataportal.se/sv/datasets/6_68635/genomsnittshyror-for-bostader-2019-2021 
+
+# A government funded real estate data lab has been established to create a community data ecosystem in the sector, involving e.g. companies, research actors and public actors. This data lab enables real estate actors to innovate and develop their organisations and offers support in using data models, testing open data, doing visualizations related to e.g. energy efficiency. At the time of writing more than 100 actors are connected to the data lab.
+SOURCE: https://fastighetsdatalabb.se/";Data that provides information on the housing market, rental market, property valuations, sales, planning, zoning, census data on socio-economic variables for cities and/or neighbourhoods, other housing issues such as homelessness, empty dwellings, gentrification.;;;;15
+48;"Is the use of open data in your country having an impact on the society´s level of awareness on health and wellbeing related issues (also but not only in light of the COVID-19 pandemic)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Yes, se the following examples.
+
+# # The app Platsminnen uses old geotagged photos to help demented patients remember themselves and for a time be able to communicate with loved ones again. This app is uses as a tool in the care of people with dementia. 
+SOURCE app: https://www.platsminnen.se  
+SOURCE datasets used: https://www.raa.se/hitta-information/k-samsok/ and https://pro.europeana.eu/page/apis   
+
+# The service “Jag vill ha vaccin nu!” (in english: I want vaccine now!) collects data about vaccine booking possibilities from a number of public places and visualizes for citizens where there is possible to book a vaccine appointment. It is not possibly to book an appointment via the service though, but rather to understand where there are times available for booking. The service is directed to official booking sites and built on open data about time booking information from the national health portal 1177.se. In total there are now 422 vaccine receptions registered in the service. 
+SOURCE: https://jagvillhavaccin.nu/  
+SOURCE data supplier: https://www.1177.se/ 
+
+# The Swedish journalistic organisation Källkritikbyrån continuously debunks fake claims related to the corona pandemic based on open data, for example in this article: https://kallkritikbyran.se/vaccinkritiker-sprider-obelagda-pastaenden-om-dodsfall/ They use e.g. data from the Swedish Public Health organisation: SOURCE: https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/  ";;;;;15
+49;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Yes, see the following examples:
+
+# The Swedish Agency for Economic and Regional Growth has used data analytics on 6,7 million job ads released as open data by the Swedish Public Employment Agency, aiming to create condensed insights about the evolvement of jobs related to digitalisation. The result was used to support a decision support related to the planning of future educations that could enable the digitalisation in society.
+https://tillvaxtverket.se/om-tillvaxtverket/bloggen/bloggartiklar/2021-03-02-hur-laser-man-67-miljoner-jobbannonser.html  
+
+# Open access to government data is frequently used by data journalists. Most famous are a Swedish television web that compiles their investigations driven by data visualisations, where e.g. the level of authorized teachers in Swedish schools has been under scrutiny.   
+SOURCE: https://www.svt.se/datajournalistik/ 
+SOURCE to examples on information about the level of authorized teachers in Swedish schools:  https://www.svt.se/special/val2018-skola-behoriga-larare/";;;;;15
+;2.3c Environmental impact;;;;;;;60
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+50;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country? 
+
+For justification:
+* If yes, please (1) specify what kind of data proves this impact and (2) provide the URLs to this data. ";No;"COMMENT: We have obviously misinterpreted this question, and we do not currently have that kind of data. However, we are planning to start collecting this type of data when we launch an updated version of the Swedish dataportal later this year. Then we will have a clear page for reuse cases which enables us to filter out the statistics that we think you are looking for. Therefore we have have our reply to NO. 
+The answer below can be removed. 
+...............
+
+# Databases from different areas with data for climate adaptation. The databases are compilations of various forms of analysis or websites for retrieving raw data or metadata.                                                                                            SOURCE: https://www.klimatanpassning.se/klimatanpassa/underlag-for-klimatanpassning/databaser                                                                                                                                            # Climate database from the Swedish National Board of Housing, Building and Planning. This open data contains information on over 200 generic building products in Swedish and English.       SOURCE: https://www.boverket.se/sv/om-boverket/publicerat-av-boverket/oppna-data/boverkets-klimatdatabas/ ";The environmental impact is hereby defined as the beneficial effect of the use of open data on four specific challenges connected to the environment: 1) Protecting biodiversity (e.g. maintaining a good level of air and water quality), 2) Achieving more environmental-friendly cities (e.g. in terms of transport and waste management), 3) Fighting climate change and connected disasters, 4) Increasing the use of renewable sources of energy.;These examples seem more like reuse cases, which are suitable for Q51-Q54. This question is interested in studies/data on the impact created by open data on environmental challenges (for example, the measurements of an impact assessment).;;;0
+51;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Yes, see examples below: 
+
+# The app “Biologg” has been described as a Pokemon Go for the nature since it lets the user log different observations in nature as part of a game. This enhances learning about animals and wild arts, e.g. the more insects or mushrooms you are able to log and identity, the more points you get. The game is based on a database from the Swedish Species Information Centre. The logged information about species in nature is also shared with scientists in order to better understand how to protect biodiversity and also fueled back as input to the ""Artdatabank"" (database on species).
+
+SOURCE: https://www.biologg.se/ 
+SOURCE dataset used: https://www.artdatabanken.se/ 
+
+# A data lab that focuses on forests (In Swedish “Skogligt datalabb”) enables various investigations, studies and tests on forests based on the use of data. The target group is the forest industry and how related actors can be innovative and sustainable in the use of forests. Examples of tests carried out in the lab is e.g.:
+-	Study of how to measure CO2 foot prints for forests and industry
+-	Development of methods to identify e.g. trees infected with decay or damaged in other ways
+-	Digital tools for creating quality declarations for trees 
+
+SOURCE: https://www.biometria.se/om-biometria/innovation/biometria-labs/skogligt-datalabb/ 
+ 
+
+# The Swedish Agency Marine and Water Management uses Copernicus data to visualize the state of lakes/land and the sea surrounding Sweden according to a number of factors such as wet areas and type of forests:
+SOURCE: lakes and land etc: https://www.havochvatten.se/overvakning-och-uppfoljning/miljoovervakning/overblick-med-data-fran-copernicus/sotvatten-och-land---data-fran-copernicus.html  
+The sea: https://www.havochvatten.se/overvakning-och-uppfoljning/miljoovervakning/overblick-med-data-fran-copernicus/havsvariabler---data-fran-copernicus.html   ";;;;;15
+52;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"UPDATED ANSWER (nr 3 in the list):
+
+Yes, see the following examples:
+
+# The research project “Predictive movement” uses open traffic data to innovate new forms of resource efficient transport solutions in non-urban areas. The aim is to enable efficient delivery services outside urban areas while at the same time contribute to sustainable development.
+SORCE: https://www.facebook.com/PredictiveMovement/ 
+
+# Skjutsgruppen (in English: the ridesharing group) is an open carpooling community. The service uses open data to create and visualize door to door trips including pooling using cars, busses, bikes and air baloons as well as public transport.
+SOURCE: Skjutsgruppens forum - Demokratisera mobilitet 
+SOURCE dataset used: https://www.trafiklab.se/api/resrobot-reseplanerare 
+
+# The digital service 1409.se makes train transports between cities more efficient due to open data from e.g. the Swedish Transport Administration. It has decreased the number of train delays, and thus made e.g. commuting by train to work more reliable and effective. This service has received open data prizes. 
+SOURCE: https://1409.se/trains/Rst (the web service)
+SOURCE: https://tydal.se/portfolio-1409.html (information about the service at the developing companys web)";;;;;15
+53;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"COMMENT: Sorry, we seem to have made a classic cut and paste error:) Therefore Q52 is updated with a new example (nr 3 in the list), and Q53 is also updated with a new example (nr 1 in the list).
+
+UPDATED ANSWER:
+
+Yes, see the following examples:
+
+# Umeå municipality is using their open data and other open data as a base for a citizens innovation contest this year, the “Umeå Open Data Climate Challenge”, where the aim is to find new solutions for addressing climate change issues. 
+SOURCE: https://via.tt.se/pressmeddelande/umea-lanserar-klimatutmaning-med-oppna-data?publisherId=1422393&releaseId=3348550 (a news article)
+SOURCE: https://opendata.umea.se/pages/climate_challenge/ (About the challenge)
+
+# Skjutsgruppen (in English: the ridesharing group) is an open carpooling community. The service uses open data to create and visualize door to door trips including pooling using cars, busses, bikes and air baloons as well as public transport.
+SOURCE: Skjutsgruppens forum - Demokratisera mobilitet 
+SOURCE dataset used: https://www.trafiklab.se/api/resrobot-reseplanerare 
+
+# The datadriven service Vultus helps farmers to optimize fertilizer usage, thus avoiding unnecessary emissions. The service uses satellite and weather data including the fields historic data that enables more precise prescriptions. 
+SOURCE: https://www.vultus.se/ ";;Same answer provided as the one for the previous question. Is it possible to divide the examples into the respective questions - those most relevant to environmentally friendly cities and those for climate change?;;;15
+54;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Yes, see the following examples:
+
+# The web service “Klimatkollen” (in English: Climate check-up) enables citizens to look up the level of carbon emissions, related to the set CO2 budget from the Paris agreement, across Swedish municipalities. It aims to raise awareness of the importance of addressing climate change. The service is based on public available data. 
+
+SOURCE: https://klimatkollen.se/ 
+
+# A network of digitalisation promoters has launched a roadmap on how digitalisation can contribute to the evolvement to a sustainable future where the reduction of fossil fuels are necessary. Part of the roadmap is a set of recommendations to government, and one of them is the recommendation to government on initiating an investigation about what data is needed for obtaining a sustainable future.
+
+SOURCE: the recommendation to government on the data issue (in Swedish : https://www.digitaliseringskonsulterna.se/#acc-905694948 
+SOURCE: the roadmap in pdf (see section 4.4 on data recommendations): https://www.digitaliseringskonsulterna.se/wp-content/uploads/2021/07/Digitaliseringskonsulternas_fardplan.pdf 
+SOURCE: News article about the organisation “Digitaliseringskonsulterna” and their roadmap to sustainability: https://govtechsweden.se/blogg/digitaliseringens-transformativa-potential-fr-att-n-15-gradersmlet?fbclid=IwAR1dI8X-Eo2oiOuxlCnL2OPIF9P8cuow6Xd6uyoY6IuR6O1lIJhva0UC5VY ";;;;;15
+;2.3d Economic impact;;;;;;;80
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+55;"Is any data on the economic impact (e.g. population employed, innovation and nw businesses created etc.) of open data available in your country? 
+
+For justification:
+* If yes, please (1) specify what kind of data proves this impact and (2) provide the URLs to this data. ";yes;"UPDATED ANSWER:
+Yes, in preparation for negotiations on the list with valuable datasets listed in the open data and psi directive the Swedish National geological survey agency calculated the value of certain datasets. Environmental data was part of two that were calculated. Geological data was valued at 800 million SEK/year and i almost entirely environmental data. Geospatial data was valued at 5 400 milion SEK/year and is in large part environmental data.  Part of this is already released as open data and some was estimates in impact on releasing this as open data, see attached word doc for detailed status on availability/openness of the data. 
+
+The analysis showed, of the proposed data sets, property data, geodetic data, soil type data, species observations, red-listed animals and plants, satellite images as well as image and altitude data can contribute especially to the work with the UN's environmental and climate goals in Agenda 2030 with the 17 sustainability goals. Making the proposed amounts of data available contributes to both the national and the international work towards these goals. Nationally, the effects are seen, among other things, in the form of the promotion of biodiversity, environmental protection, streamlined work in forests and land and increased opportunities for individuals to use nature and its resources. Internationally, the effects are seen in the form of simplified collaborations and increased access to information when data from different countries can be combined to solve global challenges regarding environmental and climate impact. Thus, they constitute the proposed data sets an important piece of the puzzle in solving global climate and environmental problems
+
+Link to full report: https://www.lantmateriet.se/contentassets/e16a59e08cb744149c878776256560e6/slutrapport---tillgangliggorande-av-sarskilt-vardefulla-datamangder.pdf
+
+Link to an english shorter version: https://www.lantmateriet.se/contentassets/e16a59e08cb744149c878776256560e6/open-data-report-summary-2020-06-04.pdf";"The economic impact is hereby defined as the beneficial effect of the use of open data on three indicators of economic growth:  
+1) Level of employment, 2) Uptake of technology and innovation, 3) Level of etrepreneurship and new business created.";Please provide a link to the study that came to these results;;;20
+56;"Is the use of open data in your country having an impact on the level of employment? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Yes, here are som examples: 
+
+# Even if this is difficult to be very specific about since open data related employments can simultaneous mean the reduction of employments in other sectors, but the data from JobTech Dev https://jobtechdev.se/sv has been seen to have some impact on level of employment. 
+
+# Improved job matching for unemployed through e.g. a Blockchain solution based on Gov open job data to simplify the compensation process in case of job loss (AXA), or AI job matching and recruitment. 
+SOURCE: https://rektra.se/                                                                                                                                                    ";;;;;20
+57;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Yes, several new applications that uses open data also utilizes other new technologies, e.g.:
+
+# Different projects financed by Internet of Things Sweden (IoT Sweden). IoT Sweden is a strategic innovation program that supports and finances innovative IoT projects in the public sector across the country.
+SOURCE: https://iotsverige.se/projektportal 
+
+# The LOV-IOT service, an app for monitoring air and water, is based on IoT. 
+https://loviot.se/ 
+
+# Several data labs are exploring new technologies, such as: 
+ A)	Biometria, a data lab related to forests and industry, uses e.g. AI. https://www.biometria.se/om-biometria/innovation/biometria-labs/utfoerda-tester/ 
+B)	The datalab related to prehospital care uses a range of new technologies related to complex information exchange: https://www.hb.se/om-hogskolan/aktuellt/nyhetsarkiv/2021/november/nu-startar-sveriges-forsta-prehospitala-datalabb/ 
+ ";;;;;20
+58;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For justification:
+* If yes, please explain how and what kind of impact is created on the topic and provide examples of maximum 3 recent open data reuse cases in the form of research or application, whether developed by government or by civil society.";yes;"Yes, see the following examples:
+
+# The Swedish Companies Registration Office is looking forward to the effect of high value datasets which will open up data useful for enterprises.
+SOURCE:https://www.bolagsverket.se/omoss/press/pressmeddelanden/pressmeddelanden2023/samhallettjanarstortpaattdataomforetagbliroppenochfri.4782.html
+
+# The datahub Trafiklab is a good example of the rise of start-ups that has evolved from the increasing availability of open data. Even though there are no statistics available, Trafiklab is known for generating many starts-ups.
+SOURCE: https://www.trafiklab.se/sv/ ";;;;;20
+;Dimension 3: Open Data Portal ;;;;;;;506
+;"This part of the questionnaire is dedicated to assessing the solution your country chose for making the available open data discoverable. Typically, this is achieved through a national open data portal. 
+For simplicity, the following section will refer to this solution as the “national portal”.    
+Please provide where requested the URLs to the features inquired with the respective question. If access to the feature is restricted (back-end feature, log-in required), please provide a screenshot via e-mail as additional attachment (and note this here in the questionnaire). Please answer the questions below only in relation to the portal you indicated as the national portal of reference. Only URLs documenting the features available on this portal will be considered and scored.
+
+Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.                                                                                             ";;;;;;;
+;3.1 Portal features;;;;;;;184
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+59;"Is there a national portal in your country for making open data discoverable? 
+
+For justification:
+* If yes, please provide the URL of the national portal.
+* If no, please describe how you ensure the discoverability of the open data available in your country.";yes;"https://www.dataportal.se/
+
+We also have a newer version of the portal that we are developing in parallel, see https://beta.dataportal.se/ This version also includes support for open source and public AI, and after some additional UX-improvements (to mainly the dataparts) we plan to replace the current dataportal with the beta-version later this year.";;;;;20
+60;Does the national portal offer an advanced data search function (multiple field search, filter options, etc.)?;yes;N/A;;;;;10
+61;Does the national portal offer the possibility for users to download datasets (e.g. via a link)? ;yes;N/A;;;;;10
+62a;Does the national portal offer the possibility for users to search by file format? ;yes;N/A;;;;;10
+62b;Does the national portal offer the possibility for users to search by data domain? ;yes;N/A;;;;;10
+63;"Does the national portal offer to its users a way to programmatically query the metadata (e.g. via an API or a SPARQL access point)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;https://docs.dataportal.se/registry/api/;;;;;10
+64;"Does the national portal offer documentation on the use of APIs and other tools that enable working with the aforementioned metadata? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://docs.dataportal.se;;;;;10
+65;"Does the national portal enable users to provide content for the portal (e.g. to link documentation and supporting materials to a given dataset)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"UPDATED ANSWER:
+Yes, at the national dataportal (www.dataportal.se) there is a both guidelines available for the overall data sharing process (at the bottom of the startpage), and also technical documentation that provides information on how to link documentation and supporting material to a given dataset via the service Admin.entryscape (available at https://docs.dataportal.se/registry/). This is based on DCAT-AP-SE.";An example of such supporting material could be relevant studies or reports associated with the dataset e.g. documenting how the data was produced, the methodology etc.;Not a specific URL;;;10
+66a;"Does the national portal offer a general feedback mechanism for users (e.g. a 'Contact us' or 'Feedback' button that is placed in a visible spot on the portal and would allow users to send a general comment concerning the portal)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;" This can either be done on the dataportals open community (see 
+https://community.dataportal.se/category/33/feedback-p%C3%A5-samarbetsplattform) or by an info-mail adress available at the dataportal (https://www.dataportal.se/sv/om-oss) 
+";Please note that a general email address does not count as feedback mechanism in the sense of this question and will not be scored as such.;;;;10
+66b;"Does the national portal offer a feedback mechanism at dataset level? (e.g. a 'feedback button' or a comment/ discussion section under the dataset)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;"Yes, in our community we have a specific category for ""Data"" where users e.g. can discuss datasets and ask questions. https://community.dataportal.se/category/23/data  The feedback button for each dataset contains a link to the community and this text: ""Do you have questions or comments?
+Contact the publishing organization for questions, comments and requests regarding the information on this page. You can also turn to the data portal's community.""";The feedback mechanism does not include the possibility of a user to send in an email to a general address/the helpdesk.;;;;10
+66c;"Does the national portal provide a mechanism for users to rate datasets?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";no;;Such mechanism could be a star rating system or similar voting/rating mechanism.;;;;0
+67;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;Yes, users can find various information provided both by us (Digg - who runs the dataportal) and from other datausers at our communiy, see https://community.dataportal.se/. They can also find news at the dataportal (www.dataportal.se). In the upcoming and new dataportal (https://beta.dataportal.se) we will also make room for more news and good exemples provided by our collaborators and other other datausers. ;;;;;10
+68;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";no ;;;;;;0
+69a;"Does the national portal offer the possibility for users to request datasets? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";yes;In our community there is a specific category for requesting data, see https://community.dataportal.se/category/1/efterfr%C3%A5ga-data-och-api-er;Please note also that a specific “Request data” button is meant here. Should the data request function be accomplished by a general help desk contact form that has a specific field for data requests, please describe this as such in the justification box.;;;;10
+69b;If yes [to Q69a], what is the frequency of these requests? ;less frequently than monthly;N/A;;;;;N/A
+69c;"Are these requests and their progress status presented in a transparent manner on the national portal? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature.  ";no;Yes, any requests for data on our community is public. However, we currently have no processes or tools for present the status of the requests. ;A transparent presentation of these requests may be a machine-readable file on the national portal, or a separate section on the national portal that lists these requests. By providing a list of these requests, duplication of requests can be avoided, and time saved in filtering and answering these duplicate requests.;;;;0
+70a;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For justification:
+* If yes, please describe how this monitoring is conducted.";yes;At Digg (Agency of digital government), the open data team keeps track of the requests and tries to connect the requesting person with relevant persons that might hold the requested data. But we do not have a formal process for this, rather our effort is based on the amount of time available. ;;;;;10
+70b;If yes [to Q70a], to what degree do these requests result in the publication of the requested data?;few datasets;N/A;;;;;4
+71;"Does the national portal include a discussion forum or any other exchange possibility for users (whether data providers or reusers)?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;https://community.dataportal.se/;;;;;10
+72;"Does the national portal have a designated area to showcase use cases?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";no;Yes, in the beta-version.https://beta.dataportal.se/aktuellt;;;;;0
+73;"Does the national portal reference the datasets that the showcased use cases are based on?
+
+For justification:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";no;;;;;;0
+74;"Does the national portal provide the possibility for users to submit their own use cases?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;https://community.dataportal.se/category/23/data;;;;;10
+75;"Does the national portal offer a preview function for tabular data?
+
+For justification:
+* If yes, please provide the URL to an example documenting this feature.";no;;;;;;0
+76;"Does the national portal offer a preview function for geospatial data?
+
+For justification:
+* If yes, please provide the URL to an example documenting this feature.";no;;;;;;0
+77;"Following the publication of the implementing regulation (EU) 2023/138 on high-value datasets,  are you progressing in the promotion of such datasets on your national portal (e.g. filtering features and/or editorial features were added, changes were made to navigation...)?
+
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;Yes, we are currently planning improvements to our search function at www.dataportal.se that enables the filtering of high-value datasets. This will hopefully also result in the enabling of additional filters on data as for example national master data and european dataspaces. ;;;;;20
+;3.2 Portal usage;;;;;;;130
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+78;Is the national portal mobile as responsive as the desktop version?;yes;N/A;Meaning the portal renders well on both mobile and desktop.;;;;10
+79;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For justification:
+* If yes, which tool(s) do you use?";yes;We use Matomo for monitoring e.g. number of unique visitors, what countries they come from, breifly their visitor profiles etc. For the community, we use the in-built analytic tool in NodeBB which the community is built upon. However, we have just also included the community in the Matomo licence to make sure we have comparable numbers and statistics. There is also a statusreport for datapublishers: https://docs.dataportal.se/registry/status/;;;;;15
+80a;"Are traffic and usage statistics used to better understand users´ behaviour and needs and to update the portal accordingly?
+
+For justification:
+*  If yes, what insights did you gain last year from the reviews of these analytics? ";yes;Unfortunately the most important finding in our larger yearly oversigth (in January 2023) was that the Swedish dataportal had suffered a significant decrease in number of visitors. Above that we saw that we have relatively large group of visitors that only visit the dataportalen once (which we want to change). We think this has to do with a change of content management system för the dataportal (due to SchremsII) and also less resources to provide news and good examples during 2022 when we put the majority on our resources on developing the beta.dataportal.se version and other non-portal deliveries in a big governmnt assignment (such as new recommendations for e.g. procurement of data, an education, analysis related to IODC and EU dataspaces etc...). One understanding from this analysis is that need to be more people to mange the daily updates and making the dataportal interesting and that our current personnel situation is not really coping with this when we are involved in other time-consuming work. ;;;;;10
+80b;"Do you perform further activities to better understand users´ behaviour and needs (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For justification:
+* If yes, please specify which activities.";yes;"Yes, we perform a number of activities in this sense:
+# We often engage in discussions in our community where a lot of user needs are ventilated. 
+# In the release of the beta.dataportal.se in Nov 2022 we also used the community to specificly request comments on the new design.  
+# We engage in dialogues about user needs in various seminaries, e.g. a seminar with representatives from a number of different civil society organisations.
+# In 2022, we performed a larger need inventory with data providers (with the help of consultants) based on 24 interviews and as a result we now have a rather long list of identified needs, see https://www.digg.se/analys-och-uppfoljning/publikationer/publikationer/2023-01-31-slutrapport-uppdrag-att-framja-delning-och-nyttiggorande-av-data (""Bilaga 1: Användarbehov för en digital arena"")
+# We have earlier results from a number of usability tests with data users that we still see is relevant to some extent (for exempel, a number of the functionality that also is highlighted in this survey such as being able to request data was also seen in our user tests).  ";;;;;10
+81a;What is the typical profile of the portal visitor, as learned from activities such as web analytics, surveys, or social media analyses?;a bit of everything, no clear dominant group;N/A;;;;;10
+81b;"Does this profile match the type of audience your national portal wants to cater to?
+
+For justification:
+* If only partially, please specify which audience groups are missing.
+* If no, please briefly explain why.";yes, but only partially;We are e.g aware that the dataportal are not that well known in academia where we see that students, researchers and teachers could benefit from using open data. And of course, we generally want more visitors overall. ;;;;;5
+82;"How many unique visitors visit the national portal on average per month?
+
+For justification:
+* Please fill the average number per month in 2022 and select 'see answer box'. 
+* Please note that if you are a federal/regional state you can indicate the sum of the visitors of all sub-national portals harvested in the national portal.";see answer box;We had approximately 2200 unique visitors per month during 2022.;Unique visitors refer to the number of distinct individuals accessing pages on the website during a given period, regardless of how often they visit that website. Visits refer to the number of times a website is visited, no matter how many visitors make up those visits.;;;;10
+83;"What percentage of the unique visitors to the national portal is foreign?
+
+For justification:
+* Please fill the percentage  and select 'see answer box'.";see answer box;Of the 26 427 unique visitors to dataportal.se during 2022 was 20 553 from Sweden and thus 5874 visitors came from other countries. That is 22% foreign visitors. ;;;;;N/A
+84;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For justification:
+* If yes, please briefly describe.";yes;Yes, we do that but not on a very regular basis since we have a lot more pressing funtionality to develop for the dataportal based both on identified (and verified) user needs and government assignments (e.g. related to support for API:s) which we regard give more contextual information on what needs to be developed. But we look at it quite regular to see if there is something apparent need that we can resolve. ;;;Answer from 2022 also supplements this year's answer - We have configured the analysis tool to register all search words and there are also additional configurations to monitor searches without any hits and pages that are visited after a search is submitted. ;;10
+85;Do you monitor the most and least consulted pages?;yes;N/A;;;;;10
+86;"What data categories are the top 5 most frequently consulted on the portal, with 1 being the most popular one? 
+
+For justification:
+* Please indicate 1 = category X, 2 = category Y etc. and select 'see answer box'.";see answer box;"1 = Befolkning och samhälle (in eng. Population and Society)
+2 = Ekonomi och finans (in eng. Economy and Finance)
+3 = Regeringen och den offentliga sektorn (in eng. Government and public sector)
+4 = Utbildning, kultur och sport (in eng. Education, culture and sport)
+5 = Miljö (in eng. Environment)";;;;;10
+87;"What datasets are the top 5 most frequently consulted on the portal, with 1 being the most popular one? 
+
+For justification:
+* Please indicate 1 = name dateset X, 2 = name dataset Y etc. and select 'see answer box'.";see answer box;"1: ""Mina ärenden"" from the National Tax Agency. A dataset related to a digital service provided to public actors about case/errand handling. 
+https://www.dataportal.se/sv/datasets/6_71657/mina-arenden
+
+2: ""Testpersonnummer"" from the National Tax Agency. A dataset with fake social security number available for testing.
+https://www.dataportal.se/sv/datasets/6_67959/testpersonnummer
+
+3. ""Öppna data från Sundsvalls kommun"". An API that make all open data from Sundsvalls municipality available.
+https://www.dataportal.se/sv/datasets/61_2731/oppna-data-fran-sundsvalls-kommun
+
+4. ""Flygplatsstatistik"" from the Swedish Transport Agency. A dataset with airport statistics.
+https://www.dataportal.se/sv/datasets/272_2057/flygplatsstatistik 
+
+5. ""Kontaktuppgifter till kommunerna"" from the Swedish Association of Local Authorities and Regions. A dataset about contact information to all 290 municipalities. 
+https://www.dataportal.se/sv/datasets/653_26811/kontaktuppgifter-till-kommunerna
+";;;;;10
+88;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For justification:
+*If yes, please briefly describe.";yes;We have started to do this. The first phase has been to set up actions/triggers to measure searchability and keywords for data in the analysis tool, e.g what is searched upon, search without hit, etc. We also plan to improve this further during 2023 since we are in the middle of a process of changing web consults (to https://www.digitalist.se/), and our new consultant firm specializes in Matomo and have long experience in SEO. ;;;;;10
+89;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For justification:
+*If no, please briefly explain why.";yes;;;;;;10
+90a;Do you run analytics on API usage, if metadata describing the datasets is accessible via an API?;no ;N/A;;;;;0
+90b;"If yes [to Q90b], what percentage of outgoing portal traffic is generated by API usage only?
+
+For justification:
+*Please fill the percentage  and select 'see answer box'.";I don't know;;Here we are interested in distinguishing the volume of traffic generated by human users vs the traffic generated programmatically by API usage. We ask for outgoing traffic as it is more relevant than incoming traffic: the former is generated by the enquiries, but the latter by the responses.;;;;N/A
+;3.3 Data provision;;;;;;;72
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+91;"To what degree do public sector data providers contribute data to the portal? 
+
+For justification:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";Few public sector data providers;"In Sweden, a number of different aspects contribute to the relatively low degree of public sector data providers.
+
+# Municipalites and county regions in particular are governed with a very high degree of self-governance, that is, the decentralized government structure makes is difficult (if not impossible) to strongly incentivise these actors to share data they do not have to release. The implementation of high-value datasets in the new data law makes it easier for us (at Digg, the Authority for digital government) to work towards increased data sharing.
+
+# Many public actors report technical challenges related to their metadata catalogue, and therefore we will launch a service for a shared metadata catalogue at dataportal.se during 2023.  The analysis covering this challenge can be found here: https://www.digg.se/analys-och-uppfoljning/publikationer/publikationer/2022-03-09-tekniska-forutsattningar-for-oppna-data
+
+# A generally low awareness among public actors about open data, and in particular on the benefits of open data and how they get started. To adress this we launced an basic education programme called ""Data ambassador"" in Feb 2023 which gives the basics in open data including the general benefits. We now have more than 100 registrered participants. During 2023, we are also developing a learning initiative (education like) specifically for leaders and managers in public organisations. Link to a news article about the Data ambassador programme: https://www.digg.se/om-oss/nyheter/nyheter/2023-02-21-digg-lanserar-dataambassadorsprogram-for-att-stodja-arbetet-med-oppna-data";Providers at federal, regional or local level, directly or indirectly, via direct uploading or harvesting of metadata. ;;;;0
+92a;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;;;;;10
+92b;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For justification:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"During 2022 we performed several actions to assist data providers:
+
+# We launced a recommended REST API-profile for public actors (and others). See https://www.dataportal.se/sv/nyheter/18/rest-api-profil-okar-kvaliteten-pa-api-er
+
+# Together with the Swedish public employment service (a public agency) we developed a tool called the ""DCAT-AP-processorn"" which enables data providers to automatically create metadata from an existing API. See https://www.dataportal.se/sv/nyheter/17/nytt-verktyg-for-att-automatiskt-skapa-metadata  
+
+# We started to develop the dataportal into more of a digital arena for knowledge sharing and dialogue with more important support (e.g. an additional focus on open source and public AI). The updated dataportal will also have increased support for co-created content (e.g. re-use examples), that is, more actors can be given publication access e.g. other public actors, projects that work with data sharing or for example Smart cities or IoT. We are not there yet, but we are working on it, see https://beta.dataportal.se/ 
+
+# We developed new recommendations for the procurement of data so that when data is aquired it will be easier to open up. See https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/rekommendationer-for-upphandling-av-data 
+
+# We started developing a shared metadata catalogue to make it easier for public actors to get starting in their sharing of data. 
+
+# We developed the education ""Data ambassadors"" (recorded a lot of videos, developed quiz's and other educational material such as a set of Power Point files for there usage). This was launched in Feb 2023, see link in Q 91.
+
+# We have conducted a number of information seminars about the new data law (based on the Open data directive), see https://www.dataportal.se/sv/nyheter/15/digg-bjuder-in-till-informationstraffar-om-den-foreslagna-datalagen. In addition to seminars, we have also developed a support page about the data law with a stronger legal perspective, see https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/information-om-oppna-datalagen";;;;;10
+93a;"Besides the national open data portal, are there other regional and local portals? 
+
+For justification:
+* If yes, please provide a complete list and the links to these portals.";yes;"If we by portals mean a dataportal which hosts data from more than one public actor, in Sweden we have the following dataportals apart from the national dataportal:
+
+# The national geodata portal is managed by the national mapping agency (see https://www.lantmateriet.se/) and hosts data from municipalities, county regions and public agencies. Link: https://www.lantmateriet.se/sv/geodata/Geodataportalen/
+
+# The national statistics database is held by the agency Statics Sweden (see https://www.scb.se/en/) and contains statistics from a variety of public actors. Link: https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/ 
+
+# The national research data portal is hosted by Gothenburg university but is owned by a konsortium of 40 academic institutions (such as universities) and contains shared research data. Link: https://snd.gu.se/en 
+
+# A regional dataportal that contains data from both the county region ""Region Västra Götaland"" and some of its municipalities in the region is Dataportal Väst. Link: https://www.vgregion.se/ov/dataportal-vast/datakatalog 
+
+In addition to dataportals that contains data from several actors, there are also several ""dataportals"" that only consists of data from one actor, resembling more these actors own web for their open data. Since we have 290 municipalitites and 21 county regions in Sweden, we only give some examples. 
+
+# Examples of municipalities dataportals are: 1) Umeå municipality, https://opendata.umea.se, 2) Helsingborg city, https://helsingborg.io/dataportal/, and Sundsvall municipality, https://data.sundsvall.se/";;;;;N/A
+93b;"Are regional and local portals listed above [in Q93a] and their data sources discoverable via the national portal? 
+
+For justification:
+* If not applicable, please briefly explain why. ";yes;Yes, not all of them, but most of them. The Geodataportal has been connected to national dataportal for a number of years. The research data portal will be integrated with the national dataportal now in May2023. The open data in the Region Väst data catalogue are visible at the national dataportal. S;;;;;10
+93c;"If yes [to Q93b], to what degree are existing regional and local sources harvested automatically? 
+
+For justification:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";the majority of datasets;;;;;;12
+94a;"Does the national portal include datasets that are real-time or dynamic?
+
+For justification:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;"Yes, when you search ""realtid"" (realtime in Swedish) on the Swedish dataportal you get 55 hits. 
+See the search results: https://www.dataportal.se/sv/datasets?p=1&q=realtid&s=2&t=20&f=&rt=dataset%24esterms_IndependentDataService%24esterms_ServedByDataService&c=false
+";Dynamic data is data that changes asynchronously over time is periodically updated, as new information becomes available. Real-time data is data that changes and needs updating at very frequent intervals, in most cases several times a minute. Access to dynamic and/or real-time data is most commonly provided via application programming interfaces (APIs). Plase note that real-time data is not the same as dynamic data. Real-time data can be dynamic (e.g. a variable indicating current location) or static (e.g. a fresh log entry indicating location at a specific time).;;;;10
+94b;If yes [to Q94a], what percentage of metadata links to such data? ;1-10%;N/A;;;;;N/A
+95;"Does the national portal provide a separate section where non-official data (not stemming from official sources, such as community-sourced/citizen-generated data) can be published? 
+
+For justification:
+* If yes, please provide the URL to this section. ";no;;Citizen-generated data is the data that people or their organisations produce to directly monitor, demand or drive change on issues that affect them.;;;;0
+96;"Do you have an overview of the data providers (official and non-official) on your national portal? 
+
+For justification:
+* If yes, please list the most important.";yes;"UPDATED ANSWER:Yes, in the tool ""Admin"" (available from the technical documentation page) it is possible to see an overview of which public actors and private actors has shared data: https://admin.dataportal.se/status/overview
+
+Also, in the filtering function ""Organisation"" it is possible to see all data providers: https://www.dataportal.se/sv/datasets?p=1&q=&s=2&t=20&f=&rt=dataset%24esterms_IndependentDataService%24esterms_ServedByDataService&c=false                 It is difficult to define ""most important"", but the providors of joint catalogues with many data providors are for example The Land Survey authority (geodata), Statistics Sweden, the Swedish National Data service (research data) and key figures from The Council for the Promotion of Municipalital Analysis. ";;;For completeness, please list the most important data providers;;10
+97;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For justification:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;It is possible to use the portal for both open and controlled data by providing a correct license for the data.;This function can be useful towards reducing the amount of Freedom of Information requests for data that is transparently justified why it cannot be opened. The national portal might also publish the reasons for preventing publication, e.g. national security.;;;;10
+;3.4 Portal sustainability;;;;;;;120
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+98;"Does the national portal have a strategy to ensure its sustainability?
+
+For justification:
+* If yes, please provide the URL to this document. ";yes;"Yes, the strategy for sustainability is that the Agency for digital government (DIGG) is responsible. We see the portal as a practical arrangement for the open data directive (and its implementation in the Swedish open data law), and as part of the national digital infrastructure for API manaagement, API catalouge, access to data and support for interoperability. 
+URL to the formal government instruction to DIGG:  https://www.esv.se/statsliggaren/regleringsbrev/?rbid=23020";A strategy could be a brief document and/or action plan listing the activities planned to ensure the portal’s sustainability over time.;;;;30
+99;Does this strategy include a description of the portal’s target audience and measures to reach this audience?;no;;;;;;0
+100;"Is your national portal active on social media? 
+
+For justification:
+* If yes, please provide the URL(s) to your social media accounts. ";no;;By active we refer to an account that publishes new materials at least once a week. A social media presence may include a Facebook, Twitter, LinkedIn account that regularly published open data related content. Ideally a social media account would help promote the open data and more specific portal activities and increase visibility of the open data published on the national portal. ;;;;0
+101;"Do you take actions to promote the national portal’s activities and the available open data (e.g. regular info sessions and/or events)? 
+
+For justification:
+* If yes, please provide at least one example of such activities.";yes;"Information about what happens at the national dataportal, and related events like the launch of various kinds of support for data sharing (like tools and recommendations) is shared at the dataportals open community and also at the Agency for digital government (Digg) news channel ""Digg forum"".  See https://www.digg.se/kunskap-och-stod/digg-play/arkiv-digg-play#/? and https://community.dataportal.se/. 
+All bigger news are also shared on Diggs LinkedIn account, see https://www.linkedin.com/company/digg-sverige/mycompany/";Actions could be regular promotion of the portal’s data and activities at events, an active social media presence, organising webinars to present the available datasets, use cases, the portal’s features to the broader public etc.;;;;15
+102;"Are the portal’s source code as well as relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For justification:
+*If yes, please provide (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;"Diggs Github account is called ""diggsweden"" and has a catalog for the national dataportals open spource code. See https://github.com/DIGGSweden/dataportal-web";;;;;10
+103;"Was there a user satisfaction survey concerning the national portal conducted in the past year?
+
+For justification:
+*If yes, please briefly describe the key findings gained through this survey.";yes;"Yes, when a beta version of the national dataportal was launched in Nov 2022 (see https://beta.dataportal.se/), we conducted a user survey on the dataportals community. The response to the betaversion was generally positive, although they also high-lighted a number of further improvements related to content and functionality. Some of them was also somewhat negative towards the choice of ""dark mode"". At Digg, we have summarized the comments, and also made our own usage evaluation to identify ways to improve the betaversion. This has resulted in that we will launch another UX-oversight now in May 2023. Why it took some time is because we have been involved in a procurement process since Dec 2022 for the web consultants working on web developement on the dataportal. This process has resulted in a change of consultants, and we are now in the middle of the work with getting them started. By this change we have strengthened the UX-compentence, which we felt was important for the future development of the national dataportal. ";;;;;10
+104a;"Is there a process by which the portal is reviewed and improved regularly? 
+
+For justification:
+*If yes, please briefly describe this process.";yes;We are working in agile processes with continous improvement and with a roadmap updated bi-annually. At the moment the dataportal is also reviewed as part of a strategic overview of all Diggs websites, with the aim to strengthen the Digg-common design principles and legitimacy for the different digital services and web sites. ;;;;;15
+104b;If yes [to Q104a], what is the frequency of these reviews? ;bi-annually;N/A;;;;;N/A
+104c;"If yes [to Q104a], is the users’ feedback considered in the review process?
+
+For justification:
+*If yes, please briefly describe this process.";yes;"The portal is reviewed and improved regularly. We have a web development team. We regularly go through, react to and prioritize efforts based on user feedback  from the community feedback section. Before each quarter we decide on the priorities, that is then split up in agile sprint planning. However if bugs and errors are reported, based on the severy, we adapt.
+On top of user feedback we plan efforts together with the API and basic data team on improvements as well in collaboration with other public agencies.  
+When we are working in different government assignments and projects, we specifically use this context and participants to create dialogues about the dataportal, and collects the users comments and suggestions for improvements. These government assignments and project come with irregular intervals. 
+
+";;;;;10
+105a;"Do you monitor via a dashboard the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;"The homepage has a section for statistics regarding data per month on a half year basis, the amount of organizations that publishes data, the organizations with most published datasets and the five most common categories of data.
+See the section “Statistics at a glance”: https://www.dataportal.se/en 
+Also see the page “Statistics”: https://www.dataportal.se/en/statistics  and https://admin.dataportal.se/status/overview
+
+Due to the change of web consultants (see Q 103) we now also have access to more competence in the Matomo tool, so moving forward we are planning to further improve our usage of varios web statistics. ";;;;;15
+105b;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For justification:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;Yes, the monitoring of the dataportal allows us to gain more knowledge on e.g. what in the data publication process is considered difficult by data providers, and also when more communication about the dataportal is needed. Dataproviders can gain access to monitoring functionality through our platform for technical support, see https://admin.dataportal.se/status/overview;Such mechanisms could refer to statistics that show publishers statistics concerning their data: the volume of published datasets/metadata records, information on quality of publication (formats, DCAT-AP compliance, licensing information), usage statistics such as downloads, visits, or use cases uploaded to the national portal referencing their data.;;;;15
+;Dimension 4: Open Data Quality;;;;;;;497
+;"Please select the answer from the drop down options in the `Answer` column. If applicable, please provide additional information to justify the selected answer in the `Justification` column.
+
+In section 4.3 `DCAT-AP Compliance`, the focus is on DCAT-AP exclusively. We are aware that many of the respondents may be compliant with other EU standards, such as INSPIRE. For the purpose of this assessment, only DCAT-AP and its country-specific profiles are relevant.                                                                                                                                                                                ";;;;;;;
+;4.1 Currency and completeness;;;;;;;105
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+106;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For justification:
+* If yes, please briefly describe your approach.";yes;Yes, there is a tool for the data providers (accessible by a login) in a tool called Admin, see https://admin.dataportal.se/start where they can check their metadata status. ;Please note that a regular updating of metadata refers here to an updating that is in line with the characteristics of the dataset in question. Different datasets have different requirements of currency. For example, a gazetteer of city streets only changes when new buildings and roads are built, or street names are changed, whereas the data on current weather conditions may be updated in quasi-real time.;;;;20
+107;What percentage of the metadata is obtained from the source automatically, rather than edited manually? ;100%;N/A;;;;;20
+108;"What is the average delay from the moment the metadata describing a dataset is updated at your source, and the moment the change is visible on the portal (whether the process is automated or not)?
+
+For justification:
+* What type of data does this mainly concern?";within one day;Changes in metadata for all datasets harvested to the national data portal is updated once every day in an automated process.;;;;;40
+109;Where applicable, to what degree does the published data cover the full period from when it was first published until today? (for example, complete time series whether available for download or through an API);few datasets;N/A;This applies both to individual datasets that change in time and to archives of the same dataset, e.g. one every year, every month etc. Administrative geography is an example of data that changes regularly. When new houses are built, new postcodes may be created, and the areas referred by pre-existing postcodes may change. Making available previous versions of a postcode reference file enables the reuser to correctly interpret the meaning of a postcode vs the relevant time context.;;;;5
+110;"Following the publication of the implementing regulation (EU) 2023/138 on high-value datasets, is your country progressing in ensuring interoperability of datasets, in particular high-value ones, alongside the datasets of another country?
+
+For justification:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";yes;We have introduced an interoperability framework for frequently used high value data sets, called National basic data program. Alongside with this, we assume that actors that will be affected by the Open data directive High value data regulation, are analysing consequenses and planning ahead for compliance. ;"* The implementing regulation (EU) 2023/138, adopted in December 2022 and published in January 2023 by the European Commission, lays down a list of specific high-value datasets and the arrangements for their publication and re-use. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0138
+* Interoperability is the ability to access and process data from different sources and being able to integrate that data for mapping, visualisation, and other forms of representation and analysis.";;;;20
+;4.2 Monitoring and measures;;;;;;;142
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+111a;"Do you monitor the quality of the metadata available on your portal?
+
+For justification:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"UPDATED ANSWER:
+Yes, we use a automatic link checker functionality and DCAT-AP-control, and the administrators of the dataportal also have access to a more elaborate statistics tool. 
+
+Link: https://admin.dataportal.se/status/statistics (requires user login) ";;Last year a link was added, is it still the same for this year? https://admin.dataportal.se/status/statistics;;;20
+111b;"Do you publish information on the quality of the metadata available on the portal?
+
+For justification:
+* If yes, please provide the URL to this section. 
+* If the information is published e.g. as .csv file, please provide the link to this source.";yes;"There is a public statistics page available at https://admin.dataportal.se/status/overview 
+ ";Such information can be made available as visualisations (e.g. the MQA tool of the EDP), or as downloadable file (ideally in .csv format) on the national portal.;;;;15
+112;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in choosing an appropriate licence for their data? 
+
+For justification:
+* If yes, please provide the URLs to these materials and/or tools.";yes;"Yes, in the main guide for making data available as open data there i a particular section about working with the usage terms for the data, and part of this is licenses. See https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information#h-Valjvillkorforanvandning
+
+In the above section, there is a link to specific recommendations on how to choose licences, see https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/rekommendation-om-oppna-licenser-och-immaterialratt";Such guidelines can take the form of a document or tools (a licensing assistant) available on the national portal. An example of such tool is the data.europa.eu Licensing Assistant: https://data.europa.eu/en/training/licensing-assistant.;;;;20
+113;"Did you develop your own open licence/licencing suite to foster the publication of open data in your country?
+
+For justification:
+* If yes, please provide the URL to the document in which this licence is described and briefly describe the main reasons for doing so and the main differences between your country's open licence and the CC licencing suite.
+* If not applicable, please briefly explain why.";no;;;;;;10
+114;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences or of your own licensing suite?
+
+For justification:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* If not applicable, please briefly explain why.";yes, CC licences;"UPDATED ANSWER:
+It is recommended in our recommendations for liceses, see https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/rekommendation-om-oppna-licenser-och-immaterialratt";;"Clarify ""see xXXX""";;;10
+115;What percentage of the open data available on the national portal is accompanied by licensing information? ;71-90%;N/A;;;;;15
+116;How has the percentage of datasets accompanied by licencing information changed compared to the same period last year? ;remained the same;N/A;;;;;5
+117;Across all datasets you distribute, how many different licences are used on your portal?;>10;N/A;;;;;2
+118;"Are guidelines and tools provided for data providers to improve the quality of their data publication? 
+
+For justification:
+* If yes, please provide the direct-URL to this feature. ";yes;https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information#h-Forberedinformationsmangdenforanvandning:~:text=till%20annan%20webbplats.-,F%C3%B6rbered%20informationsm%C3%A4ngden%20f%C3%B6r%20anv%C3%A4ndning,-Som%20utg%C3%A5ngspunkt%20ska;Guidelines (check-lists) can enable publishers provide their data in open and machine-readable formats (.csv or .xml instead of proprietary non-machine-readable formats). Other tools can assist publishers to clean up the actual data (e.g. OpenRefine, programming languages such as R).;;;;15
+119a;"Are there regular activities conducted or mechanisms in place to incentivise and/or assist data providers in the publication of data in machine-readable formats? 
+
+For justification:
+* If yes, please briefly describe.";yes;"Yes, in the education ""Data ambassadors"" there is a large focus on the importantance of machine readible formats. Also, in the national recommendations for publishing open data there is a particular section about machine-readable data: https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information#h-Forberedinformationsmangdenforanvandning:~:text=%C3%A4mne%20eller%20h%C3%A4ndelse.-,V%C3%A4lj%20r%C3%A4tt%20format,-Ur%20ett%20anv%C3%A4ndarperspektiv";By ‘regularly’ we mean a bi-annual or at least annual frequency for activities such as e-learning modules and materials, webinars, meetings. Incentivisation can include the promotion of good quality datasets, e.g. featuring them on the portal homepage, showcasing the publishers as best practices at data providers’ events. Assistance can be provided through formal processes (e.g. data audits), training sessions with data providers, other training and/or awareness raising activities (‘roadshows’) etc.;;;;15
+119b;"Are there regular activities conducted or mechanisms in place to incentivise and/or assist data providers in the publication of high-quality metadata?
+
+For justification:
+* If yes, please briefly describe.";yes;"We work with knowledge rising programs as the 
+data ambassador program https://www.digg.se/om-oss/nyheter/nyheter/2023-02-21-digg-lanserar-dataambassadorsprogram-for-att-stodja-arbetet-med-oppna-data and also support dataprovidors with our guidelines https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information#h-Taframmetadataochdokumentation. For harvesting to the Swedish dataportal to succeed, an organisation must: 1. Support the correct protocol. 2. Deliver in the right format. 3. Follow the prescribed metadata profile DCAT-AP-SE.";By ‘high-quality metadata’ we refer to metadata that provides information in plain language – accurate, current and complete, on all DCAT-AP mandatory fields as well as relevant recommended and optional DCAT-AP fields.;;;;15
+;4.3 DCAT-AP Compliance;;;;;;;122
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+120;"Do you supply data providers with documentation on DCAT-AP (e.g. factsheets, materials published on the EC websites such as the JoinUp platform, or your own documentation)? 
+
+For justification:
+* If yes, please provide examples of this documentation and the respective URLs.";yes;Yes we provide ur own documentation here: https://docs.dataportal.se/dcat/ ;See https://joinup.ec.europa.eu/;;;;25
+121;"What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource)
+
+For justification:
+* If DCAT-AP is not a priority for the portal, please explain why.";>90%;;For more information, please see https://joinup.ec.europa.eu/catalogue/distribution/dcat-ap-version-11 ;;;;25
+122a;"What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document)
+
+For justification:
+* If the use of recommended classes is not a priority for the portal, please explain why.";>90%;;;;;;20
+122b;"What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency)
+
+For justification:
+* If the use of optional classes is not a priority for the portal, please explain why.";51-70%;;;;;;14
+123;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For justification:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;"UPDATED ANSWER:
+Yes there is. Documentation for the Swedish DCAT-AP standard (DCAT-AP-SE) is available in the technical documentation for the national dataportal: https://docs.dataportal.se/dcat/ Here you can find the standard in both Swedish and in English.
+DCAT-AP-SE contains clarifications, translations and explanations of DCAT-AP for Sweden. DCAT-AP-SE is a national adaption of DCAT-AP, which could be compared with DCAT-AP as a European adaption of DCAT (W3C). The reason to have a national adaption is to make it easier for Swedish data producers to use DCAT-AP-SE and to make a uniform description of data sets. The data producers are required to use DCAT-AP-SE to make metadata about their data available at the Swedish data portal. DCAT-AP-SE is developed in collaboration to suit the Swedish context of organisations and data domains and to simplify the collection, search and presentation of data at the Swedish data portal. The main differences from the standard EU version is a translation to Swedish, more detailed explanations and suggestions of how to use recommended and optional fields in the Swedish context. 
+";;Please provide a justification ;Thank you for the updated answers. If possible, we are also interested in a brief explanation about (1) the motivation for a national extension and (2) the main differences from the standard EU version.;;5
+124a;Do you investigate the most common causes for the lack of DCAT-AP compliance?;no ;N/A;;;;;0
+124b;"If yes [to Q124a], what are the main causes for the lack of DCAT-AP compliance?
+
+For justification:
+* Please list the most common causes and select 'see answer box'.";Select answer for Q124b;;;;;;0
+125a;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;10-30%;N/A;According to the DCAT-AP definition, the ‘download URL’ property contains a URL that is a direct link to a downloadable file in a given format.;;;;8
+125b;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;According to the DCAT-AP definition, the ‘access URL’ property contains a URL that gives access to a distribution of the dataset. ;;;;25
+;4.4 Deployment quality and linked data;;;;;;;128
+ID;Question;Answer;Justification;Guide to Answering;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+126;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For justification:
+* If yes, please briefly describe.";yes;"Yes, we use the 5-star open data model as a reference and example for having various dialogues on data quality, and how data producers can increase the data quality over time. Also, we use this model in our education ""Data ambassadors"" as a pedagic example on how they can start on a rather low level and then increase the the data quality and means for access to data (via e.g. an API). Some public actors get stressed over linked data, and then we can also use the 5-star open data model to show that linked data can be seen as a goal rather than as the starting point. ";For more information, please visit: http://5stardata.info/en/ or https://joinup.ec.europa.eu/sites/default/files/inline-files/W3C04.pdf.;;;;15
+127;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data (such as promoting the model referenced in the previous question)?
+
+For justification:
+* If yes, please briefly describe.";yes;"We work with knowledge rising programs as the 
+data ambassador program https://www.digg.se/om-oss/nyheter/nyheter/2023-02-21-digg-lanserar-dataambassadorsprogram-for-att-stodja-arbetet-med-oppna-data and also promotes the five star model in our guidelines for making data available  https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information#h-Forberedinformationsmangdenforanvandning:~:text=begrepp%20och%20terminologier.-,Anv%C3%A4nd%20best%C3%A4ndiga%20identifierare,-F%C3%B6r%20att%20anv%C3%A4ndare";;;;;30
+128a;What percentage of datasets is made available under a standard open licence or an explicit custom open licence, in any data format including text documents? ;71-90%;N/A;;;;;18
+128b;Of the percentage indicated in the previous question (Q128a), what percentage of datasets is made available under a standard open licence or an explicit custom open licence, in a structured data format?;>90%;N/A;"Refers to open data that is available on the web under an open licence, in a structured format (=machine-readable format that is proprietary, such as .xls; .xlsx). Please note that formats such as .pdf; .jpeg; .png, .doc(x) are not considered machine-readable formats and should hence not be counted towards this answer.";;;;25
+128c;Of the percentage indicated in the previous question (Q128b), which part is also in an open and machine-readable format?;>90%;N/A;Refers to open data that is published in an open (=non-proprietary) machine-readable format. A non-proprietary format is a format for which a user does not require a proprietary software package (such as Microsoft Office Excel) to explore. An example of an open format is the comma-separated values (CSV) format for tabular data.;;;;25
+128d;Of the percentage indicated in the previous question (Q128c), what percentage of datasets also consistely use Uniform Resource Identifiers?;<10%;N/A;"Refers to open data whose comprising objects are accompanied by unique identifiers. An identifier may be the object’s name (e.g. city name ‘Luxembourg’, or ‘10717’ -- a Berlin postcode), or a word describing the object (‘population’; ‘gender’), or another arbitrary identifier such as ‘XYZ0’, an identifier that makes sense only in the context of that dataset. Choosing identifiers based on known standards should be the common practice though, to facilitate data integration and linked data.";;;;0
+128e;Of the percentage indicated in the previous question (Q128d), what percentage of datasets also links to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;51-70%;N/A;;;;;15
+129;"Do you monitor the improvements in terms of quality of open data deployment?
+
+For justification:
+* If yes, please briefly describe how.";no ;;;;;;0

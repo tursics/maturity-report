@@ -1,0 +1,121 @@
+@font-face {
+    font-family: Lato;
+    src: url('lato-regular-webfont.woff2') format('woff2'), url('lato-regular-webfont.woff') format('woff');
+}
+@font-face {
+    font-family: Lato;
+    src: url('lato-italic-webfont.woff2') format('woff2'), url('lato-italic-webfont.woff') format('woff');
+    font-style: italic;
+}
+@font-face {
+    font-family: Lato;
+    src: url('lato-thin-webfont.woff2') format('woff2'), url('lato-thin-webfont.woff') format('woff');
+    font-weight: 100;
+}
+@font-face {
+    font-family: Lato;
+    src: url('lato-thinitalic-webfont.woff2') format('woff2'), url('lato-thinitalic-webfont.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: Lato;
+    src: url('lato-light-webfont.woff2') format('woff2'), url('lato-light-webfont.woff') format('woff');
+    font-weight: 300;
+}
+@font-face {
+    font-family: Lato;
+    src: url('lato-lightitalic-webfont.woff2') format('woff2'), url('lato-lightitalic-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: Lato;
+    src: url('lato-bold-webfont.woff2') format('woff2'), url('lato-bold-webfont.woff') format('woff');
+    font-weight: 700;
+}
+@font-face {
+    font-family: Lato;
+    src: url('lato-bolditalic-webfont.woff2') format('woff2'), url('lato-bolditalic-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: Lato;
+    src: url('lato-black-webfont.woff2') format('woff2'), url('lato-black-webfont.woff') format('woff');
+    font-weight: 900;
+}
+@font-face {
+    font-family: Lato;
+    src: url('lato-blackitalic-webfont.woff2') format('woff2'), url('lato-blackitalic-webfont.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #222;
+    color: #aaa;
+    font-family: Lato, sans-serif;
+    font-size: 1rem;
+    line-height: 1.75rem;
+}
+
+p {
+    font-size: 1rem;
+}
+
+h1 {
+    font-size: 1.9rem;
+    line-height: 2.2rem;
+}
+
+h2 {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+}
+
+h3 {
+    border-bottom: .1rem solid #d8d8d8;
+    border-top: .1rem solid #d8d8d8;
+    font-size: 1rem;
+    line-height: 1.7rem;
+    padding: .95rem 0;
+}
+
+hr {
+    background-color: #d8d8d8;
+    border: none;
+    height: .1rem;
+    margin: 0;
+    width: 100%;
+}
+
+a[href] {
+    color: #1e8ad6;
+}
+
+a[href]:hover {
+    color: #3ba0e6;
+}
+
+img {
+    max-width: 100%;
+}
+
+li {
+    line-height: 1.5em;
+}
+
+aside,
+[class *= "sidebar"],
+[id *= "sidebar"] {
+    border: .1rem solid lightgrey;
+    margin: 0 auto;
+    max-width: 90%;
+    padding: .3rem .95rem;
+}

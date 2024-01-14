@@ -1,5 +1,6 @@
 var load = (function () {
     var files = [];
+    var callbackFinish = null;
 
     function init() {
     }
@@ -89,8 +90,14 @@ var load = (function () {
         }
     }
 
+    function funcAddFinishCallback(callback) {
+        callbackFinish = callback;
+    }
+
     function dispatchFinish() {
-        console.log('finish');
+        if (callbackFinish) {
+            callbackFinish();
+        }
     }
 
     function funcCSV(filepath, callback) {
@@ -105,6 +112,7 @@ var load = (function () {
     }
 
     return {
+        addFinishCallback: funcAddFinishCallback,
         csv: funcCSV,
     };
 }());

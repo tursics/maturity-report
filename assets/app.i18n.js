@@ -36,9 +36,16 @@ var _ = (function () {
         return lang[key] ? lang[key] : (i18n[FALLBACK][key] ? i18n[FALLBACK][key] : '{' + key + '}');
     }
 
+    function funcAppendTranslations(lang, data) {
+        data.forEach((item) => {
+            i18n[lang][item.key] = item.value;
+        });
+    }
+
     init();
 
     return {
+        appendTranslations: funcAppendTranslations,
         get: funcGet,
         setLanguage: funcSetLanguage,
     };

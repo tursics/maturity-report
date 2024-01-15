@@ -16,7 +16,7 @@ var _ = (function () {
 
         elements.forEach(elem => {
             var key = elem.dataset['i18n'];
-            elem.innerHTML = lang[key];
+            elem.innerHTML = funcGet(key);
         });
     }
 

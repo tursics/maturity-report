@@ -1,6 +1,7 @@
 var load = (function () {
     var files = [];
     var callbackFinish = null;
+    var idConsole = 'console-fileload';
 
     function init() {
     }
@@ -8,11 +9,16 @@ var load = (function () {
     init();
 
     function log(filepath) {
-        var elem = document.getElementById('console-fileload');
+        var elem = document.getElementById(idConsole);
         var path = filepath.split('/');
         var str = '<span data-i18n="loadFile">' + _.get('loadFile') + '</span> ' + path[path.length - 1] + '<br>';
 
         elem.innerHTML += str;
+    }
+
+    function funcShowLog(show) {
+        var elem = document.getElementById(idConsole);
+        elem.style.display = show ? 'block' : 'none';
     }
 
     function loadFile() {
@@ -114,5 +120,6 @@ var load = (function () {
     return {
         addFinishCallback: funcAddFinishCallback,
         csv: funcCSV,
+        showLog: funcShowLog,
     };
 }());

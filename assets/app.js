@@ -8,6 +8,8 @@ var loadedDataGermany = [];
 // ----------------------------------------------------------------------------
 
 function onFinishLoading() {
+    load.showLog(false);
+
     var elem = document.getElementById('test');
     var key = 'R1';
 

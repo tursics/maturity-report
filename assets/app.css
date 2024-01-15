@@ -132,3 +132,20 @@ aside,
 .odm-color-quality {
     color: #ff9933;
 }
+
+.answerbox {
+    background: #888;
+    display: inline-block;
+    height: 1rem;
+    margin: 0 .2rem .2rem 0;
+    width: 1rem;
+}
+.answerbox.bg-red {
+    background-color: #dc5149;
+}
+.answerbox.bg-green {
+    background-color: #49DC51;
+}
+.answerbox.bg-yellow {
+    background-color: #dc9b49;
+}

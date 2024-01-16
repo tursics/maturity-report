@@ -3,17 +3,16 @@
 var DEFAULT_LANG = 'de',
     WEBSERVER_PATH = 'https://tursics.github.io/maturity-report/';
 
-var loadedDataGermany = [];
+var loadedDataGermany = [],
+    loadedDataScore = [];
 
 // ----------------------------------------------------------------------------
 
 function getJustification(key) {
     var str = '<span data-i18n="' + key + '">' + _.get(key) + '</span> ';
-    loadedDataGermany.forEach((item) => {
-        if (item.ID === key) {
-            str += '<span data-i18n="' + item.Justification + '">' + _.get(item.Justification) + '</span>';
-        }
-    });
+    var item = loadedDataGermany[key];
+
+    str += '<span data-i18n="' + item.Justification + '">' + _.get(item.Justification) + '</span>';
     str += '<br>';
 
     return str;
@@ -21,35 +20,35 @@ function getJustification(key) {
 
 function getScore(key) {
     var str = '<span data-i18n="' + key + '">' + _.get(key) + '</span> ';
-    loadedDataGermany.forEach((item) => {
-        if (item.ID === key) {
-            str += item.Score;
-        }
-    });
+    var item = loadedDataGermany[key];
+
+    str += item.Score;
     str += '<br>';
 
     return str;
 }
 
 function getAnswer(key) {
-    var answer = ''
     var color = 'bg-gray';
+    var item = loadedDataGermany[key];
+    var scoreItem = loadedDataScore[key];
 
-    loadedDataGermany.forEach((item) => {
-        if (item.ID === key) {
-            answer = item.Answer.toLowerCase();
-        }
-    });
+    var score = parseInt(item.Score, 10);
+    var maxScore = scoreItem ? parseInt(scoreItem.Weight, 10) : NaN;
+    var width = maxScore;
 
-    if (-1 < ['yes','yes, >9','yes, entirely','satisfactory','increased, or already all datasets','a mix of the above','all public sector data providers','yes, or all public sector data providers already publish data','yes, cc licences','90-99%','>90%','increased, or already >90%'].indexOf(answer)) {
+    if (isNaN(maxScore) || (maxScore === 0)) {
+        color = 'bg-gray';
+        width = 5;
+    } else if (maxScore === score) {
         color = 'bg-green';
-    } else if (-1 < ['yes, other measures','yes, some initiatives','yes, but the focus is limited','hybrid','the majority of public bodies','the majority of datasets','few datasets','a bit of everything, no clear dominant group','within one week','annually','1-10%','5-10','31-50%','51-70%','71-90%'].indexOf(answer)) {
-        color = 'bg-yellow';
-    } else if (-1 < ['no','i don\'t know'].indexOf(answer)) {
+    } else if (0 === score) {
         color = 'bg-red';
+    } else {
+        color = 'bg-yellow';
     }
 
-    var str = '<span data-i18n-title="' + key + '" title="' + _.get(key) + '" class="answerbox ' + color + '"></span>';
+    var str = '<span data-i18n-title="' + key + '" title="' + _.get(key) + '" class="answerbox ' + color + '" style="width:' + width + 'px"></span>';
 
     return str;
 }
@@ -302,12 +301,22 @@ function onFinishLoading() {
     elem.innerHTML += str;
 }
 
+function onFileScoring(filepath, data) {
+    loadedDataScore = [];
+    data.forEach((obj) => {
+        loadedDataScore[obj.ID] = obj;
+    });
+}
+
 function onFileReportEN(filepath, data) {
     _.appendTranslations('en', data);
 }
 
 function onFileReplayDE(filepath, data) {
-    loadedDataGermany = data;
+    loadedDataGermany = [];
+    data.forEach((obj) => {
+        loadedDataGermany[obj.ID] = obj;
+    });
 }
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -320,6 +329,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }, 5000);
 
     load.csv('2023/3-simplified/00_i18n.csv', onFileReportEN);
+    load.csv('2023/3-simplified/00_scoring.csv', onFileScoring);
     load.csv('2023/3-simplified/DE_ODM 2023.csv', onFileReplayDE);
     load.addFinishCallback(onFinishLoading);
 });

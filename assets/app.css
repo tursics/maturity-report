@@ -137,8 +137,8 @@ aside,
     background: #888;
     display: inline-block;
     height: 1rem;
-    margin: 0 .2rem .2rem 0;
-    width: 1rem;
+    margin: 0 1px .2rem 0;
+    width: 1px;
 }
 .answerbox.bg-red {
     background-color: #dc5149;

@@ -53,6 +53,36 @@ function getAnswer(key) {
     return str;
 }
 
+function createQuestionTree(data) {
+    var tree = [];
+    var parent = tree;
+
+    tree.push({type: 'dimension', id: 'D0', children: []});
+    parent = tree[tree.length - 1].children;
+
+    data.forEach((obj) => {
+        if (0 === obj.ID.indexOf('D')) {
+            if (obj.ID.length === 2) {
+                parent = tree;
+                parent.push({type: 'dimension', id: obj.ID, children: []});
+                parent = parent[parent.length - 1].children;
+            } else if (obj.ID.length === 4) {
+                parent = tree.find((elem) => elem.id === obj.ID.substring(0, 2)).children;
+                parent.push({type: 'dimension', id: obj.ID, children: []});
+                parent = parent[parent.length - 1].children;
+            } else if (obj.ID.length === 5) {
+                parent = tree.find((elem) => elem.id === obj.ID.substring(0, 2)).children.find((elem) => elem.id === obj.ID.substring(0, 4)).children;
+                parent.push({type: 'dimension', id: obj.ID, children: []});
+                parent = parent[parent.length - 1].children;
+            }
+        } else {
+            parent.push({type: 'entry', id: obj.ID});
+        }
+    });
+
+    console.log(tree);
+}
+
 function onFinishLoading() {
     load.showLog(false);
 
@@ -317,6 +347,8 @@ function onFileReplayDE(filepath, data) {
     data.forEach((obj) => {
         loadedDataGermany[obj.ID] = obj;
     });
+
+    createQuestionTree(data);
 }
 
 document.addEventListener('DOMContentLoaded', function() {

@@ -130,16 +130,51 @@ function createQuestionTree(data) {
 function prepareShield(score) {
     var shield = document.getElementById('shield1');
     var elemCaption = shield.getElementsByClassName('shield-caption')[0];
+    var elemBoard = shield.getElementsByClassName('shield-board')[0];
     var elemScore = shield.getElementsByClassName('shield-score')[0];
     var item = loadedDataGermany['R1'];
     var str = '';
 
     str = '<span data-i18n="' + item.Justification + '">' + _.get(item.Justification) + '</span>';
     elemCaption.innerHTML = str;
-
+    elemBoard.innerHTML = '';
     elemScore.innerHTML = score;
 
     shield.style.display = 'block';
+}
+
+function setShieldLevel1(obj) {
+    var shield = document.getElementById('shield1');
+    var elemBoard = shield.getElementsByClassName('shield-board')[0];
+    var percentages = [];
+    var str = '';
+
+    obj.children.forEach((child) => {
+        if ('dimension' === child.type) {
+            var score = getScore(child);
+            var maxScore = getMaxScore(child);
+            var percentage = maxScore === 0 ? '' : (parseInt(score / maxScore * 1000, 10) / 10) + '%';
+            percentages[child.id] = percentage;
+        }
+    });
+
+    // D1: Open Data Policy
+    str += '<div class="odm-bg-policy score-barchart" style="left: 1.5em;background: repeating-linear-gradient(0,#00aef2,#00aef2 ' + percentages['D1'] + ',#555 0,#555 100%);"></div>';
+    str += '<div class="score-barchart-label" style="left: .5em;">' + percentages['D1'] + '</div>';
+
+    // D3: Open Data Portal
+    str += '<div class="odm-bg-portal score-barchart" style="left: 5.5em;background: repeating-linear-gradient(0,#001d85,#001d85 ' + percentages['D3'] + ',#555 0,#555 100%);"></div>';
+    str += '<div class="score-barchart-label" style="left: 4.5em;">' + percentages['D3'] + '</div>';
+
+    // D2: Open Data Impact
+    str += '<div class="odm-bg-impact score-barchart" style="left: 9.5em;background: repeating-linear-gradient(0,#dc5149,#dc5149 ' + percentages['D2'] + ',#555 0,#555 100%);"></div>';
+    str += '<div class="score-barchart-label" style="left: 8.5em;">' + percentages['D2'] + '</div>';
+
+    // D4: Open Data Quality
+    str += '<div class="odm-bg-quality score-barchart" style="left: 13.5em;background: repeating-linear-gradient(0,#ff9933,#ff9933 ' + percentages['D4'] + ',#555 0,#555 100%);"></div>';
+    str += '<div class="score-barchart-label" style="left: 12.5em;">' + percentages['D4'] + '</div>';
+
+    elemBoard.innerHTML = str;
 }
 
 function onFinishLoading() {
@@ -155,6 +190,7 @@ function onFinishLoading() {
     }
 
     prepareShield(percentage);
+    setShieldLevel1(questionTree);
 
     var elem = document.getElementById('test');
     var str = '';

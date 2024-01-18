@@ -123,14 +123,26 @@ aside,
 .odm-color-policy {
     color: #00aef2;
 }
+.odm-bg-policy {
+    background: #00aef2;
+}
 .odm-color-portal {
     color: #001d85;
+}
+.odm-bg-portal {
+    background: #001d85;
 }
 .odm-color-impact {
     color: #dc5149;
 }
+.odm-bg-impact {
+    background: #dc5149;
+}
 .odm-color-quality {
     color: #ff9933;
+}
+.odm-bg-quality {
+    background: #ff9933;
 }
 
 .answerbox {
@@ -223,8 +235,18 @@ aside,
 .shield-caption {
     font-size: 2em;
 }
+.shield-board {
+    border-radius: .9em .9em 0 0;
+    bottom: 8.2em;
+    color: #fff;
+    left: 0;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+}
 .shield-score {
-    bottom: .9em;
+    bottom: .7em;
     color: goldenrod;
     font-size: 2em;
     font-weight: 700;
@@ -232,4 +254,16 @@ aside,
     position: absolute;
     right: 0;
     text-align: center;
+}
+
+.score-barchart {
+    height: 7em;
+    position: absolute;
+    top: 1em;
+    width: 2em;
+}
+.score-barchart-label {
+    position: absolute;
+    top: 7.75em;
+    width: 4em;
 }

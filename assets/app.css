@@ -149,3 +149,87 @@ aside,
 .answerbox.bg-yellow {
     background-color: #dc9b49;
 }
+
+.shield {
+    font-size: .6rem;
+    height: 17em;
+    margin: 0 auto 2.25em auto;
+    position: relative;
+    width: 17em;
+}
+.shield-border, .shield-background {  
+    background: goldenrod;
+    border-radius: 2em 2em 104% 104%;
+    height: 18.75em;
+    position: absolute;  
+    width: 17em;
+}
+.shield-border:before, .shield-background:before {
+    border: solid 8em transparent;
+    border-left-width: 2.9em;
+    border-right-width: 2.9em;
+    border-top-color: goldenrod;
+    border-top-width: 1em;
+    bottom: -8.4em;
+    content: "";
+    display: block;
+    height: 0;
+    left: 5.65em;
+    position: absolute;
+    width: 0;
+}
+.shield-background {
+    background: #000;
+    -webkit-transform:scale(.94);
+    -moz-transform:scale(.94);
+    -ms-transform:scale(.94);
+    -o-transform:scale(.94);
+    transform:scale(.94);
+}
+.shield-background:before {
+    border-top-color: #000;
+}
+.shield-ribbon {
+    background: goldenrod;
+    border-radius: 0 0 .5em .5em;
+    bottom: 3.5em;
+    color: #000;
+    font-weight: 700;
+    height: 3em;
+    left: -1.2em;
+    line-height: 3em;
+    position: absolute;
+    text-align: center;
+    width: 19.4em;
+}
+.shield-ribbon:before, .shield-ribbon:after {
+    border: solid 1.2em transparent;
+    border-bottom-color: gold;
+    border-bottom-width: .75em;
+    content: "";
+    height: 0;
+    position: absolute;
+    top: -1.94em;
+    width: 0;
+}
+.shield-ribbon:before {
+    border-right-width: .1em;
+    left: 0;
+}
+.shield-ribbon:after {
+    border-left-width: .1em;
+    right: 0;
+}
+.shield-caption {
+    font-size: 2em;
+}
+.shield-score {
+    bottom: .9em;
+    color: goldenrod;
+    font-size: 2em;
+    font-weight: 700;
+    left: 0;
+    position: absolute;
+    right: 0;
+    text-align: center;
+}

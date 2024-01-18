@@ -127,6 +127,21 @@ function createQuestionTree(data) {
     questionTree = tree;
 }
 
+function prepareShield(score) {
+    var shield = document.getElementById('shield1');
+    var elemCaption = shield.getElementsByClassName('shield-caption')[0];
+    var elemScore = shield.getElementsByClassName('shield-score')[0];
+    var item = loadedDataGermany['R1'];
+    var str = '';
+
+    str = '<span data-i18n="' + item.Justification + '">' + _.get(item.Justification) + '</span>';
+    elemCaption.innerHTML = str;
+
+    elemScore.innerHTML = score;
+
+    shield.style.display = 'block';
+}
+
 function onFinishLoading() {
     load.showLog(false);
 
@@ -139,13 +154,10 @@ function onFinishLoading() {
         console.error('Total score does not match');
     }
 
+    prepareShield(percentage);
+
     var elem = document.getElementById('test');
     var str = '';
-
-    str += getJustification('R1');
-    str += percentage;
-    str += ' (' + score + '/' + maxScore + ')';
-    str += '<br>';
 
     questionTree.children.forEach((level1) => {
         if ('dimension' === level1.type) {

@@ -19,6 +19,25 @@ function getJustification(key) {
     return str;
 }
 
+function getScore(obj) {
+    if (obj.id === 'D0') {
+        return 0;
+    }
+
+    var item = loadedDataGermany[obj.id];
+    var score = item && item.Score ? parseInt(item.Score, 10) : NaN;
+
+    if (isNaN(score) || (obj.type === 'dimension')) {
+        score = 0;
+    }
+
+    if (obj.children) {
+        obj.children.forEach((child) => score += getScore(child));
+    }
+
+    return score;
+}
+
 function getMaxScore(obj) {
     var scoreItem = loadedDataScore[obj.id];
     var maxScore = scoreItem ? parseInt(scoreItem.Weight, 10) : NaN;
@@ -34,20 +53,20 @@ function getMaxScore(obj) {
     return maxScore;
 }
 
-function getScore(obj) {
+function getHTMLScore(obj) {
     var key = obj.id;
     var str = '<span data-i18n="' + key + '">' + _.get(key) + '</span> ';
     var item = loadedDataGermany[key];
 
     var score = item && item.Score ? parseInt(item.Score, 10) : 0;
     var maxScore = getMaxScore(obj);
-    var percentage = maxScore === 0 ? '' : parseInt(score / maxScore * 100, 10) + '%';
+    var percentage = maxScore === 0 ? '' : (parseInt(score / maxScore * 1000, 10) / 10) + '%';
 
-    str += score;
-    str += '/';
-    str += maxScore;
-    str += ' - ';
+    if (score !== getScore(obj)) {
+        console.error('Score does not match in', obj.id);
+    }
     str += percentage;
+    str += ' (' + score + '/' + maxScore + ')';
     str += '<br>';
 
     return str;
@@ -79,24 +98,24 @@ function getAnswer(key) {
 }
 
 function createQuestionTree(data) {
-    var tree = [];
-    var parent = tree;
+    var tree = {type: 'root', id: 'root', children: []};
+    var parent = tree.children;
 
-    tree.push({type: 'dimension', id: 'D0', children: []});
-    parent = tree[tree.length - 1].children;
+    parent.push({type: 'dimension', id: 'D0', children: []});
+    parent = parent[parent.length - 1].children;
 
     data.forEach((obj) => {
         if (0 === obj.ID.indexOf('D')) {
             if (obj.ID.length === 2) {
-                parent = tree;
+                parent = tree.children;
                 parent.push({type: 'dimension', id: obj.ID, children: []});
                 parent = parent[parent.length - 1].children;
             } else if (obj.ID.length === 4) {
-                parent = tree.find((elem) => elem.id === obj.ID.substring(0, 2)).children;
+                parent = tree.children.find((elem) => elem.id === obj.ID.substring(0, 2)).children;
                 parent.push({type: 'dimension', id: obj.ID, children: []});
                 parent = parent[parent.length - 1].children;
             } else if (obj.ID.length === 5) {
-                parent = tree.find((elem) => elem.id === obj.ID.substring(0, 2)).children.find((elem) => elem.id === obj.ID.substring(0, 4)).children;
+                parent = tree.children.find((elem) => elem.id === obj.ID.substring(0, 2)).children.find((elem) => elem.id === obj.ID.substring(0, 4)).children;
                 parent.push({type: 'dimension', id: obj.ID, children: []});
                 parent = parent[parent.length - 1].children;
             }
@@ -117,18 +136,18 @@ function onFinishLoading() {
     str += getJustification('R1');
     str += '<br>';
 
-    questionTree.forEach((level1) => {
+    questionTree.children.forEach((level1) => {
         if ('dimension' === level1.type) {
             str += '<hr>';
-            str += getScore(level1);
+            str += getHTMLScore(level1);
 
             level1.children.forEach((level2) => {
                 if ('dimension' === level2.type) {
-                    str += getScore(level2);
+                    str += getHTMLScore(level2);
 
                     level2.children.forEach((level3) => {
                         if ('dimension' === level3.type) {
-                            str += getScore(level3);
+                            str += getHTMLScore(level3);
 
                             level3.children.forEach((level4) => {
                                 str += getAnswer(level4.id);

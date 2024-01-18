@@ -130,10 +130,21 @@ function createQuestionTree(data) {
 function onFinishLoading() {
     load.showLog(false);
 
+    var item = loadedDataGermany['TotalScore'];
+    var score = item && item.Score ? parseInt(item.Score, 10) : 0;
+    var maxScore = getMaxScore(questionTree);
+    var percentage = maxScore === 0 ? '' : (parseInt(score / maxScore * 1000, 10) / 10) + '%';
+
+    if (score !== getScore(questionTree)) {
+        console.error('Total score does not match');
+    }
+
     var elem = document.getElementById('test');
     var str = '';
 
     str += getJustification('R1');
+    str += percentage;
+    str += ' (' + score + '/' + maxScore + ')';
     str += '<br>';
 
     questionTree.children.forEach((level1) => {

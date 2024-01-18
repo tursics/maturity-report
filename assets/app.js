@@ -19,11 +19,35 @@ function getJustification(key) {
     return str;
 }
 
-function getScore(key) {
+function getMaxScore(obj) {
+    var scoreItem = loadedDataScore[obj.id];
+    var maxScore = scoreItem ? parseInt(scoreItem.Weight, 10) : NaN;
+
+    if (isNaN(maxScore)) {
+        maxScore = 0;
+    }
+
+    if (obj.children) {
+        obj.children.forEach((child) => maxScore += getMaxScore(child));
+    }
+
+    return maxScore;
+}
+
+function getScore(obj) {
+    var key = obj.id;
     var str = '<span data-i18n="' + key + '">' + _.get(key) + '</span> ';
     var item = loadedDataGermany[key];
 
-    str += (item && item.Score ? item.Score : '-');
+    var score = item && item.Score ? parseInt(item.Score, 10) : 0;
+    var maxScore = getMaxScore(obj);
+    var percentage = maxScore === 0 ? '' : parseInt(score / maxScore * 100, 10) + '%';
+
+    str += score;
+    str += '/';
+    str += maxScore;
+    str += ' - ';
+    str += percentage;
     str += '<br>';
 
     return str;
@@ -96,15 +120,15 @@ function onFinishLoading() {
     questionTree.forEach((level1) => {
         if ('dimension' === level1.type) {
             str += '<hr>';
-            str += getScore(level1.id);
+            str += getScore(level1);
 
             level1.children.forEach((level2) => {
                 if ('dimension' === level2.type) {
-                    str += getScore(level2.id);
+                    str += getScore(level2);
 
                     level2.children.forEach((level3) => {
                         if ('dimension' === level3.type) {
-                            str += getScore(level3.id);
+                            str += getScore(level3);
 
                             level3.children.forEach((level4) => {
                                 str += getAnswer(level4.id);

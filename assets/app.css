@@ -62,7 +62,7 @@ body {
     color: #aaa;
     font-family: Lato, sans-serif;
     font-size: 1rem;
-    line-height: 1.75rem;
+    line-height: 1.75em;
 }
 
 p {
@@ -71,19 +71,19 @@ p {
 
 h1 {
     font-size: 1.9rem;
-    line-height: 2.2rem;
+    line-height: 2.2em;
 }
 
 h2 {
     font-size: 1.25rem;
-    line-height: 1.5rem;
+    line-height: 1.5em;
 }
 
 h3 {
     border-bottom: .1rem solid #d8d8d8;
     border-top: .1rem solid #d8d8d8;
     font-size: 1rem;
-    line-height: 1.7rem;
+    line-height: 1.7em;
     padding: .95rem 0;
 }
 
@@ -148,9 +148,9 @@ aside,
 .answerbox {
     background: #888;
     display: inline-block;
-    height: 1rem;
-    margin: 0 1px .2rem 0;
-    width: 1px;
+    height: .9em;
+    margin: 0 .1em .1em 0;
+    width: .1em;
 }
 .answerbox.bg-red {
     background-color: #dc5149;
@@ -240,6 +240,8 @@ aside,
     bottom: 8.2em;
     color: #fff;
     left: 0;
+    line-height: 1em;
+    overflow: hidden;
     position: absolute;
     right: 0;
     text-align: center;
@@ -257,12 +259,14 @@ aside,
 }
 
 .score-barchart {
+    cursor: pointer;
     height: 7em;
     position: absolute;
     top: 1em;
     width: 2em;
 }
 .score-barchart-label {
+    cursor: pointer;
     position: absolute;
     top: 7.75em;
     width: 3em;

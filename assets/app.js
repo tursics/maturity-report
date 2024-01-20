@@ -72,7 +72,7 @@ function getHTMLScore(obj) {
     return str;
 }
 
-function getAnswer(key) {
+function getAnswer(key, showGray) {
     var color = 'bg-gray';
     var item = loadedDataGermany[key];
     var scoreItem = loadedDataScore[key];
@@ -92,7 +92,11 @@ function getAnswer(key) {
         color = 'bg-yellow';
     }
 
-    var str = '<span data-i18n-title="' + key + '" title="' + _.get(key) + '" class="answerbox ' + color + '" style="width:' + width + 'px"></span>';
+    var str = '<span data-i18n-title="' + key + '" title="' + _.get(key) + '" class="answerbox ' + color + '" style="width:' + (width / 20) + 'em"></span>';
+
+    if (!showGray && (color === 'bg-gray')) {
+        str = '';
+    }
 
     return str;
 }
@@ -148,6 +152,7 @@ function setShieldLevel1(obj) {
     var elemBoard = shield.getElementsByClassName('shield-board')[0];
     var percentages = [];
     var str = '';
+    var id = '';
 
     obj.children.forEach((child) => {
         if ('dimension' === child.type) {
@@ -159,23 +164,50 @@ function setShieldLevel1(obj) {
     });
 
     // D1: Open Data Policy
-    str += '<div class="odm-bg-policy score-barchart" style="left: 1.5em;background: repeating-linear-gradient(0,#00aef2,#00aef2 ' + percentages['D1'] + ',#555 0,#555 100%);"></div>';
-    str += '<div class="score-barchart-label" style="left: 1em;">' + percentages['D1'] + '</div>';
+    id = 'D1';
+    str += '<div onclick="goto(\'' + id + '\')" class="odm-bg-policy score-barchart" style="left: 1.5em;background: repeating-linear-gradient(0,#00aef2,#00aef2 ' + percentages['D1'] + ',#555 0,#555 100%);"></div>';
+    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 1em;">' + percentages['D1'] + '</div>';
 
     // D3: Open Data Portal
-    str += '<div class="odm-bg-portal score-barchart" style="left: 4.5em;background: repeating-linear-gradient(0,#001d85,#001d85 ' + percentages['D3'] + ',#555 0,#555 100%);"></div>';
-    str += '<div class="score-barchart-label" style="left: 4em;">' + percentages['D3'] + '</div>';
+    id = 'D3';
+    str += '<div onclick="goto(\'' + id + '\')" class="odm-bg-portal score-barchart" style="left: 4.5em;background: repeating-linear-gradient(0,#001d85,#001d85 ' + percentages['D3'] + ',#555 0,#555 100%);"></div>';
+    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 4em;">' + percentages['D3'] + '</div>';
 
     // D2: Open Data Impact
-    str += '<div class="odm-bg-impact score-barchart" style="left: 7.5em;background: repeating-linear-gradient(0,#dc5149,#dc5149 ' + percentages['D2'] + ',#555 0,#555 100%);"></div>';
-    str += '<div class="score-barchart-label" style="left: 7em;">' + percentages['D2'] + '</div>';
+    id = 'D2';
+    str += '<div onclick="goto(\'' + id + '\')" class="odm-bg-impact score-barchart" style="left: 7.5em;background: repeating-linear-gradient(0,#dc5149,#dc5149 ' + percentages['D2'] + ',#555 0,#555 100%);"></div>';
+    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 7em;">' + percentages['D2'] + '</div>';
 
     // D4: Open Data Quality
-    str += '<div class="odm-bg-quality score-barchart" style="left: 10.5em;background: repeating-linear-gradient(0,#ff9933,#ff9933 ' + percentages['D4'] + ',#555 0,#555 100%);"></div>';
-    str += '<div class="score-barchart-label" style="left: 10em;">' + percentages['D4'] + '</div>';
+    id = 'D4';
+    str += '<div onclick="goto(\'' + id + '\')" class="odm-bg-quality score-barchart" style="left: 10.5em;background: repeating-linear-gradient(0,#ff9933,#ff9933 ' + percentages['D4'] + ',#555 0,#555 100%);"></div>';
+    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 10em;">' + percentages['D4'] + '</div>';
 
-    str += '<div class="score-barchart" style="left: 13.5em;background: #555;"></div>';
-    str += '<div class="score-barchart-label" style="left: 13em;">' + _.get('Info') + '</div>';
+    id = 'D0';
+    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart" style="left: 13.5em;background: #555;"></div>';
+    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 13em;">' + _.get('Info') + '</div>';
+
+    elemBoard.innerHTML = str;
+}
+
+function setShieldLevelDebug() {
+    var shield = document.getElementById('shield1');
+    var elemBoard = shield.getElementsByClassName('shield-board')[0];
+    var str = '';
+
+    prepareShield('debug');
+
+    function processChildren(root) {
+        root.children.forEach((child) => {
+            if ('dimension' === child.type) {
+                processChildren(child);
+            } else {
+                str += getAnswer(child.id, false);
+            }
+        });
+    }
+
+    processChildren(questionTree);
 
     elemBoard.innerHTML = str;
 }
@@ -212,11 +244,11 @@ function onFinishLoading() {
                             str += getHTMLScore(level3);
 
                             level3.children.forEach((level4) => {
-                                str += getAnswer(level4.id);
+                                str += getAnswer(level4.id, true);
                             });
                             str += '<br>';
                         } else {
-                            str += getAnswer(level3.id);
+                            str += getAnswer(level3.id, true);
                         }
                     });
                     str += '<br>';
@@ -247,6 +279,12 @@ function onFileReplayDE(filepath, data) {
     });
 
     createQuestionTree(data);
+}
+
+function goto(destination) {
+    console.log(destination);
+
+    setShieldLevelDebug();
 }
 
 document.addEventListener('DOMContentLoaded', function() {

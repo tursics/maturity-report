@@ -1,7 +1,8 @@
 // ----------------------------------------------------------------------------
 
 var DEFAULT_LANG = 'de',
-    WEBSERVER_PATH = 'https://tursics.github.io/maturity-report/';
+    WEBSERVER_PATH = 'https://tursics.github.io/maturity-report/',
+    COLORS = {'D0': '#555','D1': '#00aef2','D2': '#dc5149','D3': '#001d85','D4': '#ff9933'};
 
 var loadedDataGermany = [],
     loadedDataScore = [],
@@ -131,6 +132,35 @@ function createQuestionTree(data) {
     questionTree = tree;
 }
 
+function getQuestion(id) {
+    var obj = questionTree;
+
+    if (0 === id.indexOf('D')) {
+        if (id.length >= 2) {
+            obj = obj.children.find((elem) => elem.id === id.substring(0, 2));
+
+            if (id.length >= 4) {
+                obj = obj.children.find((elem) => elem.id === id.substring(0, 4));
+
+                if (id.length >= 5) {
+                    obj = obj.children.find((elem) => elem.id === id.substring(0, 5));
+                }
+            }
+        }
+    } else {
+        obj = undefined;
+    }
+
+    return obj;
+}
+
+function getPercentage(question) {
+    var score = getScore(question);
+    var maxScore = getMaxScore(question);
+
+    return maxScore === 0 ? '' : (parseInt(score / maxScore * 1000, 10) / 10) + '%';
+}
+
 function prepareShield(score) {
     var shield = document.getElementById('shield1');
     var elemCaption = shield.getElementsByClassName('shield-caption')[0];
@@ -147,10 +177,10 @@ function prepareShield(score) {
     shield.style.display = 'block';
 }
 
-function setShieldLevel1(obj) {
+function setShieldLevelRoot(obj) {
     var shield = document.getElementById('shield1');
     var elemBoard = shield.getElementsByClassName('shield-board')[0];
-    var percentages = [];
+    var dimensions = [];
     var str = '';
     var id = '';
 
@@ -159,33 +189,77 @@ function setShieldLevel1(obj) {
             var score = getScore(child);
             var maxScore = getMaxScore(child);
             var percentage = maxScore === 0 ? '' : Math.round(score / maxScore * 100) + '%';
-            percentages[child.id] = percentage;
+            dimensions[child.id] = percentage;
         }
     });
 
+    id = 'D0';
+    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart" style="left: 1.5em;background: #555;"></div>';
+    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 1em;">' + _.get('Info') + '</div>';
+
     // D1: Open Data Policy
     id = 'D1';
-    str += '<div onclick="goto(\'' + id + '\')" class="odm-bg-policy score-barchart" style="left: 1.5em;background: repeating-linear-gradient(0,#00aef2,#00aef2 ' + percentages['D1'] + ',#555 0,#555 100%);"></div>';
-    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 1em;">' + percentages['D1'] + '</div>';
+    str += '<div onclick="goto(\'' + id + '\')" class="odm-bg-policy score-barchart" style="left: 4.5em;background: repeating-linear-gradient(0,#00aef2,#00aef2 ' + dimensions['D1'] + ',#555 0,#555 100%);"></div>';
+    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 4em;">' + dimensions['D1'] + '</div>';
 
     // D3: Open Data Portal
     id = 'D3';
-    str += '<div onclick="goto(\'' + id + '\')" class="odm-bg-portal score-barchart" style="left: 4.5em;background: repeating-linear-gradient(0,#001d85,#001d85 ' + percentages['D3'] + ',#555 0,#555 100%);"></div>';
-    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 4em;">' + percentages['D3'] + '</div>';
+    str += '<div onclick="goto(\'' + id + '\')" class="odm-bg-portal score-barchart" style="left: 7.5em;background: repeating-linear-gradient(0,#001d85,#001d85 ' + dimensions['D3'] + ',#555 0,#555 100%);"></div>';
+    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 7em;">' + dimensions['D3'] + '</div>';
 
     // D2: Open Data Impact
     id = 'D2';
-    str += '<div onclick="goto(\'' + id + '\')" class="odm-bg-impact score-barchart" style="left: 7.5em;background: repeating-linear-gradient(0,#dc5149,#dc5149 ' + percentages['D2'] + ',#555 0,#555 100%);"></div>';
-    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 7em;">' + percentages['D2'] + '</div>';
+    str += '<div onclick="goto(\'' + id + '\')" class="odm-bg-impact score-barchart" style="left: 10.5em;background: repeating-linear-gradient(0,#dc5149,#dc5149 ' + dimensions['D2'] + ',#555 0,#555 100%);"></div>';
+    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 10em;">' + dimensions['D2'] + '</div>';
 
     // D4: Open Data Quality
     id = 'D4';
-    str += '<div onclick="goto(\'' + id + '\')" class="odm-bg-quality score-barchart" style="left: 10.5em;background: repeating-linear-gradient(0,#ff9933,#ff9933 ' + percentages['D4'] + ',#555 0,#555 100%);"></div>';
-    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 10em;">' + percentages['D4'] + '</div>';
+    str += '<div onclick="goto(\'' + id + '\')" class="odm-bg-quality score-barchart" style="left: 13.5em;background: repeating-linear-gradient(0,#ff9933,#ff9933 ' + dimensions['D4'] + ',#555 0,#555 100%);"></div>';
+    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 13em;">' + dimensions['D4'] + '</div>';
 
-    id = 'D0';
-    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart" style="left: 13.5em;background: #555;"></div>';
-    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 13em;">' + _.get('Info') + '</div>';
+    elemBoard.innerHTML = str;
+}
+
+function setShieldLevelCommon(root, id) {
+    var shield = document.getElementById('shield1');
+    var elemBoard = shield.getElementsByClassName('shield-board')[0];
+    var dimensions = [];
+    var answers = '';
+    var str = '';
+
+    var obj = getQuestion(id);
+    if (undefined === obj) {
+        console.error('Unknown id', id);
+        return;
+    }
+
+    var percentage = getPercentage(obj);
+    prepareShield(percentage);
+
+    obj.children.forEach((child) => {
+        if ('dimension' === child.type) {
+            var score = getScore(child);
+            var maxScore = getMaxScore(child);
+            var percentage = maxScore === 0 ? '' : Math.round(score / maxScore * 100) + '%';
+            dimensions.push({id: child.id, percentage});
+        } else {
+            answers += getAnswer(child.id, false);
+        }
+    });
+
+    if (dimensions.length > 0) {
+        var x = (17 - dimensions.length * 3) / 2;
+        dimensions.forEach((dimension) => {
+            var color = COLORS[dimension.id.substring(0,2)];
+
+            str += '<div onclick="goto(\'' + dimension.id + '\')" class="score-barchart" style="left: ' + (x + .5) + 'em;background: repeating-linear-gradient(0,' + color + ',' + color + ' ' + dimension.percentage + ',#555 0,#555 100%);"></div>';
+            str += '<div onclick="goto(\'' + dimension.id + '\')" class="score-barchart-label" style="left: ' + x + 'em;">' + dimension.percentage + '</div>';
+
+            x += 3;
+        });
+    } else {
+        str += answers;
+    }
 
     elemBoard.innerHTML = str;
 }
@@ -225,7 +299,7 @@ function onFinishLoading() {
     }
 
     prepareShield(percentage);
-    setShieldLevel1(questionTree);
+    setShieldLevelRoot(questionTree);
 
     var elem = document.getElementById('test');
     var str = '';
@@ -282,9 +356,11 @@ function onFileReplayDE(filepath, data) {
 }
 
 function goto(destination) {
-    console.log(destination);
-
-    setShieldLevelDebug();
+    if ('D0' === destination) {
+        setShieldLevelDebug();
+    } else {
+        setShieldLevelCommon(loadedDataGermany, destination);
+    }
 }
 
 document.addEventListener('DOMContentLoaded', function() {

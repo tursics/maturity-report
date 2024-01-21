@@ -262,12 +262,12 @@ aside,
     cursor: pointer;
     height: 7em;
     position: absolute;
-    top: 1em;
+    top: 1.25em;
     width: 2em;
 }
 .score-barchart-label {
     cursor: pointer;
     position: absolute;
-    top: 7.75em;
+    top: 8.75em;
     width: 3em;
 }

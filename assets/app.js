@@ -6,7 +6,8 @@ var DEFAULT_LANG = 'de',
 
 var loadedDataGermany = [],
     loadedDataScore = [],
-    questionTree = [];
+    questionTree = [],
+    currentLevel = '';
 
 // ----------------------------------------------------------------------------
 
@@ -169,6 +170,7 @@ function getPercentage(question) {
 
 function prepareShield(score) {
     var shield = document.getElementById('shield1');
+    var shieldBack = document.getElementById('shieldBack');
     var elemCaption = shield.getElementsByClassName('shield-caption')[0];
     var elemBoard = shield.getElementsByClassName('shield-board')[0];
     var elemScore = shield.getElementsByClassName('shield-score')[0];
@@ -180,10 +182,16 @@ function prepareShield(score) {
     elemBoard.innerHTML = '';
     elemScore.innerHTML = score;
 
-    shield.style.display = 'block';
+    shield.style.display = 'inline-block';
+    shieldBack.style.display = 'inline-block';
+    shieldBack.classList.remove('disabled');
+
+    if (currentLevel === 'root') {
+        shieldBack.classList.add('disabled');
+    }
 }
 
-function setShieldLevelCommon(root, id) {
+function setShieldLevel(root, id) {
     var shield = document.getElementById('shield1');
     var elemBoard = shield.getElementsByClassName('shield-board')[0];
     var dimensions = [];
@@ -195,6 +203,8 @@ function setShieldLevelCommon(root, id) {
         console.error('Unknown id', id);
         return;
     }
+
+    currentLevel = id;
 
     var percentage = getPercentage(obj);
     prepareShield(percentage);
@@ -242,11 +252,28 @@ function setShieldLevelCommon(root, id) {
     elemBoard.innerHTML = str;
 }
 
+function setShieldLevelBack() {
+    var level = 'root';
+
+    if (currentLevel === 'root') {
+        return;
+    } else if (currentLevel === 'debug') {
+        level = 'D0';
+    } else if (currentLevel.length === 4) {
+        level = currentLevel.substring(0, 2);
+    } else if (currentLevel.length > 4) {
+        level = currentLevel.substring(0, currentLevel.length - 1);
+    }
+
+    setShieldLevel(loadedDataGermany, level);
+}
+
 function setShieldLevelDebug() {
     var shield = document.getElementById('shield1');
     var elemBoard = shield.getElementsByClassName('shield-board')[0];
     var str = '';
 
+    currentLevel = 'debug';
     prepareShield('debug');
 
     function processChildren(root) {
@@ -267,7 +294,7 @@ function setShieldLevelDebug() {
 function onFinishLoading() {
     load.showLog(false);
 
-    setShieldLevelCommon(loadedDataGermany, 'root');
+    setShieldLevel(loadedDataGermany, 'root');
 
     var elem = document.getElementById('test');
     var str = '';
@@ -324,10 +351,12 @@ function onFileReplayDE(filepath, data) {
 }
 
 function goto(destination) {
-    if ('debug' === destination) {
+    if ('back' === destination) {
+        setShieldLevelBack();
+    } else if ('debug' === destination) {
         setShieldLevelDebug();
     } else {
-        setShieldLevelCommon(loadedDataGermany, destination);
+        setShieldLevel(loadedDataGermany, destination);
     }
 }
 

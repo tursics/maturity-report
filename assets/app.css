@@ -165,8 +165,9 @@ aside,
 .shield {
     font-size: .6rem;
     height: 17em;
-    margin: 0 auto 2.25em auto;
+    margin: 0 1.2em 2.25em 1.2em;
     position: relative;
+    vertical-align: middle;
     width: 17em;
 }
 .shield-border, .shield-background {  
@@ -256,6 +257,48 @@ aside,
     position: absolute;
     right: 0;
     text-align: center;
+}
+.shield-chevron {
+    color: goldenrod;
+    font-size: 16em;
+    font-weight: 500;
+    line-height: 1em;
+    text-align: center;
+}
+#shieldBack {
+    font-size: .2rem;
+}
+#shieldBack.disabled .shield-background {
+    background: #222;
+}
+#shieldBack.disabled .shield-border {
+    background: #aaa;
+}
+#shieldBack:hover .shield-background {
+    background: goldenrod;
+    cursor: pointer;
+}
+#shieldBack.disabled:hover .shield-background {
+    background: #222;
+    cursor: auto;
+}
+#shieldBack:hover .shield-background:before {
+    border-top-color: goldenrod;
+}
+#shieldBack.disabled:hover .shield-background:before {
+    border-top-color: #222;
+}
+#shieldBack.disabled .shield-chevron {
+    color: #aaa;
+}
+#shieldBack:hover .shield-chevron {
+    color: #000;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#shieldBack.disabled:hover .shield-chevron {
+    color: #aaa;
 }
 
 .score-barchart {

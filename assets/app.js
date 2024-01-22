@@ -2,7 +2,7 @@
 
 var DEFAULT_LANG = 'de',
     WEBSERVER_PATH = 'https://tursics.github.io/maturity-report/',
-    COLORS = {'D0': '#555','D1': '#00aef2','D2': '#dc5149','D3': '#001d85','D4': '#ff9933'};
+    COLORS = {'de': 'goldenrod', 'D0': 'goldenrod','D1': '#00aef2','D2': '#dc5149','D3': '#001d85','D4': '#ff9933'};
 
 var loadedDataGermany = [],
     loadedDataScore = [],
@@ -109,6 +109,8 @@ function createQuestionTree(data) {
     parent.push({type: 'dimension', id: 'D0', children: []});
     parent = parent[parent.length - 1].children;
 
+    var parentD0 = parent;
+
     data.forEach((obj) => {
         if (0 === obj.ID.indexOf('D')) {
             if (obj.ID.length === 2) {
@@ -129,6 +131,8 @@ function createQuestionTree(data) {
         }
     });
 
+    parentD0.push({type: 'dimension', id: 'debug', children: []});
+
     questionTree = tree;
 }
 
@@ -147,6 +151,8 @@ function getQuestion(id) {
                 }
             }
         }
+    } else if (id === 'root') {
+        // root
     } else {
         obj = undefined;
     }
@@ -175,49 +181,6 @@ function prepareShield(score) {
     elemScore.innerHTML = score;
 
     shield.style.display = 'block';
-}
-
-function setShieldLevelRoot(obj) {
-    var shield = document.getElementById('shield1');
-    var elemBoard = shield.getElementsByClassName('shield-board')[0];
-    var dimensions = [];
-    var str = '';
-    var id = '';
-
-    obj.children.forEach((child) => {
-        if ('dimension' === child.type) {
-            var score = getScore(child);
-            var maxScore = getMaxScore(child);
-            var percentage = maxScore === 0 ? '' : Math.round(score / maxScore * 100) + '%';
-            dimensions[child.id] = percentage;
-        }
-    });
-
-    id = 'D0';
-    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart" style="left: 1.5em;background: #555;"></div>';
-    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 1em;">' + _.get('Info') + '</div>';
-
-    // D1: Open Data Policy
-    id = 'D1';
-    str += '<div onclick="goto(\'' + id + '\')" class="odm-bg-policy score-barchart" style="left: 4.5em;background: repeating-linear-gradient(0,#00aef2,#00aef2 ' + dimensions['D1'] + ',#555 0,#555 100%);"></div>';
-    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 4em;">' + dimensions['D1'] + '</div>';
-
-    // D3: Open Data Portal
-    id = 'D3';
-    str += '<div onclick="goto(\'' + id + '\')" class="odm-bg-portal score-barchart" style="left: 7.5em;background: repeating-linear-gradient(0,#001d85,#001d85 ' + dimensions['D3'] + ',#555 0,#555 100%);"></div>';
-    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 7em;">' + dimensions['D3'] + '</div>';
-
-    // D2: Open Data Impact
-    id = 'D2';
-    str += '<div onclick="goto(\'' + id + '\')" class="odm-bg-impact score-barchart" style="left: 10.5em;background: repeating-linear-gradient(0,#dc5149,#dc5149 ' + dimensions['D2'] + ',#555 0,#555 100%);"></div>';
-    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 10em;">' + dimensions['D2'] + '</div>';
-
-    // D4: Open Data Quality
-    id = 'D4';
-    str += '<div onclick="goto(\'' + id + '\')" class="odm-bg-quality score-barchart" style="left: 13.5em;background: repeating-linear-gradient(0,#ff9933,#ff9933 ' + dimensions['D4'] + ',#555 0,#555 100%);"></div>';
-    str += '<div onclick="goto(\'' + id + '\')" class="score-barchart-label" style="left: 13em;">' + dimensions['D4'] + '</div>';
-
-    elemBoard.innerHTML = str;
 }
 
 function setShieldLevelCommon(root, id) {
@@ -251,9 +214,24 @@ function setShieldLevelCommon(root, id) {
         var x = (17 - dimensions.length * 3) / 2;
         dimensions.forEach((dimension) => {
             var color = COLORS[dimension.id.substring(0,2)];
+            var value = dimension.percentage;
+            var label = dimension.percentage;
 
-            str += '<div onclick="goto(\'' + dimension.id + '\')" class="score-barchart" style="left: ' + (x + .5) + 'em;background: repeating-linear-gradient(0,' + color + ',' + color + ' ' + dimension.percentage + ',#555 0,#555 100%);"></div>';
-            str += '<div onclick="goto(\'' + dimension.id + '\')" class="score-barchart-label" style="left: ' + x + 'em;">' + dimension.percentage + '</div>';
+            if (dimension.id === 'D0') {
+                label = _.get('Info');
+            } else if (dimension.id === 'D0.1') {
+                label = _.get('Info');
+                value = '75%';
+            } else if (dimension.id === 'D0.2') {
+                label = _.get('EU');
+                value = '75%';
+            } else if (dimension.id === 'debug') {
+                label = _.get('debug');
+                value = '25%';
+            }
+
+            str += '<div onclick="goto(\'' + dimension.id + '\')" class="score-barchart" style="left: ' + (x + .5) + 'em;background: repeating-linear-gradient(0,' + color + ',' + color + ' ' + value + ',#555 0,#555 100%);"></div>';
+            str += '<div onclick="goto(\'' + dimension.id + '\')" class="score-barchart-label" style="left: ' + x + 'em;">' + label + '</div>';
 
             x += 3;
         });
@@ -289,17 +267,7 @@ function setShieldLevelDebug() {
 function onFinishLoading() {
     load.showLog(false);
 
-    var item = loadedDataGermany['TotalScore'];
-    var score = item && item.Score ? parseInt(item.Score, 10) : 0;
-    var maxScore = getMaxScore(questionTree);
-    var percentage = maxScore === 0 ? '' : (parseInt(score / maxScore * 1000, 10) / 10) + '%';
-
-    if (score !== getScore(questionTree)) {
-        console.error('Total score does not match');
-    }
-
-    prepareShield(percentage);
-    setShieldLevelRoot(questionTree);
+    setShieldLevelCommon(loadedDataGermany, 'root');
 
     var elem = document.getElementById('test');
     var str = '';
@@ -356,7 +324,7 @@ function onFileReplayDE(filepath, data) {
 }
 
 function goto(destination) {
-    if ('D0' === destination) {
+    if ('debug' === destination) {
         setShieldLevelDebug();
     } else {
         setShieldLevelCommon(loadedDataGermany, destination);

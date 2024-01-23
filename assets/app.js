@@ -269,6 +269,7 @@ function setShieldLevelBack() {
     }
 
     setShieldLevel(loadedDataGermany, level);
+    setQuestionnaire(loadedDataGermany, level);
 }
 
 function setShieldLevelDebug() {
@@ -294,35 +295,25 @@ function setShieldLevelDebug() {
     elemBoard.innerHTML = str;
 }
 
+function setQuestionnaire(root, id) {
+    var headline = document.getElementById('headline');
+
+    var obj = getQuestion(id);
+    if (undefined === obj) {
+        console.error('Unknown id', id);
+        return;
+    }
+
+    var str = id === 'root' ? '' : getHTMLScore(obj);
+
+    headline.innerHTML = str;
+}
+
 function onFinishLoading() {
     load.showLog(false);
 
     setShieldLevel(loadedDataGermany, 'root');
-
-    var elem = document.getElementById('test');
-    var str = '';
-
-    questionTree.children.forEach((level1) => {
-        if ('dimension' === level1.type) {
-            str += '<hr>';
-            str += getHTMLScore(level1);
-
-            level1.children.forEach((level2) => {
-                if ('dimension' === level2.type) {
-                    str += getHTMLScore(level2);
-
-                    level2.children.forEach((level3) => {
-                        if ('dimension' === level3.type) {
-                            str += getHTMLScore(level3);
-                        }
-                    });
-                }
-            });
-            str += '<br>';
-        }
-    });
-
-    elem.innerHTML += str;
+    setQuestionnaire(loadedDataGermany, 'root');
 }
 
 function onFileScoring(filepath, data) {
@@ -350,8 +341,10 @@ function goto(destination) {
         setShieldLevelBack();
     } else if ('debug' === destination) {
         setShieldLevelDebug();
+        setQuestionnaire(loadedDataGermany, 'root');
     } else {
         setShieldLevel(loadedDataGermany, destination);
+        setQuestionnaire(loadedDataGermany, destination);
     }
 }
 

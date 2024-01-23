@@ -20,10 +20,17 @@
     <h1 data-i18n="odm_report">Open Data Maturity Report</h1>
     <div id="console-fileload"></div>
 
-    <figure style="display: none;" id="shieldBack" class="shield disabled" onclick="goto('back')">
+    <figure style="display: none;" id="buttonBack" class="shield shield-button disabled" onclick="goto('back')">
         <div class="shield-border"></div>
         <div class="shield-background">
 			<div class="shield-chevron">&lt;</span>
+		</div>
+    </figure>
+
+	<figure style="display: none;" id="buttonAdd" class="shield shield-button" onclick="add()">
+        <div class="shield-border"></div>
+        <div class="shield-background">
+			<div class="shield-chevron">+</span>
 		</div>
     </figure>
 
@@ -38,13 +45,16 @@
 		</figcaption>
     </figure>
 
-    <div id="headline"></div>
+    <div id="shields"></div>
+
+	<div id="headline"></div>
 
     <script src="assets/i18n-de.js"></script>
     <script src="assets/i18n-en.js"></script>
     <script src="assets/app.js"></script>
     <script src="assets/app.i18n.js"></script>
     <script src="assets/app.load.js"></script>
+    <script src="assets/app.shield.js"></script>
 </body>
 
 </html>

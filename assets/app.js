@@ -173,7 +173,8 @@ function getPercentage(question) {
 
 function prepareShield(score) {
     var shield = document.getElementById('shield1');
-    var shieldBack = document.getElementById('shieldBack');
+    var buttonBack = document.getElementById('buttonBack');
+    var buttonAdd = document.getElementById('buttonAdd');
     var elemCaption = shield.getElementsByClassName('shield-caption')[0];
     var elemBoard = shield.getElementsByClassName('shield-board')[0];
     var elemScore = shield.getElementsByClassName('shield-score')[0];
@@ -186,11 +187,12 @@ function prepareShield(score) {
     elemScore.innerHTML = score;
 
     shield.style.display = 'inline-block';
-    shieldBack.style.display = 'inline-block';
-    shieldBack.classList.remove('disabled');
+    buttonBack.style.display = 'inline-block';
+    buttonAdd.style.display = 'inline-block';
+    buttonBack.classList.remove('disabled');
 
     if (currentLevel === 'root') {
-        shieldBack.classList.add('disabled');
+        buttonBack.classList.add('disabled');
     }
 }
 
@@ -346,6 +348,10 @@ function goto(destination) {
         setShieldLevel(loadedDataGermany, destination);
         setQuestionnaire(loadedDataGermany, destination);
     }
+}
+
+function add() {
+    var test = new Shield;
 }
 
 document.addEventListener('DOMContentLoaded', function() {

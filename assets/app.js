@@ -94,7 +94,10 @@ function getAnswer(key, showGray) {
         color = 'bg-yellow';
     }
 
-    var str = '<span data-i18n-title="' + key + '" title="' + _.get(key) + '" class="answerbox ' + color + '" style="width:' + (width / 20) + 'em"></span>';
+    var shrinkBy = showGray ? 5 : 20;
+    var height = showGray ? 2.3 : .9;
+    var tooltip = _.get(key).split(/\r?\n/)[0];
+    var str = '<span data-i18n-title="' + key + '" title="' + tooltip + '" class="answerbox ' + color + '" style="width:' + (width / shrinkBy) + 'em;height:' + height + 'em"></span>';
 
     if (!showGray && (color === 'bg-gray')) {
         str = '';
@@ -216,7 +219,7 @@ function setShieldLevel(root, id) {
             var percentage = maxScore === 0 ? '' : Math.round(score / maxScore * 100) + '%';
             dimensions.push({id: child.id, percentage});
         } else {
-            answers += getAnswer(child.id, false);
+            answers += getAnswer(child.id, true);
         }
     });
 
@@ -311,16 +314,8 @@ function onFinishLoading() {
                     level2.children.forEach((level3) => {
                         if ('dimension' === level3.type) {
                             str += getHTMLScore(level3);
-
-                            level3.children.forEach((level4) => {
-                                str += getAnswer(level4.id, true);
-                            });
-                            str += '<br>';
-                        } else {
-                            str += getAnswer(level3.id, true);
                         }
                     });
-                    str += '<br>';
                 }
             });
             str += '<br>';

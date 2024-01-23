@@ -274,6 +274,9 @@ aside,
 #shieldBack.disabled .shield-border {
     background: #aaa;
 }
+#shieldBack.disabled .shield-border::before {
+    border-top-color: #aaa;
+}
 #shieldBack:hover .shield-background {
     background: goldenrod;
     cursor: pointer;

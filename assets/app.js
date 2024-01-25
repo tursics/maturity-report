@@ -1,16 +1,16 @@
 // ----------------------------------------------------------------------------
 
 var DEFAULT_LANG = 'de',
-    WEBSERVER_PATH = 'https://tursics.github.io/maturity-report/',
-    COLORS = {'de': 'goldenrod', 'D0': 'goldenrod','D1': '#00aef2','D2': '#dc5149','D3': '#001d85','D4': '#ff9933'};
+    WEBSERVER_PATH = 'https://tursics.github.io/maturity-report/';
 
 var loadedDataGermany = [],
     loadedDataScore = [],
     questionTree = [],
-    currentLevel = '';
+    shields = [],
+    currentID = '';
 
 // ----------------------------------------------------------------------------
-
+/*
 function getJustification(key) {
     var str = '<span data-i18n="' + key + '">' + _.get(key) + '</span> ';
     var item = loadedDataGermany[key];
@@ -19,7 +19,7 @@ function getJustification(key) {
     str += '<br>';
 
     return str;
-}
+}*/
 
 function getScore(obj) {
     if (obj.id === 'D0') {
@@ -164,137 +164,57 @@ function getQuestion(id) {
     return obj;
 }
 
-function getPercentage(question) {
-    var score = getScore(question);
-    var maxScore = getMaxScore(question);
-
-    return maxScore === 0 ? '' : (parseInt(score / maxScore * 1000, 10) / 10) + '%';
-}
-
-function prepareShield(score) {
-    var shield = document.getElementById('shield1');
-    var buttonBack = document.getElementById('buttonBack');
+function prepareButtons(id) {
     var buttonAdd = document.getElementById('buttonAdd');
-    var elemCaption = shield.getElementsByClassName('shield-caption')[0];
-    var elemBoard = shield.getElementsByClassName('shield-board')[0];
-    var elemScore = shield.getElementsByClassName('shield-score')[0];
-    var item = loadedDataGermany['R1'];
-    var str = '';
-
-    str = '<span data-i18n="' + item.Justification + '">' + _.get(item.Justification) + '</span>';
-    elemCaption.innerHTML = str;
-    elemBoard.innerHTML = '';
-    elemScore.innerHTML = score;
-
-    shield.style.display = 'inline-block';
-    buttonBack.style.display = 'inline-block';
     buttonAdd.style.display = 'inline-block';
+
+    var buttonBack = document.getElementById('buttonBack');
+    buttonBack.style.display = 'inline-block';
     buttonBack.classList.remove('disabled');
 
-    if (currentLevel === 'root') {
+    if (id === 'root') {
         buttonBack.classList.add('disabled');
     }
 }
 
-function setShieldLevel(root, id) {
-    var shield = document.getElementById('shield1');
-    var elemBoard = shield.getElementsByClassName('shield-board')[0];
-    var dimensions = [];
-    var answers = '';
-    var str = '';
+function setShieldLevel(id) {
+    var question = getQuestion(id);
 
-    var obj = getQuestion(id);
-    if (undefined === obj) {
+    if (undefined === question) {
         console.error('Unknown id', id);
         return;
     }
 
-    currentLevel = id;
+    currentID = id;
 
-    var percentage = getPercentage(obj);
-    prepareShield(percentage);
+    prepareButtons(currentID);
 
-    obj.children.forEach((child) => {
-        if ('dimension' === child.type) {
-            var score = getScore(child);
-            var maxScore = getMaxScore(child);
-            var percentage = maxScore === 0 ? '' : Math.round(score / maxScore * 100) + '%';
-            dimensions.push({id: child.id, percentage});
-        } else {
-            answers += getAnswer(child.id, true);
-        }
-    });
+    shields.forEach((shield) => shield.setQuestion(question));
+}
 
-    if (dimensions.length > 0) {
-        var x = (17 - dimensions.length * 3) / 2;
-        dimensions.forEach((dimension) => {
-            var color = COLORS[dimension.id.substring(0,2)];
-            var value = dimension.percentage;
-            var label = dimension.percentage;
+function setShieldLevelDebug() {
+    currentID = 'debug';
 
-            if (dimension.id === 'D0') {
-                label = _.get('Info');
-            } else if (dimension.id === 'D0.1') {
-                label = _.get('Info');
-                value = '75%';
-            } else if (dimension.id === 'D0.2') {
-                label = _.get('EU');
-                value = '75%';
-            } else if (dimension.id === 'debug') {
-                label = _.get('debug');
-                value = '25%';
-            }
+    prepareButtons(currentID);
 
-            str += '<div onclick="goto(\'' + dimension.id + '\')" class="score-barchart" style="left: ' + (x + .5) + 'em;background: repeating-linear-gradient(0,' + color + ',' + color + ' ' + value + ',#555 0,#555 100%);"></div>';
-            str += '<div onclick="goto(\'' + dimension.id + '\')" class="score-barchart-label" style="left: ' + x + 'em;">' + label + '</div>';
-
-            x += 3;
-        });
-    } else {
-        str += answers;
-    }
-
-    elemBoard.innerHTML = str;
+    shields.forEach((shield) => shield.setDebug());
 }
 
 function setShieldLevelBack() {
     var level = 'root';
 
-    if (currentLevel === 'root') {
+    if (currentID === 'root') {
         return;
-    } else if (currentLevel === 'debug') {
+    } else if (currentID === 'debug') {
         level = 'D0';
-    } else if (currentLevel.length === 4) {
-        level = currentLevel.substring(0, 2);
-    } else if (currentLevel.length > 4) {
-        level = currentLevel.substring(0, currentLevel.length - 1);
+    } else if (currentID.length === 4) {
+        level = currentID.substring(0, 2);
+    } else if (currentID.length > 4) {
+        level = currentID.substring(0, currentID.length - 1);
     }
 
-    setShieldLevel(loadedDataGermany, level);
+    setShieldLevel(level);
     setQuestionnaire(loadedDataGermany, level);
-}
-
-function setShieldLevelDebug() {
-    var shield = document.getElementById('shield1');
-    var elemBoard = shield.getElementsByClassName('shield-board')[0];
-    var str = '';
-
-    currentLevel = 'debug';
-    prepareShield('debug');
-
-    function processChildren(root) {
-        root.children.forEach((child) => {
-            if ('dimension' === child.type) {
-                processChildren(child);
-            } else {
-                str += getAnswer(child.id, false);
-            }
-        });
-    }
-
-    processChildren(questionTree);
-
-    elemBoard.innerHTML = str;
 }
 
 function setQuestionnaire(root, id) {
@@ -314,7 +234,7 @@ function setQuestionnaire(root, id) {
 function onFinishLoading() {
     load.showLog(false);
 
-    setShieldLevel(loadedDataGermany, 'root');
+    setShieldLevel('root');
     setQuestionnaire(loadedDataGermany, 'root');
 }
 
@@ -345,13 +265,17 @@ function goto(destination) {
         setShieldLevelDebug();
         setQuestionnaire(loadedDataGermany, 'root');
     } else {
-        setShieldLevel(loadedDataGermany, destination);
+        setShieldLevel(destination);
         setQuestionnaire(loadedDataGermany, destination);
     }
 }
 
 function add() {
-    var test = new Shield;
+    var shield = new Shield(loadedDataGermany);
+
+    shields.push(shield);
+
+    goto(currentID);
 }
 
 document.addEventListener('DOMContentLoaded', function() {

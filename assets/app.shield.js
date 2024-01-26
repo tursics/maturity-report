@@ -34,6 +34,50 @@ class Shield {
         return maxScore === 0 ? '' : (parseInt(score / maxScore * 1000, 10) / 10) + '%';
     }
 
+    getAnswerBox(obj, showGray) {
+        var color = 'bg-gray';
+
+        var item = this.answers[obj.id];
+        var score = parseInt(item.Score, 10);
+
+        var scoreItem = loadedDataScore[obj.id];
+        var maxScore = scoreItem ? parseInt(scoreItem.Weight, 10) : NaN;
+        var width = maxScore;
+
+        if (isNaN(maxScore) || (maxScore === 0)) {
+            color = 'bg-gray';
+            width = 5;
+        } else if (maxScore === score) {
+            color = 'bg-green';
+        } else if (0 === score) {
+            color = 'bg-red';
+        } else {
+            color = 'bg-yellow';
+        }
+
+        var shrinkBy = showGray ? 5 : 20;
+        var height = showGray ? 2.3 : .9;
+        var tooltip = _.get(obj.id).split(/\r?\n/)[0];
+        var str = '<span onclick="goto(\'' + obj.id + '\')" data-i18n-title="' + (obj.id) + '" title="' + tooltip + '" class="answerbox ' + color + '" style="width:' + (width / shrinkBy) + 'em;height:' + height + 'em"></span>';
+
+        if (!showGray && (color === 'bg-gray')) {
+            str = '';
+        }
+
+        return str;
+    }
+
+    getAnswerText(obj) {
+        var str = '';
+
+        var item = this.answers[obj.id];
+
+        str += '<div data-i18n-answer="' + item.ID + '" class="" style="">' + _.get(item.Answer) + '</div>';
+        str += '<div data-i18n-justification="' + item.ID + '" class="" style="">' + _.get(item.Justification) + '</div>';
+
+        return str;
+    }
+
     setCaption(score) {
         var elem = document.getElementById(this.id);
         var elemCaption = elem.getElementsByClassName('shield-caption')[0];
@@ -53,13 +97,14 @@ class Shield {
         var elem = document.getElementById(this.id);
         var elemBoard = elem.getElementsByClassName('shield-board')[0];
         var str = '';
+        var that = this;
 
         function processChildren(root) {
             root.children.forEach((child) => {
                 if ('dimension' === child.type) {
                     processChildren(child);
                 } else {
-                    str += getAnswer(child.id, false);
+                    str += that.getAnswerBox(child, false);
                 }
             });
         }
@@ -79,16 +124,20 @@ class Shield {
         var percentage = this.getPercentage(question);
         this.setCaption(percentage);
 
-        question.children.forEach((child) => {
-            if ('dimension' === child.type) {
-                var score = getScore(child);
-                var maxScore = getMaxScore(child);
-                var percentage = maxScore === 0 ? '' : Math.round(score / maxScore * 100) + '%';
-                dimensions.push({id: child.id, percentage});
-            } else {
-                answers += getAnswer(child.id, true);
-            }
-        });
+        if (question.children) {
+            question.children.forEach((child) => {
+                if ('dimension' === child.type) {
+                    var score = getScore(child);
+                    var maxScore = getMaxScore(child);
+                    var percentage = maxScore === 0 ? '' : Math.round(score / maxScore * 100) + '%';
+                    dimensions.push({id: child.id, percentage});
+                } else {
+                    answers += this.getAnswerBox(child, true);
+                }
+            });
+        } else {
+            answers += this.getAnswerText(question);
+        }
 
         if (dimensions.length > 0) {
             var x = (17 - dimensions.length * 3) / 2;

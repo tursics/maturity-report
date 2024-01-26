@@ -55,6 +55,27 @@ function getMaxScore(obj) {
     return maxScore;
 }
 
+function getParent(id) {
+    function getParent_(root) {
+        var ret = null;
+
+        if (root.children) {
+            if (root.children.find((child) => child.id === id)) {
+                return root;
+            }
+            root.children.forEach((child) => {
+                if (!ret) {
+                    ret = getParent_(child);
+                }
+            });
+        }
+
+        return ret;
+    }
+
+    return getParent_(questionTree);
+}
+
 function getHTMLScore(obj) {
     var key = obj.id;
     var str = '<span data-i18n="' + key + '">' + _.get(key) + '</span> ';
@@ -70,38 +91,6 @@ function getHTMLScore(obj) {
     str += percentage;
     str += ' (' + score + '/' + maxScore + ')';
     str += '<br>';
-
-    return str;
-}
-
-function getAnswer(key, showGray) {
-    var color = 'bg-gray';
-    var item = loadedDataGermany[key];
-    var scoreItem = loadedDataScore[key];
-
-    var score = parseInt(item.Score, 10);
-    var maxScore = scoreItem ? parseInt(scoreItem.Weight, 10) : NaN;
-    var width = maxScore;
-
-    if (isNaN(maxScore) || (maxScore === 0)) {
-        color = 'bg-gray';
-        width = 5;
-    } else if (maxScore === score) {
-        color = 'bg-green';
-    } else if (0 === score) {
-        color = 'bg-red';
-    } else {
-        color = 'bg-yellow';
-    }
-
-    var shrinkBy = showGray ? 5 : 20;
-    var height = showGray ? 2.3 : .9;
-    var tooltip = _.get(key).split(/\r?\n/)[0];
-    var str = '<span data-i18n-title="' + key + '" title="' + tooltip + '" class="answerbox ' + color + '" style="width:' + (width / shrinkBy) + 'em;height:' + height + 'em"></span>';
-
-    if (!showGray && (color === 'bg-gray')) {
-        str = '';
-    }
 
     return str;
 }
@@ -158,7 +147,7 @@ function getQuestion(id) {
     } else if (id === 'root') {
         // root
     } else {
-        obj = undefined;
+        obj = {type: 'entry', id};
     }
 
     return obj;
@@ -202,15 +191,10 @@ function setShieldLevelDebug() {
 
 function setShieldLevelBack() {
     var level = 'root';
+    var root = getParent(currentID);
 
-    if (currentID === 'root') {
-        return;
-    } else if (currentID === 'debug') {
-        level = 'D0';
-    } else if (currentID.length === 4) {
-        level = currentID.substring(0, 2);
-    } else if (currentID.length > 4) {
-        level = currentID.substring(0, currentID.length - 1);
+    if (root) {
+        level = root.id;
     }
 
     setShieldLevel(level);

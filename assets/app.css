@@ -147,6 +147,7 @@ aside,
 
 .answerbox {
     background: #888;
+    cursor: pointer;
     display: inline-block;
     height: .9em;
     margin: 0 .1em .1em 0;

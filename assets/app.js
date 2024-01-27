@@ -108,10 +108,28 @@ function getQuestion(id) {
     return obj;
 }
 
-function prepareButtons(id) {
-    var buttonAdd = document.getElementById('buttonAdd');
-    buttonAdd.style.display = 'inline-block';
+function addCountryButton(country) {
+    var node = document.createElement('figure');
+    node.classList.add('shield');
+    node.classList.add('shield-button');
+    node.style = 'display:inline-block';
+    node.dataset.country = country;
+    node.onclick = addCountry;
 
+    node.innerHTML = 
+        '<div class="shield-border"></div>' +
+        '<div class="shield-background">' +
+            '<div class="shield-chevron" style="font-size:10em;line-height:1.7em">' + country + '</span>' +
+        '</div>';
+
+    document.getElementById('countries').appendChild(node);
+}
+
+function addCountryButtons() {
+    Object.keys(loadedDataCountries).forEach((country) => addCountryButton(country));
+}
+
+function prepareButtons(id) {
     var buttonBack = document.getElementById('buttonBack');
     buttonBack.style.display = 'inline-block';
     buttonBack.classList.remove('disabled');
@@ -172,6 +190,7 @@ function setQuestionnaire(id) {
 
 function onFinishLoading() {
     load.showLog(false);
+    addCountryButtons();
 
     setShieldLevel('root');
     setQuestionnaire('root');
@@ -216,7 +235,8 @@ function goto(destination) {
     }
 }
 
-function addCountry(code) {
+function addCountry() {
+    var code = this.dataset.country;
     var shield = new Shield(loadedDataCountries[code]);
 
     shields.push(shield);
@@ -236,6 +256,7 @@ document.addEventListener('DOMContentLoaded', function() {
     load.csv('2023/3-simplified/00_i18n.csv', onFileReportEN);
     load.csv('2023/3-simplified/00_scoring.csv', onFileScoring);
     load.csv('2023/3-simplified/DE_ODM_2023.csv', onFileCountryLoaded);
+    load.csv('2023/3-simplified/FR_ODM_2023.csv', onFileCountryLoaded);
     load.addFinishCallback(onFinishLoading);
 });
 

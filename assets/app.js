@@ -3,7 +3,7 @@
 var DEFAULT_LANG = 'de',
     WEBSERVER_PATH = 'https://tursics.github.io/maturity-report/';
 
-var loadedDataGermany = [],
+var loadedDataCountries = {},
     loadedDataScore = [],
     questionTree = [],
     shields = [],
@@ -188,13 +188,20 @@ function onFileReportEN(filepath, data) {
     _.appendTranslations('en', data);
 }
 
-function onFileReplayDE(filepath, data) {
-    loadedDataGermany = [];
+function onFileCountryLoaded(filepath, data) {
+    var countryData = [];
     data.forEach((obj) => {
-        loadedDataGermany[obj.ID] = obj;
+        countryData[obj.ID] = obj;
     });
 
-    createQuestionTree(data);
+    var filename = filepath.split('/').pop();
+    var country = filename.split('_').shift();
+
+    loadedDataCountries[country.toLowerCase()] = countryData;
+
+    if (Object.keys(loadedDataCountries).length === 1) {
+        createQuestionTree(data);
+    }
 }
 
 function goto(destination) {
@@ -209,8 +216,8 @@ function goto(destination) {
     }
 }
 
-function add() {
-    var shield = new Shield(loadedDataGermany);
+function addCountry(code) {
+    var shield = new Shield(loadedDataCountries[code]);
 
     shields.push(shield);
 
@@ -228,7 +235,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     load.csv('2023/3-simplified/00_i18n.csv', onFileReportEN);
     load.csv('2023/3-simplified/00_scoring.csv', onFileScoring);
-    load.csv('2023/3-simplified/DE_ODM 2023.csv', onFileReplayDE);
+    load.csv('2023/3-simplified/DE_ODM_2023.csv', onFileCountryLoaded);
     load.addFinishCallback(onFinishLoading);
 });
 

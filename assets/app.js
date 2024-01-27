@@ -21,40 +21,6 @@ function getJustification(key) {
     return str;
 }*/
 
-function getScore(obj) {
-    if (obj.id === 'D0') {
-        return 0;
-    }
-
-    var item = loadedDataGermany[obj.id];
-    var score = item && item.Score ? parseInt(item.Score, 10) : NaN;
-
-    if (isNaN(score) || (obj.type === 'dimension')) {
-        score = 0;
-    }
-
-    if (obj.children) {
-        obj.children.forEach((child) => score += getScore(child));
-    }
-
-    return score;
-}
-
-function getMaxScore(obj) {
-    var scoreItem = loadedDataScore[obj.id];
-    var maxScore = scoreItem ? parseInt(scoreItem.Weight, 10) : NaN;
-
-    if (isNaN(maxScore)) {
-        maxScore = 0;
-    }
-
-    if (obj.children) {
-        obj.children.forEach((child) => maxScore += getMaxScore(child));
-    }
-
-    return maxScore;
-}
-
 function getParent(id) {
     function getParent_(root) {
         var ret = null;
@@ -76,20 +42,9 @@ function getParent(id) {
     return getParent_(questionTree);
 }
 
-function getHTMLScore(obj) {
-    var key = obj.id;
-    var str = '<span data-i18n="' + key + '">' + _.get(key) + '</span> ';
-    var item = loadedDataGermany[key];
+function getHeadline(obj) {
+    var str = '<span data-i18n="' + obj.id + '">' + _.get(obj.id) + '</span> ';
 
-    var score = item && item.Score ? parseInt(item.Score, 10) : 0;
-    var maxScore = getMaxScore(obj);
-    var percentage = maxScore === 0 ? '' : (parseInt(score / maxScore * 1000, 10) / 10) + '%';
-
-    if (score !== getScore(obj)) {
-        console.error('Score does not match in', obj.id);
-    }
-    str += percentage;
-    str += ' (' + score + '/' + maxScore + ')';
     str += '<br>';
 
     return str;
@@ -198,10 +153,10 @@ function setShieldLevelBack() {
     }
 
     setShieldLevel(level);
-    setQuestionnaire(loadedDataGermany, level);
+    setQuestionnaire(level);
 }
 
-function setQuestionnaire(root, id) {
+function setQuestionnaire(id) {
     var headline = document.getElementById('headline');
 
     var obj = getQuestion(id);
@@ -210,7 +165,7 @@ function setQuestionnaire(root, id) {
         return;
     }
 
-    var str = id === 'root' ? '' : getHTMLScore(obj);
+    var str = id === 'root' ? '' : getHeadline(obj);
 
     headline.innerHTML = str;
 }
@@ -219,7 +174,7 @@ function onFinishLoading() {
     load.showLog(false);
 
     setShieldLevel('root');
-    setQuestionnaire(loadedDataGermany, 'root');
+    setQuestionnaire('root');
 }
 
 function onFileScoring(filepath, data) {
@@ -247,10 +202,10 @@ function goto(destination) {
         setShieldLevelBack();
     } else if ('debug' === destination) {
         setShieldLevelDebug();
-        setQuestionnaire(loadedDataGermany, 'root');
+        setQuestionnaire('root');
     } else {
         setShieldLevel(destination);
-        setQuestionnaire(loadedDataGermany, destination);
+        setQuestionnaire(destination);
     }
 }
 

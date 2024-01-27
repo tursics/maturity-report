@@ -33,7 +33,10 @@ var _ = (function () {
     }
 
     function funcGet(key) {
-        return lang[key] ? lang[key] : (i18n[FALLBACK][key] ? i18n[FALLBACK][key] : '{' + key + '}');
+        var value = lang[key] ? lang[key] : (i18n[FALLBACK][key] ? i18n[FALLBACK][key] : '{' + key + '}');
+        var arr = value.split(/\r?\n/);
+
+        return arr.join('<br>');
     }
 
     function funcAppendTranslations(lang, data) {

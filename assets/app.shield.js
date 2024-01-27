@@ -27,9 +27,43 @@ class Shield {
         document.getElementById('shields').appendChild(node);
     }
 
+    getScore(obj) {
+        if (obj.id === 'D0') {
+            return 0;
+        }
+
+        var item = this.answers[obj.id];
+        var score = item && item.Score ? parseInt(item.Score, 10) : NaN;
+
+        if (isNaN(score) || (obj.type === 'dimension')) {
+            score = 0;
+        }
+
+        if (obj.children) {
+            obj.children.forEach((child) => score += this.getScore(child));
+        }
+
+        return score;
+    }
+
+    getMaxScore(obj) {
+        var scoreItem = loadedDataScore[obj.id];
+        var maxScore = scoreItem ? parseInt(scoreItem.Weight, 10) : NaN;
+
+        if (isNaN(maxScore)) {
+            maxScore = 0;
+        }
+
+        if (obj.children) {
+            obj.children.forEach((child) => maxScore += this.getMaxScore(child));
+        }
+
+        return maxScore;
+    }
+
     getPercentage(question) {
-        var score = getScore(question);
-        var maxScore = getMaxScore(question);
+        var score = this.getScore(question);
+        var maxScore = this.getMaxScore(question);
 
         return maxScore === 0 ? '' : (parseInt(score / maxScore * 1000, 10) / 10) + '%';
     }
@@ -127,8 +161,8 @@ class Shield {
         if (question.children) {
             question.children.forEach((child) => {
                 if ('dimension' === child.type) {
-                    var score = getScore(child);
-                    var maxScore = getMaxScore(child);
+                    var score = this.getScore(child);
+                    var maxScore = this.getMaxScore(child);
                     var percentage = maxScore === 0 ? '' : Math.round(score / maxScore * 100) + '%';
                     dimensions.push({id: child.id, percentage});
                 } else {

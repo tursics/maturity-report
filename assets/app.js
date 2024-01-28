@@ -118,8 +118,8 @@ function addCountryButton(country) {
 
     node.innerHTML = 
         '<div class="shield-border"></div>' +
-        '<div class="shield-background">' +
-            '<div class="shield-chevron" style="font-size:10em;line-height:1.7em">' + country + '</span>' +
+        '<div class="shield-background" style="background:gray">' +
+            '<div class="shield-chevron" style="font-size:10em;line-height:1.7em"><span class="fi fi-' + country + ' fis"></span></span>' +
         '</div>';
 
     document.getElementById('countries').appendChild(node);

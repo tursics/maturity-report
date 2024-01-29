@@ -1,0 +1,257 @@
+ID;Answer;Justification;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+TotalScore;;;;;Total Score:;1843
+UnsureScore;;;;;Unsure Score:;0
+PreliminaryScore;;;;;"Preliminary Score: 
+(Total - Unsure)   ";1843
+D0.1;;;;;;
+R1;N/A;Belgium;;;;N/A
+R2;N/A;Federal Public Service BOSA;;;;N/A
+R3;N/A;xxx;;;;N/A
+R4;N/A;xxx;;;;N/A
+R5;N/A;xxx;;;;N/A
+R6;N/A;3;;;;N/A
+R7;N/A;0.75;;;;N/A
+R8;<200.000 EUR;N/A;;;;N/A
+D0.2;;;;;;
+R9;Yes;Harvesting of other MS portals makes it easier to find everything in one place;;;;N/A
+R10;Yes;;;;;N/A
+D1;;;;;;517
+D1.1;;;;;;195
+1;yes;Transposition of 2nd version of the PSI (3rd version in progress) https://www.ejustice.just.fgov.be/eli/loi/2016/05/04/2016009236/justel  (Loi relative à la réutilisation des informations du secteur public);;;;30
+2;yes;"https://data.gov.be/sites/default/files/public/content/compressed_fr-strategisch-dossier.pdf, focus on ""open by default"", economic aspects, and interaction with the community";;;;30
+3;no;;;;;0
+4;yes;E.g. Flanders Region, part of the general data strategy: https://www.vlaanderen.be/digitaal-vlaanderen/vlaamse-digitale-strategie/vlaamse-datastrategie;;;;10
+5;yes;Response to reviewer: the datasets being released are mostly request-driven, in communication with open data users and community. Main points of the plan are listed on pg 7: e.g reduce number of licenses, using DCAT for metadata exchange;;Please clarify what is meant by the action plan being request-driven. What are the main measures of the plan? Being request-driven seems like the plan is ad-hoc. ;;25
+6a;no;;;;;0
+6b;no;;;;;0
+6c;no;;;;;0
+6d;yes;"Action 8: ""un portail fédéral unique renvoie … vers les
+portails des entités fédérées…  et le portail pan-européen""";;;;10
+7;no;;;;;0
+8;yes;promotion and communication with the open data community;;;;15
+9a;yes;Mandatory publication on the federal open data portal;;;;15
+9b;yes;Some data repositories harvested by the federal open data portal do contain data sets that are not open data (eg geo.be in relation to INSPIRE and transportdata.be in relation to ITS);;;;10
+10a;yes;N/A;"Kindy fill in the column ""Publications of HCD in machine-readable formats via APIs"" in the table below. This column was hidden in the original questionnaire. Sorry.";;;20
+10b;no;;;;;0
+10c;yes;"Some systems the easiest way is to add a keyword ""HVD"", while the EU DCAT-AP is more leaning towards a specific metadata field (thus some mapping might be needed)";;;;15
+11a;yes;N/A;;;;15
+11a.1;No;;;;0;
+11a.2;No;;;;0;
+11a.3;Yes;"Avantage 4.2: ""Les bénéfices économiques totaux qui peuvent découler de la mise à disposition de données publiques peuvent s’élever, selon la Commission européenne, à 40 milliards d’euros par an . Le potentiel
+économique ne réside pas seulement dans la réutilisation d’informations du secteur public pour de
+nouveaux produits et services, mais aussi dans des gains d’efficacité dans les services publics.""";;;0;
+11a.4;No;;;;0;
+11a.5;No;;;;0;
+11a.6;Yes;"Avantage 4.3: Publication of raw data to better understand decisions and actively participate in policy debates ""La transparence des pouvoirs publics est décisive pour la participation citoyenne. Dans une vraie démocratie, les
+citoyens prennent part au débat sociétal sur la base d’informations correctes qu’ils peuvent utiliser
+pour analyser des choix politiques, poser des affirmations et examiner des faits. Comme les pouvoirs
+publics ne savent pas toujours ce qui est pertinent pour le citoyen, les données brutes doivent aussi
+être mises à disposition. """;;;0;
+11b;No;;;;;N/A
+D1.2;;;;;;190
+12;yes;at federal level open data task force and transparency committee for administrations + allow anyone to request access to datasets, similar initiatives/governance at regional level;;;;30
+13;hybrid;practical considerations: sometimes demand for opening up data comes top-down, sometimes driven bottom-up, and so is the structure of the governance + political landscape with strong Regions and projects by larger cities;;;;N/A
+14;not applicable;While there are cooperations on open data initiatives and projects, due to the political landscape, the federal level has no authority over open data projects on regional level;;;;20
+15;all public bodies;All 3 Regions have open data initiatives + a few larger cities (smaller cities require support of Regional level);;;;20
+16;yes;Part of Royal Decree and explained in the policy document, action 7 (open data taskforce + data champions in transparency committee https://data.gov.be/sites/default/files/public/content/compressed_fr-strategisch-dossier.pdf);;;;20
+17a;yes;Explained in Royal Decree, chapitre 4 (https://www.ejustice.just.fgov.be/eli/arrete/2019/06/02/2019013333/justel#LNK0004);;;;20
+17b;yes;Same team: Maintainers of the data portal (open data task force) is also part of Transparency Committee;;;;20
+18;yes;"""open data champion"" role per federal public service, responsible for the development of an open data strategy within their administration + participate in transparency committee";;;;20
+19;yes;About 3 meetings / year with open data portal owners (local/regional/federal level): https://data.gov.be/fr/dcat-groupe-de-travail;;;;20
+20;yes;"Participation in yearly open data event ""OpenBelgium"" (https://2022.openbelgium.be/), and 1-to-1 (private) online meetings with small companies / NPOs and ICT sector federation Agoria";;;;20
+D1.3;;;;;;132
+21;yes;Only for Statistics and Cadaster data, eg. https://statbel.fgov.be/fr/calendar;;;;20
+22a;no;;;;;0
+22b;neutral;Things can always be improved, but a few promosing key-datasets (address register of all 3 Regions combined, extra cadaster data / statistics) have been published, so there is progress;;;;N/A
+23a;yes;If a federal public body wants to publish data with additional constraints, including costs, the motivation and details have to be sent to the open data taskforce for advice. Art 7, Royal Decree https://www.ejustice.just.fgov.be/eli/loi/2016/05/04/2016009236/justel;;;;15
+23b;the majority of datasets;N/A;;;;12
+23c;no change;N/A;;;;5
+24a;N/A;"1) Chicken-and-egg-problem (businesses want ""as much data as possible"" before they can prove their idea works, public services have limited resources and need to know what to prioritize first + are looking for examples to justify their efforts), 2) Somewhat overlapping data initiatives and regulations (e.g. INSPIRE, ITS,Europeana, PSI... have slightly different goals) , 3) Finding recurring budget for a few high value datasets (maps, historical weather data),";;;;N/A
+24b;yes;"On chicken and egg problem: projects like combined address register with (also) clear benefits for administrations as a ""teaser"" to encourage administrations to publish more data";;;;10
+25a;yes;"""Open data checklist"", see top of https://data.gov.be/fr/info-faq";;;;15
+25b;yes;At the regional level / SMARTcities projects, for instance Flanders Region City of Things (https://www.flandersinvestmentandtrade.com/invest/en/sectors/digital-industry/smart-cities);;;;10
+25c;yes;Part of Inspire / geo.be. With mapping of Inspire to GeoDCAT-AP, geo-spatial data owners don't have to enter metadata twice and become more aware of open data (re)use;;;;10
+25d;yes;Some citizen-science projects like sharing weather data: https://www.meteo.be/en/about-rmi/observation-network/wow-be;;Please specify how you have assisted in the publication process of citizen-generated data (essentially: is this an example of a re-use case or an activity you have performed to support publication? Re-use cases are suitable for the impact dimension).;;10
+26a;yes;"At the national level, there are sessions (https://data.gov.be/fr/news/seance-dinformation-donnees-ouvertes-services-federaux) and trainings on data in general (though not part of a specific data track) like satellite data (https://terrascope.be/en/news-events/register-our-new-terrascope-webinars) which are open to servants and private sector.
+At the regional level, there are trainings, e.g.http://www.futurocite.be/ouvrirmaville/ouvrir-ma-ville-2023/";;;;15
+26b;no;;;;;0
+27a;yes, 3-5;OpenBelgium (https://2022.openbelgium.be) and OpenSummerOfCode (https://osoc.be/editions/2022, though the 2023 edition is postponed),  CitizensOfWallonia (https://www.citizensofwallonia.be/), OpenStreetMap events (https://osmcal.org/event/1349/), BootCamp Open Cultural Data (https://meemoo.be/nl/vormingen-en-events/bootcamp-open-culturele-data-2023-6e-editie), Webinars on satellite data (https://terrascope.be/en/news-events/register-our-new-terrascope-webinars);;;;10
+27b;a mix of the above;Meemoo (https://meemoo.be), Futurocité, DigitalWallonia;;;;N/A
+D2;;;;;;320
+D2.1;;;;;;90
+28;yes;Use of non-private data in an easy (for automated tools) to process format by businesses, NPOs or other administrations than the administration publishing the data, in practical tools, services, visualisations or analyses;;;;10
+29;yes, but the focus is limited;Since the data is open, it is hard to actually get a good idea of the amount of reuse;;;;5
+30;yes;Yearly search for thesises published with/about open data (https://data.gov.be/nl/studies-en-thesissen) and looking for reuse (also on regional level, see https://www.vlaanderen.be/datavindplaats/inspiratie);;;;20
+31;no ;;;;;0
+32;yes;Hard to really measure re-use (some statistics on API-usage perharps, but end-users can distribute full downloads or act as a proxy etc);;;;15
+33;no;;;;;0
+34;no;;;;;0
+35;yes;"Ongoing study ""LODE"" by cities of Ghent and Bruges (funded by Flemish Region) to verify which data provides the highest economic and social return https://datalab.stad.gent/group/9/stream
+
+Another study for the Flemish Region: https://assets.vlaanderen.be/image/upload/v1675244048/Impact_Open_Data_Vlaanderen_2022_-_Eindrapport_c4nap2.pdf";;;;25
+36;yes;"Participation of public sector experts in OpenKnowledge community, and in activities like ""open summer of code""";;;;15
+D2.2;;;;;;80
+37;yes;N/A;;;;40
+37.1;No;;;;0;
+37.2;Yes;Matomo statistics on downloads;;;0;
+37.3;No;;;;;
+37.4;Yes;1-1 meetings with small companies by BOSA (1 per month);;;0;
+37.5;No;;;;0;
+38;Yes;N/A;;;;40
+38.1;Yes;"Brussels region has regular ""user club"" meetings on UrbIS open geodata: https://paradigm.brussels/fr/quoi-de-neuf/actualites/a-l2019ecoute-de-nos-utilisateurs-2013-users-club-urbis?set_language=fr";;;0;
+38.2;No;;;;0;
+38.3;Yes;Statbel DataLabs https://statbel.fgov.be/en/news/statbel-datalab;;;0;
+39a;no;Rather on an ad-hoc basis;;;;0
+39b;I don't know;;;;;0
+D2.3;;;;;;150
+D2.3a;;;;;;60
+40;I don't know;As far as I know no hard figures, though impact is mentioned in projects and initiatives;;;;0
+41;yes;"Sharing of cadastral parcel plan + statistics and police / emergency zones on  as open data (as opposed to a closed data source) reduces the administrative burden for municipalities and other administrations needing this data https://finance.belgium.be/en/experts-partners/open-data-patrimony/datasets/download-portal)
+
+Same for portals like the Datavindplaats of the Flemish Region which also focuses on reuse by other administrations (https://www.vlaanderen.be/digitaal-vlaanderen/nieuwsberichten/eerste-versie-datavindplaats-gelanceerd), and the Brussels Region (https://datastore.brussels/web/)";;;;15
+42;yes;"Monthly overview of expenses by federal government (https://bosa.belgium.be/fr/budget-de-letat) provides transparancy on spending of tax payer's money, similar initiative in Brussels Region on public procurement expenses(https://openbudgets.be.brussels/en/data-table/table-1), Flanders Region (see also press article https://www.knack.be/nieuws/belgie/politiek/subsidieregister-laat-zien-dat-het-tijd-is-voor-een-kerntakendebat/) and in Walloon Region (https://subventions.wallonie.be/home.html)
+
+Draft legislation of parliament (federal and regional) is sometimes used on social media for discussion";;;;15
+43;yes;Federal Planning Bureau, https://www.plan.be/indicators/indicators_list.php?lang=en is using and publish open data for the Europe 2020 Indicators, e.g http://www.be2020.eu/index.php?lang=en, used in inflation forecasts and other predictions;;;;15
+44;yes;"""Provinces in figures"", combining various open data sources to allow citizens and local politicians to compare statistics on e.g demographics, housing, poverty, vacant real estate, energy use … with other municipalities https://provincies.incijfers.be/dashboard so they can launch plans to improve the local economy and society.
+
+Same for BEP Namur which focuses on improving the economic and social environment for the region of Namur, publishing and analysing open data helps in promoting the region and make policy decisions (https://data.bep.be/pages/accueil/)";;;;15
+D2.3b;;;;;;45
+45;I don't know;There is data on social challenges, eg part of SDG indicators (gender equality, risk of poverty...) https://indicators.be/en/t/SDG/, though hard to say what the impact of open data is on these challenges;;;;0
+46;yes;"Dashboard on the number of displaced persons from Ukraine, which is a tool developed and used by several public administrations to better register and support these people https://statbel.fgov.be/en/visuals/displaced_persons_Ukraine
+
+Also data from openstreetmap is used to improve accessibility for e.g. people with wheelchairs (see this open summer of code project: https://help.osoc.be/osoc22/projects-partners/onwheels)";;;;15
+47;yes;"Articles in media based on statistics like https://statbel.fgov.be/en/themes/housing/real-estate (https://www.dewereldmorgen.be/artikel/2022/01/19/het-onmogelijke-recht-op-huisvesting/), but also in studies like ""Does the renovation policy increase the wealth inequality"" https://www.scriptiebank.be/sites/default/files/thesis/2022-10/Masterproef_Ward_Brichau_0.pdf";;;;15
+48;yes;For instance a news item of the statistics office,  based on the survey on income and living conditions (EU-SILC) https://statbel.fgov.be/en/themes/households/poverty-and-living-conditions/risk-poverty-or-social-exclusion#news which was picked up by the media (e.g. https://www.vrt.be/vrtnws/nl/2023/02/16/risico-op-armoede-of-sociale-uitsluiting/), greatly increasing the awareness of this problem.;;;;15
+49;No;"University of Louvain-la-Neuve ""UCLouvain is committed to making open access, open data and open source common practices mastered in the scientific community."" https://uclouvain.be/en/discover/open-education-open-science.html";;Please clarify the use of open data (the practical cases) that follows from these commitments;;0
+D2.3b;;;;;;45
+50;I don't know;There is data on climate and environment (like satellite data), but not about impact of this data on the challenges (https://climat.be/);;;;0
+51;yes;"Flemish institute is collecting and publishing data on the GBIF biodiversity platform (https://oscibio.inbo.be/datasets/), which in turn helps researchers to monitor the current state of biodiversity.
+
+Interregional air quality center (IRCELINE) is actively using open sensor data to monitor air quality (https://www.irceline.be/nl/luchtkwaliteit/emissies/IIR2022.pdf)";;the GBIF biodiversity platform is a means to make open data more accessible but is not a reuse case;;15
+52;yes;"Companies like AnyWays are using open data to offer better mobility services to companies and public administrations to reduce travel time and promote greener options https://www.anyways.eu/blog/2022-09-14-gipod
+
+Regions also provide locations of public charging stations as open data to promote the switch from ICE to EV (https://www.vlaanderen.be/lokale-besturen-en-publieke-laadinfrastructuur)
+
+Walloon Region has the ""Wallonie-en-poche"" apps which combines various open data sources into 1 app for citizens, e.g. for finding bike-sharing services https://www.youtube.com/watch?v=7Svvcnr_WQI";;;;15
+53;yes;The FutureProofed Platform uses closed and open data sources to help municipalities and companies to create a climate plan (https://www.futureproofed.com/cities/benefits);;;;15
+54;No;In Walloon Region energy operator ORES is publishing open data (https://www.ores.be/open-data);;"Publishing open data is not an example of reuse; reuse is what people do with the data that is made available";;0
+D2.3d;;;;;;0
+55;I don't know;;;;;0
+56;I don't know;;;;;0
+57;I don't know;;;;;0
+58;I don't know;;;;;0
+D3;;;;;;550
+D3.1;;;;;;198
+59;yes;https://data.gov.be;;;;20
+60;yes;N/A;;;;10
+61;yes;N/A;;;;10
+62a;yes;N/A;;;;10
+62b;yes;N/A;;;;10
+63;yes;Linked Data Fragments:  https://data.gov.be/en/api-rss;;;;10
+64;yes;Information on Linked Data Fragments and client tools to use LDF on same page  https://data.gov.be/fr/api-rss;;;;10
+65;yes;"Response to reviewer: Part of metadata (dcat:accessURL or dcat:landingPage) supplied by providers, e.g ""Details"" link on https://data.gov.be/en/node/14929";;Please provide a URL example;;10
+66a;yes;https://data.gov.be/fr/contact;;;;10
+66b;yes;Response to reviewer: Comment button under dataset, e.g. https://data.gov.be/en/node/14398;;Please provide a URL example;;10
+66c;no;;;;;0
+67;yes;https://data.gov.be/fr/news;;;;10
+68;yes;https://data.gov.be/en/rss.xml;;;;10
+69a;yes;https://data.gov.be/fr/contact  (Dataset Request);;;;10
+69b;weekly;N/A;;;;N/A
+69c;no;;;;;0
+70a;yes;Follow-up via mail;;;;10
+70b;approximately half of the datasets;N/A;;;;8
+71;yes;Public chat room: https://app.element.io/#/room/#data.gov.be:matrix.org;;;;10
+72;yes;https://data.gov.be/fr/search/apps;;;;10
+73;yes;https://data.gov.be/nl/app/berekening-huurindex;;;;10
+74;yes;https://data.gov.be/fr/contact  (New app);;;;10
+75;no;;;;;0
+76;no;;;;;0
+77;no;;;;;0
+D3.2;;;;;;135
+78;yes;N/A;;;;10
+79;yes;Matomo;;;;15
+80a;yes;Documentation / info section should be presented more prominently (should be in next version of portal);;;;10
+80b;yes;Web analytics to check most / least used sections;;;;10
+81a;a bit of everything, no clear dominant group;;;;;10
+81b;yes, entirely;;;;;10
+82;see answer box;8560 on the data.gov.be,  at least 25.000 if all other portals are taken into account;;;;10
+83;see answer box;about 30%;;;;N/A
+84;yes;"Monitor keywords, looks like searches are very diverse (generic words like ""statistics"" are somewhat common, but no clear ""winner"")";;;;10
+85;yes;N/A;;;;10
+86;see answer box;1 = Population, 2 = Economy/Finance, 3=  Energy, 4 = Transport, 5 = Health;;;;10
+87;see answer box;1 = Certified building contractors, 2 = Database not-for-profits and companies, 3 = Family Names, 4 = Real Estate Index , 5 = Consumer Price index;;;;10
+88;yes;Improve quality of metadata provided by harvested sources (eg better mappings of themes, publishers…);;;;10
+89;yes;;;;;10
+90a;no ;N/A;;;;0
+90b;I don't know;;;;;N/A
+D3.3;;;;;;87
+91;the majority of public sector data providers;Other sites/portals ar harvested as much as possible, regardless the API they provide (or not);;;;12
+92a;yes, or all public sector data providers already publish data;;;;;10
+92b;yes, or all public sector data providers already publish data;Additional sources harvested by the data.gov.be portal after contacting the administrations and helping them to improve metadata;;;;10
+93a;yes;See list on https://data.gov.be/fr/autres-portails;;;;N/A
+93b;yes;;;;;10
+93c;all datasets;;;;;15
+94a;yes;Elia (electricity grid) provides near-realtime and realtime data, e.g https://data.gov.be/en/dataset/ods057;;;;10
+94b;1-10%;;;;;N/A
+95;yes;Faceted search has option to search on datasets of companies and NPOs, https://data.gov.be/nl/search/datasets?f%5B0%5D=im_field_publisher%3A181;;;;10
+96;yes;https://data.gov.be/fr/autres-portails;;;;10
+97;no;;;;;0
+D3.4;;;;;;130
+98;yes;https://data.gov.be/fr/gestion-et-continuite;;;;30
+99;yes;;;;;10
+100;yes;Not a separate one, but coworkers check twitter for mentions of open data or data.gov.be, and statistics office does have a separate Twitter account;;;;10
+101;yes;Participate in OpenBelgium open data conference + 1-to-1 meetings with (small) companies, data dives;;;;15
+102;yes;"https://github.com/Fedict/dcattools for backend tools, WCMS front-end is using Drupal distribution ""openfed"" https://www.drupal.org/project/openfed";;;;10
+103;no;;;;;0
+104a;yes;"Response to reviewer: Improvement of mappings in back-end tool, see also https://github.com/Fedict/dcattools/issues/121
+Every 6 months there is a full review of all the mappings based on the results of the validator. In between there can be smaller fixes and enhancements which are listed on github.
+In addition, new potential sources (other portals) are identified and contacted for being harvested (or checked if they are already been harvested by regional portals)";;"Please describe the process.
+
+2022 Answer:
+""Every 6 months or so, the metadata mappings are reviewed based on the results of the validator, 
+then either the source or the portals then improves the mappings and/or provide additional metadata.
+In addition, new potential sources (other portals) are identified and contacted for being harvested (or checked if they are already been harvested by regional portals)""";;15
+104b;bi-annually;;;;;N/A
+104c;yes;To some extent: we have an annual chat with various users during Openbelgium, though currently we are somewhat limited to the functions available on the standard platform beging used to host data.gov.be, but for instance the (Matrix) chat was added based on such feedback ;;;;10
+105a;yes;Response to reviewer: Yes distribution accross categories and file formats is part of metadata quality reports , see e.g. bottom half of https://github.com/Fedict/dcat/blob/master/mqa/biodiversity/report-dcatap2.html (or as rendered HTML https://htmlpreview.github.io/?https://github.com/Fedict/dcat/blob/master/mqa/biodiversity/report-dcatap2.html);;Are these publicly available at a URL?;;15
+105b;yes;Response to reviewer: Yes, it allows data provider to check missing metadata / incorrect mappings. Improving the metadata makes the datasets easier to find;;Missing answer. Please explain how the monitoring enables improvements to the performance of the portal;;15
+D4;;;;;;456
+D4.1;;;;;;60
+106;yes;Automated harvesting of various portals and sites;;;;20
+107;100 %;;;;;20
+108;within one week;Mainly (population/economy) statistics and regional geo-data;;;;15
+109;few datasets;;;;;5
+110;no;;;;;0
+D4.2;;;;;;142
+111a;yes;SHACL validator (https://github.com/Fedict/shaclvalidator) using a mix of the DCAT-AP and the Belgian profile ;;;;20
+111b;yes;Not on the portal itself, but as part on the github repository: ;;;;15
+112;yes;Links to legislation describing the fallback mechanism for picking a license https://data.gov.be/fr/licences;;;;20
+113;not applicable;Not on a national level (though the Flanders Region has their own license framework, and some federal administrations have their own (old) license but are considering (or per law have to) switching to CC;;;;10
+114;yes, CC licences;At the federal level the Creative Commons Licenses are to be used, or in exceptional cases other tailored licenses (but not as a separate suite of licenses);;;;10
+115;71-90%;;;;;15
+116;remained the same;;;;;5
+117;>10;;;;;2
+118;yes;https://data.gov.be/nl/info-faq Open Data Checklist;;;;15
+119a;yes;E.g. internal presentation for federal data managers on open data (https://data.gov.be/fr/presentations), a tailored event for spokespersons to explain what open data is and how it can be used by e.g. data journalists (encouraging them to publish more machine-readable data complementary to annual reports etc). See also https://www.linkedin.com/feed/update/urn:li:activity:7057715491078828032/;;;;15
+119b;yes;Regular review of metadata-mappings (eg https://github.com/Fedict/dcattools/issues/121) from data sources using other metadata formats (INSPIRE, CKAN…);;;;15
+D4.3;;;;;;159
+120;yes;Link to SEMIC in FAQ https://data.gov.be/fr/faq/quest-ce-que-le-dcat-dcat-ap;;;;25
+121;>90%;;;;;25
+122a;71-90%;;;;;17
+122b;<10%;;;;;5
+123;yes;"Response to reviewer: See https://github.com/belgif/inspire-dcat, 1) it was created to make mappings of INSPIRE metadata of geo portals to DCAT easier, 2) ""formal"" mapping from INSPIRE XML to metadata, language tags are mandatory on all literals";;Please also (1) outline the reasons for this decision and (2) outline the main differences;;5
+124a;yes;;;;;25
+124b;see answer box;Site-specific or missing categories instead of DCAT-AP categories, missing contact points, literals instead of URI for data formats;;;;15
+125a;71-90%;;;;;17
+125b;>90%;;;;;25
+D4.4;;;;;;95
+126;No;Response to reviewer: data.gov.be does not use a model;;What does https://data.gov.be use?;;0
+127;yes;"Training on data modelling in general (not limited to open data): https://github.com/belgif/review/tree/master/Training, and thematic working group on semantic exhange of data https://github.com/belgif/thematic
+Similar initiatives at regiona level , eg during Meemoo bootcamp on (linked) open cultural data: https://meemoo.be/nl/vormingen-en-events/bootcamp-open-culturele-data-2023-6e-editie";;;;30
+128a;>90%;;;;;20
+128b;>90%;;;;;25
+128c;71-90%;;;;;20
+128d;<10%;;;;;0
+128e;<10%;;;;;0
+129;no ;;;;;0

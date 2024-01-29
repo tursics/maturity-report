@@ -309,8 +309,13 @@ aside,
 }
 
 #countries {
+    background: #222222e0;
+    left: 0;
+    padding-bottom: 1em;
     position: fixed;
+    right: 0;
     top: 0;
+    z-index: 1;
 }
 #countries .shield-button {
     margin-left: 0;

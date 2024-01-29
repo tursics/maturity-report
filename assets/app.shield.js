@@ -1,9 +1,10 @@
 class Shield {
     COLORS = {'de': 'goldenrod', 'D0': 'goldenrod','D1': '#00aef2','D2': '#dc5149','D3': '#001d85','D4': '#ff9933'};
 
-    constructor(answers) {
+    constructor(country, answers) {
         this.id = Date.now() + '' + Math.floor(Math.random() * 1000);
         this.answers = answers;
+        this.country = country;
 
         this.createHTML();
     }
@@ -25,6 +26,11 @@ class Shield {
             '</figcaption>';
 
         document.getElementById('shields').appendChild(node);
+    }
+
+    removeHTML() {
+        var elem = document.getElementById(this.id);
+        elem.remove();
     }
 
     getScore(obj) {

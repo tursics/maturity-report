@@ -115,7 +115,7 @@ function addCountryButton(country) {
     node.style = 'display:inline-block';
     node.dataset.country = country;
     node.title = loadedDataCountries[country]['R1'].Justification;
-    node.onclick = addCountry;
+    node.onclick = toggleCountry;
 
     node.innerHTML = 
         '<div class="shield-border"></div>' +
@@ -197,7 +197,7 @@ function onFinishLoading() {
     setQuestionnaire('root');
 
     var germany = document.querySelectorAll('[data-country="de"]')[0];
-    addCountry.call(germany);
+    toggleCountry.call(germany);
 }
 
 function onFileScoring(filepath, data) {
@@ -239,14 +239,22 @@ function goto(destination) {
     }
 }
 
-function addCountry() {
+function toggleCountry() {
     var code = this.dataset.country;
-    var shield = new Shield(loadedDataCountries[code]);
 
-    this.classList.add('selected');
-    shields.push(shield);
+    if (this.classList.contains('selected')) {
+        this.classList.remove('selected');
 
-    goto(currentID);
+        shields.find((shield) => shield.country === code).removeHTML();
+        shields = shields.filter((shield) => shield.country !== code);
+    } else {
+        this.classList.add('selected');
+
+        var shield = new Shield(code, loadedDataCountries[code]);
+        shields.push(shield);
+
+        goto(currentID);
+    }
 }
 
 document.addEventListener('DOMContentLoaded', function() {

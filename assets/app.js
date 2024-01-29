@@ -114,11 +114,12 @@ function addCountryButton(country) {
     node.classList.add('shield-button');
     node.style = 'display:inline-block';
     node.dataset.country = country;
+    node.title = loadedDataCountries[country]['R1'].Justification;
     node.onclick = addCountry;
 
     node.innerHTML = 
         '<div class="shield-border"></div>' +
-        '<div class="shield-background" style="background:gray">' +
+        '<div class="shield-background">' +
             '<div class="shield-chevron" style="font-size:10em;line-height:1.7em"><span class="fi fi-' + country + ' fis"></span></span>' +
         '</div>';
 
@@ -194,6 +195,9 @@ function onFinishLoading() {
 
     setShieldLevel('root');
     setQuestionnaire('root');
+
+    var germany = document.querySelectorAll('[data-country="de"]')[0];
+    addCountry.call(germany);
 }
 
 function onFileScoring(filepath, data) {
@@ -239,6 +243,7 @@ function addCountry() {
     var code = this.dataset.country;
     var shield = new Shield(loadedDataCountries[code]);
 
+    this.classList.add('selected');
     shields.push(shield);
 
     goto(currentID);

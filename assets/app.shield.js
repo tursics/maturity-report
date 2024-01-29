@@ -91,7 +91,7 @@ class Shield {
 
         var shrinkBy = showGray ? 5 : 20;
         var height = showGray ? 2.3 : .9;
-        var tooltip = _.get(obj.id).split(/\r?\n/)[0];
+        var tooltip = _.get(obj.id).split('<br>')[0];
         var str = '<span onclick="goto(\'' + obj.id + '\')" data-i18n-title="' + (obj.id) + '" title="' + tooltip + '" class="answerbox ' + color + '" style="width:' + (width / shrinkBy) + 'em;height:' + height + 'em"></span>';
 
         if (!showGray && (color === 'bg-gray')) {

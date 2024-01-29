@@ -255,8 +255,18 @@ document.addEventListener('DOMContentLoaded', function() {
 
     load.csv('2023/3-simplified/00_i18n.csv', onFileReportEN);
     load.csv('2023/3-simplified/00_scoring.csv', onFileScoring);
+
+    load.csv('2023/3-simplified/AL_ODM_2023.csv', onFileCountryLoaded);
+    load.csv('2023/3-simplified/AT_ODM_2023.csv', onFileCountryLoaded);
+    load.csv('2023/3-simplified/BA_ODM_2023.csv', onFileCountryLoaded);
+    load.csv('2023/3-simplified/BE_ODM_2023.csv', onFileCountryLoaded);
+    load.csv('2023/3-simplified/BG_ODM_2023.csv', onFileCountryLoaded);
+    load.csv('2023/3-simplified/CH_ODM_2023.csv', onFileCountryLoaded);
+    load.csv('2023/3-simplified/CY_ODM_2023.csv', onFileCountryLoaded);
+    load.csv('2023/3-simplified/CZ_ODM_2023.csv', onFileCountryLoaded);
     load.csv('2023/3-simplified/DE_ODM_2023.csv', onFileCountryLoaded);
     load.csv('2023/3-simplified/FR_ODM_2023.csv', onFileCountryLoaded);
+
     load.addFinishCallback(onFinishLoading);
 });
 

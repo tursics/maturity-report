@@ -43,9 +43,38 @@ function getParent(id) {
 }
 
 function getHeadline(obj) {
-    var str = '<span data-i18n="' + obj.id + '">' + _.get(obj.id) + '</span> ';
+    var str = '';
 
-    str += '<br>';
+    if ('dimension' === obj.type) {
+        str += '<h2 data-i18n="' + obj.id + '">' + _.get(obj.id) + '</h2>';
+
+        var key = 'N' + obj.id.substr(1);
+        var val = _.get(key);
+        if (val !== ('{' + key + '}')) {
+            str += '<div style="margin-bottom:1.5em">' + val + '</div>';
+        }
+    } else {
+        var splitted = _.get(obj.id).split('<br>');
+        var title = splitted.shift();
+        if ((splitted.length > 0) && (splitted[0] === '')) {
+            splitted.shift();
+        }
+
+        str += '<h2>';
+        str += '<span data-i18n="Question">' + _.get('Question') + '</span>';
+        str += ' ' + obj.id  + ': ';
+        str += '<span data-i18n="' + obj.id + '">' + title + '</span>';
+        str += '</h2>';
+
+        str += '<div style="margin-bottom:1.5em" data-i18n="' + obj.id + '">' + splitted.join('<br>') + '</div>';
+
+        var key = 'G' + obj.id;
+        var val = _.get(key);
+        if (val !== ('{' + key + '}')) {
+            str += '<div data-i18n="GuideAnswering" style="font-style:italic;font-weight:900">' + _.get('GuideAnswering') + '</div>';
+            str += '<div style="margin-bottom:1.5em">' + val + '</div>';
+        }
+    }
 
     return str;
 }
@@ -258,13 +287,13 @@ function toggleCountry() {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-    _.setLanguage(DEFAULT_LANG);
+//    _.setLanguage(DEFAULT_LANG);
 
-    var test = DEFAULT_LANG;
+/*    var test = DEFAULT_LANG;
     setInterval(function() {
         test = test === 'de' ? 'en' : 'de';
         _.setLanguage(test);
-    }, 5000);
+    }, 5000);*/
 
     load.csv('2023/3-simplified/00_i18n.csv', onFileReportEN);
     load.csv('2023/3-simplified/00_scoring.csv', onFileScoring);

@@ -191,8 +191,7 @@ function onFinishLoading() {
     setShieldLevel('root');
     setQuestionnaire('root');
 
-    var germany = document.querySelectorAll('[data-country="de"]')[0];
-    toggleCountry.call(germany);
+    countries.select('de');
 }
 
 function onFileScoring(filepath, data) {

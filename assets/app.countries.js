@@ -38,10 +38,16 @@ var countries = (function () {
         return Object.keys(data).length;
     }
 
+    function funcSelect(country) {
+        var that = document.querySelectorAll('[data-country="' + country + '"]')[0];
+        toggleCountry.call(that);
+    }
+
     return {
         add: funcAdd,
         addData: funcAddData,
         get: funcGet,
         length: funcLength,
+        select: funcSelect,
     };
 }());

@@ -3,8 +3,7 @@
 var DEFAULT_LANG = 'de',
     WEBSERVER_PATH = 'https://tursics.github.io/maturity-report/';
 
-var loadedDataCountries = {},
-    loadedDataScore = [],
+var loadedDataScore = [],
     questionTree = [],
     shields = [],
     currentID = '';
@@ -127,29 +126,6 @@ function getQuestion(id) {
     return obj;
 }
 
-function addCountryButton(country) {
-    var node = document.createElement('figure');
-    var titleObj = loadedDataCountries[country]['R1'];
-    node.classList.add('shield');
-    node.classList.add('shield-button');
-    node.style = 'display:inline-block';
-    node.dataset.country = country;
-    node.title = titleObj ? titleObj.Justification : '';
-    node.onclick = toggleCountry;
-
-    node.innerHTML = 
-        '<div class="shield-border"></div>' +
-        '<div class="shield-background">' +
-            '<div class="shield-chevron" style="font-size:10em;line-height:1.7em"><span class="fi fi-' + country + ' fis"></span></span>' +
-        '</div>';
-
-    document.getElementById('countries').appendChild(node);
-}
-
-function addCountryButtons() {
-    Object.keys(loadedDataCountries).forEach((country) => addCountryButton(country));
-}
-
 function prepareButtons(id) {
     var buttonBack = document.getElementById('buttonBack');
     buttonBack.style.display = 'inline-block';
@@ -211,7 +187,6 @@ function setQuestionnaire(id) {
 
 function onFinishLoading() {
     load.showLog(false);
-    addCountryButtons();
 
     setShieldLevel('root');
     setQuestionnaire('root');
@@ -240,9 +215,9 @@ function onFileCountryLoaded(filepath, data) {
     var filename = filepath.split('/').pop();
     var country = filename.split('_').shift();
 
-    loadedDataCountries[country.toLowerCase()] = countryData;
+    countries.addData(country, countryData);
 
-    if (Object.keys(loadedDataCountries).length === 1) {
+    if (countries.length() === 1) {
         createQuestionTree(data);
     }
 }
@@ -260,17 +235,17 @@ function goto(destination) {
 }
 
 function toggleCountry() {
-    var code = this.dataset.country;
+    var country = this.dataset.country;
 
     if (this.classList.contains('selected')) {
         this.classList.remove('selected');
 
-        shields.find((shield) => shield.country === code).removeHTML();
-        shields = shields.filter((shield) => shield.country !== code);
+        shields.find((shield) => shield.country === country).removeHTML();
+        shields = shields.filter((shield) => shield.country !== country);
     } else {
         this.classList.add('selected');
 
-        var shield = new Shield(code, loadedDataCountries[code]);
+        var shield = new Shield(country, countries.get(country));
         shields.push(shield);
 
         goto(currentID);

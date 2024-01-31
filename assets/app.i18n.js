@@ -12,11 +12,29 @@ var _ = (function () {
     }
 
     function replaceHTMLEntries() {
-        const elements = document.querySelectorAll('[data-i18n]');
+        var elements = document.querySelectorAll('[data-i18n]');
 
         elements.forEach(elem => {
             var key = elem.dataset['i18n'];
             elem.innerHTML = funcGet(key);
+        });
+
+        elements = document.querySelectorAll('[data-i18nstart]');
+        elements.forEach(elem => {
+            var key = elem.dataset['i18nstart'];
+            var splitted = funcGet(key).split('<br>');
+            elem.innerHTML = splitted.shift();
+        });
+
+        elements = document.querySelectorAll('[data-i18ntail]');
+        elements.forEach(elem => {
+            var key = elem.dataset['i18ntail'];
+            var splitted = funcGet(key).split('<br>');
+            splitted.shift();
+            if ((splitted.length > 0) && (splitted[0] === '')) {
+                splitted.shift();
+            }
+            elem.innerHTML = splitted.join('<br>');
         });
     }
 

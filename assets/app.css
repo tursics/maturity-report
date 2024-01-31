@@ -251,6 +251,17 @@ aside,
     text-align: center;
     top: 0;
 }
+.shield-board .answer {
+    font-weight: 900;
+    margin:1em
+}
+.shield-board .justification {
+    border-top: .2em solid #aaa;
+    color: #aaa;
+    margin: 1em;
+    padding-top: 1em;
+    text-align: left;
+}
 .shield-score {
     bottom: .7em;
     color: goldenrod;

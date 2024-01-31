@@ -10,16 +10,6 @@ var loadedDataCountries = {},
     currentID = '';
 
 // ----------------------------------------------------------------------------
-/*
-function getJustification(key) {
-    var str = '<span data-i18n="' + key + '">' + _.get(key) + '</span> ';
-    var item = loadedDataGermany[key];
-
-    str += '<span data-i18n="' + item.Justification + '">' + _.get(item.Justification) + '</span>';
-    str += '<br>';
-
-    return str;
-}*/
 
 function getParent(id) {
     function getParent_(root) {
@@ -63,10 +53,10 @@ function getHeadline(obj) {
         str += '<h2>';
         str += '<span data-i18n="Question">' + _.get('Question') + '</span>';
         str += ' ' + obj.id  + ': ';
-        str += '<span data-i18n="' + obj.id + '">' + title + '</span>';
+        str += '<span data-i18nstart="' + obj.id + '">' + title + '</span>';
         str += '</h2>';
 
-        str += '<div style="margin-bottom:1.5em" data-i18n="' + obj.id + '">' + splitted.join('<br>') + '</div>';
+        str += '<div style="margin-bottom:1.5em" data-i18ntail="' + obj.id + '">' + splitted.join('<br>') + '</div>';
 
         var key = 'G' + obj.id;
         var val = _.get(key);
@@ -139,11 +129,12 @@ function getQuestion(id) {
 
 function addCountryButton(country) {
     var node = document.createElement('figure');
+    var titleObj = loadedDataCountries[country]['R1'];
     node.classList.add('shield');
     node.classList.add('shield-button');
     node.style = 'display:inline-block';
     node.dataset.country = country;
-    node.title = loadedDataCountries[country]['R1'].Justification;
+    node.title = titleObj ? titleObj.Justification : '';
     node.onclick = toggleCountry;
 
     node.innerHTML = 
@@ -287,13 +278,13 @@ function toggleCountry() {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-//    _.setLanguage(DEFAULT_LANG);
+    _.setLanguage(DEFAULT_LANG);
 
-/*    var test = DEFAULT_LANG;
+    var test = DEFAULT_LANG;
     setInterval(function() {
         test = test === 'de' ? 'en' : 'de';
         _.setLanguage(test);
-    }, 5000);*/
+    }, 5000);
 
     load.csv('2023/3-simplified/00_i18n.csv', onFileReportEN);
     load.csv('2023/3-simplified/00_scoring.csv', onFileScoring);

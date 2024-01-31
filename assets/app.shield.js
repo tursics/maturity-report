@@ -112,8 +112,8 @@ class Shield {
 
         var item = this.answers[obj.id];
 
-        str += '<div data-i18n-answer="' + item.ID + '" class="" style="">' + _.get(item.Answer) + '</div>';
-        str += '<div data-i18n-justification="' + item.ID + '" class="" style="">' + _.get(item.Justification) + '</div>';
+        str += '<div data-i18n-answer="' + item.ID + '" class="answer">' + _.get(item.Answer) + '</div>';
+        str += '<div data-i18n-justification="' + item.ID + '" class="justification">' + _.get(item.Justification) + '</div>';
 
         return str;
     }
@@ -126,7 +126,10 @@ class Shield {
 
         var country = this.answers['R1'];
         var str = '';
-        str = '<span data-i18n="' + country.Justification + '">' + _.get(country.Justification) + '</span>';
+
+        if (country) {
+            str = '<span data-i18n="' + country.Justification + '">' + _.get(country.Justification) + '</span>';
+        }
 
         elemCaption.innerHTML = str;
         elemBoard.innerHTML = '';
@@ -208,6 +211,7 @@ class Shield {
             str += answers;
         }
 
+        elemBoard.style = answers === '' ? '' : 'overflow-y:auto';
         elemBoard.innerHTML = str;
     }
 

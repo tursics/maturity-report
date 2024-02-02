@@ -1,7 +1,7 @@
 var countries = (function () {
     var idElement = 'countries',
         csvPath = '2023/3-simplified/{country}_ODM_2023.csv';
-        loadList = ['al','at','ba','be','bg','ch','cy','cz','de','fr'];
+        loadList = ['al','at','ba','be','bg','ch','cy','cz','de','dk','ee','el','es','fi','fr','hr','hu','ie','is','it','lt','lu','lv','me','mt','nl','no','pl','pt','ro','rs','se','si','sk','ua'];
     var data = {};
 
     function funcInit() {
@@ -48,14 +48,21 @@ var countries = (function () {
     }
 
     function onLoaded(filepath, data) {
+        var filename = filepath.split('/').pop();
+        var country = filename.split('_').shift().toLowerCase();
+        var elem = document.querySelectorAll('[data-country="' + country + '"]')[0];
+
+        if (0 === data.length) {
+            elem.classList.remove('progress');
+            elem.classList.add('disabled');
+
+            return;
+        }
+
         var countryData = [];
         data.forEach((obj) => {
             countryData[obj.ID] = obj;
         });
-
-        var filename = filepath.split('/').pop();
-        var country = filename.split('_').shift().toLowerCase();
-        var elem = document.querySelectorAll('[data-country="' + country + '"]')[0];
 
         countries.addData(country, countryData, false);
 

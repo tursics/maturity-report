@@ -282,14 +282,20 @@ aside,
 .shield-button {
     font-size: .2rem;
 }
+.shield-button.disabled {
+    pointer-events: none;
+}
 .shield-button.disabled .shield-background {
-    background: #222;
+    background: #222 !important;
 }
 .shield-button.disabled .shield-border {
     background: #aaa;
 }
 .shield-button.disabled .shield-border::before {
     border-top-color: #aaa;
+}
+.shield-button.disabled .shield-background::before {
+    border-top-color: #222 !important;
 }
 .shield-button:hover .shield-background {
     background: goldenrod;
@@ -321,10 +327,12 @@ aside,
 #countries {
     background: #222222e0;
     left: 0;
+    overflow-x: auto;
     padding-bottom: 1em;
     position: fixed;
     right: 0;
     top: 0;
+    white-space: nowrap;
     z-index: 1;
 }
 #countries .shield-button {

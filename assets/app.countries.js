@@ -1,11 +1,12 @@
 var countries = (function () {
-    var idElement = 'countries';
+    var idElement = 'countries',
+        csvPath = '2023/3-simplified/{country}_ODM_2023.csv';
+        loadList = ['al','at','ba','be','bg','ch','cy','cz','de','fr'];
     var data = {};
 
-    function init() {
+    function funcInit() {
+        loadList.forEach((item) => {funcAdd(item)});
     }
-
-    init();
 
     function funcAdd(country) {
         var node = document.createElement('figure');
@@ -13,8 +14,8 @@ var countries = (function () {
         node.classList.add('shield-button');
         node.style = 'display:inline-block';
         node.dataset.country = country;
-        node.title = data[country]['R1'].Justification;
-        node.onclick = toggleCountry;
+//        node.title = data[country]['R1'].Justification;
+        node.onclick = OnCountryClick;
 
         node.innerHTML = 
             '<div class="shield-border"></div>' +
@@ -25,9 +26,12 @@ var countries = (function () {
         document.getElementById(idElement).appendChild(node);
     }
 
-    function funcAddData(country, countryData) {
+    function funcAddData(country, countryData, addShield) {
         data[country.toLowerCase()] = countryData;
-        funcAdd(country.toLowerCase());
+
+        if (addShield) {
+            funcAdd(country.toLowerCase());
+        }
     }
 
     function funcGet(country) {
@@ -39,15 +43,55 @@ var countries = (function () {
     }
 
     function funcSelect(country) {
-        var that = document.querySelectorAll('[data-country="' + country + '"]')[0];
-        toggleCountry.call(that);
+        var elem = document.querySelectorAll('[data-country="' + country + '"]')[0];
+        OnCountryClick.call(elem);
+    }
+
+    function onLoaded(filepath, data) {
+        var countryData = [];
+        data.forEach((obj) => {
+            countryData[obj.ID] = obj;
+        });
+
+        var filename = filepath.split('/').pop();
+        var country = filename.split('_').shift().toLowerCase();
+        var elem = document.querySelectorAll('[data-country="' + country + '"]')[0];
+
+        countries.addData(country, countryData, false);
+
+        if (countries.length() === 1) {
+            createQuestionTree(data);
+        }
+
+        elem.classList.remove('progress');
+
+        countries.select(country);
+    }
+
+    function funcLoadAndSelect(country) {
+        var elem = document.querySelectorAll('[data-country="' + country + '"]')[0];
+        elem.classList.add('progress');
+
+        load.csv(csvPath.replace('{country}', country.toUpperCase()), onLoaded);
     }
 
     return {
         add: funcAdd,
         addData: funcAddData,
         get: funcGet,
+        init: funcInit,
         length: funcLength,
+        loadAndSelect: funcLoadAndSelect,
         select: funcSelect,
     };
 }());
+
+function OnCountryClick() {
+    var country = this.dataset.country;
+
+    if (countries.get(country)) {
+        toggleCountry.call(this);
+    } else {
+        countries.loadAndSelect(country);
+    }
+}

@@ -100,6 +100,10 @@ var load = (function () {
         callbackFinish = callback;
     }
 
+    function funcRemoveFinishCallback(callback) {
+        callbackFinish = null;
+    }
+
     function dispatchFinish() {
         if (callbackFinish) {
             callbackFinish();
@@ -120,6 +124,7 @@ var load = (function () {
     return {
         addFinishCallback: funcAddFinishCallback,
         csv: funcCSV,
+        removeFinishCallback: funcRemoveFinishCallback,
         showLog: funcShowLog,
     };
 }());

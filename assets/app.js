@@ -187,10 +187,12 @@ function setQuestionnaire(id) {
 
 function onFinishLoading() {
     load.showLog(false);
+    load.removeFinishCallback(onFinishLoading);
 
     setShieldLevel('root');
     setQuestionnaire('root');
 
+    countries.init();
     countries.select('de');
 }
 
@@ -203,22 +205,6 @@ function onFileScoring(filepath, data) {
 
 function onFileReportEN(filepath, data) {
     _.appendTranslations('en', data);
-}
-
-function onFileCountryLoaded(filepath, data) {
-    var countryData = [];
-    data.forEach((obj) => {
-        countryData[obj.ID] = obj;
-    });
-
-    var filename = filepath.split('/').pop();
-    var country = filename.split('_').shift();
-
-    countries.addData(country, countryData);
-
-    if (countries.length() === 1) {
-        createQuestionTree(data);
-    }
 }
 
 function goto(destination) {
@@ -262,17 +248,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
     load.csv('2023/3-simplified/00_i18n.csv', onFileReportEN);
     load.csv('2023/3-simplified/00_scoring.csv', onFileScoring);
-
-    load.csv('2023/3-simplified/AL_ODM_2023.csv', onFileCountryLoaded);
-    load.csv('2023/3-simplified/AT_ODM_2023.csv', onFileCountryLoaded);
-    load.csv('2023/3-simplified/BA_ODM_2023.csv', onFileCountryLoaded);
-    load.csv('2023/3-simplified/BE_ODM_2023.csv', onFileCountryLoaded);
-    load.csv('2023/3-simplified/BG_ODM_2023.csv', onFileCountryLoaded);
-    load.csv('2023/3-simplified/CH_ODM_2023.csv', onFileCountryLoaded);
-    load.csv('2023/3-simplified/CY_ODM_2023.csv', onFileCountryLoaded);
-    load.csv('2023/3-simplified/CZ_ODM_2023.csv', onFileCountryLoaded);
-    load.csv('2023/3-simplified/DE_ODM_2023.csv', onFileCountryLoaded);
-    load.csv('2023/3-simplified/FR_ODM_2023.csv', onFileCountryLoaded);
 
     load.addFinishCallback(onFinishLoading);
 });

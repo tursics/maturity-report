@@ -332,6 +332,9 @@ aside,
     top: 0;
     transition: top 250ms;
 }
+#countries .shield-button:hover {
+    top: 2em;
+}
 #countries .shield-button.selected {
     top: 2em;
 }
@@ -346,6 +349,28 @@ aside,
 }
 #countries .shield-button.selected .shield-background:before {
     border-top-color: goldenrod;
+}
+#countries .shield-button.progress .shield-chevron {
+    -webkit-animation: spin 1s linear infinite;
+    -moz-animation: spin 1s linear infinite;
+    animation: spin 1s linear infinite;
+}
+
+@-moz-keyframes spin {
+    100% {
+        -moz-transform: rotate(360deg);
+    }
+}
+@-webkit-keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+@keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
 }
 
 #shields {

@@ -1,6 +1,7 @@
 // ----------------------------------------------------------------------------
 
 var DEFAULT_LANG = 'de',
+    LOAD_LANG = ['de','en'],
     WEBSERVER_PATH = 'https://tursics.github.io/maturity-report/';
 
 var loadedDataScore = [],
@@ -203,8 +204,16 @@ function onFileScoring(filepath, data) {
     });
 }
 
-function onFileReportEN(filepath, data) {
-    _.appendTranslations('en', data);
+function onFileReport(filepath, data) {
+    var filename = filepath.split('/').pop();
+    var file = filename.split('.').shift();
+    var language = file.split('_').pop().toLowerCase();
+
+    if ('i18n' === language) {
+        language = 'en';
+    }
+
+    _.appendTranslations(language, data);
 }
 
 function goto(destination) {
@@ -240,15 +249,21 @@ function toggleCountry() {
 document.addEventListener('DOMContentLoaded', function() {
     _.setLanguage(DEFAULT_LANG);
 
-    var test = DEFAULT_LANG;
+    var test = 0;
     setInterval(function() {
-        test = test === 'de' ? 'en' : 'de';
-        _.setLanguage(test);
+        ++test;
+        if (test >= LOAD_LANG.length) {
+            test = 0;
+        }
+        _.setLanguage(LOAD_LANG[test]);
     }, 5000);
 
-    load.csv('2023/3-simplified/00_i18n.csv', onFileReportEN);
-    load.csv('2023/3-simplified/00_scoring.csv', onFileScoring);
+    LOAD_LANG.forEach((lang) => {
+        var language = lang === 'en' ? '' : '_' + lang;
+        load.csv('2023/3-simplified/00_i18n' + language + '.csv', onFileReport);
+    });
 
+    load.csv('2023/3-simplified/00_scoring.csv', onFileScoring);
     load.addFinishCallback(onFinishLoading);
 });
 

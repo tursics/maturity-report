@@ -110,10 +110,8 @@ class Shield {
     getAnswerText(obj) {
         var str = '';
 
-        var item = this.answers['en'][obj.id];
-
-        str += '<div data-i18n-answer="' + item.ID + '" class="answer">' + _.get(item.Answer) + '</div>';
-        str += '<div data-country="' + this.country + '" data-i18njustification="' + item.ID + '" class="justification">' + _.getJustification(this.country, obj.id) + '</div>';
+        str += '<div data-country="' + this.country + '" data-i18nanswer="' + obj.id + '" class="answer">' + _.getAnswer(this.country, obj.id) + '</div>';
+        str += '<div data-country="' + this.country + '" data-i18njustification="' + obj.id + '" class="justification">' + _.getJustification(this.country, obj.id) + '</div>';
 
         return str;
     }

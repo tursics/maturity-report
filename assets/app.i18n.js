@@ -19,6 +19,13 @@ var _ = (function () {
             elem.innerHTML = funcGet(key);
         });
 
+        elements = document.querySelectorAll('[data-i18nanswer]');
+        elements.forEach(elem => {
+            var country = elem.dataset['country'];
+            var key = elem.dataset['i18nanswer'];
+            elem.innerHTML = funcGetAnswer(country, key);
+        });
+
         elements = document.querySelectorAll('[data-i18njustification]');
         elements.forEach(elem => {
             var country = elem.dataset['country'];
@@ -68,6 +75,18 @@ var _ = (function () {
         return arr.join('<br>');
     }
 
+    function funcGetAnswer(country, answer) {
+        var answers = countries.get(country);
+        var answersEN = answers['en'];
+        var answersLang = answers[_.getLanguage()];
+
+        if (answersLang) {
+            return answersLang[answer].Answer;
+        }
+
+        return answersEN[answer].Answer;
+    }
+
     function funcGetJustification(country, answer) {
         var answers = countries.get(country);
         var answersEN = answers['en'];
@@ -91,6 +110,7 @@ var _ = (function () {
     return {
         appendTranslations: funcAppendTranslations,
         get: funcGet,
+        getAnswer: funcGetAnswer,
         getJustification: funcGetJustification,
         getLanguage: funcGetLanguage,
         setLanguage: funcSetLanguage,

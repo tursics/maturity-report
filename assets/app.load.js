@@ -32,9 +32,11 @@ var load = (function () {
             if (this.readyState == 4 && this.status == 200) {
                 files.shift();
                 store(fileObj, this.responseText);
+                fileObj.callback = null;
             } else if (this.readyState == 4) {
                 files.shift();
                 store(fileObj, null);
+                fileObj.callback = null;
             }
         }
 

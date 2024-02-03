@@ -19,6 +19,13 @@ var _ = (function () {
             elem.innerHTML = funcGet(key);
         });
 
+        elements = document.querySelectorAll('[data-i18njustification]');
+        elements.forEach(elem => {
+            var country = elem.dataset['country'];
+            var key = elem.dataset['i18njustification'];
+            elem.innerHTML = funcGetJustification(country, key);
+        });
+
         elements = document.querySelectorAll('[data-i18nstart]');
         elements.forEach(elem => {
             var key = elem.dataset['i18nstart'];
@@ -36,6 +43,10 @@ var _ = (function () {
             }
             elem.innerHTML = splitted.join('<br>');
         });
+    }
+
+    function funcGetLanguage() {
+        return langId;
     }
 
     function funcSetLanguage(name) {
@@ -57,6 +68,18 @@ var _ = (function () {
         return arr.join('<br>');
     }
 
+    function funcGetJustification(country, answer) {
+        var answers = countries.get(country);
+        var answersEN = answers['en'];
+        var answersLang = answers[_.getLanguage()];
+
+        if (answersLang) {
+            return answersLang[answer].Justification;
+        }
+
+        return answersEN[answer].Justification;
+    }
+
     function funcAppendTranslations(lang, data) {
         data.forEach((item) => {
             i18n[lang][item.key] = item.value;
@@ -68,6 +91,8 @@ var _ = (function () {
     return {
         appendTranslations: funcAppendTranslations,
         get: funcGet,
+        getJustification: funcGetJustification,
+        getLanguage: funcGetLanguage,
         setLanguage: funcSetLanguage,
     };
 }());

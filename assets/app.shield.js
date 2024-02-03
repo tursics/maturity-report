@@ -38,7 +38,7 @@ class Shield {
             return 0;
         }
 
-        var item = this.answers[obj.id];
+        var item = this.answers['en'][obj.id];
         var score = item && item.Score ? parseInt(item.Score, 10) : NaN;
 
         if (isNaN(score) || (obj.type === 'dimension')) {
@@ -77,7 +77,7 @@ class Shield {
     getAnswerBox(obj, showGray) {
         var color = 'bg-gray';
 
-        var item = this.answers[obj.id];
+        var item = this.answers['en'][obj.id];
         var score = parseInt(item.Score, 10);
 
         var scoreItem = loadedDataScore[obj.id];
@@ -110,10 +110,10 @@ class Shield {
     getAnswerText(obj) {
         var str = '';
 
-        var item = this.answers[obj.id];
+        var item = this.answers['en'][obj.id];
 
         str += '<div data-i18n-answer="' + item.ID + '" class="answer">' + _.get(item.Answer) + '</div>';
-        str += '<div data-i18n-justification="' + item.ID + '" class="justification">' + _.get(item.Justification) + '</div>';
+        str += '<div data-country="' + this.country + '" data-i18njustification="' + item.ID + '" class="justification">' + _.getJustification(this.country, obj.id) + '</div>';
 
         return str;
     }
@@ -124,11 +124,11 @@ class Shield {
         var elemBoard = elem.getElementsByClassName('shield-board')[0];
         var elemScore = elem.getElementsByClassName('shield-score')[0];
 
-        var country = this.answers['R1'];
+        var country = _.getJustification(this.country, 'R1');
         var str = '';
 
         if (country) {
-            str = '<span data-i18n="' + country.Justification + '">' + _.get(country.Justification) + '</span>';
+            str = '<span data-country="' + this.country + '" data-i18njustification="' + 'R1' + '">' + country + '</span>';
         }
 
         elemCaption.innerHTML = str;

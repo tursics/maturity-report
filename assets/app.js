@@ -62,7 +62,7 @@ function getHeadline(obj) {
         var val = _.get(key);
         if (val !== ('{' + key + '}')) {
             str += '<div data-i18n="GuideAnswering" style="font-style:italic;font-weight:900">' + _.get('GuideAnswering') + '</div>';
-            str += '<div style="margin-bottom:1.5em">' + val + '</div>';
+            str += '<div data-i18n="' + key + '" style="margin-bottom:1.5em">' + val + '</div>';
         }
     }
 

@@ -41,7 +41,7 @@ function getHeadline(obj) {
         var key = 'N' + obj.id.substr(1);
         var val = _.get(key);
         if (val !== ('{' + key + '}')) {
-            str += '<div style="margin-bottom:1.5em">' + val + '</div>';
+            str += '<div data-i18n="' + key + '" style="margin-bottom:1.5em">' + val + '</div>';
         }
     } else {
         var splitted = _.get(obj.id).split('<br>');

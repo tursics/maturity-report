@@ -17,10 +17,12 @@ var countries = (function () {
 //        node.title = data[country][_.getLanguage()]['R1'].Justification;
         node.onclick = OnCountryClick;
 
+        var flag = country === 'el' ? 'gr' : country;
+
         node.innerHTML = 
             '<div class="shield-border"></div>' +
             '<div class="shield-background">' +
-                '<div class="shield-chevron" style="font-size:10em;line-height:1.7em"><span class="fi fi-' + country + ' fis"></span></span>' +
+                '<div class="shield-chevron" style="font-size:10em;line-height:1.7em"><span class="fi fi-' + flag + ' fis"></span></span>' +
             '</div>';
 
         document.getElementById(idElement).appendChild(node);

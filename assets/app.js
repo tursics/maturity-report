@@ -128,12 +128,28 @@ function getQuestion(id) {
 }
 
 function prepareButtons(id) {
-    var buttonBack = document.getElementById('buttonBack');
-    buttonBack.style.display = 'inline-block';
-    buttonBack.classList.remove('disabled');
+    var button = document.getElementById('buttonPrev');
+//    button.style.display = 'inline-block';
+    button.classList.remove('disabled');
 
     if (id === 'root') {
-        buttonBack.classList.add('disabled');
+        button.classList.add('disabled');
+    }
+
+    button = document.getElementById('buttonNext');
+    button.style.display = 'inline-block';
+    button.classList.remove('disabled');
+
+    if (!getShieldLevelNext()) {
+        button.classList.add('disabled');
+    }
+
+    button = document.getElementById('buttonUpwards');
+    button.style.display = 'inline-block';
+    button.classList.remove('disabled');
+
+    if (id === 'root') {
+        button.classList.add('disabled');
     }
 }
 
@@ -160,7 +176,7 @@ function setShieldLevelDebug() {
     shields.forEach((shield) => shield.setDebug());
 }
 
-function setShieldLevelBack() {
+function setShieldLevelUpwards() {
     var level = 'root';
     var root = getParent(currentID);
 
@@ -170,6 +186,47 @@ function setShieldLevelBack() {
 
     setShieldLevel(level);
     setQuestionnaire(level);
+}
+
+function getShieldLevelNext() {
+    var current = currentID;
+    var obj = getQuestion(current);
+
+    if (obj && obj.children && (obj.children.length > 0)) {
+        if ('TotalScore' === obj.children[0].id) {
+            return obj.children[3].id;
+        }
+
+        return obj.children[0].id;
+    }
+
+    do {
+        var root = getParent(current);
+        if (!root) {
+            return undefined;
+        }
+
+        var index = root.children.findIndex((child) => child.id === current) + 1;
+        if (index < root.children.length) {
+            return root.children[index].id;
+        }
+
+        current = root.id;
+    } while (true);
+}
+
+function setShieldLevelNext() {
+    var level = getShieldLevelNext();
+
+    if (level) {
+        if ('debug' === level) {
+            setShieldLevelDebug();
+            setQuestionnaire('root');
+        } else {
+            setShieldLevel(level);
+            setQuestionnaire(level);
+        }
+    }
 }
 
 function setQuestionnaire(id) {
@@ -217,8 +274,10 @@ function onFileReport(filepath, data) {
 }
 
 function goto(destination) {
-    if ('back' === destination) {
-        setShieldLevelBack();
+    if ('upwards' === destination) {
+        setShieldLevelUpwards();
+    } else if ('next' === destination) {
+        setShieldLevelNext();
     } else if ('debug' === destination) {
         setShieldLevelDebug();
         setQuestionnaire('root');

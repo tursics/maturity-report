@@ -328,6 +328,7 @@ aside,
     background: #222222e0;
     left: 0;
     overflow-x: auto;
+    overflow-y: hidden;
     padding-bottom: 1em;
     position: fixed;
     right: 0;
@@ -362,6 +363,29 @@ aside,
     -webkit-animation: spin 1s linear infinite;
     -moz-animation: spin 1s linear infinite;
     animation: spin 1s linear infinite;
+}
+
+#countries::-webkit-scrollbar {
+    background: transparent;
+    height: 0;
+}
+.shield-board {
+    scrollbar-color: goldenrod wheat;
+}
+.shield-board::-webkit-scrollbar {
+    background: transparent;
+}
+.shield-board::-webkit-scrollbar-button {
+    background: goldenrod;
+}
+.shield-board::-webkit-scrollbar-thumb {
+    background: goldenrod;
+    border-left: 2px solid wheat;
+    border-right: 2px solid wheat;
+}
+.shield-board::-webkit-scrollbar-track {
+    background: wheat;
+    border: 2px solid wheat;
 }
 
 @-moz-keyframes spin {

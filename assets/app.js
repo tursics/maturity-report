@@ -151,6 +151,9 @@ function prepareButtons(id) {
     if (id === 'root') {
         button.classList.add('disabled');
     }
+
+    button = document.getElementById('buttonChangeLanguage');
+    button.style.display = 'inline-block';
 }
 
 function setShieldLevel(id) {
@@ -305,17 +308,18 @@ function toggleCountry() {
     }
 }
 
+function changeLanguage() {
+    var lang = LOAD_LANG.indexOf(_.getLanguage());
+
+    ++lang;
+    if (lang >= LOAD_LANG.length) {
+        lang = 0;
+    }
+    _.setLanguage(LOAD_LANG[lang]);
+}
+
 document.addEventListener('DOMContentLoaded', function() {
     _.setLanguage(DEFAULT_LANG);
-
-    var test = 0;
-    setInterval(function() {
-        ++test;
-        if (test >= LOAD_LANG.length) {
-            test = 0;
-        }
-        _.setLanguage(LOAD_LANG[test]);
-    }, 5000);
 
     LOAD_LANG.forEach((lang) => {
         var language = lang === 'en' ? '' : '_' + lang;

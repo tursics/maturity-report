@@ -256,12 +256,12 @@ Zur Einordnung:
 82;"Wie viele einzelne Besucher besuchen das nationale Portal durchschnittlich pro Monat?
 
 Zur Einordnung:
-* Bitte geben Sie die durchschnittliche Anzahl pro Monat im Jahr 2022 ein und wählen Sie „Antwortfeld anzeigen“.
+* Bitte geben Sie die durchschnittliche Anzahl pro Monat im Jahr 2022 ein und wählen Sie „Siehe Antwortbox“.
 * Bitte beachten Sie, dass Sie als Bundes-/Regionalstaat die Summe der Besucher aller subnationalen Portale angeben können, die im nationalen Portal erfasst werden."
 83;"Wie viel Prozent der einzelnen Besucher des nationalen Portals sind Ausländer?
 
 Zur Einordnung:
-* Bitte geben Sie den Prozentsatz ein und wählen Sie „Antwortfeld anzeigen“."
+* Bitte geben Sie den Prozentsatz ein und wählen Sie „Siehe Antwortbox“."
 84;"Überwachen Sie, mit welchen Schlüsselwörtern auf dem Portal nach Daten und Inhalten gesucht wird?
 
 Zur Einordnung:
@@ -456,199 +456,199 @@ Stärkung der demokratischen Prozesse Europas durch Vertiefung der Beziehungen z
 Zur Einordnung:
 * Falls ja, bitte spezifizieren.
 * Wenn Sie ein EFTA- oder EU-Kandidatenland sind, wählen Sie bitte „nicht zutreffend“ aus."
-122a;"What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document)
+122a;"Wie hoch ist der Prozentsatz der Metadaten in Ihrem Portal, die von DCAT-AP empfohlene Klassen verwenden? (Kategorie, Kategorienschema, Distribution, Lizenzdokument)
 
 Zur Einordnung:
-* If the use of recommended classes is not a priority for the portal, please explain why."
-122b;"What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency)
+* Wenn die Nutzung empfohlener Klassen für das Portal keine Priorität hat, erläutern Sie bitte den Grund."
+122b;"Wie hoch ist der Prozentsatz der Metadaten in Ihrem Portal, die optionale DCAT-AP-Klassen verwenden? (Katalogdatensatz, Prüfsumme, Dokument, Häufigkeit)
 
 Zur Einordnung:
-* If the use of optional classes is not a priority for the portal, please explain why."
-124a;Do you investigate the most common causes for the lack of DCAT-AP compliance?
-124b;"If yes [to Q124a], what are the main causes for the lack of DCAT-AP compliance?
+* Wenn die Nutzung optionaler Klassen für das Portal keine Priorität hat, erläutern Sie bitte den Grund."
+124a;Untersuchen Sie die häufigsten Ursachen für die mangelnde DCAT-AP-Konformität?
+124b;"Wenn ja [zu Frage 124a], was sind die Hauptursachen für die mangelnde DCAT-AP-Konformität?
 
 Zur Einordnung:
-* Please list the most common causes and select 'see answer box'."
-125a;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?
-125b;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?
-128a;What percentage of datasets is made available under a standard open licence or an explicit custom open licence, in any data format including text documents? 
-128b;Of the percentage indicated in the previous question (Q128a), what percentage of datasets is made available under a standard open licence or an explicit custom open licence, in a structured data format?
-128c;Of the percentage indicated in the previous question (Q128b), which part is also in an open and machine-readable format?
-128d;Of the percentage indicated in the previous question (Q128c), what percentage of datasets also consistely use Uniform Resource Identifiers?
-128e;Of the percentage indicated in the previous question (Q128d), what percentage of datasets also links to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?
-17a;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+* Bitte listen Sie die häufigsten Ursachen auf und wählen Sie „Siehe Antwortbox“."
+125a;Wie hoch ist der Prozentsatz der Datensätze, deren Metadaten einen Hinweis darauf bieten, wo die Daten heruntergeladen werden können oder auf deren API zugegriffen werden kann („Download-URL“ in der DCAT-AP-Spezifikation)?
+125b;Wie hoch ist der Prozentsatz der Datensätze, deren Metadaten einen Verweis auf eine Webseite bereitstellen, von der aus auf die Daten zugegriffen werden kann („Zugriffs-URL in der DCAT-AP-Spezifikation“)?
+128a;Wie viel Prozent der Datensätze werden unter einer offenen Standardlizenz oder einer expliziten benutzerdefinierten offenen Lizenz in einem beliebigen Datenformat, einschließlich Textdokumenten, verfügbar gemacht?
+128b;Wie viel Prozent der Datensätze werden von dem in der vorherigen Frage (Frage 128a) angegebenen Prozentsatz unter einer offenen Standardlizenz oder einer expliziten benutzerdefinierten offenen Lizenz in einem strukturierten Datenformat verfügbar gemacht?
+128c;Welcher Teil des in der vorherigen Frage (Frage 128b) angegebenen Prozentsatzes liegt ebenfalls in einem offenen und maschinenlesbaren Format vor?
+128d;Wie viel Prozent der Datensätze verwenden von dem in der vorherigen Frage (Frage 128c) angegebenen Prozentsatz auch durchgängig Uniform Resource Identifier?
+128e;Wie viel Prozent der Datensätze sind von dem in der vorherigen Frage (Frage 128d) angegebenen Prozentsatz auch mit anderen renommierten Quellen verknüpft, um den Benutzern zusätzlichen Kontext bereitzustellen, z. B. in einer Linked-Data-Manier?
+17a;"Ist ein Dokument, das die Verantwortlichkeiten und die Governance-Struktur des nationalen (und/oder regionalen/lokalen) Open-Data-Teams beschreibt, öffentlich verfügbar?
 
 Zur Einordnung:
-* If yes, please provide the URL where this information is published. "
-17b;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+* Wenn ja, geben Sie bitte die URL an, unter der diese Informationen veröffentlicht werden."
+17b;"Gibt es einen regelmäßigen Wissens- oder Erfahrungsaustausch zwischen dem nationalen Open-Data-Team und dem Team, das das nationale Portal betreut?
 
 Zur Einordnung:
-* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items)."
-22a;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+* Wenn ja, beschreiben Sie bitte kurz, wie dieser Austausch stattfindet, und liefern Sie Belege zur Untermauerung Ihrer Antwort (z. B. Tagesordnungen von Sitzungen, URLs zu Nachrichtenartikeln)."
+22a;"Gibt es Prozesse, die sicherstellen, dass die oben genannten Open-Data-Richtlinien/Strategien umgesetzt werden (z. B. Monitoring)?
 
 Zur Einordnung:
-* If yes, please specify the process(es)."
-22b;"If yes, would you describe the status of implementation as satisfactory/neutral/unsatisfactory? 
+* Wenn ja, geben Sie bitte den/die Prozess(e) an."
+22b;"Wenn ja, würden Sie den Stand der Umsetzung als zufriedenstellend/neutral/unbefriedigend beschreiben?
 
 Zur Einordnung:
-* Please motivate your answer."
-23a;"Are there any processes in place to asses if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the re-use of public sector information).
+* Bitte begründen Sie Ihre Antwort."
+23a;"Gibt es Verfahren zur Beurteilung, ob öffentliche Stellen für Daten Gebühren erheben, die über den Grenzkosten liegen? (siehe Richtlinie (EU) 2019/1024 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors).
 
 Zur Einordnung:
-* If yes, please specify the process(es)."
-23b;If yes [to Q23a], to what degree is data provided by public sector bodies free of charge?
-23c;How has this degree changed compared to the previous year?
-24a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+* Wenn ja, geben Sie bitte den/die Prozess(e) an."
+23b;Wenn ja [zu Frage 23a], inwieweit werden Daten von öffentlichen Stellen kostenlos zur Verfügung gestellt?
+23c;Wie hat sich dieser Abschluss gegenüber dem Vorjahr verändert?
+24a;"Was sind die drei größten Herausforderungen, mit denen Ihr Land bei der Umsetzung der genannten Richtlinien/Strategien für offene Daten konfrontiert ist?
 
 Zur Einordnung:
-* Please briefly describe."
-24b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+* Bitte kurz beschreiben."
+24b;"Gibt es in Ihrem Land Aktivitäten zur Bewältigung dieser Herausforderungen (z. B. mit spezifischen nationalen/regionalen/lokalen Plänen oder Initiativen)?
 
 Zur Einordnung:
-* If yes, please briefly describe the measures that you have adopted or plan to adopt to cope with these challenges. 
-* If no, please specifiy what is hampering finding a strategic approach to solve these challenges."
-25a;"Are there any activities in place to assist data providers with their open data publication process?
+* Wenn ja, beschreiben Sie bitte kurz die Maßnahmen, die Sie ergriffen haben oder ergreifen möchten, um diese Herausforderungen zu bewältigen.
+* Wenn nein, geben Sie bitte an, was die Suche nach einem strategischen Ansatz zur Lösung dieser Herausforderungen behindert."
+25a;"Gibt es Aktivitäten, um Datenanbieter bei ihrem Open-Data-Veröffentlichungsprozess zu unterstützen?
 
 Zur Einordnung:
-* If yes, please describe/provide examples of these activities."
-25b;"Are there activities to assist real-time and/or dynamic data holders in their publication process?
+* Wenn ja, beschreiben/geben Sie bitte Beispiele für diese Aktivitäten."
+25b;"Gibt es Aktivitäten zur Unterstützung von Echtzeit- und/oder dynamischen Dateninhabern bei ihrem Veröffentlichungsprozess?
 
 Zur Einordnung:
-* If yes, please provide some examples of such activities."
-25c;"Are there activities to assist geo-spatial data holders in their publication process?
+* Wenn ja, nennen Sie bitte einige Beispiele für solche Aktivitäten."
+25c;"Gibt es Aktivitäten zur Unterstützung von Geodateninhabern bei ihrem Veröffentlichungsprozess?
 
 Zur Einordnung:
-* If yes, please provide some examples of such activities."
-25d;"Are there activities to assist citizens or their working organisations in the publication of citizen-generated data?
+* Wenn ja, nennen Sie bitte einige Beispiele für solche Aktivitäten."
+25d;"Gibt es Aktivitäten, um Bürger oder ihre Arbeitsorganisationen bei der Veröffentlichung von bürgergenerierten Daten zu unterstützen?
 
 Zur Einordnung:
-* If yes, please provide some examples of such activities."
-26a;"Is there a professional development or training plan for civil servants working with data in your country? 
+* Wenn ja, nennen Sie bitte einige Beispiele für solche Aktivitäten."
+26a;"Gibt es in Ihrem Land einen beruflichen Entwicklungs- oder Schulungsplan für öffentlich Bedienstete, die mit Daten arbeiten?
 
 Zur Einordnung:
-* If yes, please briefly describe these training activities."
-26b;"If yes [to Q26a], do these training activities offer a certification that is formally recognised? 
+* Wenn ja, beschreiben Sie bitte kurz diese Schulungsaktivitäten."
+26b;"Wenn ja [zu Frage 26a]: Bieten diese Schulungsaktivitäten eine offiziell anerkannte Zertifizierung?
  
 Zur Einordnung:
-* If yes, please briefly describe."
-27a;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond public servants? 
+* Wenn ja, bitte kurz beschreiben."
+27a;"Gibt es in Ihrem Land jährlich stattfindende nationale, regionale oder lokale Veranstaltungen (z. B. Hackathons, Kurse, Konferenzen, Benutzertreffen, Sommer-/Winterschulen), um offene Daten und Open-Data-Kompetenz über öffentliche Bedienstete hinaus zu fördern?
  
 Zur Einordnung:
-* If yes, please provide a few examples (e.g. title, date, location of the event and URL)."
-27b;"Who organises most open data related events?
+* Wenn ja, geben Sie bitte einige Beispiele an (z. B. Titel, Datum, Ort der Veranstaltung und URL)."
+27b;"Wer organisiert die meisten Open-Data-bezogenen Veranstaltungen?
  
 Zur Einordnung:
-* Please provide a few examples of typical organisers."
-37.1;Analysis of log files
-37.2;Automated feedback mechanisms tracking users´ access to datasets
-37.3;Surveys
-37.4;Interviews/workshops with reusers
-37.5;Other
-38.1;Regular feedback sessions with portal users 
-38.2;Social media sentiment analysis 
-38.3;Other
-39a;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+* Bitte nennen Sie einige Beispiele typischer Veranstalter."
+37.1;Analyse von Logdateien
+37.2;Automatisierte Feedback-Mechanismen, die den Zugriff der Benutzer auf Datensätze verfolgen
+37.3;Umfragen
+37.4;Interviews/Workshops mit Wiederverwendern
+37.5;Sonstiges
+38.1;Regelmäßige Feedbackgespräche mit Portalnutzern
+38.2;Analyse der Stimmung in sozialen Medien
+38.3;Sonstiges
+39a;"Haben öffentliche Stellen in Ihrem Land eine systematische Methode zur Erfassung von Wiederverwendungsfällen entwickelt?
 
 Zur Einordnung:
-* If yes, please provide a brief explanation of the process: How does the gathering happen? "
-39b;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+* Wenn ja, erläutern Sie bitte kurz den Ablauf: Wie läuft die Versammlung ab?"
+39b;"Gibt es in Ihrem Land öffentliche Stellen, die eine systematische Methode zur Klassifizierung der gesammelten Wiederverwendungsfälle entwickelt haben?
 
 Zur Einordnung:
-* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?"
-62a;Does the national portal offer the possibility for users to search by file format? 
-62b;Does the national portal offer the possibility for users to search by data domain? 
-66a;"Does the national portal offer a general feedback mechanism for users (e.g. a 'Contact us' or 'Feedback' button that is placed in a visible spot on the portal and would allow users to send a general comment concerning the portal)?
+* Wenn ja, erläutern Sie bitte kurz den Ablauf: Nach welchen Kategorien werden Wiederverwendungsfälle klassifiziert (z. B. nach Politikfeld)?"
+62a;Bietet das nationale Portal Benutzern die Möglichkeit, nach Dateiformaten zu suchen?
+62b;Bietet das nationale Portal Benutzern die Möglichkeit, nach Datendomänen zu suchen?
+66a;"Bietet das nationale Portal einen allgemeinen Feedback-Mechanismus für Benutzer (z. B. eine Schaltfläche „Kontakt“ oder „Feedback“, die an einer gut sichtbaren Stelle auf dem Portal platziert ist und es Benutzern ermöglicht, einen allgemeinen Kommentar zum Portal zu senden)?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature.  "
-66b;"Does the national portal offer a feedback mechanism at dataset level? (e.g. a 'feedback button' or a comment/ discussion section under the dataset)?
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an."
+66b;"Bietet das nationale Portal einen Feedback-Mechanismus auf Datensatzebene? (z. B. ein „Feedback-Button“ oder ein Kommentar-/Diskussionsbereich unter dem Datensatz)?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature.  "
-66c;"Does the national portal provide a mechanism for users to rate datasets?
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an."
+66c;"Bietet das nationale Portal Benutzern einen Mechanismus zur Bewertung von Datensätzen?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature.  "
-69a;"Does the national portal offer the possibility for users to request datasets? 
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an."
+69a;"Bietet das nationale Portal den Nutzern die Möglichkeit, Datensätze anzufordern?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature.  "
-69b;If yes [to Q69a], what is the frequency of these requests?
-69c;"Are these requests and their progress status presented in a transparent manner on the national portal? 
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an."
+69b;Wenn ja [auf Frage 69a], wie häufig kommen diese Anfragen vor?
+69c;"Werden diese Anfragen und ihr Fortschrittsstatus auf dem nationalen Portal transparent dargestellt?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature.  "
-6a;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an."
+6a;"Beschreibt die nationale Strategie/Richtlinie Maßnahmen, um Anreize für die Veröffentlichung und den Zugriff auf Echtzeit- oder dynamische Daten zu schaffen?
 
 Zur Einordnung:
-* If yes, please briefly describe the measures."
-6b;"Does the national strategy/policy outline measures to incentivise the publication of and access to geo-spatial data (e.g. in relation to high-value datasets as specified in the implementing regulation (EU) 2023/138)?
+* Wenn ja, beschreiben Sie bitte kurz die Maßnahmen."
+6b;"Beschreibt die nationale Strategie/Richtlinie Maßnahmen, um Anreize für die Veröffentlichung und den Zugang zu Geodaten zu schaffen (z. B. in Bezug auf hochwertige Datensätze gemäß der Durchführungsverordnung (EU) 2023/138)?
 
 Zur Einordnung:
-* If yes, please briefly describe the measures."
-6c;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+* Wenn ja, beschreiben Sie bitte kurz die Maßnahmen."
+6c;"Beschreibt die nationale Strategie/Richtlinie Maßnahmen, um Anreize für die Veröffentlichung und den Zugriff auf von Bürgern generierte Daten zu schaffen?
 
 Zur Einordnung:
-* If yes, please briefly describe the measures."
-6d;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+* Wenn ja, beschreiben Sie bitte kurz die Maßnahmen."
+6d;"Fördert die nationale Strategie/Richtlinie die Auffindbarkeit der oben genannten Arten von Daten aus Ihrem Land auf data.europa.eu?
 
 Zur Einordnung:
-* If yes, please briefly describe how."
-70a;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+* Wenn ja, beschreiben Sie bitte kurz wie."
+70a;"Überwacht das Team, inwieweit Anfragen (entweder über das Portal oder auf andere Weise) zur Veröffentlichung der angeforderten Daten führen?
 
 Zur Einordnung:
-* If yes, please describe how this monitoring is conducted."
-70b;If yes [to Q70a], to what degree do these requests result in the publication of the requested data?
-80a;"Are traffic and usage statistics used to better understand users´ behaviour and needs and to update the portal accordingly?
+* Wenn ja, beschreiben Sie bitte, wie diese Überwachung durchgeführt wird."
+70b;Wenn ja [zu Frage 70a], inwieweit führen diese Anfragen zur Veröffentlichung der angeforderten Daten?
+80a;"Werden Verkehrs- und Nutzungsstatistiken verwendet, um das Verhalten und die Bedürfnisse der Nutzer besser zu verstehen und das Portal entsprechend zu aktualisieren?
 
 Zur Einordnung:
-*  If yes, what insights did you gain last year from the reviews of these analytics? "
-80b;"Do you perform further activities to better understand users´ behaviour and needs (e.g. web analytics, surveys, or analysis of social media feeds)?
+* Wenn ja, welche Erkenntnisse haben Sie letztes Jahr aus den Überprüfungen dieser Analysen gewonnen?"
+80b;"Führen Sie weitere Aktivitäten durch, um das Verhalten und die Bedürfnisse der Nutzer besser zu verstehen (z. B. Webanalysen, Umfragen oder Analyse von Social-Media-Feeds)?
 
 Zur Einordnung:
-* If yes, please specify which activities."
-81a;What is the typical profile of the portal visitor, as learned from activities such as web analytics, surveys, or social media analyses?
-81b;"Does this profile match the type of audience your national portal wants to cater to?
+* Wenn ja, geben Sie bitte an, um welche Aktivitäten es sich handelt."
+81a;Was ist das typische Profil des Portalbesuchers, das aus Aktivitäten wie Webanalysen, Umfragen oder Social-Media-Analysen gewonnen wird?
+81b;"Entspricht dieses Profil der Zielgruppe, die Ihr nationales Portal ansprechen möchte?
 
 Zur Einordnung:
-* If only partially, please specify which audience groups are missing.
-* If no, please briefly explain why."
-90a;Do you run analytics on API usage, if metadata describing the datasets is accessible via an API?
-90b;"If yes [to Q90b], what percentage of outgoing portal traffic is generated by API usage only?
+* Wenn nur teilweise, geben Sie bitte an, welche Zielgruppen fehlen.
+* Wenn nein, erläutern Sie bitte kurz den Grund."
+90a;Führen Sie Analysen zur API-Nutzung durch, wenn Metadaten, die die Datensätze beschreiben, über eine API zugänglich sind?
+90b;"Wenn ja [zu Frage 90b], wie viel Prozent des ausgehenden Portalverkehrs wird nur durch die API-Nutzung generiert?
 
 Zur Einordnung:
-*Please fill the percentage  and select 'see answer box'."
-92a;Do you identify the data providers that are not yet publishing data on the national portal?
-92b;"Were there concrete actions taken to assist these data providers with their publication process?
+* Bitte geben Sie den Prozentsatz ein und wählen Sie „siehe Antwortbox“."
+92a;Identifizieren Sie die Datenanbieter, die noch keine Daten auf dem nationalen Portal veröffentlichen?
+92b;"Wurden konkrete Maßnahmen ergriffen, um diese Datenanbieter bei ihrem Veröffentlichungsprozess zu unterstützen?
 
 Zur Einordnung:
-* If yes, could you provide some examples of the actions taken in this regard."
-93a;"Besides the national open data portal, are there other regional and local portals? 
+* Wenn ja, könnten Sie einige Beispiele für die diesbezüglich ergriffenen Maßnahmen nennen?"
+93a;"Gibt es neben dem nationalen Open-Data-Portal noch andere regionale und lokale Portale?
 
 Zur Einordnung:
-* If yes, please provide a complete list and the links to these portals."
-93b;"Are regional and local portals listed above [in Q93a] and their data sources discoverable via the national portal? 
+* Wenn ja, geben Sie bitte eine vollständige Liste und die Links zu diesen Portalen an."
+93b;"Sind die oben [in Frage 93a] aufgeführten regionalen und lokalen Portale und deren Datenquellen über das nationale Portal auffindbar?
 
 Zur Einordnung:
-* If not applicable, please briefly explain why."
-93c;"If yes [to Q93b], to what degree are existing regional and local sources harvested automatically? 
+* Falls nicht zutreffend, erläutern Sie bitte kurz den Grund."
+93c;"Wenn ja [zu Frage 93b], in welchem Umfang werden bestehende regionale und lokale Quellen automatisch genutzt?
 
 Zur Einordnung:
-* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
-* If not applicable, please briefly explain why."
-94a;"Does the national portal include datasets that are real-time or dynamic?
+* Wenn das nationale Portal weniger als die Mehrheit der vorhandenen Quellen erfasst, erläutern Sie bitte kurz den Grund dafür.
+* Falls nicht zutreffend, erläutern Sie bitte kurz den Grund."
+94a;"Enthält das nationale Portal Datensätze, die in Echtzeit oder dynamisch sind?
 
 Zur Einordnung:
-* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. "
-94b;If yes [to Q94a], what percentage of metadata links to such data?
-9a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+* Wenn ja, geben Sie bitte URLs zu Echtzeit- und/oder dynamischen Daten an, die über das nationale Portal bereitgestellt werden."
+94b;Wenn ja [zu Frage 94a], wie viel Prozent der Metadaten verweisen auf solche Daten?
+9a;"Schreibt die nationale Strategie/Richtline die Durchführung und Pflege einer Dateninventur durch öffentliche Stellen vor, sei es auf nationaler oder lokaler Ebene?
 
 Zur Einordnung:
-* If yes, please briefly specify."
-9b;"If yes [in Q9a], do these data inventories also include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+* Wenn ja, bitte kurz spezifizieren."
+9b;"Wenn ja [in Frage 9a], umfassen diese Datenbestände auch die von öffentlichen Stellen erhobenen Daten, die nicht als Open Data veröffentlicht werden können (z. B. im Zusammenhang mit dem EU Data Governance Act (EU) 2022/868)?
 
 Zur Einordnung:
-* If yes, please briefly specify."
+* Wenn ja, bitte kurz spezifizieren."
 Answer;Antwort
 D0.1;0.1 Hintergrundinformationen
 D0.2;0.2 data.europa.eu und nationale Open-Data-Portale

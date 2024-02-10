@@ -129,7 +129,7 @@ function getQuestion(id) {
 
 function prepareButtons(id) {
     var button = document.getElementById('buttonPrev');
-//    button.style.display = 'inline-block';
+    button.style.display = 'inline-block';
     button.classList.remove('disabled');
 
     if (id === 'root') {
@@ -191,6 +191,34 @@ function setShieldLevelUpwards() {
     setQuestionnaire(level);
 }
 
+function getShieldLevelPrev() {
+    var current = currentID;
+    var root = getParent(current);
+
+    if (!root) {
+        return undefined;
+    }
+
+    var index = root.children.findIndex((child) => child.id === current) - 1;
+    if (index < 0) {
+        return root.id;
+    }
+
+    var current = root.children[index];
+    if ('PreliminaryScore' === current.id) {
+        return root.id;
+    }
+
+    do {
+        var obj = getQuestion(current.id);
+        if (obj && obj.children && (obj.children.length > 0)) {
+            current = obj.children[obj.children.length - 1];
+        } else {
+            return current.id;
+        }
+    } while (true);
+}
+
 function getShieldLevelNext() {
     var current = currentID;
     var obj = getQuestion(current);
@@ -216,6 +244,20 @@ function getShieldLevelNext() {
 
         current = root.id;
     } while (true);
+}
+
+function setShieldLevelPrev() {
+    var level = getShieldLevelPrev();
+
+    if (level) {
+        if ('debug' === level) {
+            setShieldLevelDebug();
+            setQuestionnaire('root');
+        } else {
+            setShieldLevel(level);
+            setQuestionnaire(level);
+        }
+    }
 }
 
 function setShieldLevelNext() {
@@ -279,6 +321,8 @@ function onFileReport(filepath, data) {
 function goto(destination) {
     if ('upwards' === destination) {
         setShieldLevelUpwards();
+    } else if ('prev' === destination) {
+        setShieldLevelPrev();
     } else if ('next' === destination) {
         setShieldLevelNext();
     } else if ('debug' === destination) {

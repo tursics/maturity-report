@@ -224,7 +224,7 @@ Auf Bundesebene führt das Kompetenzzentrum Open Data (CCOD) sogenannte Fachfore
 
 Einige Beispiele auf regionaler Ebene:
 Berlin (Bundesland):
-Der Berlin Open Data Day ist die Netzwerkkonferenz zwischen den öffentlichen Einrichtungen und den Stakeholdern aus Wissenschaft, Bürgern und Wirtschaft, auf der wir Reden des Bürgermeisters und Best-Practice-Präsentationen für Open-Data-Projekte haben: https://projektzukunft.berlin.de/news/news-detail/rueckblick-berlin-open-data-day-2019 Außerdem gibt es bei uns den „Open Data Lunch“, bei dem wir den Stakeholdern aus Wissenschaft, Bürgern und Wirtschaft die Möglichkeit geben, sich mit den öffentlichen Stellen auszutauschen: https://www.berlin.de/moderne-verwaltung/e-gouvernement/open-data/veranstaltungeentfälltrtikel.1257989.php#berlin
+Der Berlin Open Data Day ist die Netzwerkkonferenz zwischen den öffentlichen Einrichtungen und den Stakeholdern aus Wissenschaft, Bürgern und Wirtschaft, auf der wir Reden des Bürgermeisters und Best-Practice-Präsentationen für Open-Data-Projekte haben: https://projektzukunft.berlin.de/news/news-detail/rueckblick-berlin-open-data-day-2019 Außerdem gibt es bei uns den „Open Data Lunch“, bei dem wir den Stakeholdern aus Wissenschaft, Bürgern und Wirtschaft die Möglichkeit geben, sich mit den öffentlichen Stellen auszutauschen: https://www.berlin.de/moderne-verwaltung/e-gouvernement/open-data/veranstaltungen/artikel.1257989.php#berlin
 
 Niedersachsen:
 Nur auf Projektebene: Im Rahmen unseres Projektes „Bürgerinformationsportal Umwelt / UmweltNAVI Niedersachsen“. Das Niedersächsische Umweltministerium kooperiert z.B. mit observations.org.";;;
@@ -292,7 +292,7 @@ Aus Sicht des Bundesministeriums der Justiz (BMJ):
 Das Kompetenzzentrum Open Data (CCOD) befasst sich mit dem Change Management für Open Data, z.B. in Leitlinien für Open-Data-Koordinationen und in öffentlichen Vorträgen auf Konferenzen und Bundesbehörden, z.B. https://www.zukunftskongress.info/de/node/4292
 
 Auf regionaler Ebene:
-Berlin: Die „AG Open Data“ hat 21 Mitglieder, jede Körperschaft ist verpflichtet, einen Open-Data-Koordinator zu entsenden. Unter diesem Link kann jeder den Ansprechpartner sehen, der für die Betreuung von Open Data bei der Behörde zuständig ist: https://www.berlin.de/moderne-verwaltung/e-gouvernement/open-data/ansprechpersoneentfälltrtikel.1258477.php";;;
+Berlin: Die „AG Open Data“ hat 21 Mitglieder, jede Körperschaft ist verpflichtet, einen Open-Data-Koordinator zu entsenden. Unter diesem Link kann jeder den Ansprechpartner sehen, der für die Betreuung von Open Data bei der Behörde zuständig ist: https://www.berlin.de/moderne-verwaltung/e-gouvernement/open-data/ansprechpersonen/artikel.1258477.php";;;
 25a;ja;"Diese Rolle ist gemäß § 12a Abs. 9 EGovG für die Open-Data-Koordinatoren in den einzelnen Bundesbehörden praktisch verpflichtend.
 
 Darüber hinaus verfügt beispielsweise das Bundesministerium für Ernährung und Landwirtschaft (BMEL) in seinen Forschungsinstituten über eine Datenmanagement- und Datenserviceeinheit.
@@ -364,7 +364,7 @@ Ja, es gibt Aktivitäten innerhalb unserer Forschungsinstitute, z.B. GeoNode am 
 
 5) Es gibt thematische Open-Data-Schulungen, darunter den Online-Kurs „OpenGeoEdu“, der vom mFund unterstützt wird (https://learn.opengeoedu.de/opendata) (siehe auch die darin enthaltenen Videos, um mehr über Open Data zu erfahren).
 
-6) Auf regionaler/kommunaler Ebene werden an einigen Stellen Fortbildungen für öffentlich Bedienstete angeboten, beispielsweise der Berliner „Crash-Kurs Open Data“, der Teil der Fortbildungspläne der Verwaltungsakademie Berlin ist: https://daten.berlin.de/interaktioentfälltrtikel/crashkurs-open-data
+6) Auf regionaler/kommunaler Ebene werden an einigen Stellen Fortbildungen für öffentlich Bedienstete angeboten, beispielsweise der Berliner „Crash-Kurs Open Data“, der Teil der Fortbildungspläne der Verwaltungsakademie Berlin ist: https://daten.berlin.de/interaktion/artikel/crashkurs-open-data
 Auch Schleswig-Holstein bietet einen vorgeschlagenen, aber freiwilligen Lehrplan für Landesbedienstete an.";;;
 26b;nein;;;;
 27a;ja, >9;"The CCOD ist planning specific formats for a better community engagement in late 2023. 
@@ -671,13 +671,13 @@ D3.1;;;;;
 62b;ja;Entfällt;;;
 63;ja;"https://www.govdata.de/web/guest/sparql-assistent
 https://www.govdata.de/sparql
-https://www.govdata.de/ckaentfälltpi
+https://www.govdata.de/ckan/api
 
 '-	https://www.govdata.de/web/guest/sparql-assistent is the home page for programmers. The link is working
 -	https://www.govdata.de/sparql is a technical endpoint. This leads to an error message because the appropriate parameters are missing for a correct SPARQL query.
 Therefore, an example with valid parameters: https://www.govdata.de/sparql?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0ASELECT%20*%20WHERE%20%7B%0A%20%20%3Fsub%20%3Fpred%20%3Fobj%20.%0A%7D%20LIMIT%2010
 Please note: The first link is a human-readable website
--	https://www.govdata.de/ckaentfälltpi is also a technical endpoint. The GovData API responds with a JSON. The link works properly, but you need to be able to read JSON.
+-	https://www.govdata.de/ckan/api is also a technical endpoint. The GovData API responds with a JSON. The link works properly, but you need to be able to read JSON.
 The related CKAN portal is available at https://ckan.govdata.de/ 
 The current documentation on the API is https://docs.ckan.org/en/2.10/";Last link doesn't work;;
 64;ja;"https://www.govdata.de/web/guest/sparql-assistent
@@ -765,7 +765,7 @@ https://www.govdata.de/documents/10156/18448/Verwaltungsvereinbarung_GovData_fin
 100;ja;"Ja, see
 https://twitter.com/govdata_de
 https://social.bund.de/@opendata";;;
-101;ja;GovData reports regularly on the portal and the work of the office at congresses or in workshops. For example at the Smart Country Convention 2021, 2022 and also in 2023 https://www.smartcountry.berlin/), or at the Arbeitsgemeinschaft Datendemokratie (https://initiatived21.de/arbeitsgruppeentfälltg-datendemokratie/), or at the re:publica (https://re-publica.com/en);;;
+101;ja;GovData reports regularly on the portal and the work of the office at congresses or in workshops. For example at the Smart Country Convention 2021, 2022 and also in 2023 https://www.smartcountry.berlin/), or at the Arbeitsgemeinschaft Datendemokratie (https://initiatived21.de/arbeitsgruppen/ag-datendemokratie/), or at the re:publica (https://re-publica.com/en);;;
 102;ja;We provide our source code on GitHub: https://github.com/govdataofficial and on Open CoDE (a GitLab hosted by Germany): https://gitlab.opencode.de/fitko/govdata;;;
 103;nein;;;;
 104a;ja;Annually, a first strategic workshop within the team will review and improve the development of the portal for the following year. As a second step, the team will have a planning meeting with the technical provider.;;;
@@ -824,7 +824,7 @@ CCOD Leitfaden Metadaten: https://www.bva.bund.de/SharedDocs/Downloads/DE/Behoer
 123;ja;"DCAT-AP.de is only complement to DCAT-AP, so it is completely conforming to DCAT-AP. The complement to DCAT-AP are necessary to depict German peculiarities.
 https://www.dcat-ap.de/ // R2: For an exact explanation, we would have to answer the question separately.
 
-In short, there are two legally different approaches between the CC BY 4.0 licence and the German data licence. CC BY focuses on material property law, while the German variant classifies the licensing of (official) datasets as a dedicatioentfälltdministrative act. This results in a different legal assessment. In addition, there are aspects from the regulations in Germany regarding general terms and conditions (GTC) in the context of civil law.
+In short, there are two legally different approaches between the CC BY 4.0 licence and the German data licence. CC BY focuses on material property law, while the German variant classifies the licensing of (official) datasets as a dedication/administrative act. This results in a different legal assessment. In addition, there are aspects from the regulations in Germany regarding general terms and conditions (GTC) in the context of civil law.
 
 So there is a subtle legal distinction behind the data licence - a ""German peculiarity"". :-)
 

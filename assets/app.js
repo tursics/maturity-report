@@ -35,7 +35,10 @@ function getParent(id) {
 function getHeadline(obj) {
     var str = '';
 
-    if ('dimension' === obj.type) {
+    if ('root' === obj.id) {
+        var id = 'odm_report';
+        str += '<h2 data-i18n="' + id + '">' + _.get(id) + '</h2>';
+    } else if ('dimension' === obj.type) {
         str += '<h2 data-i18n="' + obj.id + '">' + _.get(obj.id) + '</h2>';
 
         var key = 'N' + obj.id.substr(1);
@@ -283,9 +286,7 @@ function setQuestionnaire(id) {
         return;
     }
 
-    var str = id === 'root' ? '' : getHeadline(obj);
-
-    headline.innerHTML = str;
+    headline.innerHTML = getHeadline(obj);
 }
 
 function onFinishLoading() {

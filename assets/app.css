@@ -388,6 +388,29 @@ aside,
     border: 2px solid wheat;
 }
 
+.shield.blue-sky .shield-border {
+    background: steelblue;
+}
+.shield.blue-sky .shield-border::before {
+    border-top-color: steelblue;
+}
+.shield.blue-sky .shield-background {
+    background: transparent;
+}
+.shield.blue-sky .shield-background::before {
+    border-top-color: transparent;
+}
+.shield.blue-sky .shield-ribbon {
+    background: lightskyblue;
+}
+.shield.blue-sky .shield-ribbon::before, .shield.blue-sky .shield-ribbon::after {
+    border-bottom-color: lightsteelblue;
+}
+.shield.blue-sky .shield-board {
+    color: aliceblue;
+    font-size: larger;
+}
+
 @-moz-keyframes spin {
     100% {
         -moz-transform: rotate(360deg);

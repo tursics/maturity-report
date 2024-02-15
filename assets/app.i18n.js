@@ -36,8 +36,7 @@ var _ = (function () {
         elements = document.querySelectorAll('[data-i18nstart]');
         elements.forEach(elem => {
             var key = elem.dataset['i18nstart'];
-            var splitted = funcGet(key).split('<br>');
-            elem.innerHTML = splitted.shift();
+            elem.innerHTML = funcGetStart(key);
         });
 
         elements = document.querySelectorAll('[data-i18ntail]');
@@ -73,6 +72,11 @@ var _ = (function () {
         var arr = value.split(/\r?\n/);
 
         return arr.join('<br>');
+    }
+
+    function funcGetStart(key) {
+        var splitted = funcGet(key).split('<br>');
+        return splitted.shift();
     }
 
     function funcGetAnswer(country, answer) {
@@ -113,6 +117,7 @@ var _ = (function () {
         getAnswer: funcGetAnswer,
         getJustification: funcGetJustification,
         getLanguage: funcGetLanguage,
+        getStart: funcGetStart,
         setLanguage: funcSetLanguage,
     };
 }());

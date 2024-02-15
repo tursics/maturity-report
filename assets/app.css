@@ -71,7 +71,7 @@ p {
 
 h1 {
     font-size: 1.9rem;
-    line-height: 2.2em;
+    line-height: 1.2em;
 }
 
 h2 {
@@ -112,6 +112,7 @@ li {
 
 .sidebar {
     background-color: steelblue;
+    color: aliceblue;
     height: 100%;
     margin: 0;
     overflow: auto;
@@ -132,6 +133,16 @@ li {
 .sidebar .sidebar-header .shield-button {
     display: inline-block;
     font-size: 0.15rem;
+}
+.sidebar .sidebar-label {
+    color: skyblue;
+    margin: 1em 0 .25em 0;
+    text-transform: uppercase;
+}
+.sidebar h1 {
+    color: aliceblue;
+    font-size: 1.25em;
+    margin: 0;
 }
 #buttonSidebarOpen {
     font-size: 0.15rem;
@@ -281,7 +292,7 @@ li {
     bottom: 8.2em;
     color: #fff;
     left: 0;
-    line-height: 1em;
+    line-height: 1.2em;
     overflow: hidden;
     position: absolute;
     right: 0;

@@ -278,14 +278,30 @@ function setShieldLevelNext() {
 }
 
 function setQuestionnaire(id) {
-    var headline = document.getElementById('headline');
-
     var obj = getQuestion(id);
     if (undefined === obj) {
         console.error('Unknown id', id);
         return;
     }
 
+    var headlineKey = '';
+
+    if ('root' === obj.id) {
+        headlineKey = 'odm_report';
+    } else if ('dimension' === obj.type) {
+        headlineKey = obj.id;
+    } else {
+        headlineKey = obj.id;
+    }
+
+    var headline = document.getElementById('headline');
+    headline.innerHTML = getHeadline(obj);
+
+    headline = document.getElementById('sidebar-headline');
+    headline.dataset['i18nstart'] = headlineKey;
+    headline.innerHTML = _.getStart(headlineKey);
+
+    headline = document.getElementById('shield-headline');
     headline.innerHTML = getHeadline(obj);
 }
 

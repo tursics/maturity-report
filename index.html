@@ -18,37 +18,69 @@
 </head>
 
 <body>
-	<div id="countries"></div>
-    <div id="console-fileload"></div>
-	<div>
-		<figure style="display: none;" id="buttonPrev" class="shield shield-button disabled" onclick="goto('prev')">
-			<div class="shield-border"></div>
-			<div class="shield-background">
-				<div class="shield-chevron">&blacktriangleleft;</span>
-			</div>
-		</figure>
-		<figure style="display: none;" id="buttonUpwards" class="shield shield-button disabled" onclick="goto('upwards')">
-			<div class="shield-border"></div>
-			<div class="shield-background">
-				<div class="shield-chevron">&blacktriangle;</span>
-			</div>
-		</figure>
-		<figure style="display: none;" id="buttonNext" class="shield shield-button disabled" onclick="goto('next')">
-			<div class="shield-border"></div>
-			<div class="shield-background">
-				<div class="shield-chevron">&blacktriangleright;</span>
-			</div>
-		</figure>
-		<figure style="display: none;" id="buttonChangeLanguage" class="shield shield-button" onclick="changeLanguage()">
-			<div class="shield-border"></div>
-			<div class="shield-background">
-				<div class="shield-chevron">&olcir;</span>
-			</div>
-		</figure>
-	</div>
+    <div class="sidebar" id="sidebar">
+		<div class="sidebar-header">
+			<figure id="buttonSidebarClose" class="shield shield-button blue-sky" onclick="goto('close-sidebar')">
+				<div class="shield-border"></div>
+				<div class="shield-background">
+					<div class="shield-chevron">&times;</span>
+				</div>
+			</figure>
+		</div>
+		<div class="sidebar-label">Headline</div>
+		<h1 id="sidebar-headline"></h1>
+    </div>
+    <div class="content" id="content">
 
-	<div id="headline"></div>
-    <div id="shields"></div>
+		<div id="countries"></div>
+		<div id="console-fileload"></div>
+		<div>
+			<figure style="display: none;" id="buttonPrev" class="shield shield-button disabled" onclick="goto('prev')">
+				<div class="shield-border"></div>
+				<div class="shield-background">
+					<div class="shield-chevron">&blacktriangleleft;</span>
+				</div>
+			</figure>
+			<figure style="display: none;" id="buttonUpwards" class="shield shield-button disabled" onclick="goto('upwards')">
+				<div class="shield-border"></div>
+				<div class="shield-background">
+					<div class="shield-chevron">&blacktriangle;</span>
+				</div>
+			</figure>
+			<figure style="display: none;" id="buttonNext" class="shield shield-button disabled" onclick="goto('next')">
+				<div class="shield-border"></div>
+				<div class="shield-background">
+					<div class="shield-chevron">&blacktriangleright;</span>
+				</div>
+			</figure>
+			<figure style="display: none;" id="buttonChangeLanguage" class="shield shield-button" onclick="changeLanguage()">
+				<div class="shield-border"></div>
+				<div class="shield-background">
+					<div class="shield-chevron">&olcir;</span>
+				</div>
+			</figure>
+		</div>
+
+		<div id="headline"></div>
+		<div id="shields">
+			<figure class="shield blue-sky" id="sidebar-shield">
+				<div class="shield-border"></div>
+				<div class="shield-background">
+					<div class="shield-board" id="shield-headline">Is there a national open data policy in your country and does this include a national legislation for the transposition of the Open Data Directive (if your country is an EU Member State)?</div>
+					<div class="shield-score">yyy</div>
+					<figure id="buttonSidebarOpen" class="shield shield-button lightblue-sky" onclick="goto('open-sidebar')">
+						<div class="shield-border"></div>
+						<div class="shield-background">
+							<div class="shield-chevron">&times;</span>
+						</div>
+					</figure>
+				</div>
+				<figcaption class="shield-ribbon">
+					<div class="shield-caption">Question 1</div>
+				</figcaption>
+			</figure>
+		</div>
+	</div>
 
     <script src="assets/i18n-de.js"></script>
     <script src="assets/i18n-en.js"></script>

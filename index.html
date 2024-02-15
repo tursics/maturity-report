@@ -27,8 +27,14 @@
 				</div>
 			</figure>
 		</div>
+		<div class="sidebar-label">Number</div>
+		<div id="sidebar-question"></div>
 		<div class="sidebar-label">Headline</div>
 		<h1 id="sidebar-headline"></h1>
+		<div class="sidebar-label">Notes</div>
+		<div id="sidebar-notes"></div>
+		<div class="sidebar-label" data-i18n="GuideAnswering"></div>
+		<div id="sidebar-answering"></div>
     </div>
     <div class="content" id="content">
 
@@ -61,13 +67,11 @@
 			</figure>
 		</div>
 
-		<div id="headline"></div>
 		<div id="shields">
 			<figure class="shield blue-sky" id="sidebar-shield">
 				<div class="shield-border"></div>
 				<div class="shield-background">
-					<div class="shield-board" id="shield-headline">Is there a national open data policy in your country and does this include a national legislation for the transposition of the Open Data Directive (if your country is an EU Member State)?</div>
-					<div class="shield-score">yyy</div>
+					<div class="shield-board" id="shield-headline"></div>
 					<figure id="buttonSidebarOpen" class="shield shield-button lightblue-sky" onclick="goto('open-sidebar')">
 						<div class="shield-border"></div>
 						<div class="shield-background">
@@ -76,7 +80,7 @@
 					</figure>
 				</div>
 				<figcaption class="shield-ribbon">
-					<div class="shield-caption">Question 1</div>
+					<div class="shield-caption" id="shield-question"></div>
 				</figcaption>
 			</figure>
 		</div>

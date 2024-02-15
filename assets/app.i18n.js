@@ -42,15 +42,20 @@ var _ = (function () {
         elements = document.querySelectorAll('[data-i18ntail]');
         elements.forEach(elem => {
             var key = elem.dataset['i18ntail'];
-            var splitted = funcGet(key).split('<br>');
-            splitted.shift();
-            if ((splitted.length > 0) && (splitted[0] === '')) {
-                splitted.shift();
-            }
-            elem.innerHTML = splitted.join('<br>');
+            elem.innerHTML = funcGetTail(key);
         });
     }
 
+    function funcGetTail(key) {
+        var splitted = funcGet(key).split('<br>');
+        splitted.shift();
+
+        if ((splitted.length > 0) && (splitted[0] === '')) {
+            splitted.shift();
+        }
+
+        return splitted.join('<br>');
+}
     function funcGetLanguage() {
         return langId;
     }
@@ -118,6 +123,7 @@ var _ = (function () {
         getJustification: funcGetJustification,
         getLanguage: funcGetLanguage,
         getStart: funcGetStart,
+        getTail: funcGetTail,
         setLanguage: funcSetLanguage,
     };
 }());

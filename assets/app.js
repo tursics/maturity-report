@@ -32,46 +32,6 @@ function getParent(id) {
     return getParent_(questionTree);
 }
 
-function getHeadline(obj) {
-    var str = '';
-
-    if ('root' === obj.id) {
-        var id = 'odm_report';
-        str += '<h2 data-i18n="' + id + '">' + _.get(id) + '</h2>';
-    } else if ('dimension' === obj.type) {
-        str += '<h2 data-i18n="' + obj.id + '">' + _.get(obj.id) + '</h2>';
-
-        var key = 'N' + obj.id.substr(1);
-        var val = _.get(key);
-        if (val !== ('{' + key + '}')) {
-            str += '<div data-i18n="' + key + '" style="margin-bottom:1.5em">' + val + '</div>';
-        }
-    } else {
-        var splitted = _.get(obj.id).split('<br>');
-        var title = splitted.shift();
-        if ((splitted.length > 0) && (splitted[0] === '')) {
-            splitted.shift();
-        }
-
-        str += '<h2>';
-        str += '<span data-i18n="Question">' + _.get('Question') + '</span>';
-        str += ' ' + obj.id  + ': ';
-        str += '<span data-i18nstart="' + obj.id + '">' + title + '</span>';
-        str += '</h2>';
-
-        str += '<div style="margin-bottom:1.5em" data-i18ntail="' + obj.id + '">' + splitted.join('<br>') + '</div>';
-
-        var key = 'G' + obj.id;
-        var val = _.get(key);
-        if (val !== ('{' + key + '}')) {
-            str += '<div data-i18n="GuideAnswering" style="font-style:italic;font-weight:900">' + _.get('GuideAnswering') + '</div>';
-            str += '<div data-i18n="' + key + '" style="margin-bottom:1.5em">' + val + '</div>';
-        }
-    }
-
-    return str;
-}
-
 function createQuestionTree(data) {
     var tree = {type: 'root', id: 'root', children: []};
     var parent = tree.children;
@@ -283,8 +243,17 @@ function setQuestionnaire(id) {
         console.error('Unknown id', id);
         return;
     }
+    if (obj.length === 0) {
+        console.error('No data loaded');
+        return;
+    }
 
     var headlineKey = '';
+    var questionStr = '';
+    var guideKey = 'G' + obj.id;
+    var guideStr = _.get(guideKey);
+    var noteKey = 'N' + obj.id.substr(1);
+    var noteStr = _.get(noteKey);
 
     if ('root' === obj.id) {
         headlineKey = 'odm_report';
@@ -292,17 +261,43 @@ function setQuestionnaire(id) {
         headlineKey = obj.id;
     } else {
         headlineKey = obj.id;
+        questionStr = '<span data-i18n="Question">' + _.get('Question') + '</span>' + ' ' + obj.id;
+    }
+    if (guideStr === ('{' + guideKey + '}')) {
+        guideStr = '-';
+    } else {
+        guideStr = '<span data-i18n="' + guideKey + '">' + guideStr + '</span>';
+    }
+    if (('dimension' === obj.type) && (noteStr !== ('{' + noteKey + '}'))) {
+        noteStr = '<span data-i18n="' + noteKey + '">' + noteStr + '</span>';
+    } else {
+        noteStr = _.getTail(headlineKey);
+        if (noteStr === '') {
+            noteStr = '-';
+        } else {
+            noteStr = '<span data-i18ntail="' + obj.id + '">' + _.getTail(headlineKey) + '</span>';
+        }
     }
 
-    var headline = document.getElementById('headline');
-    headline.innerHTML = getHeadline(obj);
+    var elem;
 
-    headline = document.getElementById('sidebar-headline');
-    headline.dataset['i18nstart'] = headlineKey;
-    headline.innerHTML = _.getStart(headlineKey);
+    elem = document.getElementById('sidebar-headline');
+    elem.dataset['i18nstart'] = headlineKey;
+    elem.innerHTML = _.getStart(headlineKey);
+    elem = document.getElementById('shield-headline');
+    elem.dataset['i18nstart'] = headlineKey;
+    elem.innerHTML = _.getStart(headlineKey);
 
-    headline = document.getElementById('shield-headline');
-    headline.innerHTML = getHeadline(obj);
+    elem = document.getElementById('sidebar-notes');
+    elem.innerHTML = noteStr;
+
+    elem = document.getElementById('sidebar-question');
+    elem.innerHTML = questionStr === '' ? '-' : questionStr;
+    elem = document.getElementById('shield-question');
+    elem.innerHTML = questionStr;
+
+    elem = document.getElementById('sidebar-answering');
+    elem.innerHTML = guideStr;
 }
 
 function onFinishLoading() {

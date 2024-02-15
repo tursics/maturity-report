@@ -141,7 +141,7 @@ li {
 }
 .sidebar h1 {
     color: aliceblue;
-    font-size: 1.25em;
+    font-size: 1em;
     margin: 0;
 }
 #buttonSidebarOpen {
@@ -456,7 +456,10 @@ li {
 }
 .shield.blue-sky .shield-board {
     color: aliceblue;
-    font-size: larger;
+    font-size: 1.2em;
+    height: fit-content;
+    top: 4.35em;
+    transform: translate(0, -50%);
 }
 .shield.blue-sky .shield-score, .shield.blue-sky .shield-chevron {
     color: aliceblue;

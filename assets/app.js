@@ -329,6 +329,10 @@ function goto(destination) {
     } else if ('debug' === destination) {
         setShieldLevelDebug();
         setQuestionnaire('root');
+    } else if ('open-sidebar' === destination) {
+        openSidebar();
+    } else if ('close-sidebar' === destination) {
+        closeSidebar();
     } else {
         setShieldLevel(destination);
         setQuestionnaire(destination);
@@ -361,6 +365,28 @@ function changeLanguage() {
         lang = 0;
     }
     _.setLanguage(LOAD_LANG[lang]);
+}
+
+function openSidebar() {
+    var sidebar = document.getElementById('sidebar');
+    sidebar.classList.remove('hidden');
+
+    var content = document.getElementById('content');
+    content.classList.remove('maximized');
+
+    var shield = document.getElementById('sidebar-shield');
+    shield.classList.add('hidden');
+}
+
+function closeSidebar() {
+    var sidebar = document.getElementById('sidebar');
+    sidebar.classList.add('hidden');
+
+    var content = document.getElementById('content');
+    content.classList.add('maximized');
+
+    var shield = document.getElementById('sidebar-shield');
+    shield.classList.remove('hidden');
 }
 
 document.addEventListener('DOMContentLoaded', function() {

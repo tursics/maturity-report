@@ -110,13 +110,50 @@ li {
     line-height: 1.5em;
 }
 
-aside,
-[class *= "sidebar"],
-[id *= "sidebar"] {
-    border: .1rem solid lightgrey;
-    margin: 0 auto;
-    max-width: 90%;
-    padding: .3rem .95rem;
+.sidebar {
+    background-color: steelblue;
+    height: 100%;
+    margin: 0;
+    overflow: auto;
+    padding: 0;
+    position: fixed;
+    width: 13em;
+}
+.sidebar.hidden {
+    display: none;
+}
+.sidebar .sidebar-header {
+    background: lightskyblue;
+    color: #000;
+    height: 3.8rem;
+    padding: .5rem;
+    text-align: right;
+}
+.sidebar .sidebar-header .shield-button {
+    display: inline-block;
+    font-size: 0.15rem;
+}
+#buttonSidebarOpen {
+    font-size: 0.15rem;
+    position: absolute;
+    right: -9em;
+    top: -8em;
+}
+
+.content {
+    margin: 0 0 0 13em;
+    padding: 0 1em;
+    transition: margin-left 250ms;
+}
+.content.maximized {
+    margin-left: 0;
+}
+
+#sidebar-shield {
+    display: inline-block;
+}
+#sidebar-shield.hidden {
+    display: none;
 }
 
 .odm-color-policy {
@@ -409,6 +446,38 @@ aside,
 .shield.blue-sky .shield-board {
     color: aliceblue;
     font-size: larger;
+}
+.shield.blue-sky .shield-score, .shield.blue-sky .shield-chevron {
+    color: aliceblue;
+}
+.shield.blue-sky .shield-chevron {
+    color: #222;
+}
+
+.shield-button.blue-sky .shield-border {
+    background: #222;
+}
+.shield-button.blue-sky .shield-border::before {
+    border-top-color: #222;
+}
+.shield-button.blue-sky .shield-background {
+    background: steelblue;
+}
+.shield-button.blue-sky .shield-background::before {
+    border-top-color: steelblue;
+}
+
+.shield-button.lightblue-sky .shield-border {
+    background: #222;
+}
+.shield-button.lightblue-sky .shield-border::before {
+    border-top-color: #222;
+}
+.shield-button.lightblue-sky .shield-background {
+    background: lightskyblue;
+}
+.shield-button.lightblue-sky .shield-background::before {
+    border-top-color: lightskyblue;
 }
 
 @-moz-keyframes spin {

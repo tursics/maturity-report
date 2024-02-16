@@ -114,9 +114,6 @@ function prepareButtons(id) {
     if (id === 'root') {
         button.classList.add('disabled');
     }
-
-    button = document.getElementById('buttonChangeLanguage');
-    button.style.display = 'inline-block';
 }
 
 function setShieldLevel(id) {
@@ -368,14 +365,17 @@ function toggleCountry() {
     }
 }
 
-function changeLanguage() {
-    var lang = LOAD_LANG.indexOf(_.getLanguage());
+function changeLanguage(newLang) {
+    LOAD_LANG.forEach((lang) => {
+        var elem = document.getElementById('buttonSidebar' + lang.toUpperCase());
+        elem.classList.remove('selected');
 
-    ++lang;
-    if (lang >= LOAD_LANG.length) {
-        lang = 0;
-    }
-    _.setLanguage(LOAD_LANG[lang]);
+        if (lang === newLang) {
+            elem.classList.add('selected');
+        }
+    });
+
+    _.setLanguage(newLang);
 }
 
 function openSidebar() {
@@ -401,7 +401,7 @@ function closeSidebar() {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-    _.setLanguage(DEFAULT_LANG);
+    changeLanguage(DEFAULT_LANG);
 
     LOAD_LANG.forEach((lang) => {
         var language = lang === 'en' ? '' : '_' + lang;

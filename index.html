@@ -20,6 +20,23 @@
 <body>
     <div class="sidebar" id="sidebar">
 		<div class="sidebar-header">
+			<figure id="buttonSidebarEN" class="shield shield-button blue-sky" onclick="changeLanguage('en')">
+				<div class="shield-border"></div>
+				<div class="shield-background">
+					<div class="shield-chevron" style="font-size:10em;line-height:1.7em">
+						<span class="fi fi-gb fis"></span>
+					</span>
+				</div>
+			</figure>
+			<figure id="buttonSidebarDE" class="shield shield-button blue-sky" onclick="changeLanguage('de')">
+				<div class="shield-border"></div>
+				<div class="shield-background">
+					<div class="shield-chevron" style="font-size:10em;line-height:1.7em">
+						<span class="fi fi-de fis"></span>
+					</span>
+				</div>
+			</figure>
+
 			<figure id="buttonSidebarClose" class="shield shield-button blue-sky" onclick="goto('close-sidebar')">
 				<div class="shield-border"></div>
 				<div class="shield-background">
@@ -57,12 +74,6 @@
 				<div class="shield-border"></div>
 				<div class="shield-background">
 					<div class="shield-chevron">&blacktriangleright;</span>
-				</div>
-			</figure>
-			<figure style="display: none;" id="buttonChangeLanguage" class="shield shield-button" onclick="changeLanguage()">
-				<div class="shield-border"></div>
-				<div class="shield-background">
-					<div class="shield-chevron">&olcir;</span>
 				</div>
 			</figure>
 		</div>

@@ -128,11 +128,13 @@ li {
     color: #000;
     height: 3.8rem;
     padding: .5rem;
-    text-align: right;
 }
 .sidebar .sidebar-header .shield-button {
     display: inline-block;
     font-size: 0.15rem;
+}
+.sidebar .sidebar-header .shield-button:last-child {
+    float: right;
 }
 .sidebar .sidebar-label {
     color: skyblue;
@@ -456,7 +458,7 @@ li {
 }
 .shield.blue-sky .shield-board {
     color: aliceblue;
-    font-size: 1.2em;
+    font-size: 1.1em;
     height: fit-content;
     top: 4.35em;
     transform: translate(0, -50%);
@@ -466,6 +468,12 @@ li {
 }
 .shield.blue-sky .shield-chevron {
     color: #222;
+}
+.shield.blue-sky.selected .shield-background {
+    background: aliceblue;
+}
+.shield.blue-sky.selected .shield-background:before {
+    border-top-color: aliceblue;
 }
 
 .shield-button.blue-sky .shield-border {

@@ -123,19 +123,32 @@ li {
 .sidebar.hidden {
     display: none;
 }
-.sidebar .sidebar-header {
+
+.sidebar .sidebar-header, .sidebar .sidebar-nav {
     background: lightskyblue;
     color: #000;
     height: 3.8rem;
     padding: .5rem;
 }
-.sidebar .sidebar-header .shield-button {
+.sidebar .sidebar-nav {
+    border-radius: 0 0 1em 1em;
+    border-top: 0.15em dashed steelblue;
+    display: inline-block;
+}
+.sidebar .sidebar-header .shield-button, .sidebar .sidebar-nav .shield-button {
     display: inline-block;
     font-size: 0.15rem;
 }
 .sidebar .sidebar-header .shield-button:last-child {
     float: right;
 }
+.sidebar .sidebar-nav .shield-button.disabled .shield-background {
+    background: lightskyblue !important;
+}
+.sidebar .sidebar-nav .shield-button.disabled .shield-background::before {
+    border-top-color: lightskyblue !important;
+}
+
 .sidebar .sidebar-label {
     color: skyblue;
     margin: 1em 0 .25em 0;
@@ -463,7 +476,7 @@ li {
     color: aliceblue;
     font-size: 1.1em;
     height: fit-content;
-    top: 4.35em;
+    top: 4.5em;
     transform: translate(0, -50%);
 }
 .shield.blue-sky .shield-score, .shield.blue-sky .shield-chevron {

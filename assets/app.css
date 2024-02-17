@@ -118,7 +118,7 @@ li {
     overflow: auto;
     padding: 0;
     position: fixed;
-    width: 13em;
+    width: 16em;
 }
 .sidebar.hidden {
     display: none;
@@ -149,6 +149,10 @@ li {
     border-top-color: lightskyblue !important;
 }
 
+.sidebar .sidebar-content {
+    padding: 0 .5em;
+}
+
 .sidebar .sidebar-label {
     color: skyblue;
     margin: 1em 0 .25em 0;
@@ -170,7 +174,7 @@ li {
 }
 
 .content {
-    margin: 0 0 0 13em;
+    margin: 0 0 0 16em;
     padding: 0 1em;
     transition: margin-left 250ms;
 }

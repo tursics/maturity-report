@@ -146,10 +146,13 @@ li {
     font-size: 1em;
     margin: 0;
 }
-#buttonSidebarOpen {
+#buttonSidebarOpen, #buttonPrev2, #buttonUpwards2, #buttonNext2 {
     font-size: 0.15rem;
+    margin: 0 !important;
+}
+#buttonSidebarOpen {
     position: absolute;
-    right: -9em;
+    right: -7em;
     top: -8em;
 }
 
@@ -500,6 +503,12 @@ li {
 }
 .shield-button.lightblue-sky .shield-background::before {
     border-top-color: lightskyblue;
+}
+.shield-button.disabled.lightblue-sky .shield-background {
+    background: steelblue !important;
+}
+.shield-button.disabled.lightblue-sky .shield-background::before {
+    border-top-color: steelblue !important;
 }
 
 @-moz-keyframes spin {

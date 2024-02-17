@@ -58,19 +58,19 @@
 		<div id="countries"></div>
 		<div id="console-fileload"></div>
 		<div>
-			<figure style="display: none;" id="buttonPrev" class="shield shield-button disabled" onclick="goto('prev')">
+			<figure style="display: none;" id="buttonPrev1" class="shield shield-button disabled" onclick="goto('prev')">
 				<div class="shield-border"></div>
 				<div class="shield-background">
 					<div class="shield-chevron">&blacktriangleleft;</span>
 				</div>
 			</figure>
-			<figure style="display: none;" id="buttonUpwards" class="shield shield-button disabled" onclick="goto('upwards')">
+			<figure style="display: none;" id="buttonUpwards1" class="shield shield-button disabled" onclick="goto('upwards')">
 				<div class="shield-border"></div>
 				<div class="shield-background">
 					<div class="shield-chevron">&blacktriangle;</span>
 				</div>
 			</figure>
-			<figure style="display: none;" id="buttonNext" class="shield shield-button disabled" onclick="goto('next')">
+			<figure style="display: none;" id="buttonNext1" class="shield shield-button disabled" onclick="goto('next')">
 				<div class="shield-border"></div>
 				<div class="shield-background">
 					<div class="shield-chevron">&blacktriangleright;</span>
@@ -81,9 +81,28 @@
 		<div id="shields">
 			<figure class="shield blue-sky hidden" id="sidebar-shield">
 				<div class="shield-border"></div>
-				<div class="shield-score"></div>
 				<div class="shield-background">
 					<div class="shield-board" id="shield-headline"></div>
+					<div class="shield-score">
+						<figure style="display: inline-block" id="buttonPrev2" class="shield shield-button lightblue-sky disabled" onclick="goto('prev')">
+							<div class="shield-border"></div>
+							<div class="shield-background">
+								<div class="shield-chevron">&blacktriangleleft;</span>
+							</div>
+						</figure>
+						<figure style="display: inline-block" id="buttonUpwards2" class="shield shield-button lightblue-sky disabled" onclick="goto('upwards')">
+							<div class="shield-border"></div>
+							<div class="shield-background">
+								<div class="shield-chevron">&blacktriangle;</span>
+							</div>
+						</figure>
+						<figure style="display: inline-block" id="buttonNext2" class="shield shield-button lightblue-sky disabled" onclick="goto('next')">
+							<div class="shield-border"></div>
+							<div class="shield-background">
+								<div class="shield-chevron">&blacktriangleright;</span>
+							</div>
+						</figure>
+					</div>
 					<figure id="buttonSidebarOpen" class="shield shield-button lightblue-sky" onclick="goto('open-sidebar')">
 						<div class="shield-border"></div>
 						<div class="shield-background">

@@ -91,28 +91,40 @@ function getQuestion(id) {
 }
 
 function prepareButtons(id) {
-    var button = document.getElementById('buttonPrev');
-    button.style.display = 'inline-block';
-    button.classList.remove('disabled');
+    var button1 = document.getElementById('buttonPrev1');
+    var button2 = document.getElementById('buttonPrev2');
+    button1.style.display = 'inline-block';
+    button2.style.display = 'inline-block';
+    button1.classList.remove('disabled');
+    button2.classList.remove('disabled');
 
     if (id === 'root') {
-        button.classList.add('disabled');
+        button1.classList.add('disabled');
+        button2.classList.add('disabled');
     }
 
-    button = document.getElementById('buttonNext');
-    button.style.display = 'inline-block';
-    button.classList.remove('disabled');
+    button1 = document.getElementById('buttonNext1');
+    button2 = document.getElementById('buttonNext2');
+    button1.style.display = 'inline-block';
+    button2.style.display = 'inline-block';
+    button1.classList.remove('disabled');
+    button2.classList.remove('disabled');
 
     if (!getShieldLevelNext()) {
-        button.classList.add('disabled');
+        button1.classList.add('disabled');
+        button2.classList.add('disabled');
     }
 
-    button = document.getElementById('buttonUpwards');
-    button.style.display = 'inline-block';
-    button.classList.remove('disabled');
+    button1 = document.getElementById('buttonUpwards1');
+    button2 = document.getElementById('buttonUpwards2');
+    button1.style.display = 'inline-block';
+    button2.style.display = 'inline-block';
+    button1.classList.remove('disabled');
+    button2.classList.remove('disabled');
 
     if (id === 'root') {
-        button.classList.add('disabled');
+        button1.classList.add('disabled');
+        button2.classList.add('disabled');
     }
 }
 

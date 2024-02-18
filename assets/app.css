@@ -427,11 +427,32 @@ li {
     -moz-animation: spin 1s linear infinite;
     animation: spin 1s linear infinite;
 }
-
 #countries::-webkit-scrollbar {
     background: transparent;
     height: 0;
 }
+
+#page-header {
+    background: lightskyblue;
+    color: #000;
+    font-weight: 700;
+    height: 3.8em;
+    left: 0;
+    line-height: 3.8em;
+    overflow-x: auto;
+    overflow-y: hidden;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    top: 0;
+    transition: top 250ms;
+    white-space: nowrap;
+    z-index: 2;
+}
+#page-header.hidden {
+    top: -3.8em;
+}
+
 .shield-board {
     scrollbar-color: goldenrod wheat;
 }

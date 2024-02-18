@@ -399,6 +399,9 @@ function openSidebar() {
 
     var shield = document.getElementById('sidebar-shield');
     shield.classList.add('hidden');
+
+    var shield = document.getElementById('page-header');
+    shield.classList.add('hidden');
 }
 
 function closeSidebar() {
@@ -409,6 +412,9 @@ function closeSidebar() {
     content.classList.add('maximized');
 
     var shield = document.getElementById('sidebar-shield');
+    shield.classList.remove('hidden');
+
+    var shield = document.getElementById('page-header');
     shield.classList.remove('hidden');
 }
 

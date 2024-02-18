@@ -500,7 +500,13 @@ li {
 .shield.blue-sky .shield-score, .shield.blue-sky .shield-chevron {
     color: aliceblue;
 }
-.shield.blue-sky .shield-chevron {
+.shield.lightblue-sky > .shield-background > .shield-chevron {
+    color: #222;
+}
+.shield.blue-sky > .shield-background > .shield-chevron {
+    color: aliceblue;
+}
+.shield.blue-sky.disabled > .shield-background > .shield-chevron {
     color: #222;
 }
 .shield.blue-sky.selected .shield-background {

@@ -12,6 +12,7 @@ var countries = (function () {
         var node = document.createElement('figure');
         node.classList.add('shield');
         node.classList.add('shield-button');
+        node.classList.add('blue-sky');
         node.style = 'display:inline-block';
         node.dataset.country = country;
 //        node.title = data[country][_.getLanguage()]['R1'].Justification;

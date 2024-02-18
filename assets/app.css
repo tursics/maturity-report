@@ -62,7 +62,6 @@ body {
     color: #aaa;
     font-family: Lato, sans-serif;
     font-size: 1rem;
-    padding-top: 5em;
 }
 
 p {
@@ -114,10 +113,12 @@ li {
     background-color: steelblue;
     color: aliceblue;
     height: 100%;
+    left: 0;
     margin: 0;
     overflow: auto;
     padding: 0;
     position: fixed;
+    top: 0;
     width: 16em;
 }
 .sidebar.hidden {
@@ -135,7 +136,7 @@ li {
     border-top: 0.15em dashed steelblue;
     display: inline-block;
 }
-.sidebar .sidebar-header .shield-button, .sidebar .sidebar-nav .shield-button {
+.sidebar .sidebar-header .shield-button, .sidebar .sidebar-nav .shield-button, #countries .shield-button {
     display: inline-block;
     font-size: 0.15rem;
 }
@@ -174,7 +175,7 @@ li {
 }
 
 .content {
-    margin: 0 0 0 16em;
+    margin: 6em 0 0 16em;
     padding: 0 1em;
     transition: margin-left 250ms;
 }
@@ -395,11 +396,15 @@ li {
 }
 
 #countries {
-    background: #222222e0;
-    left: 0;
+    background: lightskyblue;
+    border-left: 0.15em dashed steelblue;
+    color: #000;
+    height: 3.8em;
+    left: 16em;
+    line-height: 3.8em;
     overflow-x: auto;
     overflow-y: hidden;
-    padding-bottom: 1em;
+    padding: 0 .5em;
     position: fixed;
     right: 0;
     top: 0;
@@ -408,26 +413,14 @@ li {
 }
 #countries .shield-button {
     margin-left: 0;
-    top: 0;
+    top: -4em;
     transition: top 250ms;
 }
 #countries .shield-button:hover {
-    top: 2em;
+    top: -2em !important;
 }
 #countries .shield-button.selected {
-    top: 2em;
-}
-#countries .shield-button .shield-background {
-    background: wheat;
-}
-#countries .shield-button .shield-background:before {
-    border-top-color: wheat;
-}
-#countries .shield-button.selected .shield-background {
-    background: goldenrod;
-}
-#countries .shield-button.selected .shield-background:before {
-    border-top-color: goldenrod;
+    top: 0;
 }
 #countries .shield-button.progress .shield-chevron {
     -webkit-animation: spin 1s linear infinite;

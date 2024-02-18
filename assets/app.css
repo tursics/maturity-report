@@ -413,14 +413,14 @@ li {
 }
 #countries .shield-button {
     margin-left: 0;
-    top: -4em;
+    top: -1em;
     transition: top 250ms;
 }
 #countries .shield-button:hover {
-    top: -2em !important;
+    top: 1em !important;
 }
 #countries .shield-button.selected {
-    top: 0;
+    top: 2em;
 }
 #countries .shield-button.progress .shield-chevron {
     -webkit-animation: spin 1s linear infinite;
@@ -435,10 +435,11 @@ li {
 #page-header {
     background: lightskyblue;
     color: #000;
+    font-size: 1.25em;
     font-weight: 700;
-    height: 3.8em;
+    height: 3.1em;
     left: 0;
-    line-height: 3.8em;
+    line-height: 3.1em;
     overflow-x: auto;
     overflow-y: hidden;
     position: fixed;

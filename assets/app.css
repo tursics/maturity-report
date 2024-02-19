@@ -454,6 +454,23 @@ li {
     top: -3.8em;
 }
 
+#page-footer {
+    background: #222;
+    bottom: 0;
+    color: goldenrod;
+    font-size: .75em;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: .5em;
+    position: fixed;
+    right: 0;
+    white-space: nowrap;
+    z-index: 3;
+}
+#page-footer a {
+    color: wheat;
+}
+
 .shield-board {
     scrollbar-color: goldenrod wheat;
 }

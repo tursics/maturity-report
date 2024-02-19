@@ -74,9 +74,8 @@ var _ = (function () {
 
     function funcGet(key) {
         var value = lang[key] ? lang[key] : (i18n[FALLBACK][key] ? i18n[FALLBACK][key] : '{' + key + '}');
-        var arr = value.split(/\r?\n/);
 
-        return arr.join('<br>');
+        return value.split(/\r?\n/).join('<br>');
     }
 
     function funcGetStart(key) {
@@ -89,11 +88,9 @@ var _ = (function () {
         var answersEN = answers['en'];
         var answersLang = answers[_.getLanguage()];
 
-        if (answersLang) {
-            return answersLang[answer].Answer;
-        }
+        var value = answersLang ? answersLang[answer].Answer : answersEN[answer].Answer;
 
-        return answersEN[answer].Answer;
+        return value;
     }
 
     function funcGetJustification(country, answer) {
@@ -101,11 +98,9 @@ var _ = (function () {
         var answersEN = answers['en'];
         var answersLang = answers[_.getLanguage()];
 
-        if (answersLang) {
-            return answersLang[answer].Justification;
-        }
+        var value = answersLang ? answersLang[answer].Justification : answersEN[answer].Justification;
 
-        return answersEN[answer].Justification;
+        return value.split(/\r?\n/).join('<br>');
     }
 
     function funcAppendTranslations(lang, data) {

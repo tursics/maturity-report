@@ -91,10 +91,15 @@ function getQuestion(id) {
 }
 
 function prepareButtons(id) {
+    var search = document.getElementById('sidebar-search');
+    var isNotSearch = search.classList.contains('hidden');
+
     var button1 = document.getElementById('buttonPrev1');
     var button2 = document.getElementById('buttonPrev2');
-    button1.style.display = 'inline-block';
-    button2.style.display = 'inline-block';
+    if (isNotSearch) {
+        button1.style.display = 'inline-block';
+        button2.style.display = 'inline-block';
+    }
     button1.classList.remove('disabled');
     button2.classList.remove('disabled');
 
@@ -105,8 +110,10 @@ function prepareButtons(id) {
 
     button1 = document.getElementById('buttonNext1');
     button2 = document.getElementById('buttonNext2');
-    button1.style.display = 'inline-block';
-    button2.style.display = 'inline-block';
+    if (isNotSearch) {
+        button1.style.display = 'inline-block';
+        button2.style.display = 'inline-block';
+    }
     button1.classList.remove('disabled');
     button2.classList.remove('disabled');
 
@@ -117,8 +124,10 @@ function prepareButtons(id) {
 
     button1 = document.getElementById('buttonUpwards1');
     button2 = document.getElementById('buttonUpwards2');
-    button1.style.display = 'inline-block';
-    button2.style.display = 'inline-block';
+    if (isNotSearch) {
+        button1.style.display = 'inline-block';
+        button2.style.display = 'inline-block';
+    }
     button1.classList.remove('disabled');
     button2.classList.remove('disabled');
 
@@ -490,18 +499,18 @@ function formatHit(country, text, value, pos) {
     return ret + '<br>';
 }
 
-function findInTranslations(country, questions, value) {
+function findInTranslations(flag, questions, value) {
     var ret = '';
 
     questions.forEach((question) => {
         var pos = question.Answer.toLowerCase().indexOf(value);
         if (pos !== -1) {
-            ret += formatHit(country, question.Answer, value, pos);
+            ret += formatHit(flag, question.Answer, value, pos);
         }
 
         pos = question.Justification.toLowerCase().indexOf(value);
         if (pos !== -1) {
-            ret += formatHit(country, question.Justification, value, pos);
+            ret += formatHit(flag, question.Justification, value, pos);
         }
     });
 
@@ -518,10 +527,11 @@ function onTextSearch() {
         var selectedLang = document.querySelectorAll('[data-country].selected');
         selectedLang.forEach((elem) => {
             var country = elem.dataset.country;
+            var flag = country === 'el' ? 'gr' : country;
             var translations = countries.get(country);
             if (translations) {
                 var translation = translations[_.getLanguage()] ? translations[_.getLanguage()] : translations['en']
-                str += findInTranslations(country, translation, value);
+                str += findInTranslations(flag, translation, value);
             }
         })
     }

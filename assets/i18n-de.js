@@ -16,4 +16,6 @@ i18n['de'] = {
     'notes': 'Anmerkungen',
     'odm_report': 'Bericht zum Reifegrad offener Daten',
     'question': 'Frage',
+    'result': 'Ergebnis',
+    'search': 'Suchen',
 };

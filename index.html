@@ -46,27 +46,39 @@
 		</div>
 		<div style="text-align: center;">
 			<div class="sidebar-nav">
-				<figure style="display: inline;" id="buttonPrev1" class="shield shield-button blue-sky disabled" onclick="goto('prev')">
+				<figure style="display: inline-block;" id="buttonPrev1" class="shield shield-button blue-sky disabled" onclick="goto('prev')">
 					<div class="shield-border"></div>
 					<div class="shield-background">
-						<div class="shield-chevron">&blacktriangleleft;</span>
+						<span class="shield-chevron">&blacktriangleleft;</span>
 					</div>
 				</figure>
-				<figure style="display: inline;" id="buttonUpwards1" class="shield shield-button blue-sky disabled" onclick="goto('upwards')">
+				<figure style="display: inline-block;" id="buttonUpwards1" class="shield shield-button blue-sky disabled" onclick="goto('upwards')">
 					<div class="shield-border"></div>
 					<div class="shield-background">
-						<div class="shield-chevron">&blacktriangle;</span>
+						<span class="shield-chevron">&blacktriangle;</span>
 					</div>
 				</figure>
-				<figure style="display: inline;" id="buttonNext1" class="shield shield-button blue-sky disabled" onclick="goto('next')">
+				<figure style="display: inline-block;" id="buttonNext1" class="shield shield-button blue-sky disabled" onclick="goto('next')">
 					<div class="shield-border"></div>
 					<div class="shield-background">
-						<div class="shield-chevron">&blacktriangleright;</span>
+						<span class="shield-chevron">&blacktriangleright;</span>
+					</div>
+				</figure>
+				<figure style="display: inline-block;" id="buttonSearch1" class="shield shield-button blue-sky" onclick="goto('search')">
+					<div class="shield-border"></div>
+					<div class="shield-background">
+						<span class="shield-chevron"><svg width=".6em" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><g class="search-path" fill="none" stroke="#000"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg></span>
+					</div>
+				</figure>
+				<figure style="display: none;" id="buttonClose1" class="shield shield-button blue-sky" onclick="goto('search')">
+					<div class="shield-border"></div>
+					<div class="shield-background">
+						<span class="shield-chevron">x</span>
 					</div>
 				</figure>
 			</div>
 		</div>
-		<div class="sidebar-content">
+		<div class="sidebar-content" id="sidebar-content">
 			<div class="sidebar-label" data-i18n="question"></div>
 			<div id="sidebar-question"></div>
 			<div class="sidebar-label" data-i18n="headline"></div>
@@ -76,7 +88,18 @@
 			<div class="sidebar-label" data-i18n="guide"></div>
 			<div id="sidebar-answering"></div>
 		</div>
-    </div>
+		<div class="sidebar-search hidden" id="sidebar-search">
+			<div class="sidebar-label" data-i18n="search"></div>
+			<form action="javascript:onTextSearch()">
+				<div>
+					<input type="search" id="text-search" name="q" />
+					<button id="button-search" data-i18n="search"></button>
+				</div>
+			</form>
+			<div class="sidebar-label" data-i18n="result"></div>
+			<div id="sidebar-result"></div>
+		</div>
+	</div>
     <div class="content" id="content">
 
 		<div id="countries">

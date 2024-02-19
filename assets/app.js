@@ -353,6 +353,8 @@ function goto(destination) {
         openSidebar();
     } else if ('close-sidebar' === destination) {
         closeSidebar();
+    } else if ('search' === destination) {
+        toggleSearch();
     } else {
         setShieldLevel(destination);
         setQuestionnaire(destination);
@@ -416,6 +418,115 @@ function closeSidebar() {
 
     var shield = document.getElementById('page-header');
     shield.classList.remove('hidden');
+}
+
+function toggleSearch() {
+    var search = document.getElementById('sidebar-search');
+
+    if (search.classList.contains('hidden')) {
+        showSearch();
+    } else {
+        hideSearch();
+    }
+}
+
+function showSearch() {
+    var content = document.getElementById('sidebar-content');
+    content.classList.add('hidden');
+
+    var search = document.getElementById('sidebar-search');
+    search.classList.remove('hidden');
+
+    var button1 = document.getElementById('buttonPrev1');
+    button1.style.display = 'none';
+    button1 = document.getElementById('buttonNext1');
+    button1.style.display = 'none';
+    button1 = document.getElementById('buttonUpwards1');
+    button1.style.display = 'none';
+    button1 = document.getElementById('buttonSearch1');
+    button1.classList.add('disabled');
+    button1 = document.getElementById('buttonClose1');
+    button1.style.display = 'inline-block';
+}
+
+function hideSearch() {
+    var content = document.getElementById('sidebar-content');
+    content.classList.remove('hidden');
+
+    var search = document.getElementById('sidebar-search');
+    search.classList.add('hidden');
+
+    var button1 = document.getElementById('buttonPrev1');
+    button1.style.display = 'inline-block';
+    button1 = document.getElementById('buttonNext1');
+    button1.style.display = 'inline-block';
+    button1 = document.getElementById('buttonUpwards1');
+    button1.style.display = 'inline-block';
+    button1 = document.getElementById('buttonSearch1');
+    button1.classList.remove('disabled');
+    button1 = document.getElementById('buttonClose1');
+    button1.style.display = 'none';
+}
+
+function formatHit(country, text, value, pos) {
+    var start = Math.max(0, pos - 15);
+    start = text.lastIndexOf(' ', start);
+    start = start === -1 ? 0 : start;
+
+    var end = Math.min(pos + value.length + 30, text.length);
+    end = text.indexOf(' ', end);
+    end = end === -1 ? text.length : end;
+
+    var ret = '<span class="fi fi-' + country + ' fis"></span> ';
+
+    if (start > 0) {
+        ret += '&hellip;';
+    }
+    ret += text.substring(start, end);
+    if (end < text.length) {
+        ret += '&hellip;';
+    }
+
+    return ret + '<br>';
+}
+
+function findInTranslations(country, questions, value) {
+    var ret = '';
+
+    questions.forEach((question) => {
+        var pos = question.Answer.toLowerCase().indexOf(value);
+        if (pos !== -1) {
+            ret += formatHit(country, question.Answer, value, pos);
+        }
+
+        pos = question.Justification.toLowerCase().indexOf(value);
+        if (pos !== -1) {
+            ret += formatHit(country, question.Justification, value, pos);
+        }
+    });
+
+    return ret;
+}
+
+function onTextSearch() {
+    var result = document.getElementById('sidebar-result');
+    var elem = document.getElementById('text-search');
+    var value = elem.value.toLowerCase().trim();
+    var str = '';
+
+    if (value !== '') {
+        var selectedLang = document.querySelectorAll('[data-country].selected');
+        selectedLang.forEach((elem) => {
+            var country = elem.dataset.country;
+            var translations = countries.get(country);
+            if (translations) {
+                var translation = translations[_.getLanguage()] ? translations[_.getLanguage()] : translations['en']
+                str += findInTranslations(country, translation, value);
+            }
+        })
+    }
+
+    result.innerHTML = str;
 }
 
 document.addEventListener('DOMContentLoaded', function() {

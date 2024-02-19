@@ -150,12 +150,34 @@ li {
     border-top-color: lightskyblue !important;
 }
 
-.sidebar .sidebar-content {
+.sidebar .sidebar-content, .sidebar .sidebar-search {
     padding: 0 .5em;
+}
+.sidebar .sidebar-content.hidden, .sidebar .sidebar-search.hidden {
+    display: none;
+}
+input[type="search"] {
+    background: lightskyblue;
+    border: none;
+    color: #222;
+    margin: 0 0 .5em 0;
+    padding: .4em .6em;
+    width: 100%;
+}
+input[type="search"]:focus-visible {
+    outline: .12em solid #fff;
+}
+#button-search {
+    background: lightskyblue;
+    border: .1em solid #222;
+    color: #222;
+    float: right;
+    padding: .5em .8em;
 }
 
 .sidebar .sidebar-label {
     color: skyblue;
+    clear: both;
     margin: 1em 0 .25em 0;
     text-transform: uppercase;
 }
@@ -524,8 +546,14 @@ li {
 .shield.blue-sky > .shield-background > .shield-chevron {
     color: aliceblue;
 }
+.shield.blue-sky > .shield-background > .shield-chevron svg g {
+    stroke: aliceblue;
+}
 .shield.blue-sky.disabled > .shield-background > .shield-chevron {
     color: #222;
+}
+.shield.blue-sky.disabled > .shield-background > .shield-chevron svg g {
+    stroke: #222;
 }
 .shield.blue-sky.selected .shield-background {
     background: aliceblue;

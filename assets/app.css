@@ -178,6 +178,16 @@ input[type="search"]:focus-visible {
     padding: .5em .8em;
 }
 
+#sidebar-result .fi {
+    margin-top: .5em;
+}
+#sidebar-result a {
+    color: aliceblue;
+}
+#sidebar-result a:hover {
+    color: gold;
+}
+
 .sidebar .sidebar-label {
     color: skyblue;
     clear: both;

@@ -477,7 +477,7 @@ function hideSearch() {
     button1.style.display = 'none';
 }
 
-function formatHit(country, text, value, pos) {
+function formatHit(country, id, text, value, pos) {
     var start = Math.max(0, pos - 15);
     start = text.lastIndexOf(' ', start);
     start = start === -1 ? 0 : start;
@@ -488,6 +488,7 @@ function formatHit(country, text, value, pos) {
 
     var ret = '<span class="fi fi-' + country + ' fis"></span> ';
 
+    ret += '<a href="#" data-id="' + id + '" onclick="onResult(this, event)">';
     if (start > 0) {
         ret += '&hellip;';
     }
@@ -495,6 +496,7 @@ function formatHit(country, text, value, pos) {
     if (end < text.length) {
         ret += '&hellip;';
     }
+    ret += '</a>';
 
     return ret + '<br>';
 }
@@ -505,12 +507,12 @@ function findInTranslations(flag, questions, value) {
     questions.forEach((question) => {
         var pos = question.Answer.toLowerCase().indexOf(value);
         if (pos !== -1) {
-            ret += formatHit(flag, question.Answer, value, pos);
+            ret += formatHit(flag, question.ID, question.Answer, value, pos);
         }
 
         pos = question.Justification.toLowerCase().indexOf(value);
         if (pos !== -1) {
-            ret += formatHit(flag, question.Justification, value, pos);
+            ret += formatHit(flag, question.ID, question.Justification, value, pos);
         }
     });
 
@@ -537,6 +539,13 @@ function onTextSearch() {
     }
 
     result.innerHTML = str;
+}
+
+function onResult(elem, event) {
+    event.preventDefault();
+
+    var id = elem.dataset.id;
+    goto(id);
 }
 
 document.addEventListener('DOMContentLoaded', function() {

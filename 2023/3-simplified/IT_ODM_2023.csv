@@ -1,0 +1,902 @@
+ID;Answer;Justification;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+TotalScore;;;;;Total Score:;2345
+UnsureScore;;;;;Unsure Score:;0
+PreliminaryScore;;;;;"Preliminary Score: 
+(Total - Unsure)   ";2345
+D0.1;;;;;;
+R1;N/A;Italy;;;;N/A
+R2;N/A;Agenzia per l'Italia Digitale ;;;;N/A
+R3;N/A;xxx;;;;N/A
+R4;N/A;xxx;;;;N/A
+R5;N/A;xxx;;;;N/A
+R6;N/A;3;;;;N/A
+R7;N/A;0;;;;N/A
+R8;<200.000 EUR;N/A;;;;N/A
+D0.2;;;;;;
+R9;yes;"Having a single location for all data; this fosters the data discoverability across Europe.";;;;N/A
+R10;partially;We encountered some discrepancies between the content provided in the national data portal and that one provided in the data.europa.eu and also in the measures for the metadata quality (i.e. some properties present in the metadata are non considered in the European portal and consequently the rating for the corresponding indicators is 0).;;;;N/A
+D1;;;;;;627
+D1.1;;;;;;270
+1;yes;"The transposition of the Open Data Directive was made by Legislative Decree 200/2021 [ https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021;200#:~:text=DECRETO%20LEGISLATIVO%208%20novembre%202021%2C%20n.%20200%20Attuazione,%2821G00213%29%20note%3A%20Entrata%20in%20vigore%20del%20provvedimento%3A%2015%2F12%2F2021] that has amended the Legislative Decree no. 36/2006 [ https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig= ]. 
+This Decree has introduced the Guidelines for a better implementation of the arrangements set out in the Decree and in the Directive, see https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf.
+This document, for wich the adoption procedure is now concluded only waiting the signature of the Director General and the pubblication in the Gazzetta Ufficiale della Repubblica italiana,  aims at supporting public administrations and other subjects in the process of open data and reuse of public sector information through specific requirements and recommendations. Specifically, these indications concern formats, publication, metadata profiles, licences and pricing, re-use requests and search tools, all aspects regulated by the Directive and the Decree.  The document also includes indications on organisational aspects and data quality, albeit not binding as they are not regulated by the indicated rules.";;;;30
+2;yes;"The open data strategy is defined by different legislation and documents.
+
+The Three-year Plan for Information Technology in Public Administration is the national strategic document for all Public Administrations that oversees the digital transformation of the country [ https://www.agid.gov.it/it/agenzia/piano-triennale and https://www.agid.gov.it/sites/default/files/repository_files/piano_triennale_per_linformatica_nella_pa_2022-2024.pdf]. The Plan is an important document to promote the digital transformation of the country and, in particular, that one of the Italian Public Administration, through the declination of the strategy on digitization into operational indications, such as objectives and expected results, traceable to the administrative action of PAs. Within the Three-Year Plan, a specific chapter (Chapter 2) is dedicated to Data of the public administration. In line with the principles set out and in continuity with the actions started with the previous Plans, the latest update 2022-2024 of this Three-Year Plan aims at ensuring greater effectiveness of administrative activity in all processes involving the use of data, both with reference to the sharing of data between public administrations for institutional purposes, and with reference to the re-use of data, for both commercial and non-commercial purposes, according to the open data paradigm. The chapter includes specific objectives, expected results and actions to achieve those objectives also in line with the arrangements of the Open Data Directive, the national transposition act and the Guidelines on open data introduced by the national legislation.
+The objectives and the related expected results about data and open data included in the Three-Year Plan are as follows:
+OB.2.1 - Promote data sharing among PAs and reuse by citizens and businesses
+- R.A.2.1a - Increase the number of databases of national interest available through APIs consistent with the interoperability model and national and European data model.
+- R.A.2.1b - Increasing the number of open dynamic datasets consistent with the provisions of Directive (EU) 2019/1024 with particular reference to their publication through APIs
+- R.A.2.1c - Increasing the number of spatial datasets made available through the network services under Directive 2007/2/EC (INSPIRE).
+OB.2.2 - Increase the quality of data and metadata.
+- R.A.2.2a - Increase the number of datasets with quality metadata complying with the European and national reference standards
+- R.A.2.2b - Increasing the number of open datasets made available by public administrations
+OB.2.3 - Increasing awareness of policies to enhance the value of information assets public and on a modern data economy
+- R.A.2.3b - Increase the number of open datasets available with the licenses provided for by the Open Data Guidelines (CC BY 4.0 and CC0)
+
+The article 50-ter of the Digital Administration Code (CAD) [ https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82  ], with the aim of redesigning digital governance, speeding up the digitization of public services and simplifying relations between citizens and the public administration, among other provision, foreseen the adoption of a National Data Strategy, by subsequent decree of the President of the Council of Ministers. 
+The aforementioned article of the CAD, among other things, is a strong boost to the availability and interoperability of data of public administrations and public service undertakings, as well as the consolidation of the API catalogue, within the National Digital Data Platform established by the abovementioned art. 50-ter itself.
+
+Furthermore, in line with the provisions of the action plan for EU eGovernment 2016-2020 (COM (2016) 179 final, and new European interoperability framework (COM (2017) 134 final, particular attention is given to the need for better coordination between various data policies, in particular for the implementation of the INSPIRE directive in the context of eGoverment policies. 
+On this basis, the Three Years Plan highlights that the spatial information follows the implementing rules of the INSPIRE directive with regard to data harmonization, data access services, interoperability models, etc., whereas it is necessary to follow the rules of the implementation of the Open Data directive for everything concerning the conditions for data re-use (licensing, pricing, etc.).
+
+The “Protocol for data management and Open Data” document, adopted in the “Data and Open Data Management Working Group” of the Steering Committee for the coordination of “OT11 and OT2” interventions within the framework of the Italian Partnership Agreement, includes a list of actions for the public administrations in the context of a national strategy in this area (see  https://ot11ot2.it/  and http://network.ot11ot2.it/sites/default/files/opendata1_elementi_tecnici_e_strategie_v4_0.pdf https://ot11ot2.it/linee-guida-e-protocolli/protocollo-data-e-open-data-management).
+Inter alia, the document includes a dynamic “Basket of key datasets” -” (available for the download) annually updated. This “basket” is the basis for the calculation of the indicator 2RIS ""Number of public databases available as open data (in percent) on the public databases of a selected basket"" as defined in the 2014-2020 Partnership Agreement and to be published until 2023; at the same time, it is also a qualitative indicator with reference to the implementation of open data strategy (see https://www.dati.gov.it/monitoraggio/paniere-dataset).
+The ""Basket"" is basically based on some  priority datasets, identified through the activities carried out over the years and in any case referred to: i) the government commitments (as the Italian Action Plan for G8 Open Data Charter), ii) the initiatives of the administrations, iii) the requests of the stakeholders, iv) the proposals emerged in the context of the ""Data and Open data management"" Working Area of the OT11-OT2 network, v) the commitments undertaken in the context of the Open Government Partnership (Action Plan of the OGP in the Open Data and Transparency theme), vi) the strategy of reference outlined with the Three-Year ICT Plan.
+
+Other supporting documents for the open data strategy:
+“Guidelines for data catalogs” - according to the national metadata profile DCAT-AP_IT. 
+[ https://www.dati.gov.it/content/dcat-ap-it-v10-profilo-italiano-dcat-ap-0 ]
+
+“Guidelines for the implementation of the GeoDCAT-AP specification”- to implement in Italy the specification defined under the ISA / ISA2 programme, for enabling and ensuring access to geodata, also through the national open data portal.
+[https://geodati.gov.it/geoportale/documenti/12-documenti/277-linee-guida-nazionali-geodcat-ap]
+
+“Guidelines about technical rules for the definition and updating of the content of the National Catalogue for Spatial Data”.
+[ https://agid.github.io/geodocs/rndt-lg/2.0.1/  ]";;;;30
+3;yes;"The Three-Year Plan for ICT in the PA (and consequently the section dedicated to data) has been updated on December 22, 2022 by decree of the Undersecretary of State for the Presidency of the Council with responsibility for technological innovation and digital transition [https://www.agid.gov.it/sites/default/files/repository_files/decreto_adozione_piano_triennale_2022-2024.pdf]
+
+The ""Basket of the key datasets"" defined in the “Protocol for data management and Open Data” was updated with the information and the measures related to 2022, see https://dati.gov.it/monitoraggio/paniere-dataset.
+
+Another update concern the open data policy, as the transposition of the Open Data Directive was made by Legislative Decree 200/2021 [ https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2021-11-30&atto.codiceRedazionale=21G00213&elenco30giorni=false ] that has amended the Legislative Decree no. 36/2006 [ https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig= ].  See also answer to question 1.";;;;10
+4;yes;A specific page in the national open data portal dati.gov.it includes all references to open data policy/strategy and guidelines of the Italian regions, including title and URL of the documents: [ https://www.dati.gov.it/riferimenti-normativi-linee-guida-regionali ].;;;;10
+5;yes;"As mentioned above (Q 1.3) a specific section of the Three-Year Plan for ICT in the PA 2022-2024 is dedicated to Data and open data with specific actions to be implemented [https://www.agid.gov.it/sites/default/files/repository_files/piano_triennale_per_linformatica_nella_pa_2022-2024.pdf ]
+
+The strategic objectives (OB) and expected results (RA) included in the Plan are: 
+
+OB.2.1 - Promote data sharing among PAs and reuse by citizens and businesses
+- R.A.2.1a - Increase the number of databases of national interest available through APIs consistent with the interoperability model and national and European data model.
+- R.A.2.1b - Increasing the number of open dynamic datasets consistent with the provisions of Directive (EU) 2019/1024 with particular reference to their publication through APIs
+- R.A.2.1c - Increasing the number of spatial datasets made available through the network services under Directive 2007/2/EC (INSPIRE).
+OB.2.2 - Increase the quality of data and metadata.
+- R.A.2.2a - Increase the number of datasets with quality metadata complying with the European and national reference standards
+- R.A.2.2b - Increasing the number of open datasets made available by public administrations
+OB.2.3 - Increasing awareness of policies to enhance the value of information assets public and on a modern data economy
+- R.A.2.3b - Increase the number of open datasets available with the licenses provided for by the Open Data Guidelines (CC BY 4.0 and CC0).
+
+For each objective and expetced result listed above, the Plan defines specific actions that AgID and the other public administrations have to performed.";;;;25
+6a;yes;"A specific expected result in the section dedicated to data in the Three Year Plan for ICT in the PA [https://www.agid.gov.it/sites/default/files/repository_files/piano_triennale_per_linformatica_nella_pa_2022-2024.pdf]  
+concerns the increasing of the number of dynamic open datasets consistent with the provisions of Directive (EU) 2019/1024, with particular reference to their publication in open and machine-readable format through APIs. The targets set are:
+Target 2023 - Documentation in the national open data catalog of at least 300 dynamic datasets.
+Target 2024 - Documentation in the national open data catalog of at least 400 dynamic datasets.
+To reach those targets, the PAs and the undertakings fulfilling public services are required to identify the dynamic datasets to be opened and published in accordance with Directive (EU) 2019/1024 and document them in the national data portals.
+
+Linked to that, the Legislative Decree no. 36/2006, as amended by the Legislative Decree no. 200/2021 transposing the Directive 2019/1024, includes specific provisions for dynamic data. Furthermore, the Guidelines for the implementation of that Decree define further specific arrangements, including requirements and recommendations, for the publication and the access to dynamic data (see https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf).";;;;15
+6b;yes;"In the Three-Year Plan for ICT in the PA [https://www.agid.gov.it/sites/default/files/repository_files/piano_triennale_per_linformatica_nella_pa_2022-2024.pdf]   a specific expected result concerns the increasing of the number of spatial datasets made available through network services under Directive 2007/2/EC (INSPIRE). 
+The targets set are:
+Target 2023 - Documentation in the National Catalogue for Spatial Data of at least 2500 datasets.
+Target 2024 - Documentation in the National Catalogue for Spatial Data of at least 3000 datasets. 
+
+As the National Catalogue for Spatial Data is interoperable with the National Data Portal dati.gov.it, then if geo-spatial data are also open data, then they are automatically discoverable through the National data Portal.
+
+In addition, in Italy there is a specific regulatory framework for geospatial data (integrated in the data policy and established by law) including, inter alia:
+“Guidelines for the implementation of the GeoDCAT-AP specification”- to implement in Italy the specification defined under the ISA / ISA2 programme, for enabling and ensuring access to geodata, also through the national open data portal (see https://geodati.gov.it/geoportale/documenti/12-documenti/277-linee-guida-nazionali-geodcat-ap);
+""Guidelines about technical rules for the definition and updating of the content of the National Catalogue for Spatial Data"" (see https://agid.github.io/geodocs/rndt-lg/2.0.1/ );
+Technical specifications for data models also extending the INSPIRE data specifications (see https://geodati.gov.it/geoportale/datiterritoriali/regole-tecniche).
+
+Linked to that, the Legislative Decree no. 36/2006, as amended by the Legislative Decree no. 200/2021 transposing the Directive 2019/1024, establishes that in case of spatial data, it shall follow the rules defined under the INSPIRE Directive and the provisions defined with Open Data Directive for the conditions for reuse.
+The Guidelines for the implementation of that Decree define further specific arrangements, including requirements and recommendations, for the publication and the access to geo-spatial data, also in case such geo-spatial data are High Value Datasets (see https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf). 
+For the implementation of Regulation (EU) 2023/138, a working group is being established to draft an operational guide.";;;;15
+6c;yes;"The Fifth OGP National Action Plan includes a specific action for the pubblication of open data (in open and machine-readable format) about the public tenders, where the civil society is fully engaged (see https://open.gov.it/sites/default/files/media/documents/2022-03/5nap-piano-azione-governo-aperto-italia.pdf).
+
+RESPONSE TO THE REVIEWER
+The action includes the following steps:
+- reconnaissance of currently existing data sources that can complement that of ANAC (the anti-corruption authority) on public tenders to best cover the information needs of civil society;
+- Integration of ANAC data with other data sources - e.g.: OpenCUP (that makes available data, in open format, on public investment decisions financed with national, community or regional public funds or private resources registered with the Unique Project Code), OpenCoesione (open government initiative on cohesion policies in Italy with the aim of promoting the effectiveness of interventions through the publication of data on funded projects and widespread civic participation.);  possibility of synergies with the ""participation"" action and civic debate. 
+This action will be in charge of civil society organizations and aims to make the results of empowerment concrete: ANAC will play the role of the facilitator;
+- collection of feedback, suggestions for improvement of data portals;
+- Updating or extending the semantic content published;
+- publication of APIs.
+
+The action also includes the integration of data 
+coming from civic monitoring (i.e. citizen-generated data) on projects receiving support from public resources. Civic monitoring means collecting data, evidence, information, news, interviewing actors involved in the design and implementation of interventions, visiting places and construction sites, fostering transparency and collaboration, and making proposals.";;"Please clarify how this example about public tenders refers to citizen-generated data (see ""Guide to Answering for definition)";;15
+6d;yes;"As both national catalogues (open data portal and catalogue for spatial data) are harvested by data.europa.eu, all data documented in those catalogues are also discoverable in data.europa.eu. Consequently, this affects also the aforementioned types of data, as, based on specific actions and requirements in the Three-Year Plan for ICT, PAs are required to document data in the mentioned catalogues.
+
+The Legislative Decree No. 36/2006 (amended by the Legislative Decree No. 200/2021 transposing the Directive (UE) 2019/1024) includes a specific provision for documenting data falling within the scope of the Open Data Directive and the related transposing Decree (so also dynamic data, geospatial data, etc.), through metadata, in the aforementioned catalogues. 
+Furthermore, the Guidelines for the implementation of the National Open Data Decree (transposing the Open Data Directive) explicitly mention the European portal data.europa.eu.
+
+Finally, in case of geospatial data the creation and publication of metadata are mandatory based on specific law (art. 59 of the Digital Administration Code). In case of geospatial data also available as open data, metadata documented in the catalogue for spatial data are also made available in the open data portal through GeoDCAT-AP. In order to avoid duplications in data.europa.eu portal, a filter is applied to the endpoint for excluding metadata for spatial data (already harvested from the national catalogue for spatial data).";;;;10
+7;yes;"The Article 50 of the Digital Administration Code (CAD) [ http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig= ] expressly states that the data of public administrations are formed, collected, stored, made available and accessible through the use of information and communication technologies that allow their use and re-use by other public administrations and by private (citizens, businesses …), in accordance with the conditions established by law.
+
+The subsequent article 52 also provides, with reference to reuse by the public sector, that in the definition of the specifications or the outlines of the contracts, relating to products and services that involve the production, collection and management of data, the administrations provide for suitable clauses to allow the use, in accordance with the provisions of (aforementioned) art. 50.
+Furthermore, the same article 52 provides that the activities aimed at ensuring the access and re-use of public administration data fall within the parameters for assessing managerial performance.
+The same article 52, to support the re-use of open data by the public and private sector, establishes the principle “Open data by default”.
+
+Moreover, in Italy, almost all Regions and many municipalities have their own “policy to support the reuse of open data”. [ https://www.dati.gov.it/riferimenti-normativi-linee-guida-regionali ] 
+In general, these administrations proceed with the adoption of dedicated policies and local guidelines for the effective implementation of the national strategy on the territory.
+In this regard, it should be noted that in order to harmonize the process of exploiting public data (at national, regional and local level) the strategy defined by the individual administrations has to comply with the strategy set out in the Three-Year Plan, resulting in disciplinary liability and economic damage in case of non-compliance (L. 208/2015, art.1, co 512-517).
+[ http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208!vig= ]
+The Three-Year Plan explicitly states that the enhancement of public information assets is a strategic objective for the Public Administration to effectively address the new challenges of the data economy also to provide policy makers with data-driven tools to be used in decision-making processes.
+In this context, a National Digital Data Platform (PDND - Piattaforma Digitale Nazionale Dati) is established by the art. 50-ter of the mentioned Digital Administration Code that will enable public administrations to share its own data through APIs also with the aim to develop data-driven policies. The Plan includes specific actions for public administrations for the implementation of PDND.";;;;15
+8;yes;"The Article 50 of the Digital Administration Code (CAD) [ http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig= ] expressly states that the data of public administrations are formed, collected, stored, made available and accessible through the use of information and communication technologies that allow their use and re-use by other public administrations and by private sector (citizens, businesses, ...) in accordance with the conditions established by law.
+Furthermore, the Legislative Decree No. 36/2006 (amended by the Legislative Decree No. 200/2021 transposing the Directive (UE) 2019/1024) ensures the application of the principle that documents and data shall be re-usable for commercial or non-commercial purposes.
+The Three-Year Plan for ICT in the PA 2022-2024 includes specific actions for smart communities related to specific project, such as the Smarter Italy project which intends to experiment with new technological solutions, alongside mechanisms of open innovation and smart procurement for the territories. Smarter Italy will initially operate on three lines: Smart mobility, Cultural heritage and Wellbeing, to gradually extend the digitization processes to the environment, infrastructures and training. The reuse of open data in this context is crucial.
+
+Finally, the 2025 Strategy for Technological Innovation and digitisation of the Country includes 20 objectives among which ""Data for the Cities of the Future"" aimed at reusing data created by the operators fullfilling public services also by private sector to develop new services, new entrepreneurial activities, new innovative solutions (see https://assets.innovazione.gov.it/1610546390-midbook2025.pdf).";;;;15
+9a;yes;"The Legislative Decree No. 36/2006 (amended by the Legislative Decree No. 200/2021 transposing the Directive (UE) 2019/1024) includes a specific provision for documenting data falling within the scope of the Decree and Directive, through metadata, in the national catalogues, the open data portal https://dati.gov.it and the catalogue for spatial data https://geodati.gov.it .
+
+Article 24-quater, par.  2, D.L. n. 90/2014, converted into Law no. 114/2014, obliges all Public Administrations and public undertakings to notify the Agency for Digital Italy of the databases they own. 
+[ http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-06-24;90!vig= ]
+As a result of the implementation of this rule, those databases are now documented in a special repository into the national portal dati.gov.it [ https://www.dati.gov.it/base-dati-informazioni ].
+
+In addition, Article 50 of the Digital Administration Code [ http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig= ] requires administrations to proceed with the analysis of their own data, within the scope of their institutional tasks, also in combination with data held by other subjects, whereas “Legislative Decree no. 33/2013, Articles. 3 to 9-bis”  [ https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=2019-06-05 ] provides for explicit actions for administrations aimed at the inventory, publication, access and re-use of data by administrations.
+
+Finally, article 53 of the Digital Administration Code  states that the public administrations shall publish the inventory of data and metadata, as well as the related databases owned and the rules governing the access and the reuse of such data and metadata.";;;;15
+9b;yes;"The aforementioned legislation affects both open and not open data. 
+As indicated in the answer to the previous question, the database catalogue https://www.dati.gov.it/base-dati-informazioni collects information about the databases of the Public Administrations on the basis of the aforementioned D. L. 90/2014. This catalogue, integrated into the dati.gov.it national portal, has been made available for query functions and is particularly relevant with a view to fostering the sharing of data between public administrations, for institutional purposes which, together with the re-use of open data, represents one of the policies for enhancing the value of public information assets. These resources cannot be published as open data.
+In addition, the national catalogue for spatial data https://geodati.gov.it (linked to the open data portal) includes the metadata for both open and not open spatial data. In case of open spatial data, metadata are also made available in the open data portal through the GeoDCAT-AP.";;;;10
+10a;yes;N/A;"Kindy fill in the column ""Publications of HCD in machine-readable formats via APIs"" in the table below. This column was hidden in the original questionnaire. Sorry.";;;20
+10b;yes, other measures;"The Agency for Digital Italy has organized a series of 5 webinars with an operational focus, and specific insights and on the relevant practical aspects to support Administrations and other stakeholders in the process of implementing the European regulatory provisions, transposed by the Italian system, on open data with specific regard to high-value dataset.
+The target audience for the cycle consists of the Digital Transformation Managers (RTDs) of Public Administrations, open data contact persons of PAs and public and private companies that provide public services under concession as well as all those interested in or concerned with open data.
+http://eventipa.formez.it/node/392675";;;;5
+10c;yes;"The Guidelines for the Implementation of Legislative Decree No. 36/2006 (as amended by Legislative Decree No. 200/2021 implementing Directive (EU) 2019/1024), (see https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf) state that national metadata profiles (for both spatial data and open data) will be updated to provide specific requirements and recommendations for denoting HVDs as such in their metadata, also following common guidance provided at the European level (such as in the geospatial themes of the INSPIRE context), if any.
+In addition, a specific action in the Three-Year Plan for ICT in the PA includes the draft of a guidance for the implementation of the implementing regulation (EU) 2023/138.
+Data providers will have to align their HVD metadata with the above requirements and recommendations once the implementing regulation on HVDs will be applicable.";;;;15
+11a;yes;N/A;;;;15
+11a.1;Yes;As datasets made available under INSPIRE initiative will be contribute in the Green Deal data space, the open spatial data falling under the implementing HVD Regulation has been prioritised as HVD.;;;0;
+11a.2;Yes;"A Syllabus ""Digital skills for the PA"" has been produced; it describes the minimum set of basic skills that allow the public employee to actively participate in the digital transformation of the public administration. The document includes a specific section dedicated to the skills related to data, information and documents and specifically to open data (see https://www.competenzedigitali.gov.it/fileadmin//user_upload/documenti/28feb22_Syllabus-competenze-digitali-pa_v2.pdf)
+
+Italy has adopted a Global e-skills Strategy that foresees 4 areas of intervention: Higher Education and Training, Active workforce, ICT specialised skills and Citizens. Open data and open government are one of the common axes (see https://innovazione.gov.it/notizie/articoli/l-italia-ha-la-sua-strategia-nazionale-per-le-competenze-digitali/).
+
+In addition, four  MOOCs (Massive Open Online Courses) have been organized on these topics:  Digital Practices for participation, Open data, Accountability, Quality of Digital Services (https://www.formez.it/notizie/quattro-corsi-online-sul-governo-aperto-prossima-scadenza-4-aprile-iscrizioni-al-mooc-open).THe Open Data MOOC  has been held with 4 editions with about 1000 participants for each edition (http://eventipa.formez.it/node/405929)";;;0;
+11a.3;Yes;The Three-Year Plan states that the enhancement of the public sector information assets and open data are a strategic objective for PA in order to foster the creation of digital services with added value for citizens, businesses and, in general, all stakeholders.;;;0;
+11a.4;No;;;;0;
+11a.5;No;;;;0;
+11a.6;Yes;"The Legislative Decree no. 33/2013, so-called Transparency Decree, states that the documents, information and data whose publication is
+mandatory under current legislation, including those ones published after civic access, shall be made available as open data (so in open and machine-readable format).";;;0;
+11b;yes;"In order to fight corruption and to increase transparency, data on public contracts in Italy are published as open data on the portal dati.anticorruzione.it (https://dati.anticorruzione.it/opendata).
+
+The policy/strategy includes the implementation of an APIs catalogue https://developers.italia.it/it/api.html. Specific arrangements on that are provided in the Guideline for the implementation of the Legislative Decree 36/2006, as amended by Legislative Decree 200/2021 transposing Open Data Directive (see https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf), also linked to the other Guidelines for the implementation of API. APIs are required for the publication of real-time, dynamic and high value datasets, but recommended also for all other data types, based on the Guidelines.
+
+Furthermore, the Three Year Plan for ICT in the PA includes a specific action for the implementation of a repository of ontologies, schemas and controlled vocabularies, also linkek to a PNRR (National Recovery and Resilience Plan) project (https://www.schema.gov.it/). About controlled vocabularies, in case of spatial data, a Registry is already available (see https://registry.geodati.gov.it/registry).";;;;N/A
+D1.2;;;;;;185
+12;yes;"The responsabilities are distributed among several public administrations.
+The Agency for Digital Italy (AgID) is in charge of the execution of legislation provisions for open data, the implementation of the Open Data Directive according to the national open government policies. The Agency manages the national open data portal and the national catalogue for spatial data, defines national guidelines about the information of the public sector, defines the national metadata profiles. 
+
+The Department for Digital Transformation is the support structure for the Minister for Technological Innovation and Digital Transition for the promotion and coordination of the Government's actions aimed at defining a unitary strategy in the field of digital transformation and modernization of the country through digital technologies.
+The Department is in charge, inter alia, of the implementation of the APIs catalogue (and the linked National Digital Data Platform) and the repository of ontologies, schemas and controlled vocabularies for the semantic interoperability.
+
+AgID and the Department for Digital Transformation jointly pursue the strategic objectives relating to the enhancement of the open data provided for in the Three-Year plan for ICT in the Public Administration.
+
+The Open Government Partnership (OGP) is an international initiative that aims to obtain concrete commitments from governments in terms of promoting transparency, supporting civic participation, fighting corruption and spreading, within and outside the Public Administration, new technologies to support innovation.
+The member countries, including Italy, have approved the Open Government Declaration, which commits them to undertake new initiatives in the field of open government. The OGP community is based on the inclusion and partecipation of various stakeholders; in Italy the OGP community includes 57 public administrations and 53 representatives from civil society.
+One of the main themes that has always been the subject of attention is represented by the Open Data.
+
+Other responsabilities lie with other public administrations, also at regional and local level.
+
+At level of individual public administration, a relevant role in the organisation of offices and resources for the process of opening and reuse of data is played by the Office of the Digital Transition Manager (RTD) established by Article 17 of the CAD - Digital Administration Code, who is responsible for the transition to the digital operating mode and who reports directly to the political top management or, in its absence, to the administrative management of the administration. The digital transition manager (RTD) plays a role of reference of the political and/or administrative top management and is a transversal figure across the entire organisation in power to act on all the offices and areas of the administration, on the one hand, and as a point of contact with the Agency for Digital Italy and the Presidency of the Council of Ministers, on the other, for issues related to the digital transformation of public administrations";;;;30
+13;hybrid;As the responsabilities are distributed among several public administrations (see answer to the previous question) and data providers are both national and regional/local public administrations due to specific competencies assigned by law, the hybrid model is the most appropriate for governing open data in Italy.;;;;N/A
+14;yes, most initiatives;"AgID promotes a process for supporting the Italian Regions for the implementation of Regional Digital Agendas according to the lines of action of the Three-Year Plan for ICT in the Public Administration. Through the ""Agreements"", AgID provides the Regions with technical and operational support to facilitate the achievement of the objectives of the national and regional strategy. Those Agreements also include specific action for open data. From the date of stipulation of the Framework Agreement for Digital Growth and Citizenship Towards the Europe 2020 Objectives to date, AgID has signed 12 territorial agreements with the Regions of Abruzzo, Emilia-Romagna, Friuli-Venezia Giulia, Lazio, Marche, Piemonte, Puglia, Sardegna, Toscana, Veneto, Valle d'Aosta Region, Trento Autonomous Province.
+ [ https://www.agid.gov.it/it/accordi-territoriali ]
+
+Support is anyway ensured to all local and regional bodies, although no formal agreement was signed.
+
+Furthermore, in the context of the National Recovery and Resilience Plan, a special contingent of  maximum 338 experts has been organized also to support regional and local bodies in activities also concerning data with reference to the National Digital Data Platform (https://www.italiadomani.gov.it/content/sogei-ng/it/it/strumenti/andamento-sull-attuazione-del-piano/m1c1-10--milestone-.html)";;;;15
+15;all public bodies;;;;;20
+16;yes;"As the responsabilities are distributed among several public administrations (see answer to the question 12), in most cases each subject involved publish its own organization, eventually including people and team, in a specific section of its institutional website.
+
+AgID and the Department for Digital Transformation of the Presidency of the Ministers Council publish the overall governance structure in the institutional websites: https://trasparenza.agid.gov.it/archiviofile/agid/Organizzazione_31_03_2023%20con%20nomi.pdf  and https://innovazione.gov.it/dipartimento/la-struttura/
+
+Some examples of Regions:
+Lombardia Region - https://hub.dati.lombardia.it/stories/s/kwvm-qzkb
+Piemonte Region - https://www.dati.piemonte.it/#/contatti";;;;20
+17a;yes;"The responsabilities are assigned by law in most cases and consequently they are described in the legislation. 
+For instance, the AgID responsability to adopt the Guideline for the implementation of the Legislative Decree no. 36/2006 (as amended by the Legislative Decree no. 200/2021 transposing Open Data Directive) is established with the art. 12 of the mentioned Decree.
+Below some URLs of documents about responsabilities of some administrations involved (in some case general responsabilities also including open data):
+AgID - https://www.agid.gov.it/it/dati/open-data 
+Government Department for Digital Transformation - https://innovazione.gov.it/dipartimento/la-struttura/
+At regional level, in most cases the working approach is described in the regional guidelines. The link to those documents is available here: https://dati.gov.it/riferimenti-normativi-linee-guida-regionali";;;;20
+17b;yes;"The national portal is managed by the Agency for Digital Italy, that is also part of the national open data team and is also in charge of specific responsabilities in the field of open data, as highlighted in the answer to question 12.
+Consequently, the regular exchange is ensured.";;;;20
+18;yes;"The Guidelines for the Implementation of Legislative Decree No. 36/2006 (as amended by Legislative Decree No. 200/2021 implementing Directive (EU) 2019/1024), (see https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf)provides, inter alia, recommendations on roles and responsibilities for the open data process.  In paragraph 5.1.1. - Roles and responsibilities -  state that to implement the process, it is first necessary to define clear internal data governance with the identification of roles and related responsibilities, and to integrate its steps both vertically, with respect to already established internal processes, and horizontally with respect to the needs of different administrations.
+An essential role in the organization of offices and resources for the process of opening and reuse of data is played by the Office of the Digital Transition Manager (RTD) established by Article 17 of the CAD, who is responsible for the transition to the digital mode of operation and who reports directly to the political leadership body or, in its absence, to the administrative body of the public administration. Circular No. 3 of October 1, 2018, of the Minister of Public Administration, in order to ensure the full operability of the Office of the RTD, recommends that in addition to the tasks expressly provided for, the act of assignment or appointment should also provide the power, among other things, to establish thematic groups for individual activities and/or fulfillments such as the process of opening and publishing data. In case this power is not assigned to the RTD, the establishment of the ""thematic"" group may be directly decided by the political or administrative top management. In any case, the RTD must still be involved given its role as a reference of the political and/or administrative top management and a transversal figure across the entire organization in power to act on all offices and areas of the entity, on the one hand, and as a point of contact with the Digital Italy Agency and the Presidency of the Council of Ministers, on the other, for issues related to the digital transformation of public administrations, as also reiterated in the aforementioned Circular No. 3/2018. In the Guidelines, the Recommendation 4 states: it is recommended that the Digital Transition Manager (RTD) be tasked with setting up a working group (led by a manager and involving thematic managers from all offices in the administration that produce data), dedicated to the open data process and the implementation of these Guidelines within the institutional organization. However, the RTD must be involved throughout the aforementioned process.The open data working group is considered in the Guidelines as a structure for governing the open data process, deferring to the organizational autonomy of each entity the provision of any other structures and figures, as well as the identification of the tasks to be assigned to them.
+https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf
+ 
+https://www.funzionepubblica.gov.it/articolo/dipartimento/01-10-2018/circolare-n3-del-2018";;;;20
+19;yes;"There are several occasions (meetings, conferences, web calls, etc.) that allow a regular comparison with public bodies on the many topics of interest, even with open data, covered by the Three-Year ICT Plan. 
+AGID promotes the dissemination of the culture of open data and actions with training sessions aimed at PA officers in collaboration with some organizations and several webinars to improve the regular exchange between the various active public bodies, sharing knowledge and experiences.
+The wider network of open data officers is also involved in the definition of national common documents, such as Open Data Guideline.
+Examples: 
+https://dati.gov.it/formazione-su-opendata
+https://dati.gov.it/notizie/direttiva-open-data-corso-le-attivita-del-gruppo-di-lavoro-sulle-linee-guida
+
+In addition, on the ""Rete Digitale"" platform (reserved to the Digital Transition Manager (RTD) appointed in each Public Administration) a specific Open Data community has been created in order to foster regular discussions and exchange. https://www.retedigitale.gov.it/ (credentials are required for access).
+
+Finally, in the framework of the information and training activities for the digital transition of the PA of the project ""Italia Login - La casa del cittadino"" - the ""Line 3 Data and documents of the PA"", through the implementation of information activities, dissemination of models and networking among the public administrations involved in the open data publication processes, aims at contributing to the improvement of the quality of data made available in open format by the Italian public administrations and of their metadata and documentation on the national portal dati.gov.it. In the context of the project, AgID organized several webinar series including the exchange of experiences and knowledge. 
+All webinar series organized are listed in this page: https://www.agid.gov.it/index.php/it/agenzia/progetti-pon-governance/italia-login-casa-del-cittadino/informazione-formazione-transizione-digitale";;;;20
+20;yes;"RESPONSE TO THE REVIEWER
+There are several occasions (meetings, conferences, web calls, etc.) that allow a regular comparison between public bodies and stakeholders. 
+AGID promotes the dissemination of the culture of open data and actions with training sessions aimed at both PAs and re-users (private sectors, academia, citizens).
+The re-users are involved to share their experiences and best practices in reuse in the webinars organized.
+Some examples of webinars where academia, private sector and civil society are involved are available at the following links:
+
+http://eventipa.formez.it/node/392675
+http://eventipa.formez.it/node/397116
+https://dati.gov.it/notizie/webinar-agidformez-su-open-data-dinamici-da-sensori-e-iot
+
+In addition, a regular exchange between PAs and communities and civil society is also performed under the Fifth OGP National Action Plan (see https://open.gov.it/sites/default/files/media/documents/2022-03/5nap-piano-azione-governo-aperto-italia.pdf) where some actions also concerns the reuse and monitoring of open data.
+
+Finally, the regular exchange is also allowed through the Forum Italia platform, a space for discussions, where a specific section is dedicated to data and open data in order to let to meet public sector bodies and open data reusers.
+https://forum.italia.it/c/dati/33";;"This answer is very similar to  Q19 (but with different link). Please differentiate Q19 and Q20. Q20 is about the exchange between public sector bodies and  reusers whereas Q19 is about the exchange between public sector bodies themselves.
+
+For reference, the answer from 2022 was:
+""There are several occasions (meetings, conferences, online calls, etc.) that allow a regular comparison between public bodies and stakeholders. 
+AGID promotes the dissemination of the culture of open data and actions with training sessions aimed at both PA and re-user (private sector, accademia, citizens) to improve the regular exchange of experiences and knowledge between the several actors involved.
+Examples:
+http://eventipa.formez.it/node/371150 (webinar with exchange of experiences of academia, public sector bodies and private sector)
+
+The regular exchange is also allowed through the Forum Italia platform, a space for discussions, where a specific section is dedicated to data and open data in order to let to meet public sector bodies and open data reusers.
+https://forum.italia.it/ """;;20
+D1.3;;;;;;172
+21;yes;"The “Protocol for data management and Open Data” https://ot11ot2.it/linee-guida-e-protocolli/protocollo-data-e-open-data-management; “Three Years Plan 2022-2024”   [https://www.agid.gov.it/sites/default/files/repository_files/piano_triennale_per_linformatica_nella_pa_2022-2024.pdf]
+
+Dynamic “Basket of key datasets”, which more appropriately is a data publication plan for individual public body at both national and regional level 
+[ https://www.dati.gov.it/monitoraggio/paniere-dataset ]
+
+The “5th National Action Plan 2022-2023”, where, in particular, the National Anticorruption Authority is committed to improving the usability by society and stakeholders of the data collected in the National Data Bank of Public Contracts Public Contracts, recognised by the CAD as a database of national interest. This is achieved by making available, through an open-access portal, dashboards for browsing and self-service analysis of published data, of datasets in open RDF format and in the adoption of the OCDS (Open Contracting Data Standard) for their representation. The data present in the database are communicated to the Authority by the Single Procedure Managers (RUP) of the Contracting Stations and are published in their original form.
+[ https://open.gov.it/sites/default/files/media/documents/2022-03/5nap-piano-azione-governo-aperto-italia.pdf ]
+
+The Guidelines for the implementation of the Legislative Decree no. 36/2006 (as amended by the Legislative Decree no. 200/2021 transposing Open Data Directive) recommend PAs to define an own data publication plan, taking into account  some priorities on what data is to be open, i.e. HVD, dynamic data, data requested by users, data whose publication is mandatory by law (see https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf).";;;;20
+22a;yes;"
+The Agency for Digital Italy monitors, on a monthly basis, the increasing of open datasets on the national portal dati.gov.it. 
+The monitoring takes place through the “Digital Transformation Enhancement”, a public dashboard that shows the state of the art of some projects of the Digital Growth Plan coordinated by the Agency. The dashboard publishes also the increase of number of administrations that publish open data (https://avanzamentodigitale.italia.it/it/progetto/open-data).
+It is also possible to see the distribution of the published datasets throughout the DCAT-AP themes and the type of administration (national, regional, local ...). The data collected are public and available in open format in CSV and JSON format.
+
+The Digital Administration Code assigns AGID the task of monitoring the implementation of the activities carried out by the administrations and assessing the results achieved with respect to the objectives of the Three-Year Plan for ICT in the PA. That monitoring, including the results for open data, is available here: https://monitoraggiopianotriennale.italia.it/ .
+
+Furthermore, the Basket of key dataset is a tool used for monitoring the progress of data publication. Starting from the list defined as a plan, the data made available in open data are highlighted annually, and it is therefore possible to follow developments year by year, both for the national and the regional component (https://www.dati.gov.it/monitoraggio/paniere-dataset ).
+
+Finally, the monitoring on metadata quality of data published in the national portal (also with reference to the expected results defined in the Three-Year Plan for ICT in the PA): https://dati.gov.it/Monitoraggio/MonitoraggioDinamico";;;;15
+22b;satisfactory;This is motivated on the basis on the monitoring results, that show that the annual expected results defined in the Three-Year Plan for ICT are achieved  [ https://monitoraggiopianotriennale.italia.it/ and https://dati.gov.it/Monitoraggio/MonitoraggioDinamico];;;;N/A
+23a;Yes;The process is defined in the Guidelines for the implementation of the Legislative Decree no. 36/2006 (amended by the Legislative Decree no. 200/2021 transposing Directive 2019/1024) in line with the arrangements of the Decree. It foresees that a Decree of the Minister for the Economy and Finance shall define and periodically update the list of the public administrations and public-law bodies authorised to charge for data above marginal costs.;;;;15
+23b;The majority of datasets;N/A;;;;12
+23c;Increased, or already all datasets;N/A;;;;10
+24a;N/A;"Improving metadata and data quality;
+Implementing the arrangements set out in the Open Data Directive and in the HVD Regulation
+Using a common licensing framework;";;;;N/A
+24b;yes;"Improving metadata and data quality is one of the objective of the Three-Year Plan for ICT in the PA, that has defined some specific actions for achieving the expected results.
+AGID promotes the implementation and the use of the standard ISO 25012 on data quality, ISO 25024 on data quality measurement, and UNI-TS 11725 ""Guidelines for measuring data quality”. Increasing the quality of data is a specific goal of the ICT  Three Year Plan (2022-2024: https://www.agid.gov.it/sites/default/files/repository_files/piano_triennale_per_linformatica_nella_pa_2022-2024.pdf) and a specific section is dedicated in the national Guidelines (https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf).
+In addition, AGID has adopted a specific act aimed at improving data quality, see https://www.agid.gov.it/sites/default/files/repository_files/circolari/dt_cs_n.68_-_2013dig_-regole_tecniche_basi_dati_critiche_art_2bis_dl_179-2012_sito.pdf 
+and the measurement of the data quality, see https://www.agid.gov.it/sites/default/files/repository_files/documenti_indirizzo/iso_25024_agid_misurazione_della_qualita_dei_dati.pdf.
+
+The Guidelines for the implementation of the Legislative Decree no. 36/2006 (as amended by the Legislative Decree no. 200/2021, transposing the Open Data Directive) has been introduced by the mentioned Decree in order to support public administrations and other subjects in the process of open data and reuse of public sector information through specific requirements and recommendations. Specifically, these indications concern formats, publication, metadata profiles, licences and pricing, re-use requests and search tools, all aspects regulated by the Directive and the Decree.  The document also includes indications on organisational aspects and data quality, albeit not binding as they are not regulated by the indicated rules. See https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf
+
+The aforementioned Guidelines includes a specific requirement that states that open data shall be made available for reuse under the conditions of the Creative Commons BY 4.0 licence, the Creative Commons Public Domain Dedication (CC0) licence or any equivalent or less restrictive open licence. This is also aligned to the arrangements on licenses set out in the implementing HVD Regulation, although only affecting HVD.";;;;10
+25a;yes;"Guidelines for the implementation of the Legislative Decree no. 36/2006 (amended by the Legislative Decree no. 200/2021 transposing the Directive 2019/1024), see https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf;
+Regular contacts and support by AgID;
+Webinar series (https://dati.gov.it/formazione-su-opendata);
+National Digital Data Platform and APIs Catalogue and related support by the Government Department for Digital Transformation  (https://www.interop.pagopa.it/)
+Repository of ontologies, schemas and controlled vocabularies (https://www.schema.gov.it/)";;;;15
+25b;yes;"The new release of the dati.gov.it portal allows dynamic data to be denoted as such through keywords that are monitored in relation to the provisions of the 2022-2024 Three-Year Plan where there is a specific action.
+Below the activities to support dynamic and real-time data data holders:
+Regular contacts and support by AgID;
+Webinar series;
+FAQ page with issues on dynamic data addressed (https://dati.gov.it/faq);
+A set of documentation with specific arrangements (requirements and recommendations) on that data type: Guidelines for the implementation of the Legislative Decree no. 36/2006 (amended by the Legislative Decree no. 200/2021 transposing the Directive 2019/1024) with a section dedicated to that data (https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf); Guidelines about APIs (https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/212801215110O__OLinee+Guida+interoperabilit%26%23224%3B+tecnica+PA.pdf);
+National Digital Data Platform and APIs Catalogue and related support by the Government Department for Digital Transformation  (https://www.interop.pagopa.it/)
+For the implementation of Regulation (EU) 2023/138, a working group is being established to draft an operational guide.";;;;10
+25c;yes;"The geospatial data are documented in the dedicated catalogue (RNDT - https://geodati.gov.it) that is linked to open data portal through GeoDCAT-AP. In case of open geospatial data, metadata documented in RNDT are also made available in the open data portal.
+Below the activities to support geospatial data holders:
+
+Webinar series such as http://eventipa.formez.it/node/392675 - https://dati.gov.it/notizie/webinar-agidformez-su-open-data-dinamici-da-sensori-e-iot;
+
+Regular contacts and support for public administrations by AgID;
+
+A skype account for a prompt support;
+
+A detailed set of documentation: Guidelines (https://agid.github.io/geodocs/rndt-lg/2.0.1/), operational guidance (https://geodati.gov.it/geoportale/manuale-rndt), Italian GeoDCAT-AP specification (https://geodati.gov.it/geoportale/documenti/12-documenti/277-linee-guida-nazionali-geodcat-ap), Data specifications (https://geodati.gov.it/geoportale/datiterritoriali/regole-tecniche);
+
+A set of tools available on the portal of the national catalogue for spatial data: editor, metadata upload service, validator, harvesting process management, metadata converter, test sandbox, GeoDCAT-AP API (https://geodati.gov.it)
+
+INSPIRE Italia Registry: https://registry.geodati.gov.it/registry 
+
+Guidelines for the implementation of the Legislative Decree no. 36/2006 (amended by the Legislative Decree no. 200/2021 transposing the Directive 2019/1024) with a section dedicated to that data (https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf);";;;;10
+25d;yes;"The Fifth OGP National Action Plan includes a specific action for the pubblication of open data (in open and machine-readable format) about the public tenders, where the civil society is fully engaged in order to integrate public sector data with data from civil society  (see https://open.gov.it/sites/default/files/media/documents/2022-03/5nap-piano-azione-governo-aperto-italia.pdf).
+
+RESPONSE TO THE REVIEWER
+Some initiatives linked to that action:
+- ""A Scuola di OpenCoesione"" (see https://www.ascuoladiopencoesione.it/) is an innovative educational path aimed at promoting and developing principles of active and aware citizenship in Italian schools through civic research and monitoring activities of European and national public funding;
+- Monithon (https://www.monithon.eu/) is an independent, non-profit initiative that has been developing methods and tools for civic monitoring of public funds, in some cases in collaboration with PAs.";;Linked to the comment for Q6c.;;10
+26a;yes;"In 2020 the Government has defined the National Strategy for Digital Skills and the related Operational Plan (https://assets.innovazione.gov.it/1610029655-dtd-1277-a-all1.pdf).
+At the beginning of 2022, the strategic plan for the enhancement and development of human resources of public administration was launched (https://www.funzionepubblica.gov.it/sites/funzionepubblica.gov.it/files/20220110_Progetto_Formazione.pdf).
+At the beginning of 2023, the Minister for Public Administration has published a guidance act for training that promotes training planning and development of skills for the digital transition, inter alia, promoted by the National Recovery and Resilience Plan (https://www.funzionepubblica.gov.it/sites/funzionepubblica.gov.it/files/documenti/Ministro%20PA/Zangrillo/2023_marzo/Direttiva_formazione.pdf#:~:text=In%20particolare%2C%20il%20Piano%20strategico%20pone%20l%E2%80%99attenzione%20sullo,i%20cittadini%20e%20della%20qualit%C3%A0%20del%20proprio%20lavoro.). 
+This act is linked to the launch of the national platform named Syllabus that is the training portal dedicated to all people working in PA. Syllabus provides with the skills needed to enable and make PA digital transition effective at all levels. Concerning the Digital skills for PA, it is based on five competences areas including data, information and documents, communication and sharing, security, digital services, digital transformation. (https://www.syllabus.gov.it/syllabus/)
+
+In addition the Italian translation of the latest version of DigComp, the Digital Competence Framework for Citizens, has been recently published.
+
+AgID organizes webinar series about data and open data also for civil servants, such as https://dati.gov.it/notizie/linee-guida-open-data-nuovo-ciclo-di-webinar-dal-24-gennaio-2023 
+In many of the webinars promoted by the national portal dati.gov.it the public managers themselves, owners of Italian open data initiatives, talk about their experience and share the knowledge gathered with other public administrations. 
+[http://eventipa.formez.it/]
+
+The National School for Administration is the institution responsible for selecting, recruiting and training officials and public servants, and is the central point of a Central System of recruitment and public training, established to improve efficiency and the quality of the Italian Public Administration. The School provided a rich catalogue of courses (in the classroom, eLearning, blended), for public officials, on many topics of interest for Public Administrations, including those related to open data. [ http://sna.gov.it/ ]";;;;15
+26b;yes;"In the context of the Syllabus platform, all users of the platform who have already achieved the expected advanced level of digital skills will gradually receive the relevant Open Badge.
+The Open Badge is a digital certificate, based on the 1EdTech consortium's international ""Open Badge"" standard, that attests to achievements downstream of training courses in a simple, secure and verifiable way (https://www.syllabus.gov.it/syllabus/news/?id=5)
+
+In some cases, such as the training courses taught by the National School for Administration, a participation certification is offered, recognised in the Public Administrations.";;;;10
+27a;yes, >9;"Open Gov Week, from 8 to 12 May 2023, https://open.gov.it/partecipa/open-gov-week/open-gov-week-2023
+Webinar series on Open Data Guidelines, 2022 and 2023 https://dati.gov.it/formazione-su-opendata
+
+ForumPA, 16- 18 May 2023  https://www.forumpa.it/forum-pa-2023/
+
+Municipality of Genoa, 28 February 2023 - Open data Conference https://smart.comune.genova.it/contenuti/open-data-quando-i-dati-della-pa-diventano-servizi%C2%A0 
+
+Informa-Azione: DigiComp 2.2 (European Framework for the Development of Digital Competencies for Citizens) Presentation Event and Discussion - April 21, 2023
+https://www.saperedigitale.org/informa-azione-digcomp-2-2-nuovi-temi-ed-esempi-di-conoscenze-abilita-e-attitudini-2/ .                                                                              
+
+Project Opentusk, the Apulia Region's participation and sharing path dedicated to open data, with a kick-off meeting at the Region's headquarters May 3, 2023.
+Opentusk is a generative path of sharing and experimentation, with Public Administrations, organizations and businesses, activists and innovators, to enhance the production and reuse of open data and includes a digital awareness campaign, three itinerant DataLabs, a Hackaton and in-depth webinars on the issues of data production, use and reuse. Opentusk was created, in fact, to support public administrations, business, research, innovation and the third sector, because open data and public participation act together to unleash the skills and energies of society: they empower widespread, to multiply economic possibilities and regenerate a new sense of community. https://www.dati.gov.it/notizie/nasce-la-comunita-i-dati-aperti-pugliesi -                                                                                                                                                                  
+
+MOOC - Massive Online Open Course - on open data promoted by the Department of Public Function of the Presidency of the Council of Ministers and implemented by Formez PA as part of the project ""Opengov: methods and tools for open administration."" A training project, intended for employees of public administrations and citizens and enthusiasts of the subject, aimed at providing the basic knowledge and skills useful to increase the spread of the culture and practice of open data in the daily work of public administrations in the framework of a new approach of open, transparent and collaborative government with citizens and businesses. 
+http://eventipa.formez.it/node/390819";;;;20
+27b;a mix of the above;"AgID and Formez (e.g. http://eventipa.formez.it/node/392675 )
+Department of Public Function Presidency of the Council of Ministers and Formez http://eventipa.formez.it/node/390819 
+Regions (e.g. https://www.regione.puglia.it/web/istituzione-e-partecipazione/agenda1?p_p_id=it_minsait_agenda_eventi_RicercaAgendaPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_it_minsait_agenda_eventi_RicercaAgendaPortlet_eventId=423&_it_minsait_agenda_eventi_RicercaAgendaPortlet_mvcRenderCommandName=%2Fevents%2Fevent-detail );
+Municipalities (Municipality of Genoa, https://smart.comune.genova.it/contenuti/open-data-quando-i-dati-della-pa-diventano-servizi%C2%A0);
+Private sector (e.g. https://www.hackcopernicus.planetek.it/);
+Universities (e.g. https://opendataplayground.com/about  - https://www.cassini.eu/hackathons/italy)";;;;N/A
+D2;;;;;;565
+D2.1;;;;;;170
+28;yes;"The Italian legislation expressly provides for the definition of reuse of open data in the Digital Administration Code - legislative decree 82/2005 - Article 1, paragraph n-bis), where reuse means ""use of the data referred to in Article 2(1)(e) of legislative decree no. 36 of 24 January 2006"";
+ [ https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82 ]
+The provision refers back to the definition contained in turn in Legislative Decree 36/2006 on the transposition of the PSI Directive, as subsequently amended by  the Legislative Decree 200 of 8 November 2021 transposing the Open Data Directive. Specifically:
+(e) re-use: the use by natural or legal persons of documents held by: 
+      (1) public administrations or bodies governed by public law for commercial purposes or for non-commercial purposes other than the institutional purposes for which the documents were produced, with the exception of except for the exchange of documents between public administrations or bodies governed by public law, or between administrations and bodies governed by public law, carried out exclusively within the framework of the performance of the institutional tasks of which they are holders; 
+      (2) public undertakings and private undertakings referred to in Article 1, paragraph 2-quater, for commercial purposes or for non-commercial purposes other than those relating to the provision of services of general interest general interest services for which the documents have been produced, with the exception of for the exchange of documents between public undertakings and public administrations or bodies governed by public law set up exclusively within the framework of the performance of the tasks institutional tasks of the public administrations 
+ [ https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36~art2-com1-lete  ]";;;;10
+29;Yes, there is a strong focus;"The promotion of the published data is made in some national Conferences and events, such as ForumPA (https://www.forumpa.it/forum-pa-2023/) or OpenGovWeek Italy 
+(https://open.gov.it/partecipa/open-gov-week
+https://dati.gov.it/notizie/open-gov-week-2022-una-settimana-di-incontri-e-dibattiti-sul-governo-aperto https://dati.gov.it/notizie/open-gov-week-2023-una-settimana-di-eventi-sul-governo-aperto
+https://www.youtube.com/watch?v=SWWagTJ5nXE&t=915s
+https://www.youtube.com/watch?v=SWWagTJ5nXE&t=1911s).";;;;15
+30;yes;"The processes are conducted at public body level, such as at regional level. 
+Some examples:
+The Open Data portal of the Emilia Romagna Region provides an online form to collect information about the re-use made of the data (https://dati.emilia-romagna.it/?q=contact/Segnala-un-uso-dei-dati);
+Lombardia Region collects information about the cases of re-use of the datasets published in the regional data portal (https://www.dati.lombardia.it/Government/Utilizzo-dei-dataset/m58v-fh6e/data);
+At local level, Lecce Municipality publishes a page in the open data portal with the list of apps, dashboards and viz developped by reusing the open data documented in that portal (http://dati.comune.lecce.it/blog/?page_id=165);
+The public undertaking TPER publishes a list of apps developped by reusing open data made available (https://www.tper.it/apps).
+The Istituto Nazionale di Previdenza Sociale has dedicated a page in the Open Data section of the portal ""Applications implemented"" to record all the initiatives of re-use of Open Data.  
+[ https://www.inps.it/nuovoportaleinps/default.aspx?sPathID=%3b0%3b46292%3b46305%3b&lastMenu=46305&iMenu=12&p4=2 ].
+The Institute also constantly monitors the downloads of Open Data from the Institutional portal by locating and analyzing them.  It is possible to have a summary of the downloads on a national scale on the page of the ""Open Data Inps Distribution"" portal.  
+[ https://www.inps.it/nuovoportaleinps/default.aspx?sPathID=%3b0%3b46292%3b46305%3b46294%3b&lastMenu=46294&iMenu=12&iNodo=46294&p4=2 ]";;;;20
+31;yes;"If data are made available through APIs, the public bodies and undertakings fullfilling public services are required to describe those APIs in the APIs Catalogue included in the National Digital Data Platform established by the article 50-ter of the Digital Administration Code. This article also states that through that Platform it is possible collecting and storaging information about the access and transactions carried out to data distributed through the APIs.
+https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82";;;;20
+32;yes;"The Guidelines for the implementation of the Legislative Decree no. 36/2006 (as amended by Legislative Decree no. 200/2021 transposing Directive (EU) 2019/1024), available here https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf, include a section dedicated to HVD. The document foresees a specific guidance for providing further specific requirements and recommendations for the HVD providers in order to ensure HVD be conformant to the arrangements set out in the implementing Regulation (when it will enter into force). Those arrangements will concern the coordination at national level and the measures and initiatives for monitoring the level of re-use of HVD.
+In addition, a specific action is included in the Three-Year Plan for ICT in PA; this action is about the first monitoring and measure of high-value datasets documented in the National catalogues in December 2024 (https://www.agid.gov.it/sites/default/files/repository_files/piano_triennale_per_linformatica_nella_pa_2022-2024.pdf page 23).";;;;15
+33;yes;"A definition of 'impact of open data' is included in the Guidelines for the implementation of the Legislative Decree no. 36/2006 (as amended by Legislative Decree no. 200/2021 transposing Directive (EU) 2019/1024) - https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf. It is defined as ""The set of effects and benefits obtained directly or indirectly from the use and/or reuse of open data in specific policies, areas, or domains"". It is also suggested to consider as domains against which to measure impact those ones used in the maturity report, namely: society, government, economy and environment";;;;20
+34;yes;"The use and impact of open data are included in a specific section of the annual report ""The ICT spending in the Italian PA"", see https://www.agid.gov.it/sites/default/files/repository_files/_la_spesa_ict_2021_nella_pa_italiana_-_principali_trend_e_percorsi_in_atto_final_v.02_2.pdf
+This report is also linked to the Three-Year Plan for ICT in the PA that includes specific actions on data and open data. The implementation of those actions is annually measured and monitored, see  https://monitoraggiopianotriennale.italia.it/                                                                                                                                                                                           In the first report described, regarding the impact of Open Data, the paragraph 4.3 Data Governance e Open Data describes how the availability of open data in central and local government supports web and mobile application development activities. Development activities on open format datasets are very varied. In particular, it highlights the development of vertical applications (for the management of building sites, state property, etc.), and dashboard solutions enabling the analysis of real-time data (traffic, infomobility, weather, territory and environment) and of data at regional and municipal level (labour, expenditure, health, housing market). As can be seen from the graphs, a comparison was made between the extent of the release of datasets in open format and the development of services and applications based on the released data.
+The second link indicated relates specifically to the monitoring of the objectives defined in the Three-Year Plan, and provides in open format all data related to this monitoring. The analysis of the rates of achievement of the objectives allows the comparison needed to analyse the impact of open data on digital services and any other aspect of interest.";;;;30
+35;yes;"The scientific article ""Economia e Big Data: come i dati aiutano le aziende ad essere competitive"" - https://www.professionefinanza.com/economia-big-data-dati-aziende/
+
+The study ""I dati aperti in Italia: un focus sull'openness digitale dei Comuni"" published at the end of 2022 - https://www.federalismi.it/ApplOpenFilePDF.cfm?artid=48199&dpath=document&dfile=28122022122331.pdf&content=I%2Bdati%2Baperti%2Bin%2BItalia%3A%2Bun%2Bfocus%2Bsull%E2%80%99openness%2Bdigitale%2Bdei%2BComuni%2B%2D%2Bstato%2B%2D%2Bdottrina%2B%2D%2B";;;;25
+36;yes;"A series of meetings, as part of the Forum PA's Cantieri project, involving stakeholders from both civil society and government,  addressing the issues from the point of view of reusers and public and private entities engaged in impact measurement initiatives:
+14/6/2022 – “Open data and interoperability: enhancing PA information assets to enable the once-only principle”. Full interoperability of public datasets is one of the main objectives pursued by the strategies for digital PA, including through the resources provided by the NRP. Specifically, the Plan aims to overcome vertical silos that are not interconnected through the implementation of the Digital National Data Platform (PDND) and the central catalog of APIs for accessing information held by public bodies. In this talk dedicated to the topic of data governance in the public sphere, we will delve into the challenges that await PAs as part of the path to implementing the data and interoperability measures envisaged by the NDPND, listening to the experience of some of the main administrations involved and the technology companies that are proposed as enablers of this important process. https://www.forumpa.it/manifestazioni/forum-pa-2022/dati-pubblici-e-interoperabilita-valorizzare-il-patrimonio-informativo-della-pa-per-abilitare-il-principio-once-only/ 
+
+14/6/2022 “Replicability of an Italian good practice in Europe: Open Data, Civic Monitoring and Cohesion Policies in Schools”. A Scuola di OpenCoesione (ASOC) is an innovative digital education pathway aimed at promoting and developing principles of active and aware citizenship in Italian schools through research activities and civic monitoring of European and national public funding, to answer the fundamental question, ""How is public money spent in the territories?"" ASOC makes it possible to introduce in schools the themes of civic monitoring, active citizenship, and participation, through an educational model structured by phases and moments of confrontation. A model that has become a point of reference in national and European cohesion policies, so much so that it has been successfully transferred and replicated in several EU countries, and recently put at the center of new experimentation also in the context of European Territorial Cooperation.
+https://www.forumpa.it/manifestazioni/forum-pa-2022/replicabilita-di-una-buona-pratica-italiana-in-europa-open-data-monitoraggio-civico-e-politiche-di-coesione-nelle-scuole/
+
+A tool for civic monitoring of public procurement of projects included in the National Recovery and Resilience Plan https://www.youtube.com/watch?v=SWWagTJ5nXE&t=915s
+https://www.youtube.com/watch?v=SWWagTJ5nXE&t=1911s";;;;15
+D2.2;;;;;;110
+37;yes;N/A;;;;40
+37.1;Yes;In some Regions the logs of users who access the portal are analyzed (e.g. data.regione.basilicata.it).;;;0;
+37.2;Yes;"Some organizations monitor the download of datasets, such as https://www.inps.it/OpenData/default.aspx?sPathID=%3b0%3b46292%3b46305%3b46294%3b&lastMenu=46294&iMenu=12&iNodo=46294&p4=2
+
+https://www.dati.lombardia.it/Government/Statistiche-mensili-opendata/khbr-2aji";;;0;
+37.3;No;;;;;
+37.4;Yes;Some Regions make available a form on the data portals to get information about the reuse of data;;;0;
+37.5;No;;;;0;
+38;yes;N/A;;;;40
+38.1;Yes;Most organizations have regular interactions with users who publish or reuse data;;;0;
+38.2;No;;;;0;
+38.3;No;;;;0;
+39a;yes;"The process is conducted at public body level.
+The Open Data portal of the Emilia Romagna Region provides an online form to collect information about the re-use made of the data (https://dati.emilia-romagna.it/?q=contact/Segnala-un-uso-dei-dati);
+Lombardia Region collects information about the cases of re-use of the datasets published in the regional data portal (https://www.dati.lombardia.it/Government/Utilizzo-dei-dataset/m58v-fh6e/data);
+The Istituto Nazionale di Previdenza Sociale has dedicated a page in the Open Data section of the portal ""Applications implemented"" to record all the initiatives of re-use of Open Data.  
+[ https://www.inps.it/nuovoportaleinps/default.aspx?sPathID=%3b0%3b46292%3b46305%3b&lastMenu=46305&iMenu=12&p4=2 ].";;;;20
+39b;yes;"The process is conducted at public body level.
+Example:
+Lombardia Region collects information about the cases of re-use of the datasets published in the regional data portal and classifies them on base of the scope of the app or service developped, i.e. data journalism, around me (location), B2B services, B2C services, data analysis, ...  (https://www.dati.lombardia.it/Government/Utilizzo-dei-dataset/m58v-fh6e/data);";;;;10
+D2.3;;;;;;285
+D2.3a;;;;;;45
+40;No;"https://open.gov.it/governo-aperto/piano-nazionale/5nap/monitoraggio
+The Fifth National Action Plan for Open Government 2022 - 2023 (5NAP https://open.gov.it/sites/default/files/media/documents/2022-09/I%20REPORT%20VALUTAZIONE%205NAP_FINALE.pdf  ) is the result of a co-creation process, carried out in line with the OGP Standards, in which different levels of government - central and regional - and organised civil society collaborated to define a few but significant commitments, in line with the recommendations of the IRM (Indipendent Reporting Mechanism) to make the implementation of open government principles more widespread and the impact of policies more impact of policies based on these principles.
+In the evaluation and monitoring section, updates are provided on the status of implementation of the actions and commitments contained in the Plan.
+The teams responsible for implementing the commitments progressively feed the monitoring system with data on the activities carried out, according to the scheduled timetable and, for each activity, provide evidence supporting the results/products achieved.
+On the basis of this monitoring, four-monthly evaluation reports are produced, which highlight the progress of the Plan as a whole and can be consulted here.
+A timeline provides monthly access to the monitoring and evaluation data and reports.
+It is also possible to find out about the progress of activities by viewing the indicators, target values and the outcome in terms of results achieved by each commitment in the Plan, as well as viewing the outputs as they are realised.                                                                                                                                                                                      
+
+Platform on the funding of the National Recovery and Resilience Plan for the digital transition: https://padigitale2026.gov.it/opendata
+
+Portal on all data and progress reports on National Recovery and Resilience Plan interventions and activities updated periodically: https://www.italiadomani.gov.it/content/sogei-ng/it/it/catalogo-open-data.html?orderby=%40jcr%3Acontent%2FobservationDateInEvidence&sort=desc
+
+
+The number of published data has been greatly increased as a result of the actions of civic monitoring included in several initiatives such as OpenPNRR (https://openpnrr.it/), PNRR - Data Common goods (https://pnrr.datibenecomune.it/) and the engagement of civic society and communities in the Fifth National Action Plan for Open Government.
+
+RESPONSE TO THE REVIEWER
+As an example, the article available here https://osservatoriocivicopnrr.it/news/34-accesso-ai-dati-del-pnrr-arriva-un-segnale-dal-governo.html  highlights how the Government has accepted the proposals coming from the civic society (working in the initiatives mentioned above) by modifying the part of the decree affecting the transparency and access to data.
+
+In addition,the civic monitoring on open data published has induced an improvement of data quality as a result of reports on malformed data and on granularity.";Please clarify the link between the plans/studies described and the impact open data has on governmental challenges (also note that examples of reuse cases are suitable for Q41-Q44).;;;0
+41;yes;"The open data projects always increase with high impact to efficiency and/or effectiveness of administrative action, below are some examples: 
+
+Application for analysing data on the State budget developed by civil society: https://budget.g0v.it
+
+A new portal ""How to Measure Corruption. Indicators for assessing corruption risks in every area of the country"" has been launched. It is a project that makes available to the community a set of scientific indicators that can determine how high the risk is that acts of corruption may occur.
+https://www.anticorruzione.it/-/come-misurare-la-corruzione-il-nuovo-portale-anac
+
+RESPONSE TO THE REVIEWER
+Thank to the publication of this data and the availability of the new portal, some articles were published, such as that one available at the following link https://tg24.sky.it/cronaca/2022/07/22/corruzione-italia-indice-anac, which analyses the distribution of the corruption in the different regions of Italy and consequently highlights the the risk of corruption in the several territories.";;Can you please describe further the impact of these reuse cases? These projects describe how open data has been further processed to be more accessible for reuse. The impact of open data reuse relates to how the open data is ultimately used for some effect. Eg the project on corruption risk: has anyone taken some action when a risk level has been high?;;15
+42;yes;"Open Data on Public Contracts, with analytics, dashboard:
+https://dati.anticorruzione.it/superset/dashboard/appalti/
+
+OpenCUP makes available to citizens, institutions and other entities, data, in open format, on public investment decisions financed with national, EU or regional public funds or with private resources registered with the Unique Project Code. The OpenCUP exposes data on investment decisions related to almost 800,000 projects, achieving full interoperability with other data from other public institutions in order to develop forms of institutional cooperation in line with the objectives of the 2014-2020 programming. OpenCUP, also allows to download data on public investment decisions, make searches and view in a simple way, on maps and infographics, select projects by sector, cost and territory or do research on the subjects who are committed to the realization of investments. The source of the data is the Register of Projects of the CUP System fed directly by the subjects holding the interventions and the data are updated on the portal every month. 
+[ https://www.opencup.gov.it/portale/web/opencup/homepage] 
+
+OpenBilanci allows people to monitor the balance sheets of all the Italian municipalities. The database can show the balance sheets of the last twelve years of all the municipalities. A large amount of raw and official data in machine-readable and freely reusable formats, ready to be downloaded by citizens, media and researchers.  
+[ https://openbilanci.it/ ]
+
+Maps and analysis on data about the founding of the National Recovery and Resilience Plan:
+https://datawrapper.dwcdn.net/K8ta7/2/ 
+https://datawrapper.dwcdn.net/mDTX4/1/
+https://datawrapper.dwcdn.net/TlWpB/2/
+https://datawrapper.dwcdn.net/zWVay/2/
+
+RESPONSE TO THE REVIEWER
+Data are used for visualization and analysis by Period Think Tank that has developed an app (https://periodthinktank-analisi-dati-pnrr-app-6tk6o2.streamlit.app/) with the aim of investigating the presence and distribution on the territory and missions, of minimum employment quotas or bonus measures for women and youth in the tenders issued. 
+This is useful for decision makers for recalibrating the policies and the activities.";;Can you please describe further the impact of these reuse cases? Projects like OpenCUP and OpenBilanci describe how open data has been further processed to be more accessible for reuse. This is similar for the Public Contracts dashboard. However, impact is when an action or effect emerges. Please describe how these projects have created an impact for transparency/accountability (eg has the information  been used to lodge a complaint, used by journalists in an investigation, etc).;;15
+43;yes;"Smart City Control Room, the solution of Trento Municipality to make increasingly aware decisions and effectively govern urban phenomena (https://www.forumpa.it/citta-territori/scelte-consapevoli-e-azioni-efficaci-il-comune-di-trento-progetta-la-sua-smart-city-control-room/)
+
+OpenCoesione is the open government initiative on cohesion policy in Italy. The portal provides access to searchable data on resources planned and spending, locations, thematic areas, planning and implementing authorities, the time needed to complete initiatives and payments for individual projects. Everyone can therefore assess how resources are being used to meet the needs of the territories involved.  
+[ https://opencoesione.gov.it/it/opendata/#!progetti_sie_section ] 
+
+RESPONSE TO THE REVIEWER
+Several publications and other material focused on the reuse of data about the cohesion policy are available at this link https://opencoesione.gov.it/it/scopri/ (e.g. the paper ""Understanding the territory through data, data journalism and civic engagement: the Asoc project from Italy to Europe""; the presentations ""Building the Future of Democratic Accountability Across Europe: Civic Engagement, Evaluation, and Open Administrative Data in At the School of OpenCohesion"" and ""The role of Cohesion Policy evaluation for an evidence-based Next Generation EU"").
+In addition, a section dedicated to institutional documents and reports to Parliament that refer to the programming and implementation of cohesion policy resources (based on data published) is available on the Department of Cohesion Policies portal. 
+
+Disabled data Dashboard developed by civil society: https://disableddata.fightthestroke.org/dashboard/
+
+RESPONSE TO THE REVIEWER
+As highlighted in this article published on the most important economic newspaper https://www.infodata.ilsole24ore.com/2022/11/07/disabled-data-se-i-dati-non-esistono-le-persone-non-esistono-thinktallytalk/ DisabledData is a digital designed with the aim not only to open the data to a wider audience but to offer itself as a place from which to study policies and propose initiatives.";;Some comments as above: making data more accessible via specialised dashboards or portals is a step before reuse and impact.;;15
+44;No;"The space for data about the situation on the Covid-19 emergency in Italy, to take daily decisions
+https://dati-covid.italia.it/
+https://covid19.infn.it/iss/
+
+OpenCantieri is a project promoted and managed by the Ministry of Infrastructure and Transport (MIT) which presents an open, complete and updated information on the process of building public infrastructures. Data produced and exposed by public sources are integrated into a single platform with specific summaries and views. The information is fully accessible and can be downloaded via the MIT open data page.  
+[ https://www.mit.gov.it/comunicazione/news/opencantieri-i-dati-trasparenti-e-aggiornati-sulle-opere-pubbliche ] 
+
+Portal on the funding of the National Recovery and Resilience Plan https://padigitale2026.gov.it/opendata
+
+Dashboard on the representation of key data on the use of the national resident population registry and registry services. https://www.anagrafenazionale.interno.it/anpr/numeri/
+
+RESPONSE TO THE REVIEWER
+The civic monitoring on open data published has induced an improvement of data quality as a result of reports on malformed data and on granularity. This has enabled decision makers to recalibrate the policies and the activities performed.";;Some comments as above: making data more accessible via specialised dashboards or portals is a step before reuse and impact.;;0
+D2.3b;;;;;;80
+45;Yes;"RESPONSE TO THE REVIEWER
+Analysis of the phenomena and identification of measure for reducing inequalities between countries and within them (e.g. https://www.istat.it/storage/rapporti-tematici/sdgs/2022/goal10.pdf).
+
+Study on the impact of social inequalities on post-pandemic dropout:
+Students who come from disadvantaged families are the most prone to school dropout. A relationship, that between starting inequalities and school performance, whose impact also needs to be analyzed at the local level. The data analyzed are the basis for data-driven policies to address inequalities resulting from school dropout.
+https://www.openpolis.it/limpatto-delle-disuguaglianze-sociali-sulla-dispersione-dopo-la-pandemia/#12-gli-studenti-di-famiglie-svantaggiate-che-nel-2022-non-hanno-raggiunto-competenze-adeguate-il-doppio-dei-coetanei-avvantaggiati
+
+RESPONSE TO THE REVIEWER
+The study is an elaboration of OpenPolis Foundation which collect and process data to tell stories and produce original analysis, reports and surveys.
+
+A regional equity profile to assess the impact of social inequalities on determinants and health outcomes in the population residing in Sicily Region (Southern Italy). Is a descriptive study aimed to define an equity profile in Sicily by using a rich list of indicators of structure of the resident population and of distribution of determinants and health outcome, derived from the integration of available information and scientific evidence at regional level with high local detail.
+The equity profile collects available information on the health status of the population in Sicily, on the determinants, and on the use of health and social services. The characteristics of people or population groups have been explored and can produce inequalities on health which included individual and context socioeconomic status. Using available information sources and study results have explored the effects of the disadvantage on health in the region: mortality, morbidity, oncological incidence, reproductive health, and some of their determinants.
+The study highlights how from the use of available information sources and the results of regional studies that have explored the effects of health disadvantage, several health outcomes (mortality, morbidity, cancer incidence, reproductive health and some of their determinants) have been characterized from an equity perspective.
+https://epiprev.it/articoli_scientifici/un-profilo-di-equita-regionale-per-la-valutazione-dellimpatto-delle-disuguaglianze-sociali-sui-determinanti-e-sugli-esiti-di-salute-nella-popolazione-residente-in-sicilia
+
+RESPONSE TO THE REVIEWER
+In this case data is used to provide evidences and as basis to the impact assessment of social inequalities.";Please clarify the link between the studies described and the impact open data has on social challenges (also note that examples of reuse cases are suitable for Q46-Q49).;The reports for www.istat.it might be relevant here;;20
+46;yes;"Ukraine Emergency. Humanitarian aid map Civil Protection Department Presidency of the Council of Ministers. 
+Since the beginning of the emergency, the Civil Protection Department has been guaranteeing humanitarian assistance to Ukraine and the countries affected by the large flows of refugees fleeing the conflict, both within the framework of the Union Civil Protection Mechanism and of bilateral agreements.
+As part of the emergency, the Department is also ensuring the MedEvac-Medical Evacuation - also with the DisEvac-Disability Evacuation module - of patients in need of specialist assistance, transported to Italy and admitted to various national centres. 
+By clicking on the pointers on the map, subdivided by type of assistance, you can view detailed information on the individual interventions. [ https://mappe.protezionecivile.gov.it/it/mappe-e-dashboards-emergenze/mappe-e-dashboards-ucraina/aiuti-umanitari ]
+
+RESPONSE TO THE REVIEWER
+Thanks to open data published providing with information about the requests for international assistance, the Department coordinates the reconnaissance and dispatch of the available resources of the Components, Operational Structures and competing subjects of the National Civil Protection Service.
+
+ Ukraine 2022 Emergency Data: 
+[ https://github.com/pcm-dpc/UKR-2022 ]
+
+Data and indicators on migrants and new citizens
+http://stra-dati.istat.it/
+
+Centri d'Italia is the  freely accessible platform from which it is possible to download detailed data on the  system for asylum seekers and refugees in Italy.
+https://centriditalia.it/home
+
+RESPONSE TO THE REVIEWER
+Based on data published in that platform, a report about the trends in a well-established historical series from 2018 to 2021 was published in 2022 (see https://migrantidb.s3.eu-central-1.amazonaws.com/rapporti_pdf/centri_ditalia_il_vuoto_dellaccoglienza.pdf). In addition, for the first time data and issues related to inspections in centers have been introduced.";;Only Ukraine Emergency seems to be a reuse case. The other examples seem to be initiatives to make data more accessible for reuse. For Ukraine Emergency, please clarify the role of open data in the initiative itself (or clarify if only the individual interventions have been made available as open data as a result of the project).;;15
+47;yes;"Analysis of sales of real estate units and loans in third quarter 2022: https://www.istat.it/it/files//2023/04/ENG-IIIQ-2022-Real-estates-loans.pdf
+
+Repository containing some datasets of the Historical Centers and Seismic Risk Web System (CSRS): https://github.com/pcm-dpc/DPC-Centri-Storici-Rischio-Sismico#1-CENTRI-STORICI
+
+national dataset on structural aggregates with detailed information on all buildings: https://rischi.protezionecivile.gov.it/it/approfondimento/dataset-nazionale-degli-aggregati-strutturali-italiani/
+
+
+The OpenDemanio portal is an online window on public real estate assets managed by the Agenzia del Demanio. Citizens, associations, local authorities and entrepreneurs can always have updated information on state assets and become promoters of investment projects, recovery and reuse.  
+The sections that make up OpenDemanio are: Consistency and value: The data in the State Balance Sheet are updated annually, allowing you to know the territorial distribution of buildings and areas, their category (available assets, unavailable assets, artistic-historical state property) and their value. The data can also be consulted through a navigable map of Italy. Geolocation of State properties: In this section you can consult the map of the State buildings managed by the State Property Agency, displaying their location, also through Google StreetView. All buildings are equipped with an information sheet with the main features such as address, surface and category of belonging.  
+OpenData: The data on the State's real estate assets are available in a transparent and open format, ready to be downloaded and used for research and in-depth analysis.  
+Construction sites: This section of OpenDemanio identifies, locates and describes in detail the planned building interventions, above 100,000 euros, on the real estate assets managed by the Agenzia del Demanio, used by the state administrations. The maintenance operations relating to the latter type of use are managed within the ""Centralised maintenance system"" (Legislative Decree no. 98/2011, art. 12). By consulting the files of the individual sites you will discover the type of work (maintenance, restoration, better management of space), the stage of progress, the date scheduled for testing and funding available. The operations represented are managed directly by the Agenzia del Demanio or by the Provveditorato alle opere pubbliche (central purchasing bodies), against specific financing from the State budget. Rationalisation and Federal Building: The optimal management of the spaces used by the State Administrations, is one of the main activities carried out by the Agenzia del Demanio, which deals with identifying the best solutions available with the aim of containing costs and, in general, reducing public expenditure. This section includes and localises the most important operations for optimising space and reducing costs, the so-called rationalisations: thanks to information sheets, it is possible to learn about the buildings involved, the building interventions, the financing and the savings made. The most significant projects of Federal Building are also represented, a model that concentrates the public offices of the territory in a single location, offering a more efficient service to citizens. Regeneration and reuse: The valorisation of public buildings is one of the main activities carried out by the Agenzia del Demanio. The operations represented are the most important, capable of triggering processes of regeneration and development in the territories concerned. The various reuse projects include assets that are the protagonists of administrative, financial and urban planning paths aimed at maximising their economic, social and cultural value. Thanks to in-depth information sheets, it is possible to learn about the properties and subjects involved in the routes, the nature of the various initiatives and their progress.  
+Value Country Lighthouses: The Fari project, promoted by Agenzia del Demanio e Difesa Servizi S.p.A., aims to create a network for the transformation of Italian coastal buildings into an opportunity for development for the territories that host them. In this section are presented the assets that are the protagonists of three calls for tenders, realized in 2015, 2016 and 2017 for the concession of some selected structures. Value Country Walks and Routes: The Valore Paese Cammini e Percorsi project is the new network project of the Agenzia del Demanio, promoted by MIBACT and MIT, which aims at the redevelopment and reuse of public buildings located along cycle-pedestrian routes and historical-religious routes. In this section are geolocalized the assets of the initiative, which with a recovery project, will become containers of services for walkers, pilgrims, cyclists and tourists.  
+Section 110 cities: Modality of representation that makes it possible to distinguish graphically the different building interventions and rationalization and regeneration operations underway in the municipal boundaries of the provincial capitals. 
+[ https://dati.agenziademanio.it/#/portale/progetto ]";;The Construction sites example appears to be a reuse case;;15
+48;yes;"Analysis of the phenomenon and identification of measure for ensuring health and well-being for all and all ages (e.g. https://www.istat.it/storage/rapporti-tematici/sdgs/2022/goal3.pdf)
+Epidemiological surveillance portal https://sorveglianza-98a22.web.app/  
+
+RESPONSE TO THE REVIEWER
+Based on open data published on that portal, a scientific article was published (see https://www.scienzainrete.it/articolo/mentalit%C3%A0-data-driven-rispondere-alle-pandemie/francesco-branda/2023-04-29) describing a project aimed at accelerating the work of researchers and public health officials to prepare for, respond to, and reduce the burden of future public health emergencies by bridging critical data collection gaps during the early stages of an outbreak.";;"Portals are not considered cases of reuse; they make data accessible for reuse. Please instead describe reuse cases.";;15
+49;yes;"Analysis of the phenomena and identification of measure for providing quality, equal and inclusive education and promote continuous learning opportunities for all (e.g. https://www.istat.it/storage/rapporti-tematici/sdgs/2022/goal4.pdf)
+
+Digital Skills Observatory: a series of dashboards that allow the reader to analyse the digital, no-digital and soft skill rate by occupational family and by individual occupation the associated competencies and elementary skills for each of them.
+The skill rate analysis shows the percentage incidence of each skill rate component (digital, no-digital and soft) within each profession, both CEN and emerging. It is possible to compare skill rates overall (across all observed ICT professions), within the occupational family and within the individual profession.
+The skill analysis allows to navigate - for each professional family - the 5 e-CF areas derived from the ICT business processes (PLAN - BUILD - RUN - ENABLE - MANAGE) and their distribution in each profession. Moving on to the in-depth analysis, the reader can further navigate the e-CF taxonomy (dimension 2) and, finally, the elementary skills associated with each e-CF category with the corresponding relevance. The relevance indicates the importance of the skill for the observed profession.
+[ https://competenzedigitali.org/osservatorio-delle-competenze-digitali/analisi-delle-competenze/#overview ]
+
+DATALIT is a joint research project coordinated by the ""Istituto per le Tecnologie Didattiche"" of the Italian National Research Council (CNR) and aim at promoting ""Data Literacy"" at the interface of higher education and business.
+The project aims to disseminate data literacy at the interface between higher education and business, with the aim of laying the foundations for the integration of data literacy as a cross-curricular topic potentially in all university courses, identifying and developing common curricula and innovative teaching and learning approaches.
+Target groups: 
+Higher education students: Acquiring DATALIT-related skills will help students improve their job opportunities.
+Training and human resources professionals:
+Teachers, trainers and learning facilitators will be involved in DATALIT's innovative teaching approach to promote data literacy and data skills as a new part of digital competences.
+Evaluators and validation professionals:
+Stakeholders such as consultants, evaluators, process managers and other external observers will play a strategic role in the project.
+The consortium is composed by 14 experienced partners from 4 Programme EU Countries (Italy, Germany, Portugal, Lithuania), 1 Non-EU Programme Country (Serbia) and 1 Partner Country from Western Balkans (Albania). In particular we have 5 Universities, 5 SMEs, 1 Educational centre, 1 EU network, 1 umbrella organisation.
+[ https://datalit.pa.itd.cnr.it/it/ ]
+
+Project Open the box: Open the Box is aimed in the first instance at middle and high school teachers, but also at educators, journalists/educators interested in conducting innovative educational activities with girls and boys aged 11 and up. It provides them with 8 interactive lessons divided into 2 tracks, one focused on media literacy and the other on data literacy. The lessons are complete with mini-games, multimedia handouts, group activities and quizzes to assess learning. For the Data Literacy pathway, lessons aim to develop critical thinking in reading data and visualizations (Graphs and dataviz), and then move on to a more operational phase in which students are invited to build their own dataset (My First Dataset) on their own. The tracks can also be used for mandatory digital citizenship hours or secondary school PCTO activities.
+https://www.openthebox.io/";;;;15
+D2.3c;;;;;;80
+50;yes;"RESPONSE TO THE REVIEWER
+Analysis of the phenomenon and identification of measure for fighting climate change and its consequences https://www.istat.it/storage/rapporti-tematici/sdgs/2022/goal13.pdf
+
+Report prepared by experts involved by the Ministry of Sustainable Infrastructure and Mobility under the ""Structure for the Green Transition of Mobility and Infrastructure"" (STEMI) established by the Minister of Sustainable Infrastructure and Mobility. The STEMI is tasked with developing guidance policy directions for the green transition of mobility and infrastructure, also in the light of the current discussion in the European Council of the Fit for 55 Package presented by the European Commission in implementation of the Green Deal strategy.
+This report represents a compilation of contributions from various experts on the areas most relevant to the decarbonization of cities, while referring for further discussion to what was previously covered in the Report ""Climate Change, Infrastructure and Sustainable Mobility,"" presented by MIMS on February 4, 2022, and the Report ""Decarbonizing Transport. Scientific Evidence and Policy Proposals,"" dated April 22, 2022, devoted to technologies useful for decarbonizing transportation. 
+The report includes a focus on the digitalization for the green transition and the role of data in the decarbonization of cities.
+https://www.mit.gov.it/nfsmitgov/files/media/notizia/2022-10/STEMI_Le%20citta%CC%80%20a%20impatto%20climatico%20zero_ITA_v1.pdf";Please clarify the link between the studies described and the impact open data has on environmental challenges (also note that examples of reuse cases are suitable for Q51-Q54).;The reports for www.istat.it might be relevant here;;20
+51;yes;"Analysis of the phenomena and identification of measures for protecting, restoring and encouraging a sustainable use of terrestrial ecosystems, managing forests in a sustainable way, fighting desertification, arresting and reversing the degradation of the territory and stopping the loss of biodiversity (e.g. https://www.istat.it/storage/rapporti-tematici/sdgs/2022/goal15.pdf).
+
+Coastlines Portal: https://sinacloud.isprambiente.it/portal/apps/sites/#/coste
+
+
+AIR BREAK is a project aimed at creating more awareness around the issue of air quality, as well as engaging citizens and local stakeholders in co-creating and experimenting with innovative solutions to improve the livability of neighborhoods and design clean commuting routes in the city.
+The project also includes a simple and intuitive dashboard reusing the open data on air quality provided by the Regional Environmental Agency. The dashboard provides an immediate and concise estimate of the air pollution, updated hourly. The result is a page with no numbers or complicated, incomprehensible units of measurement (and thresholds) where citizens can understand ""the air you're in"" simply by ""seeing"" the amount of pollutant particles present.
+https://airbreakferrara.net/che-aria-tira/
+
+RESPONSE TO THE REVIEWER
+Based on the data and information provided by the dashboard, six participatory workshops, or paths of open discussion, collaboration and public consultation, were initiated to decide together how to achieve the ambitious goals of improving air quality in the city. These are co-creation pathways to accompany project interventions and actions from conception (co-design) to implementation (co-implementation), to maintenance (co-management) and monitoring (co-monitoring). Some particularly successful solutions may eventually be the subject of future projects and replicated in other contexts (co-development).
+In 2022 the views of the entire portal were almost 20000 whereas the visitors were almost 8000. In 2023, the views were 10246 and the visitors 4604. The dashboard registered 2115 views in 2023.";;"Portals and dashboards make data more accessible but are not cases of reuse. For example, add a description of how many people use the air pollution dashboard as a proxy for the ""usefulness""/impact of the project (ie showing thet people use it to make decisions).";;15
+52;Yes;"ReOPEN SPL is a project promoted by the Presidency of the Council of Ministers - Department for Regional Affairs and Autonomies and implemented by Invitalia through the 2014-2020 PON Governance and Institutional Capacity. It aims to improve the technical-administrative capacities of entities engaged in the processes of organising and improving the efficiency of networked local public services of general economic interest, with particular reference to integrated water service; urban waste management; local public transport. The implementation of the initiative is based on four interdependent lines of action: construction and management of databases; methodological models and technical and procedural standards; specialist support; valorisation and dissemination of the project heritage.
+[ https://reopenspl.invitalia.it/ ]
+
+RESPONSE TO THE REVIEWER
+The project also includes the activation of specialized support interventions for Regions and Local bodies. The target territories and administrations are identified according to particular critical issues that characterize one or more sectors, as well as according to the needs of the entities that can report any needs.
+
+VeloBÒ shows the cycle paths, the bike-sharing stations of the Municipality, the public racks and the bicycle sales/repair shops in the urban area of Bologna. The data are provided by the Open Data portal of the Municipality of Bologna, these are the sets used and the date of updating.  
+[https://play.google.com/store/apps/details?id=com.matteogabella.velobo]  
+
+RESPONSE TO THE REVIEWER
+The app got 5000+ downloads.
+
+Recycling waste Observatory: https://www.osservatorioraccoltadifferenziata.it/";;Please clarify the role of open data in the ReOPEN SPL project. VeloBÒ seems like a suitable reuse case - additional information like the number of downloads/users would make it an even better example.;;15
+53;yes;"Analysis of the phenomenon and identification of measures to fight climate change (e.g. https://www.istat.it/storage/rapporti-tematici/sdgs/2020/goal13.pdf)
+
+Dedicated portal with data, indicators, climate maps, best practices.
+https://cambiamenticlimatici.isprambiente.it/
+
+RESPONSE TO THE REVIEWER
+Linked to that there is the National Platform for climate change adaptation (https://climadat.isprambiente.it/), which aims to facilitate the exchange of information between the central government, local authorities and all stakeholders, starting with citizens, with respect to the issue of climate change adaptation, thus representing the main information tool in Italy on this issue.
+
+Report and data on land consumption: https://www.isprambiente.gov.it/it/istituto-informa/comunicati-stampa/anno-2022/consumo-di-suolo-nel-2021-il-valore-piu-alto-degli-ultimi-10-anni
+
+CMCC Data Delivery System on climate data: https://dds.cmcc.it/
+
+RESPONSE TO THE REVIEWER
+A report that uses the results of high-resolution data to propose an overview of the climate, impacts, risks and tools that Bologna, Milan, Naples, Rome, Turin and Venice will provide themselves with.
+It is an interactive report, with infographics and insights on the climate indicators of each city, the future scenarios and the tools that the various administrations will provide themselves with (see .https://www.cmcc.it/it/rischio-clima-citta-2021).";;Please make clear what the reuse cases are. The availability of relevant datasets and portals that make data accessible are not considered reuse cases.;;15
+54;yes;"The open data project on the incentives provided by GSE - Gestore Servizi Energetici. 
+The Open Data portal is an initiative undertaken as part of Operation Transparency, with the aim of providing citizens with free access to data on public incentives disbursed by GSE, year by year. On the portal are available, categorised by topic and in open format, all data concerning the incentive mechanisms managed - with an indication of the beneficiaries and the amounts received - that can be consulted, shared and reused by public and private operators. This is to facilitate information sharing and dialogue in a transparent manner with citizens, businesses and public administrations, in order to encourage the transition to clean energy. 
+[ https://www.gse.it/dati-e-scenari/open-data ]
+
+RESPONSE TO THE REVIEWER
+Also based on the data published, several studies and scenarios containing data and analysis on renewable energy installations, energy efficiency interventions, the evolution of the energy system, and tools for promoting sustainable development at the national level (see https://www.gse.it/dati-e-scenari/studi-e-scenari).
+
+The EnerMaps Open Data Management Tool (https://enermaps.eu/) aims to improve data management and accessibility in the field of energy research for the energy industry and regulators.
+EnerMaps’ tool accelerates and facilitates the energy transition offering a qualitative and user-friendly digital platform to the energy professionals.";;Please describe reuse cases. A portal makes data more accessible. How the data is put to use is a reuse case that can lead to impact.;;15
+D2.3d;;;;;;80
+55;yes;"RESPONSE TO THE REVIEWER
+Analysis of the phenomenon and identification of measures to promote long lasting, inclusive and sustainable economic growth, full and productive employment and decent work for all (e.g. https://www.istat.it/storage/rapporti-tematici/sdgs/2022/goal8.pdf)
+
+Multiannual Financial Framework 2021-2027 Dataset. The Multiannual Financial Framework defined by the European Commission with the resources allocated to EU member states for the period 2021-2027, divided into expenditure headings.
+[ https://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/igrue/BancheDati/CatalogoOpenData/index.html ]
+
+Osservatori RRN Ismea: Competitiveness indicators - Socio-economic context
+This section contains the indicators that describe the socio-economic context in which Italian agriculture is set.
+In particular, the socio-economic context is described through dashboards on the territory, population, per capita GDP (at current value or purchasing power parity), employment rate (also distinguished in female and male), unemployment rate (overall and youth).
+In the economy and employment dashboard, it is possible to consult the variables employment, labour productivity and added value referring to the macro-sectors of the economy: total economy, primary, secondary and tertiary sectors; there is also a dashboard dedicated to investment (gross fixed capital formation and the ratio of investment to added value), again broken down by macro-sectors. In these last two dashboards, in addition to the data in absolute value, those on the % composition of the value of the total economy by macro-sector are available.
+Finally, information on household consumption expenditure is available in this section, both overall and for agri-food-related expenditure items: food and non-alcoholic beverages, alcoholic beverages, tobacco and narcotics, hotels and restaurants. Here too, in addition to data in absolute value, the composition of expenditure by individual item is available.
+[ https://www.ismeamercati.it/osservatori-rrn/indicatori-competitivita/contesto-socio-economico ]
+
+RESPONSE TO THE REVIEWER
+Based on the data published, it has promoted the creation of a series of Observatories on some peculiar characteristics of Italian agriculture. The Observatories were thus created with the aim of systematically collecting and cataloging data and information of a different nature that can be useful tools for understanding the various phenomena affecting the agricultural world.
+Through the website it is possible to visit the thematic Observatories on ""Youth Entrepreneurship"" and ""Female Entrepreneurship"".";Please clarify the link between the studies described and the impact open data has on the economy (also note that examples of reuse cases are suitable for Q56-Q58).;The reports for www.istat.it might be relevant here;;20
+56;yes;"ISTAT platform on level of employment with data, information and statistics.
+http://dati.istat.it/Index.aspx?DataSetCode=DCCV_TAXOCCU1
+
+The Ministry of Labor and Social Policy has prepared a report containing an analysis of data on labor relations in Italy in the fourth quarter of 2022. The data in the report is the basis for policy decisions on labor issues.
+https://www.lavoro.gov.it/documenti-e-norme/studi-e-statistiche/Documents/IV%20nota%20trimestrale%202022%20sulle%20Comunicazioni%20Obbligatorie/Nota-CO-IV-trimestre-2022.pdf";;Will accept the example of the The Ministry of Labor and Social Policy since open data is used ((1: it is a reuse case) and it has informed decision-making (2: the use led to some effect);;20
+57;yes;"“Data for Good Italia” is an initiative that aims to illustrate the opportunities of data science at the service of the social sector through data, analysis, and news. The main objective is to tell how data and their analysis can contribute to a better society by contributing to the impact of social initiatives.  
+[ https://www.dataforgood.it/ ]
+
+The “Strategia di Specializzazione Intelligente (S3)” is a tool used throughout the European Union to improve the effectiveness of public policies for research and innovation.
+The strategy aims to improve Calabria Region's competitive positioning and job growth by enhancing regional excellence and vocations that have the greatest potential for business development. For 2021-2027, the Calabria Region has updated the existing S3. The final approval of the Calabria Region's S3 2021-2027 strategy documents came with Regional Council Resolution No. 144 of March 31, 2023, following a process of discussion with the partnership and a negotiation phase with the European Commission. 
+Among the Areas identified as priorities for S3 2021-2027 is the ICT, Digital Technologies and Innovative Tertiary Area, which has, among others, the objective to improve the capacity to deliver digital services. Data governance will be maximized in line with the European Strategies with the aim of optimizing data sharing among Public Administrations for institutional purposes and making the administrative machine more efficient. The development of Open Data platforms and free access to information also makes it possible to contribute to the transparency of administrative action and allow the commercial ""reuse"" of data, enabling businesses to use such data to create predictive models, new products and services responsive to the social and economic needs of the territory.
+https://calabriaeuropa.regione.calabria.it/s3-21_27/le-aree-di-innovazione-della-s3-calabria/";;;;20
+58;yes;"Camera di Commercio delle  Marche: Open data explorer - Business demography in Italy. This service, designed and implemented by the Marche Chamber of Commerce on InfoCamere data, is linked to constantly updated JSON-stat datasets.
+The catalogue also offers Linked Open Data modelled in RDF Data Cube and serialised in JSON-LD.
+[ https://opendata.marche.camcom.it/ ]
+
+Ministry of Economic Development. Data Portal: registers, job lists and other data pertaining to the Ministry of Economic Development; this platform provides a single point of access with the aim of making it easier for citizens and businesses to consult the information. The data, updated periodically, can be searched with multiple keys and exported in csv format.
+[ https://dati.mise.gov.it/ ]
+
+OpenPNRR: https://openpnrr.it/misure/202/
+
+RESPONSE TO THE REVIEWER
+Data coming from OpenPNRR, OpenCUP (https://www.opencup.gov.it/portale/web/opencup/opendata), ANAC (https://www.opencup.gov.it/portale/web/opencup/opendata) and https://pnrr.datibenecomune.it/ are used for visualization and analysis by Period Think Tank that has developed an app (https://periodthinktank-analisi-dati-pnrr-app-6tk6o2.streamlit.app/) with the aim of investigating the presence and distribution on the territory and missions, of minimum employment quotas or bonus measures for women and youth in the tenders issued.";;Please describe the impact of these projects. The current descriptions make clear that the data has been made available in an accessible way, but not how it is then put to reuse.;;20
+D3;;;;;;604
+D3.1;;;;;;252
+59;yes;https://dati.gov.it/;;;;20
+60;yes;N/A;;;;10
+61;yes;N/A;;;;10
+62a;yes;N/A;;;;10
+62b;yes;N/A;;;;10
+63;yes;"The API basePath is https://dati.gov.it/opendata/  - Please note that the URL provided is the basePath of the API endpoint. In order to make it works, you need to add the relevant method. As an example, if you want to use the package_list method, you have to use the following URL: https://dati.gov.it/opendata/api/3/action/package_list. More detailed information about the portal API is available at the page https://www.dati.gov.it/api
+
+A SPARQL client (https://dati.gov.it/sviluppatori/sparqlclient) and a SPARQL endpoint (https://lod.dati.gov.it/sparql/) are also available.";;;;10
+64;yes;"https://www.dati.gov.it/api
+https://dati.gov.it/sviluppatori/sparqlclient";;;;10
+65;yes;"""For data providers, the national profile DCAT-AP_IT allows to provide a link to documentation and other material regarding a specific dataset. Specifically through the properties “dct:description”, “dcat:landingpage” and “dct:conformsTo"""". If that information is included in the metadata, it is published in the landing page of the data set.
+In addition, through the """"Contact the Editorial Staff"""" form, users can provide any kind of documentation https://www.dati.gov.it/scrivi-redazione 
+""";;;;10
+66a;yes;https://www.dati.gov.it/scrivi-redazione;;;;10
+66b;yes;"The ""Contact the Editorial Staff"" form https://www.dati.gov.it/scrivi-redazione can be also used  to submit feedback about specific datasets. The portal editorial staff, managed by AgID, receives feedback and provides responses, in some cases going back to the dataset owner.
+
+RESPONSE TO THE REVIEWER
+To provide a feedback for a dataset, the user has to select the specific option (""Feedback for a dataset"") and specify what the dataset is.";;Does the contact form offer a specific topic selection option for feedback on datasets? A general helpdesk is not sufficient for this question.;;10
+66c;yes;For each dataset, there is a rating system based on five stars levels (1 star = bad, 5 stars = very good). TO see the rating system, you need access the single dataset page and you can see it at the end of the page (e.g. for this dataset https://dati.gov.it/view-dataset/dataset?id=ce9825ba-6fde-4a13-bcad-1cc60d3d8e90);;;;10
+67;yes;https://www.dati.gov.it/notizie ;;;;10
+68;yes;https://www.dati.gov.it/notizie.xml;;;;10
+69a;yes;"""The aforementioned """"Contact the Editorial Staff"""" form available for users can be also used for requesting datasets, also with reference to the basket of datasets. The portal editorial staff, managed by AgID, receives feedback and provides responses, in some cases going back to the dataset owner. [ https://www.dati.gov.it/scrivi-redazione ]
+RESPONSE TO THE REVIEWER
+To require a a dataset, the user has to select the specific option (""Request a dataset"").
+
+In addition, as the Guidelines for the implementation of Legislative Decree no. 36/2006 (amended by the Legislative Decree no. 200/2021 transposing the Directive 2019/1024),  has introduced a new procedure for requesting datasets directly to the data owner.";;Does the contact form offer a specific topic selection option for data requests? Or is the possible to use the contact form for data requests advised on the portal?;;10
+69b;less frequently than monthly;N/A;;;;N/A
+69c;yes;"On the basis of the national policy adopted, the requests received is addressed on the OGP table, which by definition deals with the request of stakeholders. 
+RESPONSE TO THE REVIEWER
+Consequently the progress status of the request is monitored through the OGP table and the open data basket available at [ https://dati.gov.it/monitoraggio/paniere-dataset ] including the list of datasets planned to be opened based either on decision of the data owner or on requests by stakeholders or civil society.
+
+RESPONSE TO THE REVIEWER
+In the open data basket the datasets requested by stakeholders and civil society are identified and included and annually it is indicated if those datasets has been opened.";;To be clear, are portal users able to see what data has been requested and whether the request was accepted or rejected? This is what is meant by progress status, The ability to see all available datasets does not address the question about data requests.;;10
+70a;yes;The monitoring is conducted by the portal team annually through the open data basket available at [ https://dati.gov.it/monitoraggio/paniere-dataset ]. The description of such monitoring is provided in an ad-hoc methodology note available at the same page (i.e. https://dati.gov.it/sites/default/files/2022-06/NotaMetodologica2021.pdf).;;;;10
+70b;the majority of datasets;N/A;;;;12
+71;yes;"Based on the national policy, there are discussion forum for all purposes and all tasks of public sector external to the national portal. A specific area dedicated to the open data community (data providers) for discussion is available on the platform ""Rete Digitale"" managed by AgID https://www.retedigitale.gov.it. A more general discussion forum for all users, including sections dedicated to data and open data, is available here: https://forum.italia.it/";;;;10
+72;yes;"An appropriate tag is used to identify the use cases https://www.dati.gov.it/notizie?name=casi_d%27uso
+
+RESPONSE TO THE REVIEWER
+Through this tag the news or data story related to a use case can be specifically identified. The news or article can also concern news about webinar or other event where the use case is presented. In this case the link to the data involved is included.";;"What is your definition of a use case. Webinars and guidelines are tagged as ""use cases"" but they are not (necessarily) examples of open datasets being reused in projects /applications /services /etc.";;10
+73;yes;"Example: https://dati.gov.it/notizie/open-data-sugli-appalti-pubblici-line-il-nuovo-portale-anac
+
+RESPONSE TO THE REVIEWER
+https://dati.gov.it/notizie/webinar-agidformez-su-open-data-dinamici-da-sensori-e-iot
+
+As specified in the answer to the previous question, the specific tag to identify the use case is used for the news, but in the text of the news there is the link to the data involved.";;This is a news piece and not a dataset. This question is interested in whether reuse cases and the datasets that are used to create the reuse case are linked/referred on the portal (eg when viewing a dataset, a user can see what reuse cases the dataset has been used in).;;10
+74;yes;"The users can submit their own use cases through the ""Contact the Editorial Staff"" form [ https://dati.gov.it/scrivi-redazione ].
+
+RESPONSE TO THE REVIEWER
+To submit a use case, the user has to select the specific option (""Submit a use case of a dataset"").
+
+";;Is the possiblity to submit reuse cases through the general email address advertise/invited anywhere on the portal?;;10
+75;yes;The function is available by clicking on the related icon available for each distribution in the dataset page. E.g. for this dataset https://dati.gov.it/view-dataset/dataset?id=69a39d14-5a69-4bca-a0b9-c68e3cd301c4 the preview is this http://view.dati.gov.it:8000/?file=https%3A%2F%2Fdati.veneto.it%2FSpodCkanApi%2Fapi%2F2%2Frest%2Fdataset%2Fa769db19-c68c-4d24-bf1a-517a44b22dad.csv;;;;10
+76;No;"The open data portal is linked to the national catalogue for spatial data, that publishes both open data and data not yet available as open data. In case of open data, metadata is made available, through GeoDCAT-AP, also on the open data portal where the dataset is referenced by specific URI. This URI is resolved through the metadata page on the national catalogue for spatial data where a preview function, joined to query and search tools, is available also in accordance with the OGC standards. An integrated geoviewer is available at https://geodati.gov.it/geoportale/geoviewer/ . Please note that the page related to the metadata of spatial data in the national open data portal includes the URI of that dataset in the national catalogue for spatial data (having the structure https://geodati.gov.it/resource/id/{dataset-id}) that is resolved by the metadata page in that catalogue.
+As an example:
+RESPONSE TO THE REVIEWER
+https://dati.gov.it/view-dataset/dataset?id=regione-toscana-zone-di-protezione-art-14-legge-regionale-3-94 
+ Through that URI, that dataset can be visualised in the geoviewer available in the catalogue for spatial data.";;"Page gives an error ""The requested page was not found. // La pagina richiesta non è stata trovata.""";;0
+77;yes;The Guidelines for the implementation of the Legislative Decree no. 36/2006 (as amended by Legislative Decree no. 200/2021 transposing Directive (EU) 2019/1024), include a section dedicated to HVD. The document foresees a specific guidance for providing further specific requirements and recommendations  and states that the national metadata profiles (for both spatial and open data) will be updated in order to provide specific arrangements for denoting the HVD as such in their metadata, also following common indications given at European level (such as in the INSPIRE context), if any.  A specific working group was created to draft an operational guide for the implementation of the regulatory provisions of the High Value Dataset Regulation.;;;;20
+D3.2;;;;;;145
+78;yes;N/A;;;;10
+79;yes;Since April 2020 AgID has implemented Web analytics Italia (WAI), a national platform for traffice and usage statistics of websites and digital services of the Italian Public Administrations [ https://webanalytics.italia.it ]. This platform is based on Matomo software.;;;;15
+80a;yes;With the latest release of the national portal we improved the functionalities of the portal by using results of log analytics (for example: improvement of the search criteria, monthly trend of open data available, monthly trend of administrations that make open data available, and so on).;;;;10
+80b;yes;Further activities concern web analytics through the aforementioned platform https://webanalytics.italia.it and analysis of the official Twitter accounts linked to the national open data portal and the catalogue for spatial data continuously monitored by the communication office of the Agency for Digital Italy as well as by the portal team.;;;;10
+81a;a bit of everything, no clear dominant group;N/A;;;;10
+81b;yes, entirely;;;;;10
+82;see answer box;10000;;;;10
+83;see answer box;31,35;;;;N/A
+84;yes;The aforementioned platform https://webanalytics.italia.it also provides the analytics based on the keywords used for searching data and content on the portal.;;;;10
+85;yes;N/A;;;;10
+86;see answer box;"1= Culture
+2= Health
+3= Economy & Finance
+4= Regions and cities
+5= Environment";;;;10
+87;see answer box;"1=PA Digitale 2026 PNRR - Candidature Finanziate (Comuni)
+2=DGC emessi
+3=Influenza stagionale
+4=Elenco esercizi commercio in sede fissa
+5=Bilancio di genere";;;;10
+88;yes;"Periodic checks are made on the positioning of the national catalogue in the results on the search engines in order to carry out any necessary interventions to improve it or the way in which the different pages are previewed among the results of the search. Thanks to the recent evolution of the portal, advanced search functions have been released, (multiple search, search by keywords, search by administration, search by catalog etc ..). 
+In addition, the integration between the open data portal and the catalogue for spatial data has further improved the data discoverability.
+";;;;10
+89;yes;The search results (metadata) are returned in clear plain language, both humans (such as HTML page showing metadata) and machines readable, in order to enable users and machine to use information retrieved by the portal.;;;;10
+90a;yes;N/A;;;;10
+90b;See answer box;16 %;;;;N/A
+D3.3;;;;;;87
+91;the majority of public sector data providers;"Each data provider is required to communicate the endpoint of  its local catalogue and then that local catalogue is harvested by the national portal.
+In case a data provider doesn't manage an own local catalogue, the provider can create a dump file of metadata to be published in the national portal from a web accessible folder.
+";;;;12
+92a;yes, or all public sector data providers already publish data;N/A;;;;10
+92b;yes, or all public sector data providers already publish data;"A regular monitoring of the public open data catalogs is carried out and, depending on the circumstances, contacts are made with the contact points of the catalog to evaluate the methods of inclusion in the national catalog. The harvestng from web accessible folder (waf) is allowed in case of lack of the local catalog.
+Furthermore, a FAQ page has been published in order to provide operational support to solve some issues related to the publication process https://dati.gov.it/faq.
+";;;;10
+93a;yes;"The Regional portals available are:
+Regione Basilicata https://dati.regione.basilicata.it/   
+Regione Campania https://dati.regione.campania.it/ 
+Regione Friuli Venezia Giulia https://www.dati.friuliveneziagiulia.it/ 
+Regione Lombardia https://dati.lombardia.it/  
+Regione Marche http://goodpa.regione.marche.it  
+Regione Piemonte https://www.dati.piemonte.it
+Regione Lazio                  https://dati.lazio.it/ 
+Regione Puglia               https://dati.puglia.it/ 
+Regione Sardegna http://opendata.regione.sardegna.it/ 
+Regione Siciliana https://dati.regione.sicilia.it/ 
+Regione Toscana http://dati.toscana.it  
+Regione Umbria https://dati.regione.umbria.it/  
+Regione del Veneto https://dati.veneto.it/ 
+Regione Trentino Alto Adige https://dati.trentino.it/ 
+Regione Valle d'Aosta https://www.regione.vda.it/statistica/Opendata/Opendataregione/opend_categoria_i.asp  
+Regione Abruzzo http://opendata.regione.abruzzo.it/  
+Regione Emilia Romagna https://dati.emilia-romagna.it/ 
+
+Other local portals and other national thematic portals are listed at this page of the national open data portal: https://dati.gov.it/elenco-harvest-sources 
+";;;;N/A
+93b;yes;All catalogues listed above and their data sources  are discoverable in the national portal. The list and the URL to those catalogue and data sources (also including other national and local catalogues not listed above) are available at this page: https://dati.gov.it/elenco-harvest-sources . In addition the catalogues and the data sources can be set as search criteria (see https://dati.gov.it/view-dataset).;;;;10
+93c;all datasets;;;;;15
+94a;yes;"Some examples : 
+https://dati.gov.it/view-dataset?Cerca=&tags_set=dati+dinamici&tags=dati+dinamici&ordinamento=&sort=Invia
+
+
+";;;;10
+94b;1-10%;N/A;;;;N/A
+95;no;;;;;0
+96;yes;"In the AMMINISTRAZIONI section (available here https://www.dati.gov.it/amministrazioni) of the dati.gov.it portal, the list of Administrations and bodies that, directly or indirectly, feed the national catalogue by documenting their open data is available, thus providing a further option for searching or selecting the available datasets.
+Information on the number of administrations making open data available can be found in the dynamic monitoring section, i.e. https://www.dati.gov.it/Monitoraggio/MonitoraggioDinamico.
+";;;;10
+97;yes;"The national Portal includes a specific section dedicated to the PA databases not available as open data, see https://www.dati.gov.it/base-dati-informazioni.
+Furthermore, the national data portal is linked to the catalogue for spatial data (i.e. https://geodati.gov.it), that includes both open and not-open data. In case of open data, the related metadata are made also available in the dati.gov.it portal through GeoDCAT-AP. ";;;;10
+D3.4;;;;;;120
+98;yes;"The National Portal is an essential infrastructure in the contest of the open data policies, which is also expressly provided for in the legislation transposing the Open Data directive (i.e. the legislative decree 200/2021 amending the Legislative Decree no. 36/2006 [ https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig= ] (art. 9) The national portal is also relevant infrustructure in the context of the three Year Plan 2022 – 2024 [ https://www.agid.gov.it/sites/default/files/repository_files/piano_triennale_per_linformatica_nella_pa_2022-2024.pdf ]with specific actions linked to it. It is therefore institutionally guaranteed to be sustainable.";;;;30
+99;no;;;;;0
+100;yes;https://twitter.com/DatiGovIT - https://www.youtube.com/channel/UCHsqR2YhxeKgFT4rAKVcAAQ (there is also the Twitter account of the national catalogue for spatial data https://twitter.com/rndt_it );;;;10
+101;yes;"Webinar series, such as http://eventipa.formez.it/node/326281 or http://eventipa.formez.it/node/316786 - http://eventipa.formez.it/node/392675
+Articles, such as https://www.forumpa.it/open-government/open-data/datigovit-ecco-le-principali-novita-del-catalogo-nazionale-dei-dati-aperti/
+Events with policy makers, such as https://www.youtube.com/watch?v=zohFb5TkyIk";;;;15
+102;yes;Available in the repository dati.gov.it of the GitHub organization AgID, i.e. https://github.com/AgID/dati.gov.it;;;;10
+103;no;;;;;0
+104a;yes;"We have currently assumed a two year lifecycle to make updates to the portal. An important release was published in February 2021. Minor improvements are released regularly / when needed (such as the new monitoring pages and tools, the validator, …). In 2023 the dati.gov.it portal enriches the range of tool available on the national open data portal dati.gov.it by making available a SPARQL endpoint that is an additional way of accessing portal data in addition to web interface search and API.
+All metadata in dati.gov.it is now stored as RDF triples and can be queried using the SPARQL query language. Similar to the approach taken on the European portal data.europa.eu, queries can be performed via a graphical interface that includes a specific editor or via the machine-readable endpoint. The editor page also includes examples of queries that can be performed on the catalog using the SPARQL language. A brief summary of useful SPARQL clauses as well as other examples of queries can be found on the dedicated page of the European portal.
+The newly released functionality is part of a process of improvement of the national open data catalog conducted for a few years now that has led to the availability of tools both for the administrations called upon to feed the portal (such as the validator, the configurator for compiling metadata and creating the relevant RDF, the supporting FAQ page) and for users to improve the browsing and searching experience (improved usability, advanced search criteria, tabular data viewer, sending feedback on the individual dataset, monitoring pages). Such has already been prepared to be compliant with the regulation";;;;15
+104b;bi-annually;N/A;;;;N/A
+104c;yes;All feedback collected through the form present in the portal, the discussions in the dedicated platforms or in the meetings and webinars, are taken into account in the review process.;;;;10
+105a;yes;"https://avanzamentodigitale.italia.it/it/progetto/open-data  provide a monitoring in terms of the number of data sets published,number of public administrations that publishes open data, distribution across categories, real-time data, distribution across administrations type (national, regional, …). 
+https://dati.gov.it/Monitoraggio/MonitoraggioDinamico provides the measures about metadata quality and the results of the actions on open data defined in the Three-Year Plan for ICT in the PA.
+https://dati.gov.it/Monitoraggio/Statistiche provides the information and the annual statistics on the data published on the portal.
+";;;;15
+105b;yes;"Based on the monitoring results, specific and targeted activities are carried out by the portal team to support the individual data providers to improve the quality of its metadata published and consequently the general performance on the national portal. 
+Furthermore, based on those results, specific guidance is provided as FAQ in order to address specific (preferibly common) issues (see https://dati.gov.it/faq).
+Finally, the log of the harvesting process for each local/thematic catalogue is shared with the data provider in case corrections need.";;;;15
+D4;;;;;;549
+D4.1;;;;;;90
+106;yes;A generalized approach has been defined that provides for weekly harvesting of each federated catalogue (https://www.dati.gov.it/elenco-harvest-sources), except for specific requests for more frequent updating. Consequently, the update in the national portal is aligned with that one of the harvested local/thematic portal.;;;;20
+107;100 %;N/A;;;;20
+108;within one week;All types of data;;;;15
+109;approximately half of the datasets;N/A;;;;15
+110;yes;The Guidelines   for the implementation of the Legislative Decree no. 36/2006 (as amended by Legislative Decree no. 200/2021 transposing Directive (EU) 2019/1024),  available here https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf, include a section dedicated to HVD. The document foresees a specific guidance for providing further specific requirements and recommendations for the HVD providers in order to ensure HVD be conformant to the arrangements set out in the implementing Regulation (when it will enter into force). A specific working group was created to draft an operational guide for the implementation of the provisions of the High Value Dataset Regulation.;;;;20
+D4.2;;;;;;155
+111a;yes;"""Increasing the quality of metadata is a specific goal of the Three Year Plan for ICT in the PA 2022 - 2024 as well as the previous Plans, [https://www.agid.gov.it/sites/default/files/repository_files/piano_triennale_per_linformatica_nella_pa_2022-2024.pdf ]. Some actions and expected results in that Plan, indeed, concern the metadata quality:
+
+R.A.2.2a - Increase the number of datasets with quality metadata compliant with European and national reference standards
+
+To this end, the national portal makes available the list of data providers with the number of their datasets documented through metadata (see https://dati.gov.it/amministrazioni ) and the list of harvested catalogues with the number of datasets for each catalog (see https://dati.gov.it/elenco-harvest-source ). In addition, a validator has been implemented to allow data providers to know the quality of the metadata through compliance with mandatory and strongly recommended properties (such as contact point) in the DCAT-AP_IT profile. All this tools are used to discover any anomalies to be communicated to the competent administrations for a consequent improvement of metadata quality.
+The dynamic Monitoring page in the data portal https://dati.gov.it/Monitoraggio/MonitoraggioDinamico shows the measures about the quality of metadata published in the open data portal on the basis of a weekly frequency. To this purpose some indicators have been identified in relation to which targeted and joint interventions are carried out with the individual administrations to improve the information available on the portal.
+That page also shows the measures of the expected results and target of the Plan mentioned above.";;;;20
+111b;yes;The information on the metadata quality is available in the monitoring section of the data portal, also downloadable in csv format: https://dati.gov.it/Monitoraggio/MonitoraggioDinamico ;;;;15
+112;yes;"https://www.dati.gov.it/fare-open-data/Strumenti-per-gli-Open-Data
+https://www.dati.gov.it/contesto-normativo
+
+The Guidelines for the implementation of the Legislative Decree no. 36/2006, as amended by Legislative Decree no. 200 of 8 November 2021, transposing Directive (EU) 2019/1024,  https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf";;;;20
+113;not applicable;"In the past, a national licence IODL (Italian Open Data Licence) with the latest version 2.0  
+[ https://www.dati.gov.it/content/italian-open-data-license-v20 ] was developped 
+More recently, in line with the recommendations of the European Commission, we promote the use of CC-BY and, therefore, we have not made any further updates to the IODL.
+The Guidelines for the implementation of the Legislative Decree no. 36/2006, as amended by Legislative Decree no. 200 of 8 November 2021, transposing Directive (EU) 2019/1024, requires that the licences to be used are CC-BY 4.0, CC0 or any equivalent or less restrictive open licence https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf
+The Guidelines also recommend to not use own open licence (including that one developped in Italy and mentioned above).";;;;10
+114;not applicable;The Guidelines for the implementation of the Legislative Decree no. 36/2006, as amended by Legislative Decree no. 200 of 8 November 2021, transposing Directive (EU) 2019/1024 include the requirement that the licences to be used are CC-BY 4.0, CC0 or any equivalent or less restrictive open licence https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf;;;;10
+115;>90%;N/A;;;;20
+116;increased, or already >90%;N/A;;;;10
+117;5-10;N/A;;;;5
+118;yes;"https://www.dati.gov.it/fare-open-data/Strumenti-per-gli-Open-Data
+
+https://www.dati.gov.it/contesto-normativo
+
+The Guidelines for the implementation of the Legislative Decree no. 36/2006, as amended by Legislative Decree no. 200 of 8 November 2021, transposing Directive (EU) 2019/1024, https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf";;;;15
+119a;yes;"The machine-readable format is mandatory, as it is a specific requirement of the Digital Administration Code and the legislation for open data and reuse of public sector information. In addition, the above requirement is supported by the Guidelines  for the implementation of the Legislative Decree no. 36/2006, as amended by Legislative Decree no. 200 of 8 November 2021, transposing Directive (EU) 2019/1024, which provide important guidance and specific arrangements for making datasets available in a machine-readable format. 
+There are direct and regular contacts and support for data providers (mainly with the owner of the harvested catalogues) by a human resource dedicated for publishing data conformant to above mentioned laws and technical rules about the format to be open and machine readable.
+In addition, further support is given to data providers for the publication through APIs (the machine-readable format is a condition) in the context of the activities for the implementation of the National Digital Data Platform esablished by the art. 50-ter of the Digital Administration Code.
+Finally, we provide specific information about such formats in every events dedicated to data providers (webinars, training events, etc.).";;;;15
+119b;yes;"There are direct and regular contacts and support for data providers (mainly with the owner of the harvested catalogues) by a human resource dedicated for publishing high-quality metadata, as this is included, with related expected results and actions, as an objective in the Three-Year Plan for ICT in Public Administration, with specific target set and specific tasks for public administrations.
+The measure of the quality of the metadata published in the portal is weekly published in the monitoring dedicated page to show what and how many metadata elements are still not conformant to standards.
+Furthermore, a validator is available on the portal in order to support the data providers to check the conformity of their metadata to the national metadata profile DCAT-AP_IT.
+Finally, in case of error raised in the harvesting process for each local/thematic catalogue, the error log file is shared with the data provider in order to enable the alignment to the standards.";;;;15
+D4.3;;;;;;169
+120;yes;"Our documentation about the national profile DCAT-AP_IT, with also link to EU documentation: https://dati.gov.it/content/dcat-ap-it-v10-profilo-italiano-dcat-ap-0 and https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/index.html 
+
+Link to national Guidelines and other EU and national resources: https://dati.gov.it/fare-open-data/Strumenti-per-gli-Open-Data";;;;25
+121;71-90%;;;;;20
+122a;71-90%;;;;;17
+122b;71-90%;;;;;17
+123;yes;"The decision to define a national profile (for Italy DCAT-AP_IT)) is mainly due to the needs related to the national legal system. The main extensions introduced concern:
+-	The additional mandatory property rightsholder;
+-	The additional optional properties subtheme and creator;
+-	The class Distribution is mandatory;
+-	Changes in the cardinality of several properties (from optional or recommended to mandatory), such as frequency, theme, modified.
+
+Our national extension is documented together with others in DCAT-AP implementation guidelines WG  https://docs.google.com/spreadsheets/d/1SPfA6fA9im_6EtxLDBtCMyBpt1q1aXl5ng4epLgSyJM/edit#gid=0
+
+The national profile is available here:
+https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/index.html";;;;5
+124a;yes;N/A;;;;25
+124b;see answer box;".- Controlled vocabularies not used;
+.- not appropriate configuration of the technologies used; 
+.- mandatory properties missing";;;;15
+125a;>90%;N/A;;;;20
+125b;>90%;N/A;;;;25
+D4.4;;;;;;135
+126;yes;"As reported in the National Guidelines, the use of the 5 -Star Open Data model is required for the representation / distribution of the data (see
+https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf ).
+In accordance with the latest update of legislation regarding open data and reuse of public sector information, the FAIR principles are mandatory for research data and recommended for all other data types (see
+https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf)";;;;15
+127;yes;"The use of the 5 -Star Open Data model is promoted through the national Guidelines (see
+https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf ).
+Furthermore, AGID promotes the implementation and the use of the standard ISO 25012 on data quality, ISO 25024 on data quality measurement, and UNI-TS 11725 """"Guidelines for measuring data quality”. A specific section is dedicated in the national Guidelines (https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf).
+In addition, AGID has adopted a specific act aimed at improving data quality, see https://www.agid.gov.it/sites/default/files/repository_files/circolari/dt_cs_n.68_-_2013dig_-regole_tecniche_basi_dati_critiche_art_2bis_dl_179-2012_sito.pdf 
+and the measurement of the data quality, see https://www.agid.gov.it/sites/default/files/repository_files/documenti_indirizzo/iso_25024_agid_misurazione_della_qualita_dei_dati.pdf.";;;;30
+128a;>90%;N/A;;;;20
+128b;71-90%;N/A;;;;20
+128c;>90%;N/A;;;;25
+128d;31-50%;N/A;;;;10
+128e;<10%;N/A;;;;0
+129;yes;"The following monitoring sections are available:
+https://avanzamentodigitale.italia.it/it/progetto/open-data 
+https://dati.gov.it/Monitoraggio/Statistiche
+https://dati.gov.it/Monitoraggio/MonitoraggioDinamico";;;;15

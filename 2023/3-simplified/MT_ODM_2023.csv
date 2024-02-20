@@ -1,0 +1,228 @@
+ID;Answer;Justification;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+TotalScore;;;;;Total Score:;1322
+UnsureScore;;;;;Unsure Score:;0
+PreliminaryScore;;;;;"Preliminary Score: 
+(Total - Unsure)   ";1322
+D0.1;;;;;;
+R1;N/A;Malta;;;;N/A
+R2;N/A;Malta Information Technology Agency (MITA);;;;N/A
+R3;N/A;xxx;;;;N/A
+R4;N/A;xxx;;;;N/A
+R5;N/A;xxx;;;;N/A
+R6;N/A;1;;;;N/A
+R7;N/A;0,5;;;;N/A
+R8;<200.000 EUR;N/A;;;;N/A
+D0.2;;;;;;
+R9;Yes;It is the official source.;;;;N/A
+R10;Yes;;;;;N/A
+D1;;;;;;490
+D1.1;;;;;;225
+1;Other;Malta has a legal instrument, Chapter 546 together with provisions for subsidiary laws for each of the Base Registers. The Law is not specific to open data but data in general.;"1) Please provide a URL to this document
+2) Please add to the description if there are any aspects of the law that does mention open data explicitly.";;;30
+2;yes;A holistic data strategy was published as draft for national discussion. It has now been revisted to focus on the public administration.;"Please (1) provide a URL and (2) describe the main highlights. If the strategy is still in consultation, please refer to either the intermediate outcomes of the consultation or information about the current (""old"") strategy that is still in place";;;30
+3;Select answer for Q3;;Please briefly describe the main changes;;;0
+4;Not Applicable;Strategy is at a National level since the regional scope is limited in Malta mainly due to size.;;;;10
+5;yes;Yes, are measures in place to standardise and re-use aspects such as discovery, meta data management and tools to facilitate human readability.;;;;25
+6a;yes;The strategy includes a digital first apporach with the functionality managed by data owners through APIs ;;;;15
+6b;Yes;The strategy outlines 3 different types of data person animate, geospacial and organisational.;In addition to outlining geospatial data, are there any specific measure that incentivise the publication of geospatial data?;;;15
+6c;no;No, although data altruism is encouraged it is not incentivised.;Please specify how data altruism is encouraged. We can then consider scoring the answer based on the description.;;;0
+6d;yes;All data is to be registered on the National Data Portal (Register of registers)which is subsequently harvested by earo.europa.eu;;;;10
+7;yes;The strategy is for data to be Open by default. Once Registered owners are required to link to this source data.;;;;15
+8;yes;The strategy is for data to be Open by default. One of the measures is also to study the possibility of allowing extrenal organisations to use certain 'closed' data.;;;;15
+9a;yes;Register the register and dataset in the NDP (Register of registers);;;;15
+9b;yes;All data is to be regitered.;;;;10
+10a;Select answer for Q10a;N/A;Please provide values between 1 and 5 (previously percentages were entered);;;0
+10b;yes, other measures;Stakeholders who are currently using simillar closed data datasets;;;;5
+10c;Yes;Each theme contact point is identifying the particlar dataset(s). A change to include the HVD categorisation in the meta data is being considered.;;;;15
+11a;Yes;N/A;"Kindly elaborate on the actions mentioned below (eg what is the content/meaning of ""digital first approach"")";;;15
+11a.1;Yes;Adopt paperless processes;;;0;
+11a.2;Yes;Digital first approach;;;0;
+11a.3;Yes;Digital access to services;;;0;
+11a.4;No;;;;0;
+11a.5;No;;;;0;
+11a.6;No;;;;0;
+11b;Yes;We look at data holistically with the 'option' given to the data owner to distinguish the dataset as open or closed.;;;;N/A
+D1.2;;;;;;170
+12;Yes;The NDP facilitates the discovery of all types of data help within the Public Sector and provides contact points to communicate with the data owners;;;;30
+13;Hybrid;Data repositories are identified through legal instruments but data owners can register their registers/datasets;;;;N/A
+14;Not Applicable;Due to Malta's size regional governance is limited.;;;;20
+15;Not Applicable;Due to Malta's size regional governance is limited.;;;;20
+16;Yes;The Data Governance Council is included in the PSI legal instrument and provisions are in place to handle data requests.;Please add a link to the governance structure and operating model;;;20
+17a;No;;;;;0
+17b;Yes;These responsabilities are performed by the same team.;;;;20
+18;Yes;A proposal is in place for current Data Protection Officers to take over additional responsabilities ;Is there an update on this proposal or a URL to this statement? Are there officials roles in the civil service that relate to open data?;;;20
+19;Yes;The team under the supervision of the Data Governance Coucil communicates with Ministry CIOs or his deligate.;Is supporting evidence available that record these exchanges such as meeting agendas, news piences, etc;;;20
+20;Yes;The team's parent organisation has an MOU with the national Univertsity for such measures.;Please elaborate further on what these exchanges involve. Are  supporting documents avaialble (eg news pieces).;;;20
+D1.3;;;;;;95
+21;No;The Register of Registers contains links to the digital source and also the publisher of the specific dataset eminating from the register.;Are these plans (workflow) available online?;;;0
+22a;Yes;We monitor and liaise with register owners in maintaining the register or registers.;;;;15
+22b;Neutral;I think since last year's election, human resource changes need some further time to mature in their positions.;;;;N/A
+23a;Yes;This information is also monitored and maintained in the NDP as part of the register of registers. ;;;;15
+23b;Approximately half of the datasets;N/A;;;;10
+23c;No change;N/A;;;;5
+24a;N/A;Some data is purchased from third party organisations and might pose issues to publish, mostly of legal nature.;;;;N/A
+24b;Yes;Provisions in the open tendering process of acquiring such data are being stipulated when possible.;;;;10
+25a;Yes;Eg the Planning Agency publishes various geospacial datasets for various data owners. As a team we also provide assistance to data owners.;;;;15
+25b;Yes;As per our strategy we encourage data owners to publish their data through APIs. As an organisation we provide various building blocks to assist such as Identity Managemnt and also Foundation Data Layer such as 'person' information.;;;;10
+25c;Yes;Since the Planning Authority in Malta is the owner of the Base Map and has suffiecient expertise it publishes various datesets on behalf of the owners.;;;;10
+25d;No;;;;;0
+26a;No;;;;;0
+26b;No;;;;;0
+27a;Yes, 1-2;;;;;5
+27b;National public bodies;;Please provide a few examples;;;N/A
+D2;;;;;;65
+D2.1;;;;;;65
+28;Yes;We have a reuse of documents definition since we consider a holistic data approach including personal information;Please provide the definition of open data reuse;;;10
+29;Yes, but the focus is limited;;Please mention which activities/ efforts can be observed at the level of public bodies´ re-use of data;;;5
+30;Yes;The NDP monitors the use of APIs requests from the portal.;;;;20
+31;I don't know;;;;;0
+32;Yes;We will remain monitoring API usage for the HVD categorisation.;;;;15
+33;Select answer for Q33;One of the key objectives in the strategy is Intelligence;"Please clarify. What does it mean that a key objective is ""intelligence""? The question is interested in how you define impact of open data.";;;0
+34;No;;;;;0
+35;I don't know;;;;;0
+36;Yes;with academia, University of Malta;Please provide examples of such projects and collaborations (if possible, supported by URLs);;;15
+D2.2;;;;;;0
+37;Select answer for Q37;N/A;Please provide a brief description;;;0
+37.1;Yes;;;;0;
+37.2;No;;;;0;
+37.3;No;;;;;
+37.4;No;;;;0;
+37.5;No;;;;0;
+38;Select answer for Q38;N/A;Please provide a brief description;;;0
+38.1;No;;;;0;
+38.2;Yes;;;;0;
+38.3;No;;;;0;
+39a;I don't know;;;;;0
+39b;I don't know;;;;;0
+D2.3;;;;;;0
+D2.3a;;;;;;0
+40;I don't know;;;;;0
+41;I don't know;;;;;0
+42;Select answer for Q42;Yes, consumers see and report data issues and thus data owners make more effort to maintain the data.;This question is interested in reuse cases - examples of applications, projects, initatives that put open data to use and create impact on a topic (in this case, in the area of transparency and accountability of public services). The examples can come from government or civil socrity (businesses, NGOs, etc). Do you have such examples?;;;0
+43;Select answer for Q43;Yes, for example the Data Strategy document used insight from the usage of the NDP.;This question is interested in reuse cases - examples of applications, projects, initatives that put open data to use and create impact on a topic (in this case, in the policy-making process). The examples can come from government or civil socrity (businesses, NGOs, etc). Do you have such examples?;;;0
+44;Select answer for Q44;As per previous question the NDP usage helped us in determinning pain points in the Data Strategy;This question is interested in reuse cases - examples of applications, projects, initatives that put open data to use and create impact on a topic (in this case, in the decision-making process for government). The examples can come from government or civil socrity (businesses, NGOs, etc). Do you have such examples?;;;0
+D2.3b;;;;;;0
+45;I don't know;;;;;0
+46;I don't know;;;;;0
+47;I don't know;;;;;0
+48;Select answer for Q48;;Please answer this question and provide an explanation;;x;0
+49;Select answer for Q49;Yes I think when students do reasearch they are exposed to the importance of interoperability acros government.;Please provide specific examples of reuse cases;;;0
+D2.3c;;;;;;0
+50;Select answer for Q50;The ERA publishes temperature, sea and air quality measures that newspapers occassionally report on.;This question is interested in studies/data on the impact created by open data relating to environmental challenges (eg results of impact assessements). Examples of reuse cases are suitable for Q51-Q54.;;;0
+51;Select answer for Q51;Yes Air and Sea quality outliers are usually reported by the media raising awareness;Please provide links to support these reuse cases;;;0
+52;Select answer for Q52;Yes Air and Sea quality outliers are usually reported by the media raising awareness;Please provide links to support these reuse cases;;;0
+53;I don't know;;;;;0
+54;I don't know;;;;;0
+D2.3d;;;;;;0
+55;I don't know;;;;;0
+56;I don't know;;;;;0
+57;I don't know;;;;;0
+58;I don't know;;;;;0
+D3;;;;;;330
+D3.1;;;;;;100
+59;Yes;open.data.gov.mt;;;;20
+60;Yes;N/A;;;;10
+61;Yes;N/A;;;;10
+62a;No;N/A;;;;0
+62b;Yes;N/A;;;;10
+63;No;;;;;0
+64;Select answer for Q64;data.gov.mt/swagger/swagger_Countries.json;The current link does not seem to direct to human-readable documentation.;;;0
+65;Yes;admin.data.gov.mt allow users to maintain their Registers and their meta data, including links to their own APIs;;;;10
+66a;Yes;https://admin.data.gov.mt/contactus.html;;;;10
+66b;Yes;https://admin.data.gov.mt/contactus.html;The contact form has an option to link to a dataset;;;10
+66c;No;;;;;0
+67;Select answer for Q67;https://open.data.gov.mt/dashboard.html (Latest News);I do not see news pieces at this URL;;;0
+68;Select answer for Q68;https://admin.data.gov.mt/contactus.html;This URL directs to the contact form. Does the website have the functionality to receive notifications when new data sets are published?;;;0
+69a;Yes;https://admin.data.gov.mt/contactus.html;The contact form has an option to classify the message as an official request for dataset;;;10
+69b;Less frequently than monthly;N/A;;;;N/A
+69c;No;;;;;0
+70a;Yes;Dataset requests are sent to the register owner whilst the portal administrators are kept in copy to facilitate communication.;;;;10
+70b;None of the datasets;N/A;Please check this answer. In 2022, a different answer was selected.;;;0
+71;No;;;;;0
+72;No;;;;;0
+73;No;;;;;0
+74;No;;;;;0
+75;Select answer for Q75;;Missing justification. Please provide a URL to an example.;;;0
+76;No;;;;;0
+77;Select answer for Q77;The Planning Authority is the owner of the Base Map and publishes the Inspire datasets on behalf of the data owners;Are you also undertaking activities to promote high-value datasets, in addition to the supporting of publication that you describe?;;;0
+D3.2;;;;;;120
+78;Yes;N/A;;;;10
+79;Yes;Google analytics;;;;15
+80a;Yes;Usage is monitored on an ad-hoc basis and insight is used to improve the portal;Pleas highlight some insights you gained from your last review session of user needs;;;10
+80b;No;;;;;0
+81a;Mostly public sector;N/A;;;;10
+81b;Yes, but only partially;We would like to see more usage from third party reusers;;;;5
+82;See answer box;300;;;;10
+83;I don't know;;;;;N/A
+84;Yes;;Please briefly describe;;;10
+85;Yes;N/A;;;;10
+86;See answer box;Register of registers, Person register, Organisations Register;Please provide an answer (also relates to Q85);;;10
+87;See answer box;Register of Registers metadata;Please list the 5 most frequently consulted pages;;;10
+88;Yes;For searches we strip things such as articles;;;;10
+89;Yes;;;;;10
+90a;No;N/A;"The answers in Q30 (""The NDP monitors the use of APIs requests from the portal"") and Q32 (""We will remain monitoring API usage for the HVD categorisation."") mention API analytics. Please clarify.";;;0
+90b;I don't know;;;;;N/A
+D3.3;;;;;;55
+91;Few public sector data providers;Low awareness;;;;0
+92a;Yes, or all public sector data providers already publish data;N/A;;;;10
+92b;Yes, or all public sector data providers already publish data;The Data Governance Council asked Ministries to indicate if the data contained personal information and if not why is it not published as open;;;;10
+93a;No;;;;;N/A
+93b;Not Applicable;In Malta due to size the scope of the local governmnet is rather limited.;;;;10
+93c;Not Applicable;As per previous entry;;;;15
+94a;Select answer for Q94a;;Please provide URLs;;;0
+94b;>30%;N/A;;;;N/A
+95;No;;;;;0
+96;Select answer for Q96;Yes one attribute of the organisations is a description field.;Please list the most important data providers;;;0
+97;Yes;The Register of registers from which datasets are extracted has a flag that denotes if the data is open or not. All Registers are visible.;;;;10
+D3.4;;;;;;55
+98;Select answer for Q98;The portal is in effect a directory of all government hwld data which in our opinion is the first step to govern data.;Please comment further on how you ensure the sustainability of the national portal;;;0
+99;No;;;;;0
+100;No;;;;;0
+101;Select answer for Q101;;Please provide an answer;;;0
+102;No;;;;;0
+103;No;;;;;0
+104a;Yes;Feedback is reviewed on a yearly basis and used to prioritise enhancements;;;;15
+104b;Annually;N/A;;;;N/A
+104c;Yes;User feedback in taken in consideration when prioritising new updates;If possible, please elaborate further on the review process;;;10
+105a;Yes;The portal includes a dashboard with items such as Publishers and Datasets;Please provide a URL to this feature;;;15
+105b;Yes;The dashboard information is used to determine open data availability progress;;;;15
+D4;;;;;;437
+D4.1;;;;;;110
+106;Yes;Data owners are encouraged through the Data Government Council to maintain their meta data published on the portal.;;;;20
+107;<30%;N/A;;;;0
+108;Within one day;Usually the source API is updated by the data owner and subsequently the meta data is updated on the portal;;;;40
+109;All datasets;N/A;;;;30
+110;Yes;The majority of HVDs are already made compliant for publishing e,g, as per Inspire, etc. Our major challenge is that some data included manual intervention to compile in a compliant fashion while the real time requirements in some Annexes means it needs to be automated. Data owners\publishers are evaluating weather the API is built ontop of  the existing manual intervention data layer or at source as encouraged by our National Data Strategy obviously keeping in mind the deadline.;;;;20
+D4.2;;;;;;135
+111a;Yes;We check for the last updated attribute and non populated attributes;Please elaborate further on your process to monitor metadata quality;;;20
+111b;Select answer for Q111b;https://open.data.gov.mt/metaData.html?field=register&id=32309 (quality level indicator);"As I understand, data sets have an attribute ""Quality Level Indicator"". In addition, do you have a consolidated dataset of the quality level of data across the national portal?";;;0
+112;Yes;By default Open Data is published as CC4. eg. https://open.data.gov.mt/search_all.html?id=18922&key=Subordinates;Do you have a guideline document that explains this to data providers?;;;20
+113;Yes;We are eveluating licencing for 2 areas. One for open datasets that include persons such as 'Warant Holders' whilst the other is for data that is pruchased from third parties. For this reason we are currently not classiying this data as 'Open Data' although it is published on the owner's website;;;;0
+114;Yes, CC licences;;;;;10
+115;>90%;N/A;;;;20
+116;Increased, or already >90%;N/A;;;;10
+117;1-4;N/A;;;;10
+118;Yes;The Register of Registers are monitored for completeness. Datasets by default inherit the Register'd attributes from which they are extracted. --> Yes we are building standardised building blocks such as the Register of Register module, authentication module, authorisation module and various administrative registers;Please provide a URL to the guidelines/tools that improve data quality.;;;15
+119a;Yes;One of the attributes is a link to the API and only if this is present their data can be made visible on the portal.;;;;15
+119b;Yes;Meta data is monitored for completeness and last updated;;;;15
+D4.3;;;;;;102
+120;Select answer for Q120;When we liaise with data providers we incentivise alignment to international/EU standards as per National Data Strategy.;Please provide examples of this documentation;;;0
+121;31-50%;Our first priority is to encourage owners to publish their data as Open Data irespec=tive of its interoperability;;;;10
+122a;31-50%;As per previous response;;;;11
+122b;>90%;;;;;20
+123;No;;;;;0
+124a;Yes;N/A;;;;25
+124b;See answer box;Data legacy issues, insufficient motivation to issue register data in interoperable formats on both data provider and consumer sides.;;;;15
+125a;10-30%;N/A;;;;8
+125b;31-50%;N/A;;;;13
+D4.4;;;;;;90
+126;Yes;Both are included in the National Data Strategy;;;;15
+127;Yes;5 Star Open data categorisation is one of the attributes in the Register of Registers --> Yes we are building standardised building blocks such as the Register of Register module, authentication module, authorisation module and various administrative registers;"Please describe the activities you undertake to help data providers follow your quality model. The 2022 answer was:
+
+""When prospective Publishers approach us we usually discuss the metadata attributes.""";;;30
+128a;10-30%;N/A;;;;5
+128b;10-30%;N/A;;;;5
+128c;10-30%;N/A;;;;5
+128d;51-70%;N/A;;;;15
+128e;51-70%;N/A;;;;15
+129;Select answer for Q129;This is one of the atributes we monitor on the Register of registers;Please describe how you monitor improvements in the quality of open data deployment.;;;0

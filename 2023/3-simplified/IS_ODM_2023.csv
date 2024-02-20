@@ -1,0 +1,269 @@
+ID;Answer;Justification;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+TotalScore;;;;;Total Score:;1466
+UnsureScore;;;;;Unsure Score:;0
+PreliminaryScore;;;;;"Preliminary Score: 
+(Total - Unsure)   ";1466
+D0.1;;;;;;
+R1;N/A;Iceland;;;;N/A
+R2;N/A;Higher Education, science and Innovation;;;;N/A
+R3;N/A;xxx;;;;N/A
+R4;N/A;xxx;;;;N/A
+R5;N/A;xxx;;;;N/A
+R6;N/A;1;;;;N/A
+R7;N/A;1;;;;N/A
+R8;<200.000 EUR;N/A;;;;N/A
+D0.2;;;;;;
+R9;yes;Abundance of datasets available;;;;N/A
+R10;no;Iceland is still developing its open data portal to become more modern.;;;;N/A
+D1;;;;;;457
+D1.1;;;;;;225
+1;other;"Entry into force of the EEA Joint Committee Decision is pending incorporating the Open Data Directive into the EEA agreement. Work has begun in the Ministry of Higher Education, Science and Innovation on a draft legislation to be introduced to parliament in the autumn. Iceland previously implemented the PSI, see https://www.althingi.is/lagas/153b/2018045.html.
+There is not a specific national open data policy but it it is addressed in the following policies: 
+-The policy regarding digital public services (digital policy) where open data maturity is a metric, see https://island.is/en/o/digital-iceland/digital-strategy
+-The information policy of the government, which states that information and data sets should be digitally available for use and processing, see https://www.stjornarradid.is/verkefni/log-og-rettur/upplysingalog/upplysingastefna-stjornvalda/ 
+-The regulation on the publication of information at the initiative of the government, no 464/2018, see https://island.is/reglugerdir/nr/0464-2018
+-The Agreement on the Platform for the Coalition Government that work will continue on co-ordinating the processing, storage and presentation of public data, and on facilitating public access to data, see https://www.stjornarradid.is/rikisstjorn/stjornarsattmali/.";;;;30
+2;not applicable;"There is not a specific strategy for open data. 
+-According to regulation no 464/2018 public sector bodies must work systematically to make databases and files readily available electronically. To this end, each ministry shall make a timed plan for the disclosure of information on its own initiative and that of public sector bodies under its authority. The plan shall be published on the ministry's website. Public sector bodies are encouraged to publish their data on the website www.opingogn.is.
+-Iceland's digital strategy includes action on open data, including metrics for the score on the European Data Maturity index for open data, see https://island.is/en/o/digital-iceland/digital-strategy.  
+-Work has begun on an open science strategy in the Ministry of Higher Education, Science and Innovation and a Data Strategy is planned by the Ministry of Finance and Economic Affairs.
+ - Data Security Classification has already been published, https://www.stjornarradid.is/gogn/rit-og-skyrslur/stakt-rit/2023/05/19/Oryggisflokkar-gagna-islenska-rikisins-utgafa-1.2";;;;30
+3;yes;"In October 2022 a data security classification was published, see https://island.is/frett/oeryggisflokkun-gagna-baetir-upplysingaoeryggi. This included a more detailed definition on what data is open data. The primary emphasis of the policy was that data should be open unless there are specific reasons for it not to be. The data security classification serves as a basis for further work on open data strategy. Version 1.2 was published in May 2023.
+The information policy was published in December 2022, see https://www.stjornarradid.is/verkefni/log-og-rettur/upplysingalog/upplysingastefna-stjornvalda/
+The Digital policy was published in July 2021, see https://island.is/s/stafraent-island/stafraen-stefna";;;;10
+4;yes;Reykjavik has adopted an Information Strategy and an Information Policy Action Plan, see https://reykjavik.is/en/policies. The policy addresses open data sets should be in a standard form so they can be used to create new value, access is generally free and reproduction and distribution is allowed. The action plan states that Reykjavik should have a single point access for open data.;;;;10
+5;yes;According to regulation no 464/2018 public sector bodies must work systematically to make databases and files readily available elctronically. To this end, each ministry shall make a timed plan for the disclosure of information on its own initiative and that of public sector bodies under its authority. The plan shall be published on the ministry's website. Public sector bodies are encouraged to publish their data on the website www.opingogn.is.;;;;25
+6a;yes;"Iceland is in the process of implementing a secure national data exchange infrastructure, Straumurinn, which relies on X-Road technology. All government agencies, municipalities and privately owned companies can connect to the X-Road for data exchange, see https://island.is/en/x-road.
+Response to reviewer: The X-Road makes it easier for government agencies and municipalities to share dynamic/real-time data. Iceland is in the process of implementing the Open Data Directive, and a bill will most likely be set forth in the parliament in October. ";;Please clarify the relation between the information provided and real-time data;;15
+6b;yes;There is a specific legislation for geo-spatial data, see https://www.althingi.is/lagas/153b/2011044.html. The implementation regulation (EU) 2023/138 has not yet been implemented into EEA Agreement, but it is an act undir scrutiny by the EEA EFTA states. However preparation has already begun with relevant institutions.;;;;15
+6c;no;;;;;0
+6d;no;;;;;0
+7;yes;"The Digital Policy states that public sector data should be accessible and exploitable and that as a general rule, data need only be recorded once in communication with the government and data travels between institutions instead of people, see https://island.is/en/o/digital-iceland/digital-strategy.
+With the implementation of Straumurinn, public sector can exhange data in a more efficient way than before.";;;;15
+8;yes;A national data portal is operated to enable the private sector to reuse open data. The government has had datathon initiatives to increase awareness of the existing datasets, see https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2020/08/12/Gagnathon-fyrir-umhverfid-hefst-i-dag-/;;;;15
+9a;no;;;;;0
+9b;no;;;;;0
+10a;Not Applicable;N/A;;;;20
+10b;not applicable;;;;;10
+10c;not applicable;;;;;15
+11a;not applicable;N/A;;;;15
+11a.1;N/A;;;;0;
+11a.2;N/A;;;;0;
+11a.3;N/A;;;;0;
+11a.4;N/A;;;;0;
+11a.5;N/A;;;;0;
+11a.6;N/A;;;;0;
+11b;Not Applicable;;;;;N/A
+D1.2;;;;;;115
+12;No;;;;;0
+13;Hybrid;We have a decentralised public sector but the Ministry of Finance and Ministry of Higher Education, Science and Innovation are responsible for open data. Currently the stewardship is at ministerial level but execution at decentralised level. Our digital agency within ministry of finance is responsible for the data portal and works with institutions to make the data available. ;;;;N/A
+14;Yes, some initiatives;Digital Iceland offers technical assistance to the  municipalities regarding open data initiatives.;;;;10
+15;Few public bodies;;;;;5
+16;Yes;https://island.is/en/o/digital-iceland/our-team;;;;20
+17a;No;;;;;0
+17b;Yes;"There are informal meetings.
+Response to reviever: The answer from 2022 is partially relevant. Open Data Policies moved from the Ministry of Finance to the Ministry of Higher Education, Science and Innovation in spring 2023. Both ministries are in the same building. The current open data policies team has had meetings with the team maintining the national portal, as well as communicating with e-mails. There is a project underway to relaunch the portal when Open Data Directive is implemented into Icelandic law";;Is this answer from 2022 still relevant: They are working within the same team (Digital Iceland) and work closely with the specialists within the ministries responsible for the strategy https://www.government.is/ministries/ministry-of-finance-and-economic-affairs/organizational-chart/;;20
+18;Yes;"Digital Iceland holds various seminars during the year, see https://island.is/en/o/digital-iceland/conferences.
+Response to reviewer: There is currently one person within the Ministry of Higher Eductiona, Science and Innovation dedicated to open data (as well as other data regulations) and is tasked with preparing implementation of EU regulations. There is also an open data team, with other civil cervants who take part in the work.";;Please clarify whether the governance model includes roles for civil servants who are responsible for open data. How does this work?;;20
+19;Yes;"Digital Iceland holds various seminars during the year, see https://island.is/en/o/digital-iceland/conferences
+Response to reviewer: Yes. This year there has been a workshop with government bodies that hold HVDs that took place 9 June. There have also been both individual and joint meetings with open data officers of government bodies and there are planned meetings with open data officers of municipalities.";;Please clarify whether these are for civil servants (referring to the governance model in Q18) or only for open data reusers (Q20). Please distinguish Q19 from Q20.;;20
+20;Yes;Digital Iceland holds various seminars during the year, see https://island.is/en/o/digital-iceland/conferences;;;;20
+D1.3;;;;;;117
+21;No;;;;;0
+22a;Yes;"Yes through a yearly publication; https://www.stjornarradid.is/verkefni/efnahagsmal-og-opinber-fjarmal/opinber-fjarmal/arsskyrslur-radherra/";;;;15
+22b;Neutral;The publication plan  is for each ministry. There is not a single publication plan .;;;;N/A
+23a;Yes;Yes, the party being charged can appeal the decision to the Complaints committee on Information Matters , according to the Information Act no 140/2012 and the Administrative Act no 37/1993. Furthermore, the party can lodge a complaint to the Althingi Ombudsman or take the matter before Icelandic courts.;;;;15
+23b;The majority of datasets;N/A;;;;12
+23c;No change;N/A;;;;5
+24a;N/A;1) Open data calls for collaboration between different ministries and public bodies 2) Clearer governance structure 3) More focused on concrete actions/measures;;;;N/A
+24b;Yes;The PSI legislation now fall under the Ministry of Higher Education, Science and Innovation since February 2023 which will take the lead in matters regarding Open Data. There is currently work being done on a clearer governance structure and an action plan in connection to the implementation of  the Open Data Directive and HVD.;;;;10
+25a;Yes;"Digital Iceland is helping institutions regarding publication of data and the institution responsible for geo-spatial data is very active in this respect. Institutions like Land Survey Iceland is highly active on the subject.
+Response to reviewer: There is for example a yearly meeting with government bodies that are responsible for geo-spatial data with participation from the open data team. ";;Please describe how you are helping these institutions.;;15
+25b;Yes;"Digital Iceland is helping institutions regarding publication of data and the institution responsible for geo-spatial data is very active in this respect. See example on practical guidelines for institutions around x-road https://docs.devland.is/technical-overview/x-road. The Land Survey insitution goes on visits with their team to help with this matter. 
+Response to reviewer: The assistance is generally informal and on an ad hoc basis on issues such as governance and tech specifics. The publishing of real-time/dynamic data is very sector based.";;Please clarify how these activities relate to real-time data. Also please give examples of such activities.;;10
+25c;Yes;"Landmælingar Íslands assists data holders in the publication process for the sectoral data portal for geo-spatial data, see https://gatt.lmi.is/geonetwork/srv/eng/catalog.search#/home
+Response to reviewer: Assistance to geo-spatial data holders has been mostly in the hands of Landmælingar Íslands however there is an active dialoge between the institution and the open data team on publication.";;Please describe how you are helping these institutions.;;10
+25d;No;"The consultation portal, https://samradsgatt.island.is/, is a good example. All laws and regulations are published here and citizens along with legal persons can share their views on the portal. All views require a log-in with eIDs.
+Response to reviewer: The current feedback process from users is through e-mail, either through the data portal or to the government body that is the owner of the data. The intention is to make the input process more transparent in the relaunch of the data portal. ";;Input from users is a good example for some of the question in the portal dimension. This question is interested in publication of citizen-generated data.;;0
+26a;yes;Those working with data, have opportunities to systematically expand their knowledge and expertise by attending seminars, workshops, courses, etc. These activities may be financed either through individual work places and/or educational funds via their unions.;;;;15
+26b;no;;;;;0
+27a;Yes, 3-5;"Digital Iceland holds conferences, see https://island.is/en/o/digital-iceland/conferences
+Statistics Iceland holds annually a competition for 15-18 year olds to promote open data literacy, see https://www.greindubetur.is/verkefnin & https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2020/08/12/Gagnathon-fyrir-umhverfid-hefst-i-dag-/";;;;10
+27b;A mix of the above;Ministry of Finance, Reykjavik municipality, Iceland Innovation week, Databeers Reykjavik and University of Iceland;;;;N/A
+D2;;;;;;270
+D2.1;;;;;;90
+28;yes;There is a definition of the reuse of public information in Article 1 (2) of legislation implementing the PSI, see https://www.althingi.is/lagas/153b/2018045.html. It states that: Reuse of public information refers to the fact that a private party uses such information for a different purpose than was intended when it was obtained by a public party. Sharing of information between public bodies in the interest of their work is not considered to be reuse of information in this sense.;;;;10
+29;yes, but the focus is limited;"Digital Iceland monitors visits to the website and reports to the Ministry of Finance. 
+Statistics Iceland holds regular meetings with users, divided into nine groups, see https://hagstofa.is/um-hagstofuna/samstarf-vid-notendur/";;;;5
+30;yes;"https://docs.devland.is/technical-overview/api-design-guide 
+Response to reviewer: There is a possibility to monitor what datasets are being used but it is not accessable online.";Please describe the process in place to monior reuse;;;20
+31;yes;"There have been datathons and training for civil servants in the past, see https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2015/11/19/Efni-fra-namskeidi-um-opin-gogn/ and https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2020/08/12/Gagnathon-fyrir-umhverfid-hefst-i-dag-/
+Additionally, institutions, particularly those working with high value datasets, have their own courses of action to make data available.";;;;20
+32;not applicable;;;;;15
+33;yes;Iceland measures number of high value datasets available, see under KPI (Mælikvarðar) - https://island.is/s/stafraent-island/stafraen-stefna;;;;20
+34;No;"Iceland measures number of high value datasets available, see under KPI (Mælikvarðar) - https://island.is/s/stafraent-island/stafraen-stefna
+Response to reviewer: 
+Additionally the score on the European Data Maturity index is used to assess among other re-use of data.";Please describe the main points of the methodology;;;0
+35;no;;;;;0
+36;I don't know;;;;;0
+D2.2;;;;;;40
+37;yes;N/A;;;;40
+37.1;Yes;Land Survey of Iceland tracks useage of its customers - https://gatt.lmi.is/geonetwork/srv/ice/catalog.search#/home;;;0;
+37.2;No;;;;0;
+37.3;No;;;;;
+37.4;No;;;;0;
+37.5;No;;;;0;
+38;I don't know;N/A;;;;0
+38.1;No;;;;0;
+38.2;No;;;;0;
+38.3;No;;;;0;
+39a;I don't know;;;;;0
+39b;I don't know;;;;;0
+D2.3;;;;;;140
+D2.3a;;;;;;45
+40;I don't know;;;;;0
+41;yes;"1) Iceland is in the process of implementing a secure national data exchange infrastructure, Straumurinn, which relies on X-Road technology. All government agencies, municipalities and privately owned companies can connect to the X-Road for data exchange, see https://island.is/en/x-road. This increases efficiency of government in delivering public services, as information only needs to be given once, and not to various public bodies.
+2) 1 May this year, a new data and consultation portal was opened by the National Planning Agency, where information on all new initiatives for urban planning, marine spatial planning and environmental impact assessment will be published, see www.skipulagsgatt.is
+Response to reviewer: Additional examples is www.opinberumsvif.is which is making government spending more transparent in addition to www.rikisreikningur.is and www.opnirreikningar.is, where all invoices sent to government entities are available..";Please clarify that these examples pertain to open data;;;15
+42;No;1) Government invoices - www.opnirreikningar.is - this site makes all invoices sent to government entities available to anyone.;;This seems to be an example of a relevant dataset/portal that makes data more accessible for reuse. Instead, please describe reuse cases or re-users taking up open data and putting it to new uses.;;0
+43;yes;1) Key figures on how public entities (gov't and municipalities) are operated in terms of expenditure and revenue. The data is used as evidence in providing coherent and logical status of public operations - https://opinberumsvif.is/ 2) Social insurance administration provides open data in a dashboard that is used as evidence for strategic options that are being considered on a policy level - https://www.tr.is/tryggingastofnun/tr-i-tolum/maelabord/ororkulifeyrir;;;;15
+44;yes;Open public consultation portal (Samráðsgátt). All government legal procedures are made available to the public for open consultation before any law or regulation is adopted. Any legal person or entity logs on to the platform with eID and has the opportunity to express opinion on the intended law/regulation, thereby affecting the decision-making process - https://samradsgatt.island.is/;;Please clarify the role of open data in this example. Isn't public consultion on draft legilsation a normal procedure? And this portal makes the activity easier but is not re-use of the primary data.;;15
+D2.3b;;;;;;15
+45;I don't know;;;;;0
+46;I don't know;;;;;0
+47;I don't know;;;;;0
+48;yes;Statistics on Covid infections and vaccinations - https://www.covid.is/tolulegar-upplysingar. The website has been used extensively by media and the general population, particularly during the peak of the pandemic.;;;;15
+49;I don't know;;;;;0
+D2.3c;;;;;;60
+50;No;"Open data are used to monitor waste and waste management in municipalities, see https://urgangur.is/maelabord/
+A number of projects resulted from a hackathon for the environment https://gagnathon.devpost.com/project-gallery
+Response to reviewers: No.";The examples given seem to be reuse cases which better suit Q51-Q54. For this question, are the any data/studies on the impact of open data relating to environmental challenges?;;;0
+51;yes;Information on ambient air quality for Iceland is available at https://xn--loftgi-tua4f.is/en?zoomLevel=7&lat=64.894972&lng=-18.675028. Municipalities use this information to advise citizens on using less polluting modes of transport by for example offering free fares on buses.;;;;15
+52;yes;Strætó, public transportation company of the municipalities of the Reykjavik area, gives third parties access to route system data, see https://straeto.is/en/about-straeto/open-data. Tourists, for example, can therefore receive information on the public transport through apps such as google maps.;;;;15
+53;yes;Isavia ofh., which handles operation and development of Keflavik International Airport, publishes weather foreacast as open data through API so airlines and others can work with the data in their own systems, see https://www.isavia.is/fyrirtaekid/c-forflugsupplysingar/flugvedur/keflavikurflugvollur-bikf;;;;15
+54;yes;The Icelandic Automobile Association provides information on where electric vehicle charging is, regardless of service provider, see https://www.fib.is/is/billinn/rafbilar/notkun;;;;15
+D2.3d;;;;;;20
+55;No;"Investment initiative in innovation in health funded twelve innovation projects and organised the hackathon""Hack the crisis Iceland"". The Futuristics project was chosen the best project but that uses data from the University hospital to predict the number of patients in the emergency department https://www.youtube.com/watch?v=tme9fo-133U.
+Response to reviewer: No";This example seems more like a reuse case (see Q56-Q58). For this question, do you have studies/data on the economic impact created by open data?;;;0
+56;No;"Data on unemployment and related events are very well documented and published - https://vinnumalastofnun.is/maelabord-og-tolulegar-upplysingar
+Response to reviewer: No";;The current answer refers to the availablity of relevant datasets. Instead, please describe a reuse case of the data.;;0
+57;yes;"A special initiative on innovation in health lead to the development of a number of apps and technologies, both through direct funding and the hackathon ""Hack the crisis Iceland"" https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2020/09/02/12-verkefni-fjarmognud-i-fjarfestingarataki-um-nyskopun-i-heilbrigdisthjonustu-/
+Response to reviewer: https://devpost.com/software/futuristics";;Please describe some specific reuse cases that used open data and their impact;;20
+58;I don't know;;;;;0
+D3;;;;;;404
+D3.1;;;;;;134
+59;yes;www.opingogn.is and https://island.is/en/o/digital-iceland/webservices;;;;20
+60;yes;N/A;;;;10
+61;yes;N/A;;;;10
+62a;yes;N/A;;;;10
+62b;yes;N/A;;;;10
+63;yes;https://island.is/en/o/digital-iceland/webservices;;;;10
+64;yes;https://island.is/en/o/digital-iceland/webservices;;;;10
+65;yes;See an example of this feature in the final pdf. document (explanation of the data) in https://opingogn.is/dataset/fjarmal-reykjavikurborgar;;;;10
+66a;yes;https://island.is/s/stafraent-island/hafa-samband;;;;10
+66b;yes;"See under ""documentations/Responsible party"" feature where you can contact the relevant agency https://island.is/en/o/digital-iceland/webservices
+Response to reviewer: The user does not need to email the data provider but they need to state the topic, name, e-mail and feedback.";;Please elaborate how this feedback mechanism works. Does the user need to email the data provider or does the portal offer functionality to contact the provider? (For this question, we do not consider general email helpdesks to be a feedback mechanism).;;10
+66c;no;;;;;0
+67;no;;;;;0
+68;no ;;;;;0
+69a;no;;;;;0
+69b;Select answer for Q69b;N/A;;;;N/A
+69c;No;"Through contacting various institutions that produce data on the portal under ""responsible party"" https://island.is/en/o/digital-iceland/webservices
+Response to reviewers: No";;If the status of these requests is not shown on the portal, this answer should be no. If the portal users can use the functionality of the portal to request data sets, reflect this in Q69a (for Q69a, an email address can be sufficient if the possibility to request data sets and the procedure to do so is made clear on the portal).;;0
+70a;no;;;;;0
+70b;few datasets;N/A;;;;4
+71;no;;;;;0
+72;no;;;;;0
+73;no;;;;;0
+74;no;;;;;0
+75;no;;;;;0
+76;no;;;;;0
+77;not applicable;;;;;20
+D3.2;;;;;;145
+78;yes;N/A;;;;10
+79;yes;Plausible;;;;15
+80a;yes;Statistics are used to prioritize content and improve the service experience, but traffic was not very high, as the website needs to be promoted more.;;;;10
+80b;yes;Many different actions are taken to understand users, the most effective thing for us is that we register all communication with users who contact us (phone, email, chat, bot) Why did the user contact us? Out of what issues? We compile statistics for all communications once a week and assess whether improvements need to be made.;;;;10
+81a;a bit of everything, no clear dominant group;N/A;;;;10
+81b;yes, entirely;;;;;10
+82;see answer box;120000;;;;10
+83;see answer box;Less than 5%;;;;N/A
+84;yes;Yes – Keywords on content seearch by public users are montitored for optimization purposes.;;;;10
+85;yes;N/A;;;;10
+86;see answer box;1.Personal data (My pages) 2.Finances 3.Taxes 4.Electronic ID‘s (driver‘s license etc.) 5.Real estate;;;;10
+87;see answer box;1.Electronic ID 2.Health 3.Digital driver‘s  license 4.Health incurance 5.Taxes;;;;10
+88;yes;The site is really small at the moment so it's easy to find your way around it - the site is designed to meet users needs and is designed so everything can be found easilly. https://island.is/s/stafraent-island/thjonustur/vefir-stofnana;Despite the site's small size, are there any specific measures you take/technology used regarding optimised search and discoverability?;The answer I Q84 can also apply here in terms of optimisation;;10
+89;yes;;;;;10
+90a;yes;N/A;;;;10
+90b;See answer box;100 %;;;;N/A
+D3.3;;;;;;50
+91;few public sector data providers;The portal is still young and is a work in progress;;;;0
+92a;yes, or all public sector data providers already publish data;N/A;;;;10
+92b;yes, or all public sector data providers already publish data;Digital Iceland has a priority list to what institution to work with and work based on what is high value datasets;;;;10
+93a;yes;"Many institutions provide data on their own site, the biggest portal is the geo-spatial portal; https://www.lmi.is/ and our old data portal; https://opingogn.is/, statistical office https://hagstofa.is/, energy portal https://nea.is/the-national-energy-authority/energy-data/, Icelandic Regional Development Institute https://byggdastofnun.data.is/account/public-report?id=b36b8664-016c-4ce5-ab26-b164cd2ce29c, Reykjavik municipality open data https://data-reykjavik.opendata.arcgis.com/";;Reykjavik municipality is an example of a local portal;;N/A
+93b;no;;;;;0
+93c;None of the datasets;Response to reviewer: No;"Please briefly explain why ""not applicable"" is an appropriate answer, and specifically why the answer should not be ""no"".";;;0
+94a;yes;"https://island.is/en/o/digital-iceland/webservices
+Response to reviewer: Real-time and/or dynamic data is gernerally sectoral and not provided in the national portal, for example air quality https://loftgaedi.is/?zoomLevel=7&lat=64.894972&lng=-18.675028, traffic https://www.vegagerdin.is/upplysingar-og-utgafa/gagnaveita-vegagerdarinnar/umferdarteljarar/ and weather https://www.vedur.is/um-vi/vefurinn/xml/";;This URL directs to an overview page. Please refer to a specific datasets as an example of real-time data;;10
+94b;>30%;N/A;;;;N/A
+95;no;;;;;0
+96;yes;"https://island.is/en/o/digital-iceland/webservices.
+Response to reviewer: There are only official data providers on the national portal";Please also list the most important data providers;"To add to the explanation: datasets have tags such as ""official"" or ""personal""";;10
+97;yes;https://island.is/en/developers/webservices through the filter search you can choose open and therefore see what is open and the rest is not.;;;;10
+D3.4;;;;;;75
+98;yes;https://island.is/en/o/digital-iceland/digital-strategy;;;;30
+99;yes;;;;;10
+100;yes;https://www.facebook.com/islandid;;;;10
+101;yes;https://island.is/en/o/digital-iceland/conferences;;;;15
+102;yes;https://island.is/en/o/digital-iceland/development;;;;10
+103;no;;;;;0
+104a;no;;;;;0
+104b;Select answer for Q104b;N/A;;;;N/A
+104c;Select answer for Q104c;;;;;0
+105a;no;;;;;0
+105b;no;;;;;0
+D4;;;;;;335
+D4.1;;;;;;120
+106;yes;By requiring OpenAPI 3 compliance basic description of data is implied and required.;;;;20
+107;100 %;N/A;;;;20
+108;within one day;Metadata descriptions are published in web services and accessible as soon as they become effective;;;;40
+109;the majority of datasets;N/A;;;;20
+110;not applicable;;;;;20
+D4.2;;;;;;120
+111a;yes;Reponse to reviewer: Quality of metadata is monitored on sectoral portals such as https://gatt.lmi.is/geonetwork/srv/ice/catalog.search#/home. The monitoring is done by National Land Survey of Iceland;Missing justification;;;20
+111b;no;The Digital Iceland teams has this as a part of their processes for each API included. ;;;;0
+112;yes;https://opingogn.is/pages/hagnytar-leidbeiningar and in informal discussions between Digital Iceland and relevant institutions;;;;20
+113;not applicable;Response to reviewer: Iceland did not develop its own open licence. All datasets must be published under open license to be published in the portal.;Missing justification;;;10
+114;yes, CC licences;The legislation does not specify what type of license should be used and it is therefore not mandatory but recommended.;;;;10
+115;<10%;N/A;;;;0
+116;remained the same;N/A;;;;5
+117;1-4;N/A;;;;10
+118;yes;"https://docs.devland.is/technical-overview/x-road/x-road-architecture-guidelines-for-service-providers-and-consumers#d33a23fc-c9ce-497f-9957-61de4700f10a. 
+https://github.com/nordic-institute/X-Road/blob/develop/doc/Protocols/pr-mrest_x-road_service_metadata_protocol_for_rest.md 
+https://opingogn.is/pages/hagnytar-leidbeiningar";;;;15
+119a;yes;"There are regular webinars and meetings
+Response to reviewer: The assistance is generally informal and on an ad-hoc basis.";Please provide some further elaboration, especially to distinguish Q119a from Q119b. How do these webinars and meetings specifically incentivise/assist data providers in publishing data in machine-readable formats?;;;15
+119b;yes;"There are regular webinars and meetings
+Response to reviewer: The assistance is generally informal and on an ad-hoc basis.";Please provide some further elaboration, especially to distinguish Q119a from Q119b. How do these webinars and meetings specifically incentivise/assist data providers in publishing high-quality metadata?;;;15
+D4.3;;;;;;0
+120;no ;;;;;0
+121;no priority;The legislation does not specify what type of standards should be used and it is therefore not mandatory but recommended.;;;;0
+122a;no priority;The legislation does not specify what type of license should be used and it is therefore not mandatory but recommended.;;;;0
+122b;no priority;The legislation does not specify what type of license should be used and it is therefore not mandatory but recommended.;;;;0
+123;no ;;;;;0
+124a;no ;N/A;;;;0
+124b;Select answer for Q124b;"It has not been a priority
+Response to reviewer: This has not been a priority of the open data portal which has relied on CKAN API";;"Regardless of the reason for not investigating a lack of compliance, this question must be marked ""no"" if no investigaion is performed.";;0
+125a;0 %;N/A;;;;0
+125b;0 %;N/A;;;;0
+D4.4;;;;;;95
+126;yes;The practical guidelines on open data for public sector bodies is in part based on the 5-Star Open Data model, see https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2015/11/19/Efni-fra-namskeidi-um-opin-gogn/;;;;15
+127;yes;"Through conferences and meetings with institutions.
+Response to reviewer: The promotion is more on a sectoral basis, with institution who are owners of similar type of data (for example geo-spatial or data that is the basis for publishing of statistics), meeting in conferences or smaller meetings. 
+";Please elaborate further. The current answer is somewhat generic.;;;30
+128a;<10%;N/A;;;;0
+128b;>90%;N/A;;;;25
+128c;>90%;N/A;;;;25
+128d;<10%;N/A;;;;0
+128e;<10%;N/A;;;;0
+129;no ;;;;;0

@@ -201,7 +201,7 @@ input[type="search"]:focus-visible {
     margin: 0;
 }
 #buttonSidebarOpen, #buttonPrev2, #buttonUpwards2, #buttonNext2 {
-    font-size: 0.15rem;
+    font-size: 0.15em;
     margin: 0 !important;
 }
 #buttonSidebarOpen {
@@ -380,22 +380,19 @@ input[type="search"]:focus-visible {
     text-align: center;
 }
 .shield-zoom-in, .shield-zoom-out {
-    bottom: 0;
+    border: .1em solid goldenrod;
     color: goldenrod;
     cursor: pointer;
-    display: none;
     font-size: 2em;
-    padding: .25em .5em;
-    position: absolute;
-    right: -.5em;
+    margin-bottom: -.1em;
+    padding: .1em .3em;
+    text-align: center;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 .shield:hover .shield-zoom-in, .shield:hover .shield-zoom-out {
     display: unset;
-}
-.shield-zoom-in {
-    left: -.5em;
-    padding: .25em .5em;
-    right: unset;
 }
 .shield-chevron {
     color: goldenrod;
@@ -456,6 +453,11 @@ input[type="search"]:focus-visible {
     bottom: 5.46em;
     font-size: 1.5em;
 }
+.shield.blue-sky.zoom-xs .shield-board.zoomable {
+    bottom: unset;
+    font-size: 1.65em;
+    top: 3em;
+}
 
 .shield.zoom-s {
     font-size: 1rem;
@@ -463,6 +465,11 @@ input[type="search"]:focus-visible {
 .shield.zoom-s .shield-board.zoomable {
     bottom: 8.2em;
     font-size: 1em;
+}
+.shield.blue-sky.zoom-s .shield-board.zoomable {
+    bottom: unset;
+    font-size: 1.1em;
+    top: 4.5em;
 }
 
 .shield.zoom-m {
@@ -472,6 +479,11 @@ input[type="search"]:focus-visible {
     bottom: 10.93em;
     font-size: .75em;
 }
+.shield.blue-sky.zoom-m .shield-board.zoomable {
+    bottom: unset;
+    font-size: .825em;
+    top: 6em;
+}
 
 .shield.zoom-l {
     font-size: 1.666rem;
@@ -480,6 +492,11 @@ input[type="search"]:focus-visible {
     bottom: 13.666em;
     font-size: .6em;
 }
+.shield.blue-sky.zoom-l .shield-board.zoomable {
+    bottom: unset;
+    font-size: .66em;
+    top: 7.5em;
+}
 
 .shield.zoom-xl {
     font-size: 2rem;
@@ -487,6 +504,11 @@ input[type="search"]:focus-visible {
 .shield.zoom-xl .shield-board.zoomable {
     bottom: 16.4em;
     font-size: .5em;
+}
+.shield.blue-sky.zoom-xl .shield-board.zoomable {
+    bottom: unset;
+    font-size: .55em;
+    top: 9em;
 }
 
 #countries {
@@ -548,7 +570,7 @@ input[type="search"]:focus-visible {
     top: -3.8em;
 }
 
-#page-footer {
+#page-footer, #page-controls {
     background: #222;
     bottom: 0;
     color: goldenrod;
@@ -563,6 +585,10 @@ input[type="search"]:focus-visible {
 }
 #page-footer a {
     color: wheat;
+}
+#page-controls {
+    bottom: unset;
+    top: 7em;
 }
 
 .shield-board {
@@ -608,6 +634,10 @@ input[type="search"]:focus-visible {
     height: fit-content;
     top: 4.5em;
     transform: translate(0, -50%);
+}
+.shield.blue-sky .shield-score {
+    bottom: 1.4em;
+    font-size: 1em;
 }
 .shield.blue-sky .shield-score, .shield.blue-sky .shield-chevron {
     color: aliceblue;

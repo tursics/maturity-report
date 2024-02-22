@@ -10,18 +10,26 @@ class Shield {
     }
 
     createHTML() {
+        var zoom = null;
+        if (shields.length > 0) {
+            var elem = document.getElementById(shields[0].id);
+            zoom = elem.classList.value.replace('shield', '').trim();
+        }
+
         var node = document.createElement('figure');
         node.id = this.id;
         node.classList.add('shield');
         node.style = 'display:inline-block';
+
+        if (zoom) {
+            node.classList.add(zoom);
+        }
 
         node.innerHTML = 
             '<div class="shield-border"></div>' +
             '<div class="shield-background">' +
                 '<div class="shield-board"></div>' +
                 '<div class="shield-score"></div>' +
-                '<div class="shield-zoom-in" onclick="zoomIn()">+</div>' +
-                '<div class="shield-zoom-out" onclick="zoomOut()">-</div>' +
             '</div>' +
             '<figcaption class="shield-ribbon">' +
                 '<div class="shield-caption"></div>' +

@@ -548,6 +548,36 @@ function onResult(elem, event) {
     goto(id);
 }
 
+function zoomIn() {
+    var shield = document.getElementById('sidebar-shield');
+    shield.classList.remove('zoom-xs');
+    shield.classList.remove('zoom-s');
+    shield.classList.remove('zoom-m');
+    shield.classList.remove('zoom-l');
+    shield.classList.remove('zoom-xl');
+
+    shields.forEach((shield) => shield.zoomIn());
+
+    var elem = document.getElementById(shields[0].id);
+    var zoom = elem.classList.value.replace('shield', '').trim();
+    shield.classList.add(zoom);
+}
+
+function zoomOut() {
+    var shield = document.getElementById('sidebar-shield');
+    shield.classList.remove('zoom-xs');
+    shield.classList.remove('zoom-s');
+    shield.classList.remove('zoom-m');
+    shield.classList.remove('zoom-l');
+    shield.classList.remove('zoom-xl');
+
+    shields.forEach((shield) => shield.zoomOut());
+
+    var elem = document.getElementById(shields[0].id);
+    var zoom = elem.classList.value.replace('shield', '').trim();
+    shield.classList.add(zoom);
+}
+
 document.addEventListener('DOMContentLoaded', function() {
     changeLanguage(DEFAULT_LANG);
 

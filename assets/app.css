@@ -272,7 +272,7 @@ input[type="search"]:focus-visible {
 .shield {
     font-size: 1rem;
     height: 17em;
-    margin: 0 1.2em 2.25em 1.2em;
+    margin: 0 1.2em 3.25em 1.2em;
     position: relative;
     vertical-align: middle;
     width: 17em;
@@ -285,12 +285,12 @@ input[type="search"]:focus-visible {
     width: 17em;
 }
 .shield-border:before, .shield-background:before {
-    border: solid 8em transparent;
+    border: solid 0 transparent;
     border-left-width: 2.9em;
     border-right-width: 2.9em;
     border-top-color: goldenrod;
     border-top-width: 1em;
-    bottom: -8.28em;
+    bottom: -.28em;
     content: "";
     display: block;
     height: 0;
@@ -379,6 +379,24 @@ input[type="search"]:focus-visible {
     right: 0;
     text-align: center;
 }
+.shield-zoom-in, .shield-zoom-out {
+    bottom: 0;
+    color: goldenrod;
+    cursor: pointer;
+    display: none;
+    font-size: 2em;
+    padding: .25em .5em;
+    position: absolute;
+    right: -.5em;
+}
+.shield:hover .shield-zoom-in, .shield:hover .shield-zoom-out {
+    display: unset;
+}
+.shield-zoom-in {
+    left: -.5em;
+    padding: .25em .5em;
+    right: unset;
+}
 .shield-chevron {
     color: goldenrod;
     font-size: 16em;
@@ -429,6 +447,46 @@ input[type="search"]:focus-visible {
 }
 .shield-button.disabled:hover .shield-chevron {
     color: #aaa;
+}
+
+.shield.zoom-xs {
+    font-size: .666rem;
+}
+.shield.zoom-xs .shield-board.zoomable {
+    bottom: 5.46em;
+    font-size: 1.5em;
+}
+
+.shield.zoom-s {
+    font-size: 1rem;
+}
+.shield.zoom-s .shield-board.zoomable {
+    bottom: 8.2em;
+    font-size: 1em;
+}
+
+.shield.zoom-m {
+    font-size: 1.333rem;
+}
+.shield.zoom-m .shield-board.zoomable {
+    bottom: 10.93em;
+    font-size: .75em;
+}
+
+.shield.zoom-l {
+    font-size: 1.666rem;
+}
+.shield.zoom-l .shield-board.zoomable {
+    bottom: 13.666em;
+    font-size: .6em;
+}
+
+.shield.zoom-xl {
+    font-size: 2rem;
+}
+.shield.zoom-xl .shield-board.zoomable {
+    bottom: 16.4em;
+    font-size: .5em;
 }
 
 #countries {

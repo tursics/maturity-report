@@ -20,6 +20,8 @@ class Shield {
             '<div class="shield-background">' +
                 '<div class="shield-board"></div>' +
                 '<div class="shield-score"></div>' +
+                '<div class="shield-zoom-in" onclick="zoomIn()">+</div>' +
+                '<div class="shield-zoom-out" onclick="zoomOut()">-</div>' +
             '</div>' +
             '<figcaption class="shield-ribbon">' +
                 '<div class="shield-caption"></div>' +
@@ -95,7 +97,7 @@ class Shield {
             color = 'bg-yellow';
         }
 
-        var shrinkBy = showGray ? 5 : 20;
+        var shrinkBy = showGray ? 6 : 20;
         var height = showGray ? 2.3 : .9;
         var tooltip = _.get(obj.id).split('<br>')[0];
         var str = '<span onclick="goto(\'' + obj.id + '\')" data-i18n-title="' + (obj.id) + '" title="' + tooltip + '" class="answerbox ' + color + '" style="width:' + (width / shrinkBy) + 'em;height:' + height + 'em"></span>';
@@ -131,6 +133,7 @@ class Shield {
 
         elemCaption.innerHTML = str;
         elemBoard.innerHTML = '';
+        elemBoard.classList.remove('zoomable');
         elemScore.innerHTML = score;
     }
 
@@ -139,6 +142,9 @@ class Shield {
         var elemBoard = elem.getElementsByClassName('shield-board')[0];
         var str = '';
         var that = this;
+
+        var percentage = this.getPercentage(getQuestion('root'));
+        this.setCaption(percentage);
 
         function processChildren(root) {
             root.children.forEach((child) => {
@@ -152,6 +158,8 @@ class Shield {
 
         processChildren(questionTree);
 
+        elemBoard.style = 'line-height:1.05em';
+        elemBoard.classList.remove('zoomable');
         elemBoard.innerHTML = str;
     }
 
@@ -159,7 +167,9 @@ class Shield {
         var elem = document.getElementById(this.id);
         var elemBoard = elem.getElementsByClassName('shield-board')[0];
         var dimensions = [];
+        var zoomable = true;
         var answers = '';
+        var style = '';
         var str = '';
 
         var percentage = this.getPercentage(question);
@@ -174,10 +184,13 @@ class Shield {
                     dimensions.push({id: child.id, percentage});
                 } else {
                     answers += this.getAnswerBox(child, true);
+                    style = 'overflow-y:auto;line-height:1.1em';
+                    zoomable = false;
                 }
             });
         } else {
             answers += this.getAnswerText(question);
+            style = 'overflow-y:auto';
         }
 
         if (dimensions.length > 0) {
@@ -205,12 +218,60 @@ class Shield {
 
                 x += 3;
             });
+            zoomable = false;
         } else {
             str += answers;
         }
 
-        elemBoard.style = answers === '' ? '' : 'overflow-y:auto';
+        elemBoard.style = style;
+        elemBoard.classList.remove('zoomable');
+        if (zoomable) {
+            elemBoard.classList.add('zoomable');
+        }
         elemBoard.innerHTML = str;
     }
 
+    zoomIn() {
+        var elem = document.getElementById(this.id);
+
+        if (elem.classList.contains('zoom-xs')) {
+            elem.classList.remove('zoom-xs');
+            elem.classList.add('zoom-s');
+        } else if (elem.classList.contains('zoom-s')) {
+            elem.classList.remove('zoom-s');
+            elem.classList.add('zoom-m');
+        } else if (elem.classList.contains('zoom-m')) {
+            elem.classList.remove('zoom-m');
+            elem.classList.add('zoom-l');
+        } else if (elem.classList.contains('zoom-l')) {
+            elem.classList.remove('zoom-l');
+            elem.classList.add('zoom-xl');
+        } else if (elem.classList.contains('zoom-xl')) {
+            // keep
+        } else {
+            elem.classList.add('zoom-m');
+        }
+    }
+
+    zoomOut() {
+        var elem = document.getElementById(this.id);
+
+        if (elem.classList.contains('zoom-xl')) {
+            elem.classList.remove('zoom-xl');
+            elem.classList.add('zoom-l');
+        } else if (elem.classList.contains('zoom-l')) {
+            elem.classList.remove('zoom-l');
+            elem.classList.add('zoom-m');
+        } else if (elem.classList.contains('zoom-m')) {
+            elem.classList.remove('zoom-m');
+            elem.classList.add('zoom-s');
+        } else if (elem.classList.contains('zoom-s')) {
+            elem.classList.remove('zoom-s');
+            elem.classList.add('zoom-xs');
+        } else if (elem.classList.contains('zoom-xs')) {
+            // keep
+        } else {
+            elem.classList.add('zoom-xs');
+        }
+    }
 }

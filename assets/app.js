@@ -574,7 +574,8 @@ function zoomOut() {
     shields.forEach((shield) => shield.zoomOut());
 
     var elem = document.getElementById(shields[0].id);
-    var zoom = elem.classList.value.replace('shield', '').trim();
+    var zoom = elem.classList.value.replace('shield', '').replace('indian-red', '').replace('golden-rod', '').replace('sea-green', '').trim();
+
     shield.classList.add(zoom);
 }
 

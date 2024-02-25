@@ -13,7 +13,7 @@ class Shield {
         var zoom = null;
         if (shields.length > 0) {
             var elem = document.getElementById(shields[0].id);
-            zoom = elem.classList.value.replace('shield', '').trim();
+            zoom = elem.classList.value.replace('shield', '').replace('indian-red', '').replace('golden-rod', '').replace('sea-green', '').trim();
         }
 
         var node = document.createElement('figure');
@@ -143,6 +143,18 @@ class Shield {
         elemBoard.innerHTML = '';
         elemBoard.classList.remove('zoomable');
         elemScore.innerHTML = score;
+
+        elem.classList.remove('indian-red');
+        elem.classList.remove('golden-rod');
+        elem.classList.remove('sea-green');
+
+        if (score === '0%') {
+            elem.classList.add('indian-red');
+        } else if (score === '100%') {
+            elem.classList.add('sea-green');
+        } else if (score !== '') {
+            elem.classList.add('golden-rod');
+        }
     }
 
     setDebug() {
@@ -166,7 +178,7 @@ class Shield {
 
         processChildren(questionTree);
 
-        elemBoard.style = 'line-height:1.05em';
+        elemBoard.style = 'line-height:1.02em';
         elemBoard.classList.remove('zoomable');
         elemBoard.innerHTML = str;
     }
@@ -192,7 +204,7 @@ class Shield {
                     dimensions.push({id: child.id, percentage});
                 } else {
                     answers += this.getAnswerBox(child, true);
-                    style = 'overflow-y:auto;line-height:1.1em';
+                    style = 'overflow-y:hidden;line-height:1.1em';
                     zoomable = false;
                 }
             });

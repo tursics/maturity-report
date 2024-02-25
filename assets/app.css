@@ -260,13 +260,13 @@ input[type="search"]:focus-visible {
     width: .1em;
 }
 .answerbox.bg-red {
-    background-color: #dc5149;
+    background-color: indianred;
 }
 .answerbox.bg-green {
-    background-color: #49DC51;
+    background-color: mediumseagreen;
 }
 .answerbox.bg-yellow {
-    background-color: #dc9b49;
+    background-color: goldenrod;
 }
 
 .shield {
@@ -610,6 +610,9 @@ input[type="search"]:focus-visible {
     border: 2px solid wheat;
 }
 
+/* -------- */
+/* blue-sky */
+
 .shield.blue-sky .shield-border {
     background: steelblue;
 }
@@ -695,6 +698,80 @@ input[type="search"]:focus-visible {
 .shield-button.disabled.lightblue-sky .shield-background::before {
     border-top-color: steelblue !important;
 }
+
+/* -------- */
+/* indian-red */
+
+.shield.indian-red .shield-border {
+    background: indianred;
+}
+.shield.indian-red .shield-border::before {
+    border-top-color: indianred;
+}
+.shield.indian-red .shield-ribbon {
+    background: indianred;
+}
+.shield.indian-red .shield-ribbon::before, .shield.indian-red .shield-ribbon::after {
+    border-bottom-color: lightpink;
+}
+.shield.indian-red .shield-score, .shield.indian-red .shield-chevron {
+    color: indianred;
+}
+.shield.indian-red .shield-board {
+    scrollbar-color: indianred lightpink;
+}
+.shield.indian-red .shield-board::-webkit-scrollbar-button {
+    background: indianred;
+}
+.shield.indian-red .shield-board::-webkit-scrollbar-thumb {
+    background: indianred;
+    border-left: 2px solid lightpink;
+    border-right: 2px solid lightpink;
+}
+.shield.indian-red .shield-board::-webkit-scrollbar-track {
+    background: lightpink;
+    border: 2px solid lightpink;
+}
+
+
+/* -------- */
+/* golden-rod */
+
+/* -------- */
+/* sea-green */
+
+.shield.sea-green .shield-border {
+    background: mediumseagreen;
+}
+.shield.sea-green .shield-border::before {
+    border-top-color: mediumseagreen;
+}
+.shield.sea-green .shield-ribbon {
+    background: mediumseagreen;
+}
+.shield.sea-green .shield-ribbon::before, .shield.sea-green .shield-ribbon::after {
+    border-bottom-color: lightgreen;
+}
+.shield.sea-green .shield-score, .shield.sea-green .shield-chevron {
+    color: mediumseagreen;
+}
+.shield.sea-green .shield-board {
+    scrollbar-color: mediumseagreen lightgreen;
+}
+.shield.sea-green .shield-board::-webkit-scrollbar-button {
+    background: mediumseagreen;
+}
+.shield.sea-green .shield-board::-webkit-scrollbar-thumb {
+    background: mediumseagreen;
+    border-left: 2px solid lightgreen;
+    border-right: 2px solid lightgreen;
+}
+.shield.sea-green .shield-board::-webkit-scrollbar-track {
+    background: lightgreen;
+    border: 2px solid lightgreen;
+}
+
+/* -------- */
 
 @-moz-keyframes spin {
     100% {

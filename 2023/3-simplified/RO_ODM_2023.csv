@@ -1,0 +1,233 @@
+ID;Answer;Justification;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+TotalScore;;;;;Total Score:;1653
+UnsureScore;;;;;Unsure Score:;0
+PreliminaryScore;;;;;"Preliminary Score: 
+(Total - Unsure)   ";1653
+D0.1;;;;;;
+R1;N/A;Romania;;;;N/A
+R2;N/A;Secretariat-General of the Government;;;;N/A
+R3;N/A;xxx;;;;N/A
+R4;N/A;xxx;;;;N/A
+R5;N/A;xxx;;;;N/A
+R6;N/A;2;;;;N/A
+R7;N/A;0,5;;;;N/A
+R8;<200.000 EUR;N/A;;;;N/A
+D0.2;;;;;;
+R9;yes;Learning resources, access to best practices;;;;N/A
+R10;yes;;;;;N/A
+D1;;;;;;470
+D1.1;;;;;;185
+1;yes;Law 179/2022 on open data and public sector information re-use (transposing Directive 2019/1024) https://legislatie.just.ro/Public/DetaliiDocument/256414;;;;30
+2;no;;;;;0
+3;yes;The new Law was approved in June 2022 and has additional provisions on national level high value domains and datasets, on administrative measures for non-compliant PSB, licencing and public participation on establishing future HVDs.;;;;10
+4;Yes;(Review 1: Answer revised to yes) Timisoara OGP Local Action Plan includes a commitment on open data: https://www.opengovpartnership.org/members/timisoara-romania/commitments/ROTMR0003/.  The commitment is aimed at increasing the quality and quantity of available open data. Proposed actions include peer exchanges, census of public data held by public institutions and other relevant stakeholders, publication of 10 high value open data sets and standardization of their structure, guidelines for periodic identification of high value data, publication and maintenance of the published data, engage re-users etc.;In the previous year, Timisoara municipality had a local policy in place (https://www.opengovpartnership.org/members/timisoara-romania/commitments/ROTMR0003/). Is this still valid? Are there any other regional/local level initiatives?;;;10
+5;no ;;;;;0
+6a;yes;"The Law transposing the Open Data Directive includes provisions on the obligation to publish real-time data. 
+Review 1 - Clarification: the Law does not go in detail: art.8 (6) Public entities shall make the dynamic data they hold available to potential users for re-use, immediately after collection, through appropriate APIs and, where appropriate, by mass download. 
+The implementing norms will go into further detail.";Please describe the measures more specifically.;;;15
+6b;yes;"The Law transposing the Open Data Directive includes provisions on the obligation to publish geospatial data (Annex), as well as the requirement to include geo-location to all published data, where available. 
+(Review 1 - clarification) Art 16 on High value datasets, (2) e) where available, information allowing spatialisation will be made available, such as geographical coordinates, SIRUTA code, addresses and the like. This will be further detailed in the implementing norms.";Please describe the measures more specifically.;;;15
+6c;no;;;;;0
+6d;yes;The law states that the data should be available / discoverable on the national open data portal, hence on data.europa.eu as well.;;;;10
+7;Yes;(Review 1: Answer revised to yes) The law includes measures to ensure data requests are processed correctly (including sanctions on non abiding institutions), data is published in open formats with metadata and using open standards, it also recommends the CC licences for published data. In addition, the aplication norms, now under development, focus on the importance of maintaining a permanent dialogue with re-users, especially in prioritising data sets for publication, to align to their needs in terms of frequency, format, availability etc.;"In the previous ODM, you indicated “yes”. Is the previous year’s answer still relevant? ""The law includes measures to ensure data requests are processed correctly (including sanctions on non-abiding institutions), data is published in open formats with metadata and using open standards, it also recommends the CC licences for published data.""";;;15
+8;yes;The law includes clear measures for data requests, redress cases and the implementing act (under consultation) includes provisions on prioritisation of publication and collaboration with re-users, so as to reflect their needs.;;;;15
+9a;yes;Public bodies must publish and regularly update data inventories and publishing plans.;;;;15
+9b;yes;the implementing act (under public consultation - https://data.gov.ro/blog/intalnire-de-lucru-elaborare-norme-de-aplicare-legea-nr-179-2022) reiterates the importance that these inventories should include all data held by the public entity.;;;;10
+10a;yes;N/A;"Kindly fill in the column ""Publications of HCD in machine-readable formats via APIs"" in the table below. This column was hidden in the original questionnaire. Sorry.";;;20
+10b;yes, other measures;At this moment, stakeholders have been informed on the timeline and provisions for the implementation of the Regulation, through various working groups or webinars, especially in the wider context of the European data legislative framework (DGA, DA etc). Following meetings with all the public entities that hold HVDs, the discussions will include other stakeholders, too.;;;;5
+10c;yes;"The main challenges identified so far include: in terms of mind-sets, there is reluctance to open all datasets; lack of understanding of the wider benefits of opening the data (economic, social etc).
+In terms of financial losses: part of the data in the Regulation is currently sold, alternative funding sources must be identifies; In terms of the need for further investments in human resources and infrastructure to comply mainly with the frequency of collection and updates for dynamic data; Some legislative problems, as current legislation allows for exclusive contracts etc.; Taxonomy / vocabulary issues are likely to be encountered due to lack of standardisation at national level.
+";;;;15
+11a;no;N/A;;;;0
+11a.1;No;;;;0;
+11a.2;No;;;;0;
+11a.3;No;;;;0;
+11a.4;No;;;;0;
+11a.5;No;;;;0;
+11a.6;No;;;;0;
+11b;no;;;;;N/A
+D1.2;;;;;;175
+12;yes; The governance structure is composed of the team within the Secretariat-General of the Government (that holds most attributions in the coordination of the open data inititative) and the Authority for the Digitalization of Romania (transposition mainly attributions).  The SGG activities are conducted with the participation /inclusion of stakeholders (data stewards from the central/local administration, re-users, academia, civil society), as reflected in the implementation of the open data commitments in the OGP National Action Plans developed, implemented and monitored in collaboration with civil society) or the active participation of stakeholders in open data meetings and debates on various issues (https://data.gov.ro/blog).;;;;30
+13;hybrid;The approach is mainly top-down in terms of legislative framework, dissemination of knowledge and good practices, coordination etc. However, as there are starting to be local open data initiatives, we are now supporting them from the central level, and they are also working together to promote their good practices to peers from other municipalities.;;;;N/A
+14;yes, all initiatives;All open data initiatives are supported by the national open data team through one-to-one assistance, webinars, facillitation of collaboration with reusers, provision of available resources and standards. This is more so since the national portal should be the main point of access, as included in the law. As regards to the local initiatives, there are two approaches: some chose to upload directly on the national portal and some cities prefer to develop their own portals. This second approach usually is more cumbersome and it was only finalised so far for Timisoara (data.primariatm.ro). All data stewards from the local level (where appointed) are included in the stewards network that receives regular information and invitations for participation in data events.;;;;20
+15;few public bodies;As stated above, for the local initiatives, there are two approaches: some chose to upload directly on the national portal and some cities prefer to develop their own portals. This second approach usually is more cumbersome and it was only finalised so far for Timisoara (data.primariatm.ro). ;;;;5
+16;yes;All this information is available on the national portal: https://data.gov.ro/pages/resources;;;;20
+17a;yes;The information can be found in the respective legislation available at: https://data.gov.ro/pages/resources;;;;20
+17b;yes;The teams are part of the same office (Secretariat General of the Government), working in collaboration with the Authority for the Digitalisation of Romania that transposes the EU legislation in the field. The collaboration is permanent.  the national open data team is the composed of the Secretariat General of the Government, that manages the national portal but also has broader coordination attributions and contributes to the legislative process on open data, and the Authority for the Digitalisation of Romania, that is in charge mainly with transposing EU legislation and limited open data attributions otherwise. The collaboration is constant but it is mainly on an inter-institutional level (online, offline, official and informal communication). For example, the law transposing the Directive was initiated and developed by both ADR and SGG. It also translates in partnership between the SGG and ADR in organising public meetings and debates (ex. https://data.gov.ro/blog/grup-de-lucru-date-deschise-pna-2022-2024) or in project implementation (ex. OECD Digital Government Review, including open data: https://sgg.gov.ro/1/wp-content/uploads/2021/12/PNP-003-anunt-website.pdf);;;;20
+18;yes;Law 179/2022 states that each public entity should have an appointed data officer. Each ministry has an appointed data steward (permanently updated) and we are in a continuous process of extending this to all agencies from the central level. While the responsibilities of the data steward were imposed from the top, it was upon each ministry to decide on who to appoint, due to the differences in their internal procedures. The role of the data steward /dedicated department is further detailed in the implementing act of the Law 179/2022 (under consultation).;;;;20
+19;yes;The national open data team maintains both direct dialogue with the open data officers or organises webinars, working groups, information sessions: https://data.gov.ro/blog;;;;20
+20;yes;The exchange take place both at specific levels (the open data team facilitates interactions between re-users and the data providers) or through public meetings (webinars, working groups promoting dialogue, re-use examples etc.): https://data.gov.ro/blog. The implementing act focuses more on specific recommendations for this type exchange.;;;;20
+D1.3;;;;;;110
+21;yes;"Some public bodies do have data publication plans, although this is not true for all (ex.https://data.gov.ro/dataset/inventar-seturi-date-deschise-mdlpa-aprilie-2023; https://data.gov.ro/dataset/planul-de-publicare-a-datelor-deschise-consiliul-judetean-tulcea-2023). The law does require for all entities to have such publication plans.";;;;20
+22a;yes;The implementing act does have a yearly reporting requirement.Reporting will start from the end of 2023.;;;;15
+22b;neutral;;;;;N/A
+23a;no;;;;;0
+23b;Select answer for Q23b;N/A;;;;0
+23c;no change;N/A;;;;5
+24a;N/A;lack of allocated resources (both human and financial), lack of standardisation in the collection and managament of data, lack of coherent data governance (including at public sector body level).;;;;N/A
+24b;yes;There are activities at national level that address these issues, including the implementation of new legislation on interoperability and government cloud, improved focus on developing digital skills (and open data knowledge in particular), requirements for the open by design for new IT systems  etc.;;;;10
+25a;yes;The portal team assists data providers, whether one-to-one support on request or through the available resources.;;;;15
+25b;yes;The technical team of the portal is working with dynamic data holders to assist them with API usage. There is also documentation available on the portal (https://data.gov.ro/pages/developers).;;;;10
+25c;yes;As part of the working groups on HVDs, we are currently working on identifiying the best ways for the publication of geospatial datasets.;;;;10
+25d;no;;;;;0
+26a;yes;The National Institute for Administration (INA) has included open data in its training program for public servants: https://ina.gov.ro/comunicare-informare-promovare-transparenta/;;;;15
+26b;yes;As the courses are provided by the National Institute for Administration, the certification is formally recognised;;;;10
+27a;no;;;;;0
+27b;a mix of the above;Secretariat-General of the Government with Authority for the Digitalization of Romania, civil society (sometimes in collaboration with the National Institute for Administration);;;;N/A
+D2;;;;;;235
+D2.1;;;;;;135
+28;yes;The use by natural or legal persons, for commercial or non-commercial purposes, of documents held by public institutions (https://legislatie.just.ro/Public/DetaliiDocument/256414).;;;;10
+29;yes, but the focus is limited;Following to the Impact Study conducted in 2020-2021, the Secretariat General of the Government is implementing a Norwegian Grant project since October 2021 with the OECD that includes a Digital Government Review with an open data component. This will be followed by recommendations for re-use impact indicators.Furthermore, the open data portal team maintains a constant dialogue with re-users and facilitates interaction with the data providers.;;;;5
+30;yes;Re-use examples can be submitted through the Contact form (https://data.gov.ro/contact-us) or directly via email and are published by the portal team, following validation on https://data.gov.ro/showcase.;;;;20
+31;yes;The impact measurement methdology and evaluation study conducted in 2020-2021 (https://data.gov.ro/uploads/page_images/2020-07-17-124412.755459Metodologie-OD2020.docx) were designed to also work as a toolbox that can be used by public bodies to conduct their own measuring. The portal team also assists the PBs with analytics data or technical support, on demand or through workshops and working groups. Furthermore, the implementing methodology for Law179/2022 includes recommendations for public bodies to monitor re-use of their own data.;;;;20
+32;Yes;(Review 1 - Answer revised) For the implementation of Law no.179/2022, we are now finalising the application norms, which focus on this respect on a  detailed reporting framework and include guidance on how institutions can assess re-use themselves. The monitoring and measurement framewrok uses recommendations from the Open Data Impact Measurement studies available on data.europa.eu. The norms are being developed in colaboration with public stakeholders.;"In the previous ODM you answered ""yes"" with this answer: ""According to the provisions of the Law transposing the Open Data Directive, there will be a yearly impact study to identify the extent to which the re-use of public sector documents to which this Law applies has increased, in particular by SMEs and the impact of high-value datasets. The practical measures to assess this are now being developed"". Is this answer relevant for this year? Any progress on developing these practical measures?";;;15
+33;yes;https://data.gov.ro/uploads/page_images/2020-07-17-124412.755459Metodologie-OD2020.docx (Review 1 - clarification) The methodology for the measurement of the impact of open data, identifies several indicators that are taken into consideration in impact measurement, starting from the baseline measured in 2018. These include awareness, availability, legitimacy and re-use on the 4 domains (government, environment, social and economic).;"Please include the definition of ""open data impact"" in addition to the URL";;;20
+34;yes; The methodology is developed to enable recurrent impact evaluations, offer recommendations for the public bodies on how to measure the impact of their own data. It uses several layers to assess impact, looking at the main publishers and re-user categories, but also using several data collection methods: user surveys, comparative analyses, portal usage, expert surveys and case studies.This will be complemented by the development of re-use impact indicators, that will be developed with the OECD as part of the project mentioned above.;;;;30
+35;no;Following to the Impact Study conducted in 2020-2021, the Secretariat General of the Government is implementing a Norwegian Grant project (https://bit.ly/3NhnOLe) since October 2021 with the OECD that includes a Digital Government Review with an open data component. This will be followed by recommendations for re-use impact indicators.Furthermore, the open data portal team maintains a constant dialogue with re-users and facilitates interaction with the data providers.;;;;0
+36;yes;The government works with the Digital Dryads and Wood Watcher teams, for example, to promote their products and improve their access to data (https://digital-dryads.eu/, https://woodwatcher.app/) on enviromental impact or with Expert Forum (ex. https://expertforum.ro/detector-bani-publici/), http://ogp.gov.ro/nou/wp-content/uploads/2022/03/Angajamente-OGP-EFOR-10martie.pdf, http://ogp.gov.ro/nou/wp-content/uploads/2022/05/PNA-2022-2024-FINAL-V30.05.2022.docx) on data from public procurement or local development funds.;;;;15
+D2.2;;;;;;0
+37;no;N/A;;;;0
+37.1;No;;;;0;
+37.2;No;;;;0;
+37.3;No;;;;;
+37.4;No;;;;0;
+37.5;No;;;;0;
+38;no;N/A;;;;0
+38.1;No;;;;0;
+38.2;No;;;;0;
+38.3;No;;;;0;
+39a;no;;;;;0
+39b;no;;;;;0
+D2.3;;;;;;100
+D2.3a;;;;;;35
+40;Yes;(Review 1 - Answer revised). As available in the 2020-2021 Impact Study (https://data.gov.ro/pages/resources). The data gathered for the study (pages 71,77-78, 81) has revealed that the impact and use of open data within the public administration is reduced (pages 85-88) and focuses mainly on increased transparency. Furthermore, early results from the OECD Digital Government Review show the same trend. The review is under revision and due launch in October 2023.;"In the previous ODM, you answered ""yes"" with this answer: ""As available in the 2020-2021 Impact Study (https://data.gov.ro/pages/resources). The data gathered for the study (pages 71,77-78, 81) has revealed that the impact and use of open data within the public administration is reduced (pages 85-88) and focuses mainly on increased transparency."" Is this information still relevant for this year?";;;20
+41;no;;;;;0
+42;yes;"There is significant use of open data mostly by NGOs focusing on anti-corruption, public procurement, public expenditure or election data, leading to increased transparency and accountability. Such examples include the platform https://www.banipartide.ro/ (election funding); https://expertforum.ro/apps/pndl/, https://expertforum.ro/harta-proiecte-saligny/ (funding from the National Program for Local Development). For example, the Ministry in charge with the funding of this National Program is constantly improving data collection and publishing (as part of the current OGP Action Plan).";;;;15
+43;no;;;;;0
+44;no;;;;;0
+D2.3b;;;;;;30
+45;no;;;;;0
+46;I don't know;;;;;0
+47;no;;;;;0
+48;yes;"There is important re-use of available health data, such as Covid data, but also data from the Feedback Mechanism of Patients that raised awareness on existing issues (https://www.graphs.ro/feedback - that drew considerable media attention to the subject, even at the local level https://www.graphs.ro/feed_presa.php; https://www.graphs.ro/index_covid.php).";;;;15
+49;yes;Due to the use of data (public procurement, budget, financial allocations) by NGOs, there is also focus and increased interest to promote data literacy at citizen level. This happens through dedicated projects such as Expert Forum's one offering workshops at the local level: https://expertforum.ro/ateliere-bani-publici/ or Funky Citizens: https://funky.ong/en/proiecte/open-contracting-buna-guvernanta-in-contracte-publice/;;;;15
+D2.3c;;;;;;15
+50;no;;;;;0
+51;Yes;"(Review 1 - Answer revised) - https://aerlive.ro/; https://data.primariatm.ro/dataset/calitatea-aerului/resource/d680ddb5-45be-4842-95b6-afdef322991a?view_id=4f40e78a-4b14-4aac-9f14-24b6122b0e01 The apps use air quality data to create real-time vizualizations, thus allowing the public to be permanently informed, but also to allow authorities to easier identify pollution sources such as the illegal waste burning around Bucharest.";"In the previous ODM, there apps were referred to: https://aerlive.ro/; https://data.primariatm.ro/dataset/calitatea-aerului/resource/d680ddb5-45be-4842-95b6-afdef322991a?view_id=4f40e78a-4b14-4aac-9f14-24b6122b0e01 Data from sensors is used to inform the public. WIth answer: ""both apps use air quality data to create real-time vizualizations, thus allowing the public to be permanently informed, but also to allow authorities to easier identify pollution sources such as the illegal waste burning around Bucharest."" Is this still relevant for this year?";;;15
+52;no;;;;;0
+53;no;;;;;0
+54;no;;;;;0
+D2.3d;;;;;;20
+55;no;;;;;0
+56;no;;;;;0
+57;no;;;;;0
+58;yes;SMEs are using official data in their bussines, especially financial and company data ( targetare.ro, https://termene.ro/, https://www.confidas.ro/ - SMEs aggregating and selling financial and juridical data on companies);;;;20
+D3;;;;;;555
+D3.1;;;;;;228
+59;yes;https://data.gov.ro/;;;;20
+60;yes;N/A;;;;10
+61;yes;N/A;;;;10
+62a;yes;N/A;;;;10
+62b;yes;N/A;;;;10
+63;no;Review 1 - the feature is not further developed;Is this feature now developed: https://data.gov.ro/sparql;;;0
+64;yes;https://data.gov.ro/pages/developers;;;;10
+65;yes;As shown in this example, upon loading a dataset, the users can add links to documentation and other supporting materials: https://data.gov.ro/dataset/sipoca36;;;;10
+66a;yes;There is a contact form allowing users to submit feedback on general and specific issues: https://data.gov.ro/contact;;;;10
+66b;yes;The Disqus plugin enables users to provide feedback at dataset level. For example: https://data.gov.ro/dataset/situatii_financiare_2021;;;;10
+66c;yes;https://data.gov.ro/dataset/transparenta-covid (Users can rate the datasets with 1-5 stars from bad to excellent and the average score and number of scorings is shown);;;;10
+67;yes;https://data.gov.ro/blog;;;;10
+68;yes;"https://data.gov.ro/feeds/dataset.atom ; as well as notifications for subscribers to institutions ";;;;10
+69a;yes;https://data.gov.ro/datarequest;;;;10
+69b;monthly;N/A;;;;N/A
+69c;yes;"https://data.gov.ro/datarequest; https://data.gov.ro/datarequest/dc50fdef-8803-4b06-a34f-e08faf826e34";;;;10
+70a;yes;The portal team is part of the process / procedure that informs the institutions of the respective request, as this is not an automated process. As such, the response is also monitored. As part of the new Law on open data, the public institutions will have to report yearly on the number of requests they received directly and how many have resulted in publication of requested data (this will be implemented from 2023 on).;;;;10
+70b;approximately half of the datasets;N/A;;;;8
+71;yes;The Disqus plugin also works as a discussion forum. For example: https://data.gov.ro/dataset/situatii_financiare_2018;;;;10
+72;yes;https://data.gov.ro/showcase;;;;10
+73;yes;https://data.gov.ro/showcase/zoom-report;;;;10
+74;yes;The contact form has this specific option: https://data.gov.ro/contact-us;;;;10
+75;yes;https://data.gov.ro/dataset/plati-programul-national-de-investitii-anghel-saligny-aprilie-2023/resource/441688b8-c8b6-4c51-8716-ace2d4c6f95a;;;;10
+76;yes;https://data.gov.ro/dataset/unitati-administrative/resource/833dc6e4-4851-41e3-8d0b-03c9e56e43b0;;;;10
+77;no;(Review 1 - clarification) there are no recent updates.;In the previous ODM, it was mentioned that the portal is promoting the publication of HVDs through its editorial features (blog, social media). Is this still the case this year? ;;;0
+D3.2;;;;;;145
+78;yes;N/A;;;;10
+79;yes;Google Analytics, CKAN statistics / reports;;;;15
+80a;yes;Shift in interest from Covid data to other regular datasets used by SMEs mostly (company register, financial reports), reduced use of showcase and blog pages, slight decrease in overall portal usage as compared to previous year, decreased acquisition from social media / referral.;;;;10
+80b;yes;Mostly Google Analytics;;;;10
+81a;a bit of everything, no clear dominant group;N/A;;;;10
+81b;yes, entirely;;;;;10
+82;see answer box;aprox. 10000;;;;10
+83;see answer box;0,2;;;;N/A
+84;yes;The most searched keywords match the most consulted categories /datasets (in terms of either the subject or the publisher of the dataset).;;;;10
+85;yes;N/A;;;;10
+86;see answer box;"1 = Company Register; 2 = Government, public services (judicial experts, NGO register); 3 = Health (Covid Data); 4 = Cadastre (territorial limits); 5 = Education";;;;10
+87;see answer box;"1 = Company Register; 2 = judicial experts; 3 = NGO register; 4 = Covid Transparency Data; 5 = Territorial limits of localities";;;;10
+88;yes;Structured data and Google Dataset Search indexing are implemented in the portal, news features on the ogp.gov.ro website and the data portal, social media posts. Support for the publishers to encourage better metadata publication.;;;;10
+89;yes;;;;;10
+90a;yes;N/A;;;;10
+90b;see answer box;0,09;;;;N/A
+D3.3;;;;;;52
+91;the majority of public sector data providers;Although all public sector data providers are encouraged to contribute to the national data portal, there are several institutions that choose to publish on their own portals that were previously designed for their specific data (Ministry of Finance – transparenta-bugetara.gov.ro, National Statistics Institute - http://statistici.insse.ro:8077/tempo-online/#/pages/tables/insse-table, National Cadastre Agency - http://geoportal.gov.ro/Geoportal_INIS/). These have not been included yet in the national open data portal.;;;;12
+92a;yes, or all public sector data providers already publish data;N/A;;;;10
+92b;yes, or all public sector data providers already publish data;There are ongoing efforts to harvest available public data / metadata to the national portal (technical support, API development), but these were hindered by low prioritisation and lack of resources.;;;;10
+93a;yes;https://data.primariatm.ro/;;;;N/A
+93b;no;;;;;0
+93c;none of the datasets;Lack of resources for API implementation.;;;;0
+94a;yes;1. https://data.gov.ro/dataset/locurile-libere-din-parcarile-cu-bariere (real time)  2. https://data.gov.ro/dataset/transparenta-covid (updated daily).;;;;10
+94b;1-10%;N/A;;;;N/A
+95;no;;;;;0
+96;yes;In terms of most datasets published: Ministry of Development, Public Works and Administration, General Inspectorate for Emergency Situations, National Institute for Administration. In terms of re-use and impact: Ministry of Health, Ministry of Finance, National Trade Register Office.;;;;10
+97;no;;;;;0
+D3.4;;;;;;130
+98;Yes;(Review 1 - Answer revised) Sustainability strategy for 2021-2022 (due to be updated) https://data.gov.ro/uploads/page_images/2021-05-25-092902.283922Strategie-sustenabilitate-portal2122.pdf;Can this document be used to answer yes to this question: https://data.gov.ro/uploads/page_images/2021-05-25-092902.283922Strategie-sustenabilitate-portal2122.pdf (from https://data.gov.ro/pages/impact-si-strategii). It was provided last year.;;;30
+99;Yes;(Review 1 - Answer revised) The target groups are described, as well the main issues we identified in their engagement (public sector, civil society, academia, citizens, private sector). There are a also a series of measures proposed to reach the audience (pg.9).;Is this included in the above document (https://data.gov.ro/pages/impact-si-strategii)?;;;10
+100;yes;"As it was started as a joined initiative with the Open Government Partnership plans:
+https://www.facebook.com/RomaniaOGP
+https://twitter.com/ogp_ro";;;;10
+101;yes;webinars, social media and blog posts, working groups with both public bodies and reusers (https://data.gov.ro/blog);;;;15
+102;yes;GitHub links are available here for the non-proprietary functionalities: https://data.gov.ro/pages/resources;;;;10
+103;no;;;;;0
+104a;yes;Feedback from both re-users and publishers is used to identify areas for improvement, as well as best practices from other Member States are used for the review.;;;;15
+104b;less frequently;N/A;;;;N/A
+104c;yes;User feedback received via email, portal Disqus, direct discussions with the portal team or during joint meetings is gathered by the portal team and either implemented on the spot if possible or required (improved usability, clarifying texts etc) or centralised to be implemented when resources are available for major updates.;;;;10
+105a;yes;"https://data.gov.ro/stats; https://data.gov.ro/report";;;;15
+105b;yes;The monitoring enables the portal team to contact the data providers to recommend improvements.;;;;15
+D4;;;;;;393
+D4.1;;;;;;50
+106;Yes;(Review 1 - Answer revised) The model for the publication plan is available on https://data.gov.ro/pages/resources and includes metadata details (such as update frequency). The monitoring of available plans is done manually by the portal team and discussed with the respective agency.;Please double-check this answer. Last year it was mentioned that each public body is required to have a publication plan that includes the update interval. The monitoring is now done manually, on a regular basis, by the portal team and the results are discussed with the publishers. ;;;20
+107;<30%;N/A;;;;0
+108;within one month;monthly payments, information on immigration/refugees , some health data etc.;;;;5
+109;few datasets;N/A;;;;5
+110;yes;The working groups on the HVDs Regulation focus on identifiying standardised practices (in taxonomy, schemas etc) at EU level and build on those.;;;;20
+D4.2;;;;;;145
+111a;yes;Through reports https://data.gov.ro/report, direct monitoring and user feedback and to a lesser extent using the MQA tool on data.europa.eu;;;;20
+111b;no;;;;;0
+112;yes;"https://data.gov.ro/pages/licence
+https://data.gov.ro/uploads/page_images/2020-09-14-105456.958150Metodologie-date-deschisefeb2019.pdf";;;;20
+113;no;(Review 1 - Answer revised) There is the Open Government License - OGL ROU 1.0  (https://data.gov.ro/pages/licence), developed in 2013, and used until 2020 when the main recommended licence is CC-BY 4.0. OGL-ROU can still be used.;Maybe you  can mention the Open Government License - OGL ROU 1.0 to answer yes to this question (https://data.gov.ro/pages/licence);;;10
+114;yes, CC licences;Recommended through Law 179/2022 on open data.;;;;10
+115;>90%;N/A;;;;20
+116;increased, or already >90%;N/A;;;;10
+117;1-4;N/A;;;;10
+118;yes;The available guidelines and resources (https://data.gov.ro/pages/resources) will be updated through the implementing norms for Law 179/2022 (under public consultation, as mentioned above).;;;;15
+119a;yes;Webinars, working groups, information sessions and one-on-one assistance using the government methodology and EDP recommendations;;;;15
+119b;yes;Webinars, working groups, information sessions and one-on-one assistance using the government methodology and EDP recommendations;;;;15
+D4.3;;;;;;98
+120;No;;;Since you marked 'yes', could you provide examples of the documentation and the respective URLS?;;0
+121;71-90%;;;;;20
+122a;10-30%;;;;;8
+122b;<10%;;;;;5
+123;no ;;;;;0
+124a;yes;N/A;;;;25
+124b;See answer box;low awareness on controlled vocabularies, lack of standardised management of data to enable structured publication, lack of resources for portal development;;;;15
+125a;>90%;N/A;;;;20
+125b;<10%;N/A;;;;5
+D4.4;;;;;;100
+126;yes;The portal (and Methodology) uses the 5-Star Open Data model to automatically assess the quality of published data. This is also included in the upcoming implementation norms.;;;;15
+127;yes;Webinars, working groups, information sessions and one-on-one assistance using the government methodology on OD but also EU /EDP Reports data and recommendations.;;;;30
+128a;>90%;N/A;;;;20
+128b;>90%;N/A;;;;25
+128c;31-50%;N/A;;;;10
+128d;<10%;N/A;;;;0
+128e;<10%;N/A;;;;0
+129;no ;;;;;0

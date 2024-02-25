@@ -1,0 +1,293 @@
+ID;Answer;Justification;Reviewer 1 Comments;Reviewer 2 Comments;Mark Question;Score
+TotalScore;;;;;Total Score:;2111
+UnsureScore;;;;;Unsure Score:;0
+PreliminaryScore;;;;;"Preliminary Score: 
+(Total - Unsure)   ";2111
+D0.1;;;;;;
+R1;N/A;Netherlands;;;;N/A
+R2;N/A;Ministry for the Interior  and Kingdom Affairs;;;;N/A
+R3;N/A;xxx;;;;N/A
+R4;N/A;xxx;;;;N/A
+R5;N/A;xxx;;;;N/A
+R6;N/A;11;;;;N/A
+R7;N/A;3 a 4;;;;N/A
+R8;400-600.000 EUR;N/A;;;;N/A
+D0.2;;;;;;
+R9;I don´t know;;;;;N/A
+R10;yes;;;;;N/A
+D1;;;;;;507
+D1.1;;;;;;180
+1;yes;"Wet Hergebruik Overheidsinformatie  https://wetten.overheid.nl/BWBR0036795/2021-07-01
+In this law, the Open Data Directive will be implemented.";;;;30
+2;yes;"https://www.rijksoverheid.nl/documenten/rapporten/2021/10/31/nl-digitaal-interbestuurlijke-datastrategie-nederland
+The IBDS describes the ambition and the approach for reaching these goals. The key points are:
+- working towards technically, legally and ethically better considerations regarding data use
+- develop government-wide system functions, like a federative data system
+- Using concrete use cases with social value.";;;;30
+3;yes;The strategy was send to Parlement in November 2021. In March 2023 an approach for the implementation in the coming years was published:  https://realisatieibds.pleio.nl/file/download/1c9729a6-70a9-4bda-a245-49c1d6d63adb/meerjarenaanpak-interbestuurlijke-datastrategie6maart2023.pdf RESPONSE: The strategy itself did not change, but there is now a document describing how to implement the strategy.;;Please also describe the main changes;;10
+4;yes;Yes for example Amsterdam: https://www.amsterdam.nl/innovatie/digitalisering-technologie/data/amsterdamse-datastrategie;;;;10
+5;yes;"https://www.rijksoverheid.nl/documenten/rapporten/2021/10/31/nl-digitaal-interbestuurlijke-datastrategie-nederland
+Some of the measures/actions:
+- publish a data manifest
+- develop a federative data system
+- assign responsibilities
+- develop a 'toolkit' for data experts
+- develop data leadership";;;;25
+6a;no;;;;;0
+6b;no;;;;;0
+6c;no;;;;;0
+6d;no;;;;;0
+7;yes;The IBDS (national data strategy) supports the reuse of open data by creating a federative data system, that will make data easier findable and usable, aiming to increase the number of reuse cases, especially for social issues.;;;;15
+8;no;;;;;0
+9a;no;;;;;0
+9b;no;;;;;0
+10a;yes;N/A;"Kindy fill in the column ""Publications of HCD in machine-readable formats via APIs"" in the table below. This column was hidden in the original questionnaire. Sorry.";;;20
+10b;yes, regular consultations;;;;;10
+10c;yes;The HVD holders are in the process of together determining this,  likely as an additional entry in the 'Aanmerkingsregister' https://www.inspireaanmerking.nl/aanmerkingsregister which is also used for INSPIRE data holders. This should facilitate automated monitoring later on.;;;;15
+11a;yes;N/A;;;;15
+11a.1;Yes;Within the intergovernmental data strategy (IBDS), and the implementation of the HVD explicit links are made to public tasks and policy aims, such as the Green Deal targets. Individual organisations, e.g. the National Statistics Office do this too.;;;0;
+11a.2;Yes;Within the intergovernmental data strategy (IBDS), and the implementation of the HVD explicit links are made to public tasks and policy aims, such as the Working Agenda Digital Society that is currently being prepared;;;0;
+11a.3;No;;;;0;
+11a.4;No;;;;0;
+11a.5;No;;;;0;
+11a.6;No;;;;0;
+11b;Yes;We always try to find a balance between what is legally allowed, technically possible and ethically responsible. See: https://www.digitaleoverheid.nl/document/interbestuurlijke-datastrategie-2021/;;;;N/A
+D1.2;;;;;;170
+12;yes;"On National level there is a ""steering group open data"" in which all departments are involved. On local level the provinces, waterboards and communities have steering groups for data related matters. Larger cities have ""economic boards"" that are governing the development of data enabling infrastructures in cooperation with private and research parties. ";;;;30
+13;hybrid;Hybrid since it combines the advantages of top-down and bottom-up;;;;N/A
+14;yes, some initiatives;The National dataportal gives an overview of initiatives and events on national, regional and local level and are involved in a lot of these activities. ;;;;10
+15;approximately half of the public bodies;;;;;10
+16;yes;The Ministry of the Interior and Kingdom Relations is repsonsible for the open data policy. KOOP (Kennis en Exploitatiecentrum Officiele Overheidspublicaties) maintains the national open data portal. LEOO (Leer- en Expertisepunt Open Overheid) works on knowledge sharing about Open Data. As explained here: https://www.koopoverheid.nl/open-data--linked-data;;;;20
+17a;yes;The responsibilities of the national team (data.overheid.nl) are described here: https://data.overheid.nl/ondersteuning/algemeen/over-dataoverheidnl;;;;20
+17b;yes;The team maintaining the national portal is part of the national open data team. ;;;;20
+18;yes;The (chief) data officers are often also responsible for open data. Some organizations (for example CBS) have a dedicated open data officer.;;;;20
+19;yes;"Events and news items can be found on the website of the national data portal: https://data.overheid.nl/actueel
+Knowledge and support is also shared via the website: https://data.overheid.nl/ondersteuning/data-publiceren/handreiking-open-data RESPONSE: Every 3 months there is a meeting about the national data strategy (https://realisatieibds.pleio.nl/events/view/f4bfbc3b-ef62-4ece-bc61-528c0b003c86/save-the-date-ibds-cafe-hoe-kunnen-data-maatschappelijke-opgaven-verder-helpen).";;The current answer points to more general sources of information. This question is interested in whether there is  some form of exchange between the national open data team and the (chief) data offices (as mentioned in Q18);;20
+20;yes;For example on the Geoform, there is a lot of contact between data providers such as PDOK and users. Online, and on events: https://geoforum.nl/ and  https://geoforum.nl/c/events/49;;;;20
+D1.3;;;;;;157
+21;yes;There are standard publication plans on national and local level provided by the National dataportal and biggest cities. These plans also implement the DCAT standardized value list for mandatory fields to fill during publication. There is in addition a staged publication process. The biggest data owning organization first publish data in internal catalogues, before it is published in the public and national datapportals. ;;;;20
+22a;yes;The implementation of the IBDS (strategy) is handled by an organization (ICTU) focusing on the realisation of the strategy (see: https://realisatieibds.pleio.nl/) by stimulating and facilitating the intergovernmental cooperation.;;;;15
+22b;neutral;"The implementation program for IBDS started in 2022 and runs until 2031. This means that the implementation program has just started, and it's too early to state something about the level of implementation. Therefore the answer is neutral.""";;;;N/A
+23a;yes;All public sector bodies provide their data free of charge, except for a couple of organizations that are allowed to charge fees, as regulated by specific laws.;;;;15
+23b;the majority of datasets;N/A;;;;12
+23c;no change;N/A;;;;5
+24a;N/A;1. Data quality 2. Trust in data 3. Lack of data interoperability;;;;N/A
+24b;yes;"The measures are described in the national data strategy: https://www.digitaleoverheid.nl/document/interbestuurlijke-datastrategie-2021/ 
+For example the development of a federative data system, that will contribute to better data quality and interoperability. RESPONSE: The national data strategy also offers a toolkit that provides help with the responsible use of data. This could help enhance the trust in data. https://realisatieibds.pleio.nl/cms/view/628d59dd-0755-4c20-8217-d3f26d9d8a5c/toolbox-voor-verantwoord-datagebruik";;For interest, do you also have activities to address the issues of data quality and trust?;;10
+25a;yes;"Extensive support content is availavble in Dutch for data publishers: https://data.overheid.nl/ondersteuning/data-publiceren/datasets-publiceren, combined with a ""handreiking"" which is an extensive guidline to help makes the choices how to publish data";;;;15
+25b;yes;"Data holders are assisted by data hubs that are handling specific data; 
+- Rijkswaterstaat is a data hub that supports data holders that have real time data on the infrastructure via: https://waterinfo.rws.nl/#!/nav/index/. Which is a real-time platform that people can use and enter.
+- A data hub like NDW (National Road database) helps to gather real time data from various data holders and convert this to usable data for public and private users. 
+So activities are conducted by sector based data hubs to support data holders. The data hubs connect to the National dataportal. ";;;;10
+25c;yes;Geonovum is assisting relevant stakeholders (also under the INSPIRE flag) with the publication of geo data. Acitivites include the coordination of a frequent meeting between stakeholders within the geo domain regarding open data matters, see: https://www.geonovum.nl/geo-standaarden/inspire-europese-leefomgeving;;;;10
+25d;yes;RIVM (National Institute for Public Health and the Environment) supports Citizen Science projects regarding measuring air quality: https://www.rivm.nl/lucht/meten-modelleren-berekenen/samen-meten  and supports the publication on this data portal: https://samenmeten.rivm.nl/dataportaal/;;;;10
+26a;yes;The RADIO (National Academy for Digital and Information Government) provides such trainings: https://www.it-academieoverheid.nl/onderwerpen/d/data;;;;15
+26b;no;;;;;0
+27a;yes, >9;"- https://data.overheid.nl/actueel/evenementen
+- https://www.open-overheid.nl/actueel/activiteiten?trefwoord=&periode=alle-activiteiten-uit-het-verleden&organisator=Alle+organisatoren&type=Alle+typen+activiteiten
+- https://www.meetup.com/osgeonl/";;;;20
+27b;a mix of the above;National government (BZK), Open Overheid, Koop, Academia, KvK etc.;;;;N/A
+D2;;;;;;460
+D2.1;;;;;;110
+28;yes;"In the Who (Dutch law on the reuse  of governmental data) the definition of reuse is specified as follows:  hergebruik: het gebruik van informatie, neergelegd in documenten berustend bij een met een publieke taak belaste instelling, voor andere doeleinden dan het oorspronkelijke doel binnen de publieke taak waarvoor de informatie is geproduceerd, anders dan de uitwisseling van informatie tussen met een publieke taak belaste instellingen onderling uitsluitend met het oog op de vervulling van hun publieke taken; https://wetten.overheid.nl/BWBR0036795/2021-07-01";;;;10
+29;Yes, there is a strong focus;The national open data team has conducted several activities to get insight in the level of reuse of open data, such as interviewing people/organizations about their reuse applications and creating the opportunity to submit reuse applications on the national open data portal.;;;;15
+30;yes;To get insight in the level of reuse of open data, people can submit their applications based on open data on the national open data portal: https://data.overheid.nl/community/toepassingen;;;;20
+31;no ;;;;;0
+32;no;;;;;0
+33;yes;Impact is defined as the effect on processes in four different domains: Economic, Environmental, Political/Governmental and Societal impact. https://data.overheid.nl/community/impact;;;;20
+34;yes;- monitor statistics on open data portal, - create Impact stories, - create insight in applications of open data use. See https://data.overheid.nl/community/impact and  https://data.overheid.nl/impact;;;;30
+35;no;;;;;0
+36;yes;"Yes, government works with NGO's like Open State Foundation, Waag Society, University of Amsterdam, Univeristiy of Delft on various projects to create impact; most initiatives are focused on creating datasets that have a national coverage (instead of fragmented sets) or introducing impact frameworks or assessment frameworks (like the TaDa principles setup in Amsterdam in cooperation with the Waag, see https://www.tada.city";;;;15
+D2.2;;;;;;110
+37;yes;N/A;;;;40
+37.1;Yes;x Data.overheid.nl analyses the log files for usage of the portal;;;0;
+37.2;Yes;Metrics are being collected and analyzed by data.overheid.nl;;;0;
+37.3;No;;;;;
+37.4;Yes;The team of data.overheid.nl conducts interviews to measure and describe the impact of data re-use. Called Impact Stories;;;0;
+37.5;No;;;;0;
+38;Yes;N/A;;;;40
+38.1;Yes;x user days;;;0;
+38.2;No;;;;0;
+38.3;Yes;"-Users can leave feedback on every dataset page of the data portal. 
+-The data portal supports and facilitates data communities on different domains, which helps to get insight in the needs of these users
+- Users can submit a 'dataverzoek' (request for data)";;;0;
+39a;Yes;"Two ways: 
+Impact stories are collected by conducting interviews: https://data.overheid.nl/actueel/impact-story
+Applications are collected on the open data portal, where people can submit their cases: https://data.overheid.nl/community/toepassingen/toepassing-aanmelden";;;;20
+39b;Yes;The Applications of open data are categorized by Theme, there are 14 main themes, such as Economy, Housing, Traffic. The cases are also classified by type of application (app/mobile/visualisation/website). See https://data.overheid.nl/community/toepassingen;;;;10
+D2.3;;;;;;240
+D2.3a;;;;;;60
+40;No;"The ""impact stories"" we collect provide incredible insight in how public and private parties achieve results in all kinds of challenges. All stories are here: https://data.overheid.nl/zoek/nieuws?search=impact%20story
+Some specific stories pointing to governmental impact: 
+- https://data.overheid.nl/actueel/impact-story/impact-story-overheidsfinancien
+- https://data.overheid.nl/actueel/impact-story/impact-story-gebiedsprogramma-haarlem
+RESPONSE TO REVIEWER 1 COMMENTS:
+No, there are no recent quantitative studies on open data impact.";Further to the impact stories (news items) do you have any data/measurements from impact assessments or similar studies on open data impact?;;;0
+41;yes;In this impact story it is mentioned that the creation of this application improved the efficiency of the governmental organization because it put open data in one structured place, when first the civil servants had multiple different (personal) excel documents they had to search through: https://data.overheid.nl/actueel/impact-story/impact-story-gebiedsprogramma-haarlem;;;;15
+42;yes;The transparency of the government is improved by this dashboard on their finances: https://data.overheid.nl/community/application/dashboard-overheidsfinancin;;;;15
+43;yes;De Leefbarometer application is used as information in the policy-making processes regarding the quality of life in neighbourhoods: https://data.overheid.nl/community/application/leefbarometer;;;;15
+44;yes;This dashboard ('Zicht op ondermijning') based on open data is used by municipalities in decision-making processes about preventing crime: https://data.overheid.nl/community/application/zicht-op-ondermijning;;;;15
+D2.3b;;;;;;60
+45;No;"The ""impact stories"" we collect provide incredible insight in how public and private parties achieve results in all kinds of challenges. All stories are here: https://data.overheid.nl/zoek/nieuws?search=impact%20story
+Specific stories pointing to social impact: 
+- https://data.overheid.nl/actueel/impact-story/impact-story-nieuwbouwmonitor
+- https://data.overheid.nl/actueel/impact-story/impact-story-vzinfonl
+- https://data.overheid.nl/actueel/impact-story/impact-story-studiekeuze123";Further to the impact stories (news items) do you have any data/measurements from impact assessments or similar studies on open data impact?;;;0
+46;yes;"There is a dashboard based on open data that provides insight in equality of opportunity in education, which is used by the GKA (equal opportunity alliance) to take measures and reduce inequality (https://www.gelijke-kansen.nl/actueel/nieuws/2023/03/14/voortgangrapportage-2022):  https://data.overheid.nl/community/application/4104/datasets 
+https://www.ocwincijfers.nl/themas/kansengelijkheid";;;;15
+47;yes;This application (de Nieuwbouwmonitor) shows where new building projects are, and what kind of houses are built: https://data.overheid.nl/community/application/nieuwbouwmonitor;;;;15
+48;yes;"This application provides a continuous base of information on health and health care in the Netherlands, instead of a report every four years. This helps the government, journalists and scientists in their work: https://data.overheid.nl/actueel/impact-story/impact-story-vzinfonl
+https://data.overheid.nl/community/application/volksgezondheidenzorg-info
+There have been multiple applications regarding COVID-19 during the pandemic, creating impact by providing useful information for the fight against the virus: 
+- https://data.overheid.nl/community/application/alle-cijfers-covid-19-corona
+- https://data.overheid.nl/community/application/nl-covid-19-hub";;;;15
+49;yes;"- This application helps governmental organizations and news organizations to visualize data (a lot of data already available, but also possible to add own data), enabling people to better understand the data and the news/message: https://data.overheid.nl/actueel/impact-story/impact-story-localfocus
+- This application helps future students in their choice of study, by combining open data sources: https://data.overheid.nl/actueel/impact-story/impact-story-studiekeuze123";;;;15
+D2.3c;;;;;;60
+50;No;"The ""impact stories"" we collect provide incredible insight in how public and private parties achieve results in all kinds of challenges. All stories are here: https://data.overheid.nl/zoek/nieuws?search=impact%20story
+Specific stories pointing to environmental impact: 
+-  https://data.overheid.nl/actueel/impact-story/impact-story-klimaatmonitor
+- https://data.overheid.nl/actueel/impact-story/impact-story-npres
+- https://data.overheid.nl/actueel/impact-story/impact-story-zonnedakje
+- https://data.overheid.nl/actueel/impact-story/impact-story-nexus";Further to the impact stories (news items) do you have any data/measurements from impact assessments or similar studies on open data impact?;;;0
+51;yes;"- This application helps provinces and waterboards to monitor and model water/drought, by combining data sources and creating a digital twin: https://data.overheid.nl/community/application/nexus_2
+- This application shows which roofs offer opportunities for 'sustainable rooftops', which contributes to solving problems regarding heat in the city, water storage and air pollution: https://data.overheid.nl/community/application/duurzame-daken-kansenkaart_1
+- This application shows registered emissions, which is used for monitoring and policy: [@[Guide to Answering]] (https://data.overheid.nl/community/application/4273/datasets)";;;;15
+52;yes;"- This application shows which roofs offer opportunities for 'sustainable rooftops', which contributes to solving problems regarding heat in the city, water storage and pollution: https://data.overheid.nl/community/application/duurzame-daken-kansenkaart_1
+- This application based on open data helped the city of Amsterdam to more efficiently drive to the garbage containers in the city to empty them, saving fuel and CO2 emissions, and making the city cleaner: https://data.overheid.nl/actueel/impact-story/impact-story-afvalcontainers-amsterdam";;;;15
+53;yes;"- This application provides all kinds of information on the energy transition, and is used by municipalities in their policy-making processes: https://data.overheid.nl/community/application/datavoorziening-energietransitie-gebouwde-omgeving
+- This application shows which roofs offer opportunities for 'sustainable rooftops', which contributes to solving problems regarding heat in the city, water storage and pollution: https://data.overheid.nl/community/application/duurzame-daken-kansenkaart_1
+- This application shows which roofs offer opportunities for solar panels, to make use of more renewable energy: https://data.overheid.nl/actueel/impact-story/impact-story-zonnedakje";;;;15
+54;yes;"- This application shows how much renewable energy is generated (real-time), monitoring whether we reach our goals: https://data.overheid.nl/actueel/impact-story/impact-story-energieopweknl
+- This application shows which roofs offer opportunities for solar panels, to make use of more renewable energy: https://data.overheid.nl/actueel/impact-story/impact-story-zonnedakje
+- This application provides all kinds of information on the energy transition, and is used by municipalities in their policy-making processes: https://data.overheid.nl/community/application/datavoorziening-energietransitie-gebouwde-omgeving";;;;15
+D2.3d;;;;;;60
+55;No;"The ""impact stories"" we collect provide incredible insight in how public and private parties achieve results in all kinds of challenges. All stories are here: https://data.overheid.nl/zoek/nieuws?search=impact%20story
+Specific stories pointing to economic impact: 
+- https://data.overheid.nl/actueel/impact-story/impact-story-kvk-locatiescan
+- https://data.overheid.nl/actueel/impact-story/impact-story-kvk-bedrijventeller
+- https://data.overheid.nl/actueel/impact-story/impact-story-datapedia-smart-mobility
+RESPONSE TO REVIEWER 1 COMMENTS:
+No, there are no recent kwantitative studies on open data impact.";Further to the impact stories (news items) do you have any data/measurements from impact assessments or similar studies on open data impact?;;;0
+56;yes;This application used open data on the number of children/students and cycling routes to visualize the distance for children to cycle to school. This helped the schools in the area to see how many schools and teachers would be needed, and where they should be: https://data.overheid.nl/actueel/impact-story/impact-story-fietsafstanden;;;;20
+57;yes;This application (Datapedia Smart Mobility) helps municipalities by providing information on mobility and what can be done to improve the digitalisation of mobility data: https://data.overheid.nl/actueel/impact-story/impact-story-datapedia-smart-mobility;;;;20
+58;yes;"This application (KvK Locatiescan) helps starting businesses to get information about their location (the market, the population) which useful for their business plan or marketing strategy: https://data.overheid.nl/actueel/impact-story/impact-story-kvk-locatiescan
+And this application (KvK Bedrijventeller) gives an overview of the number of businesses per branche, which can be used for a competition analyses: https://data.overheid.nl/actueel/impact-story/impact-story-kvk-bedrijventeller";;;;20
+D3;;;;;;604
+D3.1;;;;;;252
+59;yes;data.overheid.nl;;;;20
+60;yes;N/A;;;;10
+61;yes;N/A;;;;10
+62a;yes;N/A;;;;10
+62b;yes;N/A;;;;10
+63;yes;"The api can be found here: https://data.overheid.nl/data/api/3
+This page explains how to use of the api: https://data.overheid.nl/opvragen-van-dataset-informatie-de-api-van-dataoverheidnl";;;;10
+64;yes;https://data.overheid.nl/ondersteuning/data-publiceren/api;;;;10
+65;yes;"documentation and supporting material can be added during publicatino of the data (requires login): https://data.overheid.nl/dataset/dataset-publiceren 
+also explained on this page:
+https://docs.datacommunities.nl/data-overheid-nl-documentatie/datasets-aanmelden/handleiding-datasets-aanmelden-op-data.overheid.nl";;;;10
+66a;yes;https://data.overheid.nl/ondersteuning/algemeen/contact;;;;10
+66b;yes;Every dataset page has a Feedback option, where people can give a thumbs up/down and leave comments. Example: https://data.overheid.nl/dataset/259-asielverzoeken-en-nareizigers--nationaliteit--geslacht-en-leeftijd;;;;10
+66c;yes;Users can give a thumbs up/down to vote or rate the dataset;;;;10
+67;yes;https://data.overheid.nl/actueel;;;;10
+68;yes;https://data.overheid.nl/rss/actueel;;;;10
+69a;yes;https://data.overheid.nl/community/dataverzoeken/dataverzoek-indienen;;;;10
+69b;daily;N/A;;;;N/A
+69c;yes;https://data.overheid.nl/community/dataverzoeken;;;;10
+70a;yes;In the data request form follow up actions are being tracked. This functionality is internal eyes only.We monitor the overview and status of unresolved requests.;;;;10
+70b;the majority of datasets;N/A;;;;12
+71;yes;https://data.overheid.nl/datacommunities;;;;10
+72;yes;https://data.overheid.nl/community/toepassingen;;;;10
+73;yes;For every application the datasets are referenced, example: https://data.overheid.nl/community/application/6022/datasets;;;;10
+74;yes;https://data.overheid.nl/community/toepassingen/toepassing-aanmelden;;;;10
+75;yes;"There is a button 'Voorbeeld' (preview) right after the link to download the tabular data:
+https://data.overheid.nl/dataset/immigratie-ind-asiel-eerste-en-volgende-aanvragen ";;;;10
+76;no;;;;;0
+77;yes;We're investigating how the new definition of high-value datasets will be implemented on the portal. There are discussions on how to identify and label these datasets.;;;;20
+D3.2;;;;;;145
+78;yes;N/A;;;;10
+79;yes;Piwik Pro;;;;15
+80a;yes;We noticed people find the data via their search engine, not via the homepage, so it is important that people can easily navigate further from these pages.;;;;10
+80b;yes;We organize user days.;;;;10
+81a;a bit of everything, no clear dominant group;N/A;;;;10
+81b;yes, entirely;;;;;10
+82;see answer box;On average there are 50.000 unique visitors per month;;;;10
+83;see answer box;Roughly 20% (mostly from Belgium);;;;N/A
+84;yes;We analyze the internal search keywords to discover trends.;;;;10
+85;yes;N/A;;;;10
+86;see answer box;1 =  housing, 2 = traffic, 3 = infrastructure, 4 = health/health care, 5 = governance;;;;10
+87;see answer box;1 = consumentenprijsindices (CPI) alle huishoudens, 2 = Basisregistratie Adressen en Gebouwen (BAG), 3 = Toegelaten instellingen WTZi, 4 = Overledenen, geslacht en leeftijd, per week, 5 = Gegevens kinderopvanglocaties LRK;;;;10
+88;yes;Yes, we use an advanced SOLR based suggestor system, use taxonomies to optimize search and add editorial datasets, groups and content to make data better findable. We implemented Schema.org to provide better findability in Google. ;;;;10
+89;yes;;;;;10
+90a;yes;N/A;;;;10
+90b;see answer box;0,75;;;;N/A
+D3.3;;;;;;87
+91;the majority of public sector data providers;Public sector data providers are willing to publish on the dataportal. Most auto sync their own catalogues. A lot of relation management is important to keep data owners to provide datasets on the portal. We sync all catalogues. Only some organization wiothout a catalogue may have manually added datasets on their websites that are not in the national data portal. ;;;;12
+92a;yes, or all public sector data providers already publish data;N/A;;;;10
+92b;yes, or all public sector data providers already publish data;We work together with these data providers, and we support all data providers by making all documentation available on the portal.;;;;10
+93a;yes;data.utrecht.nl, data.amsterdam.nl, data.nijmegen,nl, and more;;;;N/A
+93b;yes;;;;;10
+93c;all datasets;;;;;15
+94a;yes;"For example these datasets:
+https://data.overheid.nl/dataset/533-pompprijzen-motorbrandstoffen--locatie-tankstation--brandstofsoort 
+https://data.overheid.nl/dataset/d78f80c4-6049-4a56-8807-a01b40b6401a
+https://data.overheid.nl/dataset/5c60eee8-201c-4566-b8db-45544ca2147c";;;;10
+94b;11-20%;N/A;;;;N/A
+95;no;;;;;0
+96;yes;"There is a filter function 'data owner' on the portal. The following provide the most data:
+https://www.nationaalgeoregister.nl/
+https://www.cbs.nl/";;;;10
+97;yes;These datasets can be found on the national portal by filtering (Access) on datasets that are 'Not Public'. In the description of the data it is explained why the data cannot be made available as open data. See this example: https://data.overheid.nl/dataset/nederlandse-gedetineerden-in-het-buitenland;;;;10
+D3.4;;;;;;120
+98;yes;The portal is centrally financed by the Ministry with a long term maintenance contract. And on this page we set up our code base to ensure continuity: https://github.com/dataoverheid;;;;30
+99;no;;;;;0
+100;yes;"https://www.linkedin.com/company/20355889
+https://twitter.com/opendatanl";;;;10
+101;yes;We organize user days, and we share our Impact Stories.;;;;15
+102;yes;Github: https://github.com/dataoverheid;;;;10
+103;no;;;;;0
+104a;yes;We monitor user statistics, and take actions based on these statistics. Every three months we set our priorities.;;;;15
+104b;quarterly;N/A;;;;N/A
+104c;yes;We get feedback on the user days or via the website, and we can infer user needs from the data requests. All this information is taken into account during the review sessions.;;;;10
+105a;yes;https://data.overheid.nl/statistieken;;;;15
+105b;yes;Yes, we use the statistics (also a lot of non-public figures in our Piwik Pro system) to steer the content production for impact stories, social media activities and need for support pages. Important here is how successful users are to find data without help. ;;;;15
+D4;;;;;;540
+D4.1;;;;;;98
+106;yes;We have a clearly defined metadata approach conform DCAT. So the government organisations can check if the metadata is up to date conform the standard. The datamanagement team of the portal every day checks if the (meta)data is right and if we miss datasets we contact the data owners. Documentation is published for anyone to check how to validate against the Dutch DCAT application profile of DCAT. Currently the DCAT-AP 2 DONL is being created which will implement DCAT AP 2;;;;20
+107;90-99%;N/A;;;;18
+108;within one day;Full update of meta data description of data set, linkchecker to validate the existence of the set, push-pull mechanism for synchonization with other catalogs. ;;;;40
+109;the majority of datasets;N/A;;;;20
+110;no;;;;;0
+D4.2;;;;;;155
+111a;yes;We validate at the moment metadata is synced from connected portals. Every dataset must validate against the mandatory setting in our Dutch DCAT application profile. If datasets do not validate, they can't be added to the portal. Responsibility is with the data owner to make sure their metadata validates.  ;;;;20
+111b;yes;We check the condition of links to resources every night. In the monitoring statistics results are shown (Quality of the data): https://data.overheid.nl/statistieken/monitor;;;;15
+112;yes;https://data.overheid.nl/ondersteuning/data-publiceren/licentie-keuze;;;;20
+113;not applicable;We use the CC licencing suite.;;;;10
+114;yes, CC licences;It is mandatory for publishers to set the license for a dataset on the portal. The license field must be filled to allow a dataset on the National portal.;;;;10
+115;>90%;N/A;;;;20
+116;increased, or already >90%;N/A;;;;10
+117;5-10;N/A;;;;5
+118;yes;https://docs.datacommunities.nl/data-overheid-nl-documentatie/datasets-aanmelden/handleiding-datasets-aanmelden-op-data.overheid.nl;;;;15
+119a;yes;We  have a team that actively checks and monitors the quality of the metadata. Either based on their own investigations, feedback from users or data requests from users, we can ask and assist data providers to publish their data in machine-readable formats. We provide documentation on data formats on our site: https://data.overheid.nl/ondersteuning/data-gebruiken/vormen-van-data;;;;15
+119b;yes;Data providers must use DCAT for publishing metadata. We are developing the Dutch implementation of DCAT-AP, DCAT-AP NL. People are invited to join a working group for the development of this standard: https://data.overheid.nl/actueel/nieuws/maak-data-vindbaar-doe-mee-de-werkgroep-dcat-ap-nl-geonovum;;;;15
+D4.3;;;;;;162
+120;yes;https://docs.datacommunities.nl/data-overheid-nl-documentatie/dcat/dcat-introductie;;;;25
+121;>90%;;;;;25
+122a;>90%;;;;;20
+122b;10-30%;;;;;8
+123;yes;"To optimise the searchability and findability of datasets, enrichment of EU standard. There are less free answer options, which enables easier verification of the quality of the metadata. Documentation: https://data.overheid.nl/ondersteuning/open-data/dcat
+DCAT 1.1: https://dcat-ap-donl.readthedocs.io/en/latest/
+DCAT 2.0: https://github.com/dataoverheid/dcat-ap-donl";;;;5
+124a;yes;N/A;;;;25
+124b;see answer box;Organisations find it difficult to provide the information in the linked data representation.;;;;15
+125a;51-70%;N/A;;;;14
+125b;>90%;N/A;;;;25
+D4.4;;;;;;125
+126;no ;;;;;0
+127;yes;We get in contact with the data providers also on user days, and we promote the DCAT AP standard and ask them to join in the development of the  DCAT AP NL.;;;;30
+128a;>90%;N/A;;;;20
+128b;>90%;N/A;;;;25
+128c;>90%;N/A;;;;25
+128d;71-90%;N/A;;;;20
+128e;10-30%;N/A;;;;5
+129;no ;;;;;0

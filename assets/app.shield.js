@@ -26,8 +26,11 @@ class Shield {
         }
 
         node.innerHTML = 
-            '<div class="shield-border"></div>' +
+            '<div class="shield-border">'+
+                '<div class="shield-borderhat"></div>' +
+            '</div>' +
             '<div class="shield-background">' +
+                '<div class="shield-backgroundhat"></div>' +
                 '<div class="shield-board"></div>' +
                 '<div class="shield-score"></div>' +
             '</div>' +

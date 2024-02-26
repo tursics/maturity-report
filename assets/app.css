@@ -272,7 +272,7 @@ input[type="search"]:focus-visible {
 .shield {
     font-size: 1rem;
     height: 17em;
-    margin: 0 1.2em 3.25em 1.2em;
+    margin: 0 1.2em 4em 1.2em;
     position: relative;
     vertical-align: middle;
     width: 17em;
@@ -308,6 +308,19 @@ input[type="search"]:focus-visible {
 }
 .shield-background:before {
     border-top-color: #000;
+}
+.shield-borderhat, .shield-backgroundhat {
+    background: goldenrod;
+    border-radius: 50% 50% 0 0;
+    display: block;
+    height: 3em;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: -.9em;
+}
+.shield-backgroundhat {
+    background: #000;
 }
 .shield-ribbon {
     background: goldenrod;
@@ -625,6 +638,9 @@ input[type="search"]:focus-visible {
 .shield.blue-sky .shield-background::before {
     border-top-color: transparent;
 }
+.shield.blue-sky .shield-borderhat {
+    background: steelblue;
+}
 .shield.blue-sky .shield-ribbon {
     background: lightskyblue;
 }
@@ -708,6 +724,9 @@ input[type="search"]:focus-visible {
 .shield.indian-red .shield-border::before {
     border-top-color: indianred;
 }
+.shield.indian-red .shield-borderhat {
+    background: indianred;
+}
 .shield.indian-red .shield-ribbon {
     background: indianred;
 }
@@ -745,6 +764,9 @@ input[type="search"]:focus-visible {
 }
 .shield.sea-green .shield-border::before {
     border-top-color: mediumseagreen;
+}
+.shield.sea-green .shield-borderhat {
+    background: mediumseagreen;
 }
 .shield.sea-green .shield-ribbon {
     background: mediumseagreen;

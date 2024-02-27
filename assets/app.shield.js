@@ -166,7 +166,7 @@ class Shield {
         var str = '';
         var that = this;
 
-        var percentage = this.getPercentage(getQuestion('root'));
+        var percentage = this.getPercentage(questionAnswer.get('root'));
         this.setCaption(percentage);
 
         function processChildren(root) {

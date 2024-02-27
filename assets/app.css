@@ -540,6 +540,20 @@ input[type="search"]:focus-visible {
     white-space: nowrap;
     z-index: 1;
 }
+#countries .vlist {
+    display: inline-block;
+    line-height: 1.3em;
+    margin-right: .5em;
+    text-align: center;
+    vertical-align: middle;
+}
+#countries .vlist a {
+    color: steelblue;
+    text-decoration: none;
+}
+#countries .vlist a:hover {
+    text-decoration: underline;
+}
 #countries .shield-button {
     margin-left: 0;
     top: -1em;

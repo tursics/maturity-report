@@ -74,13 +74,21 @@ function onFileReport(filepath, data) {
     _.appendTranslations(language, data);
 }
 
-function goto(destination) {
+function goto(destination, event) {
+    if (event) {
+        event.preventDefault();
+    }
+
     if ('open-sidebar' === destination) {
         openSidebar();
     } else if ('close-sidebar' === destination) {
         closeSidebar();
     } else if ('search' === destination) {
         toggleSearch();
+    } else if ('allCountries' === destination) {
+        addAllCountries();
+    } else if ('noCountries' === destination) {
+        removeAllCountries();
     } else if ('upwards' === destination) {
         questionAnswer.jumpUpwards();
     } else if ('prev' === destination) {
@@ -110,6 +118,24 @@ function toggleCountry() {
 
         goto(currentID);
     }
+}
+
+function addAllCountries() {
+    var selectedLang = document.querySelectorAll('figure.shield-button[data-country]:not(.selected)');
+    selectedLang.forEach((elem) => {
+        var country = elem.dataset.country;
+
+        countries.select(country);
+    })
+}
+
+function removeAllCountries() {
+    var selectedLang = document.querySelectorAll('figure.shield-button[data-country].selected');
+    selectedLang.forEach((elem) => {
+        var country = elem.dataset.country;
+
+        countries.select(country);
+    })
 }
 
 function changeLanguage(newLang) {
@@ -250,7 +276,7 @@ function onTextSearch() {
     var str = '';
 
     if (value !== '') {
-        var selectedLang = document.querySelectorAll('[data-country].selected');
+        var selectedLang = document.querySelectorAll('figure.shield-button[data-country].selected');
         selectedLang.forEach((elem) => {
             var country = elem.dataset.country;
             var flag = country === 'el' ? 'gr' : country;
@@ -273,6 +299,10 @@ function onResult(elem, event) {
 }
 
 function zoomIn() {
+    if (shields.length === 0) {
+        return;
+    }
+
     var shield = document.getElementById('sidebar-shield');
     shield.classList.remove('zoom-xs');
     shield.classList.remove('zoom-s');
@@ -288,6 +318,10 @@ function zoomIn() {
 }
 
 function zoomOut() {
+    if (shields.length === 0) {
+        return;
+    }
+
     var shield = document.getElementById('sidebar-shield');
     shield.classList.remove('zoom-xs');
     shield.classList.remove('zoom-s');

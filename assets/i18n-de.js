@@ -1,6 +1,8 @@
 var i18n = i18n || [];
 i18n['de'] = {
     'countries': 'Staaten:',
+    'countriesAll': 'Zeige alle',
+    'countriesNone': 'Zeige keine',
     'D0': 'Dimension 0: Informationen',
     'debug': 'Debug',
     'EU': 'EU',

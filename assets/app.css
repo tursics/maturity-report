@@ -641,6 +641,15 @@ input[type="search"]:focus-visible {
 .shield.blue-sky .shield-borderhat {
     background: steelblue;
 }
+.shield.blue-sky .shield-backgroundhat {
+    background: steelblue;
+}
+.shield.blue-sky.selected .shield-backgroundhat {
+    background: aliceblue;
+}
+.shield.blue-sky.disabled .shield-backgroundhat {
+    background: lightskyblue;
+}
 .shield.blue-sky .shield-ribbon {
     background: lightskyblue;
 }
@@ -689,6 +698,9 @@ input[type="search"]:focus-visible {
 .shield-button.blue-sky .shield-border::before {
     border-top-color: #222;
 }
+.shield-button.blue-sky .shield-borderhat {
+    background: #222;
+}
 .shield-button.blue-sky .shield-background {
     background: steelblue;
 }
@@ -713,6 +725,18 @@ input[type="search"]:focus-visible {
 }
 .shield-button.disabled.lightblue-sky .shield-background::before {
     border-top-color: steelblue !important;
+}
+.shield.lightblue-sky .shield-borderhat {
+    background: #222;
+}
+.shield.lightblue-sky.disabled .shield-borderhat {
+    background: #222;
+}
+.shield.lightblue-sky .shield-backgroundhat {
+    background: lightskyblue;
+}
+.shield.lightblue-sky.disabled .shield-backgroundhat {
+    background: steelblue;
 }
 
 /* -------- */

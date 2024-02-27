@@ -21,8 +21,9 @@ var countries = (function () {
         var flag = country === 'el' ? 'gr' : country;
 
         node.innerHTML = 
-            '<div class="shield-border"></div>' +
+            '<div class="shield-border"><div class="shield-borderhat"></div></div>' +
             '<div class="shield-background">' +
+                '<div class="shield-backgroundhat"></div>' +
                 '<div class="shield-chevron" style="font-size:10em;line-height:1.7em"><span class="fi fi-' + flag + ' fis"></span></span>' +
             '</div>';
 

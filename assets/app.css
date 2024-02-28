@@ -279,6 +279,7 @@ input[type="search"]:focus-visible {
 }
 .shield-border, .shield-background {  
     background: goldenrod;
+    background: linear-gradient(180deg, #e7b02e 0%, #e7b02e 10%, #b58500 100%);
     border-radius: 2em 2em 104% 104%;
     height: 18.75em;
     position: absolute;  
@@ -288,7 +289,7 @@ input[type="search"]:focus-visible {
     border: solid 0 transparent;
     border-left-width: 2.9em;
     border-right-width: 2.9em;
-    border-top-color: goldenrod;
+    border-top-color: #b58500;
     border-top-width: 1em;
     bottom: -.28em;
     content: "";
@@ -310,7 +311,7 @@ input[type="search"]:focus-visible {
     border-top-color: #000;
 }
 .shield-borderhat, .shield-backgroundhat {
-    background: goldenrod;
+    background: #e7b02e;
     border-radius: 50% 50% 0 0;
     display: block;
     height: 3em;
@@ -324,6 +325,7 @@ input[type="search"]:focus-visible {
 }
 .shield-ribbon {
     background: goldenrod;
+    background: linear-gradient(180deg, #e7b02e 0%, #e7b02e 10%, #b58500 100%);
     border-radius: 0 0 .5em .5em;
     bottom: 3.5em;
     color: #000;
@@ -476,6 +478,7 @@ input[type="search"]:focus-visible {
 .shield.blue-sky.zoom-xs .shield-board.zoomable {
     bottom: unset;
     font-size: 1.65em;
+    max-height: 7em;
     top: 3em;
 }
 
@@ -489,6 +492,7 @@ input[type="search"]:focus-visible {
 .shield.blue-sky.zoom-s .shield-board.zoomable {
     bottom: unset;
     font-size: 1.1em;
+    max-height: 11em;
     top: 4.5em;
 }
 
@@ -649,9 +653,10 @@ input[type="search"]:focus-visible {
 
 .shield.blue-sky .shield-border {
     background: steelblue;
+    background: linear-gradient(180deg, #4682b4 0%, #4682b4 10%, #296b9b 100%);
 }
 .shield.blue-sky .shield-border::before {
-    border-top-color: steelblue;
+    border-top-color: #296b9b;
 }
 .shield.blue-sky .shield-background {
     background: transparent;
@@ -673,6 +678,8 @@ input[type="search"]:focus-visible {
 }
 .shield.blue-sky .shield-ribbon {
     background: lightskyblue;
+    background: linear-gradient(180deg, #4682b4 0%, #4682b4 10%, #296b9b 100%);
+    color: aliceblue;
 }
 .shield.blue-sky .shield-ribbon::before, .shield.blue-sky .shield-ribbon::after {
     border-bottom-color: lightsteelblue;
@@ -765,15 +772,17 @@ input[type="search"]:focus-visible {
 
 .shield.indian-red .shield-border {
     background: indianred;
+    background: linear-gradient(180deg, #d66464 0%, #d66464 10%, #b14446 100%);
 }
 .shield.indian-red .shield-border::before {
-    border-top-color: indianred;
+    border-top-color: #b14446;
 }
 .shield.indian-red .shield-borderhat {
-    background: indianred;
+    background: #d66464;
 }
 .shield.indian-red .shield-ribbon {
     background: indianred;
+    background: linear-gradient(180deg, #d66464 0%, #d66464 10%, #b14446 100%);
 }
 .shield.indian-red .shield-ribbon::before, .shield.indian-red .shield-ribbon::after {
     border-bottom-color: lightpink;
@@ -806,15 +815,17 @@ input[type="search"]:focus-visible {
 
 .shield.sea-green .shield-border {
     background: mediumseagreen;
+    background: linear-gradient(180deg, #48be7b 0%, #48be7b 10%, #089455 100%);
 }
 .shield.sea-green .shield-border::before {
-    border-top-color: mediumseagreen;
+    border-top-color: #089455;
 }
 .shield.sea-green .shield-borderhat {
-    background: mediumseagreen;
+    background: #48be7b;
 }
 .shield.sea-green .shield-ribbon {
     background: mediumseagreen;
+    background: linear-gradient(180deg, #48be7b 0%, #48be7b 10%, #089455 100%);
 }
 .shield.sea-green .shield-ribbon::before, .shield.sea-green .shield-ribbon::after {
     border-bottom-color: lightgreen;

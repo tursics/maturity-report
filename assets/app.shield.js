@@ -139,7 +139,9 @@ class Shield {
         var str = '';
 
         if (country) {
-            str = '<span data-country="' + this.country + '" data-i18njustification="' + 'R1' + '">' + country + '</span>';
+            var flag = this.country === 'el' ? 'gr' : this.country;
+            str = '<span class="fi fi-' + flag + ' fis"></span>';
+            str += '<span data-country="' + this.country + '" data-i18njustification="' + 'R1' + '">' + country + '</span>';
         }
 
         elemCaption.innerHTML = str;

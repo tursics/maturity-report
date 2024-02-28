@@ -359,6 +359,10 @@ input[type="search"]:focus-visible {
     text-overflow: ellipsis;
     text-wrap: nowrap;
 }
+.shield-caption .fi.fis {
+    box-shadow: 0em 0em 0.1em #444;
+    margin: 0 .25em;
+}
 .shield-board {
     border-radius: .9em .9em 0 0;
     bottom: 8.2em;
@@ -413,6 +417,9 @@ input[type="search"]:focus-visible {
     font-weight: 500;
     line-height: 1em;
     text-align: center;
+}
+.shield-chevron .fi.fis {
+    box-shadow: 0em 0em 0.1em #222;
 }
 .shield-button {
     font-size: .2rem;

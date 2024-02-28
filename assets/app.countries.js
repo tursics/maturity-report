@@ -1,7 +1,7 @@
 var countries = (function () {
     var idElement = 'countries',
         csvPath = '2023/3-simplified/{country}_ODM_2023{language}.csv';
-        loadList = ['al','at','ba','be','bg','ch','cy','cz','de','dk','ee','el','es','fi','fr','hr','hu','ie','is','it','lt','lu','lv','me','mt','nl','no','pl','pt','ro','rs','se','si','sk','ua'];
+        loadList = ['fr','pl','ua','ee','es','cy','lt','ie','it','sk','at','dk','no','si','cz','de','pt','fi','nl','lu','se','lv','hu','ch','rs','bg','be','ro','me','el','hr','is','mt','al','ba'];
     var data = {};
 
     function funcInit() {
@@ -24,7 +24,7 @@ var countries = (function () {
             '<div class="shield-border"><div class="shield-borderhat"></div></div>' +
             '<div class="shield-background">' +
                 '<div class="shield-backgroundhat"></div>' +
-                '<div class="shield-chevron" style="font-size:10em;line-height:1.7em"><span class="fi fi-' + flag + ' fis"></span></span>' +
+                '<div class="shield-chevron" style="font-size:10em;line-height:1.7em"><span class="fi fi-' + flag + ' fis"></span></div>' +
             '</div>';
 
         document.getElementById(idElement).appendChild(node);

@@ -337,6 +337,32 @@ function zoomOut() {
     shield.classList.add(zoom);
 }
 
+function sort() {
+    var list = [];
+
+    shields.forEach((shield) => {
+        var score = document.getElementById(shield.id).querySelectorAll('.shield-score')[0];
+        list.push({
+            country: shield.country,
+            score: parseFloat(score.innerHTML) || 0,
+            title: _.getJustification(shield.country, 'R1'),
+        });
+    });
+
+    list.sort(function(a, b) {
+        if (a.score !== b.score) {
+            return a.score > b.score ? -1 : 1;
+        }
+
+        return a.title < b.title ? -1 : 1;
+    });
+
+    list.forEach((item) => {
+        countries.select(item.country);
+        countries.select(item.country);
+    });
+}
+
 document.addEventListener('DOMContentLoaded', function() {
     changeLanguage(DEFAULT_LANG);
 

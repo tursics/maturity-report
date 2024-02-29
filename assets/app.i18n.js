@@ -88,7 +88,7 @@ var _ = (function () {
         var answersEN = answers['en'];
         var answersLang = answers[_.getLanguage()];
 
-        var value = answersLang ? answersLang[answer].Answer : answersEN[answer].Answer;
+        var value = answersLang ? (answersLang[answer] ? answersLang[answer].Answer : answersEN[answer].Answer) : answersEN[answer].Answer;
 
         return value;
     }
@@ -98,7 +98,7 @@ var _ = (function () {
         var answersEN = answers['en'];
         var answersLang = answers[_.getLanguage()];
 
-        var value = answersLang ? answersLang[answer].Justification : answersEN[answer].Justification;
+        var value = answersLang ? (answersLang[answer] ? answersLang[answer].Justification : answersEN[answer].Justification) : answersEN[answer].Justification;
 
         return value.split(/\r?\n/).join('<br>');
     }

@@ -35,7 +35,7 @@ var questionAnswer = (function () {
             return;
         }
         if (obj.length === 0) {
-            console.error('No data loaded');
+            // console.error('No data loaded');
             return;
         }
 

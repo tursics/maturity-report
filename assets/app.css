@@ -381,7 +381,7 @@ input[type="search"]:focus-visible {
 }
 .shield-board .answer {
     font-weight: 900;
-    margin:1em
+    margin:.25em 1em 1em 1em;
 }
 .shield-board .justification {
     border-top: .2em solid #aaa;

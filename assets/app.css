@@ -128,6 +128,7 @@ li {
 
 .sidebar .sidebar-header, .sidebar .sidebar-nav {
     background: lightskyblue;
+    background: linear-gradient(180deg, #87cefa 0%, #6cb4df 100%);
     color: #000;
     height: 3.8rem;
     padding: .5rem;
@@ -146,9 +147,10 @@ li {
 }
 .sidebar .sidebar-nav .shield-button.disabled .shield-background {
     background: lightskyblue !important;
+    background: linear-gradient(180deg, #87cefa 0%, #6cb4df 100%) !important;
 }
 .sidebar .sidebar-nav .shield-button.disabled .shield-background::before {
-    border-top-color: lightskyblue !important;
+    border-top-color: #6cb4df !important;
 }
 
 .sidebar .sidebar-content, .sidebar .sidebar-search {
@@ -537,8 +539,9 @@ input[type="search"]:focus-visible {
 
 #countries {
     background: lightskyblue;
+    background: linear-gradient(180deg, #87cefa 0%, #6cb4df 100%);
     border-left: 0.15em dashed steelblue;
-    color: #000;
+    color: #222;
     height: 3.8em;
     left: 16em;
     line-height: 3.8em;
@@ -559,7 +562,7 @@ input[type="search"]:focus-visible {
     vertical-align: middle;
 }
 #countries .vlist a {
-    color: steelblue;
+    color: #222;
     text-decoration: none;
 }
 #countries .vlist a:hover {
@@ -588,6 +591,7 @@ input[type="search"]:focus-visible {
 
 #page-header {
     background: lightskyblue;
+    background: linear-gradient(180deg, #87cefa 0%, #6cb4df 100%);
     color: #000;
     font-size: 1.25em;
     font-weight: 700;
@@ -715,9 +719,10 @@ input[type="search"]:focus-visible {
 }
 .shield.blue-sky.selected .shield-background {
     background: aliceblue;
+    background: linear-gradient(180deg, #f0f8ff 0%, #f0f8ff 10%, #c4cad0 100%);
 }
 .shield.blue-sky.selected .shield-background:before {
-    border-top-color: aliceblue;
+    border-top-color: #c4cad0;
 }
 
 .shield-button.blue-sky .shield-border {
@@ -731,9 +736,10 @@ input[type="search"]:focus-visible {
 }
 .shield-button.blue-sky .shield-background {
     background: steelblue;
+    background: linear-gradient(180deg, #4682b4 0%, #4682b4 10%, #296b9b 100%);
 }
 .shield-button.blue-sky .shield-background::before {
-    border-top-color: steelblue;
+    border-top-color: #296b9b;
 }
 
 .shield-button.lightblue-sky .shield-border {
@@ -744,15 +750,17 @@ input[type="search"]:focus-visible {
 }
 .shield-button.lightblue-sky .shield-background {
     background: lightskyblue;
+    background: linear-gradient(180deg, #87cefa 0%, #6cb4df 100%);
 }
 .shield-button.lightblue-sky .shield-background::before {
-    border-top-color: lightskyblue;
+    border-top-color: #6cb4df;
 }
 .shield-button.disabled.lightblue-sky .shield-background {
     background: steelblue !important;
+    background: linear-gradient(180deg, #4682b4 0%, #4682b4 10%, #296b9b 100%) !important;
 }
 .shield-button.disabled.lightblue-sky .shield-background::before {
-    border-top-color: steelblue !important;
+    border-top-color: #296b9b !important;
 }
 .shield.lightblue-sky .shield-borderhat {
     background: #222;

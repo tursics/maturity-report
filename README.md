@@ -23,6 +23,7 @@ That's why I built my own visualization of the Maturity Report. I valued the fol
 - All totals are recalculated (and no longer contain any errors)
 - A graphical view of which question is worth how many points and if it was answered correctly
 - Overview of all questions, whether you achieved full points, from all states, on one screen
+- Sort the states according to the points achieved, both overall but also in the topic groups and at the individual question level
 
 ## Copyright
 

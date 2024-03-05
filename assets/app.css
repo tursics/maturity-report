@@ -383,7 +383,7 @@ input[type="search"]:focus-visible {
     font-weight: 900;
     margin:.25em 1em 1em 1em;
 }
-.shield-board .justification {
+.shield-board .justification, .shield-board .reviewer {
     border-top: .2em solid #aaa;
     color: #aaa;
     margin: 1em;

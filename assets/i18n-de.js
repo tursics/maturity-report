@@ -19,5 +19,7 @@ i18n['de'] = {
     'odm_report': 'Bericht zum Reifegrad offener Daten',
     'question': 'Frage',
     'result': 'Ergebnis',
+    'reviewer1': 'Kommentare vom Rezensent 1:',
+    'reviewer2': 'Kommentare vom Rezensent 2:',
     'search': 'Suchen',
 };

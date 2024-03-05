@@ -126,6 +126,16 @@ class Shield {
         str += '<div data-country="' + this.country + '" data-i18nanswer="' + obj.id + '" class="answer">' + _.getAnswer(this.country, obj.id) + '</div>';
         str += '<div data-country="' + this.country + '" data-i18njustification="' + obj.id + '" class="justification">' + _.getJustification(this.country, obj.id) + '</div>';
 
+        var txt = _.getReviewer1(this.country, obj.id);
+        if (txt !== '') {
+            str += '<div data-country="' + this.country + '" data-i18nreviewer1="' + obj.id + '" class="reviewer">' + txt + '</div>';
+        }
+
+        txt = _.getReviewer2(this.country, obj.id);
+        if (txt !== '') {
+            str += '<div data-country="' + this.country + '" data-i18nreviewer2="' + obj.id + '" class="reviewer">' + txt + '</div>';
+        }
+
         return str;
     }
 

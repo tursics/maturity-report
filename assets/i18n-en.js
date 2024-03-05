@@ -19,5 +19,7 @@ i18n['en'] = {
     'odm_report': 'Open Data Maturity Report',
     'question': 'Question',
     'result': 'Result',
+    'reviewer1': 'Reviewer 1 Comments:',
+    'reviewer2': 'Reviewer 2 Comments:',
     'search': 'Search',
 };

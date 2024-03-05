@@ -33,6 +33,20 @@ var _ = (function () {
             elem.innerHTML = funcGetJustification(country, key);
         });
 
+        elements = document.querySelectorAll('[data-i18nreviewer1]');
+        elements.forEach(elem => {
+            var country = elem.dataset['country'];
+            var key = elem.dataset['i18nreviewer1'];
+            elem.innerHTML = funcGetReviewer1(country, key);
+        });
+
+        elements = document.querySelectorAll('[data-i18nreviewer2]');
+        elements.forEach(elem => {
+            var country = elem.dataset['country'];
+            var key = elem.dataset['i18nreviewer2'];
+            elem.innerHTML = funcGetReviewer2(country, key);
+        });
+
         elements = document.querySelectorAll('[data-i18nstart]');
         elements.forEach(elem => {
             var key = elem.dataset['i18nstart'];
@@ -103,6 +117,32 @@ var _ = (function () {
         return value.split(/\r?\n/).join('<br>');
     }
 
+    function funcGetReviewer1(country, answer) {
+        var answers = countries.get(country);
+        var answersEN = answers['en'];
+        var answersLang = answers[_.getLanguage()];
+
+        var value = answersLang ? (answersLang[answer] ? answersLang[answer]['Reviewer 1 Comments'] : answersEN[answer]['Reviewer 1 Comments']) : answersEN[answer]['Reviewer 1 Comments'];
+        if (value !== '') {
+            value = funcGet('reviewer1') + value;
+        }
+
+        return value.split(/\r?\n/).join('<br>');
+    }
+
+    function funcGetReviewer2(country, answer) {
+        var answers = countries.get(country);
+        var answersEN = answers['en'];
+        var answersLang = answers[_.getLanguage()];
+
+        var value = answersLang ? (answersLang[answer] ? answersLang[answer]['Reviewer 2 Comments'] : answersEN[answer]['Reviewer 2 Comments']) : answersEN[answer]['Reviewer 2 Comments'];
+        if (value !== '') {
+            value = funcGet('reviewer2') + ' ' + value;
+        }
+
+        return value.split(/\r?\n/).join('<br>');
+    }
+
     function funcAppendTranslations(lang, data) {
         data.forEach((item) => {
             i18n[lang][item.key] = item.value;
@@ -117,6 +157,8 @@ var _ = (function () {
         getAnswer: funcGetAnswer,
         getJustification: funcGetJustification,
         getLanguage: funcGetLanguage,
+        getReviewer1: funcGetReviewer1,
+        getReviewer2: funcGetReviewer2,
         getStart: funcGetStart,
         getTail: funcGetTail,
         setLanguage: funcSetLanguage,

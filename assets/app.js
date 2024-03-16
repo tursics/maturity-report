@@ -264,6 +264,16 @@ function findInTranslations(flag, questions, value) {
         if (pos !== -1) {
             ret += formatHit(flag, question.ID, question.Justification, value, pos);
         }
+
+        pos = question['Reviewer 1 Comments'].toLowerCase().indexOf(value);
+        if (pos !== -1) {
+            ret += formatHit(flag, question.ID, question['Reviewer 1 Comments'], value, pos);
+        }
+
+        pos = question['Reviewer 2 Comments'].toLowerCase().indexOf(value);
+        if (pos !== -1) {
+            ret += formatHit(flag, question.ID, question['Reviewer 2 Comments'], value, pos);
+        }
     });
 
     return ret;

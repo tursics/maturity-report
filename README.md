@@ -25,6 +25,28 @@ That's why I built my own visualization of the Maturity Report. I valued the fol
 - Overview of all questions, whether you achieved full points, from all states, on one screen
 - Sort the states according to the points achieved, both overall but also in the topic groups and at the individual question level
 
+## Prepare data
+
+You are invited to prepare the data for another year or another state. Here is a guide on how the current data was prepared:
+
+1. Download the zip file "Download Country Questionnaire 2023" from the site [Open Data Maturity 2023](https://data.europa.eu/en/publications/open-data-maturity/2023)
+2. Extract the content of the zip file to folder `/2023` in the root of this project
+3. Copy the files with question and answers to folder `/2023/1-source-data`. Rename the questionnaire file to `00_ODM2023...`
+4. Convert all Excel files to csv file and save them in folder `/2023/2-csv-files`. Save the 4 pages of questionnaire Excel file to 4 csv files
+5. Open all csv files, improve the files and save the results in folder `/2023/3-simplified`
+
+- fill in the first column with valid values. No cell may remain empty
+- remove duplicate heading lines
+- remove subtotal rows
+- remove table (a table in a table!) with HVD
+- remove columns "Question" and "Guide to Answering"
+
+6. Duplicate all exisiting csv and append ISO code of choosen language like `/2023/3-simplified/AL_ODM_2023_de.csv`
+
+- remove column "Score"
+- translate all cells
+- or: just leave the headline and row "R1" to translate the name of the state
+
 ## Copyright
 
 The code is licensed under MIT license (the code is free to use and can be modified). The flag icons are free too, see https://github.com/lipis/flag-icons. The used data are from the [European Union Maturity Report 2023](https://data.europa.eu/en/publications/open-data-maturity/2023) and licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) (and are modified, e.g. translated).

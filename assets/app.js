@@ -262,7 +262,29 @@ function findInTranslations(flag, questions, value) {
     var ret = '';
 
     questions.forEach((question) => {
-        var pos = question.Answer.toLowerCase().indexOf(value);
+        var pos = '';
+        var str = '';
+
+        var headlineKey = question.ID;
+        if ('root' === headlineKey) {
+            headlineKey = 'odm_report';
+        }
+        str = _.get(headlineKey).replace(/<br\s*\/?>/gi,' ');
+        pos = str.toLowerCase().indexOf(value);
+        if (pos !== -1) {
+            ret += formatHit('eu', question.ID, str, value, pos);
+        }
+
+        var guideKey = 'G' + question.ID;
+        str = _.get(guideKey);
+        if (str !== ('{' + guideKey + '}')) {
+            pos = str.toLowerCase().indexOf(value);
+            if (pos !== -1) {
+                ret += formatHit('eu', question.ID, str, value, pos);
+            }
+        }
+
+        pos = question.Answer.toLowerCase().indexOf(value);
         if (pos !== -1) {
             ret += formatHit(flag, question.ID, question.Answer, value, pos);
         }

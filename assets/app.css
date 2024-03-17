@@ -715,13 +715,21 @@ input[type="search"]:focus-visible {
     color: aliceblue;
 }
 .shield.blue-sky > .shield-background > .shield-chevron svg g {
+    fill: aliceblue;
     stroke: aliceblue;
+}
+.shield.blue-sky > .shield-background > .shield-chevron svg g circle {
+    fill: none;
 }
 .shield.blue-sky.disabled > .shield-background > .shield-chevron {
     color: #222;
 }
 .shield.blue-sky.disabled > .shield-background > .shield-chevron svg g {
+    fill: #222;
     stroke: #222;
+}
+.shield.blue-sky.disabled > .shield-background > .shield-chevron svg g circle {
+    fill: none;
 }
 .shield.blue-sky.selected .shield-background {
     background: aliceblue;

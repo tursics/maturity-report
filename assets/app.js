@@ -236,8 +236,14 @@ function formatHit(country, id, text, value, pos) {
     end = text.indexOf(' ', end);
     end = end === -1 ? text.length : end;
 
-    var ret = '<span class="fi fi-' + country + ' fis"></span> ';
+    var ret = '';
 
+    ret += '<div class="result-header">';
+    ret += '<span class="fi fi-' + country + ' fis"></span> ';
+    ret += '<span data-i18n="Question">' + _.get('Question') + '</span>' + ' ' + id;
+    ret += '</div>';
+
+    ret += '<div class="result-body">';
     ret += '<a href="#" data-id="' + id + '" onclick="onResult(this, event)">';
     if (start > 0) {
         ret += '&hellip;';
@@ -247,8 +253,9 @@ function formatHit(country, id, text, value, pos) {
         ret += '&hellip;';
     }
     ret += '</a>';
+    ret += '</div>';
 
-    return ret + '<br>';
+    return ret;
 }
 
 function findInTranslations(flag, questions, value) {

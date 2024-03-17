@@ -211,6 +211,7 @@ input[type="search"]:focus-visible {
 #buttonSidebarOpen, #buttonPrev2, #buttonUpwards2, #buttonNext2 {
     font-size: 0.15em;
     margin: 0 !important;
+    transition: font-size 0s;
 }
 #buttonSidebarOpen {
     position: absolute;
@@ -282,6 +283,7 @@ input[type="search"]:focus-visible {
     height: 17em;
     margin: 0 1.2em 4em 1.2em;
     position: relative;
+    transition: font-size 1s;
     vertical-align: middle;
     width: 17em;
 }
@@ -474,6 +476,10 @@ input[type="search"]:focus-visible {
 }
 .shield-button.disabled:hover .shield-chevron {
     color: #aaa;
+}
+
+.shield-board.zoomable {
+    transition: font-size 1s, top 1s;
 }
 
 .shield.zoom-xs {

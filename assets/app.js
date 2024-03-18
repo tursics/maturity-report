@@ -110,7 +110,17 @@ function toggleCountry() {
 
         shields.find((shield) => shield.country === country).removeHTML();
         shields = shields.filter((shield) => shield.country !== country);
+
+        if (shields.length === 0) {
+            var elem = document.getElementById('empty');
+            elem.classList.remove('hidden');
+        }
     } else {
+        if (shields.length === 0) {
+            var elem = document.getElementById('empty');
+            elem.classList.add('hidden');
+        }
+
         this.classList.add('selected');
 
         var shield = new Shield(country, countries.get(country));

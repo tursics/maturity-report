@@ -257,6 +257,20 @@ input[type="search"]:focus-visible {
     display: none;
 }
 
+#empty {
+    color: goldenrod;
+    margin: -2em 2em 0 0;
+    text-align: center;
+}
+#empty.hidden {
+    display: none;
+}
+#empty .arrow {
+    font-size: 2em;
+    margin-left: .25em;
+    vertical-align: bottom;
+}
+
 .odm-color-policy {
     color: #00aef2;
 }

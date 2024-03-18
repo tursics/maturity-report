@@ -5,6 +5,7 @@ i18n['de'] = {
     'countriesNone': 'Zeige keine',
     'D0': 'Dimension 0: Informationen',
     'debug': 'Debug',
+    'empty': 'Bitte wählen Sie ein Staat aus',
     'EU': 'EU',
     'footer_code': 'Codebasis',
     'footer_EU_modified': 'EU, geändert',

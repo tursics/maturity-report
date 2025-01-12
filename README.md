@@ -38,17 +38,18 @@ You are invited to prepare the data for another year or another state. Here is a
 4. Convert all Excel files to csv file and save them in folder `/2024/2-csv-files`.
 
   - If available, save the 4 pages of questionnaire Excel file to 4 csv files
-  - in 2024 the 1 page Excel file was changed to a 4 page Excel file. Convert all pages to csv file
+  - in 2024 the 1 page Excel file was changed to a 4 page Excel file. Convert all pages to csv files
 
-5. Open all csv files, improve the files and save the results in folder `/2023/3-simplified`
+5. Open all csv files, improve the files and save the results in folder `/2024/3-simplified` with the name like `AL_ODM_2024.csv`
 
-- fill in the first column with valid values. No cell may remain empty
-- remove duplicate heading lines
-- remove subtotal rows
-- remove table (a table in a table!) with HVD
-- remove columns "Question" and "Guide to Answering"
+  - if you have multiple files for one country concatenate them (e.g. in simple text editor)
+  - fill in the first column with valid values. No cell may remain empty
+  - remove duplicate heading lines
+  - remove subtotal rows
+  - remove table (a table in a table!) with HVD
+  - remove columns "Question" and "Guide to Answering"
 
-6. Duplicate all exisiting csv and append ISO code of choosen language like `/2023/3-simplified/AL_ODM_2023_de.csv`
+6. Duplicate all exisiting csv and append ISO code of choosen language like `/2024/3-simplified/AL_ODM_2024_de.csv`
 
 - remove column "Score"
 - translate all cells

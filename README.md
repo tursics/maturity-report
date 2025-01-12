@@ -1,6 +1,6 @@
 # Open Data Maturity Report
 
-The [Open Data Maturity Report](https://data.europa.eu/en/publications/open-data-maturity/2023) (2023) shows the current implementation status of open data across the EU. It is based on a survey of all member states. The result of the report is available as a PDF and all raw data has been published as Excel files. A website with a dashboard exists.
+The [Open Data Maturity Report 2024](https://data.europa.eu/en/publications/open-data-maturity/2024) ([2023](https://data.europa.eu/en/publications/open-data-maturity/2023)) shows the current implementation status of open data across the EU. It is based on a survey of all member states. The result of the report is available as a PDF and all raw data has been published as Excel files. A website with a dashboard exists.
 
 Try the current version [here](https://demo.govdata.de/maturity-report/)
 

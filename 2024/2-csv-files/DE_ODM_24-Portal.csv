@@ -1,0 +1,215 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;;Complement;Yes;"daten.berlin.de; https://www.govdata.de/"
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;N/A;"Berlin: CKAN
+
+GovData: In 2024, we completely rebuilt the structure of the portal. We switched to the CMS Typo3 for our editorial content and to Piveau (instead of CKAN) for data storage. Some of the portal's service functions were shifted to microservices."
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;"Berlin: =HYPERLINK(""#""; ""https://berlinonline.github.io/open-data-handbuch/#schnittstellen"")
+
+GovData: The metadata catalog published on GovData can be queried and processed automatically. A CKAN API is available for this purpose - and a Piveau API will be available after the switch to Piveau."
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;"GovData: The metadata catalog published on GovData can not only be searched via the function on the website, but of course also can be queryed and processed by machine. For this purpose, a SPARQL endpoint (https://www.govdata.de/sparql) is available.
+
+See also: https://www.govdata.de/web/guest/sparql-assistent"
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"Berlin: =HYPERLINK(""#""; ""https://berlinonline.github.io/open-data-handbuch/#schnittstellen"")
+
+GovData: A link is provided to the documentation on the CKAN API. After the switch to Piveau, the API will of course also be documented here. An example of the expected OpenAPI can be seen on the Open Data Portal of Bavaria: https://open.bydata.de/api/hub/search/"
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;GovData: We have a special page on GovData that links to the SPARQL documentation, lets you run any SPARQL query, but also provides a dozen sample queries: https://www.govdata.de/web/guest/sparql-assistent
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"GovData: The national data portal GovData does not offer a function for contributing your own datasets. Local data portals offer local communities the opportunity to integrate their data. This data is harvested in the national data portal.
+
+Berlin offers an example. The “Open Data Handbook” of the Open Data Portal Berlin describes the provision and that local communities may contribute: https://berlinonline.github.io/open-data-handbuch/#wer-darf-im-datenportal-verffentlichen . Examples include the Allgemeiner Deutscher Fahrrad-Club, but also the Civic Tech and Open Data Community in the OK Labs of Code for Germany, Freifunk and Open Street Map."
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;;Change;No;
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;A form can be used to report comments, mistakes or suggestions for improvement for each individual dataset (as an example: https://www.govdata.de/web/guest/daten/-/details/abkurzungsverzeichnis-des-bundes);Change;No;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;For a short explanation: a corresponding function w a s previously available, but it has now been discontinued due to low demand/use.;Confirm;No;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;;Change;No;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"Yes, the portal offers the possibility for users to receive notivations when new data sets are abailable on the national portal. We use RSS for that:
+ https://www.govdata.de/web/guest/suchen/-/atomfeed/f/type%3Adataset%2C/s/relevance_desc";Change;No;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;"No, but we are discussing on having a ""data request button"" on the portal, though we still need to figure out the political and adminstrative processes behind it so that every request also gets to the respective public body. ";Confirm;No;
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no;;Confirm;No;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;After a certain amount of time (about a month), we ask the data provider if such a data set could be published.;Change;No;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"We provide a closed discussion forum for registered users. So we can’t offer you a URL. Registered users are those that provide data, meaning the responsible person in every public body. If you like to join, please contact us via Mail: info@govdata.de
+Open discussion forum: https://github.com/GovDataOfficial/DCAT-AP.de";Change;No;GovData: The Open Data Competence Center is planning to set up a public discussion forum in the second half of 2024. The national data portal will provide the entry point to this forum.
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;;Complement;Yes;"Berlin: =HYPERLINK(""#""; ""https://daten.berlin.de/anwendungen"")"
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;Yes, in the use cases presented, the assigned datasets are also mentioned/described.;Change;No;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;;Change;No;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";no;;Confirm;No;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";no;;Confirm;No;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"Berlin:we have the metadatum HVD to select for data publishers, but this did not get used, because the HVDs are getting published from the GENESis Database and the Geoportal
+
+GovData: We offer a special filter function in our simple search and in the advanced search. In the results lists, the high-value data set is displayed in a high-value way (with a gold border and gold category award). Further measures to highlight high-value data sets are planned for the end of the year."
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;Matomo;Complement;Yes;"Berlin: =HYPERLINK(""#""; ""https://odis-berlin.de/projekte/2024-01-daten-neuheiten ""); GovData still use Matomo to monitor portal's traffic but there are additional more statistics. We harvest more portal' statistic, find some here https://www.govdata.de/web/guest/suchen/-/searchresult/q/Zugriffsstatistik/s/lastmodification_desc"
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Change;No;GovData: No
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;"We meet the users. We take part in network meetings with administration, science, the internet community and the open data community. There we actively participate in exchange rounds, bar camps, give lectures, workshops (e.g. at the re:publica), hackthons. Listening is important.
+In addition, reactions in the social media channels as well as questions and feedback via the contact page of the portal are evaluated on an ongoing basis.";Complement;Yes;Berlin: surveys, an mapp inztelligence to track which data is downloaded the most
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;GovData:: We are in constant communication with users of the portal. The wishes of the communities are sometimes specifically requested in workshops and are incorporated into the planned roadmap for the portal. The functionalities are adapted based on the analysis (via Matomo) of the use of the portal.
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;Berlin: we do schooling on publishing at the open data portal and using the portal at open data crashcourse
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;GovData: We use Matomo on an irregular basis to analyze the search terms on our portal. Incoming links from search engines are also analyzed for their search terms. This has enabled us to determine that there is an increased need for information to provide high-value datasets. However, a targeted analysis of searches for datasets will lead to misinterpretations. There are too many sub-data portals in Germany where users also search, but whose data we do not analyze.
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;GovData: We use the analysis of the number of hits to scrutinize the structure of our pages. A data portal has many different user groups, so it is all the more difficult for everyone to find the right content quickly.
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;For searching we offer autocomplete and alternative term suggestions for optimising the results. In addition, linguistic search methods are used to improve the result.;Complement;Yes;Berlin: we want to implement Large Langugae Models
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Complement;Yes;GovData: yes. Every dataset is displayed on it's own page, sample: https://www.govdata.de/web/guest/suchen/-/details/zugriffsstatistik-daten-berlin-dec9fb3 The metadata is human readable und we provide a link to machine readable RDF file
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";all public sector data providers;The data of all open data portals of the public sector is available in GovData. The data is provided via specialized or federal state portals. Where this is not possible, the regional portals will provide it directly.;Change;All public sector data providers;The data of all open data portals of the public sector is available in GovData. The data is provided via specialized or federal state portals. Where this is not possible, the regional portals will provide it directly.
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;Yes, or all public sector data providers already publish data;GovData: yes
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"- The Competence Center for Open Data (CCOD) established a knowledge library, including different guidelines, manuals, etc. from all federal levels. (https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/Vorlagen-Hilfsmittel/vorlagen-hilfsmittel_node.html) 
+CCOD also offers and conducts several Workshops addressing different issues in publicating open data.
+
+- https://www.itb.ec.europa.eu/shacl/dcat-ap.de/upload";Confirm;Yes, or all public sector data providers already publish data;Berlin:with the open data informationsstelle berlin we assist them
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;A list of all data providers can be accessed as a filter list at the following link, which also includes all regional portals: https://www.govdata.de/web/guest/daten;Complement;Yes;Berlin Geoportal Wasserportal, Energieatlas, Gewerbedatenatlas, Urbane Datenplattform PRISMA, digitale Plattform Stadtverkehr, there ar many portals in Berlin
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;A list of all data providers can be accessed as a filter list at the following link, which also includes all regional portals: https://www.govdata.de/web/guest/daten;Confirm;Yes;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";the majority of datasets;Short noted: A few, mostly regional data providers, enter their data at GovData manually ;Change;The majority of datasets;"Short noted: A few, mostly regional data providers, enter their data at GovData manually 
+
+Follow up: Thanks for the hint. We updated the column H"
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;"Yes, there are some examples available:
+https://www.govdata.de/web/guest/suchen/-/details/pegelonline
+https://www.govdata.de/web/guest/suchen/-/details/aktuellste-10-minutige-stationsmessungen-der-niederschlagshohe-in-deutschland";Complement;Yes;Berlin:but a very few, not many
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;Yes;"Berlin:citizen based data such as the Radverkehrsdaten from the project ""Berlin zählt Mobilität""
+
+GovData: See answer to question PT7. We can no longer determine which data is official and which is non-official. There is also data that is a product of the combination of official data (cadastral data) and non-official data (OSM).
+
+Example: https://www.govdata.de/web/guest/suchen/-/details/osm-strassen-koln-bonn and https://www.govdata.de/web/guest/suchen/-/details/spw2-alkisosmb7bb8"
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";no;;Change;Yes;"Berlin: yes, we have monitored the ""Cora datasets of Berlin ""berliner Kerndatensätze: https://odis-berlin.de/projekte/2023-02-kerndatens%C3%A4tze "
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;GovData: After the project launch, the GovData portal became a product of the IT Planungsrat. Funding has been secured via an administrative agreement with all 16 federal states and the federal government. FITKO was founded as a new authority to ensure the long-term operation of all products of the German IT Planungsrats https://www.it-planungsrat.de/fileadmin/beschluesse/2021/Beschluss2021-21_FITKO_Gruendungsbeschluss.pdf When it was founded in 2020, GovData was explicitly mentioned as a product that would be taken over. Legislation stipulates the delivery of data to GovData.
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"Yes, see
+https://twitter.com/govdata_de
+https://social.bund.de/@opendata";Change;No;Berlin:-Not any more, since Twitter became X
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;We provide our source code on GitHub: https://github.com/govdataofficial and on Open CoDE (a GitLab hosted by Germany): https://gitlab.opencode.de/fitko/govdata;Complement;Yes;"Berlin: =HYPERLINK(""#""; ""https://github.com/berlinonline "")"
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;The Dashboard is using our SHACL Validator (online Version available under: https://www.itb.ec.europa.eu/shacl/dcat-ap.de/upload) and gives the data providers links how to improve their metadata quality and their performance on the national portal.;Change;No;
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;With the SHACL Validator, data providers receive feedback on metadata quality and broken links in their database. Furthermore, the validator provides information on troubleshooting.;Change;No;

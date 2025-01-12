@@ -29,10 +29,17 @@ That's why I built my own visualization of the Maturity Report. I valued the fol
 
 You are invited to prepare the data for another year or another state. Here is a guide on how the current data was prepared:
 
-1. Download the zip file "Download Country Questionnaire 2023" from the site [Open Data Maturity 2023](https://data.europa.eu/en/publications/open-data-maturity/2023)
-2. Extract the content of the zip file to folder `/2023` in the root of this project
-3. Copy the files with question and answers to folder `/2023/1-source-data`. Rename the questionnaire file to `00_ODM2023...`
-4. Convert all Excel files to csv file and save them in folder `/2023/2-csv-files`. Save the 4 pages of questionnaire Excel file to 4 csv files
+1. Download the zip file "Download Country Questionnaire 2024" from the site [Open Data Maturity 2024](https://data.europa.eu/en/publications/open-data-maturity/2024)
+2. Extract the content of the zip file to folder `/2024` in the root of this project
+3. Copy the files with question and answers to folder `/2024/1-source-data`.
+
+  - If available, rename the questionnaire file to `00_ODM2023...` (found in year 2023 but not in 2024)
+
+4. Convert all Excel files to csv file and save them in folder `/2024/2-csv-files`.
+
+  - If available, save the 4 pages of questionnaire Excel file to 4 csv files
+  - in 2024 the 1 page Excel file was changed to a 4 page Excel file. Convert all pages to csv file
+
 5. Open all csv files, improve the files and save the results in folder `/2023/3-simplified`
 
 - fill in the first column with valid values. No cell may remain empty

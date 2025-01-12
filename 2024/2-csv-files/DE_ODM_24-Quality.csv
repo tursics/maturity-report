@@ -1,0 +1,128 @@
+;Dimension 3: Open Data Quality;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;3.1 Currency and completeness;;;;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;The metadata is subject to a harvesting process continuously, with control of the metadata and automatic scan for duplicates.;Confirm;;
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;70-89%;"Berlin: harvesting over the Geoportal
+
+90-99%. We have an open data portal for almost every federal state in Germany. The large (but also smaller) cities operate their own open data portal. In addition, there are various thematic data portals, such as for traffic data and geodata. All these data portals are linked together in a large network or tree and harvest each other. At the end is GovData, which harvests almost all of the metadata from sub-portals. Only a small amount of data is entered directly into GovData by hand."
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one week;"GovData: On average, the metadata is updated after 2 days. If metadata is changed manually directly in the GovData portal, the changes are visible immediately. If a dataset is changed in the geoportal of a city, the city harvests its geoportal, the city may be harvested by the portal of the district, which in turn is harvested by the federal state, which is harvested by GovData. This chain can result in a delay of several days when updating the data.
+
+Follow up: confirmation"
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;"GovData: Until recently, it was not possible to mark up data series in the metadata. Therefore, data series were created as differently as possible in the past. The local sub-portals all have their own strategy for dealing with this. With the introduction of DCAT-AP.de 3.0, an example of a correct data series is planned. Based on this, we could work towards harmonization.
+
+Follow up: Yes the new DCAT-AP.de version make it possible to mark dataset series correctly and unique. Today we do not measure this aspect because there is no standardized way and 4+ ways used to mark dataseries."
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"Berlin: but it is not getting used as the data providers publish from other plattforms such as GENESIS Online, where there is an interface to the Govdata Portal, or they publish over the Geoportal Berlin, where there is an API to the Berlin Open Data Portal, but they do not have to indicate extra on the Berlin Portal, as it gets indicated at the Geoportal 
+GovData: 
+We are proud to have been the second state to correctly transfer the high-value datasets award to the European data portal. In order to do this successfully, we had to extend CKAN so that HVD data could be imported into a CKAN system and then exported. Our changes have been transferred to the official repo according to the open source rules. For the geodata, we had to adapt the converter of the geo-ISO data. A lengthy coordination process with and within the geo-community was necessary beforehand. Please also refer to the answer to question PT22."
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;"GovData: In some cases, the specialist communities themselves ensure that the individual data records are compatible. Two specialist areas are cited as examples. The geodata are collected in the federal states and, thanks to established structures, they can be harmonized and offered as a common dataset for the whole of Germany. The INSPIRE specifications mean that the datasets are comparable throughout Europe. The weather data is not only compatible within Europe but is also internationally interoperable thanks to its standardization.
+
+Follow up: The correct answer is still 'no'. INSPIRE and weather data are older than HVD. So we have interoperable datasets but we do no special activities for HVD datasets that there are interoperable with other countries"
+;3.2 Monitoring and measures;;;;;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"Broken links, monitoring of import errors, validation is being transformed according to DCAT-AP.de (https://www.itb.ec.europa.eu/shacl/dcat-ap.de/upload )
+We provide a Dashboard, which provides information about the published data. While a trial period the Dashboard is only reachable for registered users.
+Please contact us to join via mail at info@govdata.de.";Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;We provide a Dashboard, which provides information about the published data. While a trial period the Dashboard is only reachable for registered users. Please contact us to join via mail at info@govdata.de.;Complement;Yes;"GovData: We provide a dashboard that provides information about the published data. During a test phase, the dashboard is only accessible to registered users. The underlying data, however, can be accessed openly via our SPAQL interface.
+
+Follow up: https://govdata.de/metadatenqualitaet/qualitaetsmerkmale This URL will be available later this month. We remove the 'accessible to registered user'"
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;"Berlin: =HYPERLINK(""#""; ""https://odis-berlin.de/file-download/Vorlage_Metadaten.xlsx "")
+
+GovData: We offer information on this on our information page on the provision of data on GovData https://www.govdata.de/web/guest/datenbereitstellungaufgovdata. There we refer to the self-service tool for testing DCAT-AP.de-compatible metadata. When we connect new data providers to GovData, their endpoint is extensively tested and they receive a written analysis of their metadata quality. In the course of the release of DCAT-AP.de 3.0, we will provide various examples of high-quality metadata."
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;"Berlin: the Musterdatenkatalog of the Bertelsmann Stiftung
+
+GovData: All data suppliers must provide their metadata in at least DCAT-AP.de 2.0 format. The standard itself contains specifications on the use of licenses, among other things. The conventions manual https://www.dcat-ap.de/def/dcatde/2.0/implRules/ contains 41 conventions that apply to the delivery to GovData."
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;"in the Open Data Verordnung we recommed mostly open licenses such as CC 0, or at least CC By 4.0
+
+Follow up:
+License Guideline on GovData: https://www.govdata.de/web/guest/datenbereitsteller
+License guide in DCAT-AP.de: https://www.dcat-ap.de/def/licenses/
+The Open Data Verordnung Berlin https://www.berlin.de/sen/wirtschaft/digitalisierung/open-data/verordnung/ "
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Change;51-70%;"GovData: >90%
+
+Follow up: 90+% is correct"
+Q13;How many different licences are used on your portal?;5-10;N/A;Change;1-4;"GovData: 5-10
+
+Follow up: 5-10 is correct"
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;No;
+;3.3 DCAT-AP Compliance;;;;;
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;We only harvest datasources in DCAT-AP.de 2.0 or better. If not possible (INSPIRE metadata) we provide and develop own CKAN converter extension. We developed DCAT-AP.de years ago to follow the European DCAT-AP with some Germany extensions
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Change;51-70%;Follow up: Thanks for the hint. As described in Q15 we follow the DCAT-AP compliance. There is no decrease. We corrected the answers
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;;Change;51-70%;Follow up: Thanks for the hint. As described in Q15 we follow the DCAT-AP compliance. There is no decrease. We corrected the answers
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);71-90%;;Change;31-50%;Follow up: Thanks for the hint. As described in Q15 we follow the DCAT-AP compliance. There is no decrease. We corrected the answers
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;"DCAT-AP.de is only complement to DCAT-AP, so it is completely conforming to DCAT-AP. The complement to DCAT-AP are necessary to depict German peculiarities.
+https://www.dcat-ap.de/ // R2: For an exact explanation, we would have to answer the question separately.
+
+In short, there are two legally different approaches between the CC BY 4.0 licence and the German data licence. CC BY focuses on material property law, while the German variant classifies the licensing of (official) datasets as a dedication/administrative act. This results in a different legal assessment. In addition, there are aspects from the regulations in Germany regarding general terms and conditions (GTC) in the context of civil law.
+
+So there is a subtle legal distinction behind the data licence - a ""German peculiarity"". :-)
+
+Nevertheless, the necessity of a national licence is currently being discussed and possibly reassessed in future.";Complement;;Follow up: Thanks for the hint. We still have a national extension. We will release the new DCAT-AP.de 3.0 in December 2024
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;No;GovData: No. The investigation and improvement of metadata quality is on our to-do list.
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;31-50%;N/A;Confirm;31-50%;GovData: '31-50%
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Change;51-70%;"GovData: '>90%
+
+Follow up: Thanks for the hint. We corrected the answer to 90+%"
+;3.4 Deployment quality and linked data;;;;;
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;The Fair Principles are an central part of the quality check in the portal's dashboard.;Complement;Yes;Berlin: for finance data and for the organigramm tool
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;Since 2021 we have the dashboard for quality control. The data providers themselves have the possibility to check their metadata quality there. Furthermore, extracts are regularly sent to the data providers with the most important quality parameters.;Complement;Yes;Berlin: Barcamp Linked Open Data
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;>90%;N/A
+Q26;What percentage of licences are provided in a structured data format?;>90%;N/A;Confirm;>90%;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;71-90%;N/A;Confirm;71-90%;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;51-70%;N/A;Confirm;51-70%;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;31-50%;N/A;Confirm;31-50%;N/A

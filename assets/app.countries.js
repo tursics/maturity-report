@@ -1,21 +1,26 @@
 var countries = (function () {
     var idElement = 'countries',
-        csvPath = '2023/3-simplified/{country}_ODM_2023{language}.csv';
-        loadList = ['fr','pl','ua','ee','es','cy','lt','ie','it','sk','at','dk','no','si','cz','de','pt','fi','nl','lu','se','lv','hu','ch','rs','bg','be','ro','me','el','hr','is','mt','al','ba'];
+        csvPath = '{year}/3-simplified/{country}_ODM_{year}{language}.csv';
+        loadList = {
+            2023: ['fr','pl','ua','ee','es','cy','lt','ie','it','sk','at','dk','no','si','cz','de','pt','fi','nl','lu','se','lv','hu','ch','rs','bg','be','ro','me','el','hr','is','mt','al','ba'],
+            2024: ['de'],
+        };
     var data = {};
 
     function funcInit() {
-        loadList.forEach((item) => {funcAdd(item)});
+        Object.keys(loadList).forEach((year) => {
+            loadList[year].forEach((item) => {funcAdd(item, year)});
+        });
     }
 
-    function funcAdd(country) {
+    function funcAdd(country, year) {
         var node = document.createElement('figure');
         node.classList.add('shield');
         node.classList.add('shield-button');
         node.classList.add('blue-sky');
         node.style = 'display:inline-block';
         node.dataset.country = country;
-//        node.title = data[country][_.getLanguage()]['R1'].Justification;
+        node.dataset.year = year;
         node.onclick = OnCountryClick;
 
         var flag = country === 'el' ? 'gr' : country;
@@ -30,49 +35,56 @@ var countries = (function () {
         document.getElementById(idElement).appendChild(node);
     }
 
-    function funcAddData(country, countryData, language) {
-        data[country.toLowerCase()] = data[country.toLowerCase()] || {};
-        data[country.toLowerCase()][language] = countryData;
+    function funcAddData(country, countryData, year, language) {
+        data[year] = data[year] || {};
+        data[year][country.toLowerCase()] = data[year][country.toLowerCase()] || {};
+        data[year][country.toLowerCase()][language] = countryData;
     }
 
-    function funcGet(country) {
-        return data[country];
+    function funcGet(country, year) {
+        if (data[year]) {
+            return data[year][country];
+        }
+
+        return data[year];
     }
 
-    function funcLength() {
-        return Object.keys(data).length;
+    function funcLength(year) {
+        return Object.keys(data[year]).length;
     }
 
-    function funcSelect(country) {
-        var elem = document.querySelectorAll('[data-country="' + country + '"]')[0];
+    function funcSelect(country, year) {
+        var elem = document.querySelectorAll('[data-country="' + country + '"][data-year="' + year + '"]')[0];
         OnCountryClick.call(elem);
     }
 
-    function onLoadedDE(filepath, data) {
+    function onLoadedDE(filepath, payload) {
         var filename = filepath.split('/').pop();
         var country = filename.split('_').shift().toLowerCase();
-        var elem = document.querySelectorAll('[data-country="' + country + '"]')[0];
+        var year = filename.split('_')[2].split('.').shift();
+        var elem = document.querySelectorAll('[data-country="' + country + '"][data-year="' + year + '"]')[0];
 
-        if (0 < data.length) {
+        if (0 < payload.length) {
             var countryData = [];
-            data.forEach((obj) => {
+            payload.forEach((obj) => {
                 countryData[obj.ID] = obj;
             });
 
-            countries.addData(country, countryData, 'de');
+            countries.addData(country, countryData, year, 'de');
         }
 
         elem.classList.remove('progress');
 
-        countries.select(country);
+        countries.select(country, year);
     }
 
-    function onLoaded(filepath, data) {
+    function onLoaded(filepath, payload) {
         var filename = filepath.split('/').pop();
         var country = filename.split('_').shift().toLowerCase();
-        var elem = document.querySelectorAll('[data-country="' + country + '"]')[0];
+        var year = filename.split('_')[2].split('.').shift();
+        var elem = document.querySelectorAll('[data-country="' + country + '"][data-year="' + year + '"]')[0];
 
-        if (0 === data.length) {
+        if (0 === payload.length) {
             elem.classList.remove('progress');
             elem.classList.add('disabled');
 
@@ -80,24 +92,24 @@ var countries = (function () {
         }
 
         var countryData = [];
-        data.forEach((obj) => {
+        payload.forEach((obj) => {
             countryData[obj.ID] = obj;
         });
 
-        countries.addData(country, countryData, 'en');
+        countries.addData(country, countryData, year, 'en');
 
-        if (countries.length() === 1) {
-            createQuestionTree(data);
+        if (countries.length(year) === 1) {
+            createQuestionTree(payload, year);
         }
 
-        load.csv(csvPath.replace('{country}', country.toUpperCase()).replace('{language}', '_de'), onLoadedDE);
+        load.csv(csvPath.replace('{country}', country.toUpperCase()).replace('{language}', '_de').replaceAll('{year}', year), onLoadedDE);
     }
 
-    function funcLoadAndSelect(country) {
-        var elem = document.querySelectorAll('[data-country="' + country + '"]')[0];
+    function funcLoadAndSelect(country, year) {
+        var elem = document.querySelectorAll('[data-country="' + country + '"][data-year="' + year + '"]')[0];
         elem.classList.add('progress');
 
-        load.csv(csvPath.replace('{country}', country.toUpperCase()).replace('{language}', ''), onLoaded);
+        load.csv(csvPath.replace('{country}', country.toUpperCase()).replace('{language}', '').replaceAll('{year}', year), onLoaded);
     }
 
     return {
@@ -113,10 +125,11 @@ var countries = (function () {
 
 function OnCountryClick() {
     var country = this.dataset.country;
+    var year = this.dataset.year;
 
-    if (countries.get(country)) {
+    if (countries.get(country, year)) {
         toggleCountry.call(this);
     } else {
-        countries.loadAndSelect(country);
+        countries.loadAndSelect(country, year);
     }
 }

@@ -2,6 +2,8 @@
 
 var DEFAULT_LANG = 'de',
     LOAD_LANG = ['de','en'],
+    INIT_COUNTRY = 'de',
+    INIT_YEAR = 2023,
     WEBSERVER_PATH = 'https://tursics.github.io/maturity-report/';
 
 var loadedDataScore = [],
@@ -11,7 +13,7 @@ var loadedDataScore = [],
 
 // ----------------------------------------------------------------------------
 
-function createQuestionTree(data) {
+function createQuestionTree(data, year) {
     var tree = {type: 'root', id: 'root', children: []};
     var parent = tree.children;
 
@@ -52,7 +54,7 @@ function onFinishLoading() {
     questionAnswer.jumpToID('root');
 
     countries.init();
-    countries.select('de');
+    countries.select(INIT_COUNTRY, INIT_YEAR);
 }
 
 function onFileScoring(filepath, data) {
@@ -104,6 +106,7 @@ function goto(destination, event) {
 
 function toggleCountry() {
     var country = this.dataset.country;
+    var year = this.dataset.year;
 
     if (this.classList.contains('selected')) {
         this.classList.remove('selected');
@@ -123,7 +126,7 @@ function toggleCountry() {
 
         this.classList.add('selected');
 
-        var shield = new Shield(country, countries.get(country));
+        var shield = new Shield(country, countries.get(country, year), year);
         shields.push(shield);
 
         goto(currentID);
@@ -134,8 +137,9 @@ function addAllCountries() {
     var selectedLang = document.querySelectorAll('figure.shield-button[data-country]:not(.selected)');
     selectedLang.forEach((elem) => {
         var country = elem.dataset.country;
+        var year = elem.dataset.year;
 
-        countries.select(country);
+        countries.select(country, year);
     })
 }
 
@@ -143,8 +147,9 @@ function removeAllCountries() {
     var selectedLang = document.querySelectorAll('figure.shield-button[data-country].selected');
     selectedLang.forEach((elem) => {
         var country = elem.dataset.country;
+        var year = elem.dataset.year;
 
-        countries.select(country);
+        countries.select(country, year);
     })
 }
 
@@ -328,8 +333,9 @@ function onTextSearch() {
         var selectedLang = document.querySelectorAll('figure.shield-button[data-country].selected');
         selectedLang.forEach((elem) => {
             var country = elem.dataset.country;
+            var year = elem.dataset.year;
             var flag = country === 'el' ? 'gr' : country;
-            var translations = countries.get(country);
+            var translations = countries.get(country, year);
             if (translations) {
                 var translation = translations[_.getLanguage()] ? translations[_.getLanguage()] : translations['en']
                 str += findInTranslations(flag, translation, value);
@@ -394,7 +400,7 @@ function sort() {
         list.push({
             country: shield.country,
             score: parseFloat(score.innerHTML) || 0,
-            title: _.getJustification(shield.country, 'R1'),
+            title: _.getJustification(shield.country, shield.year, 'R1'),
         });
     });
 
@@ -407,8 +413,8 @@ function sort() {
     });
 
     list.forEach((item) => {
-        countries.select(item.country);
-        countries.select(item.country);
+        countries.select(item.country, item.year);
+        countries.select(item.country, item.year);
     });
 }
 

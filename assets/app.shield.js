@@ -1,10 +1,11 @@
 class Shield {
     COLORS = {'de': 'goldenrod', 'D0': 'goldenrod','D1': '#00aef2','D2': '#dc5149','D3': '#001d85','D4': '#ff9933'};
 
-    constructor(country, answers) {
+    constructor(country, answers, year) {
         this.id = Date.now() + '' + Math.floor(Math.random() * 1000);
         this.answers = answers;
         this.country = country;
+        this.year = year;
 
         this.createHTML();
     }
@@ -123,17 +124,17 @@ class Shield {
     getAnswerText(obj) {
         var str = '';
 
-        str += '<div data-country="' + this.country + '" data-i18nanswer="' + obj.id + '" class="answer">' + _.getAnswer(this.country, obj.id) + '</div>';
-        str += '<div data-country="' + this.country + '" data-i18njustification="' + obj.id + '" class="justification">' + _.getJustification(this.country, obj.id) + '</div>';
+        str += '<div data-country="' + this.country + '" data-year="' + this.year + '" data-i18nanswer="' + obj.id + '" class="answer">' + _.getAnswer(this.country, this.year, obj.id) + '</div>';
+        str += '<div data-country="' + this.country + '" data-year="' + this.year + '" data-i18njustification="' + obj.id + '" class="justification">' + _.getJustification(this.country, this.year, obj.id) + '</div>';
 
-        var txt = _.getReviewer1(this.country, obj.id);
+        var txt = _.getReviewer1(this.country, this.year, obj.id);
         if (txt !== '') {
-            str += '<div data-country="' + this.country + '" data-i18nreviewer1="' + obj.id + '" class="reviewer">' + txt + '</div>';
+            str += '<div data-country="' + this.country + '" data-year="' + this.year + '" data-i18nreviewer1="' + obj.id + '" class="reviewer">' + txt + '</div>';
         }
 
-        txt = _.getReviewer2(this.country, obj.id);
+        txt = _.getReviewer2(this.country, this.year, obj.id);
         if (txt !== '') {
-            str += '<div data-country="' + this.country + '" data-i18nreviewer2="' + obj.id + '" class="reviewer">' + txt + '</div>';
+            str += '<div data-country="' + this.country + '" data-year="' + this.year + '" data-i18nreviewer2="' + obj.id + '" class="reviewer">' + txt + '</div>';
         }
 
         return str;
@@ -145,7 +146,7 @@ class Shield {
         var elemBoard = elem.getElementsByClassName('shield-board')[0];
         var elemScore = elem.getElementsByClassName('shield-score')[0];
 
-        var country = _.getJustification(this.country, 'R1');
+        var country = _.getJustification(this.country, this.year, 'R1');
         var str = '';
 
         if (country) {

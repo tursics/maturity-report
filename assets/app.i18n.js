@@ -22,29 +22,33 @@ var _ = (function () {
         elements = document.querySelectorAll('[data-i18nanswer]');
         elements.forEach(elem => {
             var country = elem.dataset['country'];
+            var year = elem.dataset['year'];
             var key = elem.dataset['i18nanswer'];
-            elem.innerHTML = funcGetAnswer(country, key);
+            elem.innerHTML = funcGetAnswer(country, year, key);
         });
 
         elements = document.querySelectorAll('[data-i18njustification]');
         elements.forEach(elem => {
             var country = elem.dataset['country'];
+            var year = elem.dataset['year'];
             var key = elem.dataset['i18njustification'];
-            elem.innerHTML = funcGetJustification(country, key);
+            elem.innerHTML = funcGetJustification(country, year, key);
         });
 
         elements = document.querySelectorAll('[data-i18nreviewer1]');
         elements.forEach(elem => {
             var country = elem.dataset['country'];
+            var year = elem.dataset['year'];
             var key = elem.dataset['i18nreviewer1'];
-            elem.innerHTML = funcGetReviewer1(country, key);
+            elem.innerHTML = funcGetReviewer1(country, year, key);
         });
 
         elements = document.querySelectorAll('[data-i18nreviewer2]');
         elements.forEach(elem => {
             var country = elem.dataset['country'];
+            var year = elem.dataset['year'];
             var key = elem.dataset['i18nreviewer2'];
-            elem.innerHTML = funcGetReviewer2(country, key);
+            elem.innerHTML = funcGetReviewer2(country, year, key);
         });
 
         elements = document.querySelectorAll('[data-i18nstart]');
@@ -97,8 +101,8 @@ var _ = (function () {
         return splitted.shift();
     }
 
-    function funcGetAnswer(country, answer) {
-        var answers = countries.get(country);
+    function funcGetAnswer(country, year, answer) {
+        var answers = countries.get(country, year);
         var answersEN = answers['en'];
         var answersLang = answers[_.getLanguage()];
 
@@ -107,8 +111,8 @@ var _ = (function () {
         return value;
     }
 
-    function funcGetJustification(country, answer) {
-        var answers = countries.get(country);
+    function funcGetJustification(country, year, answer) {
+        var answers = countries.get(country, year);
         var answersEN = answers['en'];
         var answersLang = answers[_.getLanguage()];
 
@@ -117,8 +121,8 @@ var _ = (function () {
         return value.split(/\r?\n/).join('<br>');
     }
 
-    function funcGetReviewer1(country, answer) {
-        var answers = countries.get(country);
+    function funcGetReviewer1(country, year, answer) {
+        var answers = countries.get(country, year);
         var answersEN = answers['en'];
         var answersLang = answers[_.getLanguage()];
 
@@ -130,8 +134,8 @@ var _ = (function () {
         return value.split(/\r?\n/).join('<br>');
     }
 
-    function funcGetReviewer2(country, answer) {
-        var answers = countries.get(country);
+    function funcGetReviewer2(country, year, answer) {
+        var answers = countries.get(country, year);
         var answersEN = answers['en'];
         var answersLang = answers[_.getLanguage()];
 

@@ -73,7 +73,8 @@ var _ = (function () {
         }
 
         return splitted.join('<br>');
-}
+    }
+
     function funcGetLanguage() {
         return langId;
     }
@@ -106,7 +107,8 @@ var _ = (function () {
         var answersEN = answers['en'];
         var answersLang = answers[_.getLanguage()];
 
-        var value = answersLang ? (answersLang[answer] ? answersLang[answer].Answer : answersEN[answer].Answer) : answersEN[answer].Answer;
+        var translation = answersLang ? (answersLang[answer] ? answersLang[answer] : answersEN[answer]) : answersEN[answer];
+        var value = translation ? translation.Answer : '';
 
         return value;
     }
@@ -116,7 +118,8 @@ var _ = (function () {
         var answersEN = answers['en'];
         var answersLang = answers[_.getLanguage()];
 
-        var value = answersLang ? (answersLang[answer] ? answersLang[answer].Justification : answersEN[answer].Justification) : answersEN[answer].Justification;
+        var translation = answersLang ? (answersLang[answer] ? answersLang[answer] : answersEN[answer]) : answersEN[answer];
+        var value = translation ? translation.Justification : '';
 
         return value.split(/\r?\n/).join('<br>');
     }
@@ -126,7 +129,8 @@ var _ = (function () {
         var answersEN = answers['en'];
         var answersLang = answers[_.getLanguage()];
 
-        var value = answersLang ? (answersLang[answer] ? answersLang[answer]['Reviewer 1 Comments'] : answersEN[answer]['Reviewer 1 Comments']) : answersEN[answer]['Reviewer 1 Comments'];
+        var translation = answersLang ? (answersLang[answer] ? answersLang[answer] : answersEN[answer]) : answersEN[answer];
+        var value = translation ? translation['Reviewer 1 Comments'] : '';
         if (value !== '') {
             value = funcGet('reviewer1') + value;
         }
@@ -139,7 +143,8 @@ var _ = (function () {
         var answersEN = answers['en'];
         var answersLang = answers[_.getLanguage()];
 
-        var value = answersLang ? (answersLang[answer] ? answersLang[answer]['Reviewer 2 Comments'] : answersEN[answer]['Reviewer 2 Comments']) : answersEN[answer]['Reviewer 2 Comments'];
+        var translation = answersLang ? (answersLang[answer] ? answersLang[answer] : answersEN[answer]) : answersEN[answer];
+        var value = translation ? translation['Reviewer 2 Comments'] : '';
         if (value !== '') {
             value = funcGet('reviewer2') + ' ' + value;
         }

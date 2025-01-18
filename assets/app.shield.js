@@ -48,11 +48,11 @@ class Shield {
     }
 
     getScore(obj) {
-        if (obj.id === 'D0') {
+        if (!obj) {
             return 0;
         }
 
-        var item = this.answers['en'][obj.id];
+        var item = this.answers['en'][obj.id[this.year]];
         var score = item && item.Score ? parseInt(item.Score, 10) : NaN;
 
         if (isNaN(score) || (obj.type === 'dimension')) {
@@ -67,7 +67,11 @@ class Shield {
     }
 
     getMaxScore(obj) {
-        var scoreItem = loadedDataScore[obj.id];
+        if (!obj) {
+            return 0;
+        }
+
+        var scoreItem = loadedDataScore[this.year] ? loadedDataScore[this.year][obj.id[this.year]] : NaN;
         var maxScore = scoreItem ? parseInt(scoreItem.Weight, 10) : NaN;
 
         if (isNaN(maxScore)) {
@@ -91,16 +95,18 @@ class Shield {
     getAnswerBox(obj, showGray) {
         var color = 'bg-gray';
 
-        var item = this.answers['en'][obj.id];
-        var score = parseInt(item.Score, 10);
+        var item = this.answers['en'][obj.id[this.year]];
+        var score = item ? parseInt(item.Score, 10) : NaN;
 
-        var scoreItem = loadedDataScore[obj.id];
+        var scoreItem = loadedDataScore[this.year] ? loadedDataScore[this.year][obj.id[this.year]] : NaN;
         var maxScore = scoreItem ? parseInt(scoreItem.Weight, 10) : NaN;
         var width = maxScore;
 
         if (isNaN(maxScore) || (maxScore === 0)) {
             color = 'bg-gray';
             width = 5;
+        } else if (isNaN(score)) {
+            color = 'bg-red';
         } else if (maxScore === score) {
             color = 'bg-green';
         } else if (0 === score) {
@@ -111,8 +117,8 @@ class Shield {
 
         var shrinkBy = showGray ? 6 : 20;
         var height = showGray ? 2.3 : .9;
-        var tooltip = _.get(obj.id).split('<br>')[0];
-        var str = '<span onclick="goto(\'' + obj.id + '\')" data-i18n-title="' + (obj.id) + '" title="' + tooltip + '" class="answerbox ' + color + '" style="width:' + (width / shrinkBy) + 'em;height:' + height + 'em"></span>';
+        var tooltip = _.get(obj.id[this.year]).split('<br>')[0];
+        var str = '<span onclick="goto(\'' + obj.id[this.year] + '\',null,' + this.year + ')" data-i18n-title="' + (obj.id[this.year]) + '" title="' + tooltip + '" class="answerbox ' + color + '" style="width:' + (width / shrinkBy) + 'em;height:' + height + 'em"></span>';
 
         if (!showGray && (color === 'bg-gray')) {
             str = '';
@@ -122,19 +128,26 @@ class Shield {
     }
 
     getAnswerText(obj) {
-        var str = '';
-
-        str += '<div data-country="' + this.country + '" data-year="' + this.year + '" data-i18nanswer="' + obj.id + '" class="answer">' + _.getAnswer(this.country, this.year, obj.id) + '</div>';
-        str += '<div data-country="' + this.country + '" data-year="' + this.year + '" data-i18njustification="' + obj.id + '" class="justification">' + _.getJustification(this.country, this.year, obj.id) + '</div>';
-
-        var txt = _.getReviewer1(this.country, this.year, obj.id);
-        if (txt !== '') {
-            str += '<div data-country="' + this.country + '" data-year="' + this.year + '" data-i18nreviewer1="' + obj.id + '" class="reviewer">' + txt + '</div>';
+        if (!obj) {
+            return '';
+        }
+        if (!obj.id[this.year]) {
+            return '';
         }
 
-        txt = _.getReviewer2(this.country, this.year, obj.id);
+        var str = '';
+
+        str += '<div data-country="' + this.country + '" data-year="' + this.year + '" data-i18nanswer="' + obj.id[this.year] + '" class="answer">' + _.getAnswer(this.country, this.year, obj.id[this.year]) + '</div>';
+        str += '<div data-country="' + this.country + '" data-year="' + this.year + '" data-i18njustification="' + obj.id[this.year] + '" class="justification">' + _.getJustification(this.country, this.year, obj.id[this.year]) + '</div>';
+
+        var txt = _.getReviewer1(this.country, this.year, obj.id[this.year]);
         if (txt !== '') {
-            str += '<div data-country="' + this.country + '" data-year="' + this.year + '" data-i18nreviewer2="' + obj.id + '" class="reviewer">' + txt + '</div>';
+            str += '<div data-country="' + this.country + '" data-year="' + this.year + '" data-i18nreviewer1="' + obj.id[this.year] + '" class="reviewer">' + txt + '</div>';
+        }
+
+        txt = _.getReviewer2(this.country, this.year, obj.id[this.year]);
+        if (txt !== '') {
+            str += '<div data-country="' + this.country + '" data-year="' + this.year + '" data-i18nreviewer2="' + obj.id[this.year] + '" class="reviewer">' + txt + '</div>';
         }
 
         return str;
@@ -152,7 +165,7 @@ class Shield {
         if (country) {
             var flag = this.country === 'el' ? 'gr' : this.country;
             str = '<span class="fi fi-' + flag + ' fis"></span>';
-            str += '<span data-country="' + this.country + '" data-i18njustification="' + 'R1' + '">' + country + '</span>';
+            str += '<span data-country="' + this.country + '" data-year="' + this.year +  '" data-i18njustification="' + 'R1' + '">' + country + '</span>';
         }
 
         elemCaption.innerHTML = str;
@@ -179,7 +192,7 @@ class Shield {
         var str = '';
         var that = this;
 
-        var percentage = this.getPercentage(questionAnswer.get('root'));
+        var percentage = this.getPercentage(questionAnswer.get('root', this.year));
         this.setCaption(percentage);
 
         function processChildren(root) {
@@ -187,6 +200,7 @@ class Shield {
                 if ('dimension' === child.type) {
                     processChildren(child);
                 } else {
+                    // that.year
                     str += that.getAnswerBox(child, false);
                 }
             });
@@ -211,17 +225,19 @@ class Shield {
         var percentage = this.getPercentage(question);
         this.setCaption(percentage);
 
-        if (question.children) {
+        if (question && question.children) {
             question.children.forEach((child) => {
-                if ('dimension' === child.type) {
-                    var score = this.getScore(child);
-                    var maxScore = this.getMaxScore(child);
-                    var percentage = maxScore === 0 ? '' : Math.round(score / maxScore * 100) + '%';
-                    dimensions.push({id: child.id, percentage});
-                } else {
-                    answers += this.getAnswerBox(child, true);
-                    style = 'overflow-y:hidden;line-height:1.1em';
-                    zoomable = false;
+                if (child.id[this.year]) {
+                    if ('dimension' === child.type) {
+                        var score = this.getScore(child);
+                        var maxScore = this.getMaxScore(child);
+                        var percentage = maxScore === 0 ? '' : Math.round(score / maxScore * 100) + '%';
+                        dimensions.push({id: child.id[this.year], percentage});
+                    } else {
+                        answers += this.getAnswerBox(child, true);
+                        style = 'overflow-y:hidden;line-height:1.1em';
+                        zoomable = false;
+                    }
                 }
             });
         } else {
@@ -249,14 +265,16 @@ class Shield {
                     value = '25%';
                 }
 
-                str += '<div onclick="goto(\'' + dimension.id + '\')" class="score-barchart" style="left: ' + (x + .5) + 'em;background: repeating-linear-gradient(0,' + color + ',' + color + ' ' + value + ',#555 0,#555 100%);"></div>';
-                str += '<div onclick="goto(\'' + dimension.id + '\')" class="score-barchart-label" style="left: ' + x + 'em;">' + label + '</div>';
+                str += '<div onclick="goto(\'' + dimension.id + '\',null,' + this.year + ')" class="score-barchart" style="left: ' + (x + .5) + 'em;background: repeating-linear-gradient(0,' + color + ',' + color + ' ' + value + ',#555 0,#555 100%);"></div>';
+                str += '<div onclick="goto(\'' + dimension.id + '\',null,' + this.year + ')" class="score-barchart-label" style="left: ' + x + 'em;">' + label + '</div>';
 
                 x += 3;
             });
             zoomable = false;
-        } else {
+        } else if (answers !== '') {
             str += answers;
+        } else {
+            str += '<span data-i18n="not_this_year">' + _.get('not_this_year') + '</span>';
         }
 
         elemBoard.style = style;

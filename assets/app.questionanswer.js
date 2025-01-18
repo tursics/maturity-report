@@ -7,12 +7,12 @@ var questionAnswer = (function () {
     function init() {
     }
 
-    function getParent(id) {
+    function getParent(id, year) {
         function getParent_(root) {
             var ret = null;
     
             if (root.children) {
-                if (root.children.find((child) => child.id === id)) {
+                if (root.children.find((child) => child.id[year] === id)) {
                     return root;
                 }
                 root.children.forEach((child) => {
@@ -28,9 +28,22 @@ var questionAnswer = (function () {
         return getParent_(questionTree);
     }
 
-    function setQuestionnaire(id) {
-        var obj = funcGet(id);
-        if (undefined === obj) {
+    function getItem(id, year) {
+        var parent = getParent(id, year);
+
+        if (parent) {
+            var item = parent.children.find((child) => child.id[year] === id);
+                if (item) {
+                    return item;
+            }
+        }
+
+        return null;
+    }
+
+    function setQuestionnaire(id, year) {
+        var obj = funcGet(id, year);
+        if ((undefined === obj) || (null === obj)) {
             console.error('Unknown id', id);
             return;
         }
@@ -41,18 +54,18 @@ var questionAnswer = (function () {
 
         var headlineKey = '';
         var questionStr = '';
-        var guideKey = 'G' + obj.id;
+        var guideKey = 'G' + obj.id[year];
         var guideStr = _.get(guideKey);
-        var noteKey = 'N' + obj.id.substr(1);
+        var noteKey = 'N' + obj.id[year].substr(1);
         var noteStr = _.get(noteKey);
 
-        if (LEVEL_ROOT === obj.id) {
+        if (LEVEL_ROOT === obj.id[year]) {
             headlineKey = 'odm_report';
         } else if ('dimension' === obj.type) {
-            headlineKey = obj.id;
+            headlineKey = obj.id[year];
         } else {
-            headlineKey = obj.id;
-            questionStr = '<span data-i18n="Question">' + _.get('Question') + '</span>' + ' ' + obj.id;
+            headlineKey = obj.id[year];
+            questionStr = '<span data-i18n="Question">' + _.get('Question') + '</span>' + ' ' + obj.id[year];
         }
         if (guideStr === ('{' + guideKey + '}')) {
             guideStr = '-';
@@ -66,7 +79,7 @@ var questionAnswer = (function () {
             if (noteStr === '') {
                 noteStr = '-';
             } else {
-                noteStr = '<span data-i18ntail="' + obj.id + '">' + _.getTail(headlineKey) + '</span>';
+                noteStr = '<span data-i18ntail="' + obj.id[year] + '">' + _.getTail(headlineKey) + '</span>';
             }
         }
 
@@ -91,7 +104,7 @@ var questionAnswer = (function () {
         elem.innerHTML = guideStr;
     }
 
-    function prepareButtons(id) {
+    function prepareButtons(id, year) {
         var search = document.getElementById('sidebar-search');
         var isNotSearch = search.classList.contains('hidden');
 
@@ -118,7 +131,7 @@ var questionAnswer = (function () {
         button1.classList.remove('disabled');
         button2.classList.remove('disabled');
 
-        if (!getNextID()) {
+        if (!getNextID(year)) {
             button1.classList.add('disabled');
             button2.classList.add('disabled');
         }
@@ -138,122 +151,127 @@ var questionAnswer = (function () {
         }
     }
 
-    function funcGet(id) {
+    function funcGet(id, year) {
         var obj = questionTree;
 
         if (0 === id.indexOf('D')) {
             if (id.length >= 2) {
-                obj = obj.children.find((elem) => elem.id === id.substring(0, 2));
+                obj = obj.children.find((elem) => elem.id[year] === id.substring(0, 2));
 
                 if (id.length >= 4) {
-                    obj = obj.children.find((elem) => elem.id === id.substring(0, 4));
+                    obj = obj.children.find((elem) => elem.id[year] === id.substring(0, 4));
 
                     if (id.length >= 5) {
-                        obj = obj.children.find((elem) => elem.id === id.substring(0, 5));
+                        obj = obj.children.find((elem) => elem.id[year] === id.substring(0, 5));
                     }
                 }
             }
         } else if (id === LEVEL_ROOT) {
             // root
         } else {
-            obj = {type: 'entry', id};
+            obj = getItem(id, year);
         }
 
         return obj;
     }
 
-    function getPrevID() {
+    function getPrevID(year) {
+        var guessedYear = shields.length > 0 ? shields[0].year : 2023;
+
         var current = currentID;
-        var root = getParent(current);
+        var root = getParent(current, year);
 
         if (!root) {
             return undefined;
         }
 
-        var index = root.children.findIndex((child) => child.id === current) - 1;
+        var index = root.children.findIndex((child) => child.id[guessedYear] === current) - 1;
         if (index < 0) {
-            return root.id;
+            return root.id[guessedYear];
         }
 
         var current = root.children[index];
-        if (Q_PRE_SCORE === current.id) {
-            return root.id;
+        if (Q_PRE_SCORE === current.id[guessedYear]) {
+            return root.id[guessedYear];
         }
 
         do {
-            var obj = funcGet(current.id);
+            var obj = funcGet(current.id[guessedYear], guessedYear);
             if (obj && obj.children && (obj.children.length > 0)) {
                 current = obj.children[obj.children.length - 1];
             } else {
-                return current.id;
+                return current.id[guessedYear];
             }
         } while (true);
     }
 
-    function getNextID() {
+    function getNextID(year) {
         var current = currentID;
-        var obj = funcGet(current);
+        var obj = funcGet(current, year);
 
         if (obj && obj.children && (obj.children.length > 0)) {
-            if (Q_TOTAL_SCORE === obj.children[0].id) {
-                return obj.children[3].id;
+            if (Q_TOTAL_SCORE === obj.children[0].id[year]) {
+                return obj.children[3].id[year];
             }
 
-            return obj.children[0].id;
+            return obj.children[0].id[year];
         }
 
         do {
-            var root = getParent(current);
+            var root = getParent(current, year);
             if (!root) {
                 return undefined;
             }
 
-            var index = root.children.findIndex((child) => child.id === current) + 1;
+            var index = root.children.findIndex((child) => child.id[year] === current) + 1;
             if (index < root.children.length) {
-                return root.children[index].id;
+                return root.children[index].id[year];
             }
 
-            current = root.id;
+            current = root.id[year];
         } while (true);
     }
 
     function funcJumpUpwards() {
+        var guessedYear = shields.length > 0 ? shields[0].year : 2023;
         var level = LEVEL_ROOT;
-        var root = getParent(currentID);
+        var root = getParent(currentID, guessedYear);
 
         if (root) {
-            level = root.id;
+            level = root.id[guessedYear];
         }
 
-        funcJumpToID(level);
+        funcJumpToID(level, guessedYear);
     }
 
     function funcJumpToPrev() {
-        var level = getPrevID();
+        var guessedYear = shields.length > 0 ? shields[0].year : 2023;
+        var level = getPrevID(guessedYear);
 
         if (level) {
             if (LEVEL_DEBUG === level) {
                 funcJumpToDebug();
             } else {
-                funcJumpToID(level);
+                funcJumpToID(level, guessedYear);
             }
         }
     }
 
     function funcJumpToNext() {
-        var level = getNextID();
+        var guessedYear = shields.length > 0 ? shields[0].year : 2023;
+        var level = getNextID(guessedYear);
 
         if (level) {
             if (LEVEL_DEBUG === level) {
                 funcJumpToDebug();
             } else {
-                funcJumpToID(level);
+                funcJumpToID(level, guessedYear);
             }
         }
     }
 
-    function funcJumpToID(id) {
-        var question = funcGet(id);
+    function funcJumpToID(id, year) {
+        var question = funcGet(id, year);
 
         if (undefined === question) {
             console.error('Unknown id', id);
@@ -262,21 +280,22 @@ var questionAnswer = (function () {
 
         currentID = id;
 
-        prepareButtons(currentID);
+        prepareButtons(currentID, year);
 
         shields.forEach((shield) => shield.setQuestion(question));
 
-        setQuestionnaire(currentID);
+        setQuestionnaire(currentID, year);
     }
 
     function funcJumpToDebug() {
         currentID = LEVEL_DEBUG;
 
-        prepareButtons(currentID);
+        var guessedYear = shields.length > 0 ? shields[0].year : 2023;
+        prepareButtons(currentID, guessedYear);
 
         shields.forEach((shield) => shield.setDebug());
 
-        setQuestionnaire(LEVEL_ROOT);
+        setQuestionnaire(LEVEL_ROOT, guessedYear);
     }
 
     init();

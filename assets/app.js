@@ -4,63 +4,31 @@ var DEFAULT_LANG = 'de',
     LOAD_LANG = ['de','en'],
     INIT_COUNTRY = 'de',
     INIT_YEAR = 2023,
+    INIT_ROOT = 'root',
     WEBSERVER_PATH = 'https://tursics.github.io/maturity-report/';
 
-var loadedDataScore = [],
-    questionTree = [],
+var loadedDataScore = {},
     shields = [],
     currentID = '';
 
 // ----------------------------------------------------------------------------
 
-function createQuestionTree(data, year) {
-    var tree = {type: 'root', id: 'root', children: []};
-    var parent = tree.children;
-
-    parent.push({type: 'dimension', id: 'D0', children: []});
-    parent = parent[parent.length - 1].children;
-
-    var parentD0 = parent;
-
-    data.forEach((obj) => {
-        if (0 === obj.ID.indexOf('D')) {
-            if (obj.ID.length === 2) {
-                parent = tree.children;
-                parent.push({type: 'dimension', id: obj.ID, children: []});
-                parent = parent[parent.length - 1].children;
-            } else if (obj.ID.length === 4) {
-                parent = tree.children.find((elem) => elem.id === obj.ID.substring(0, 2)).children;
-                parent.push({type: 'dimension', id: obj.ID, children: []});
-                parent = parent[parent.length - 1].children;
-            } else if (obj.ID.length === 5) {
-                parent = tree.children.find((elem) => elem.id === obj.ID.substring(0, 2)).children.find((elem) => elem.id === obj.ID.substring(0, 4)).children;
-                parent.push({type: 'dimension', id: obj.ID, children: []});
-                parent = parent[parent.length - 1].children;
-            }
-        } else {
-            parent.push({type: 'entry', id: obj.ID});
-        }
-    });
-
-    parentD0.push({type: 'dimension', id: 'debug', children: []});
-
-    questionTree = tree;
-}
-
 function onFinishLoading() {
     load.showLog(false);
     load.removeFinishCallback(onFinishLoading);
 
-    questionAnswer.jumpToID('root');
+    questionAnswer.jumpToID(INIT_ROOT, INIT_YEAR);
 
     countries.init();
     countries.select(INIT_COUNTRY, INIT_YEAR);
 }
 
 function onFileScoring(filepath, data) {
-    loadedDataScore = [];
+    var year = parseInt(filepath.split('/').shift(), 10);
+
+    loadedDataScore[year] = [];
     data.forEach((obj) => {
-        loadedDataScore[obj.ID] = obj;
+        loadedDataScore[year][obj.ID] = obj;
     });
 }
 
@@ -76,7 +44,7 @@ function onFileReport(filepath, data) {
     _.appendTranslations(language, data);
 }
 
-function goto(destination, event) {
+function goto(destination, event, year) {
     if (event) {
         event.preventDefault();
     }
@@ -100,7 +68,7 @@ function goto(destination, event) {
     } else if ('debug' === destination) {
         questionAnswer.jumpToDebug();
     } else {
-        questionAnswer.jumpToID(destination);
+        questionAnswer.jumpToID(destination, year);
     }
 }
 
@@ -129,7 +97,7 @@ function toggleCountry() {
         var shield = new Shield(country, countries.get(country, year), year);
         shields.push(shield);
 
-        goto(currentID);
+        goto(currentID, null, year);
     }
 }
 
@@ -350,7 +318,8 @@ function onResult(elem, event) {
     event.preventDefault();
 
     var id = elem.dataset.id;
-    goto(id);
+    var year = elem.dataset.year;
+    goto(id, null, year);
 }
 
 function zoomIn() {

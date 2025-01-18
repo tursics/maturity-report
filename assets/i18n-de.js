@@ -16,6 +16,7 @@ i18n['de'] = {
     'headline': 'Überschrift',
     'Info': 'Info',
     'loadFile': 'Lade Datei',
+    'not_this_year': 'In diesem Jahr ist diese Frage nicht enthalten.',
     'notes': 'Anmerkungen',
     'odm_report': 'Bericht zum Reifegrad offener Daten',
     'partOfGovData': 'Eine offizielle Webseite von GovData',

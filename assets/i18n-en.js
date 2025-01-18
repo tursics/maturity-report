@@ -16,6 +16,7 @@ i18n['en'] = {
     'headline': 'Headline',
     'Info': 'Info',
     'loadFile': 'Load file',
+    'not_this_year': 'In this year this question is not included.',
     'notes': 'Notes',
     'odm_report': 'Open Data Maturity Report',
     'partOfGovData': 'An official website of GovData',

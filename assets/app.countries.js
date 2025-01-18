@@ -36,7 +36,79 @@ var countries = (function () {
     }
 
     function funcAddData(country, countryData, year, language) {
-        data[year] = data[year] || {};
+        if (parseInt(year, 10) === 2024) {
+            var modified = [];
+            Object.keys(countryData).forEach(function(key) {
+                var obj = countryData[key];
+
+/*                if (0 === obj.ID.indexOf('D')) {
+                    if (obj.ID === 'D2') { obj.ID = 'D3' } else
+                    if (obj.ID === 'D2.1') { obj.ID = 'D3.1' } else
+                    if (obj.ID === 'D2.2') { obj.ID = 'D3.2' } else
+                    if (obj.ID === 'D2.3') { obj.ID = 'D3.3' } else
+                    if (obj.ID === 'D2.4') { obj.ID = 'D3.4' } else
+                    if (obj.ID === 'D3') { obj.ID = 'D4' } else
+                    if (obj.ID === 'D3.1') { obj.ID = 'D4.1' } else
+                    if (obj.ID === 'D3.2') { obj.ID = 'D4.2' } else
+                    if (obj.ID === 'D3.3') { obj.ID = 'D4.3' } else
+                    if (obj.ID === 'D3.4') { obj.ID = 'D4.4' } else
+                    if (obj.ID === 'D4') { obj.ID = 'D2' } else
+                    if (obj.ID === 'D4.1') { obj.ID = 'D2.1' } else
+                    if (obj.ID === 'D4.2') { obj.ID = 'D2.2' } else
+                    if (obj.ID === 'D4.3') { obj.ID = 'D2.3' } else
+                    if (obj.ID === 'D4.3a') { obj.ID = 'D2.3a' } else
+                    if (obj.ID === 'D4.3b') { obj.ID = 'D2.3b' } else
+                    if (obj.ID === 'D4.3c') { obj.ID = 'D2.3c' } else
+                    if (obj.ID === 'D4.3d') { obj.ID = 'D2.3d' }
+                } else
+                if (0 === obj.ID.indexOf('PT')) {
+                    obj.ID = obj.ID.substring(2);
+                    obj.ID = parseInt(obj.ID, 10) + 58;
+                } else
+                if (0 === obj.ID.indexOf('P')) {
+                    obj.ID = obj.ID.substring(1);
+                    obj.ID = parseInt(obj.ID, 10) + 0;
+                } else
+                if (0 === obj.ID.indexOf('Q')) {
+                    obj.ID = obj.ID.substring(1);
+                    obj.ID = parseInt(obj.ID, 10) + 105;
+                } else
+                if (0 === obj.ID.indexOf('I')) {
+                    obj.ID = obj.ID.substring(1);
+                    obj.ID = parseInt(obj.ID, 10) + 27;
+                }*/
+    
+                obj.ID += '';
+    
+                obj.Answer = obj['Answer from 2023'];
+                delete obj['Answer from 2023'];
+    
+                obj.Justification = obj['Explanation from 2023'];
+                delete obj['Explanation from 2023'];
+    
+    //            obj['Mark Question'];
+    
+                obj['Reviewer 1 Comments'] =
+                    obj['Confirm, change or complement answer/explanation from 2023'] + ' - ' +
+                    obj['Provide updated answer (if applicable)'];
+                delete obj['Confirm, change or complement answer/explanation from 2023'];
+                delete obj['Provide updated answer (if applicable)'];
+    
+                obj['Reviewer 2 Comments'] = obj['Provide updated explanation (if applicable)'];
+                delete obj['Provide updated explanation (if applicable)'];
+    
+    //            obj.Score;
+    //            console.log(obj);
+    //            obj.Question;
+                modified[obj.ID] = obj;
+            });
+    
+            countryData = modified;
+        }
+
+        if (!data[year]) {
+            data[year] = {};
+        }
         data[year][country.toLowerCase()] = data[year][country.toLowerCase()] || {};
         data[year][country.toLowerCase()][language] = countryData;
     }
@@ -97,10 +169,6 @@ var countries = (function () {
         });
 
         countries.addData(country, countryData, year, 'en');
-
-        if (countries.length(year) === 1) {
-            createQuestionTree(payload, year);
-        }
 
         load.csv(csvPath.replace('{country}', country.toUpperCase()).replace('{language}', '_de').replaceAll('{year}', year), onLoadedDE);
     }

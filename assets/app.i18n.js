@@ -108,7 +108,26 @@ var _ = (function () {
         var answersLang = answers[_.getLanguage()];
 
         var translation = answersLang ? (answersLang[answer] ? answersLang[answer] : answersEN[answer]) : answersEN[answer];
-        var value = translation ? translation.Answer : '';
+        var value = '';
+
+        if (translation) {
+            if (translation.Answer) {
+                // 2023
+                value = translation.Answer;
+            } else if (translation['Answer from 2023']) {
+                // 2024
+                var newValue = translation['Provide updated answer (if applicable)'];
+                value = translation['Answer from 2023'];
+
+                if (newValue !== '') {
+                    if (newValue.toLowerCase() !== value.toLowerCase()) {
+                        value = newValue + '<br><span style="color:goldenrod;font-size:.8em">2023: ' + value + '</span>';
+                    } else {
+                        value = newValue;
+                    }
+                }
+            }
+        }
 
         return value;
     }
@@ -119,7 +138,31 @@ var _ = (function () {
         var answersLang = answers[_.getLanguage()];
 
         var translation = answersLang ? (answersLang[answer] ? answersLang[answer] : answersEN[answer]) : answersEN[answer];
-        var value = translation ? translation.Justification : '';
+        var value = '';
+
+        if (translation) {
+            if (translation.Justification) {
+                // 2023
+                value = translation.Justification;
+            } else if (translation['Explanation from 2023']) {
+                // 2024
+                var status = translation['Confirm, change or complement answer/explanation from 2023'];
+                var newValue = translation['Provide updated explanation (if applicable)'];
+                value = translation['Explanation from 2023'];
+
+                if ('Confirm' === status) {
+                    if (newValue !== '') {
+                        console.error(country + ' ' + year + ' unchanged value has changes');
+                    }
+                } else if ('Change' === status) {
+                    value = newValue + '<br><br><span style="color:goldenrod;font-size:.8em">Former value from 2023<br>' + value + '</span>';
+                } else if ('Complement' === status) {
+                    value += '<br><br><span style="color:goldenrod;font-size:.8em">Complement from 2024</span><br>' + newValue;
+                } else {
+                    console.error(status);
+                }
+            }
+        }
 
         return value.split(/\r?\n/).join('<br>');
     }
@@ -130,7 +173,7 @@ var _ = (function () {
         var answersLang = answers[_.getLanguage()];
 
         var translation = answersLang ? (answersLang[answer] ? answersLang[answer] : answersEN[answer]) : answersEN[answer];
-        var value = translation ? translation['Reviewer 1 Comments'] : '';
+        var value = translation && translation['Reviewer 1 Comments'] ? translation['Reviewer 1 Comments'] : '';
         if (value !== '') {
             value = funcGet('reviewer1') + value;
         }
@@ -144,7 +187,7 @@ var _ = (function () {
         var answersLang = answers[_.getLanguage()];
 
         var translation = answersLang ? (answersLang[answer] ? answersLang[answer] : answersEN[answer]) : answersEN[answer];
-        var value = translation ? translation['Reviewer 2 Comments'] : '';
+        var value = translation && translation['Reviewer 2 Comments'] ? translation['Reviewer 2 Comments'] : '';
         if (value !== '') {
             value = funcGet('reviewer2') + ' ' + value;
         }

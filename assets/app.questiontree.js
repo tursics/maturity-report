@@ -82,7 +82,8 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '2'},
+                            id: {2023: '2', 2024: 'P2'},
+                            title: 'Is there a national open data strategy in your country?'
                         },
                         {
                             type: 'entry',
@@ -428,7 +429,8 @@ var questionTree = {
                             children: [
                                 {
                                     type: 'entry',
-                                    id: {2023: '45'},
+                                    id: {2023: '45', 2024: 'I17'},
+                                    title: 'Is any data on the impact created by open data on social challenges ...'
                                 },
                                 {
                                     type: 'entry',
@@ -502,11 +504,13 @@ var questionTree = {
         },
         {
             type: 'dimension',
-            id: {2023: 'D3'},
+            id: {2023: 'D3', 2024: 'D2'},
+            title: 'Open Data Portal',
             children: [
                 {
                     type: 'dimension',
-                    id: {2023: 'D3.1'},
+                    id: {2023: 'D3.1', 2024: 'D2.1'},
+                    title: 'Portal features',
                     children: [
                         {
                             type: 'entry',
@@ -612,7 +616,8 @@ var questionTree = {
                 },
                 {
                     type: 'dimension',
-                    id: {2023: 'D3.2'},
+                    id: {2023: 'D3.2', 2024: 'D2.2'},
+                    title: 'Portal usage',
                     children: [
                         {
                             type: 'entry',
@@ -682,7 +687,8 @@ var questionTree = {
                 },
                 {
                     type: 'dimension',
-                    id: {2023: 'D3.3'},
+                    id: {2023: 'D3.3', 2024: 'D2.3'},
+                    title: 'Data provision',
                     children: [
                         {
                             type: 'entry',
@@ -732,7 +738,8 @@ var questionTree = {
                 },
                 {
                     type: 'dimension',
-                    id: {2023: 'D3.4'},
+                    id: {2023: 'D3.4', 2024: 'D2.4'},
+                    title: 'Portal sustainability',
                     children: [
                         {
                             type: 'entry',
@@ -744,7 +751,8 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '100'},
+                            id: {2023: '100', 2024: 'PT42'},
+                            title: 'Is your national portal active on social media?'
                         },
                         {
                             type: 'entry',
@@ -752,7 +760,8 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '102'},
+                            id: {2023: '102', 2024: 'PT43'},
+                            title: 'Are the portals source code ...'
                         },
                         {
                             type: 'entry',

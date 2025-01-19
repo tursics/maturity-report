@@ -375,216 +375,6 @@ var questionTree = {
         },
         {
             type: 'dimension',
-            id: {2023: 'D2'},
-            title: 'Open Data Impact',
-            children: [
-                {
-                    type: 'dimension',
-                    id: {2023: 'D2.1'},
-                    children: [
-                        {
-                            type: 'entry',
-                            id: {2023: '28'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '29'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '30'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '31'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '32'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '33'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '34'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '35'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '36'},
-                        }
-                    ]
-                },
-                {
-                    type: 'dimension',
-                    id: {2023: 'D2.2'},
-                    children: [
-                        {
-                            type: 'entry',
-                            id: {2023: '37'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '37.1'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '37.2'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '37.3'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '37.4'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '37.5'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '38'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '38.1'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '38.2'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '38.3'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '39a'},
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '39b'},
-                        }
-                    ]
-                },
-                {
-                    type: 'dimension',
-                    id: {2023: 'D2.3'},
-                    children: [
-                        {
-                            type: 'dimension',
-                            id: {2023: 'D2.3a'},
-                            children: [
-                                {
-                                    type: 'entry',
-                                    id: {2023: '40'},
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '41'},
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '42'},
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '43'},
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '44'},
-                                }
-                            ]
-                        },
-                        {
-                            type: 'dimension',
-                            id: {2023: 'D2.3b'},
-                            children: [
-                                {
-                                    type: 'entry',
-                                    id: {2023: '45', 2024: 'I17'},
-                                    title: 'Is any data on the impact created by open data on social challenges ...'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '46'},
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '47'},
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '48'},
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '49'},
-                                }
-                            ]
-                        },
-                        {
-                            type: 'dimension',
-                            id: {2023: 'D2.3c'},
-                            children: [
-                                {
-                                    type: 'entry',
-                                    id: {2023: '50'},
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '51'},
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '52'},
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '53'},
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '54'},
-                                }
-                            ]
-                        },
-                        {
-                            type: 'dimension',
-                            id: {2023: 'D2.3d'},
-                            children: [
-                                {
-                                    type: 'entry',
-                                    id: {2023: '55'},
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '56'},
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '57'},
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '58'},
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            type: 'dimension',
             id: {2023: 'D3', 2024: 'D2'},
             title: 'Open Data Portal',
             children: [
@@ -595,103 +385,158 @@ var questionTree = {
                     children: [
                         {
                             type: 'entry',
-                            id: {2023: '59'},
+                            id: {2023: '59', 2024: 'PT1'},
+                            title: 'Is there a national portal in your country for ...'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2024: 'PT2'},
+                            title: 'What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)'
                         },
                         {
                             type: 'entry',
                             id: {2023: '60'},
+                            title: 'Does the national portal offer an advanced data search function (multiple field search, filter options, etc.)?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '61'},
+                            title: 'Does the national portal offer the possibility for users to download datasets (e.g. via a link)?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '62a'},
+                            title: 'Does the national portal offer the possibility for users to search by file format?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '62b'},
+                            title: 'Does the national portal offer the possibility for users to search by data domain?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '63'},
+                            title: 'Does the national portal offer to its users a way to programmatically query the metadata (e.g. via an API or a SPARQL access point)?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2024: 'PT3'},
+                            title: 'Does the national portal offer to its users a way to programmatically query the metadata via an API?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2024: 'PT4'},
+                            title: 'Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '64'},
+                            title: 'Does the national portal offer documentation on the use of APIs and other tools that enable working with the aforementioned metadata?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2024: 'PT5'},
+                            title: 'Does the national portal offer/link to documentation on the use of APIs?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2024: 'PT6'},
+                            title: 'Does the national portal offer/link to documentation on the use of SPARQL?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '65'},
+                            title: 'Does the national portal enable users to provide content for the portal (e.g. to link documentation and supporting materials to a given dataset)?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '66a'},
+                            id: {2024: 'PT7'},
+                            title: 'Does the national portal provide functionality for users to contribute datasets they have produced or enriched?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '66b'},
+                            id: {2023: '66a', 2024: 'PT8'},
+                            title: 'Does the national portal offer a general feedback mechanism for users (e.g. a ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '66c'},
+                            id: {2023: '66b', 2024: 'PT9'},
+                            title: 'Does the national portal offer a feedback mechanism at dataset level? (e.g. a ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '67'},
+                            id: {2023: '66c', 2024: 'PT10'},
+                            title: 'Does the national portal provide a mechanism for users to rate datasets?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '68'},
+                            id: {2023: '67', 2024: 'PT11'},
+                            title: 'Does the national portal enable users to find information and news on relevant open data topics in the country?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '69a'},
+                            id: {2023: '68', 2024: 'PT12'},
+                            title: 'Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '69a', 2024: 'PT13'},
+                            title: 'Does the national portal offer the possibility for users to request datasets?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '69b'},
+                            title: 'If yes [to Q69a], what is the frequency of these requests?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '69c'},
+                            id: {2023: '69c', 2024: 'PT14'},
+                            title: 'Are these requests and their progress status presented in a transparent manner on the national portal?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '70a'},
+                            id: {2023: '70a', 2024: 'PT15'},
+                            title: 'Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '70b'},
+                            title: 'If yes [to Q70a], to what degree do these requests result in the publication of the requested data?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '71'},
+                            id: {2023: '71', 2024: 'PT16'},
+                            title: 'Does the national portal include a discussion forum ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '72'},
+                            id: {2023: '72', 2024: 'PT17'},
+                            title: 'Does the national portal have a designated area to showcase use cases?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '73'},
+                            id: {2023: '73', 2024: 'PT18'},
+                            title: 'Does the national portal reference the datasets that the showcased ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '74'},
+                            id: {2023: '74', 2024: 'PT19'},
+                            title: 'Does the national portal provide the possibility for users to submit their own ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '75'},
+                            id: {2023: '75', 2024: 'PT20'},
+                            title: 'Does the national portal offer a preview function for tabular data?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '76'},
+                            id: {2023: '76', 2024: 'PT21'},
+                            title: 'Does the national portal offer a preview function for geospatial data?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '77'},
+                            id: {2023: '77', 2024: 'PT22'},
+                            title: '... HVD ... are you progressing in the promotion of such datasets on your national portal ...'
                         }
                     ]
                 },
@@ -1035,6 +880,216 @@ var questionTree = {
                         {
                             type: 'entry',
                             id: {2023: '129'},
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            type: 'dimension',
+            id: {2023: 'D2'},
+            title: 'Open Data Impact',
+            children: [
+                {
+                    type: 'dimension',
+                    id: {2023: 'D2.1'},
+                    children: [
+                        {
+                            type: 'entry',
+                            id: {2023: '28'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '29'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '30'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '31'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '32'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '33'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '34'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '35'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '36'},
+                        }
+                    ]
+                },
+                {
+                    type: 'dimension',
+                    id: {2023: 'D2.2'},
+                    children: [
+                        {
+                            type: 'entry',
+                            id: {2023: '37'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '37.1'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '37.2'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '37.3'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '37.4'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '37.5'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '38'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '38.1'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '38.2'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '38.3'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '39a'},
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '39b'},
+                        }
+                    ]
+                },
+                {
+                    type: 'dimension',
+                    id: {2023: 'D2.3'},
+                    children: [
+                        {
+                            type: 'dimension',
+                            id: {2023: 'D2.3a'},
+                            children: [
+                                {
+                                    type: 'entry',
+                                    id: {2023: '40'},
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '41'},
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '42'},
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '43'},
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '44'},
+                                }
+                            ]
+                        },
+                        {
+                            type: 'dimension',
+                            id: {2023: 'D2.3b'},
+                            children: [
+                                {
+                                    type: 'entry',
+                                    id: {2023: '45', 2024: 'I17'},
+                                    title: 'Is any data on the impact created by open data on social challenges ...'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '46'},
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '47'},
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '48'},
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '49'},
+                                }
+                            ]
+                        },
+                        {
+                            type: 'dimension',
+                            id: {2023: 'D2.3c'},
+                            children: [
+                                {
+                                    type: 'entry',
+                                    id: {2023: '50'},
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '51'},
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '52'},
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '53'},
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '54'},
+                                }
+                            ]
+                        },
+                        {
+                            type: 'dimension',
+                            id: {2023: 'D2.3d'},
+                            children: [
+                                {
+                                    type: 'entry',
+                                    id: {2023: '55'},
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '56'},
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '57'},
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '58'},
+                                }
+                            ]
                         }
                     ]
                 }

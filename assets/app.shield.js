@@ -102,7 +102,10 @@ class Shield {
         var maxScore = scoreItem ? parseInt(scoreItem.Weight, 10) : NaN;
         var width = maxScore;
 
-        if (isNaN(maxScore) || (maxScore === 0)) {
+        if (!item) {
+            color = 'multi-year';
+            width = 10;
+        } else if (isNaN(maxScore) || (maxScore === 0)) {
             color = 'bg-gray';
             width = 5;
         } else if (isNaN(score)) {
@@ -117,8 +120,18 @@ class Shield {
 
         var shrinkBy = showGray ? 6 : 20;
         var height = showGray ? 2.3 : .9;
-        var tooltip = _.get(obj.id[this.year]).split('<br>')[0];
-        var str = '<span onclick="goto(\'' + obj.id[this.year] + '\',null,' + this.year + ')" data-i18n-title="' + (obj.id[this.year]) + '" title="' + tooltip + '" class="answerbox ' + color + '" style="width:' + (width / shrinkBy) + 'em;height:' + height + 'em"></span>';
+        var style = 'width:' + (width / shrinkBy) + 'em;height:' + height + 'em;';
+        var year = this.year;
+
+        if (!item) {
+            style += 'background-color:#eee;';
+            style += 'background-size: 10px 10px;'
+            style += 'background-image: repeating-linear-gradient(-45deg, #888 0, #888 1px, #eee 0, #eee 50%);';
+            year = Object.keys(obj.id)[0];
+        }
+
+        var tooltip = _.get(obj.id[year]).split('<br>')[0];
+        var str = '<span onclick="goto(\'' + obj.id[year] + '\',null,' + year + ')" data-i18n-title="' + (obj.id[year]) + '" title="' + tooltip + '" class="answerbox ' + color + '" style="' + style + '"></span>';
 
         if (!showGray && (color === 'bg-gray')) {
             str = '';
@@ -200,7 +213,6 @@ class Shield {
                 if ('dimension' === child.type) {
                     processChildren(child);
                 } else {
-                    // that.year
                     str += that.getAnswerBox(child, false);
                 }
             });
@@ -227,17 +239,15 @@ class Shield {
 
         if (question && question.children) {
             question.children.forEach((child) => {
-                if (child.id[this.year]) {
-                    if ('dimension' === child.type) {
-                        var score = this.getScore(child);
-                        var maxScore = this.getMaxScore(child);
-                        var percentage = maxScore === 0 ? '' : Math.round(score / maxScore * 100) + '%';
-                        dimensions.push({id: child.id[this.year], percentage});
-                    } else {
-                        answers += this.getAnswerBox(child, true);
-                        style = 'overflow-y:hidden;line-height:1.1em';
-                        zoomable = false;
-                    }
+                if ('dimension' === child.type) {
+                    var score = this.getScore(child);
+                    var maxScore = this.getMaxScore(child);
+                    var percentage = maxScore === 0 ? '' : Math.round(score / maxScore * 100) + '%';
+                    dimensions.push({id: child.id[this.year], percentage});
+                } else {
+                    answers += this.getAnswerBox(child, true);
+                    style = 'overflow-y:hidden;line-height:1.1em';
+                    zoomable = false;
                 }
             });
         } else {
@@ -248,27 +258,29 @@ class Shield {
         if (dimensions.length > 0) {
             var x = (17 - dimensions.length * 3) / 2;
             dimensions.forEach((dimension) => {
-                var color = this.COLORS[dimension.id.substring(0,2)];
-                var value = dimension.percentage;
-                var label = dimension.percentage;
+                if (dimension.id) {
+                    var color = this.COLORS[dimension.id.substring(0,2)];
+                    var value = dimension.percentage;
+                    var label = dimension.percentage;
 
-                if (dimension.id === 'D0') {
-                    label = _.get('Info');
-                } else if (dimension.id === 'D0.1') {
-                    label = _.get('Info');
-                    value = '75%';
-                } else if (dimension.id === 'D0.2') {
-                    label = _.get('EU');
-                    value = '75%';
-                } else if (dimension.id === 'debug') {
-                    label = _.get('debug');
-                    value = '25%';
+                    if (dimension.id === 'D0') {
+                        label = _.get('Info');
+                    } else if (dimension.id === 'D0.1') {
+                        label = _.get('Info');
+                        value = '75%';
+                    } else if (dimension.id === 'D0.2') {
+                        label = _.get('EU');
+                        value = '75%';
+                    } else if (dimension.id === 'debug') {
+                        label = _.get('debug');
+                        value = '25%';
+                    }
+
+                    str += '<div onclick="goto(\'' + dimension.id + '\',null,' + this.year + ')" class="score-barchart" style="left: ' + (x + .5) + 'em;background: repeating-linear-gradient(0,' + color + ',' + color + ' ' + value + ',#555 0,#555 100%);"></div>';
+                    str += '<div onclick="goto(\'' + dimension.id + '\',null,' + this.year + ')" class="score-barchart-label" style="left: ' + x + 'em;">' + label + '</div>';
+
+                    x += 3;
                 }
-
-                str += '<div onclick="goto(\'' + dimension.id + '\',null,' + this.year + ')" class="score-barchart" style="left: ' + (x + .5) + 'em;background: repeating-linear-gradient(0,' + color + ',' + color + ' ' + value + ',#555 0,#555 100%);"></div>';
-                str += '<div onclick="goto(\'' + dimension.id + '\',null,' + this.year + ')" class="score-barchart-label" style="left: ' + x + 'em;">' + label + '</div>';
-
-                x += 3;
             });
             zoomable = false;
         } else if (answers !== '') {

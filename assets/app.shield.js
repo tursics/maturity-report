@@ -173,12 +173,14 @@ class Shield {
         var elemScore = elem.getElementsByClassName('shield-score')[0];
 
         var country = _.getJustification(this.country, this.year, 'R1');
-        var str = '';
+        var flag = this.country === 'el' ? 'gr' : this.country;
+        var str = '<span class="fi fi-' + flag + ' fis"></span>';
 
         if (country) {
-            var flag = this.country === 'el' ? 'gr' : this.country;
-            str = '<span class="fi fi-' + flag + ' fis"></span>';
             str += '<span data-country="' + this.country + '" data-year="' + this.year +  '" data-i18njustification="' + 'R1' + '">' + country + '</span>';
+        } else {
+            country = _.getJustification(this.country, 2023, 'R1');
+            str += '<span data-country="' + this.country + '" data-year="' + 2023 +  '" data-i18njustification="' + 'R1' + '">' + country + '</span>';
         }
 
         elemCaption.innerHTML = str;

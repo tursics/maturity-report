@@ -104,7 +104,7 @@ var questionAnswer = (function () {
         elem.innerHTML = guideStr;
     }
 
-    function prepareButtons(id, year) {
+    function prepareButtons() {
         var search = document.getElementById('sidebar-search');
         var isNotSearch = search.classList.contains('hidden');
 
@@ -117,7 +117,7 @@ var questionAnswer = (function () {
         button1.classList.remove('disabled');
         button2.classList.remove('disabled');
 
-        if (id === LEVEL_ROOT) {
+        if (currentID === LEVEL_ROOT) {
             button1.classList.add('disabled');
             button2.classList.add('disabled');
         }
@@ -131,7 +131,7 @@ var questionAnswer = (function () {
         button1.classList.remove('disabled');
         button2.classList.remove('disabled');
 
-        if (!getNextID(year)) {
+        if (!getNextID()) {
             button1.classList.add('disabled');
             button2.classList.add('disabled');
         }
@@ -145,7 +145,7 @@ var questionAnswer = (function () {
         button1.classList.remove('disabled');
         button2.classList.remove('disabled');
 
-        if (id === LEVEL_ROOT) {
+        if (currentID === LEVEL_ROOT) {
             button1.classList.add('disabled');
             button2.classList.add('disabled');
         }
@@ -205,16 +205,25 @@ var questionAnswer = (function () {
         } while (true);
     }
 
-    function getNextID(year) {
+    function getNextID() {
         var current = currentID;
+        var year = currentYear;
         var obj = funcGet(current, year);
 
         if (obj && obj.children && (obj.children.length > 0)) {
+            var child = obj.children[0].id;
             if (Q_TOTAL_SCORE === obj.children[0].id[year]) {
-                return obj.children[3].id[year];
+                child = obj.children[3].id;
             }
 
-            return obj.children[0].id[year];
+            if (!child[year]) {
+                year = Object.keys(child)[0];
+            }
+
+            return {
+                id: child[year],
+                year: year
+            };
         }
 
         do {
@@ -225,23 +234,36 @@ var questionAnswer = (function () {
 
             var index = root.children.findIndex((child) => child.id[year] === current) + 1;
             if (index < root.children.length) {
-                return root.children[index].id[year];
+                var child = root.children[index].id;
+
+                if (!child[year]) {
+                    year = Object.keys(child)[0];
+                }
+    
+                return {
+                    id: child[year],
+                    year: year
+                };
             }
 
-            current = root.id[year];
+            var parent = root.id;
+            if (!parent[year]) {
+                year = Object.keys(parent)[0];
+            }
+
+            current = parent[year];
         } while (true);
     }
 
     function funcJumpUpwards() {
-        var guessedYear = shields.length > 0 ? shields[0].year : 2023;
         var level = LEVEL_ROOT;
-        var root = getParent(currentID, guessedYear);
+        var root = getParent(currentID, currentYear);
 
         if (root) {
-            level = root.id[guessedYear];
+            level = root.id[currentYear];
         }
 
-        funcJumpToID(level, guessedYear);
+        funcJumpToID(level, currentYear);
     }
 
     function funcJumpToPrev() {
@@ -258,14 +280,13 @@ var questionAnswer = (function () {
     }
 
     function funcJumpToNext() {
-        var guessedYear = shields.length > 0 ? shields[0].year : 2023;
-        var level = getNextID(guessedYear);
+        var level = getNextID();
 
         if (level) {
-            if (LEVEL_DEBUG === level) {
+            if (LEVEL_DEBUG === level.id) {
                 funcJumpToDebug();
             } else {
-                funcJumpToID(level, guessedYear);
+                funcJumpToID(level.id, level.year);
             }
         }
     }
@@ -279,19 +300,20 @@ var questionAnswer = (function () {
         }
 
         currentID = id;
+        currentYear = year;
 
-        prepareButtons(currentID, year);
+        prepareButtons();
 
         shields.forEach((shield) => shield.setQuestion(question));
 
-        setQuestionnaire(currentID, year);
+        setQuestionnaire(currentID, currentYear);
     }
 
     function funcJumpToDebug() {
         currentID = LEVEL_DEBUG;
 
         var guessedYear = shields.length > 0 ? shields[0].year : 2023;
-        prepareButtons(currentID, guessedYear);
+        prepareButtons();
 
         shields.forEach((shield) => shield.setDebug());
 

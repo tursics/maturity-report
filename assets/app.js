@@ -9,7 +9,8 @@ var DEFAULT_LANG = 'de',
 
 var loadedDataScore = {},
     shields = [],
-    currentID = '';
+    currentID = '',
+    currentYear = INIT_YEAR;
 
 // ----------------------------------------------------------------------------
 
@@ -97,7 +98,7 @@ function toggleCountry() {
         var shield = new Shield(country, countries.get(country, year), year);
         shields.push(shield);
 
-        goto(currentID, null, year);
+        goto(currentID, null, currentYear);
     }
 }
 

@@ -175,32 +175,53 @@ var questionAnswer = (function () {
         return obj;
     }
 
-    function getPrevID(year) {
-        var guessedYear = shields.length > 0 ? shields[0].year : 2023;
-
+    function getPrevID() {
         var current = currentID;
+        var year = currentYear;
         var root = getParent(current, year);
 
         if (!root) {
             return undefined;
         }
 
-        var index = root.children.findIndex((child) => child.id[guessedYear] === current) - 1;
+        var index = root.children.findIndex((child) => child.id[year] === current) - 1;
         if (index < 0) {
-            return root.id[guessedYear];
+            var child = root.id;
+
+            if (!child[year]) {
+                year = Object.keys(child)[0];
+            }
+
+            return {
+                id: child[year],
+                year: year
+            };
         }
 
         var current = root.children[index];
-        if (Q_PRE_SCORE === current.id[guessedYear]) {
-            return root.id[guessedYear];
+        if (!current.id[year]) {
+            year = Object.keys(current.id)[0];
+        }
+        if (Q_PRE_SCORE === current.id[year]) {
+            return {
+                id: root.id[year],
+                year: year
+            };
         }
 
         do {
-            var obj = funcGet(current.id[guessedYear], guessedYear);
+            var obj = funcGet(current.id[year], year);
             if (obj && obj.children && (obj.children.length > 0)) {
                 current = obj.children[obj.children.length - 1];
+
+                if (!current.id[year]) {
+                    year = Object.keys(current.id)[0];
+                }
             } else {
-                return current.id[guessedYear];
+                return {
+                    id: current.id[year],
+                    year: year
+                };
             }
         } while (true);
     }
@@ -267,14 +288,13 @@ var questionAnswer = (function () {
     }
 
     function funcJumpToPrev() {
-        var guessedYear = shields.length > 0 ? shields[0].year : 2023;
-        var level = getPrevID(guessedYear);
+        var level = getPrevID();
 
         if (level) {
-            if (LEVEL_DEBUG === level) {
+            if (LEVEL_DEBUG === level.id) {
                 funcJumpToDebug();
             } else {
-                funcJumpToID(level, guessedYear);
+                funcJumpToID(level.id, level.year);
             }
         }
     }
@@ -312,12 +332,11 @@ var questionAnswer = (function () {
     function funcJumpToDebug() {
         currentID = LEVEL_DEBUG;
 
-        var guessedYear = shields.length > 0 ? shields[0].year : 2023;
         prepareButtons();
 
         shields.forEach((shield) => shield.setDebug());
 
-        setQuestionnaire(LEVEL_ROOT, guessedYear);
+        setQuestionnaire(LEVEL_ROOT, currentYear);
     }
 
     init();

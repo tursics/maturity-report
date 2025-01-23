@@ -706,11 +706,13 @@ var questionTree = {
                     children: [
                         {
                             type: 'entry',
-                            id: {2023: '98'},
+                            id: {2023: '98', 2024: 'PT41'},
+                            title: 'Does the national portal have a strategy to ensure its sustainability?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '99'},
+                            title: 'Does this strategy include a description of the porta’s target audience and measures to reach this audience?'
                         },
                         {
                             type: 'entry',
@@ -720,6 +722,7 @@ var questionTree = {
                         {
                             type: 'entry',
                             id: {2023: '101'},
+                            title: 'Do you take actions to promote the national portal’s activities and the available open data ...'
                         },
                         {
                             type: 'entry',
@@ -729,26 +732,32 @@ var questionTree = {
                         {
                             type: 'entry',
                             id: {2023: '103'},
+                            title: 'Was there a user satisfaction survey concerning the national portal conducted in the past year?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '104a'},
+                            title: 'Is there a process by which the portal is reviewed and improved regularly?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '104b'},
+                            title: 'If yes [to Q104a], what is the frequency of these reviews?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '104c'},
+                            title: 'If yes [to Q104a], is the users’ feedback considered in the review process?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '105a'},
+                            id: {2023: '105a', 2024: 'PT44'},
+                            title: '... the characteristics of the data published on the portal, such as the distribution across categories, ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '105b'},
+                            id: {2023: '105b', 2024: 'PT45'},
+                            title: 'Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?'
                         }
                     ]
                 }

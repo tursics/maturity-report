@@ -644,47 +644,58 @@ var questionTree = {
                     children: [
                         {
                             type: 'entry',
-                            id: {2023: '91'},
+                            id: {2023: '91', 2024: 'PT32'},
+                            title: 'To what degree do public sector data providers contribute data to the portal?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '92a'},
+                            id: {2023: '92a', 2024: 'PT33'},
+                            title: 'Do you identify the data providers that are not yet publishing data on the national portal?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '92b'},
+                            id: {2023: '92b', 2024: 'PT34'},
+                            title: 'Were there concrete actions taken to assist these data providers with their publication process?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '93a'},
+                            id: {2023: '93a', 2024: 'PT35'},
+                            title: 'Besides the national open data portal, are there other regional and local portals?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '93b'},
+                            id: {2023: '93b', 2024: 'PT36'},
+                            title: '... their data sources discoverable via the national portal?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '93c'},
+                            id: {2023: '93c', 2024: 'PT37'},
+                            title: '... to what degree are existing regional and local sources harvested automatically?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '94a'},
+                            id: {2023: '94a', 2024: 'PT38'},
+                            title: 'Does the national portal include datasets that are real-time or dynamic?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '94b'},
+                            title: 'If yes [to Q94a], what percentage of metadata links to such data?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '95'},
+                            id: {2023: '95', 2024: 'PT39'},
+                            title: 'Does the national portal provide a separate section where non-official data ...'
                         },
                         {
                             type: 'entry',
                             id: {2023: '96'},
+                            title: 'Do you have an overview of the data providers (official and non-official) on your national portal?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '97'},
+                            id: {2023: '97', 2024: 'PT40'},
+                            title: 'Does the national portal allow users to see what data exists but cannot be made available as open data?'
                         }
                     ]
                 },

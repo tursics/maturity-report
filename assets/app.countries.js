@@ -122,12 +122,16 @@ var countries = (function () {
 }());
 
 function OnCountryClick() {
-    var country = this.dataset.country;
-    var year = this.dataset.year;
+    if (this.dataset) {
+        var country = this.dataset.country;
+        var year = this.dataset.year;
 
-    if (countries.get(country, year)) {
-        toggleCountry.call(this);
+        if (countries.get(country, year)) {
+            toggleCountry.call(this);
+        } else {
+            countries.loadAndSelect(country, year);
+        }
     } else {
-        countries.loadAndSelect(country, year);
+        console.error(this);
     }
 }

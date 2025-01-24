@@ -80,8 +80,8 @@ function toggleCountry() {
     if (this.classList.contains('selected')) {
         this.classList.remove('selected');
 
-        shields.find((shield) => shield.country === country).removeHTML();
-        shields = shields.filter((shield) => shield.country !== country);
+        shields.find((shield) => (shield.country === country) && (shield.year === year)).removeHTML();
+        shields = shields.filter((shield) => !((shield.country === country) && (shield.year === year)));
 
         if (shields.length === 0) {
             var elem = document.getElementById('empty');
@@ -369,6 +369,7 @@ function sort() {
         var score = document.getElementById(shield.id).querySelectorAll('.shield-score')[0];
         list.push({
             country: shield.country,
+            year: shield.year,
             score: parseFloat(score.innerHTML) || 0,
             title: _.getJustification(shield.country, shield.year, 'R1'),
         });

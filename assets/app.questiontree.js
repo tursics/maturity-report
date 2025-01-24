@@ -775,23 +775,38 @@ var questionTree = {
                     children: [
                         {
                             type: 'entry',
-                            id: {2023: '106'},
+                            id: {2023: '106', 2024: 'Q1'},
+                            title: 'Is there a pre-defined approach to ensure that metadata is kept up-to-date?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '107'},
+                            id: {2023: '107', 2024: 'Q2'},
+                            title: '... is obtained from the source automatically, rather than edited manually?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '108'},
+                            id: {2023: '108', 2024: 'Q3'},
+                            title: 'What is the average delay from the moment the metadata describing a dataset is updated at ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '109'},
+                            id: {2023: '109', 2024: 'Q4'},
+                            title: '... published data cover the full period from when it was first published ...'
                         },
                         {
                             type: 'entry',
                             id: {2023: '110'},
+                            title: '... high-value datasets, is your country progressing in ensuring interoperability of datasets, in particular high-value ones, alongside the datasets of another country?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2024: 'Q5'},
+                            title: 'Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2024: 'Q6'},
+                            title: 'Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?'
                         }
                     ]
                 },

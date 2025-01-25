@@ -817,23 +817,38 @@ var questionTree = {
                     children: [
                         {
                             type: 'entry',
-                            id: {2023: '111a'},
+                            id: {2023: '111a', 2024: 'Q7'},
+                            title: 'Do you monitor the quality of the metadata available on your portal?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '111b'},
+                            id: {2023: '111b', 2024: 'Q8'},
+                            title: 'Do you publish information on the quality of the metadata available on the portal?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '112'},
+                            title: 'Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in choosing an appropriate licence for their data?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '113'},
+                            title: 'Did you develop your own open licence/licencing suite to foster the publication of open data in your country?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '114'},
+                            id: {2024: 'Q9'},
+                            title: 'Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2024: 'Q10'},
+                            title: 'Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '114', 2024: 'Q11'},
+                            title: 'Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences ...'
                         },
                         {
                             type: 'entry',
@@ -843,22 +858,32 @@ var questionTree = {
                         {
                             type: 'entry',
                             id: {2023: '116'},
+                            title: 'How has the percentage of datasets accompanied by licencing information changed compared to the same period last year?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '117'},
+                            id: {2023: '117', 2024: 'Q13'},
+                            title: '... how many different licences are used on your portal?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '118'},
+                            title: 'Are guidelines and tools provided for data providers to improve the quality of their data publication?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '119a'},
+                            title: 'Are there regular activities conducted or mechanisms in place to incentivise and/or assist data providers in the publication of data in machine-readable formats?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '119b'},
+                            title: 'Are there regular activities conducted or mechanisms in place to incentivise and/or assist data providers in the publication of high-quality metadata?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2024: 'Q14'},
+                            title: '... are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets ...'
                         }
                     ]
                 },
@@ -870,38 +895,52 @@ var questionTree = {
                         {
                             type: 'entry',
                             id: {2023: '120'},
+                            title: 'Do you supply data providers with documentation on DCAT-AP (e.g. factsheets, materials published on the EC websites such as the JoinUp platform, or your own documentation)?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '121'},
+                            id: {2024: 'Q15'},
+                            title: 'Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '122a'},
+                            id: {2023: '121', 2024: 'Q16'},
+                            title: 'What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource)'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '122b'},
+                            id: {2023: '122a', 2024: 'Q17'},
+                            title: 'What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document)'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '123'},
+                            id: {2023: '122b', 2024: 'Q18'},
+                            title: 'What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency)'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '124a'},
+                            id: {2023: '123', 2024: 'Q19'},
+                            title: 'Is there a national extension of the DCAT-AP standard developed for your country?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '124a', 2024: 'Q20'},
+                            title: 'Do you investigate the most common causes for the lack of DCAT-AP compliance?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '124b'},
+                            title: 'If yes [to Q124a], what are the main causes for the lack of DCAT-AP compliance?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '125a'},
+                            id: {2023: '125a', 2024: 'Q21'},
+                            title: 'What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '125b'},
+                            id: {2023: '125b', 2024: 'Q22'},
+                            title: 'What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?'
                         }
                     ]
                 },
@@ -912,35 +951,43 @@ var questionTree = {
                     children: [
                         {
                             type: 'entry',
-                            id: {2023: '126'},
+                            id: {2023: '126', 2024: 'Q23'},
+                            title: 'Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '127'},
+                            id: {2023: '127', 2024: 'Q24'},
+                            title: 'Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '128a'},
+                            id: {2023: '128a', 2024: 'Q25'},
+                            title: 'What percentage of datasets is made available under a standard open licence ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '128b'},
+                            id: {2023: '128b', 2024: 'Q26'},
+                            title: '... in a structured data format?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '128c'},
+                            id: {2023: '128c', 2024: 'Q27'},
+                            title: '... in an open and machine-readable format?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '128d'},
+                            id: {2023: '128d', 2024: 'Q28'},
+                            title: '... consistely use Uniform Resource Identifiers?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '128e'},
+                            id: {2023: '128e', 2024: 'Q29'},
+                            title: '... to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?'
                         },
                         {
                             type: 'entry',
                             id: {2023: '129'},
+                            title: 'Do you monitor the improvements in terms of quality of open data deployment?'
                         }
                     ]
                 }

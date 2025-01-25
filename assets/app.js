@@ -1,7 +1,8 @@
 // ----------------------------------------------------------------------------
 
 var DEFAULT_LANG = 'de',
-    LOAD_LANG = ['de','en'],
+    LOAD_LANG = ['de', 'en'],
+    LOAD_YEAR = [2023, 2024],
     INIT_COUNTRY = 'de',
     INIT_YEAR = 2023,
     INIT_ROOT = 'root',
@@ -397,7 +398,10 @@ document.addEventListener('DOMContentLoaded', function() {
         load.csv('2023/3-simplified/00_i18n' + language + '.csv', onFileReport);
     });
 
-    load.csv('2023/3-simplified/00_scoring.csv', onFileScoring);
+    LOAD_YEAR.forEach((year) => {
+        load.csv(year + '/3-simplified/00_scoring.csv', onFileScoring);
+    });
+
     load.addFinishCallback(onFinishLoading);
 });
 

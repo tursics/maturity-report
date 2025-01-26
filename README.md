@@ -48,6 +48,7 @@ You are invited to prepare the data for another year or another state. Here is a
   - remove subtotal rows
   - remove table (a table in a table!) with HVD
   - remove columns "Question" and "Guide to Answering"
+  - check the presense of row 'Score' (in 2024 this was missing)
 
 6. Duplicate all exisiting csv and append ISO code of choosen language like `/2024/3-simplified/AL_ODM_2024_de.csv`
 

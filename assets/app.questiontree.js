@@ -1242,6 +1242,11 @@ var questionTree = {
                                     type: 'entry',
                                     id: {2023: '58', 2024: 'I30'},
                                     title: 'Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)?'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2024: 'I31'},
+                                    title: 'Is the use of open data in your country having an impact on the level of productivity?'
                                 }
                             ]
                         }

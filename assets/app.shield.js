@@ -102,7 +102,7 @@ class Shield {
 
         if (!item) {
             color = 'multi-year';
-            width = 10;
+            width = 5;
         } else if (isNaN(maxScore) || (maxScore === 0)) {
             color = 'bg-gray';
             width = 5;
@@ -117,7 +117,8 @@ class Shield {
         }
 
         var shrinkBy = showGray ? 6 : 20;
-        var height = showGray ? 2.3 : .9;
+//        var height = showGray ? 2.3 : .9;
+        var height = showGray ? 1.8 : .72;
         var style = 'width:' + (width / shrinkBy) + 'em;height:' + height + 'em;';
         var year = this.year;
 

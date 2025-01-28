@@ -2,16 +2,19 @@ var questionTree = {
     type: 'root',
     id: {2023: 'root', 2024: 'root'},
     title: 'Open Data Maturity Report',
+    color: 'goldenrod',
     children: [
         {
             type: 'dimension',
             id: {2023: 'D0', 2024: 'D0'},
             title: 'info',
+            color: 'goldenrod',
             children: [
                 {
                     type: 'dimension',
                     id: {2023: 'D0.1'},
                     title: 'Background information',
+                    color: 'goldenrod',
                     children: [
                         {
                             type: 'entry',
@@ -59,6 +62,7 @@ var questionTree = {
                     type: 'dimension',
                     id: {2023: 'D0.2'},
                     title: 'data.europa.eu and national open data portals',
+                    color: 'goldenrod',
                     children: [
                         {
                             type: 'entry',
@@ -76,6 +80,7 @@ var questionTree = {
                     type: 'dimension',
                     id: {2023: 'debug', 2024: 'debug'},
                     title: 'Debug',
+                    color: 'goldenrod',
                     children: []
                 }
             ]
@@ -84,11 +89,13 @@ var questionTree = {
             type: 'dimension',
             id: {2023: 'D1', 2024: 'D1'},
             title: 'Dimension 1: Open Data Policy',
+            color: '#00aef2',
             children: [
                 {
                     type: 'dimension',
                     id: {2023: 'D1.1', 2024: 'D1.1'},
                     title: '1.1 Policy framework',
+                    color: '#00aef2',
                     children: [
                         {
                             type: 'entry',
@@ -226,6 +233,7 @@ var questionTree = {
                     type: 'dimension',
                     id: {2023: 'D1.2', 2024: 'D1.2'},
                     title: 'Governance of open data',
+                    color: '#00aef2',
                     children: [
                         {
                             type: 'entry',
@@ -283,6 +291,7 @@ var questionTree = {
                     type: 'dimension',
                     id: {2023: 'D1.3', 2024: 'D1.3'},
                     title: 'Open data implementation',
+                    color: '#00aef2',
                     children: [
                         {
                             type: 'entry',
@@ -377,11 +386,13 @@ var questionTree = {
             type: 'dimension',
             id: {2023: 'D3', 2024: 'D2'},
             title: 'Open Data Portal',
+            color: '#001d85',
             children: [
                 {
                     type: 'dimension',
                     id: {2023: 'D3.1', 2024: 'D2.1'},
                     title: 'Portal features',
+                    color: '#001d85',
                     children: [
                         {
                             type: 'entry',
@@ -544,6 +555,7 @@ var questionTree = {
                     type: 'dimension',
                     id: {2023: 'D3.2', 2024: 'D2.2'},
                     title: 'Portal usage',
+                    color: '#001d85',
                     children: [
                         {
                             type: 'entry',
@@ -641,6 +653,7 @@ var questionTree = {
                     type: 'dimension',
                     id: {2023: 'D3.3', 2024: 'D2.3'},
                     title: 'Data provision',
+                    color: '#001d85',
                     children: [
                         {
                             type: 'entry',
@@ -703,6 +716,7 @@ var questionTree = {
                     type: 'dimension',
                     id: {2023: 'D3.4', 2024: 'D2.4'},
                     title: 'Portal sustainability',
+                    color: '#001d85',
                     children: [
                         {
                             type: 'entry',
@@ -765,13 +779,284 @@ var questionTree = {
         },
         {
             type: 'dimension',
+            id: {2023: 'D2', 2024: 'D4'},
+            title: 'Open Data Impact',
+            color: '#dc5149',
+            children: [
+                {
+                    type: 'dimension',
+                    id: {2023: 'D2.1', 2024: 'D4.1'},
+                    title: 'Strategic awareness',
+                    color: '#dc5149',
+                    children: [
+                        {
+                            type: 'entry',
+                            id: {2023: '28', 2024: 'I1'},
+                            title: 'Do you have a definition of open data reuse in your country?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '29'},
+                            title: 'Is there interest at national level to observe the level of reuse of open data in your country?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '30', 2024: 'I2'},
+                            title: 'Are there any processes in place to monitor the level of reuse of your country ...'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '31', 2024: 'I3'},
+                            title: 'Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '32', 2024: 'I4'},
+                            title: '... to monitor and measure the level of reuse of high-value datasets ...'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '33', 2024: 'I5'},
+                            title: 'Has your government specified what \'impact of open data\' means (e.g. in a strategy document)?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '34', 2024: 'I6'},
+                            title: 'Do you have a methodology in place to measure the impact of open data in your country?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '35'},
+                            title: 'Are there studies that have been conducted in the past year that focus on assessing the impact of open data in your country?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '36', 2024: 'I7'},
+                            title: 'Is there collaboration between government and civil society or academia to create open data impact in your country?'
+                        }
+                    ]
+                },
+                {
+                    type: 'dimension',
+                    id: {2023: 'D2.2', 2024: 'D4.2'},
+                    title: 'Measuring reuse',
+                    color: '#dc5149',
+                    children: [
+                        {
+                            type: 'entry',
+                            id: {2023: '37', 2024: 'I8'},
+                            title: 'Have any public bodies in your country launched or performed any activities in the past year to ... which and how (open) datasets are reused?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '37.1'},
+                            title: 'Analysis of log files'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '37.2', 2024: 'I8-a'},
+                            title: 'Automated feedback mechanisms tracking users access to datasets'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '37.3', 2024: 'I8-b'},
+                            title: 'Surveys'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '37.4', 2024: 'I8-c'},
+                            title: 'Interviews/workshops with reusers'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '37.5', 2024: 'I8-d'},
+                            title: 'Other'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '38', 2024: 'I9'},
+                            title: 'Have any public bodies in your country launched or performed any activities in the past year to better understand reusers ...'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '38.1', 2024: 'I9-a'},
+                            title: 'Regular feedback sessions with portal users'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '38.2', 2024: 'I9-b'},
+                            title: 'Social media sentiment analysis '
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '38.3', 2024: 'I9-c'},
+                            title: 'Other'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '39a', 2024: 'I10'},
+                            title: 'Have any public bodies in your country developed any systematic way of gathering reuse cases?'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2023: '39b', 2024: 'I11'},
+                            title: 'Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?'
+                        }
+                    ]
+                },
+                {
+                    type: 'dimension',
+                    id: {2023: 'D2.3', 2024: 'D4.3'},
+                    title: 'Created impact',
+                    color: '#dc5149',
+                    children: [
+                        {
+                            type: 'dimension',
+                            id: {2023: 'D2.3a', 2024: 'D4.3a'},
+                            title: 'Governmental impact',
+                            color: '#dc5149',
+                            children: [
+                                {
+                                    type: 'entry',
+                                    id: {2023: '40', 2024: 'I12'},
+                                    title: 'Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country ...'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '41', 2024: 'I13'},
+                                    title: 'Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services?'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '42', 2024: 'I14'},
+                                    title: 'Is the use of open data in your country having an impact on transparency and accountability of public administrations?'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '43', 2024: 'I15'},
+                                    title: 'Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)?'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '44', 2024: 'I16'},
+                                    title: 'Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?'
+                                }
+                            ]
+                        },
+                        {
+                            type: 'dimension',
+                            id: {2023: 'D2.3b', 2024: 'D4.3b'},
+                            title: 'Social impact',
+                            color: '#dc5149',
+                            children: [
+                                {
+                                    type: 'entry',
+                                    id: {2023: '45', 2024: 'I17'},
+                                    title: 'Is any data on the impact created by open data on social challenges ...'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '46', 2024: 'I18'},
+                                    title: 'Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees ...'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '47', 2024: 'I19'},
+                                    title: 'Is the use of open data in your country having an impact on ... housing in urban areas?'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '48', 2024: 'I20'},
+                                    title: 'Is the use of open data in your country having an impact on ... health and wellbeing ...'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '49', 2024: 'I21'},
+                                    title: 'Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?'
+                                }
+                            ]
+                        },
+                        {
+                            type: 'dimension',
+                            id: {2023: 'D2.3c', 2024: 'D4.3c'},
+                            title: 'Environmental impact',
+                            color: '#dc5149',
+                            children: [
+                                {
+                                    type: 'entry',
+                                    id: {2023: '50', 2024: 'I22'},
+                                    title: 'Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country ...'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '51', 2024: 'I23'},
+                                    title: 'Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)?'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '52', 2024: 'I24'},
+                                    title: 'Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)?'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '53', 2024: 'I25'},
+                                    title: 'Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '54', 2024: 'I26'},
+                                    title: 'Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables?'
+                                }
+                            ]
+                        },
+                        {
+                            type: 'dimension',
+                            id: {2023: 'D2.3d', 2024: 'D4.3d'},
+                            title: 'Economic impact',
+                            color: '#dc5149',
+                            children: [
+                                {
+                                    type: 'entry',
+                                    id: {2023: '55', 2024: 'I27'},
+                                    title: 'Is any data on the economic impact (e.g. ...'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '56', 2024: 'I28'},
+                                    title: 'Is the use of open data in your country having an impact on the level of employment?'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '57', 2024: 'I29'},
+                                    title: 'Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies?'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2023: '58', 2024: 'I30'},
+                                    title: 'Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)?'
+                                },
+                                {
+                                    type: 'entry',
+                                    id: {2024: 'I31'},
+                                    title: 'Is the use of open data in your country having an impact on the level of productivity?'
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            type: 'dimension',
             id: {2023: 'D4', 2024: 'D3'},
             title: 'Open Data Quality',
+            color: '#ff9933',
             children: [
                 {
                     type: 'dimension',
                     id: {2023: 'D4.1', 2024: 'D3.1'},
                     title: 'Currency and completeness',
+                    color: '#ff9933',
                     children: [
                         {
                             type: 'entry',
@@ -814,6 +1099,7 @@ var questionTree = {
                     type: 'dimension',
                     id: {2023: 'D4.2', 2024: 'D3.2'},
                     title: 'Monitoring and measures',
+                    color: '#ff9933',
                     children: [
                         {
                             type: 'entry',
@@ -891,6 +1177,7 @@ var questionTree = {
                     type: 'dimension',
                     id: {2023: 'D4.3', 2024: 'D3.3'},
                     title: 'DCAT-AP Compliance',
+                    color: '#ff9933',
                     children: [
                         {
                             type: 'entry',
@@ -948,6 +1235,7 @@ var questionTree = {
                     type: 'dimension',
                     id: {2023: 'D4.4', 2024: 'D3.4'},
                     title: 'Deployment quality and linked data',
+                    color: '#ff9933',
                     children: [
                         {
                             type: 'entry',
@@ -988,267 +1276,6 @@ var questionTree = {
                             type: 'entry',
                             id: {2023: '129'},
                             title: 'Do you monitor the improvements in terms of quality of open data deployment?'
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            type: 'dimension',
-            id: {2023: 'D2', 2024: 'D4'},
-            title: 'Open Data Impact',
-            children: [
-                {
-                    type: 'dimension',
-                    id: {2023: 'D2.1', 2024: 'D4.1'},
-                    title: 'Strategic awareness',
-                    children: [
-                        {
-                            type: 'entry',
-                            id: {2023: '28', 2024: 'I1'},
-                            title: 'Do you have a definition of open data reuse in your country?'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '29'},
-                            title: 'Is there interest at national level to observe the level of reuse of open data in your country?'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '30', 2024: 'I2'},
-                            title: 'Are there any processes in place to monitor the level of reuse of your country ...'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '31', 2024: 'I3'},
-                            title: 'Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '32', 2024: 'I4'},
-                            title: '... to monitor and measure the level of reuse of high-value datasets ...'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '33', 2024: 'I5'},
-                            title: 'Has your government specified what \'impact of open data\' means (e.g. in a strategy document)?'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '34', 2024: 'I6'},
-                            title: 'Do you have a methodology in place to measure the impact of open data in your country?'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '35'},
-                            title: 'Are there studies that have been conducted in the past year that focus on assessing the impact of open data in your country?'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '36', 2024: 'I7'},
-                            title: 'Is there collaboration between government and civil society or academia to create open data impact in your country?'
-                        }
-                    ]
-                },
-                {
-                    type: 'dimension',
-                    id: {2023: 'D2.2', 2024: 'D4.2'},
-                    title: 'Measuring reuse',
-                    children: [
-                        {
-                            type: 'entry',
-                            id: {2023: '37', 2024: 'I8'},
-                            title: 'Have any public bodies in your country launched or performed any activities in the past year to ... which and how (open) datasets are reused?'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '37.1'},
-                            title: 'Analysis of log files'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '37.2', 2024: 'I8-a'},
-                            title: 'Automated feedback mechanisms tracking users access to datasets'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '37.3', 2024: 'I8-b'},
-                            title: 'Surveys'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '37.4', 2024: 'I8-c'},
-                            title: 'Interviews/workshops with reusers'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '37.5', 2024: 'I8-d'},
-                            title: 'Other'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '38', 2024: 'I9'},
-                            title: 'Have any public bodies in your country launched or performed any activities in the past year to better understand reusers ...'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '38.1', 2024: 'I9-a'},
-                            title: 'Regular feedback sessions with portal users'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '38.2', 2024: 'I9-b'},
-                            title: 'Social media sentiment analysis '
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '38.3', 2024: 'I9-c'},
-                            title: 'Other'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '39a', 2024: 'I10'},
-                            title: 'Have any public bodies in your country developed any systematic way of gathering reuse cases?'
-                        },
-                        {
-                            type: 'entry',
-                            id: {2023: '39b', 2024: 'I11'},
-                            title: 'Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?'
-                        }
-                    ]
-                },
-                {
-                    type: 'dimension',
-                    id: {2023: 'D2.3', 2024: 'D4.3'},
-                    title: 'Created impact',
-                    children: [
-                        {
-                            type: 'dimension',
-                            id: {2023: 'D2.3a', 2024: 'D4.3a'},
-                            title: 'Governmental impact',
-                            children: [
-                                {
-                                    type: 'entry',
-                                    id: {2023: '40', 2024: 'I12'},
-                                    title: 'Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country ...'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '41', 2024: 'I13'},
-                                    title: 'Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services?'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '42', 2024: 'I14'},
-                                    title: 'Is the use of open data in your country having an impact on transparency and accountability of public administrations?'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '43', 2024: 'I15'},
-                                    title: 'Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)?'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '44', 2024: 'I16'},
-                                    title: 'Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?'
-                                }
-                            ]
-                        },
-                        {
-                            type: 'dimension',
-                            id: {2023: 'D2.3b', 2024: 'D4.3b'},
-                            title: 'Social impact',
-                            children: [
-                                {
-                                    type: 'entry',
-                                    id: {2023: '45', 2024: 'I17'},
-                                    title: 'Is any data on the impact created by open data on social challenges ...'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '46', 2024: 'I18'},
-                                    title: 'Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees ...'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '47', 2024: 'I19'},
-                                    title: 'Is the use of open data in your country having an impact on ... housing in urban areas?'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '48', 2024: 'I20'},
-                                    title: 'Is the use of open data in your country having an impact on ... health and wellbeing ...'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '49', 2024: 'I21'},
-                                    title: 'Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?'
-                                }
-                            ]
-                        },
-                        {
-                            type: 'dimension',
-                            id: {2023: 'D2.3c', 2024: 'D4.3c'},
-                            title: 'Environmental impact',
-                            children: [
-                                {
-                                    type: 'entry',
-                                    id: {2023: '50', 2024: 'I22'},
-                                    title: 'Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country ...'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '51', 2024: 'I23'},
-                                    title: 'Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)?'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '52', 2024: 'I24'},
-                                    title: 'Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)?'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '53', 2024: 'I25'},
-                                    title: 'Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '54', 2024: 'I26'},
-                                    title: 'Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables?'
-                                }
-                            ]
-                        },
-                        {
-                            type: 'dimension',
-                            id: {2023: 'D2.3d', 2024: 'D4.3d'},
-                            title: 'Economic impact',
-                            children: [
-                                {
-                                    type: 'entry',
-                                    id: {2023: '55', 2024: 'I27'},
-                                    title: 'Is any data on the economic impact (e.g. ...'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '56', 2024: 'I28'},
-                                    title: 'Is the use of open data in your country having an impact on the level of employment?'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '57', 2024: 'I29'},
-                                    title: 'Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies?'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2023: '58', 2024: 'I30'},
-                                    title: 'Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)?'
-                                },
-                                {
-                                    type: 'entry',
-                                    id: {2024: 'I31'},
-                                    title: 'Is the use of open data in your country having an impact on the level of productivity?'
-                                }
-                            ]
                         }
                     ]
                 }

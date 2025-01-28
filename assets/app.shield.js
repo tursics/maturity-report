@@ -1,6 +1,4 @@
 class Shield {
-    COLORS = {'de': 'goldenrod', 'D0': 'goldenrod','D1': '#00aef2','D2': '#dc5149','D3': '#001d85','D4': '#ff9933'};
-
     constructor(country, answers, year) {
         this.id = Date.now() + '' + Math.floor(Math.random() * 1000);
         this.answers = answers;
@@ -245,7 +243,11 @@ class Shield {
                     var score = this.getScore(child);
                     var maxScore = this.getMaxScore(child);
                     var percentage = maxScore === 0 ? '' : Math.round(score / maxScore * 100) + '%';
-                    dimensions.push({id: child.id[this.year], percentage});
+                    dimensions.push({
+                        color: child.color,
+                        id: child.id[this.year],
+                        percentage
+                    });
                 } else {
                     answers += this.getAnswerBox(child, true);
                     style = 'overflow-y:hidden;line-height:1.1em';
@@ -261,7 +263,10 @@ class Shield {
             var x = (17 - dimensions.length * 3) / 2;
             dimensions.forEach((dimension) => {
                 if (dimension.id) {
-                    var color = this.COLORS[dimension.id.substring(0,2)];
+                    var color = 'goldenrod';
+                    if (dimension.color) {
+                        color = dimension.color;
+                    }
                     var value = dimension.percentage;
                     var label = dimension.percentage;
 

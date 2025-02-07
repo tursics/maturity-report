@@ -11,7 +11,7 @@ var load = (function () {
     function log(filepath) {
         var elem = document.getElementById(idConsole);
         var path = filepath.split('/');
-        var str = '<span data-i18n="loadFile">' + _.get('loadFile') + '</span> ' + path[path.length - 1] + '<br>';
+        var str = '<span data-i18n="loadFile">' + _.get('loadFile') + '</span> /' + path[path.length - 3] + '/' + path[path.length - 1] + '<br>';
 
         elem.innerHTML += str;
     }

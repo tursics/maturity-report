@@ -52,19 +52,57 @@ var questionAnswer = (function () {
             return;
         }
 
-        var headlineKey = '';
+        var dataObject = [];
         var questionStr = '';
         var guideKey = 'G' + obj.id[year];
         var guideStr = _.get(guideKey);
-        var noteKey = 'N' + obj.id[year].substr(1);
-        var noteStr = _.get(noteKey);
+
+        for ([year_, id_] of Object.entries(obj.id)) {
+            if (LEVEL_ROOT === id_) {
+                dataObject.push({
+                    year: year_,
+                    id: 'odm_report',
+                    head: _.getStart('odm_report', year_),
+                    tail: _.getTail('odm_report', year_),
+                    note: '',
+                    noteKey: '',
+                    noteI18n: ''
+                });
+            } else if ('dimension' === obj.type) {
+                var noteKey = 'N' + id_.substr(1);
+                var note = _.get(noteKey, year_);
+                if (note === ('{' + noteKey + '}')) {
+                    note = '';
+                }
+
+                dataObject.push({
+                    year: year_,
+                    id: id_,
+                    head: _.getStart(id_, year_),
+                    tail: _.getTail(id_, year_),
+                    note: note,
+                    noteKey: noteKey,
+                    noteI18n: 'data-i18n'
+                });
+            } else {
+                var note = _.getTail(id_, year_);
+
+                dataObject.push({
+                    year: year_,
+                    id: id_,
+                    head: _.getStart(id_, year_),
+                    tail: _.getTail(id_, year_),
+                    note: note,
+                    noteKey: id_,
+                    noteI18n: 'data-i18ntail'
+                });
+//                questionStr = '<span data-i18n="Question">' + _.get('Question') + '</span>' + ' ' + obj.id[year];
+            }
+        }
 
         if (LEVEL_ROOT === obj.id[year]) {
-            headlineKey = 'odm_report';
         } else if ('dimension' === obj.type) {
-            headlineKey = obj.id[year];
         } else {
-            headlineKey = obj.id[year];
             questionStr = '<span data-i18n="Question">' + _.get('Question') + '</span>' + ' ' + obj.id[year];
         }
         if (guideStr === ('{' + guideKey + '}')) {
@@ -72,28 +110,81 @@ var questionAnswer = (function () {
         } else {
             guideStr = '<span data-i18n="' + guideKey + '">' + guideStr + '</span>';
         }
-        if (('dimension' === obj.type) && (noteStr !== ('{' + noteKey + '}'))) {
-            noteStr = '<span data-i18n="' + noteKey + '">' + noteStr + '</span>';
-        } else {
-            noteStr = _.getTail(headlineKey);
-            if (noteStr === '') {
-                noteStr = '-';
-            } else {
-                noteStr = '<span data-i18ntail="' + obj.id[year] + '">' + _.getTail(headlineKey) + '</span>';
-            }
-        }
 
         var elem;
 
+        var sidebarHeadline = '';
+        var sidebarHeadlineCompare = undefined;
+        var sidebarHeadlineSingle = '';
+
+        var sidebarNote = '';
+        var sidebarNoteCompare = undefined;
+        var sidebarNoteSingle = '';
+
+        dataObject.reverse();
+        dataObject.forEach(obj => {
+            var item = '';
+            if (sidebarHeadlineSingle === '') {
+                item += '<div>';
+            } else {
+                item += '<div style="color:khaki;font-size:.8em;line-height:1.2em">' + obj.year + ': ';
+            }
+            item += '<span data-i18nstart="' + obj.id + '" data-year="' + obj.year + '">';
+            item += obj.head;
+            item += '</span></div>';
+            sidebarHeadline += item;
+
+            if (sidebarHeadlineSingle === '') {
+                sidebarHeadlineSingle = item;
+            }
+
+            if (sidebarHeadlineCompare === undefined) {
+                sidebarHeadlineCompare = obj.head;
+            } if (sidebarHeadlineCompare !== false) {
+                if (sidebarHeadlineCompare !== obj.head) {
+                    sidebarHeadlineCompare = false;
+                }
+            }
+
+            if (obj.note) {
+                var item = '';
+                if (sidebarNoteSingle === '') {
+                    item += '<div>';
+                } else {
+                    item += '<div style="color:khaki;font-size:.8em">' + obj.year + ': ';
+                }
+                item += '<span ' + obj.noteI18n + '="' + obj.noteKey + '" data-year="' + obj.year + '">';
+                item += obj.note;
+                item += '</span></div>';
+                sidebarNote += item;
+
+                if (sidebarNoteSingle === '') {
+                    sidebarNoteSingle = item;
+                }
+
+                if (sidebarNoteCompare === undefined) {
+                    sidebarNoteCompare = obj.note;
+                } if (sidebarNoteCompare !== false) {
+                    if (sidebarNoteCompare !== obj.note) {
+                        sidebarNoteCompare = false;
+                    }
+                }
+            }
+        });
+        if (sidebarHeadlineCompare !== false) {
+            sidebarHeadline = sidebarHeadlineSingle;
+        }
+        if (sidebarNoteCompare !== false) {
+            sidebarNote = sidebarNoteSingle;
+        }
+
         elem = document.getElementById('sidebar-headline');
-        elem.dataset['i18nstart'] = headlineKey;
-        elem.innerHTML = _.getStart(headlineKey);
+        elem.innerHTML = sidebarHeadline;
         elem = document.getElementById('shield-headline');
-        elem.dataset['i18nstart'] = headlineKey;
-        elem.innerHTML = _.getStart(headlineKey);
+        elem.innerHTML = sidebarHeadline;
 
         elem = document.getElementById('sidebar-notes');
-        elem.innerHTML = noteStr;
+        elem.innerHTML = sidebarNote === '' ? '-' : sidebarNote;
 
         elem = document.getElementById('sidebar-question');
         elem.innerHTML = questionStr === '' ? '-' : questionStr;

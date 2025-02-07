@@ -15,8 +15,9 @@ var _ = (function () {
         var elements = document.querySelectorAll('[data-i18n]');
 
         elements.forEach(elem => {
+            var year = elem.dataset['year'];
             var key = elem.dataset['i18n'];
-            elem.innerHTML = funcGet(key);
+            elem.innerHTML = funcGetWithYear(key, year);
         });
 
         elements = document.querySelectorAll('[data-i18nanswer]');
@@ -53,19 +54,21 @@ var _ = (function () {
 
         elements = document.querySelectorAll('[data-i18nstart]');
         elements.forEach(elem => {
+            var year = elem.dataset['year'];
             var key = elem.dataset['i18nstart'];
-            elem.innerHTML = funcGetStart(key);
+            elem.innerHTML = funcGetStart(key, year);
         });
 
         elements = document.querySelectorAll('[data-i18ntail]');
         elements.forEach(elem => {
+            var year = elem.dataset['year'];
             var key = elem.dataset['i18ntail'];
-            elem.innerHTML = funcGetTail(key);
+            elem.innerHTML = funcGetTail(key, year);
         });
     }
 
-    function funcGetTail(key) {
-        var splitted = funcGet(key).split('<br>');
+    function funcGetTail(key, year) {
+        var splitted = funcGetWithYear(key, year).split('<br>');
         splitted.shift();
 
         if ((splitted.length > 0) && (splitted[0] === '')) {
@@ -91,14 +94,30 @@ var _ = (function () {
         }
     }
 
-    function funcGet(key) {
+/*    function funcGet(key) {
         var value = lang[key] ? lang[key] : (i18n[FALLBACK][key] ? i18n[FALLBACK][key] : '{' + key + '}');
+
+        return value.split(/\r?\n/).join('<br>');
+    }*/
+
+    function funcGetWithYear(key, year) {
+        var value = '{' + key + '}';
+
+        if (lang[year] && lang[year][key]) {
+            value = lang[year][key];
+        } else if (lang[key]) {
+            value = lang[key];
+        } else if (i18n[FALLBACK][year] && i18n[FALLBACK][year][key]) {
+            value =  i18n[FALLBACK][year][key];
+        } else if (i18n[FALLBACK][key]) {
+            value =  i18n[FALLBACK][key];
+        }
 
         return value.split(/\r?\n/).join('<br>');
     }
 
-    function funcGetStart(key) {
-        var splitted = funcGet(key).split('<br>');
+    function funcGetStart(key, year) {
+        var splitted = funcGetWithYear(key, year).split('<br>');
         return splitted.shift();
     }
 
@@ -175,7 +194,7 @@ var _ = (function () {
         var translation = answersLang ? (answersLang[answer] ? answersLang[answer] : answersEN[answer]) : answersEN[answer];
         var value = translation && translation['Reviewer 1 Comments'] ? translation['Reviewer 1 Comments'] : '';
         if (value !== '') {
-            value = funcGet('reviewer1') + value;
+            value = funcGetWithYear('reviewer1', year) + value;
         }
 
         return value.split(/\r?\n/).join('<br>');
@@ -189,15 +208,19 @@ var _ = (function () {
         var translation = answersLang ? (answersLang[answer] ? answersLang[answer] : answersEN[answer]) : answersEN[answer];
         var value = translation && translation['Reviewer 2 Comments'] ? translation['Reviewer 2 Comments'] : '';
         if (value !== '') {
-            value = funcGet('reviewer2') + ' ' + value;
+            value = funcGetWithYear('reviewer2', year) + ' ' + value;
         }
 
         return value.split(/\r?\n/).join('<br>');
     }
 
-    function funcAppendTranslations(lang, data) {
+    function funcAppendTranslations(lang, data, year) {
+        if (!i18n[lang][year]) {
+            i18n[lang][year] = [];
+        }
+
         data.forEach((item) => {
-            i18n[lang][item.key] = item.value;
+            i18n[lang][year][item.key] = item.value;
         });
     }
 
@@ -205,7 +228,7 @@ var _ = (function () {
 
     return {
         appendTranslations: funcAppendTranslations,
-        get: funcGet,
+        get: funcGetWithYear,
         getAnswer: funcGetAnswer,
         getJustification: funcGetJustification,
         getLanguage: funcGetLanguage,

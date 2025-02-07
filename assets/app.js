@@ -35,6 +35,7 @@ function onFileScoring(filepath, data) {
 }
 
 function onFileReport(filepath, data) {
+    var year = parseInt(filepath.split('/').shift(), 10);
     var filename = filepath.split('/').pop();
     var file = filename.split('.').shift();
     var language = file.split('_').pop().toLowerCase();
@@ -43,7 +44,7 @@ function onFileReport(filepath, data) {
         language = 'en';
     }
 
-    _.appendTranslations(language, data);
+    _.appendTranslations(language, data, year);
 }
 
 function goto(destination, event, year) {
@@ -395,7 +396,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
     LOAD_LANG.forEach((lang) => {
         var language = lang === 'en' ? '' : '_' + lang;
-        load.csv('2023/3-simplified/00_i18n' + language + '.csv', onFileReport);
+        LOAD_YEAR.forEach((year) => {
+            load.csv(year + '/3-simplified/00_i18n' + language + '.csv', onFileReport);
+        });
     });
 
     LOAD_YEAR.forEach((year) => {

@@ -53,7 +53,6 @@ var questionAnswer = (function () {
         }
 
         var dataObject = [];
-        var questionStr = '';
         var guideKey = 'G' + obj.id[year];
         var guideStr = _.get(guideKey);
 
@@ -66,7 +65,8 @@ var questionAnswer = (function () {
                     tail: _.getTail('odm_report', year_),
                     note: '',
                     noteKey: '',
-                    noteI18n: ''
+                    noteI18n: '',
+                    question: ''
                 });
             } else if ('dimension' === obj.type) {
                 var noteKey = 'N' + id_.substr(1);
@@ -82,7 +82,8 @@ var questionAnswer = (function () {
                     tail: _.getTail(id_, year_),
                     note: note,
                     noteKey: noteKey,
-                    noteI18n: 'data-i18n'
+                    noteI18n: 'data-i18n',
+                    question: ''
                 });
             } else {
                 var note = _.getTail(id_, year_);
@@ -94,17 +95,12 @@ var questionAnswer = (function () {
                     tail: _.getTail(id_, year_),
                     note: note,
                     noteKey: id_,
-                    noteI18n: 'data-i18ntail'
+                    noteI18n: 'data-i18ntail',
+                    question: id_
                 });
-//                questionStr = '<span data-i18n="Question">' + _.get('Question') + '</span>' + ' ' + obj.id[year];
             }
         }
 
-        if (LEVEL_ROOT === obj.id[year]) {
-        } else if ('dimension' === obj.type) {
-        } else {
-            questionStr = '<span data-i18n="Question">' + _.get('Question') + '</span>' + ' ' + obj.id[year];
-        }
         if (guideStr === ('{' + guideKey + '}')) {
             guideStr = '-';
         } else {
@@ -120,6 +116,11 @@ var questionAnswer = (function () {
         var sidebarNote = '';
         var sidebarNoteCompare = undefined;
         var sidebarNoteSingle = '';
+
+        var sidebarQuestion = '';
+        var sidebarQuestionCompare = undefined;
+        var sidebarQuestionSingle = '';
+        var shieldQuestion = '';
 
         dataObject.reverse();
         dataObject.forEach(obj => {
@@ -170,12 +171,47 @@ var questionAnswer = (function () {
                     }
                 }
             }
+
+            if (obj.question) {
+                var item = '';
+                var item2 = '';
+                if (sidebarQuestionSingle === '') {
+                    item += '<div>';
+                    item2 += '<div style="display:inline-block;vertical-align:middle">';
+                } else {
+                    item += '<div style="color:khaki;font-size:.8em">' + obj.year + ': ';
+                    item2 += '<div style="color:khaki;font-size:.5em;display:inline-block;line-height:1em;margin-left:.5em;vertical-align:middle">' + obj.year + ': ';
+                }
+                item += '<span data-i18n="question">' + _.get('question') + '</span> ';
+                item2 += '<span data-i18n="question">' + _.get('question') + '</span> ';
+                item += obj.question;
+                item2 += obj.question;
+                item += '</span></div>';
+                item2 += '</span></div>';
+                sidebarQuestion += item;
+                shieldQuestion += item2;
+
+                if (sidebarQuestionSingle === '') {
+                    sidebarQuestionSingle = item;
+                }
+
+                if (sidebarQuestionCompare === undefined) {
+                    sidebarQuestionCompare = obj.question;
+                } if (sidebarQuestionCompare !== false) {
+                    if (sidebarQuestionCompare !== obj.question) {
+                        sidebarQuestionCompare = false;
+                    }
+                }
+            }
         });
         if (sidebarHeadlineCompare !== false) {
             sidebarHeadline = sidebarHeadlineSingle;
         }
         if (sidebarNoteCompare !== false) {
             sidebarNote = sidebarNoteSingle;
+        }
+        if (sidebarQuestionCompare !== false) {
+            sidebarQuestion = sidebarQuestionSingle;
         }
 
         elem = document.getElementById('sidebar-headline');
@@ -187,9 +223,9 @@ var questionAnswer = (function () {
         elem.innerHTML = sidebarNote === '' ? '-' : sidebarNote;
 
         elem = document.getElementById('sidebar-question');
-        elem.innerHTML = questionStr === '' ? '-' : questionStr;
+        elem.innerHTML = sidebarQuestion === '' ? '-' : sidebarQuestion;
         elem = document.getElementById('shield-question');
-        elem.innerHTML = questionStr;
+        elem.innerHTML = shieldQuestion;
 
         elem = document.getElementById('sidebar-answering');
         elem.innerHTML = guideStr;

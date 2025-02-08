@@ -403,7 +403,7 @@ input[type="search"]:focus-visible {
     right: 0;
 }
 .shield-caption {
-    font-size: 2em;
+    font-size: 1.9em;
     overflow-x: hidden;
     text-overflow: ellipsis;
     text-wrap: nowrap;

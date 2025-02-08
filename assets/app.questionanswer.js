@@ -53,10 +53,14 @@ var questionAnswer = (function () {
         }
 
         var dataObject = [];
-        var guideKey = 'G' + obj.id[year];
-        var guideStr = _.get(guideKey);
 
         for ([year_, id_] of Object.entries(obj.id)) {
+            var guideKey = 'G' + id_;
+            var guideStr = _.get(guideKey, year_);
+            if (guideStr === ('{' + guideKey + '}')) {
+                guideStr = '';
+            }
+
             if (LEVEL_ROOT === id_) {
                 dataObject.push({
                     year: year_,
@@ -66,6 +70,8 @@ var questionAnswer = (function () {
                     note: '',
                     noteKey: '',
                     noteI18n: '',
+                    guide: guideStr,
+                    guideKey: guideKey,
                     question: ''
                 });
             } else if ('dimension' === obj.type) {
@@ -83,6 +89,8 @@ var questionAnswer = (function () {
                     note: note,
                     noteKey: noteKey,
                     noteI18n: 'data-i18n',
+                    guide: guideStr,
+                    guideKey: guideKey,
                     question: ''
                 });
             } else {
@@ -96,15 +104,11 @@ var questionAnswer = (function () {
                     note: note,
                     noteKey: id_,
                     noteI18n: 'data-i18ntail',
+                    guide: guideStr,
+                    guideKey: guideKey,
                     question: id_
                 });
             }
-        }
-
-        if (guideStr === ('{' + guideKey + '}')) {
-            guideStr = '-';
-        } else {
-            guideStr = '<span data-i18n="' + guideKey + '">' + guideStr + '</span>';
         }
 
         var elem;
@@ -121,6 +125,10 @@ var questionAnswer = (function () {
         var sidebarQuestionCompare = undefined;
         var sidebarQuestionSingle = '';
         var shieldQuestion = '';
+
+        var sidebarGuide = '';
+        var sidebarGuideCompare = undefined;
+        var sidebarGuideSingle = '';
 
         dataObject.reverse();
         dataObject.forEach(obj => {
@@ -203,6 +211,31 @@ var questionAnswer = (function () {
                     }
                 }
             }
+
+            if (obj.guide) {
+                var item = '';
+                if (sidebarGuideSingle === '') {
+                    item += '<div>';
+                } else {
+                    item += '<div style="color:khaki;font-size:.8em">' + obj.year + ': ';
+                }
+                item += '<span data-i18n="' + obj.guideKey + '" data-year="' + obj.year + '">';
+                item += obj.guide;
+                item += '</span></div>';
+                sidebarGuide += item;
+
+                if (sidebarGuideSingle === '') {
+                    sidebarGuideSingle = item;
+                }
+
+                if (sidebarGuideCompare === undefined) {
+                    sidebarGuideCompare = obj.guide;
+                } if (sidebarGuideCompare !== false) {
+                    if (sidebarGuideCompare !== obj.guide) {
+                        sidebarGuideCompare = false;
+                    }
+                }
+            }
         });
         if (sidebarHeadlineCompare !== false) {
             sidebarHeadline = sidebarHeadlineSingle;
@@ -212,6 +245,9 @@ var questionAnswer = (function () {
         }
         if (sidebarQuestionCompare !== false) {
             sidebarQuestion = sidebarQuestionSingle;
+        }
+        if (sidebarGuideCompare !== false) {
+            sidebarGuide = sidebarGuideSingle;
         }
 
         elem = document.getElementById('sidebar-headline');
@@ -228,7 +264,7 @@ var questionAnswer = (function () {
         elem.innerHTML = shieldQuestion;
 
         elem = document.getElementById('sidebar-answering');
-        elem.innerHTML = guideStr;
+        elem.innerHTML = sidebarGuide === '' ? '-' : sidebarGuide;
     }
 
     function prepareButtons() {

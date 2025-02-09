@@ -243,12 +243,13 @@ input[type="search"]:focus-visible {
 }
 
 .content {
-    margin: 8em 0 0 16em;
+    margin: 11.8em 0 0 16em;
     padding: 0 1em;
-    transition: margin-left 250ms;
+    transition: margin-left 250ms, margin-top 250ms;
 }
 .content.maximized {
     margin-left: 0;
+    margin-top: 8em;
 }
 
 #sidebar-shield {
@@ -609,7 +610,7 @@ input[type="search"]:focus-visible {
     background: linear-gradient(180deg, #87cefa 0%, #6cb4df 100%);
     border-left: 0.15em dashed steelblue;
     color: #222;
-    height: 3.8em;
+    height: 7.6em;
     left: 16em;
     line-height: 3.8em;
     overflow-x: auto;
@@ -618,8 +619,12 @@ input[type="search"]:focus-visible {
     position: fixed;
     right: 0;
     top: 2rem;
+    transition: height 250ms;
     white-space: nowrap;
     z-index: 1;
+}
+.content.maximized #countries {
+    height: 3.8em;
 }
 #countries .vlist {
     display: inline-block;
@@ -634,6 +639,13 @@ input[type="search"]:focus-visible {
 }
 #countries .vlist a:hover {
     text-decoration: underline;
+}
+#countries .country-year {
+    display: inline-block;
+    height: 3.8em;
+    text-align: center;
+    transform: rotate(-90deg);
+    width: 2em;
 }
 #countries .shield-button {
     margin-left: 0;
@@ -697,6 +709,10 @@ input[type="search"]:focus-visible {
 }
 #page-controls {
     bottom: unset;
+    top: 13.8em;
+    transition: top 250ms;
+}
+.content.maximized #page-controls {
     top: 9em;
 }
 

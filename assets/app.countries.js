@@ -2,14 +2,35 @@ var countries = (function () {
     var idElement = 'countries',
         csvPath = '{year}/3-simplified/{country}_ODM_{year}{language}.csv';
         loadList = {
-            2023: ['fr','pl','ua','ee','es','cy','lt','ie','it','sk','at','dk','no','si','cz','de','pt','fi','nl','lu','se','lv','hu','ch','rs','bg','be','ro','me','el','hr','is','mt','al','ba'],
             2024: ['de'],
+            2023: ['fr','pl','ua','ee','es','cy','lt','ie','it','sk','at','dk','no','si','cz','de','pt','fi','nl','lu','se','lv','hu','ch','rs','bg','be','ro','me','el','hr','is','mt','al','ba'],
         };
     var data = {};
 
     function funcInit() {
-        Object.keys(loadList).forEach((year) => {
+        var linePrefixes = [
+            '<span data-i18n="countries" style="margin-right: .5em">' + _.get('countries') + '</span>',
+			'<span class="vlist">' +
+				'<a href="#" data-i18n="countriesAll" onclick="goto(\'allCountries\',event)">' + _.get('countriesAll') + '</a><br>' +
+				'<a href="#" data-i18n="countriesNone" onclick="goto(\'noCountries\',event)">' + _.get('countriesNone') + '</a>' +
+			'</span>'
+        ];
+        Object.keys(loadList).reverse().forEach((year) => {
+            var node = document.createElement('span');
+            node.style.display = 'inline-block';
+            node.style.width = '5.5em';
+            node.innerHTML = linePrefixes.shift();
+            document.getElementById(idElement).appendChild(node);
+
+            node = document.createElement('span');
+            node.className = 'country-year';
+            node.innerHTML = year;
+            document.getElementById(idElement).appendChild(node);
+
             loadList[year].forEach((item) => {funcAdd(item, year)});
+
+            node = document.createElement('br');
+            document.getElementById(idElement).appendChild(node);
         });
     }
 

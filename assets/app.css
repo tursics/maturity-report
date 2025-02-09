@@ -370,6 +370,24 @@ input[type="search"]:focus-visible {
 .shield-backgroundhat {
     background: #000;
 }
+.shield-flag {
+    background: #b58500;
+    border-radius: 0 0 .5em .5em;
+    bottom: 2em;
+    color: #000;
+    font-weight: bold;
+    height: 2em;
+    line-height: 1.5em;
+    padding: .5em .7em 0 .7em;
+    position: absolute;
+    right: -1.2em;
+    text-align: center;
+    width: 5em;
+}
+.shield-flag.year-2023 {
+    background: deeppink;
+    color: #fff;
+}
 .shield-ribbon {
     background: goldenrod;
     background: linear-gradient(180deg, #e7b02e 0%, #e7b02e 10%, #b58500 100%);

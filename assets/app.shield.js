@@ -33,6 +33,7 @@ class Shield {
                 '<div class="shield-board"></div>' +
                 '<div class="shield-score"></div>' +
             '</div>' +
+            '<div class="shield-flag year-' + this.year + '">' + this.year + '</div>' +
             '<figcaption class="shield-ribbon">' +
                 '<div class="shield-caption"></div>' +
             '</figcaption>';

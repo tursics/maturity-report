@@ -1,0 +1,536 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"The open data policy in France is called “Politique d’ouverture et de partage des données publiques”. The French government and the local authorities are strongly committed to opening government data and never ceases to reaffirm their desire to work toward.
+
+Article 15 of the Declaration of the Rights of Man and the Citizen of 1789, which is part of the French constitution, states that Society has the right to hold any Public Official accountable for its administration. **This principle created very early a right to access the data and never stoped guided all the evolution in open data policy in France.**
+
+The law of 17 July 1978 on freedom of access to administrative documents (”loi CADA”) establishes a framework on access to information, codified in the Code of relations between the public and the administration (Code des relations entre le public et l’administration).
+
+The cornerstone of the French open data policy is the 2016’s Digital Republic Law [https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033202746](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033202746), also transposed in the Code of relations between the public and the administration. **The Digital Republic Law** led to significant progress in terms of open data and national data policy including the “**Open Data by default**” principle and the Public Service Data.
+
+**According to the french decree of october 25 2019, the Interministerial Digital directorate is in charge of the coordination and the promotion of the inventory, governance, production, circulation, use and opening of data. [https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039281619](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039281619)**
+
+**Recently edited by a modificative decree of April 22 2023, the french government confirmed the importance allocated to the open data policy in it’s governmental roadmap.**
+
+[https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047478124](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047478124?init=true&page=1&query=%222022%2F868%22&searchField=ALL&tab_selection=all)
+
+In April 2021, Prime Minister Jean Castex, through a circular on the national data, algorithms and source code policy, reiterated the need for an ambitious open data policy, and called on the Government to make data a strategic priority: ""I would like the Government to have a renewed ambition in terms of the use, openness and circulation of public data, algorithms and source codes for the benefit of users, researchers, innovators and all our fellow citizens."" [https://www.legifrance.gouv.fr/circulaire/id/45162](https://www.legifrance.gouv.fr/circulaire/id/45162).
+
+On top of the general framework, open data policy is also characterised by specific sectoral legislation. Here are few recent examples.
+
+- The law on the orientation of mobility [https://www.ecologie.gouv.fr/loi-dorientation-des-mobilites](https://www.ecologie.gouv.fr/loi-dorientation-des-mobilites) with specific disposition on transport data including real-time data.
+- The changes to the Research code [https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071190/](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071190/) implemented by the Digital Republic Law regarding open research data
+
+The Open Data Directive has already been transposed [https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=uriserv:OJ.L_.2019.172.01.0056.01.ENG](https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=uriserv:OJ.L_.2019.172.01.0056.01.ENG) and most provisions were already part of the French legal framework.
+
+**In 2022, the french lawmaker once again get into high gear with the adoption of the “3DS” law (differentiation, decentralization, deconcentration and simplification) which stated for the acceleration of the sharing data processes between administrations, and especially between central administrations and local administrations.** [https://www.legifrance.gouv.fr/jorf/id/JORFSCTA000045197502](https://www.legifrance.gouv.fr/jorf/id/JORFSCTA000045197502)
+
+**During the last Inter-ministerial Committee for Public Transformation (CITP), the Prime Minister announced that each ministry will adopt new ministerial roadmaps on data, algorithms and source code policy by the end of 2023. These new roadmaps, symbol of an invariably renewed ambition, present the ambitions and challenges of public policies related to data, algorithms and public source codes, the concrete priority actions to be launched and the governance set up to ensure their implementation.**
+
+[https://www.gouvernement.fr/actualite/offrir-un-accompagnement-clair-et-des-solutions-rapides-au-francais](https://www.gouvernement.fr/actualite/offrir-un-accompagnement-clair-et-des-solutions-rapides-au-francais)";Complement;Yes;"Among the new developments in terms of policy, we can mention:
+
+The roadmap of the DINUM, which places significant emphasis on valorizing and harnessing data as a lever for the effectiveness of public action.
+
+https://www.numerique.gouv.fr/uploads/Feuille-de-route-DINUM.pdf
+The Data and Territories report dedicated to enhancing access to public services and the deployment of digital technology in territories, which aims notably to establish governance to facilitate dialogue between the State and local authorities on data and to facilitate access to data for local authorities.
+
+https://www.transformation.gouv.fr/files/ressource/Rapport_Mission_Data_Territoires.pdf.      The State and the territories have also co-constructed a technical and organizational strategy and developed a common action plan :  the ""Digital and Data"" Roadmap, created with more than 300 national and territorial public agents : https://www.info.gouv.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees";;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"In April 2021, Prime Minister Jean Castex, in a circular, underlined that the national data policy must be a strategic priority for the State and its relations with local authorities and private actors : [https://www.legifrance.gouv.fr/circulaire/id/45162](https://www.legifrance.gouv.fr/circulaire/id/45162)
+
+The Government made a commitment to open more high-impact key datasets, APIs and source codes in the near future. The list of such datasets and their publication schedule is available here [https://ouverture.data.gouv.fr/](https://ouverture.data.gouv.fr/)
+
+Each ministry has defined its strategy in the field of data, algorithms and source codes, and has broken it down into a plan of action over a 2 to 3 year period. The Minister for Public Transformation and Civil Service unveiled these 15 roadmaps on Monday 27 September 2021. These roadmaps include actions for all central government organisations and agencies. **Most of these roadmaps are foreseeing actions until 2024.**
+
+More information is available at the following page [https://www.etalab.gouv.fr/politique-de-la-donnee-des-algorithmes-et-des-codes-sources-15-strategies-ministerielles-et-500-actions-pour-accelerer/](https://www.etalab.gouv.fr/politique-de-la-donnee-des-algorithmes-et-des-codes-sources-15-strategies-ministerielles-et-500-actions-pour-accelerer/) 
+
+The roadmaps are available here [https://www.data.gouv.fr/fr/datasets/feuilles-de-route-ministerielles-sur-la-politique-de-la-donnee-des-algorithmes-et-des-codes-sources/](https://www.data.gouv.fr/fr/datasets/feuilles-de-route-ministerielles-sur-la-politique-de-la-donnee-des-algorithmes-et-des-codes-sources/)
+
+**At the same time, the the Interministerial direction of digital, and espacially it’s department Etalab - Prime Minister’s service is also in charge of the monitoring and the implementation of the open data strategy.**";Complement;Yes;See previous question. We can also mention the national portal roadmap : https://www.data.gouv.fr/fr/pages/roadmap/;;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;"Subnational governments (regions for NUTS 1, departments for NUTS 3, and communes as local administrative units) remain independent in their own strategy and are not obliged to publish their data on the national portal data.gouv.fr. Nonetheless, the principle of open data by default enshrined in the law (Code des relations entre le public et l'administration) applies to all subnational governments with at least 3500 inhabitants.
+
+Every year, more and more local actors are adopting strategies within this framework. According to the last local open data observatory provided by the french national association “Open Data France”, the number of local authorities involved in an open data strategy increased by 18% compared to 2021. Today, there are approximately 250 local open data portals in France.
+
+(https://www.observatoire-opendata.fr/wp-content/uploads/2023/03/Copie-de-Observatoire_Open_Data_Territoires_Edition2022.pptx-1.pdf)
+
+For example : 
+
+- Lyon : https://data.grandlyon.com/demarche)
+- Lille : https://opendata.lillemetropole.fr/page/demarche/
+- Nantes’ metropolitan data charter https://metropole.nantes.fr/charte-donnee
+- DataSud : https://www.datasud.fr/presentation-du-projet-datasud/
+
+On top of that, the data, algorithms and source codes roadmap of the Ministry of Territorial Cohesion points out the strategy of the State on how to improve data sharing between national and local actors. 
+
+(https://www.numerique.gouv.fr/uploads/feuillederoute_mctrct.pdf)
+
+In a different way, the french government also allocated a “Digital transformation of local authorities (ITN7)"" fund, part of the France Relance plan, in order to grant various projects to help local authorities to adopt open data practices and draw their own strategies in this area. This fund contributed to the implementation of “Collec-Data”, a praised project on the occasion of “Digital and Territories day”, that has helped Breton local authorities to scale up their use of open data. The Collec-data platform now allows more than 1600 local authorities to automatically publish their data and will soon allows them to massify the publication of data and systematize the valorization.
+
+(https://www.numerique.gouv.fr/actualites/retour-sur-la-journee-numerique-et-territoires/)
+
+This movement is also promised to a strong acceleration thanks to the adoption of the 3DS law, previously mentioned, which is going to facilitate the coordination of data exchanges between the national and local levels. In addition, and to support this movement, the french minister of transformation and public service charged three politicians to identify the opportunities for the enhancement of data exploitation by local authorities with a strong impact-driving focus. This analysis should help local authorities in the construction of their own data policies and strategies at their own level and incentivise their initiatives in the open data field.
+
+(https://www.transformation.gouv.fr/files/presse/cp_utilisation_donnee_collectivites_territoriales_mission.pdf)
+
+Moreover, the national association Open Data France is also currently conducting a study on the whole french territory to identify all the local open data use cases, in close connection with many different public bodies such as the national portal data.gouv.fr.
+
+(https://www.opendatafrance.net/2023/04/12/data-impact-identifions-ensemble-les-cas-dusages-territoriaux-de-donnees/)";Complement;Yes;See the Data and Territories report https://www.transformation.gouv.fr/files/ressource/Rapport_Mission_Data_Territoires.pdf;;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;"In April 2021, the Prime Minister, in a circular, underlined that the national data policy must be a strategic priority for the State and its relations with local authorities and private actors. The circular mandates that:
+
+- All ministries, as well as all regional State authorities (préfets) have to nominate a CDO in order to ensure a data opening governance at the highest hierarchical level;
+- The Interministerial Director for Digital Affairs, acting as General Data Administrator, will coordinate the network of CDOs
+- An ""ombudsman for general interest data"" will be nominated to negotiate with private actors that have data that is deemed to be of general interest;
+- The Ministry of Research will set up a charter to speed up the processing of requests from researchers wishing to access data;
+- Each Ministry will need to animate the ecosystems of data and source code reusers, in order to identify high value-added datasets, define possible standards and encourage sharing, with a focus on the Open Government Partnership forum as an arena for such exchanges;
+- Each ministry will have to set up a roadmap for data, algorithms and source code strategy, with actions and deadlines. The roadmap will also list the skills in those fields within the personnel of the ministries.
+- Open data will be referenced in the national portal data.gouv.fr
+
+Moreover, the Government made a commitment to open more high-impact key datasets, APIs and source codes in the near future. Some of those engagements are marking out their action until 2025.** The list of such datasets and their publication schedule is available here (https://www.data.gouv.fr/fr/datasets/tableau-de-suivi-des-ouvertures-de-donnees-codes-sources-et-api-publics-avril-2021/)";Complement;;"Roadmap are still produced for each ministries. The latest are not available yet. The State and the territories have also co-constructed a technical and organizational strategy and developed a common action plan :  the ""Digital and Data"" Roadmap, created with more than 300 national and territorial public agents : https://www.info.gouv.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees";;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"The 2015 law on growth, activity and equal economic opportunities (Loi Macron) had set obligations to publish data on real time transport schedules [https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030978561/](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030978561/). The 2019 law on the orientation of mobilities [https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039666574/](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039666574/) made a step further by not only transposing into national law the European Delegated Regulation 2017/1926 of 31 May 2017 [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R1926](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R1926), but also by including dynamic data. According to this law, static and dynamic travel and traffic data, as well as historical traffic data, shall be made accessible and reusable.
+
+The Open Data parliamentary mission led by MP Éric Bothorel also points out the key role of real-time data, especially within the transport domain.
+
+The transport.data.gouv.fr task force deploys special efforts to promote real-time data. This includes [documentation](https://doc.transport.data.gouv.fr/producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun) on standardisation, an [inventory of real time](https://transport.data.gouv.fr/real_time) data yet to be standardised, and [discussion with stakeholders](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/20-09-2018-transport-regulier-temps-reel).
+
+The data, algorithms and source codes roadmap of the Ministry of Ecological Transition clearly underlines the need for systematic access to real-time data, especially related to environmental phenomena, to improve the impact of environmental policies. [https://www.data.gouv.fr/fr/datasets/r/25f0f375-df81-4cc5-8eae-c277a729923f](https://www.data.gouv.fr/fr/datasets/r/25f0f375-df81-4cc5-8eae-c277a729923f)";Complement;;"The enhancement of real-time information for public transport is one of the main actions of the previously mentioned roadmap.
+Among the objectives are:
+
+Achieving 100% real-time information for public transport
+Providing a comprehensive real-time database of road and parking information
+
+
+Improving the real-time availability of data on water withdrawals
+
+
+
+
+
+
+";;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"All the measures outlined in the roadmap of the Ministry of Civil Service and Public Transformation (Ministère de la transformation et de la fonction publiques) related to the national open data portal [data.gouv.fr](http://data.gouv.fr) aim also at incentivising the publication and the access to citizen-generated data. The portal allows everyone to publish data, with a badge to identify data from official sources (i.e. public sector organisations). But the guides, the publication process, and the tools are the same, whether the data provider is a ministry or a journalist, an activist, a student.
+
+For example, the tools that help improve the quality of data, [schema.data.gouv.fr](http://schema.data.gouv.fr) and publier.etalab.studio, are both free and open to use.";Confirm;;;;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";yes;"The French open data policy makes it mandatory for central government and national public sector organisations to publish data on [data.gouv.fr](http://data.gouv.fr) (the obligation is stated both in the 2019 decree creating the DINUM [https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039281619/](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039281619/) and in the 2021 Prime ministerial circular on data policy [https://www.legifrance.gouv.fr/circulaire/id/45162](https://www.legifrance.gouv.fr/circulaire/id/45162)). This centralisation is also done in order to foster the discoverability on data.europa.eu, as the data.gouv.fr catalogue is harvested by the European portal. To keep the discoverability standards at the highest level through the time, the data.gouv team has strategically chosen to frequently integrates the feedback of the plateform’s users. Thanks to this strategy, in 2022 the national portal benefited of several modifications enhancing the discoverability of all the data uploaded and harvested such as :
+
+- A complete overhaul of the search engine and research experience to improve its efficiency;
+- An overhaul of the previsualization system and the implementation of a data explorer tool.
+- An overhaul and an update of the thematic inventory to spotlight some symbolic data.
+
+In the roadmap of the Ministry of Civil Service and Public Transformation (Ministère de la transformation et de la fonction publiques), action A24 focuses on improving data quality and the creation of a data quality label on data.gouv.fr. This label will incentivise data producers to fill in all metadata, and as a consequence will improve discoverability both on data.gouv.fr and data.europa.eu.";Complement;;We invested a lot in DCAT lately to make sure we can display data from data.gouv.fr on data.europa.eu in the best possible maneur. Citizen generated data and data from other stakeholders such as medias are discoverable.;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"**Plan de relance**
+
+As previously mentioned, within the framework of the Next Generation EU recovery plan (France Relance), the Government set up [a grant for public administrations that want to develop the use of data in public decision-making and performance](https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot). Such grants will fund projects focused on data-driven government (data visualisation and decision-making support tools), opening and circulation of data, improving data quality. Project leaders are encouraged to support the opening of data and the reuse of open data within the project.
+
+**Prime Ministerial circular on data policy**
+
+In his april 2021 circular (https://www.legifrance.gouv.fr/circulaire/id/45162), Prime Minister Jean Castex reiterated the need for public administrations to strive for open data circulation and re-use. One of the roles of the ministerial CDOs is to animate the ecosystem of re-users of their ministries’ data.
+
+**Ministerial data roadmaps**
+
+The aforementioned ministerial roadmaps on data, algorithms, and source codes (https://www.data.gouv.fr/fr/datasets/feuilles-de-route-ministerielles-sur-la-politique-de-la-donnee-des-algorithmes-et-des-codes-sources/) focus also on how to incentivise and support (open) data re-use within the respective ministries and agencies. For example, in the roadmap of the Ministry of Ecological Transition, a full section is dedicated on how to improve data quality to encourage reuse, and on how to use data for policy-making. The roadmap of the Ministry of Culture includes training measures for senior decision-makers on data-driven management.
+
+**Raising awareness among public officials on the issue of data exploitation**
+
+Chiefs Data Officers and Open Data Officers have been appointed in different ministries and operators. For these two categories of public servants, workshops are organised regularly (once or twice a quarter) to raise their awareness and train them on the question of data reuse (case studies, presentations of tools etc.). For example, a ""data driven policy"" workshop was organised during a seminar organised for the chief data officers. The objective of this workshop was to think collaboratively on how the chief data officer of each ministry could influence the development and implementation of public policies by reusing data. Examples are also given in the chief data officer report.
+
+**At the local level**
+
+The central government has also been fully committed to promote greater re-use of open government data by the public sector at the local level, through a partnership with [OpenDataFrance] (https://www.opendatafrance.net/), an association whose mission is to support local authorities on opening their data. OpenDataFrance has developed a service offer adapted to each territory (awareness, training, etc.) and provides resources to help local communities implement an open data strategy. The State subsidises OpenDataFrance’s actions and Etalab closely works with the association, namely on the promotion of open data re-use at a local level. Thus, their action encourages greater re-use of open government data by the local public sector.
+
+**Etalab Inventory**
+In the fall of 2021, the Etalab team inventoried projects based on the reuse of Public Data Service (PDS) reference data. This inventory highlights the large amount of open data reuse by public persons and encourages them to continue developing more projects based on open data reuse.
+The dataset categorizes usage examples by issue, sector topic, type of impact, and type of public reuser.
+
+(https://www.data.gouv.fr/fr/datasets/exemples-dexploitation-des-donnees-de-reference-du-service-public-de-la-donnee-spd/)
+
+**The creation of Datalab**
+
+Thanks to the solid foundation of public data in France, the Interministerial Digital Directorate has recently been provided with new resources to support the ambition of fostering the reuse of data in the public sector and encouraging the emergence of impactful projects. Within this directorate, the ""datalab"", an incubator for data-related projects within the DINUM, has been specially created to accelerate public sector projects based in part on the reuse of open data.
+
+(https://www.numerique.gouv.fr/espace-presse/stanislas-guerini-guichet-10-millions-deuros-projets-exploiter-donnees-publiques/)
+
+**The implementation of a data-dedicated funding window**
+
+In the same way, the Interministerial Digital Directorate officially launched in January 2023 a data-dedicated funding window, amounting to 10 million of euros, to co-finance projects around data in the ministries in order to fully exploite public datas as a simplification lever.
+
+(https://www.numerique.gouv.fr/services/guichet-financement-exploitation-valorisation-des-donnees/)";Complement;;"The circulation between administration is a strong focus of France Strategy including open and restricted data. It has an important place of the pre-cited roadmap : https://www.info.gouv.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees. Also the Sharing of Private Data for Public Interest is becoming more important.
+
+Implementing the mechanism for accessing private data of public interest
+
+A first mention of the concept of ""private data of public interest"" was introduced in the Digital Republic Law. It has been little used due to a lack of specifics and constraints. However, the release of certain data held by private legal entities can sometimes serve the public interest.
+
+For example, such data can enable more effective management of sectoral public policies, better inform citizens, or improve scientific research. This is particularly true for mobility data from navigation assistants, which are necessary for better understanding, monitoring, modeling, and forecasting mobility needs. This allows local authorities to finely improve road infrastructure or public transport lines.
+
+European work on ""Business-to-Government data sharing"" allows for the consideration of an evolution in these mechanisms.";;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"France follows a “Government as a platform” approach in order to develop its digital services for both public and private actors. The overall (open) data policy and the subsequent strategy documents have been written by taking into account the needs of both the public and the private sector. This is why the law allows for commercial reuse of open data, and the Open Licence 2.0 adopted by the government reiterates this principle.
+
+The ministerial roadmaps also look at how to promote data re-use by the private sector.
+
+For example, the roadmap of the Ministry of Ecological Transition includes a section on “Sharing data through public-private cooperation”. Quoting the roadmap, “The use of data by the private sector is a vector of value for citizens or the community as a whole and improves the effectiveness of public action”. Five actions are put forward to support re-use by private actors.
+
+The importance of open data re-use by private actors is underlined also in the final report of the Open Data Mission led by MP Éric Bothorel, with a specific focus on the national company registry (base SIRENE) and land value data (demandes de valeurs foncières, DVF).";Confirm;;;;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;"**Legal framework**
+
+According to the code on relations between the public and the administration (Article L312-1-1) (https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033205512/), public actors (and private actors who carry out a public service mission) have to publish in open data the inventory of administrative documents that they produce as part of their public service missions. For example, the Ministry of the Economy has the ""Répertoire des Informations Publiques des Ministères Economiques et Financiers"", which consists of the official publications produced by the departments of the economic and financial ministries, including date that must be opened and data that must not. (https://www.economie.gouv.fr/cedef/repertoire-des-informations-publiques).
+
+**Prime Ministerial circular on data policy**
+
+In his april 2021 circular (https://www.legifrance.gouv.fr/circulaire/id/45162), Prime Minister Jean Castex ordered to each Ministry to develop a data strategy roadmap. Such roadmaps will list the objectives related to steering, opening, circulation, and sharing of data. The Prime Minister also asked ministries to reference open data on the national portal data.gouv.fr. Within this framework, Ministries are drafting data inventories in order to comply with the Government objectives.
+
+**Tech.gouv strategy on inventories :**
+
+[Tech.gouv](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/), the interministerial programme for digital transformation, has created a new mission called “Data”. One of the objectives of this mission is to create a platform for data exchange between administrations. The first step of this project is to mandate ministries to conduct an inventory of the data produced. Data circulation cannot take place without a clear knowledge of the available datasets. An interdepartmental inventory is being developed to give administrations greater visibility on the data produced at a national level. This work is carried out in collaboration with the relevant contacts of each administration.
+
+**Etalab’s work on inventories :**
+
+- **Producers assistance:**
+
+Etalab collaborates with chief data officers and open data officers of each ministry to help them carry out the inventory of the data within their scope. Workshops are organized to identify the key variables of the different inventories. Several ministries, such as the Ministry of Economy, Ministry of Culture, Ministry of Agriculture, Ministry of the Army, are starting to work on their respective data inventories. Ministerial staff from the Ministry of Ecological Transition and the Ministry of the Sea directly asked Etalab to assist them with the collaboration of other stakeholders in the technical development of the inventory.
+
+- **Inventory pages**
+
+For some subjects we gather all relevant datasets on a single page on the national portal : an example on elections data is available here (https://www.data.gouv.fr/fr/pages/donnees-des-elections/). We found that it fosters data discoverability and reuse since it is possible to give more context on the datasets and link between them.
+
+- **The data.gouv.fr catalog**
+
+**In April 2023, nearly 45 000 datasets are referenced on data.gouv.fr**. This figure may seem dizzying for re-users who wish to discover the public data offer of data.gouv.fr. In order to provide better visibility of the published data sets, the team has provided the [data catalog of data.gouv.fr](https://www.data.gouv.fr/en/datasets/catalogue-des-donnees-de-data-gouv-fr/) in open data since June 2019. This dataset provides information on the list of datasets, resources, reuse, organizations, tags, harvesters, and discussions published on data.gouv.fr.
+
+- **Specific inventories**
+
+In order to focus our efforts to make more data available in an open format, Etalab has realised some inventories for specific themes: health, labour, housing, key geo-spatial reference data, COVID-19, etc. (https://www.data.gouv.fr/fr/pages/thematiques-a-la-une/). These inventories, which are available in open data, list all open and closed data sources for the specific themes, for all actors involved in the field. The aim is to help us prioritise which data should be available as open data. **These specific inventories can also be used to highlight the importance of certain data according to current events. For example, in the face of a European and global energy crisis, the national portal (http://data.gouv.fr/) has undertaken to reference the main datasets related to the ""energy"" theme available.**
+
+(https://www.data.gouv.fr/fr/pages/donnees-energie/)
+
+- **Interministerial catalogation tool**
+
+In order to help ministries and public sector organisation realise a data inventory, Etalab is currently developing a tool that will allow organisations to create an inventory, manage it, publish it in open data. (https://catalogue.data.gouv.fr/)
+The source code is available on GitHub (https://github.com/etalab/catalogage-donnees).";Complement;;We plan to use data.gouv.fr as the data inventory for all public bodies (open and restricted data) starting this summer hopefully : https://www.data.gouv.fr/fr/pages/roadmap/;;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;"As pointed out in the previous answer, public actors (and private actors who carry out a public service mission) have to publish in open data the inventory of administrative documents that they produce as part of their public service missions. This includes data that cannot be published as open data.
+
+Ministries are working on data inventories in order to list all data within their perimeter. These inventories are based on metadata, and will include data that cannot be published as open data. Inventories themselves will be published as open data.
+
+The interministerial catalogation tool will allow users to flag whether each dataset is available as open data (providing a link to the dataset on data.gouv.fr), whether it can be opened but is not yet available, or whether it cannot be published as open data.
+
+The French strategy for data belonging to public bodies that cannot be published as open data is to make them available via API to authorised organisations (“droit d’en connaître”). The catalogue [api.gouv.fr](https://api.gouv.fr/) showcase both open and closed APIs. The roadmap of the API portal is totally transparent [https://api.gouv.fr/feuille-de-route](https://api.gouv.fr/feuille-de-route). In order to facilitate the management of data access authorizations, Etalab developed a tool called DataPass [https://datapass.api.gouv.fr/](https://datapass.api.gouv.fr/).
+
+**Following the adoption of the 3DS law previously mentioned, the role assumed by the [catalogue.data.gouv.fr](http://catalogue.data.gouv.fr) platform is inevitably going to grow. Indeed, this catalog will also serve as a valuable tool in the context of exchanges between administrations, now strongly encouraged through incentives to use APIs with this new law.**";Confirm;;;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;Yes, it is progressing well. All datasets won't be available on data.gouv.fr by the 9th of June but they are already open and available. Our main focus in now on harvesting different data plateforms. The HVD directive accelerated the process. ;;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;4;5;5;4;4;4;4;;;;
+P11-b;Earth observation and environment;4;5;4;3;4;4;4;;;;
+P11-c;Meteorological;5;5;5;5;5;4;5;;;;
+P11-d;Statistics;5;5;5;4;4;5;5;;;;
+P11-e;Companies and company ownership;5;5;5;3;4;4;4;;;;
+P11-f;Mobility;3;5;5;4;4;4;4;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;We added a tag on relevant datasets (all are not on the plateform yet due to harvesting challenges) https://www.data.gouv.fr/fr/datasets/?tag=hvd;;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"The interaction between open data stakeholders and the networks is designed to be both structured and dynamic, fostering continuous engagement, feedback, and collaboration. Here’s how the process generally works:
+
+Structured Interactions within Networks
+State Network:
+• General Data Administrator (GDA): The GDA plays a central role in coordinating the overall open data policy across ministries. This position is responsible for setting guidelines, monitoring compliance, and ensuring that data initiatives align with national objectives.
+• Ministerial Data Administrators (MDAs): In each ministry, the MDA is responsible for implementing the open data strategy within their specific domain. They often work closely with an open data referent who focuses on the operational aspects of data publication and management. Both the General Data Administrator and the Ministerial Data Administrators are public-facing roles, serving as the primary points of contact for user inquiries.
+You can view the list of these administrators here: List of Ministerial Data, Algorithms, and Source Code Administrators.
+• Regular Meetings and Exchanges: The State Network maintains a regular schedule of meetings and exchanges, both formal (quarterly strategic meetings) and informal (e.g., working groups or workshops on specific topics). These interactions help ensure that the ministries are aligned in their approaches and can share best practices and challenges. However, it's important to note that exchanges between Ministerial Data Administrators in the Interministerial Data Administrators Committee (CIAD) are not public.
+
+Territorial Network:
+• Data Referents in Prefectures: These officials are responsible for ensuring that open data policies are implemented at the local level. They act as intermediaries between the central government and local authorities, helping to adapt national policies to local needs.
+• National Agency for Territories: This agency provides support and resources to local authorities, helping them develop and implement their data strategies. The agency might offer training, technical assistance, and access to best practices.
+• OpenDataFrance Association: This association serves as a hub for local authorities engaged in open data initiatives. It provides a platform for these authorities to collaborate, share resources, and advocate for their needs at the national level.
+Community and Stakeholder Engagement
+Events Organized by the National Platform or other data producers:
+• Hackathons: These events bring together data producers, developers, and other stakeholders to collaboratively create solutions using open data. They serve as a practical way to explore the potential of open data, identify gaps, and foster innovation.
+• Public Demonstrations and Workshops: Regularly organized public events. These events provide opportunities for direct interaction between data producers (e.g., government agencies) and data users (e.g., researchers, entrepreneurs).
+
+Systematic Processes for Interaction
+• Feedback Loops: Stakeholders are encouraged to provide feedback on the open data they use. This feedback is systematically collected through platforms like data.gouv.fr, where users can comment on datasets, request new data, or report issues.
+• Consultation and Co-creation: When developing new policies or strategies, both the State and Territorial Networks may consult with stakeholders, including local authorities, private sector partners, and civil society. This process can involve surveys, public consultations, and pilot projects.
+
+Challenges and Opportunities
+While there is a structured framework for interaction, the open data ecosystem also relies heavily on the voluntary participation and collaboration of stakeholders. Continuous engagement, the willingness to share data, and the proactive identification of user needs are crucial for the system to function effectively. The systematic processes in place are designed to facilitate these interactions, but the success of the open data policy also depends on the commitment and responsiveness of all involved parties.";;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";top-down;"Etalab is piloting the open data strategy and is positioning itself as a facilitator for every stakeholder. Ministerial Chief Data Officers, as established by the Prime Minister Circular, are in charge of elaborating the data strategy in each ministry, of coordinating with the various stakeholders and to act as the main point of contact for data re-users. Such model is also replicated at local level with the data referents for each regional préfet.
+
+This model is coherent with the French centralised administrative structure, and has proven to be the most effective. Nonetheless, there is a high degree of coordination with various stakeholders, including civil society, as mentioned in the previous question.";Change;Hybrid;The open data policy is no longer led by Etalab since the reorganisation of the DINUM. The open data policy is led by the data.gouv.fr team within the  The Interministerial Product Operator (OPI) that brings together enduring interministerial digital products, such as France Connect.;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;"Local data initiatives are very important in France and are often encouraged. They often constitute interesting experiments that can be generalized.
+
+In addition to the network previously mentioned, we can highlight:
+
+- The Digital Transformation of Territories (TNT) program, a cooperation program between the State and local authorities in digital administration. https://www.numerique.gouv.fr/services/tnt/
+- Data and Territories, a service of the National Agency for Territorial Cohesion aimed at agents, services, and local authorities. https://donnees.incubateur.anct.gouv.fr/
+- The Territories Incubator, which supports territories in their digital transition, particularly concerning data. https://incubateur.anct.gouv.fr/
+- The work of the National Council for Geolocated Information, which organizes coordination and supports the evolution of geolocated information in France. https://cnig.gouv.fr/
+- The Public Action Transformation Fund, which includes a component dedicated to supporting decentralized administrations. https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique";;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";all public bodies;"By law, every local authority with more than 3 500 inhabitants and more than 50 employees falls under national open data obligations.
+
+Local and regional public bodies in France who publish open data have their own open data portal and/or a designated account on the national portal data.gouv.fr with some data already published.
+
+Many have their own open data platform (automatically harvested by the national one). Here are some examples:
+
+Cities : Paris (https://opendata.paris.fr/explore/?sort=modified), Rennes (https://data.rennesmetropole.fr/page/home/), Lyon (https://data.grandlyon.com/), Lille (http://opendata.regionpaca.fr/), Nantes (http://data.nantes.fr/), Bordeaux (http://opendata.bordeaux.fr/), Grenoble (http://data.metropolegrenoble.fr/) ...
+
+Regions : Provence-Alpes-Côtes-d’Azur (http://opendata.regionpaca.fr/), Loire Atlantique (http://data.loire-atlantique.fr/), Auvergne-Rhône-Alpes (http://opendata.auvergnerhonealpes.eu/)
+
+Department : Hérault (https://www.herault-data.fr/pages/accueil/), Morbihan (https://www.opendata56.fr/pages/home/) ...
+
+The association OpenDataFrance manages an observatory that aims at listing all local open data initiatives [https://www.observatoire-opendata.fr](https://www.observatoire-opendata.fr/). The list of the initiatives is available here [https://airtable.com/shrKrV6KY7BlhHDx7](https://airtable.com/shrKrV6KY7BlhHDx7).
+
+The list identifies more than 250 local and regional open data portals for more than 1060 local actors, including 850 local authorities (regions, departments, cities, metropolitan areas, groups of cities, etc.). This observatory confirms a French trend marked by a regular increase of approximately 150 local authorities per year, i.e. an increase of 18%, underlining the vitality and attractiveness of the practices of opening and circulating data at all levels and in all French territories. Moreover, it is possible to consider that all the local authorities have already been brought to collaborate within the framework of the national strategy in terms of open data, and more especially the communes (local administrative units) notably on the occasion of the publication in open data of the data relative to the elections and accessible on the national portal. In the same way, all French local authorities must contribute to the gathering of addresses from municipalities to constitute the national address database open to the public.
+
+[https://www.observatoire-opendata.fr/wp-content/uploads/2023/03/Copie-de-Observatoire_Open_Data_Territoires_Edition2022.pptx-1.pdf](https://www.observatoire-opendata.fr/wp-content/uploads/2023/03/Copie-de-Observatoire_Open_Data_Territoires_Edition2022.pptx-1.pdf)";Confirm;;;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";yes;"The responsibilities of the national open data team are determined by a decree (https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039281619/), with further responsibilities defined in the Code of the relations between the Public and the Administration (https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350) (for example regarding Public Service Data).
+
+The roles of Etalab members are described on [its website](https://www.etalab.gouv.fr/equipe/).";Complement;;The open data team : https://www.data.gouv.fr/fr/pages/team/;;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;The national open data team is the team maintaining the national portal data.gouv.fr. The team belongs to the data opening and data circulation unit of Etalab.;Change;Yes;The open data team IS the data.gouv.fr team https://www.data.gouv.fr/fr/pages/team/. It does not belong to Etalab anymore.;;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;"Three types of actors are appointed within ministries:
+
+- **Chief data officers** are proactively appointed by ministries, as asked by the Prime Minister in his April 2021 circular. They are in charge of the data policy within their ministries. The CDO is under the responsibility of the ""General Data Administrator"", the state CDO. Etalab leads this network and supports each CDO in the implementation of its missions, including the opening and circulation of its data. The list of CDOs is available in open data (https://www.data.gouv.fr/fr/datasets/liste-des-administrateurs-ministeriels-des-donnees/)
+- **Open data officers:** although the role is not mandatory, since open data is a prerogative of the CDO, some ministries and inter-ministerial services choose to appoint open data officers alongside the CDOs, with the specific role of managing the open data policy within their structure. The open data officer's missions are to prioritise which datasets to open, to act as an intermediary between Etalab and the divisions of his ministry and to report needs and feedback to the CDO.
+- **Data stewards :** although their role is not mandatory, data stewards are appointed by some ministerial directions to reinforce the publication of public data by some public administrations and their re-use by services of the direction.
+
+The DINUM also coordinates a network of API managers in different public bodies.
+
+At the local level, the Prime Minister circular of April 2021 asks every regional representative of the national government (Préfet) to nominate a referent for data, algorithms and source codes, in order to support local state services.";Complement;Yes;"There is also a role of data referent within the prefectures. This role has been reaffirmed and strengthened since the ""Data and Territories"" report : https://www.transformation.gouv.fr/files/ressource/Rapport_Mission_Data_Territoires.pdf";;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"**The CDO network**
+
+The aforementioned CDO network makes it possible to include all central government stakeholders in the open data awareness and training process. It also makes it possible to track needs (data needs, formation needs etc.) from the different ministries’ division to Etalab to trigger appropriate actions. The CDO network formally gathers at regular occasions (every trimester) in order to share about their progress, difficulties and good practices over data strategy in general. The issue of open data is of  course at the center of the discussions. Moreover, one-to-one exchanges between Etalab and the ministerial CDOs and open data officers take place regularly.
+
+**Open Data France**
+
+The association Open Data France aims at bringing together and supporting local authorities actively engaged in a process of opening up public data, and encouraging all the steps taken by these authorities with a view to promoting open data. Open Data France regularly organises meetings to exchange knowledge and experience with local actors in the field of open data. **For instance, in 2022, Etalab was frequently associated to many meetings and committees with Open Data France, especially on the question of the co-construction of the future of open data in territories.**
+
+(https://www.dataregionsud.fr/agenda/rencontre-opendatafrance-2022-co-construire-le-futur-de-lopen-data-des-territoires/)";Confirm;;;;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"The Ministerial roadmaps on data, algorithms and source codes policy overall include 19 commitments on the issue of community animation and exchange of knowledge with data re-users, citizens, civil society organisations, academia, journalists, businesses.
+
+The central open data team within Etalab is also strongly committed to exchanging knowledge with other actors. Some examples include:
+
+- Participating in the events of the French Information Industry Grouping (Groupement français de l'industrie de l'information) and their working group on open data (http://www.gfii.fr/fr/groupe/diffusion-des-donnees-publiques)
+- Exchanging with data producers and re-users before the implementation of data schemas and their publishing on schema.data.gouv.fr. An example of discussion is available here (https://github.com/etalab/schema.data.gouv.fr/issues/214)
+- Exchanging with users of the portal [data.gouv.fr](http://data.gouv.fr) and gathering feedback on the features and UX of the portal. A group of beta testers has also been set up.
+- **Etalab also organizes some ""démonstrations publiques"" (public demonstrations) to present to the public, on the occasion of a state of the art, its latest progress, especially on the national portal [data.gouv.fr](http://data.gouv.fr/). These demonstrations are also an additional opportunity for public agents to collect feedback from data reusers and data providers.**";Complement;;Some recents events and meetups : https://www.data.gouv.fr/fr/posts/lancement-de-la-saison-2-de-lopen-data-university/   https://www.data.gouv.fr/fr/posts/hackathon-donnees-ouvertes-meteo-france-venez-valoriser-les-donnees-publiques-meteorologiques/. https://www.data.gouv.fr/fr/posts/demo-publique-de-data-gouv-fr-1/;;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"At the central government level, the main planning tool is the list of key datasets to open that has been established during the 5th interministerial committee of public transformation in february 2021. The plan is available here (https://ouverture.data.gouv.fr/).
+
+In the same way, a similar planning tool will soon include the various datasets targeted into the HVDs implementation regulation.
+
+Besides this central planning tool, ministries have their own publication plans in their roadmaps for data, algorithms and source codes. The roadmaps can be consulted here (https://www.data.gouv.fr/fr/datasets/feuilles-de-route-ministerielles-sur-la-politique-de-la-donnee-des-algorithmes-et-des-codes-sources/) and a consolidated list of actions is available here (https://www.data.gouv.fr/fr/datasets/liste-des-actions-prises-par-les-ministeres-dans-le-cadre-des-feuilles-de-routes-ministerielles/).";Complement;Yes;See ouverture.data.gouv.fr to see the implementation of high value datasets. The latest Ministerials roadmap are not available yet. ;;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;"Data, algorithms and source codes policy is coordinated at the interministerial level by the Interministerial Directorate for Digital Affairs (Direction interministérielle du numérique, DINUM). The director of the DINUM is the Chief Data, Algorithms and Source Codes Officer (Administrateur général des données, algorithmes et codes sources, AGDAC). In order to coordinate this policy, a series of dedicated committees have been established and are led by the Etalab department :
+
+- Interministerial councils of the chief data officers of each ministry (Comité interministériel des administrateurs des données, CIAD), every six months. These meetings have been institutionalised with the Prime Ministerial circular of 27 April 2021 on data, algorithms and source code policy.
+- Quarterly steering committees.
+- Regular bilateral exchanges with the ministries.
+
+The agendas of these meetings includes an update on data policy (including open government data), a review of commitments made in the ministerial roadmaps, feedbacks from ministries, and general discussions. 
+
+A series of seminars has been recently established by Etalab to encourage exchanges among ministerial CDOs, statistical services and Etalab members, to share practices and analyse challenges related to opening data. The first seminar took place in May 2022.
+
+The platform [ouverture.data.gouv.fr](http://ouverture.data.gouv.fr/) also sets a public monitoring system to control the progress made in implementing the roadmaps on the open data component. It allows anyone to quickly and simply check which open data commitments have been made by the ministries and whether they have been fulfilled within the allotted time. It allows to strongly encourage ministries to fulfill their commitments under the threat of a public sanction of the ""name and shame"" type.";Confirm;;;;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;"The data.gouv.fr team aims to promote the reuse of public data, a mission that is reflected in various objectives:
+
+- Improving the discoverability of open data;
+- Promoting the quality of open data;
+- Encouraging the reuse of open data;
+- Facilitating access to information.
+
+In response to these objectives and the needs reported by users, we are prioritizing various projects for 2024. These are broad orientations that guide us and may be adjusted based on feedback.
+
+We have implemented impact indicators that allow us to track our objectives and adapt our strategy accordingly.
+
+Objective 1: data.gouv.fr promotes the discoverability of open data
+
+This aims to measure to what extent users find the data they need.
+
+Indicator: percentage of users who responded positively to the question, ""Did you find what you were looking for?""
+
+Objective 2: data.gouv.fr promotes the quality of open data
+
+This aims to measure if data.gouv.fr makes it easy to publish and reference quality data.
+
+Indicator: average quality score of the 100 most downloaded datasets on the platform.
+
+Objective 3: data.gouv.fr promotes the reuse of open data
+
+This aims to measure to what extent data.gouv.fr facilitates interactions between data producers and reusers.
+
+Indicator: average time for a ""legitimate"" response to discussions related to datasets (legitimate: response by a member of the organization publishing the dataset or a member of the data.gouv.fr team).
+
+Objective 4: data.gouv.fr facilitates access to information on the most important datasets
+
+This aims to measure to what extent data.gouv.fr contributes to access to information.
+
+Indicator: number of top 100 datasets associated with a ""quality reuse"" (quality reuses are an editorial choice by the data.gouv.fr team).
+
+COMPLEMENT : 
+Refer to question PT26, where we detailed how we collect user feedback and how the team takes it into account.
+
+An important point: we believe that it is not desirable to separate public policy from the product, as the two are closely intertwined. The product, technical, and support teams work together without distinctions, such as between project ownership and project management. Strategic and policy decisions impact the product, and conversely, technical choices are not neutral and have an influence on policy.
+
+Therefore, strategic and technical directions evolve together in an agile, transparent, and collaborative manner.
+
+We place particular importance on the transparency of our developments and decisions (public demos, opening our code and backlog, etc.).
+
+We continuously gather user feedback, but also on an ad hoc basis for particularly important issues.
+
+We can provide further details if necessary.";;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;"French law states that the re-use of public information is free of charge by principle (see Article L. 324-1 of the Code of relations between the public and the administration (CRPA)).
+As an exception, fees can only be charged in two cases:
+- For administrations whose main activity consists of collecting, producing, making available or disseminating public information, when less than 75% of the costs related to this main activity are covered by tax revenues, endowments or subsidies (i.e. at least 25% by own revenues). For the State's administrations (including its public administrative establishments), a strict list of data likely to be subject to a re-use fee is published (D. 324-5-1 CRPA).
+- For public libraries, including university libraries, museums and archives, only for information resulting from digitisation operations of their holdings and collections and, where applicable, the information associated with them, when the latter are jointly marketed (art. L. 324-2 CRPA). In short, royalties may only relate to the re-use of digitised image files and their metadata (if they are re-used jointly with them); royalties may not relate to natively digital documents.
+All fees previously collected that do not comply with the legal framework now in force can no longer be claimed.
+The amount of the fees shall be set according to objective, transparent, verifiable and non-discriminatory criteria. The amount shall be reviewed at least every five years. The details of its calculation shall be published in electronic form jointly on the website of the administration concerned and on data.gouv.fr.
+
+Etalab is in charge of assessing whether the amount of the fees charged by State administrations is appropriate. The list of State bodies that can charge a fee is again published by decree, hence an eventual modification goes through a strict review process in which Etalab is involved.
+
+In 2018, the Court of Audit (Cour des comptes) issued a summary report to Prime Minister Édouard Philippe pointing out the issues related to the economic models of three State operators charging for data and the consequences of opening such data. (https://www.ccomptes.fr/system/files/2019-03/20190311-refere-S2018-3287-valorisation-donnees-IGN-Meteo-France-Cerema.pdf).
+
+Prime Minister Philippe replied in 2019 (https://www.ccomptes.fr/sites/default/files/2019-03/20190311-refere-S2018-3287-valorisation-donnees-IGN-Meteo-France-Cerema-rep-PM.pdf) deciding to generalising the opening of data produced by the national geographical institute IGN and Météo-France. Prime Minister Castex, in his April 2021 circular (https://www.legifrance.gouv.fr/circulaire/id/45162) reiterated the aim of extinguishing fees by 2023. The Naval Hydrographic and Oceanographic Service (SHOM) met the commitment and stopped charging fees.
+
+Article D324-5-1 of the Code of the Relations between the Public and the Administration will be modified to reflect these changes.";Confirm;;;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;"As stated above, despite the overall high level of open data maturity of all public sector organisations at national and local level, there is room for improvement in some key areas:
+
+- Data literacy of civil servants and training in open data skills. This has been pointed out by the Open Data Mission carried out by MP Éric Bothorel (https://www.vie-publique.fr/sites/default/files/rapport/pdf/277879.pdf). The need for skills and expertise in the field of data has also been the object of a specific mission carried out by the DINUM and the national statistical institute INSEE (https://www.etalab.gouv.fr/publication-du-rapport-dinum-insee-12-recommandations-pour-dynamiser-la-gestion-et-la-valorisation-des-competences-data/) which formulates 12 recommendations.
+- Although the law states that all data must be open by default, the existence of this right is not widely known among the general population, civil servants that do not work directly on data are not always trained on how to respond to access-to-information requests, and there are no sanctions for the public bodies that do not comply. The aforementioned open data mission underlined the need to improve the right of access to data and the role of the independent authority that supervises this right, the Commission for Access to Administrative Documents (Commission d’accès aux documents administratifs, CADA).
+- Fragmentation of efforts and discoverability of data. Public sector organisations at national and local level are rather independent in the implementation of their own open data strategy, and local authorities are not obliged to publish data on the national portal [data.gouv.fr](http://data.gouv.fr). The main advantage of this configuration is agility and the possibility to accommodate different degrees of competence and needs. The downside is the fragmentation of efforts and the difficulty to centralise data on the national portal. Having to develop harvesters from other open data portals to data.gouv.fr, setting up the harvesting pipeline, managing the content on both a ministerial/local portal and the national one is a challenge for both Etalab managing the national portal and the other actors.";Confirm;N/A;;;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;" - To address the challenges related to skills, both the Open Data Mission report and the DINUM/INSEE report point out several recommendations. Many activities proposed by these reports are already in place: the website [https://metiers.numerique.gouv.fr/](https://metiers.numerique.gouv.fr/) to centralise job offers in the digital field in the public sector, improved HR procedures, a stronger interministerial coordination between the DINUM and the ministerial statistical offices to share knowledge and best practices, the 10% programme [https://10pourcent.etalab.studio/](https://10pourcent.etalab.studio/).
+- In 2022, DINUM, in collaboration with the Ministry of the Armed Forces, also organized the 3rd edition of the ""Vis mon job"" operation. During this event, volunteer digital professionals within the State services (central administration, operator, public establishment or decentralized service) have made discover their job and their daily life to students by becoming ambassadors of the State's digital jobs.
+(https://www.numerique.gouv.fr/actualites/vis-mon-job-2022-agents-etat-faites-decouvrir-votre-metier-numerique-a-des-etudiants/)
+- To improve data discoverability and the centralisation of data in the national portal, the Prime Minister reiterated the need to publish data on [data.gouv.fr](http://data.gouv.fr) in his circular of April 2021. Etalab continuously works to improve the harvesters (from CKAN https://github.com/opendatateam/udata-ckan), the proprietary solution opendatasoft (https://github.com/opendatateam/udata-ods), and DCAT catalogues (https://github.com/opendatateam/udata/tree/master/udata/harvest).
+- To improve the access to administrative documents, the association Ma Dada (madada.fr) helps citizens send official access-to-information requests. The association got selected in the first promotion of the Citizen Initiative Accelerator (Accélérateur d’Initiatives Citoyennes, AIC), a programme led by Etalab and the Interministerial Directorate for Public Transformation (Direction interministérielle de la transformation publique, DITP) that helps initiatives from civil society to carry out projects of general interest. The accelerator will help Ma Dada coordinate their actions with the independent authority in charge of access-to-information (the CNIL) and other relevant actors.
+- The association Open Data France proposes trainings for public actors at the local level, focusing on data opening and open data re-use (https://www.opendatafrance.net/formation/).";Complement;Yes;"As stated above, despite the overall high level of open data maturity of all public sector organizations at national and local levels, there is room for improvement in some key areas:
+• Data literacy of civil servants and training in open data skills
+DINUM has made it a priority to ""significantly strengthen digital skills within the State."" Data is important, but it's not the only focus.
+To achieve this, DINUM launched the Campus for Public Digital Training, which brings together and enhances interministerial digital training offerings. The goal is to equip public sector employees, especially those in the digital field, with transformative knowledge and skills essential for invigorating public action and delivering high-quality digital services: Campus for Public Digital Training
+• Ensure the open by default principle
+Météo France data was opened in 2023. It was the last significant administration to open its data. It is essential to continue ensuring that the open data policy is understood and adopted by public actors, rather than being perceived as a legal obligation.
+• Fragmentation of efforts and discoverability of data
+The implementation of high-value data has been a considerable accelerator in ensuring that all data is properly reported on the national platform.";;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;Within the data.gouv.fr team 2 to 4 persons are in charge of assisting and autonomize data producers by providing legal, organisationnal and technical assistance. They also produces guides and foster the use of data standard for example.;;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;" - OpenDataFrance, an association that promotes open data at subnational government and local communities level and is financed by the State, provides a training programme called OpenDataLocale (https://www.opendatafrance.net/projets/opendata-locale/). The programme, financed also through the French Recovery Plan “France Relance”, aims at proving a series of tools, sessions, documents related to open data literacy, with the aim of encouraging the sharing of best practices at the local level.
+- Specific open data literacy programmes are being carried out at the ministerial level, as one can read in the different ministerial roadmaps (https://www.data.gouv.fr/fr/datasets/feuilles-de-route-ministerielles-sur-la-politique-de-la-donnee-des-algorithmes-et-des-codes-sources/)
+- Etalab's legal team also regularly organises training sessions for ministerial CDOs on the legal framework governing (open) data.
+- Pix, a public service to evaluate, develop, and certificate digital skills (pix.fr) provides a programme to train civil servants of local authorities in digital competences. See an example developed in partnership with Banque des Territoires, a public investment bank : (https://www.banquedesterritoires.fr/PixTerritoires)
+The growing success of this certification led to plan the extension of such certification to all civil servants.
+- A platform and trainings to foster datascience in ministries : (https://onyxia.lab.sspcloud.fr/home)
+The Onyxia project is based on the observation of common difficulties encountered by data scientists in the public sector: agents who are often isolated, due to the relative scarcity of data skills in the administration; Inadequate infrastructures, both in terms of resources and technologies, which are an obstacle to innovation; Difficulty in moving from experimentation to production, due to multiple separations (physical separation, development language, working methods) between business departments and IT production. Faced with this situation, the SSPCloud Datalab was built to offer a platform for sharing on several levels.";Complement;Yes;"In addition to these initiatives, DINUM has made it a priority to ""significantly strengthen digital skills within the State."" Data is important, but it's not the only focus.
+
+To achieve this, DINUM launched the Campus for Public Digital Training, which brings together and enhances interministerial digital training offerings. The goal is to equip public sector employees, especially those in the digital field, with transformative knowledge and skills essential for invigorating public action and delivering high-quality digital services : https://campus.numerique.gouv.fr/";;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, >9;"Within the framework of the “month of public innovation” (https://www.modernisation.gouv.fr/diffuser-linnovation-publique/mois-de-linnovation-publique) organised yearly by the interministerial department for public transformation (DITP)
+    - “Accelerating the opening of data in subnational governments” (https://www.etalab.gouv.fr/mois-de-linnovation-publique-2020-retour-sur-les-evenements-detalab/)
+    - Exchange of data between administrations via APIs (https://www.etalab.gouv.fr/mois-de-linnovation-publique-2020-retour-sur-les-evenements-detalab/)
+    - Launch of the ""Informing public policies through data"" support programme: return on the publication of Covid-19 data and aid to businesses and on the development of a dashboard for visualising open data. (https://www.etalab.gouv.fr/mois-de-linnovation-publique-2020-retour-sur-les-evenements-detalab/)
+    - Supporting territories in their approach to open data: what tools and what support (https://www.modernisation.gouv.fr/mois-de-linnovation-publique/open-data-accompagner-les-territoires-dans-leur-demarche-douverture)
+- Event to promote open data among civil servants of subnational governments and local authorities:
+    - National program “10%”, co-sponsored by Dinum and INSEE, is a unique collaboration between public data experts who devote part of their working time to projects of common interest. By joining the 10% community, digital-experienced state’s civil servants can exchange practices between peers, improving skills through training and sharing informal moments around common values. (https://www.10pourcent.etalab.gouv.fr/)
+    - Forum des initiatives Nantes - ""Data management in a crisis” (https://nantesdigitalweek.com/evenement-2020/forum-des-initiatives/)
+    - Datarama #6 - Open Data and visualisation (http://neoblogs.lecolededesign.com/datarama/)
+    - Webinar IncubO #1 - What impact does digital technology have on the work of public servants? Risks and promises in the light of the Covid crisis (https://www.modernisation.gouv.fr/publications-des-communautes/webinaire-incubo-quels-impacts-du-numerique-sur-le-travail-des-agents)
+- As part of the DINUM’s Tech.Gouv programme (https://www.numerique.gouv.fr/uploads/Plaquette_TechGouv_mi2021.PDF), the ""Informing public decisions through data"" initiative aims to raise awareness and train decision-makers in the challenges of opening up data. To this end, several information and training sessions have been held:
+    - Two training sessions with decision-makers of the Agency for Ecological Transition (ADEME)
+    - One training session with the Office for Biodiversity
+- Other events include the participation of members of Etalab at seminars of the social security agencies URSSAF and Unédic, a workgroup of the Observatory of Local Finance and Public Management (OFGL), the national agency France Stratégie, among others.
+- The Digital Transformation of Territories (TNT) program, launched on May 31, 2021 by the Minister of Public Transformation and Civil Service and the Minister of Territorial Cohesion and Relations with Local Authorities for a period of 3 years, is a program of cooperation between the State and local authorities in the field of digital administration. By seeking to strengthen the links between the State and the territories under the impulse of a strong political dynamic, the TNT program aims to accelerate the digital transformation of public action in all territories by promoting the implementation of concrete and visible digital solutions. (https://www.numerique.gouv.fr/services/tnt/)";Complement;Yes, >9;"They are a lot of events, here some examples : 
+- Demo Day of l’Open Data University https://www.eventbrite.fr/e/demo-day-de-lopen-data-university-saison-2-tickets-885446443147
+- Hackathon on meteorogical data : https://www.eventbrite.fr/e/billets-hackathon-donnees-ouvertes-meteo-france-836005554117
+- Hackathon DSN : https://www.numerique.gouv.fr/actualites/hackathon-declaration-sociale-nominative-dsn/
+- Open data for the olympic games https://www.opendatasoft.com/fr/evenements/la-data-au-coeur-de-la-preparation-des-jeux-2024/";;;;;;

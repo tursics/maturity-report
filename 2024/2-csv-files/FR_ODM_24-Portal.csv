@@ -1,0 +1,453 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;The national portal is: https://www.data.gouv.fr/;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;uData;uData
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;Yes trough the public API https://guides.data.gouv.fr/guide-data.gouv.fr/api/reference
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;Yes trough the public API : https://guides.data.gouv.fr/guide-data.gouv.fr/api/reference
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;Yes trough the public API : https://guides.data.gouv.fr/guide-data.gouv.fr/api/reference
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;Documentation can be found here : https://guides.data.gouv.fr/guide-data.gouv.fr/jeux-de-donnees/faire-une-recherche-sparql
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"Firstly, on data.gouv.fr, anyone can publish data. It is an open and community-driven platform, allowing various stakeholders to contribute, including administrations, businesses, civil society, citizens, etc.
+
+Secondly, users can add community resources to datasets. For each dataset published on the platform, it is possible to associate a community resource. This often allows users to share interesting data cross-references or data cleaning efforts.
+
+See the documentation: Guide on community resources.
+
+See an example: SIRENE database of companies and their establishments (SIREN, SIRET)."
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"We developed a new tool to receive demands. The latter stands between an FAQ and a form. The main aim is to give generic answers to frenquently asked questions and get more qualified demands : [https://support.data.gouv.fr/](https://support.data.gouv.fr/)
+
+In addition, it is possible to engage in a discussion with the data.gouv.fr team on [the dedicated github](https://github.com/etalab/data.gouv.fr/). This github page gathers in particular to users' proposals and technical problems encountered. Contributions are opened to all users.";Complement;Yes;The github repo change for https://github.com/datagouv/data.gouv.fr
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;A commentary section on each dataset is available at the bottom of the webpage. The producers are in charge of the response. An example : https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/#/discussions;Confirm;;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";No;"A discussion module is available for users for each dataset. They can express their opinion on the published dataset, whether it is positive or negative. This discussion module also makes it possible to report anomalies or areas for improvement to the producer.
+
+We believe that this evaluation mechanism provides more qualitative information than a simple five-star mechanism. Indeed, a five-star mechanism does not provide information on the improvement prospects.  See example : [https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/#/discussions](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/#/discussions)
+
+It is also possible to ""follow"" a dataset, which can be an indicator of popularity.";Change;No;We are studying a feature of upvote/downvote on datasets but nothing is available yet.
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;Yes, curated datasets on relevant topics can be found here https://www.data.gouv.fr/fr/pages/thematiques-a-la-une/ see for example (https://www.data.gouv.fr/fr/pages/donnees-geographiques/ or https://www.data.gouv.fr/fr/pages/donnees-des-elections/).;Confirm;;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"We offer [RSS feeds for datasets](https://www.data.gouv.fr/fr/datasets/recent.atom) and for [reuses](https://www.data.gouv.fr/fr/reuses/recent.atom).
+
+We also make available a more targeted notification process:  when a user follows an organisation, he receives an email each time the organisation publishes or updates a dataset. This possibility to receive notifications in a targeted way helps to avoid spam from users. The challenge is to provide relevant information for the user according to his needs.";Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"Citizens can request data sets through two channels of communication :
+
+- They can send a request at [ouverture@data.gouv.fr](mailto:ouverture@data.gouv.fr). Requests are handled by Etalab's team.
+- They can send a request to the [CADA](https://www.cada.fr/) (commission of access to administrative documents). The commission is dedicated to receive open data requests in order to give administrative feedback.
+
+Furthermore, we developed a tool to receive demands. The latter stands between an FAQ and a form. The main aim is to give generic answers to frenquently asked questions and get more qualified demands : [https://support.data.gouv.fr/](https://support.data.gouv.fr/)";Change;Yes;"We apologize for the lack of clarity in our previous response.
+
+The link does not lead to a dataset but rather to an unsuccessful search, allowing you to see that a dedicated form appears when a search yields few or no results.
+
+In this example: search for ""fefzefezfze"" which returns no results, you can see a banner that redirects to a specific questionnaire."
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"Recommendations given by the Commission for access to administrative documents (CADA) as well as its advice to administrations are [published on data.gouv.fr](https://www.data.gouv.fr/fr/datasets/avis-et-conseils-de-la-cada/).
+
+Thanks to this dataset, Etalab developed the site [cada.data.gouv.fr](https://cada.data.gouv.fr/) which allows easy search and exploration of the opinions and advice issued by CADA since 1984.
+
+A [search engine](https://www.cada.fr/rechercher-un-avis) is also made available by the Commission.
+
+Besides, Etalab is currently working on enabling every stakeholder to have a transparent vision over the data requests and the process of publication : [https://ouverture.data.gouv.fr/](https://ouverture.data.gouv.fr/)";Complement;Yes;"https://forum.data.gouv.fr/ is accessible. See the dedicated category for open data demands : https://forum.data.gouv.fr/c/recherche-et-ouverture-de-donnees/8. 
+
+Please note that we are launching the forum step by step with selected users to make sure it match their needs. We have not broadly communicated on the forum yet."
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;"Every recommandations of the CADA are published (https://www.data.gouv.fr/fr/datasets/avis-et-conseils-de-la-cada/) on data.gouv.fr.
+
+Moreover,  by analyzing the [CADA recommendation dataset](https://www.data.gouv.fr/fr/datasets/avis-et-conseils-de-la-cada/) Antoine Augusti, former engineer at Etalab, analysed the response rate of each administration to CADA. During the processing of a request, the CADA seeks to contact the structure receiving the initial request. This exchange allows the Commission to give an informed opinion and to understand the nature of the administrative documents covered by the request. The analysis is available [on the portal](https://www.data.gouv.fr/fr/datasets/taux-de-reponse-a-la-commission-dacces-aux-documents-administratifs/) .
+
+Besides, the association Open Knowledge France developed the request to information platform [madada.fr](https://madada.fr/), among other features the platform enables to easily [browse demands and see their status](https://madada.fr/demandes/toutes?#results). This project is now followed and helped by Etalab through a specific program :  [https://citoyens.transformation.gouv.fr/laureats.html](https://citoyens.transformation.gouv.fr/laureats.html)";Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;For each data set, there is a discussion forum for users and producers to discuss the data set : https://www.data.gouv.fr/fr/datasets/repertoire-national-des-associations/#/discussions;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;"All the use cases can be found at [this address](https://www.data.gouv.fr/fr/reuses/).
+
+For each dataset, it is possible to submit a use case that is visible for everyone. Example : [https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/#/community-reuses](https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/#/community-reuses)";Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;"Every use case is linked to the data sets that it is based on.
+
+Example : [https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/#/community-reuses](https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/#/community-reuses)";Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;For each dataset, it is possible to submit a use case that is visible for everyone. More info is available here https://doc.data.gouv.fr/reutilisations-et-discussions/associer-une-reutilisation-a-un-jeu-de-donnees/;Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;"The national portal offers a preview function for tabular data. Just click on the ""preview"" button : [see example] (https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/).
+
+We also developed [explore.data.gouv.fr](http://explore.data.gouv.fr) to further explore datasets.";Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";No;"For some dataset that have geographic data, the national portal offers a preview function. Just click on the ""explore"" button: see example.";Change;Yes;"I might be an issue with this particular example. 
+You can check another example here : https://explore.data.gouv.fr/fr/datasets/points-darret-du-reseau-transports-en-commun-lyonnais/#/resources/3cc89499-cc8d-439e-8779-ef59a9b0666a"
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"We use several methods to promote high-value data:
+
+- A dedicated thematic page that provides context for the data and associates it with reuses: https://www.data.gouv.fr/fr/pages/donnees-de-forte-valeur/
+- A progress tracking dashboard: https://ouverture.data.gouv.fr/donnees_de_forte_valeur
+- A tag: https://www.data.gouv.fr/fr/datasets/?tag=hvd
+
+Other actions are planned, including on the homepage of data.gouv.fr, as well as an extensive communication series to present the datasets."
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;"Data.gouv.fr team uses Matomo to perform log analytics. We also develop tools on python to perform specific logs. Among the logs performed are:
+
+- Dataset view / Dataset downloads / dataset reuse
+- Classic SEO statistics: Visits / behaviors on the website / Bounce rate / number of clicks / acquisition / keywords
+
+These statistics are available on [https://stats.data.gouv.fr](https://stats.data.gouv.fr/) and have been freely available for several years on [stats.data.gouv.fr](https://stats.data.gouv.fr/).";Complement;Yes;See https://www.data.gouv.fr/fr/dashboard/ for a simple public dashboard.
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Confirm;;
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;"Data.gouv.fr team uses Matomo to perform log analytics. We also develop tools on python to perform specific logs. Among the logs performed are:
+
+- Dataset view / Dataset downloads / dataset reuse
+- Classic SEO statistics: Visits / behaviors on the website / Bounce rate / number of clicks / acquisition / keywords
+
+These statistics are available on [https://stats.data.gouv.fr](https://stats.data.gouv.fr/) and have been freely available for several years on [stats.data.gouv.fr](https://stats.data.gouv.fr/).";Complement;Yes;We provide a public dashboard on every objects on the plateform (datasets, reuse, organisations) and a global dashboard : https://www.data.gouv.fr/fr/dashboard/ We also work on impact indicators that are more relevant to understand users and track our goals than traffic : https://www.data.gouv.fr/fr/datasets/indicateurs-dimpact-de-data-gouv-fr/
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;"We apologize for the confusion.
+
+Developments on data.gouv.fr are done in an agile manner and are primarily guided by:
+
+1. User Feedback
+
+The platform is primarily built based on user feedback, which comes from several sources:
+
+- User tests and interviews
+- Interviews serve to:
+- Conduct forward-looking research and update the vision: maintaining a broad view of the users' context, their needs, sector evolution, and usage trends, rather than focusing solely on ongoing and planned work.
+- Prepare for a future project that hasn't been tackled yet, to understand current usage, identify user problems, gather test data, and validate or invalidate proposed features.
+
+- Tests serve to:
+- Identify usability issues before coding, understand how the application is used, and detect its shortcomings.
+- Test planned changes at a lower cost using more or less finished and interactive mockups before coding.
+- Verify, once the changes are in production, whether they work ""as expected"".
+
+Both approaches are essential for prioritizing upcoming work, limiting the influence of personal biases. Ideally, multiple elements or hypotheses are tested during a session with a user (as organizing it is time-consuming), and an ""interview"" part is included in the tests (with questions beyond what's on the screen).
+
+- Support feedback
+- Feedback received by the support team
+The support team is in direct contact with users and regularly receives valuable feedback. However, it's important to note that this feedback mostly comes from data producers, who represent only a portion of our users and whose needs may sometimes conflict with those of data reusers.
+- GitHub tickets
+Some users, often advanced users or partners, propose improvements via GitHub.
+- Feedback from social media and specialized platforms
+Insights can often be gleaned from community discussions on platforms like teamopendata, Twitter, or LinkedIn. However, it's crucial to ensure the representativeness of this feedback compared to the rest of our users to avoid responding only to the loudest voices.
+
+2. Usage Metrics
+
+We monitor usage metrics, such as platform activity (views, downloads, data previews) and catalog evolution (data quality improvement, resource type evolution), to identify trends and ensure that our actions are heading in the right direction. However, we place greater importance on impact indicators (see below).
+
+3. Team Feedback
+
+The team is also a critical source for prioritization. While user feedback and usage should remain our guiding star, it's crucial to consider team feedback, especially for:
+
+- Understanding the complexity and technical debt induced by developments
+- Facilitating the work of the team (both the development team and the support team)
+- Building a shared vision and ensuring team motivation
+
+4. Other Types of Feedback
+
+data.gouv.fr operates in a complex environment where feedback and directives can come from many sources (political mandates, ministries, management, European partners). This feedback must also be carefully considered and sometimes addressed strategically, even if it doesn't align perfectly with the product vision.
+
+This working methodology does not prevent data.gouv.fr from having a roadmap.
+
+The roadmap of data.gouv.fr serves as a guiding thread for the team and facilitates interactions with stakeholders. The team aims to be agile, so the roadmap is not set in stone and is not tied to specific dates or fixed deliverables.
+
+Mission and Impact Objectives
+
+Above all, the team pursues a mission and impact objectives.
+
+Our mission is to promote the reuse of public data. This mission is broken down into objectives and impact indicators.
+
+1. Improve the discoverability of open data
+2. Promote the quality of open data
+3. Encourage the reuse of open data
+
+Rituals
+
+In practice, it is the product owner's responsibility to synthesize needs and represent the user's voice within the team.
+We work in two-week sprints, where we plan the tasks to be completed.
+
+The goal is to assume deliberate prioritization by asking, what evolution of the application will bring the most value to the user at this moment? This also involves saying no regularly (or, at worst, ""later"") to protect the interests of both the user and the team, and ultimately to ensure that we remain aligned with the product vision.
+
+We also strive to design features that are as ""small"" as possible.
+
+The larger a feature or evolution is:
+
+- the more likely we are to get stuck in an endless tunnel
+- the more bugs we'll have to deal with
+- the longer it will take to put into production, delaying value delivery to the user
+- the longer it will take to get feedback on usage
+- the higher the risk of having worked for nothing
+
+We also aim to have the shortest feedback loop possible: changes are rolled out quickly because they are small and non-parallelized, tests are systematic, and usage and impact are measured. All of this helps us learn as quickly as possible whether the change effectively improves the product, and to gain more insight into user behavior, their expectations, etc., and ultimately to learn how to improve the product.
+
+"
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;"We apologize for the confusion.
+
+Among the activities undertaken to promote the platform, we can mention:
+
+Our actions on social media, our blog, and our newsletter, which aim to promote activity on the platform and best practices in open data:
+
+- Twitter (36k followers)
+- LinkedIn (11k followers)
+- Mastodon (2.2k followers)
+- Our newsletter (+8,000 subscribers)
+
+Our events, such as the public demo organized every six months, where we share progress and upcoming priorities (around 200 participants on average), or events related to open data (e.g., a hackathon on Météo-France data).
+
+Our data literacy programs, like the Open Data University:
+
+The Open Data University offers data training institutions the opportunity to engage their students in challenges that address social and environmental issues through the reuse of open data. Over 100 institutions are partners, and we hope to involve more than 3,000 students in the next season.
+
+We also regularly give presentations on open data and the platform to public officials or within educational institutions (schools, universities, etc.)."
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;"We track the keywords searched using our traffic monitoring tool, Matomo.
+
+However, this is not our main priority, as we have observed that the majority of users come from search engines like Google rather than our internal search engine. Tracking the most popular datasets is often more insightful for identifying trends.
+
+On the other hand, we display a dedicated form when a search yields few or no results. This allows us to identify datasets that need to be opened or are poorly documented and therefore don't rank well in search results, based on user feedback.
+
+We also occasionally monitor the use of filters.
+
+Fun fact: one year, we identified the word ""goat"" as one of the most searched terms on the platform. After investigating, we discovered that a question in the national digital education program PIX, mandatory for middle school students, asked them to find the number of goats in a department using data.gouv.fr."
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"We closely monitor the most viewed pages and the most popular new content. For example, a top 10 list is displayed daily on the team's communication tool.
+
+This allows us to identify trending topics to develop further (e.g., writing a dedicated article or highlighting specific datasets).
+
+It also helps us determine when data exploration is relevant. For instance, some datasets are very popular because users are often looking for information rather than raw data. This insight helps us decide which datasets to redirect users to or when to create a dedicated data exploration.
+
+For example, on the dataset of deaths, we display an information banner to redirect users who are looking for a specific death record rather than the entire database. In 2024, 38% of users who visited this dataset clicked on the link to the dedicated data exploration, allowing them to conduct a more specific search.
+
+The five datasets that regularly appear in the top are:
+
+- Fichier des personnes décédées (File of deceased persons)
+- Demandes de valeurs foncières (Requests for property values)
+- Répertoire national des associations (National directory of associations)
+- Base SIRENE des entreprises et de leurs établissements (SIREN, SIRET)
+- Liste publique des organismes de formation (L. 6351-7-1 of the Labor Code)
+
+It's worth noting that some datasets may generate a lot of traffic but are strongly tied to current events (e.g., datasets on elections, fuel prices, or COVID-19 data).
+
+We also monitor traffic on data reuses for the same reasons."
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;"We launch in 2021 a new search engine.
+On top of that, the team is always working on the curation of the datasets on the portal and do their best to prevent inappropriate content (publicity mainly).
+
+From the [platform's activity report](https://agarrone.github.io/public-files/moderation.pdf) which is sent to him every morning the data editor selects on a daily basis the most relevant datasets to highlight on the home page and on the different thematic pages. On top of that we work on the improvement of the search engine, for example:
+
+- the tag system of the datasets makes it possible to optimize the search
+- the ""highlight"" button for the platform administrator allows to bring up a data set in the ranking
+
+We also carry out technical developments, which are based on log analysis:
+
+[Keep track of udata search results performances](https://github.com/etalab/datagouv-search-indicator)
+
+In order to highlight the key datasets published on the platform, we offer editorial content:
+
+- We publish an [article every month](https://www.data.gouv.fr/fr/posts/suivi-des-sorties-mai-2020/) to showcase the most important publications (datasets or reuses) during the last month
+- We offer the subscription to a [newsletter](https://infolettres.etalab.gouv.fr/subscribe/r1aq92xnj) .
+- We publish articles on [Etalab's blog](https://www.etalab.gouv.fr/) in order to make some popular publications visible.
+- Other articles about new data sets are posted [here](https://www.data.gouv.fr/fr/posts/)
+- We highlight specific content on our [social network](https://twitter.com/datagouvfr)
+- Users receive notifications when new data sets are available on the national portal (RSS, ATOM feeds, email notifications etc)";Confirm;;
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;Metadata are available online for each dataset. They are listed in the information section. See example;Confirm;;
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";all public sector data providers;"All public sector providers contribute to the portal:
+
+- The central administration: ministries and its operators
+- The territorial administration: regions, department and cities
+
+Examples:
+
+- [Ministry](https://www.data.gouv.fr/fr/organizations/ministere-de-l-interieur/)
+- [Operator](https://www.data.gouv.fr/fr/organizations/ademe/)
+- [Region](https://www.data.gouv.fr/fr/organizations/region-ile-de-france/)
+- [Department](https://www.data.gouv.fr/fr/organizations/departement-du-loiret/)
+- [City](https://www.data.gouv.fr/fr/organizations/ville-d-issy-les-moulineaux/)****
+
+Each public organization can contribute directly to the portal (by direct upload or by API) or publish their data on their own portal. When they do publish on their own portal, they have the possibility to be harvested by the national portal (data.gouv.fr). Each organization can ask support from the national portal team.";Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;There is a team within Etalab that is fully dedicated to supporting data providers in setting up and implementing an open data strategy, including publication on the national portal data.gouv.fr. The team routinely provides support to data providers, and contributes to the documentation of the platform.;Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;"There are a lot of open data portal in France.
+Relevant ressources : 
+
+- https://open-collectivites.fr/plateformes-open-data-locales/
+- https://airtable.com/shrWxHPi2XjLu9xtM/tblwklJPsyayeH5lX";Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";all datasets;;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;"A strong focus has been put on dynamic data lately in particular on data regarding the epidemic which are automaticaly published every day. 
+
+The best achievements on real time data have been achieved on [transport data](https://transport.data.gouv.fr/datasets?filter=has_realtime&type=public-transit#datasets-results).
+
+The transport.data.gouv.fr task force deploys special efforts to promote real-time data. This includes [documentation](https://doc.transport.data.gouv.fr/producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun) on standardisation, an [inventory of real time](https://transport.data.gouv.fr/real_time) data yet to be standardized, and [discussion with stakeholders](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/20-09-2018-transport-regulier-temps-reel)
+
+There are other examples such as [data on air quality](https://www.data.gouv.fr/fr/datasets/donnees-temps-reel-de-mesure-des-concentrations-de-polluants-atmospheriques-reglementes-1/) or [biodiversity data](https://www.data.gouv.fr/fr/datasets/description-des-especes-de-faune-et-flore-du-parc-national-des-ecrins/) or [tourism data](https://www.data.gouv.fr/fr/datasets/datatourisme-la-base-nationale-des-donnees-du-tourisme-en-open-data/) for instance.";Confirm;;
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;Yes;"Everyone can publish data.gouv.fr. [Individuals] (https://www.data.gouv.fr/fr/users/christian-quest-2/datasets/)) can publish their own datasets on their own page. Also, anyone can publish reuses or offer a reprocced data set or other ressources on another dataset page. [Example] (https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/) : see “[reuses] (https://www.data.gouv.fr/fr/reuses/covid-19-en-france-au-06-juillet-2020-surveillance-des-entrees-hospitalieres-et-des-tests-de-depistage/)”and “[ressources communautaires] (https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/#resource-community-9cbf25d2-2ccf-4dd9-97ac-439fb8e58f6b)”)
+
+Publishers are distinguished by a certification label."
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;Regarding open data, every stakeholder have a transparent vision over the data requests and the process of publication : ouverture.data.gouv.fr;Complement;Yes;We plan to use data.gouv.fr as the inventory for all public data : https://www.data.gouv.fr/fr/pages/roadmap/
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;"First and foremost [data.gouv.fr](http://data.gouv.fr) missions are stated in the law : [https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000024072788](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000024072788)
+
+[data.gouv.fr](http://data.gouv.fr) is developed with an agile methodology and therefore doesn’t have a strict roadmap with a timeline. 
+However we have a general strategy with a clear vision on where we want to go. 
+We also have a list of EPICS which are importants issues we want to tackle.
+
+The main next improvements can be found here : https://www.data.gouv.fr/fr/pages/roadmap/"
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"The portal, Etalab, and some verticals are present and active on social media :
+
+- [Etalab on twitter](https://twitter.com/Etalab)
+- [Data.gouv.fr on twitter](https://twitter.com/datagouvfr)
+- [Data.gouv.fr on linkedin](https://www.linkedin.com/company/93866107/admin/)
+- [DINUM on twitter](https://twitter.com/_DINUM)
+- [Geo.data.gouv.fr on twitter](https://twitter.com/geodatagouv)
+- [Transport.data.gouv.fr on twitter](https://twitter.com/transportdatafr)
+- [Etalab on Linkedin](https://www.linkedin.com/company/etalab/)
+- [Data.gouv.fr on Github](https://github.com/etalab/data.gouv.fr)
+- [Etalab on Facebook](https://www.facebook.com/etalab/)
+- [Etalab on Mastodon](https://mastodon.etalab.gouv.fr/@datagouvfr)";Change;Yes;"https://twitter.com/datagouvfr; https://fr.linkedin.com/company/data-gouv-fr; https://social.numerique.gouv.fr/@datagouvfr"
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;" - [https://github.com/etalab](https://github.com/etalab/)
+- [https://github.com/opendatateam/](https://github.com/opendatateam/)
+- [https://github.com/opendatateam/udata/](https://github.com/opendatateam/udata/)
+- [https://github.com/etalab/udata-gouvfr/](https://github.com/etalab/udata-gouvfr/)
+- [https://doc.data.gouv.fr/](https://doc.data.gouv.fr/)
+- [https://guides.etalab.gouv.fr/](https://guides.etalab.gouv.fr/)";Change;Yes;"https://github.com/datagouv ; https://github.com/opendatateam/udata"
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;"[Statistiques de Data.gouv.fr](https://stats.data.gouv.fr/): among the information you can find the number of visitors and how these changed over time
+
+On top of that we :
+
+- run statistics on the uses of the APIs
+- Publish the [catalog of data.gouv.fr](https://www.data.gouv.fr/fr/datasets/catalogue-des-donnees-de-data-gouv-fr/) as a dataset. The latter provides information on the list of datasets, resources, reuses, organizations, tags and discussions published on the portal.";Complement;Yes;We also have a private internal dashboard to monitor a lot of KPI (evolution of metadata, reuses published, support tickets etc.) 
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;"Data publisher have several tools to monitor the main performance of their metadata or data features:
+
+**Stats.data.gouv.fr**
+
+Every publisher can monitor the number of visit of each dataset they have published [here](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=1&period=range&date=previous30#?idSite=1&period=range&date=previous30&category=General_Actions&subcategory=General_Pages)
+
+**Quality of the metadata**
+
+Any published dataset on the platform has a meta data quality checklist in their admin dashboard page. The questions are:
+
+- Is the dataset described?
+- Are keywords added?
+- Is the format opened?
+- Are discussions opened?
+- Is the dataset up to date?
+- Is the dataset available?
+
+When a criterion is not met, a scheme indicates it to the producer.";Confirm;;

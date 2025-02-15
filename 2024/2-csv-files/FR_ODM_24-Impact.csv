@@ -1,0 +1,641 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"In France, according to a broad definition that is commonly accepted, “reuse” refers to the use of public data by third parties for purposes other than the public service mission for which the data was produced or received (this definition has been recalled here : (https://www.data.gouv.fr/fr/posts/nos-reflexions-sur-les-reutilisations-des-donnees-ouvertes/).
+
+This definition stems from the Code of Relations between the Public and the Administration : “Public information contained in documents communicated or published by the administrations mentioned in the first paragraph of article L. 300-2 may be used by any person who wishes to do so for purposes other than those of the public service mission for which the documents were produced or received.” (https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033219044). This definition is similar to the PSI Directive definition : “Public sector bodies collect, produce, reproduce and disseminate documents in order to fulfil their public service mission. The use of these documents for other purposes constitutes re-use.”
+
+The complexity and the need to clarify the definition of reuse has been emphasised in the literature, particularly with respect to research data, a key issue being the distinction between use and reuse.
+
+Besides that definition, more restrictive approaches have also emerged : some consider that only perennial uses of data are reuses while others consider any use of data as reuse.
+
+In our day to day operations, any exploitation of data in order to obtain information is considered as reuse, whether this exploitation is freely accessible or not : following that definition, a use of private data or a data journalist’s work to prepare for an investigation will be considered as reuse.";Confirm;;;;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;"In France, quantitative and qualitative processes have been implemented to grasp the level of open data re-use :
+
+- The monitoring of datasets metrics through the national open data portal [data.gouv.fr](http://data.gouv.fr/) : datasets visit and download metrics as well as the metrics on reuses published are tracked to understand which datasets are the most popular and to follow popularity dynamics (https://stats.data.gouv.fr/). We are currently working on a new interface to showcase those metrics but also trends and dynamics : [http://activites-datagouv.app.etalab.studio/](http://activites-datagouv.app.etalab.studio/)
+- The monitoring of reuses referenced on the national open data portal [data.gouv.fr](http://data.gouv.fr/) ([https://www.data.gouv.fr/fr/reuses/)](https://www.data.gouv.fr/fr/reuses/)) : reusers are encouraged to publish their reuse work linked to a dataset, and their publications are monitored by the [data.gouv.fr](http://data.gouv.fr/) team on a daily basis and also allow data producers to have visibility on the reuses developed from their open data. To this day, more than 3 000 reuses have been shared on the [data.gouv.fr](http://data.gouv.fr/) portal and we are working on engaging more reusers to publish their work in order to track them better, for example with a custom user flow : [https://www.data.gouv.fr/fr/pages/onboarding/reutilisateurs/](https://www.data.gouv.fr/fr/pages/onboarding/reutilisateurs/)
+- Interviews with data producers and data reusers : the [data.gouv.fr](http://data.gouv.fr/) team regularly interviews data producers and data reusers to identify emblematic reuses on important datasets and gather information about them. Part of the learnings gathered from those interviews can be found here : [https://www.data.gouv.fr/fr/posts/comment-ladministration-utilise-les-donnees-publiques-lexemple-des-startups-detat/](https://www.data.gouv.fr/fr/posts/comment-ladministration-utilise-les-donnees-publiques-lexemple-des-startups-detat/) ; [https://www.data.gouv.fr/fr/posts/comment-les-donnees-de-transport-contribuent-a-ameliorer-la-mobilite-et-laction-publique/](https://www.data.gouv.fr/fr/posts/comment-les-donnees-de-transport-contribuent-a-ameliorer-la-mobilite-et-laction-publique/) ; [https://www.data.gouv.fr/fr/posts/comment-lopen-data-devient-un-outil-de-formation-essentiel-dans-lenseignement-superieur](https://www.data.gouv.fr/fr/posts/comment-lopen-data-devient-un-outil-de-formation-essentiel-dans-lenseignement-superieur) and more detailed here : [https://www.data.gouv.fr/fr/datasets/r/a61e1fcc-cd61-46bd-a6c5-af94cb9f8459](https://www.data.gouv.fr/fr/datasets/r/a61e1fcc-cd61-46bd-a6c5-af94cb9f8459)
+- Surveys to gather reuse information from reusers : numerous data producers conduct those type of surveys, namely the Ministry of Culture who has carried out a public consultation on the reuse of cultural public data : [https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Actualites/Open-data-decouvrez-les-resultats-de-la-consultation](https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Actualites/Open-data-decouvrez-les-resultats-de-la-consultation)
+- The animation of communities, that can be done at the level of an administration or with an interdepartmental scope.";Confirm;;;;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";yes;"Public bodies are highly encouraged to monitor the re-use of their own published data.
+
+First, while helping data producers in opening their data, Etalab strongly advocates for the monitoring of one’s published data, emphasising the benefits of doing so. Parts of our arguments are available here : (https://www.data.gouv.fr/fr/posts/quel-suivi-des-usages-des-donnees-ouvertes/).
+
+Etalab’s strategy for the monitoring of reuses is one where we aim to empower data producers in doing so. Therefore, our efforts are dedicated to providing them with the help to measure reuse, thus incentivising them :
+
+- We provide them with tools, namely metrics and notifications on new reuses published (https://www.data.gouv.fr/en/datasets/catalogue-des-donnees-de-data-gouv-fr/), and we are today working on making them even more accessible to them : https://www.linkedin.com/posts/antonin-garrone-8272bb154_nous-sommes-en-train-de-travailler-sur-la-activity-7043991572467601409-LvWL/?utm_source=share&utm_medium=member_desktop.
+- We provide them with methodological guidelines on how to measure reuse : https://etalab-2.gitbook.io/guides/publier-des-donnees/guide-qualite/ameliorer-la-qualite-dun-jeu-de-donnees/connaitre-et-suivre-les-usages-dun-jeu-de-donnees
+
+To deepen this approach, we interviewed data producers to understand how we can better help them follow their open data reuses. Insights are in this study : https://www.data.gouv.fr/fr/datasets/r/a61e1fcc-cd61-46bd-a6c5-af94cb9f8459.
+
+We also have programs that promote the measurement of reused data.
+
+Etalab supports administrations in measuring data that is reused on a daily basis. In addition, specific programs for transforming public administration through data enable the importance of open data to be introduced and the need to measure reuse :
+
+- The program “[Entrepreneurs d’intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/)” creates new opportunities to hire civil servants with high level digital skills within the administration, to improve public service mission and to transmit new skills in public organisation. The proposed challenges are often based on the use of data to better implement public policies. Many challenges have an open data component. In this perspective, the EIG programme emphasises the need to monitor the reuse of open data.
+- The “Lab IA” program assists administrations in the use of their data thanks to data sciences and artificial intelligence. Some of the projects have an open data component. In this perspective, the programme emphasises the need to monitor the reuse of open data.";Complement;;Yes. - First, public statistics that are available on the portal: Public Statistics Guide - Second, our strategy is to empower data producers in measuring usage. We produce recommendations and guides to this end: Improving Data Quality Continuously;;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;We monitor the usage of high-value data by relying on statistics and reuses. We plan to conduct surveys by data theme, as we have done for the Public Data Service.;;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"The Open Data Mission led by MP Eric Bothorel defines four impact areas for open data : scientific as a vector of knowledge, economical as a driver of innovation, democratic to improve public service and political to restore people’s confidence in public action (https://www.gouvernement.fr/upload/media/default/0001/01/2020_12_rapport_-_pour_une_politique_publique_de_la_donnee_-_23.12.2020_.pdf) : p.22-23). This view is in line with the ministerial strategy on open data, which is focused on openness i.e. more public open data to foster innovation and transparency, to enhance the external evaluation of governmental policy and the democratic debate. In this regard, the final report of the Open Data Mission recommends to assess the economical, social and scientific impact of the opening and sharing of data and source codes (https://www.gouvernement.fr/upload/media/default/0001/01/2020_12_rapport_-_pour_une_politique_publique_de_la_donnee_-_23.12.2020_.pdf) : p.13).
+
+The vision previously detailed is embraced within Etalab, as we consider that open data impact is manifold and can be measured through different ways.
+
+The four impact areas can be translated in three kind of audiences :
+
+- Administrations that improve the delivery of public services
+- Citizens who benefit from greater transpaency
+- Companies, NGOs, researchers, etc. who use data to gain knowledge and create new innovative products and services.
+
+As a final remark, the impact of open data can be measured both qualitatively and quantitatively, in a complementary way : we thus carry out both an analysis of quantitative metrics on our national open data portal data.gouv.fr and of qualitative impact by interviewing portal users, data producers and reusers.
+
+In the official interministerial data administration framework (https://static.data.gouv.fr/resources/politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources-15-feuilles-de-route-ministerielles/20210927-160143/cadre-interministeriel-donnee.pdf), the interministerial director for digital affairs outlines the vision and challenges of data-driven public action. Data is said to be « the strategic asset of the digital revolution », and its impact on public action is broken down into five areas : transparency, production of better public services, efficacy, supportiveness, creation of economic value.
+
+At the request of the Prime Minister, an unprecedented mobilisation has taken place in all ministries about data, algorithms and source codes : together, within a shared interministerial framework, each ministry has defined its strategy in this area and has broken it down into a plan of concrete actions to be implemented over a period of 2 to 3 years. The 15 ministerial roadmaps on data, algorithms and source codes are available here (https://www.data.gouv.fr/fr/datasets/politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources-15-feuilles-de-route-ministerielles/) and the list of actions decided by the ministries in the framework of the ministerial roadmaps is available in open data here (https://www.data.gouv.fr/fr/datasets/liste-des-actions-prises-par-les-ministeres-dans-le-cadre-des-feuilles-de-routes-ministerielles/). Each ministerial roadmap specifies the impact of open data in their respective field : for example, the Ministry of Justice has defined a list of impact indicators, the Ministry of Ecological Transition has outlined the specific impact of open data on the environment, etc.";Complement;Yes;We have implemented specific impact indicators to measure the impact of data.gouv.fr, which is an indirect way of measuring the impact of open data.;;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;"Etalab has developed a systematic impact assessment methodology. This methodology proposes to estimate the impact of open data by examining four different levels or layers :
+
+- First level : raw data itself : number of datasets published, downloaded, etc. For this first level, we analyse visits to dataset pages, datasets downloads, etc. by using data.gouv.fr metrics available on [stats.data.gouv.fr](http://www.stats.data.gouv.fr/). We are then able identify datasets with the highest impact and the ones that are highly demanded. The [data.gouv.fr dataset catalogue](https://www.data.gouv.fr/fr/datasets/catalogue-des-donnees-de-data-gouv-fr/) also provides visibility on published datasets with their associated metadata and metrics. This provides a more global knowledge on user behavior on the national platform.
+- Second level : direct uses of the data : number of reuses on datasets. For this second level, we examine how many reuses are known for each dataset and their nature.
+- Third level : indirect uses of raw data : usages of the reuses developed from open data. For this third level, we investigate how much open data reuses are themselves used (this is sometimes impossible to know).
+- Fourth level : externalities : societal and economic impacts of open data. For this fourth level, we document the impacts on the datasets for which we have observed high impact in a structured assessment report : general description, reuser, value proposition, datasets used, partners involved, results, next steps and learnings, etc.
+
+This methodology is presented and detailed in a working paper exploring how to measure open data impact : https://www.data.gouv.fr/fr/datasets/r/a61e1fcc-cd61-46bd-a6c5-af94cb9f8459
+
+We are continuously trying to improve this impact assessment methodology by integrating other countries’ best practices. We have participated in several working groups on this topic and have already presented our approach on numerous occasions, namely [data.europa academy webinar ´Measuring open data Impact in Europe](https://www.youtube.com/watch?v=Cp7-qSNLR1U)";Complement;Yes;"In addition to the platform's impact indicators, we now rely on the outputs, outcomes, and impacts methodology, which is quite similar to our level-based evaluation.
+
+We then break it down by theme.";;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"We are very lucky to have a strong and active civil society in France on open data.
+
+The COVID-19 crisis has been a catalyst for collaboration between government and civil society. Open data made it possible for impactful tools to be built, for example ViteMaDose [https://vitemadose.covidtracker.fr/](https://vitemadose.covidtracker.fr/) that checks for available slots in vaccination centres and is based on the list of said centres, pharmacists and GPs that administer vaccines. The development of the COVID-19 dashboard on the Government website was also a coordinated effort from different actors to create impact : [https://www.etalab.gouv.fr/comment-les-administrations-ont-collabore-a-louverture-des-donnees-du-coronavirus-le-cas-francais](https://www.etalab.gouv.fr/comment-les-administrations-ont-collabore-a-louverture-des-donnees-du-coronavirus-le-cas-francais).
+
+Within the framework of the Open Government Partnership [https://www.modernisation.gouv.fr/nos-actions/gouvernement-ouvert/ouvrir-laction-publique-construisons-ensemble-le-plan-daction-gouvernement-ouvert-2021-2023-de-la-france](https://www.modernisation.gouv.fr/nos-actions/gouvernement-ouvert/ouvrir-laction-publique-construisons-ensemble-le-plan-daction-gouvernement-ouvert-2021-2023-de-la-france), the next French Action Plan is being developed together with governmental actors such as the DITP, Etalab, and cada.fr, civil society associations such as madada.fr and ouvre-boite.org, and journalists. This action plan aims to create impact on important themes for French people : transparency of public action results, environmental issues, local public action, users at the heart of public action, citizen participation, digital inclusion, etc.
+
+In 2022, Etalab has collaborated with Latitudes, a non-profit promoting « Tech for good », to design an « Open Data University » : [https://www.data.gouv.fr/fr/pages/odu/home/](https://www.data.gouv.fr/fr/pages/odu/home/). This program, that aims at teaching higher education students how to reuse open data, provides teachers with high impact open data projects for their students to work on and create impact. This year, 5 projects on high value added datasets have been designed and led to impactful reuses :
+
+- Cycling infrastructures : Students are being asked to find out where to build cycling infrastructures to reduce cycling accidents and improve road safety [https://www.data.gouv.fr/fr/pages/odu/defi_infrastructures-cyclables/](https://www.data.gouv.fr/fr/pages/odu/defi_infrastructures-cyclables/)
+- Energy issues in France : Students are being asked to analyse and make predictions to better understand the possible impacts of the Ukrainian crisis on energy in France : [https://www.data.gouv.fr/fr/pages/odu/defi_energie/](https://www.data.gouv.fr/fr/pages/odu/defi_energie/)
+- Middle school sectors : Students are being asked to design a tool to make it easier for parents to know which middle school to enroll their child in : [https://www.data.gouv.fr/fr/pages/odu/defi_carte-scolaire/](https://www.data.gouv.fr/fr/pages/odu/defi_carte-scolaire/)
+- French recovery plan after the COVID-19 crisis : Students are being asked to assess the extent to which the aid distributed by the State as part of the recovery plan has had an impact on economic activity and/or ecological transition in France : [https://www.data.gouv.fr/fr/pages/odu/defi_france-relance/](https://www.data.gouv.fr/fr/pages/odu/defi_france-relance/)
+- Electric vehicles : Students are being asked to find out whether the distribution of charging infrastructures on the territory correspond to a logic of population distribution and/or road traffic : [https://www.data.gouv.fr/fr/pages/odu/defi_vehicules-electriques/](https://www.data.gouv.fr/fr/pages/odu/defi_vehicules-electriques/)
+
+Through the Accelerator of citizen initiatives [https://citoyens.transformation.gouv.fr/](https://citoyens.transformation.gouv.fr/), Etalab has collaborated with Infoclimat to create impact with weather data and make them more accessible to all : [https://www.infoclimat.fr/](https://www.infoclimat.fr/)";Complement;Yes;"Among projects in France, we can mention:
+
+OpenStreetMap
+OpenFoodFact
+The Open Data University project";;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Change;Yes;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;Yes;"In 2023, the data.gouv.fr team conducted an extensive survey on the impact of open data.
+
+This survey is based on the French methodology for impact measurement and is inspired by European work, particularly the ""Indicators for an Open Data Impact Assessment.""
+
+The study outlines the outputs, outcomes, and impacts for the four dimensions of impact (governmental, environmental, social, economic).
+
+Regarding the outputs, a selection of indicators among those identified by the Commission were selected, including:
+- Number of datasets on the theme
+- Number of new datasets on the theme in 2023
+- Number of views on these datasets in 2023
+- Downloads of these datasets in 2023
+- Number of discussions
+- Number of reuses on the theme
+- Number of new reuses on the theme in 2023
+- Reuses by type
+- Number of views on the reuses in 2023
+- Discussions on the reuses
+
+Regarding the outcomes and impacts, the use cases examined were selected from three main sources:
+- The reuse catalog of the data.gouv.fr platform;
+- The catalog of digital public services developed within beta.gouv.fr;
+- The catalog of research publications on scanr.
+
+And according to three criteria:
+- High potential impact;
+- Availability of resources and information;
+- A balanced distribution in the four impact categories defined by the Open Data Maturity Report.
+
+For each use case, a literature search was conducted and interviews were sometimes conducted with their designers to document the services, the data used, and the impacts created.
+
+The results of this study will be published in 2024 in the form of six articles on data.gouv.fr and consolidated into a more comprehensive paper.
+
+This is not the only study; we can notably mention the work of OpenDataFrance (DataImpact: new edition of the study on the reuse cases of environmental data - Open data france https://opendatafrance.fr/dataimpact-publication/) as well as the book by Dr. in Sociology Samuel Goëta “Les données de la démocratie: open data, pouvoirs et contre-pouvoirs” (https://cfeditions.com/donnees-democratie/) which provides a critical assessment of the impact of open data.";;;
+I8-b;Surveys;new question;new question;Change;Yes;See previous answer;;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;See previous answer;;;
+I8-d;Other;new question;new question;Change;Yes;See previous answer;;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Change;Yes;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;We have a pool of beta testers, carry out regular test and interview and organize public meetup every 3-6 month;;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;Yes;Social media (Twitter, Linkedin, Mastodon) are in center of our editorial strategy we track engagements and reactions and establish KPI;;;
+I9-c;Other;new question;new question;Change;Yes;We developed our own impact indicators acording to our goals : https://www.data.gouv.fr/fr/datasets/indicateurs-dimpact-de-data-gouv-fr/;;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;"The national open data portal data.gouv.fr allows anyone to publish reuses linked to datasets on the portal ([https://www.data.gouv.fr/fr/pages/onboarding/reutilisateurs/#referencer)](https://www.data.gouv.fr/fr/pages/onboarding/reutilisateurs/#referencer)) and the team behind the platform does its best to give incentives for them to do so, as a way to systematically gather re-use cases in one consolidated catalogue. To this day, more than 3000 reuses have been published on the portal and we are working on engaging more reusers to publish their projects, for example with a custom user flow : [https://www.data.gouv.fr/fr/pages/onboarding/reutilisateurs/](https://www.data.gouv.fr/fr/pages/onboarding/reutilisateurs/)
+
+On some thematics, there are more restrictive licence where we track reuse more systematically (i.e. mobility data  : [https://doc.transport.data.gouv.fr/reutilisateurs/utilisation-par-les-reutilisateurs-de-donnees](https://doc.transport.data.gouv.fr/reutilisateurs/utilisation-par-les-reutilisateurs-de-donnees))
+
+From April 18th 2023 to May 15th 2023, OpenDataFrance has launched a national survey to identify open data reuses deployed by local authorities : [https://www.opendatafrance.net/2023/04/12/data-impact-identifions-ensemble-les-cas-dusages-territoriaux-de-donnees/](https://www.opendatafrance.net/2023/04/12/data-impact-identifions-ensemble-les-cas-dusages-territoriaux-de-donnees/).";Confirm;;;;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;"The catalogue of +3000 reuses available on the open data portal data.gouv.fr has been and is now classified according to a taxonomy inspired by other national open data portals’ classifications and by Wikipedia ([https://www.data.gouv.fr/fr/reuses/)](https://www.data.gouv.fr/fr/reuses/))  :
+
+- Health
+- Mobility and transportation
+- Urban planning and housing
+- Food and agriculture
+- Culture and leisure
+- Economy and businesses
+- Environment and energy
+- Employment and training
+- Politics and public life
+- Security
+- Education and research
+- Society and demography
+- Law and justice
+- Open data tools";Confirm;;;;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";yes;"In 2022, Etalab has conducted a thorough study to measure the impact of open data in France. In this study, we carried out the methodology described in question 34 of this questionnaire : we combined quantitative and qualitative approaches by both analysing data.gouv.fr metrics and interviewing with data producers and reusers. Impactful use cases on different impact areas have been identified, reviewed and researched, among which governmental impact. Data on the impact created by open data on governmental challenges is available in this working paper (p.29-30 ; p.40) : : [https://www.data.gouv.fr/fr/datasets/r/a61e1fcc-cd61-46bd-a6c5-af94cb9f8459](https://www.data.gouv.fr/fr/datasets/r/a61e1fcc-cd61-46bd-a6c5-af94cb9f8459).
+
+The FING has also led an impact study on open data. Impact created by open data on governmental challenges is analysed here (from p.18 to p.25) : [https://fing.org/wp-content/uploads/2020/02/Open-Data-impact-bilan-2010-2018-de-l-open-data.pdf#page=18](https://fing.org/wp-content/uploads/2020/02/Open-Data-impact-bilan-2010-2018-de-l-open-data.pdf#page=18).";Complement;Yes;"In 2023, the data.gouv.fr team conducted an extensive survey on the impact of open data.
+
+This survey is based on the French methodology for impact measurement and is inspired by European work, particularly the ""Indicators for an Open Data Impact Assessment.""
+
+The study outlines the outputs, outcomes, and impacts for the four dimensions of impact (governmental, environmental, social, economic).
+
+Regarding the outputs, a selection of indicators among those identified by the Commission were selected, including:
+- Number of datasets on the theme
+- Number of new datasets on the theme in 2023
+- Number of views on these datasets in 2023
+- Downloads of these datasets in 2023
+- Number of discussions
+- Number of reuses on the theme
+- Number of new reuses on the theme in 2023
+- Reuses by type
+- Number of views on the reuses in 2023
+- Discussions on the reuses
+
+Regarding the outcomes and impacts, the use cases examined were selected from three main sources:
+- The reuse catalog of the data.gouv.fr platform;
+- The catalog of digital public services developed within beta.gouv.fr;
+- The catalog of research publications on scanr.
+
+And according to three criteria:
+- High potential impact;
+- Availability of resources and information;
+- A balanced distribution in the four impact categories defined by the Open Data Maturity Report.
+
+For each use case, a literature search was conducted and interviews were sometimes conducted with their designers to document the services, the data used, and the impacts created.
+
+The results of this study will be published in 2024 in the form of six articles on data.gouv.fr and consolidated into a more comprehensive paper.
+
+This is not the only study; we can notably mention the work of OpenDataFrance (DataImpact: new edition of the study on the reuse cases of environmental data - Open data france https://opendatafrance.fr/dataimpact-publication/) as well as the book by Dr. in Sociology Samuel Goëta “Les données de la démocratie: open data, pouvoirs et contre-pouvoirs” (https://cfeditions.com/donnees-democratie/) which provides a critical assessment of the impact of open data.";;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"We focused on two applications that converge towards more effective and efficient public action:
+
+Zero Vacant Housing
+
+Developed by the Ministry of Ecological Transition, Zero Vacant Housing (ZLV) is a tool that helps local authorities identify vacant housing in their territories and then mobilize owners to put these properties back on the market. It was built using the National Buildings Database and the National Condominium Registration Registry. Since its launch, ZLV has facilitated the return of vacant housing to the market with:
+
+- 7,605 housing units that are in the process of being vacated or have already been reoccupied;
+- 7,570 municipalities using the solution, with 27,655 updates to files already carried out.
+
+This return to the market helps create an affordable housing supply, boosts local economic activity related to the construction industry, and reduces the need for new construction.
+
+Go Rénove Bailleurs
+
+Go Rénove Bailleurs is a public service that assists with the energy renovation of buildings for social landlords. It provides them with:
+
+- An overview of their building portfolio and its energy performance;
+- Indicators to assess the opportunity and impact of renovations.
+
+The solution relies heavily on the National Buildings Database. It promotes more renovations, a key public policy priority of the Government (Climate Resilience Law).
+
+Link to the report : https://www.data.gouv.fr/fr/datasets/r/b647386b-b143-4fa3-891e-1ad9d31a19ab";;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"On the transparency and accountability of public administrations, we focused on three uses:
+
+Barometer of the Application of Laws
+
+The Barometer of the Application of Laws, designed within the National Assembly, formats open data such as ""Laws and Decrees of the Official Journal"" to make them more accessible. This service promotes greater transparency regarding the application of laws by allowing measurement of the proportion and timeliness with which the decrees required by a law are published. In 2024, the service recorded:
+
+- 145,538 views of the application rate of a law from its legislative file;
+- 4,188 unique visits to the list of laws.
+
+Camerci
+
+For Camerci, the ""Video Surveillance – Camera Placement"" data was used by a citizen to create a map that allows individuals to request a copy of the surveillance footage in which they appear. This use facilitates the exercise of one's rights and awareness of current legislative provisions.
+
+Responsible Public Procurement and Local Purchasing: Lessons from French Open Data
+
+In this research work, open data from public procurement was utilized to analyze local public purchasing. The results suggest that local purchasing may have protectionist foundations and may not necessarily be the result of environmental concerns. Such analyses align with the issue of citizen oversight of administrative actions enabled by open data.
+
+Link to the report : https://www.data.gouv.fr/fr/datasets/r/b647386b-b143-4fa3-891e-1ad9d31a19ab";;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Examples abound regarding the use of open data in the development of public policies. We have selected three to be examined:
+
+Cartofriches
+
+Developed by Cerema, Cartofriches helps local authorities and other project leaders locate and characterize brownfield sites for reuse. Its features include:
+
+- Visualization of brownfield sites in the territory;
+- Detailed information about each site.
+
+Cerema uses BASIAS and BASOL data to pre-identify brownfield sites. The tool facilitates the reuse of brownfields and thus contributes to reducing land artificialization, with 10,385 brownfields identified.
+
+Banning Cars to Promote Bikes? A Study on the City of Tours
+
+This research article on mobility in the city of Tours uses daily bicycle counter data and climate data to study the effect of closing a bridge to cars on bicycle traffic. The result provides a diagnosis that the local government can use to adapt its mobility policies: the closure is associated with a 7.23% increase in bicycle traffic.
+
+A History of Political Conflict – Elections and Inequalities in France (1789-2022)
+
+The work of two economists (Thomas Piketty and Julia Cagé) combines data on election results (legislative, presidential elections, and referendums for the 36,000 French communes from 1789 to 2022) with socio-demographic indicators to propose an analysis of the social structure of the electorates of different political currents. The reflections developed have greatly contributed to public debate: who votes for whom and why? What are the consequences for democracy?
+
+Link to the report : https://www.data.gouv.fr/fr/datasets/r/b647386b-b143-4fa3-891e-1ad9d31a19ab";;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"They are many examples, for instance : 
+
+Bilan de mon territoireThrough Bilan de mon territoire, Enedis offers local authorities the ability to create a report on the production and consumption of energy in their territory (by sector of activity and production channel). The service is built from its open data. It serves as an interesting decision-making tool, allowing local authorities to adapt their energy transition policies (for example, by targeting buildings for renovation).
+
+Link to the report : https://www.data.gouv.fr/fr/datasets/r/b647386b-b143-4fa3-891e-1ad9d31a19ab";;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";yes;"In 2022, Etalab has conducted a thorough study to measure the impact of open data in France. In this study, we carried out the methodology described in question 34 of this questionnaire : we combined quantitative and qualitative approaches by both analysing data.gouv.fr metrics and interviewing with data producers and reusers. Impactful use cases on different impact areas have been identified, reviewed and researched, among which social impact. Data on the impact created by open data on social challenges are available in this working paper (i.e. p.30-33 ; p.44) : https://www.data.gouv.fr/fr/datasets/r/a61e1fcc-cd61-46bd-a6c5-af94cb9f8459.";Complement;Yes;"In 2023, the data.gouv.fr team conducted an extensive survey on the impact of open data.
+
+This survey is based on the French methodology for impact measurement and is inspired by European work, particularly the ""Indicators for an Open Data Impact Assessment.""
+
+The study outlines the outputs, outcomes, and impacts for the four dimensions of impact (governmental, environmental, social, economic).
+
+Regarding the outputs, a selection of indicators among those identified by the Commission were selected, including:
+- Number of datasets on the theme
+- Number of new datasets on the theme in 2023
+- Number of views on these datasets in 2023
+- Downloads of these datasets in 2023
+- Number of discussions
+- Number of reuses on the theme
+- Number of new reuses on the theme in 2023
+- Reuses by type
+- Number of views on the reuses in 2023
+- Discussions on the reuses
+
+Regarding the outcomes and impacts, the use cases examined were selected from three main sources:
+- The reuse catalog of the data.gouv.fr platform;
+- The catalog of digital public services developed within beta.gouv.fr;
+- The catalog of research publications on scanr.
+
+And according to three criteria:
+- High potential impact;
+- Availability of resources and information;
+- A balanced distribution in the four impact categories defined by the Open Data Maturity Report.
+
+For each use case, a literature search was conducted and interviews were sometimes conducted with their designers to document the services, the data used, and the impacts created.
+
+The results of this study will be published in 2024 in the form of six articles on data.gouv.fr and consolidated into a more comprehensive paper.
+
+This is not the only study; we can notably mention the work of OpenDataFrance (DataImpact: new edition of the study on the reuse cases of environmental data - Open data france https://opendatafrance.fr/dataimpact-publication/) as well as the book by Dr. in Sociology Samuel Goëta “Les données de la démocratie: open data, pouvoirs et contre-pouvoirs” (https://cfeditions.com/donnees-democratie/) which provides a critical assessment of the impact of open data.";;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Atlas Culture des territoires
+
+Offered by the Ministry of Culture, the Atlas Culture des territoires helps understand cultural dynamics. It utilizes public data related to cultural offerings, cultural expenditures, employment and cultural enterprises, as well as socio-economic indicators, to provide:
+
+- An interactive map for visualization;
+- Portrait sheets describing each region.
+
+The mapping of territorial dynamics contributes to identifying localized cultural inequalities and adapting cultural development strategies. The Atlas also enables the general public to understand issues related to cultural policies and participate in public debate.
+
+National Celebrations and Commemorations in France since 1970
+
+This analysis of open data related to celebrations and commemorations, conducted by an archivist, allows visualization of the historical periods involved, the themes commemorated, etc., but most notably reveals numerous representation inequalities: since 1970, only 103 women have been celebrated out of 1,358 individuals (7.5%).
+
+Link to the report : https://www.data.gouv.fr/fr/datasets/r/b647386b-b143-4fa3-891e-1ad9d31a19ab";;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Two use cases illustrate how open data can be mobilized to address urban housing issues:
+
+Résorption bidonvilles
+
+Résorption bidonvilles is a digital public service that enables state services, local authorities, and others to identify, share information, and take action to eliminate slums. It allows users to:
+
+- Consult the list and characteristics of all sites in a territory;
+- Learn about the actions taken;
+- Assist each other with a directory of all users and a forum;
+- Visualize platform data.
+
+Through simplified operational monitoring for public officials and better coordination among stakeholders, the tool accelerates the eradication of slums and improves support for affected populations. Since the platform's launch in 2019, more than 4,000 people have been rehoused (17 sites eliminated in 2022, 28 in 2021, 16 in 2020) and in 2022:
+
+- 3,566 minors were enrolled in school through the school mediation program;
+- 5,461 people received health support in 2022;
+- Over 1,000 people gained employment.
+
+Aux Alentours by MAIF
+
+Aux Alentours by MAIF is a tool developed by the mutual insurance company. It aggregates and maps numerous open data sources (risks, facilities, transport stops, noise exposure, etc.) to enable individuals to better understand the risks associated with their environment and take preventive measures with appropriate advice.
+
+Link to the report : https://www.data.gouv.fr/fr/datasets/r/b647386b-b143-4fa3-891e-1ad9d31a19ab";;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Regarding health and well-being, we focused on two uses: Euros for Docs The association Euros for Docs aims to simplify access to the Transparence Santé database, where industry stakeholders declare all their interests, by cleaning the data and providing a simplified interface. The uses are numerous: - For patients: to learn about their doctor's interests; - For citizens: to understand the industry's lobbying on the health system; - For health professionals: to become aware and participate in the independence of medicine; - For public administrations: to control the independence of health experts; - For journalists and researchers: to conduct investigations and research more easily. Real-time Bathing Water Quality Forecasting Platform Reporting data from the bathing season and public meteorological data are used to feed a machine learning model that estimates the risk of fecal bacterial contamination (up to 5 days in advance, with 4 alert levels). The tool allows local authorities to better manage their bathing sites and enables the public to exercise precaution.
+
+Link to the report : https://www.data.gouv.fr/fr/datasets/r/b647386b-b143-4fa3-891e-1ad9d31a19ab";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Examples abound regarding the use of open data in the field of education and skills. We have selected four for examination:
+
+DiagOriente
+
+DiagOriente is a digital public service that helps young people formalize their skills and professional interests, discover corresponding professions, and find training and/or employment more easily. It relies on data such as job operational requirements, labor market data, and job offers. The service currently has 432,000 users, among whom:
+- 85% realized they had many skills;
+- 75% discovered professions they would like to pursue;
+- 65% completed the process with an engaged professional project.
+
+SupTracker
+
+A personal project by two citizens, SupTracker formats open data related to Parcoursup to allow users to:
+
+- Get information on a training program: applications and admissions, profile of admitted candidates, selectivity indicators, etc.;
+- Compare training programs;
+- Analyze orientation by high school specialties;
+- Explore the distribution of candidates based on their profile: honors in the baccalaureate, scholarship status, etc.
+
+Thanks to the application, students can better inform themselves about the training programs they consider joining (recruitment and selectivity) to formulate coherent orientation projects.
+
+- Analyses based on the social position indices of schools, colleges, and high schools
+
+The social position index of an institution is an indicator summarizing the socio-economic and cultural conditions of the families of the students it welcomes. The associated data, published in 2022 by the Ministry of National Education, have rekindled and enriched the debate on the lack of social mixing in schools. For example:
+
+The newspaper Le Monde wrote an article highlighting socio-economic disparities between public and private middle schools, as well as some neighboring public middle schools;
+The Department of Prospective, Evaluation, and Performance of the Ministry of National Education conducted a study on social disparities between middle schools, in light of the objective of social diversity.
+
+Open Data University Challenges
+As part of the Open Data University, open data becomes a training tool for developing skills and civic engagement among young people. The Open Data University is a program that offers higher education institutions the opportunity to have their students work on open data challenges addressing social and environmental issues. The program is run by the association Latitudes, which collaborates with 100 higher education institutions to integrate social and environmental dimensions into their curricula. In 2023-2024, more than 650 students from 16 institutions were trained by working on open data challenges related to elections, culture, and energy.
+
+Link to the report : https://www.data.gouv.fr/fr/datasets/r/b647386b-b143-4fa3-891e-1ad9d31a19ab";;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";yes;"In 2022, Etalab has conducted a thorough study to measure the impact of open data in France. In this study, we carried out the methodology described in question 34 of this questionnaire : we combined quantitative and qualitative approaches by both analysing data.gouv.fr metrics and interviewing with data producers and reusers. Impactful use cases on different impact areas have been identified, reviewed and researched, among which environmental impact. Data on the impact created by open data on environmental challenges are available in this working paper (p.30-31 ; p.38-39 ; p.41-42 ; p.45) : https://www.data.gouv.fr/fr/datasets/r/a61e1fcc-cd61-46bd-a6c5-af94cb9f8459.";Complement;Yes;"In 2023, the data.gouv.fr team conducted an extensive survey on the impact of open data.
+
+This survey is based on the French methodology for impact measurement and is inspired by European work, particularly the ""Indicators for an Open Data Impact Assessment.""
+
+The study outlines the outputs, outcomes, and impacts for the four dimensions of impact (governmental, environmental, social, economic).
+
+Regarding the outputs, a selection of indicators among those identified by the Commission were selected, including:
+- Number of datasets on the theme
+- Number of new datasets on the theme in 2023
+- Number of views on these datasets in 2023
+- Downloads of these datasets in 2023
+- Number of discussions
+- Number of reuses on the theme
+- Number of new reuses on the theme in 2023
+- Reuses by type
+- Number of views on the reuses in 2023
+- Discussions on the reuses
+
+Regarding the outcomes and impacts, the use cases examined were selected from three main sources:
+- The reuse catalog of the data.gouv.fr platform;
+- The catalog of digital public services developed within beta.gouv.fr;
+- The catalog of research publications on scanr.
+
+And according to three criteria:
+- High potential impact;
+- Availability of resources and information;
+- A balanced distribution in the four impact categories defined by the Open Data Maturity Report.
+
+For each use case, a literature search was conducted and interviews were sometimes conducted with their designers to document the services, the data used, and the impacts created.
+
+The results of this study will be published in 2024 in the form of six articles on data.gouv.fr and consolidated into a more comprehensive paper.
+
+This is not the only study; we can notably mention the work of OpenDataFrance (DataImpact: new edition of the study on the reuse cases of environmental data - Open data france https://opendatafrance.fr/dataimpact-publication/) as well as the book by Dr. in Sociology Samuel Goëta “Les données de la démocratie: open data, pouvoirs et contre-pouvoirs” (https://cfeditions.com/donnees-democratie/) which provides a critical assessment of the impact of open data.";;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"One example of use case : 
+
+Mon Diagnostic Artificialisation
+
+Mon Diagnostic Artificialisation is a digital public service that helps land-use planners monitor the consumption of natural, agricultural, and forest areas and the artificialization of soils in their territory. It offers, through visualizations and calculations based on OCS GE data and ""Consumption of Natural, Agricultural, and Forest Areas"" data:
+
+- Analysis of land consumption over the past 10 years;
+- Estimation of potential trajectories up to 2031.
+
+The tool aims to promote the management of land consumption and the reduction of artificial surfaces, which are essential for biodiversity preservation. To date, 60,559 diagnostics have been consulted and 7,513 downloaded by local authorities, state services, land-use planners, and citizens.
+
+Link to the report : https://www.data.gouv.fr/fr/datasets/r/b647386b-b143-4fa3-891e-1ad9d31a19ab";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Regarding ecological cities, we focused on two use cases: Registre de preuve de covoiturage Designed by the Ministry of Ecological Transition, the Registre de preuve de covoiturage (RPC) helps regions encourage short-distance carpooling. By using a registry that aggregates completed carpooling trips (open) and their certification, it facilitates the distribution of incentives to promote this practice. The service supports the implementation of public policies to develop daily carpooling, addressing several issues: - Environmental issues: each kilometer carpooled per passenger avoids the emission of 195g of CO2 equivalent (Ademe); - Economic and social issues: carpooling provides a solution for the 13 million French people facing ""mobility poverty."" Since 2019: - 20,303,882 trips have been recorded; - 7.4 million incentivized trips were generated from campaigns configured on the RPC; - With an average of 2.21 people per vehicle. Analysis and Prediction of Pedestrian Flows in a Multimodal Transport Hub Using Multi-Source Data This research leveraged open mobility data to understand the dynamics of pedestrian flows in the transport spaces of the La Défense district and forecast short-term crowding. These forecasts could enhance passenger information for public transport users or enable ""on-demand"" regulation of transport services, guiding their usage effectively.
+
+Link to the report : https://www.data.gouv.fr/fr/datasets/r/b647386b-b143-4fa3-891e-1ad9d31a19ab";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Examples abound regarding the use of open data in adaptation to climate change and related disasters. We have selected three for examination:
+
+Pyronear
+
+Pyronear is an association that aims to democratize open solutions for combating forest fires. It is developing a forest fire risk score using various open data sources such as meteorological data, soil moisture index, and forest fire databases in France. This risk score aims to enable early detection of fires, allowing for faster and more effective intervention by fire and rescue services.
+
+VigiFrance
+
+VigiFrance is a personal project by a citizen. The tool centralizes and synthesizes a set of open data related to natural, technological, and health risks to provide clear and localized information quickly. It includes data on air quality from Atmo France, the National Address Database, and weather alerts from Météo-France. Citizens can thus monitor risk evolution near their location, stay informed during a disaster, and adopt appropriate behaviors.
+
+Projects conducted during the Météo-France Open Data Hackathon
+The data.gouv.fr team, in conjunction with Météo-France, organized a hackathon on public meteorological data in April 2024. During this event, numerous projects related to climate change were developed:
+
+- OpenGustMap: Estimation of observed wind speed at any place and time in the past to help insured individuals assert their rights under storm guarantees;
+- Franceinfo: Comparison of current weather with historical temperatures over the past decades in Overseas France;
+- ClimateViz: Public platform for creating customizable indicators based on historical weather data and climate forecasts;
+- SafeCoast: Alerts and analyses of extreme events at observation stations for better protection of French coasts against climate risks;
+- Voyageurs du climat: An exploration tool that allows observing the evolution of weather phenomena in France and comparing certain indicators over time. 
+
+Link to the report : https://www.data.gouv.fr/fr/datasets/r/b647386b-b143-4fa3-891e-1ad9d31a19ab";;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"On the theme of ""energy consumption and transition to renewable energies,"" we focused on one application in particular:
+
+Nos Gestes Climat
+Nos Gestes Climat, designed by ADEME, allows every citizen to understand their carbon footprint from consumption. Its features, developed using data from the carbon database, include:
+
+- Calculating an individual's carbon footprint by major consumption categories (food, transport, housing, etc.);
+- Presenting concrete actions to reduce it, personalized to their usage.
+
+The service encourages action towards reducing greenhouse gas-emitting activities. It has already recorded 5,994,067 visits and 1,729,393 completed simulations.
+
+Link to the report : https://www.data.gouv.fr/fr/datasets/r/b647386b-b143-4fa3-891e-1ad9d31a19ab";;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";yes;"In 2022, Etalab has conducted a thorough study to measure the impact of open data in France. In this study, we carried out the methodology described in question 34 of this questionnaire : we combined quantitative and qualitative approaches by both analysing data.gouv.fr metrics and interviewing with data producers and reusers. Impactful use cases on different impact areas have been identified, reviewed and researched, among which economic impact. Data on the economic impact of open data are available in this working paper (i.e. p.43 ; p.46-47) : [https://www.data.gouv.fr/fr/datasets/r/a61e1fcc-cd61-46bd-a6c5-af94cb9f8459](https://www.data.gouv.fr/fr/datasets/r/a61e1fcc-cd61-46bd-a6c5-af94cb9f8459).
+
+The FING has also led an impact study on open data. Impact created by open data on the economy are analysed here (from p.13 to p.18) : [https://fing.org/wp-content/uploads/2020/02/Open-Data-impact-bilan-2010-2018-de-l-open-data.pdf#page=13](https://fing.org/wp-content/uploads/2020/02/Open-Data-impact-bilan-2010-2018-de-l-open-data.pdf#page=13).";Complement;Yes;"In 2023, the data.gouv.fr team conducted an extensive survey on the impact of open data.
+
+This survey is based on the French methodology for impact measurement and is inspired by European work, particularly the ""Indicators for an Open Data Impact Assessment.""
+
+The study outlines the outputs, outcomes, and impacts for the four dimensions of impact (governmental, environmental, social, economic).
+
+Regarding the outputs, a selection of indicators among those identified by the Commission were selected, including:
+- Number of datasets on the theme
+- Number of new datasets on the theme in 2023
+- Number of views on these datasets in 2023
+- Downloads of these datasets in 2023
+- Number of discussions
+- Number of reuses on the theme
+- Number of new reuses on the theme in 2023
+- Reuses by type
+- Number of views on the reuses in 2023
+- Discussions on the reuses
+
+Regarding the outcomes and impacts, the use cases examined were selected from three main sources:
+- The reuse catalog of the data.gouv.fr platform;
+- The catalog of digital public services developed within beta.gouv.fr;
+- The catalog of research publications on scanr.
+
+And according to three criteria:
+- High potential impact;
+- Availability of resources and information;
+- A balanced distribution in the four impact categories defined by the Open Data Maturity Report.
+
+For each use case, a literature search was conducted and interviews were sometimes conducted with their designers to document the services, the data used, and the impacts created.
+
+The results of this study will be published in 2024 in the form of six articles on data.gouv.fr and consolidated into a more comprehensive paper.
+
+This is not the only study; we can notably mention the work of OpenDataFrance (DataImpact: new edition of the study on the reuse cases of environmental data - Open data france https://opendatafrance.fr/dataimpact-publication/) as well as the book by Dr. in Sociology Samuel Goëta “Les données de la démocratie: open data, pouvoirs et contre-pouvoirs” (https://cfeditions.com/donnees-democratie/) which provides a critical assessment of the impact of open data.";;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"We focused on two services that converge towards job creation and access:
+
+La Bonne Alternance
+
+La Bonne Alternance is a digital public service that facilitates the connection between young people, apprenticeship training centers (CFA), and companies. Its features include:
+- A service for posting job offers accessible to small and medium-sized enterprises (SMEs) and CFAs;
+- A service for connecting young people with CFAs;
+- A service for sending applications;
+- Modules for supporting contact with a CFA, searching for a host company, etc.
+
+The tool relies on data from apprenticeship training offers and job offers. Since the beginning of 2024:
+
+- 12,171 job offers have been posted;
+- 538,745 applications have been sent;
+- 48,942 contacts with CFAs have been made.
+
+Emplois de l’inclusion
+
+Developed by the GIP de l’inclusion, ""Les emplois de l’inclusion"" is a service that utilizes open employment data and connects job seekers with social enterprises. It enables the most vulnerable individuals to gain access to employment and training, facilitating their integration into society through work. Through this service:
+
+- 1,150,687 candidates have been hired;
+- 5,386 social enterprises have recruited.
+
+Link to the report : https://www.data.gouv.fr/fr/datasets/r/b647386b-b143-4fa3-891e-1ad9d31a19ab";;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"On the theme of ""innovation and adoption of new technologies,"" we focused on two use cases:
+
+FireCaster
+
+FireCaster is a research project, notably supported by CNRS, aiming to create a virtual reality fire simulation tool. It includes:
+
+- An hourly weather fire index for forest fire risk prediction;
+- A fire simulation based on a fire propagation model;
+- A collaborative virtual reality platform.
+
+These various layers have utilized public meteorological data (AROME data), as well as data on humidity and soil. The tool allows firefighters and decision-makers to better understand fire crises and manage them more effectively in real life.
+
+L’indemnisation des dommages corporels confrontée au développement de l’IA et de l’open data
+
+This research studied the application of open data from court decisions to the issue of bodily injury compensation. It establishes that the algorithmic analysis of these data, combined with human interpretation, presents an opportunity for more transparent and fair compensation for victims.
+
+Link to the report : https://www.data.gouv.fr/fr/datasets/r/b647386b-b143-4fa3-891e-1ad9d31a19ab";;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Conseillers entreprises
+Conseillers-entreprises is a digital public service that connects small and medium-sized enterprises (SMEs) with the right advisors. It offers personalized and local advice on a wide range of topics: recruitment, training, investment, financial difficulties, etc. The tool's features have been developed using open data related to businesses, such as the Base Sirene of companies and their establishments. The service enhances the support and development of SMEs. Since its launch:
+
+- 25,992 needs have been submitted by companies;
+- 78% of the needs have been transmitted to an advisor;
+- 80% of the transmitted needs resulted in an exchange with an advisor;
+- 77% of the transmitted needs were closed with proposed assistance.
+
+Mon entreprise
+Designed by URSSAF using open data related to businesses, Mon entreprise offers simulators and assistants to support business creators. It helps them make decisions regarding the management of their business (legal, fiscal, social issues, etc.) and allows them to focus more on developing their economic activity. In 2023, the service recorded:
+- 8.7 million visits;
+- 4.8 million questions answered.
+
+
+Link to the report : https://www.data.gouv.fr/fr/datasets/r/b647386b-b143-4fa3-891e-1ad9d31a19ab";;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Annuaire des entreprises
+Developed by the Interministerial Directorate for Digital Affairs, the Annuaire des entreprises is a tool that centralizes all open data related to legal entities (companies, associations, administrations, entrepreneurs, etc.) to easily retrieve information about businesses. By using the Annuaire des entreprises:
+- Public agents who support businesses can work more efficiently;
+- Entrepreneurs can complete their administrative procedures more easily by quickly retrieving their information (SIREN/SIRET, NAF/APE code, VAT number, etc.).
+
+In May 2024, the service recorded:
+
+- 3,677,895 users;
+- 1,116,629 copy-paste actions, often performed by entrepreneurs completing their administrative procedures.
+
+Link to the report : https://www.data.gouv.fr/fr/datasets/r/b647386b-b143-4fa3-891e-1ad9d31a19ab";;;

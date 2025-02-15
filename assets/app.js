@@ -4,7 +4,7 @@ var DEFAULT_LANG = 'de',
     LOAD_LANG = ['de', 'en'],
     LOAD_YEAR = [2023, 2024],
     INIT_COUNTRY = 'de',
-    INIT_YEAR = 2023,
+    INIT_YEAR = 2024,
     INIT_ROOT = 'root',
     WEBSERVER_PATH = 'https://tursics.github.io/maturity-report/';
 

@@ -153,6 +153,9 @@ var _ = (function () {
 
     function funcGetJustification(country, year, answer) {
         var answers = countries.get(country, year);
+        if (!answers) {
+            return '';
+        }
         var answersEN = answers['en'];
         var answersLang = answers[_.getLanguage()];
 

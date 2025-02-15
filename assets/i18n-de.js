@@ -3,6 +3,7 @@ i18n['de'] = {
     'countries': 'Staaten:',
     'countriesAll': 'Zeige alle',
     'countriesNone': 'Zeige keine',
+    'country-de': 'Deutschland',
     'D0': 'Dimension 0: Informationen',
     'debug': 'Debug',
     'empty': 'Bitte wählen Sie einen Staat aus',

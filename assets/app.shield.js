@@ -210,8 +210,9 @@ class Shield {
         if (country) {
             str += '<span data-country="' + this.country + '" data-year="' + this.year +  '" data-i18njustification="' + 'R1' + '">' + country + '</span>';
         } else {
-            country = _.getJustification(this.country, 2023, 'R1');
-            str += '<span data-country="' + this.country + '" data-year="' + 2023 +  '" data-i18njustification="' + 'R1' + '">' + country + '</span>';
+            var key = 'country-' + this.country;
+            country = _.get(key);
+            str += '<span data-i18n="' + key + '">' + country + '</span>';
         }
 
         elemCaption.innerHTML = str;

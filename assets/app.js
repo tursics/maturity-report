@@ -408,4 +408,14 @@ document.addEventListener('DOMContentLoaded', function() {
     load.addFinishCallback(onFinishLoading);
 });
 
+document.addEventListener('keydown', function(e) {
+    if ('ArrowLeft' === e.key) {
+        goto('prev', null, null);
+    } else if ('ArrowUp' === e.key) {
+        goto('upwards', null, null);
+    } else if ('ArrowRight' === e.key) {
+        goto('next', null, null);
+    }
+});
+
 // ----------------------------------------------------------------------------

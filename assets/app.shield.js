@@ -60,6 +60,9 @@ class Shield {
             var newValue = item['Provide updated answer (if applicable)'].toLowerCase();
             var value = '';
 
+            oldValue = oldValue.replace(' ', ' ');
+            newValue = newValue.replace(' ', ' ');
+
             if ('Confirm' === status) {
                 value = oldValue;
             } else if ('Change' === status) {
@@ -126,10 +129,9 @@ class Shield {
         var color = 'bg-gray';
 
         var item = this.answers['en'][obj.id[this.year]];
-        var score = item ? parseInt(item.Score, 10) : NaN;
+        var score = this.getScore(obj);
 
-        var scoreItem = loadedDataScore[this.year] ? loadedDataScore[this.year][obj.id[this.year]] : NaN;
-        var maxScore = scoreItem ? parseInt(scoreItem.Weight, 10) : NaN;
+        var maxScore = this.getMaxScore(obj);
         var width = maxScore;
 
         if (!item) {

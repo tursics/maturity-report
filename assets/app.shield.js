@@ -53,6 +53,37 @@ class Shield {
 
         var item = this.answers['en'][obj.id[this.year]];
         var score = item && item.Score ? parseInt(item.Score, 10) : NaN;
+        var status = item && item['Confirm, change or complement answer/explanation from 2023'];
+
+        if (status) {
+            var oldValue = item['Answer from 2023'].toLowerCase();
+            var newValue = item['Provide updated answer (if applicable)'].toLowerCase();
+            var value = '';
+
+            if ('Confirm' === status) {
+                value = oldValue;
+            } else if ('Change' === status) {
+                value = newValue;
+            } else if ('Complement' === status) {
+                value = newValue !== '' ? newValue : oldValue;
+            }
+
+            var scoreItem = loadedDataScore[this.year] ? loadedDataScore[this.year][obj.id[this.year]] : NaN;
+            var v = scoreItem && scoreItem.value1;
+            var s = scoreItem && scoreItem.score1;
+
+            if (v && (v === value)) {
+                score = s && s ? parseInt(s, 10) : NaN;
+            } else {
+                v = scoreItem && scoreItem.value2;
+                s = scoreItem && scoreItem.score2;
+                if (v && (v === value)) {
+                    score = s && s ? parseInt(s, 10) : NaN;
+                } else {
+                    console.error(scoreItem.ID, value);
+                }
+            }
+        }
 
         if (isNaN(score) || (obj.type === 'dimension')) {
             score = 0;

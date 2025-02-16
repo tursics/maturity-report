@@ -1,0 +1,94 @@
+;Dimension 3: Open Data Quality;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;3.1 Currency and completeness;;;;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";No;"Rule book for CoM B&H institutions is drafted making obligatory for every institution to update their open data (Rulebook yet needs to be adopted after adoption of Law of freedom on access on information)
+
+Since this is still a draft we don`t have a url.";Confirm;;
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;<30%;N/A
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Longer than one month or I don't know;N/A
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;No;N/A
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;N/A
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;N/A
+;3.2 Monitoring and measures;;;;;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";no ;;Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";no;;Confirm;;
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;No;
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;No;
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;No;
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;<10%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;I don't know;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;No;
+;3.3 DCAT-AP Compliance;;;;;
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;No;N/A
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);no priority;Current test portal http://podaci.gov.ba/en/ is arranged around CKAN, DCAT-AP was taken in to the considerations but at this stage there is no enough know-how and rationale to engage with DCAT-AP;Change;<10%;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);no priority;Current test portal http://podaci.gov.ba/en/ is arranged around CKAN, DCAT-AP was taken in to the considerations but at this stage there is no enough know-how and rationale to engage with DCAT-AP;Change;<10%;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);no priority;Please check the answers in 121 and 122a;Change;<10%;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";no ;;Confirm;;
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;No;
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;0%;N/A;Change;<10%;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;0%;N/A;Change;<10%;N/A
+;3.4 Deployment quality and linked data;;;;;
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";No;There is broad understanding of importance of quality of open data and neccesity for adequate data structuring but since we are at early stage of understanding of open data the focus is on data opening and later on their quality;Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";no ;Please fill your answer here.;Confirm;;
+Q25;What percentage of datasets are made available under an open licence? ;<10%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;<10%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;<10%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;<10%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;Confirm;;N/A

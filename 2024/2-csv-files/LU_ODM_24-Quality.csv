@@ -1,0 +1,107 @@
+;Dimension 3: Open Data Quality;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;3.1 Currency and completeness;;;;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;Our  internal monitoring tool allows us to track the potential difference between the announced updating frequency and the real one -  this helps covering at least this particular aspect and allows the Open data team to check this with the data producers. When the portal functions are used (to update or to replace) normally the corresponding metadata fields are updated correctly to reflect the actual situation.;Complement;Yes;Apart from the information in the text from 2023, we also would like to mention that we check the links to the data resources that are mentioned in the metadata. This is important to prevent dead links to spoil the overall quality of the portal. The scans are made by scripts that run regularly and send reports with detected anomalies.
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;30-49%;The datasets that are created and updated automatically basically concern the following categories : geodata from the geoportal and/or the INSPIRE portal, geodata from the Greater-Region-Atlas project, national statistics and  statistical data from the national social security system. The geodata are all integrated via scripts on the producer (data owner) side, invoking the API of data.public.lu to create the datasets, create and update the metadata and the corresponding resource. For the statistical data the open data team has written dedicated harvesting scripts that scan the data owners' sites to retrieve the data and the descriptions. For the data from the national statistics office, this data harvesting happens with active mutual collaboration.
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;The datasets that are automatically created and updated by the data owners via the above mentioned scripts, benefit from immediate updating at the moment they are modified. The other data that benefit from portal-side harvesting are scanned by scripts that run daily.
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;"The open data team checks the whereabouts of new datasets and  gets in touch with the data producers to see whether former time series can be added. Sensibilisation for the importance of long time data series is often necessary as most data producers tend to focus on the actual figures / data. In some cases the actual data can be delivered automatically whereas the retrieval of former series may need manual actions. Generally we sensibilise the data owner to implement an update procedure that keeps older data intact and available. We also advise them to consider a posteriori packaging of yearly data into one-year-archive files to prevent an excessive amount of resources in the datasets and allow an easier bulk download, or depending on the technical resources, to consider implementing an API.
+Here an example : from the very beginning of Luxembourg's open data project, the quarterly anonymised extractions of statistics from the national person register RNPP are important datasets https://data.public.lu/fr/datasets/?q=rnpp ."
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"We have decided to denote the High Value datasets with the tag ""high value dataset"" and to add tags about the 6 HVD themes."
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;The HVD datasets go through an ETL pipeline to have their data model adapted as closely as possible to the specifications.
+;3.2 Monitoring and measures;;;;;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"Our portal indicates to the data provider which metadata is poor in quality and when there has been an update. In the data set sub-page, the portal also gives advice on open file types and an appropriate number of tags. But it is not possible to give an URL as this section is only available to data providers. See screenshot in annexed Word document.
+With our new internal dashboard tool, we can monitor the metadata quality in greater detail at several levels, at the level of the portal, one organisation, or its datasets. The metadata quality is assessed following several axes on all datasets, based on the priorities defined in DCAT-AP and aggregated at the level of an organisation. ";Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;"It is possible to get the metadata quality metrics of any of our datasets by using our API.
+The API call is described here: 
+https://data.public.lu/fr/docapi/#operations-datasets-list_datasets
+and the ""X-Fields"" header needs to have the following value ""data{id,title,quality},*""
+";Confirm;;
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;"We have a small informal information document about how to best use the portal to provide good metadata for open data sets.
+In this context it is woth mentioning the instruction document about licenses https://data.public.lu/fr/pages/fact-sheets/licenses/"
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;"On the portal a dataset can only be published if certain key metadata fields have been filled (or options been selected). This accounts for a certain minimum metadata quality. Among the mandatory fields on a datasets are the title, a description, an update frequency, a creation date and an author. Here we are stricter than DCAT-AP on the frequency and author fields. For a distribution, the mandatory fields are the title, the URL and the format. Here we are stricter than DCAT-AP for the format.
+In our opendata strategy we insist on the importance of choosing an open licence and strongly advocate the use of CC0. At the opendata team we regularly manually check the datasets to add tags. There are also written guideline-documents like https://data.public.lu/fr/pages/fact-sheets/data-quality/ and https://data.public.lu/fr/pages/fact-sheets/licenses/"
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;In our opendata strategy https://data.public.lu/en/pages/strategy/ we strongly advocate the use of CC0. This is also the reason the great majority use this license. We also have published an information sheet about licenses to provide more insights about the CC licenses https://data.public.lu/en/pages/fact-sheets/licenses/.
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;71-90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;1-4;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;"There is a 3 tier approach to achieve good or at least continuously better public sector open data quality in Luxembourg : 
+- the first concerns chapters dedicated to public sector open data, the national portal, and related topics in the regular trainings proposed to any public sector agent at the training institute INAP
+- the second is the (recently built) group of open data representatives at the public sector organisations. This group has been mentioned in other questions above, and has been created following the Prime Minister's order to officially name such representatives, in his letter https://data.public.lu/fr/datasets/lettre-circulaire-aux-departements-ministeriels-administrations-et-services-de-letat-donnees-ouvertes/ , where several practical measures have been outlined to fulfill the obligations of the open data directive and corresponding national laws. The idea behind this permanent group is to intensify exchanges, best practices, technical help and general open data related information between the responsible persons via regular meetings. The first meeting of this series has taken place in April 2024 https://data.public.lu/fr/posts/le-premier-open-data-meetup-du-gouvernement/
+- the third is the 1-to-1 approach we already mentioned before : the open data team usually is in touch with each individual data owner and helps with advice or technical assistance when data is published. Due to this good connection to the data owners, we are able to help focussing on quality aspects like updates, resource formats, problems in the data itself, metadata etc. This has proven to be of great value for the general data quality on the portal. In this context we should name our link checking programme : To avoid presenting data which is not available anymore, we have automated tests in place to check the availability of data, for all the data which is not hosted directly on the portal. Every month, an automatic check is conveyed, which is filtered manually to avoid false positives, then the team of the open data portal contacts all the organisations which have an availability issue (dead links), and try to find a solution with them to have the data back online as soon as possible. It can range from simple url fixes to more complex operations such ass setting up an automated synchronisation with the open data portal. This has been the case for example with our national weather data provider, Meteolux: 
+https://data.public.lu/fr/datasets/present-weather-condition-at-luxembourg-airport-ellx-decoded-from-metar-message/"
+;3.3 DCAT-AP Compliance;;;;;
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;To ensure interoperability between Luxembourg's national open data portal data.public.lu and other portals in Europe, data.public.lu offers an API to provide all its metadata in the DCAT and DCAT-AP formats, i.e. all metadata about the data stored or referenced on data.public.lu can be retrieved in this format. For example, the datasets published on data.public.lu are also published on data.europa.eu via the DCAT API from data.public.lu. More details can be found here https://data.public.lu/en/datasets/dcat-ap-api-endpoints-for-data-public-lu/
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);31-50%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);31-50%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";no ;;Confirm;;
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;Yes;"The main causes of DCAT-AP non-compliance:
+-	The DCAT-AP endpoint is part of the core platform we use for our portal, which we have to update regularly. This can be a costly update, because we have to keep some customisations and settings, so we are not doing it every year. In the meantime, the DCAT-AP standard is constantly updated. It could be interesting to have a more stable standard, which would be less frequently updated, giving us the time to catch up. On our side, we analyse regularly our compatibility with the DCAT-AP standard (see the gap analysis here https://data.public.lu/fr/datasets/r/f6097aa5-fbfd-4aa3-94a2-d6fd8d5a8882 and we discuss possible improvements of its implementation with the upstream (udata) project https://github.com/opendatateam/udata/issues/2854 )
+-	Moreover, we don’t have any known user of our DCAT-AP endpoint except the european data portal.  We have not received any feedback about our DCAT-API endpoint implementation so far. This lack of feedback does not help us to prioritise fixes on the DCAT-AP endpoint."
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+;3.4 Deployment quality and linked data;;;;;
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;"We mention the 5 star model in our meetings with data providers and in our trainings for public sector agents about data, opendata, transparency etc. There we try to promote at least ** and *** level. We also explain the FAIR principles.
+Internally at the portal level we have an own metadata quality rating system, that helps data providers to be aware of potential quality issues at a glance.";Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;We mention the 5 star model in our meetings with data providers and in our trainings for public sector agents about data, opendata, transparency etc. There we try to promote at least ** and *** level. This topic has gained increased interest and visibility due to the national Network Interoperability Framework programme, proposed by Luxembourg's Ministry of digitalisation (https://digital.gouvernement.lu/en/dossiers/2019/NIF-2019.html).;Complement;Yes;Please see - in addition to the answer from 2023 for this question - also the answer above provided for Q14.
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;71-90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;71-90%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;<10%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;Confirm;;N/A

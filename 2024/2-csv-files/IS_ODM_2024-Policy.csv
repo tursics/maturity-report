@@ -1,0 +1,179 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";other;"Entry into force of the EEA Joint Committee Decision is pending incorporating the Open Data Directive into the EEA agreement. Work has begun in the Ministry of Higher Education, Science and Innovation on a draft legislation to be introduced to parliament in the autumn. Iceland previously implemented the PSI, see https://www.althingi.is/lagas/153b/2018045.html.
+There is not a specific national open data policy but it it is addressed in the following policies: 
+-The policy regarding digital public services (digital policy) where open data maturity is a metric, see https://island.is/en/o/digital-iceland/digital-strategy
+-The information policy of the government, which states that information and data sets should be digitally available for use and processing, see https://www.stjornarradid.is/verkefni/log-og-rettur/upplysingalog/upplysingastefna-stjornvalda/ 
+-The regulation on the publication of information at the initiative of the government, no 464/2018, see https://island.is/reglugerdir/nr/0464-2018
+-The Agreement on the Platform for the Coalition Government that work will continue on co-ordinating the processing, storage and presentation of public data, and on facilitating public access to data, see https://www.stjornarradid.is/rikisstjorn/stjornarsattmali/.";Change;Yes;"The Open Data Directive was incorporated into the Icelandic PSI legislation 30 April this year, see https://www.althingi.is/lagas/154b/2018045.html.
+There is not a specific national open data policy but it it is addressed in the following policies: 
+-The policy regarding digital public services (digital policy) where open data maturity is a metric, see https://island.is/en/o/digital-iceland/digital-strategy
+-The information policy of the government, which states that information and data sets should be digitally available for use and processing, see https://www.stjornarradid.is/verkefni/log-og-rettur/upplysingalog/upplysingastefna-stjornvalda/ 
+-The regulation on the publication of information at the initiative of the government, no 464/2018, see https://island.is/reglugerdir/nr/0464-2018
+-The Agreement on the Platform for the Coalition Government that work will continue on co-ordinating the processing, storage and presentation of public data, and on facilitating public access to data, see https://www.stjornarradid.is/rikisstjorn/stjornarsattmali/.";;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";not applicable;" There is not a specific strategy for open data. 
+-According to regulation no 464/2018 public sector bodies must work systematically to make databases and files readily available electronically. To this end, each ministry shall make a timed plan for the disclosure of information on its own initiative and that of public sector bodies under its authority. The plan shall be published on the ministry's website. Public sector bodies are encouraged to publish their data on the website www.opingogn.is.
+-Iceland's digital strategy includes action on open data, including metrics for the score on the European Data Maturity index for open data, see https://island.is/en/o/digital-iceland/digital-strategy.  
+-Work has begun on an open science strategy in the Ministry of Higher Education, Science and Innovation and a Data Strategy is planned by the Ministry of Finance and Economic Affairs.
+ - Data Security Classification has already been published, https://www.stjornarradid.is/gogn/rit-og-skyrslur/stakt-rit/2023/05/19/Oryggisflokkar-gagna-islenska-rikisins-utgafa-1.2";Confirm;;;;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;Reykjavik has adopted an Information Strategy and an Information Policy Action Plan, see https://reykjavik.is/en/policies. The policy addresses open data sets should be in a standard form so they can be used to create new value, access is generally free and reproduction and distribution is allowed. The action plan states that Reykjavik should have a single point access for open data.;Confirm;;;;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;According to regulation no 464/2018 public sector bodies must work systematically to make databases and files readily available elctronically. To this end, each ministry shall make a timed plan for the disclosure of information on its own initiative and that of public sector bodies under its authority. The plan shall be published on the ministry's website. Public sector bodies are encouraged to publish their data on the website www.opingogn.is.;Confirm;;;;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"Iceland is in the process of implementing a secure national data exchange infrastructure, Straumurinn, which relies on X-Road technology. All government agencies, municipalities and privately owned companies can connect to the X-Road for data exchange, see https://island.is/en/x-road.
+Response to reviewer: The X-Road makes it easier for government agencies and municipalities to share dynamic/real-time data. Iceland is in the process of implementing the Open Data Directive, and a bill will most likely be set forth in the parliament in October. ";Change;Yes;"Iceland has incorporated the Open Data Directive. According to the PSI legislation public sector bodies shall make dynamic data available for re-use immediatly after collecting, unless it exceeds the financial and technical capacities of the public sector body.
+Iceland is in the process of implementing a secure national data exchange infrastructure, Straumurinn, which relies on X-Road technology. All government agencies, municipalities and privately owned companies can connect to the X-Road for data exchange, see https://island.is/en/x-road.The X-Road makes it easier for government agencies and municipalities to share dynamic/real-time data. ";;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;;;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";no;;Confirm;;;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"The Digital Policy states that public sector data should be accessible and exploitable and that as a general rule, data need only be recorded once in communication with the government and data travels between institutions instead of people, see https://island.is/en/o/digital-iceland/digital-strategy.
+With the implementation of Straumurinn, public sector can exhange data in a more efficient way than before.";Confirm;;;;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;A national data portal is operated to enable the private sector to reuse open data. The government has had datathon initiatives to increase awareness of the existing datasets, see https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2020/08/12/Gagnathon-fyrir-umhverfid-hefst-i-dag-/ ;Confirm;;;;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";no;;Confirm;;;;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";no;;Confirm;;;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Not applicable;;;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-b;Earth observation and environment;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-c;Meteorological;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-d;Statistics;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-e;Companies and company ownership;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-f;Mobility;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;;;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"The governance  structure is mostly informal. The ministry of higher education, science and innovation is responsible for open data in Iceland. We have meetings with the larger data holders, such as the biggest municipalities , Statistics Iceland and National Land Survey of Icleand.
+The meetings are mostly on an ad hoc basis or related to certain projects on open data. They involve different stakeholders but some stakeholders, for example Statics Iceland, we meet on a more regulat basis.";;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";Hybrid;We have a decentralised public sector but the Ministry of Finance and Ministry of Higher Education, Science and Innovation are responsible for open data. Currently the stewardship is at ministerial level but execution at decentralised level. Our digital agency within ministry of finance is responsible for the data portal and works with institutions to make the data available. ;Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;The governance  structure is mostly informal. The ministry of higher education, science and innovation is responsible for open data in Iceland. We have meetings with the larger data holders, such as the  municipalities and support regional data initiatives.;;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";Few public bodies;;Confirm;;;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";No;;Confirm;;;;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";Yes;"There are informal meetings.
+Response to reviever: The answer from 2022 is partially relevant. Open Data Policies moved from the Ministry of Finance to the Ministry of Higher Education, Science and Innovation in spring 2023. Both ministries are in the same building. The current open data policies team has had meetings with the team maintining the national portal, as well as communicating with e-mails. There is a project underway to relaunch the portal when Open Data Directive is implemented into Icelandic law";Change;Yes;"There are informal meetings.
+Open Data Policies moved from the Ministry of Finance to the Ministry of Higher Education, Science and Innovation in spring 2023. The current open data policies team has had meetings with the team maintining the national portal, as well as communicating with e-mails. There is a project underway to relaunch the portal when the high-value datasets regulation is implemented into national law. See     attachment 1.
+The meetings are at least twice a year, but will be more frequent now that the open data portal is being updated.";;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";Yes;"Digital Iceland holds various seminars during the year, see https://island.is/en/o/digital-iceland/conferences.
+Response to reviewer: There is currently one person within the Ministry of Higher Eductiona, Science and Innovation dedicated to open data (as well as other data regulations) and is tasked with preparing implementation of EU regulations. There is also an open data team, with other civil cervants who take part in the work.";Confirm;;;;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";Yes;"Digital Iceland holds various seminars during the year, see https://island.is/en/o/digital-iceland/conferences
+Response to reviewer: Yes. This year there has been a workshop with government bodies that hold HVDs that took place 9 June. There have also been both individual and joint meetings with open data officers of government bodies and there are planned meetings with open data officers of municipalities. ";Change;Yes;"There have  been both individual and joint meetings with open data officers of government bodies and there are planned meetings with open data officers of municipalities.
+There is a yearly meeting of a network of open data officers in geospatial, which the open data team took part of. 
+The meetings take place at least once a year.";;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";Yes;Digital Iceland holds various seminars during the year, see https://island.is/en/o/digital-iceland/conferences;Complement;Yes;"There have been meetings with data users, including a work shop with users of open data in relation to artificial intelligence and a work shop with academia and reasearchers regarding open science. Both work shops were half day work shops.
+The meetings are ad hoc meetings and are not systematically set up.";;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";No;;Confirm;;;;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";Yes;"Yes through a yearly publication; https://www.stjornarradid.is/verkefni/efnahagsmal-og-opinber-fjarmal/opinber-fjarmal/arsskyrslur-radherra/";Confirm;;;;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;No;"We are currently updating the data strategy for Iceland with an aim of having it ready for public consultation autumn 2024.
+This will be the first open data strategy, as previously the open data legislation has mostly provided the policy. There has not been made a decision how often the strategy will need to be updated. There will be broad consultation with various stakeholders.
+The legislation on open data was updated earlier this year, and was subject to open consulatation before being put forth in the parliament. ";;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";Yes;Yes, the party being charged can appeal the decision to the Complaints committee on Information Matters , according to the Information Act no 140/2012 and the Administrative Act no 37/1993. Furthermore, the party can lodge a complaint to the Althingi Ombudsman or take the matter before Icelandic courts.;Confirm;;;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;1) Open data calls for collaboration between different ministries and public bodies 2) Clearer governance structure 3) More focused on concrete actions/measures;Confirm;N/A;;;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";Yes;The PSI legislation now fall under the Ministry of Higher Education, Science and Innovation since February 2023 which will take the lead in matters regarding Open Data. There is currently work being done on a clearer governance structure and an action plan in connection to the implementation of  the Open Data Directive and HVD. ;Confirm;;;;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;"Data holders can get assistance from Digital Iceland with publishing data as open data.
+Data holders can contact Digital Iceland directly and get the assistance needed for publishing their data on the open data portal.";;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;Those working with data, have opportunities to systematically expand their knowledge and expertise by attending seminars, workshops, courses, etc. These activities may be financed either through individual work places and/or educational funds via their unions.;Confirm;;;;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";Yes, 3-5;"Digital Iceland holds conferences, see https://island.is/en/o/digital-iceland/conferences
+Statistics Iceland holds annually a competition for 15-18 year olds to promote open data literacy, see https://www.greindubetur.is/verkefnin & https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2020/08/12/Gagnathon-fyrir-umhverfid-hefst-i-dag-/";Complement;Yes, 3-5;"For exampla
+Datathon: https://www.rikiskaup.is/is/moya/news/gagnathon-rikiskaupa-1
+Workshop for user of open data, 5 March 24.
+
+";;;;;;

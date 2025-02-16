@@ -1,0 +1,254 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;data.norge.no https://datafabrikken.norge.no/;Change;Yes;https://data.norge.no/
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;N/A;Custom developed portal (Open Source). Technology stack: React, Java/Kotlin, Python, Jena, Fuseki, ElasticSearch, PostgreSQL, MongoDB, Kafka.
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;"There is the search api and a SPARQL endpoint
+https://search.api.fellesdatakatalog.digdir.no
+https://sparql.fellesdatakatalog.digdir.no (gui: https://data.norge.no/sparql)"
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;https://data.norge.no/sparql
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"https://informasjonsforvaltning.github.io/felles-datakatalog/datasett-katalog/api/
+https://github.com/Informasjonsforvaltning/fdk-search-service/blob/main/openapi.yaml
+https://github.com/Informasjonsforvaltning/fdk-resource-service/blob/main/openapi.yaml"
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;https://informasjonsforvaltning.github.io/felles-datakatalog/s%C3%B8k_og_filter/sparql/
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"It is possible for users to administrate harvesting of dataset descriptions to the national data portal (data.norge.no). The portal consists of 5 catalogs (datasets, APIs, concepts, information models and events/services) where the resources may be linked together, according to  applicable standards. Users can also use functionality to register descriptions of datasets, APIs, concepts and services manually. 
+
+https://data.norge.no/publishing"
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;See: https://datalandsbyen.norge.no/category/4/tilbakemeldinger-og-nyheter;Complement;;"See: https://datalandsbyen.norge.no/category/4/tilbakemeldinger-og-nyheter
+
+There is also an email address in the footer of data.norge.no, where users can contact us directly if they don't want their feedback to be published online. "
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"https://datalandsbyen.norge.no/category/6/ettersp%C3%B8r-datasett-og-api-er
+We also offer the possibility to comment on a specific dataset in our national portal e.g. https://data.norge.no/datasets/562afcb4-63de-3ffb-940f-d375968bdef6#comment-section";Complement;;"Currently users have the ability to add comments to all resources available on the portal. The underlying stack is NodeBB and is used as a community forum for data sharing. The forum can be accessed on https://datalandsbyen.norge.no
+All comment threads can be found here: https://datalandsbyen.norge.no/category/12/kommentartr%C3%A5der
+Example thread:
+Portal: https://data.norge.no/datasets/64e9b230-3022-3a80-b453-afcf8c2b309e
+Datalandsbyen: https://datalandsbyen.norge.no/topic/441/datasett-produksjons-og-avl%C3%B8sertilskudd-ti[…]ruksforetak-s%C3%B8knadsomgang-2023-landbruksdirektoratet (edited) "
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;See: https://datalandsbyen.norge.no/;Confirm;;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;See: https://data.norge.no/datasets.rss;Complement;;"https://data.norge.no/datasets.rss
+https://data.norge.no/datasets.atom"
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;See: https://datalandsbyen.norge.no/category/6/ettersp%C3%B8r-datasett-og-api-er;Complement;Yes;"https://data.norge.no/requests
+https://datalandsbyen.norge.no/category/6/ettersp%C3%B8r-datasett-og-api-er
+"
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;See: https://datalandsbyen.norge.no/category/6/ettersp%C3%B8r-datasett-og-api-er;Complement;;"https://data.norge.no/requests
+https://datalandsbyen.norge.no/category/6/ettersp%C3%B8r-datasett-og-api-er"
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;"https://datalandsbyen.norge.no/category/6/ettersp%C3%B8r-datasett-og-api-er
+
+A dedicated team of ""data hunters"" is following up requests from users and monitors progress. Request are posted here: https://datafabrikken.norge.no/finn-data/datajegeren and followed up in the community service: https://datalandsbyen.norge.no/category/6/ettersp%C3%B8r-datasett-og-api-er ";Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;See: https://datalandsbyen.norge.no/;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;See: https://datalandsbyen.norge.no/category/2/gode-eksempler-p%C3%A5-bruk;Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;See: https://datalandsbyen.norge.no/topic/79/s%C3%B8k-i-enhetsregisteret-med-n%C3%A6ringskoder-i-hierarki;Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;See: https://datalandsbyen.norge.no/category/2/gode-eksempler-p%C3%A5-bruk;Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;"https://data.norge.no/datasets/288aa74c-e3d3-492e-9ede-e71503b3bfd9
+Preview is provided for dataset distributions where dcat:downloadUrl is provided. Expand ""distributions"" on the provided link and click on ""Se forhåndsvisning"". (there is a bug in the english translation. )";Complement;;"""https://data.norge.no/datasets/288aa74c-e3d3-492e-9ede-e71503b3bfd9
+Preview is provided for dataset distributions where dcat:downloadUrl is provided. Expand ""distributions"" on the provided link and click on ""More information about this dataset"". "
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;"The Norwegian data portal (data.norge.no) is a metadata portal and does not contain actual data. Norway has its own geoportal that shows geospatial data. It includes data sets that are also registered in the national data portal.
+
+See for example ""Administrative units counties"": https://data.norge.no/datasets/cffde12f-3530-4406-9aa0-d6d4519ef077
+
+where the Access URL  leads to several possible  geospatial views: https://kartkatalog.geonorge.no/metadata/6093c8a8-fa80-11e6-bc64-92361f002671
+
+There is also a open API referenced in the national data portal: https://data.norge.no/dataservices/41e77491-1562-3eda-a006-f56a3064d274";Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;Google Analytics and surveys;Complement;Yes;Monsido and surveys
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Change;No;
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;Google Analytics and surveys;Complement;;"Monsido, surveys and in depth user interviews.
+Monsido helps us understand how the portal is being used through analytics data.
+Surveys helps us test our hypothesis and better understand why users behave as they do in the portal. 
+In depth user interviews helps us understand the user needs better, what they need, how they find and use data in their work life, and how we can lift the portal to meet their needs.  "
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;"Insights on which browser that supports the page
+Surveys look at who the users are, user satisfaction (usability and quality of data), missing datasets, requested functionality.
+User feedback are gathered and used actively in further developing of the portal. "
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;"We have been visible in media on several occations the last year to tell users about the portal. target audience: businesses, public sector, academia as data consumers
+
+Linkedin articles about data sharing and future plans. target audience: businesses, public sector as data consumers. Public sector as data providers.
+
+Presentations at various gatherings. target audience: Public sector as data providers. "
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;Search behaviour is tracked by monsido. The insights are used to improve the search service and to consider new methods to make data findable. (for instance by testing search services based on AI-technology)
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"Yes. Most and least popular pages are tracked in Monsido, included datasets. We have not used this information directly to improve the portal yet. As we lack information about why these datasets are popular/less popular. 
+
+The five most popular datasets are: 
+https://data.norge.no/datasets/a8533876-cca7-4417-90be-b368f7d9542c
+https://data.norge.no/datasets/288aa74c-e3d3-492e-9ede-e71503b3bfd9
+https://data.norge.no/datasets/64e9b230-3022-3a80-b453-afcf8c2b309e
+https://data.norge.no/datasets/0b566eca-cb0c-46e8-bd82-57ebab85a98a
+https://data.norge.no/datasets/6fcdc384-c853-40a7-b9d9-bb6b3e8f1adf"
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;The national data portal is continuously developed with improvements to the search engine and for exploration via GUI https://github.com/Informasjonsforvaltning/behov/issues;Complement;;The national data portal is continuously developed with improvements to the search engine and for exploration via GUI https://github.com/Informasjonsforvaltning/behov/issues. We have also developed a pilot to test a search based on AI technology. 
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Complement;;"https://data.norge.no/datasets/a8533876-cca7-4417-90be-b368f7d9542c
+Use a plugin, like modheader, to accept text/turtle to show the same page in turtle format. "
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";approximately half of the public sector data providers;"Norway has a highly centralized system where data is accumulated from small data providers to larger regional or government agencies. A good example is geographical data where all counties collaborate with Geonorge.no, which in turn delivers metadata to the national portal. https://www.geonorge.no/globalassets/geonorge2/parter/regionale-parter-i-norge-digitalt.pdf
+
+We also have an unofficial monitoring of which actors in the public sector deliver data directly to the national portal. https://livarbergheim.no/datadeling/?side=staten";Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;The national data portal  have a team dedicated to engage data providers. The Norwegian Digitalisation Agency have also launched National toolbox for data sharing: https://www.digdir.no/apne-data/nasjonal-verktoykasse-deling-av-data/2243;Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;There are many regional and local data directories. We do not have a comprehensive overview. An example: https://opencom.no/organization;Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";all datasets;All local data catalogs can be harvested, if they wish to.;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;The API catalog, is our real-time and dynamic data portal: https://data.norge.no/dataservices;Confirm;;
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;No;
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;"https://data.norge.no/datasets
+The portal uses the Publication Offices vocabulary to denote access level . 
+Restricted: https://data.norge.no/datasets?accessrights=RESTRICTED
+Non-public: https://data.norge.no/datasets?accessrights=NON_PUBLIC 
+Public:
+https://data.norge.no/datasets?accessrights=PUBLIC 
+Note: Only datasets denoted ""PUBLIC"" with at least one distribution or connected dataservice with an open licence is denoted as ""open data"" in the norwegian portal.";Confirm;;
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;"The national data portal is centrally funded and the strategy is described in several key documents.
+
+Some excerpts
+Letter of allocation: https://www.regjeringen.no/contentassets/7f9b178a808649dfad4bc4ae2401ae07/2021_tildelingsbrev-2021-digitaliseringsdirektoratet.pdf
+
+Digitalisation circular (a compilation of orders and recommendations on digitalisation in the public sector): [unofficial translation] The individual company (public body) must have a sufficient overview of what data it handles. [...] The company must register datasets in the data directory (data.norge.no).
+
+One digital public sector (Digital strategy for the public sector 2019–2025): The national data directory (national data portal) is central to realizing the goal of increased data sharing and value creation. https://www.regjeringen.no/en/dokumenter/one-digital-public-sector/id2653874/?ch=4
+
+The national data directory is also described as a component of the ""common ecosystem for national digital collaboration"". https://www.regjeringen.no/en/dokumenter/one-digital-public-sector/id2653874/?ch=6
+
+Data as a resource - Data-driven economy and innovation:  The national data directory (national data portal)  is described as a [unofficial translation] ""National measures for making public data available"" and ""The Government will further develop the national data directory, data.norge.no."" https: // www.regjeringen.no/no/dokumenter/meld.-st.-22-20202021/id2841118/?ch=5#kap5-4-1"
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"https://www.linkedin.com/company/digitaliseringsdirektoratet
+https://twitter.com/datakatalogen
+https://podcasts.apple.com/no/podcast/digitaliseringsbloggen/id1248203683";Complement;;"""https://www.linkedin.com/company/digitaliseringsdirektoratet
+https://podcasts.apple.com/no/podcast/digitaliseringsbloggen/id1248203683"""
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;"https://github.com/Informasjonsforvaltning
+https://informasjonsforvaltning.github.io/";Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;https://data.norge.no/reports;Confirm;;
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;Metada asessment reports are provided for each provider. Example. https://data.norge.no/organizations/889640782/datasets These assessments results are supported with 1-1 meetings with major providers. ;Confirm;;

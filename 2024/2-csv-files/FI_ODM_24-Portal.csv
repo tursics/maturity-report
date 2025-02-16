@@ -1,0 +1,249 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;"https://www.avoindata.fi/en
+";Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;Yes;CKAN, Drupal for portal content + 30 CKAN add-ons
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;The datasets that are available via APIs are listed here: https://www.avoindata.fi/data/en_GB/apiset
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;https://www.avoindata.fi/data/sparql
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"The documentation on retrieving datasets via APIs from the service is available (in Finnish only) at:
+https://www.avoindata.fi/en/node/19
+Documentation on the best practises and recommended principles on publishing of data/open data via APIs in the public sector is available at: 
+https://www.avoindata.fi/en/api-principles"
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;The page https://www.avoindata.fi/data/sparql contains also instructions on how to perform SPARQL queries - with examples from data.europa.eu.
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"Overall instructions on adding/updating/enriching datasets in the portal: 
+https://www.avoindata.fi/fi/kayttoohjeet/datan-yllapitaminen#datan-muokkaaminen
+Example of continuously updating dataset: 
+https://www.avoindata.fi/data/fi/dataset/yritykset"
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"For example: https://www.opendata.fi/en/contact 
+";Complement;Yes;"In addition to the general contact form, the portal also collects systematic and quantifiable customer feedback on the quality of service via Suomi.fi Quality tools (see PT8). The feedback form for avoindata.fi is visible on the footer as ""Give feedback"". The direct link is: https://laatutyokalut.suomi.fi/feedback/121f99b8-ab0b-4da1-bd1c-6676e30b62f5"
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"Users can rate datasets by liking them using the “like” button on the dataset page. The features shows the amount of likes the dataset has gotten. 
+For example: https://www.avoindata.fi/data/fi/dataset/turun-ja-kaarinan-oppilaaksiottoalueet
+";Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"In our portal we have open data news page (with open data twitter feeds), as well as a calendar for open data related events in Finland. For example: https://www.avoindata.fi/en/articles
+";Complement;Yes;The portal has both a News and Calendar feature. (The Twitter feed has been discontinued to comply with the Finnish Digital Agency cookie policy on its digital services.) Anyone in the open data community can ask us to add a news item or calendar event to be promoted in the service, or point us to one they'd like us to promote. These are little used features, though.
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no ;;Complement;No;We used to offer e.g. monthly email reminders to data publishers, but withdrew these features since a lot of the organizations found these as irritating and treated them as junk mail. The withdrawal was therefore done by popular demand. 
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no;;Confirm;;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";no;;Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;"We have withdrawn the discussion board in the national portal for relatively low usage and security reasons. Due to all evaluated open-source solutions having the same vulnerabilities, we do not plan on re-introducing this feature. 
+
+RESPONSE: The forum was flooded with fake accounts that feed the platform with different kind of advertisements. It requires a lot of manual moderation to remove fake accounts and deleting spam. Due to the EU Data Protection Regulation, we can no longer use for example https://disqus.com/, as it is headquartered in the US and does not comply with the EU Data Protection Regulation. In the past, DisQus helped us to moderate chat content, often automatically, by blocking spam and bots. Again, we have briefly evaluated a number of alternatives, and all evaluated open-source solutions seem to have the same vulnerabilities, which are against the security policies of the Finnish Digital Agency. For that reason, we do not plan on re-introducing this feature at least for the time being.
+";Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;"https://www.opendata.fi/data/en_GB/showcase
+";Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;"Showcase pages have field called ""Used datasets"", which points to the datasets used by the use case. For example: https://www.avoindata.fi/data/en_GB/showcase/perustoimeentulotukiuomessa
+";Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;"https://www.opendata.fi/data/en_GB/submit-showcase 
+";Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://www.avoindata.fi/data/fi/dataset/turku-energian-ymparistotaideteokset/resource/efa0aaf5-6aac-4510-9919-05c64a94becb;Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://www.avoindata.fi/data/fi/dataset/turun-seudun-liikennemaaria/resource/220fb8f8-8de8-444c-8544-7dfb55418fe1;Complement;Yes;"Updated example dataset: 
+https://www.avoindata.fi/data/fi/dataset/turun-asemakaavoituksen-vastuualueet/resource/ad05c60f-8b5f-42cf-9bf5-fb15603fe177"
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"The portal has the means to tag a high-value dataset as HVD, in which case the data publisher must also select one of the current HVD categories for the dataset. The portal UI will be augmented in the near future to also display a ""HVD"" tag to highlight high value datasets. A dedicated search/filtering option is recognized as a future development need. "
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;"Matomo analytics + CKAN report.
+";Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Complement;;The Matomo analytics has been augmented to collect statistics also on the portal API usage, esp. retrieving of data sets via APIs. These statistics can be broken down to the level of individual publisher and individual dataset. These capabilities were first developed to cater for the needs of one major data publisher. 
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;"We currently have a Public Administration API Principles financed project ongoing to further develop the Operating model and the API principles published at the end of 2022. As part of that project, the open data team is conducting face-to-face interviews with data openers on the public sector. The focus is on both the government-level players and municipal sector players. These interviews will give us a comprehensive understanding on the motivation, extent of knowledge as well as needs of the said organizations regarding opening data.
+";Complement;;In addition to the portal usage statistics and API usage statistics, we also regularly monitor the customer feedback on portal usage, bug reports, feature requests, etc. that we receive via the Suomi.fi Quality Tools (https://palveluhallinta.suomi.fi/en/sivut/laatutyokalut/esittely) to populate and prioritize the portal maintenance and small-scale development backlog. Additionally, as part of the MoF financed project that was described in the 2023 answer, we gained a lot of insights and situational awareness in the overall issues and difficulties related to opening data in the public sector. 
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;"See answer for PT25. We currently review the customer feedback received via the Quality Tools once per month. As part of the review, we evaluate whether the feedback warrants a new development item in the backlog. 
+Features developed during past year based on customer feedback include: 
+- Dedicated fixes on portal pages and features that customers have reported as responding slowly,
+- More detailed statistics on API usage,
+- Multiple UI fixes including mobile responsive open data guides (readable also on mobile devices), improved usability for the open data statistics-pages"
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;"- The open data portal features regularly in the Finnish Digital Agency's bi-monthly newsletter on the Suomi.fi common digital services. Link to the most recent newsletter featuring the Open data service (Finnish only): https:E9//dvv.fi/uutiskirjeet#
+- The roadmap and highlights on the portal development are communicated bi-annually in dedicated infos for Suomi.fi-services. The portal development roadmap is always available as part of the public roadmaps for Suomi.fi-services. See (in Finnish)  https://dvv.fi/documents/16079645/0/Suomi.fi+julkiset+tiekartat+03-2024.pdf/447d574c-e810-6050-865c-8259470c07ed/Suomi.fi+julkiset+tiekartat+03-2024.pdf?t=1711630744084
+- A new customer testimonial story promoting the open data portal by two big public sector data publishers  was published (in English) during spring 2024: https://dvv.fi/-/avoindata.fi-palvelun-aktiivikayttajat-kela-ja-fintraffic-nakevat-tulevaisuudessa-paljon-mahdollisuuksia-vapaasti-kaytettavalle-tiedolle?languageId=en_US
+- As described in PT25, a dedicated project on the further enhancements on the Public sector API Principles and Operating Model for Data Sharing was funded by the MoF for 2023. Open data was a continuous topic in the monthly network meetings. During the year, the project team met 20 organizations opening data to discuss the best practises, promote open data and the best practises guidance available, as well as gain insights on the current state of play in the field of opening data. "
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;"The following public statistics is available:  https://www.avoindata.fi/data/en_GB/report/matomo-most-popular-search-terms
+We periodically review the most used keywords and see if they evolve over time. In 2023, as part of a MoF financed project, we contracted a consulting company to conduct us a comprehensive search result analysis, based on which we prioritized the activities on a focused effort on SEO to increase the visibility of both the best practises content we have available and the portal itself. The statistics on the most used keywords was used as input in the SEO optimization."
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"The following public statistics is available: https://www.avoindata.fi/data/en_GB/report/matomo-dataset
+We periodically review both the short and long term statistics on the most and least used pages. While we do not use this information to develop the portal per se, it gives us an understanding on how the users' needs on open data evolve and/or do not evolve over time, and which domains of open data are in demand.  "
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;"A dedicated search engine optimization subproject was budgeted for 2022, but will be carried out in fall 2023.
+The project continues a wider project on opening up and using public data lead by the Ministry of Finance between 2020-2022.";Complement;Yes;"- In 2023, as part of the MoF funded project, the search engine visibility of both the portal itself as well as the best practises documentation we make available was improved in multiple ways to ensure that the portal and its content feature in top findings when searching for open data in Finland. 
+-  As part of the MoF funded project, the portal's search engine was replaced with a newer version that has better support for Finnish and Swedish.
+- The national DCAT-AP extension mandates a set of mandatory, optional and recommended attributes. Especially the optional and recommended attributes increase the data findability. 
+- Based on testing, we have also identified ways to further improve the portal search, but these are not on the immediate roadmap. "
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Complement;Yes;"- The page https://www.avoindata.fi/ns/ contains the metadata description/ national DCAT-AP extension. 
+- The data model is also availabe as visualization on our Compatibility Tools platform: https://tietomallit.beta.yti.cloud.dvv.fi/model/fi-dcatap   
+It is currently in draft stage while we add the HVD categories in the data model, after which we republish the data model. "
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;"Finnish legislation doesn't mandate the publishing of open data at national open data contact point (opendata.fi). Many public sector bodies maintain their own open data portals, while also publishing select parts or all of their open data also on the national portal. Lack of time and resources at publishers' end to focus on data publishing. - Lack of awareness of the national portal.
+
+Most municipalities have yet to open their data, and only a few smaller municipalities provide open data in 2022.";Complement;The majority of public sector data providers;Especially the number of municipalities publishing open data is on the increase. We are also seeing a trend where smaller and medium size municipalities as well as select large cities publish their open data first and foremost via the national portal.
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;Yes, or all public sector data providers already publish data;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"As part of the wider project on opening up and using public data, which was lead by the Ministry of Finance, a step-by-step process model for information sharing was published in the portal in 2022. See: https://www.avoindata.fi/en/operating-model
+";Complement;Yes, or all public sector data providers already publish data; 
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;- https://hri.fi/en_gb/ - https://data.lounaistieto.fi/en_gb/ - https://data.tampere.fi/en_gb/ - https://data.ouka.fi/en_gb/;Complement;Yes;"https://hri.fi/en_gb/
+https://data.tampere.fi/en_gb/
+https://thl.fi/en/statistics-and-data/data-and-services/open-data
+https://www.syke.fi/avointieto
+https://www.ilmatieteenlaitos.fi/avoin-data
+https://asiointi.maanmittauslaitos.fi/karttapaikka/tiedostopalvelu
+
+The national portal harvests a number of these. Additionally some regional portals such as Lounaistieto (https://www.lounaistieto.fi/avoin-data/) nowadays publish their open data in the national portal and link to it on their pages. "
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;Hri.fi and data.ouka.fi are harvested to opendata.fi. Discussion for harvesting data.tampere.fi and data.lounaistieto.fi portals to opendata.fi are still underway due the cities been occupied elsewhere.;Complement;Yes;As a change to 2023, the regional portal Lounaistieto (https://www.lounaistieto.fi/avoin-data/) nowadays publishes their open data in the national portal and links directly to it. 
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";The majority of datasets;"There are multiple government- and state agency level data portals that are currently not harvested by opendata.fi simply due to lack of time and resources on both sides to match the data models and agree on the harvesting practicalities.
+
+Additionally, there are at least more than 20 data portals on municipal level that are not being harvested. The same constraints for time and resources on both side to agree on the practicalities apply also on the municipal level.
+
+RESPONSE: We agree with your suggestion to change the selection to ""the majority of datasets"".";Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;https://www.avoindata.fi/data/fi/dataset/turun-seudun-liikennemaaria/resource/a9cdffa3-a635-430a-85f1-95a618cd585b https://www.avoindata.fi/data/en_GB/dataset/digitraffic-rautatieliikenne;Confirm;;
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;Yes;"The list of data publishers (https://www.avoindata.fi/data/en_GB/organization) contains a dedicated section ""Citizens"" for private individuals to publish their data: https://www.avoindata.fi/data/en_GB/organization/yksityishenkilo
+See for example: https://www.avoindata.fi/data/en_GB/dataset/sparse-vibrometer-data"
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;The information management map of public administration describes the way in which information management is organised in public administration. The map allows actors to plan and develop the interoperability of public administration information pools and information systems: https://www.exploreadministration.fi/information-management-map-of-public-administration/;Complement;Yes;The portal that desribes the data that cannot be made public (restricted data) as regulated in the Data Governance Act is a separate service (suojattudata.suomi.fi), but is directly linked with the open data service in multiple points and vice versa. 
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;No;The portal has no explicit sustainability strategy per se. The portal is identified in a MoF act as one of the public digital services that the Finnish Digital Agency develops and maintains, and the maintenance as well as small-scale development is funded from the agency development budget. The portal is nowadays part of the Suomi.fi- family of public digital services for citizens and organisations. We also communicate the development roadmap publicly in connection with the other Suomi.fi-services. 
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"Facebook:
+https://www.facebook.com/groups/fi.okfn 
+Twitter:
+https://twitter.com/avoindatafi
+The Finnish Digital Agency social media channels:
+https://www.facebook.com/DVVfi/
+https://www.linkedin.com/company/digi-ja-vaestotietovirasto
+https://twitter.com/DVVfi";Change;Yes;"The X- account twitter.com/avoindata.fi has been discontinued, and the news on open data in ""X""-service are published by the Finnish Digital Agency media team as part of the overall agency presence in social media. Apart from that change, the list is as in 2023. "
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;https://github.com/vrk-kpa/opendata;Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;We continue to do sporadic follow-up. The page Categories (https://www.avoindata.fi/data/en_GB/group/) lists the number of data sets per category. We do not currently follow the division between real-time and static data sets, or how the numbers develop over time, because a log of the open data APIs described in the portal were initially published as data sets. Neither the portal team, nor the data openers have conducted a systematic review to update the datasets to APIS where the categorization is now wrong, as the portal supports identifying APIs as their own data type. ;Complement;Yes;"In addition to answer in 2023, we do regular if sporadic manual analysis on the number of dynamic data /data sets identified as APIS versus other data sets. 
+ We also follow the number of data sets divided between categories, and which categories get most of the published data. The current distribution of data across categories is available at https://www.avoindata.fi/data/en_GB/group/"
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;Yes. We also compare the accumulation of data sets per category to numbers of data sets in corresponding categories in the portals of other countries. If we see a clear difference in numbers, we try to identify providers that could open corresponding data sets in the same categories. This effort is more sporadic than systematic, though.;Change;Yes;"The data providers can combine the data from statistics listed below to understand and improve the demand for their open data:
+- The Five star model: https://www.avoindata.fi/data/en_GB/report/openness
+- Most and least accessed data sets per organization: https://www.avoindata.fi/data/en_GB/report/matomo-dataset
+- Outdated data sets: https://www.avoindata.fi/data/en_GB/report/deprecated-datasets-report
+- Number of downloads per data resource: https://www.avoindata.fi/data/en_GB/report/matomo-resource"

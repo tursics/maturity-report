@@ -1,0 +1,262 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"Re-use: To use information for a purpose other than that for which it was originally produced. 
+SOURCE: https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information ";Confirm;;;;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;"The monitoring of the re-use levels is performed in number of different ways:
+
+# Qualitative but unstructured information about re-use is collected at networking events, seminars, meetings and from various social media platforms. 
+# In the community related to the Swedish data portal, there is also a special category for sharing examples of re-use. SOURCE: https://community.dataportal.se/topic/325/om-denna-kategori   
+# At the national data portal, we also monitor the download statistics at regular basis. Most data providers have some sort of monitoring of at least download statistics, although the method can differ.
+
+In the autumn of 2022 Digg lead a studentproject for 10 weeks that aimed at investigating what technical and organisational options and scenarios are available for developing methods for automatic measurement of open data re-use in terms of gaining access to e.g.download data and data on number of API calls from dataproviders. The goals was also that this could enable the developement of a dashboard functionality on re-use. We are aware that API calls and download statistics is not a full clarification of re-use, but rather a component for understanding re-use that needs to be further contualized with more qualitative stories on re-use. ";Change;Yes;"The monitoring of the re-use levels is performed in number of different ways:
+# Qualitative but unstructured information about re-use is collected at networking events, seminars, meetings and from various social media platforms. 
+# At the national data portal, there is a section with good examples, and also an opportunity for data users to apply for publication of their use case at that page. See https://www.dataportal.se/om-oss#hur_kan_du_bidra_till_sveriges_dataportal?    
+# At the national data portal, we also monitor the download statistics at regular basis. Most data providers have some sort of monitoring of at least download statistics, although the method can differ.
+# In 2022, we performed an investigation together with students aiming to identify ways for us to gain access to data about API calls. We have still not implemented any solutions for this, but are continuing exploring for solutions. We are aware that API calls is only an indication of open data reuse. 
+Generally speaking, we are short of resources (due to our financing situation) for doing more explicit searching for reuse case and generating interesting articles about use cases. This means that we to a large extent need to rely on getting external tips about open data reuse, thus our process can be described as not as structured and extensive as it could be. ";;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";yes;"The Agency for digital governance (Digg) has a guide for how data should be relased as open data, and part of that guide is a particular section about user dialogue, re-use monitoring and continuous improvements of the released datasets. See https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information#h-Framjaanvandardialogochforvaltning 
+
+Also, in the work that is carrid out in the project ""Nationell dataverkstad"", which is partly financed by Digg and aims to support county regions and municipalities in their data sharing, the participants is continuously reminded that it is important to monitor the re-use of their datasets in order to improve the datasharing in various ways. See https://www.vgregion.se/ov/dataverkstad/";Change;Yes;"Yes, we do this in several ways.
+# The Agency for digital governance (Digg) has a guide for how data should be relased as open data, and part of that guide is a particular section about user dialogue, re-use monitoring and continuous improvements of the released datasets. See https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information#h-Framjaanvandardialogochforvaltning  
+# In the education “Dataambassadörsprogrammet” we have a section called “Möjliggör hållbar användning av data” (in eng. Enable sustainable use of data), where we emphasize the importance of a user dialogue where e.g. useful information about data use can be gathered if the data users are willing to share that information. See a preview of the education (not sure for how long this link will work): https://estracer.se/edu/preview?epid=79e6c182-7298-4a12-9b43-814e3c225a13 
+# Also, in the work that is carried out in the project ""Nationell dataverkstad"", which is partly financed by Digg and aims to support county regions and municipalities in their data sharing, we continuously remind the participants that it is important to monitor the re-use of their datasets in order to improve the datasharing in various ways. See https://www.vgregion.se/ov/dataverkstad/ ";;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;;;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"Yes, in the national data strategy from 2021 the impact of open data is described as positive effects on society driven by data, more specifically something that strengthens the welfare of society, research and the private sector. 
+The data strategy: 
+SOURCE: https://www.regeringen.se/informationsmaterial/2021/10/data--en-underutnyttjad-resurs-for-sverige/
+
+Moreover, as assigned with responsibility to foster the open data movement in Sweden, in 2020 the Agency for digital government (DIGG) described open data impacts as the following areas:
+1) overall economic benefits (e.g. referring to the HVD-analys from 2020)
+2) new innovative services and products
+3) a data driven knowledge society
+4) A more efficient and innovative public administration
+5) the growth of data journalism
+6) research with new possibilities
+7) a resource for AI. 
+
+See information about DIGGs description on impacts in Swedish: https://www.digg.se/kunskap-och-stod/oppna-och-delade-data 
+
+In addition to the highlighted areas of impact, potential data users were also categorized based on identified need of data and general characteristics: 1) information driven users, 2) development driven users, 3) organisation improvement driven users, and 4) analysis driven users. See information about data users: https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer
+
+Moreover, in the new education called (in eng.) ""Data ambassadors"", an elborated and extended version of the above listed impacts are used to raise the awareness of impacts of open data re-use in a particular section of the education. See https://www.digg.se/om-oss/nyheter/nyheter/2023-02-21-digg-lanserar-dataambassadorsprogram-for-att-stodja-arbetet-med-oppna-data";Confirm;;;;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;"Yes, although it is not a single methodology but rather the accumulation of several processes.
+
+# At a national level, the Agency for digital government (DIGG) is both pushing the importance of a user driven opening up process and user dialogues, as well as the importance of collecting the insights about the impacts of re-use through seminars, national projects for escalating open and shared data, dialogues/networking with public organisations releasing open data, and having a presence in related social media groups. 
+
+# DIGG is also hosting a project about basic data, which focuses on both data that can be fully open and data that can be shared only within public sector, which gives additional insights into these re-use impacts. 
+
+# At local level, the processes for estimating the impact of re-use are set up by public bodies at their developer portals, open registries/databases etc. Most public bodies that have an API strategy measures the re-use as well as have web analytics on their websites.";Confirm;;;;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"The Agency for digital government (DIGG) participates in a knowledge network called NOSAD (Network Open Source And Data) that enables dialogue between various actors in society, among them civil society, academia, private sector and public organisations. The larger aim is to incentivise actors to join the open movement by data and code, and to learn and work towards open data impact. www.nosad.se 
+
+Also, several other initiatives works to create open data impact, e.g.:
+# The Civic Tech Sweden organizes people that advocates for more open data and does that in three different themes; 1) Power to the people (a democracy and transparency perspective), 2) Sharing is caring (collaborative economy, common resources and sustainable development), and 3) I like to move it (focus on transports and mobility). Read more on: https://civictech.se/en/ 
+
+# Open Knowledge Sweden works in a number of areas aiming to spread knowledge about open data and increase impact of re-use.
+https://okfn.org/network/sweden/";Change;Yes;"The Ministry of Finance has conducted  consultation meet-ups with a number of civil society organisations in order to inform about and discuss the Swedish realisation of the Open Government Partnership activity plan for 2023-2025. 
+See https://www.regeringen.se/rapporter/2023/05/sveriges-handlingsplan-for-open-government-partnership-20232025/";;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Change;Yes;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;No;;;;
+I8-b;Surveys;new question;new question;Change;Yes;The Swedish parliament conducted a survey about reuse of their data, as part of their efforts to improve and update their open data initiative. ;;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;During 2023, as part of the development of the new data portal, Digg arranged a number of interviews with open data users, aiming to identify their needs. ;;;
+I8-d;Other;new question;new question;Change;Yes;"The agency for digital government (Digg) has developed a new page for good exemples at the national dataportal and urges data users to send in examples of resue of open data. 
+";;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Change;Yes;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;As part of the concept development for the updated data portal that was launced in march 2024, Digg  has initiated a number of feedback sessions with users of the data portal was performed in early autumn 2023 in order to understand (from a design perspective) needs related to the data portal. Part of this work aimed at gaining a better understanding on how portal functionality could enable more reuse.;;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;;;;
+I9-c;Other;new question;new question;Change;Yes;This year, the Swedish Riksdag har performed a larger initiativ with their open data, and as part of that work, they initiated several meet-ups with users of their open data in order to better understand the underlying needs of data.  ;;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";Yes;"The Agency for Digital Government (DIGG) urges open data enables open data users to share their story on open data in the community connected to the Swedish dataportal, aiming both to create valuable insights for DIGG and for other open data user and data publishers.  https://community.dataportal.se/topic/470/om-kategorin
+
+We are also currently in a process to improve a betaversion of the national dataportal (https://beta.dataportal.se/) from an UX perspective, and one of the top priorities is to clarify an area for re-use cases, so this will be available later this year. ";Change;Yes;"The Agency for Digital Government (DIGG) enables open data users to share their story at the Swedish data portal (See https://www.dataportal.se/goda-exempel), aiming both to create valuable insights for DIGG and for other open data user and data publishers.  
+";;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";I don't know;;Confirm;I don't know;;;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";I don't know;;Change;No;;;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"""Svenskt Ambulansflyg"" (in eng. Swedish air ambulance), an organisation owned by all 21 Swedish regions, uses a weather service from the Norwegian company “Norsk Luftambulanse Teknologi” to plan their transports of patients to/from hospitals. The Norwegian weather service is based on open weather data from SMHI (the Swedish Meterological Institute), so “Svenskt Ambulansflyg” is indirectly using open weather data from Sweden to make their air transport services more efficient and reliable. 
+
+See reuse case: https://www.svenskt-ambulansflyg.se/verksamhet/fkc-koordinering-av-flyg-och-medicin/ 
+See Norwegian company: https://norskluftambulanse.no/
+See SMHI's open data: https://www.smhi.se/data/utforskaren-oppna-data (we are not sure exactly which open datasets are used, only that it is open data from SMHI)";;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The public news channel SVT (Sveriges Television, in eng. Swedish Television), created a digital ""robot"" that visualized what subjects the politicians has talked about the last 20 years. This service was based on the open data from the Swedish Riksdag. 
+
+Link to service: https://www.svt.se/datajournalistik/svts-robot-det-har-pratar-man-om-i-riksdagen/ (if you klick the ""Utforska själv"", you'll find a section about their method). 
+
+Link to used datasets: https://www.riksdagen.se/sv/dokument-och-lagar/riksdagens-oppna-data/";;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"# The news outlet ""iSkogen"" (in eng. In the forest) has compared data from sthe Swedish Forest Agency with satelite data used in a Nature research article in order to elaborate on a commonly critized research results with the capacity to influence policies on deforestation. 
+The news article: https://iskogen.se/skogsbruk/avverkningsniva-jrc-svensk-laserdata/ 
+Dataset used: https://www.skogsstyrelsen.se/sjalvservice/karttjanster/skogliga-grunddata/ 
+";;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"# The Swedish National Road and Transport Research Institute (VTI) utilises a number of data sources for analysis, and where the results are used for making decisions on traffic control strategies. The impact is improved traffic control strategies.
+https://www.vti.se/forskning/transportsystemanalys-och-logistik/transportsystemanalys/bearbetning-och-analys-av-trafikdata";;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";No;"COMMENT: We have obviously misinterpreted this question, and we do not currently have that kind of data. However, we are planning to start collecting this type of data when we launch an updated version of the Swedish dataportal later this year. Then we will have a clear page for reuse cases which enables us to filter out the statistics that we think you are looking for. Therefore we have have our reply to NO. 
+The answer below can be removed. 
+---------------
+
+Yes, here are some examples.
+
+# A new data lab related to innovating and evolving prehospital health care practices by data was launched in 2021 by a number of research actors. The main aim is to become a central knowledge node for Regions (the state actors responsible for regional health care), private sector actors, and researchers. Prehospital care is centred around ambulance practice and the advanced information exchange that takes place before patients arrive at the hospital. The data lab supports the structuring, sharing and usage of data in a secure way based on various technologies such as AI, synthetic data and cloned data.
+SOURCE:  https://www.hb.se/om-hogskolan/aktuellt/nyhetsarkiv/2021/november/nu-startar-sveriges-forsta-prehospitala-datalabb/              
+
+Exemples of data with impact on societal challanges  already published: Healthcare: Covid 19: https://covid19dataportal.se/ Inequality: https://skr.se/download/18.5627773817e39e979efbb3b2/1643290142550/7585-413-7.pdf                                                                                                                                                          ";Confirm;;;;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"# Statistics Sweden is using data from the Migration Agency in an in-depth analysis of the economic effects of the increase in migrants from Ukraine. 
+https://www.scb.se/hitta-statistik/temaomraden/sveriges-ekonomi/fordjupningsartiklar_Sveriges_ekonomi/migrationen-fran-ukraina-hojde-bnp-marginellt/ ";;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Econans – a company that uses government open data to sell services related financial support for e.g. private citizens. Part of this support is related to keeping track housing expenditures related to relocating from one housing to another etc. 
+SOURCE service: https://econans.se/  
+SOURCE for datasets used: 
+-	Tax levels per municipality: https://www.dataportal.se/sv/datasets/6_68000/skattesatser-per-kommun  
+-	Average rental price levels: https://www.dataportal.se/sv/datasets/6_68635/genomsnittshyror-for-bostader-2019-2021 ";;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The Swedish Television has conducted an in-depth investigation of the care of elderly based on data from e.g. the Swedish 
+
+Link to case: https://www.svt.se/datajournalistik/demensvarden-i-sverige/
+
+Link to data: https://www.socialstyrelsen.se/statistik-och-data/oppna-data/ (data om care of elderly are under the section for statistics).";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;Last year we misinterpreted this question and thought it was enough with a good example of open data use. But we don't have any information on the broader impact on societal level. ;;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";No;"COMMENT: We have obviously misinterpreted this question, and we do not currently have that kind of data. However, we are planning to start collecting this type of data when we launch an updated version of the Swedish dataportal later this year. Then we will have a clear page for reuse cases which enables us to filter out the statistics that we think you are looking for. Therefore we have have our reply to NO. 
+The answer below can be removed. 
+...............
+
+# Databases from different areas with data for climate adaptation. The databases are compilations of various forms of analysis or websites for retrieving raw data or metadata.                                                                                            SOURCE: https://www.klimatanpassning.se/klimatanpassa/underlag-for-klimatanpassning/databaser                                                                                                                                            # Climate database from the Swedish National Board of Housing, Building and Planning. This open data contains information on over 200 generic building products in Swedish and English.       SOURCE: https://www.boverket.se/sv/om-boverket/publicerat-av-boverket/oppna-data/boverkets-klimatdatabas/ ";Confirm;;;;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"# The app “Biologg” has been described as a Pokemon Go for the nature since it lets the user log different observations in nature as part of a game. This enhances learning about animals and wild arts, e.g. the more insects or mushrooms you are able to log and identity, the more points you get. The game is based on a database from the Swedish Species Information Centre. The logged information about species in nature is also shared with scientists in order to better understand how to protect biodiversity and also fueled back as input to the ""Artdatabank"" (database on species).
+
+SOURCE: https://www.biologg.se/ 
+SOURCE dataset used: https://www.artdatabanken.se/ ";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Skjutsgruppen (in English: the ridesharing group) is an open carpooling community. The service uses open data to create and visualize door to door trips including pooling using cars, busses, bikes and air baloons as well as public transport.
+SOURCE: https://skjutsgruppen.se/ 
+SOURCE dataset used: https://www.trafiklab.se/api/resrobot-reseplanerare ";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The datadriven service Vultus helps farmers to optimize fertilizer usage, thus avoiding unnecessary emissions. The service uses satellite and weather data including the fields historic data that enables more precise prescriptions. 
+SOURCE: https://www.vultus.se/ ";;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The web service “Klimatkollen” (in English: Climate check-up) enables citizens to look up the level of carbon emissions, related to the set CO2 budget from the Paris agreement, across Swedish municipalities. It aims to raise awareness of the importance of addressing climate change. The service is based on public available data. 
+
+LINK: https://klimatkollen.se/ 
+
+For information on data used, they several datasets, see this section at their web: https://www.klimatkollen.se/kallor-och-metod (and choose ""Om våra källor""). ";;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";yes;"UPDATED ANSWER:
+Yes, in preparation for negotiations on the list with valuable datasets listed in the open data and psi directive the Swedish National geological survey agency calculated the value of certain datasets. Environmental data was part of two that were calculated. Geological data was valued at 800 million SEK/year and i almost entirely environmental data. Geospatial data was valued at 5 400 milion SEK/year and is in large part environmental data.  Part of this is already released as open data and some was estimates in impact on releasing this as open data, see attached word doc for detailed status on availability/openness of the data. 
+
+The analysis showed, of the proposed data sets, property data, geodetic data, soil type data, species observations, red-listed animals and plants, satellite images as well as image and altitude data can contribute especially to the work with the UN's environmental and climate goals in Agenda 2030 with the 17 sustainability goals. Making the proposed amounts of data available contributes to both the national and the international work towards these goals. Nationally, the effects are seen, among other things, in the form of the promotion of biodiversity, environmental protection, streamlined work in forests and land and increased opportunities for individuals to use nature and its resources. Internationally, the effects are seen in the form of simplified collaborations and increased access to information when data from different countries can be combined to solve global challenges regarding environmental and climate impact. Thus, they constitute the proposed data sets an important piece of the puzzle in solving global climate and environmental problems
+
+Link to full report: https://www.lantmateriet.se/contentassets/e16a59e08cb744149c878776256560e6/slutrapport---tillgangliggorande-av-sarskilt-vardefulla-datamangder.pdf
+
+Link to an english shorter version: https://www.lantmateriet.se/contentassets/e16a59e08cb744149c878776256560e6/open-data-report-summary-2020-06-04.pdf";Change;No;;;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;" Improved job matching for unemployed through e.g. a Blockchain solution based on Gov open job data to simplify the compensation process in case of job loss (AXA), or AI job matching and recruitment. 
+SOURCE: https://rektra.se/    ";;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;Biometria, a data lab related to forests and industry, uses e.g. AI on data in their innovation activitity together with a range of other actors. https://www.biometria.se/om-biometria/innovation/biometria-labs/utfoerda-tester/ ;;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The start-up company GeoInt AB is rather newly started by a researcher which utilizes open geodata and AI-technology to offer a number of services witin the Geodata intelligence area. 
+See: https://www.geoint.se/
+Although we don´t know exactly which open geo data that have been used, the owner reports using several open geodata from https://www.lantmateriet.se/oppnadata";;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The app “Biologg” has been described as a Pokemon Go for the nature since it lets the user log different observations in nature as part of a game. This enhances learning about animals and wild arts, e.g. the more insects or mushrooms you are able to log and identity, the more points you get. The game is based on a database from the Swedish Species Information Centre. The logged information about species in nature is also shared with scientists in order to better understand how to protect biodiversity and also fueled back as input to the ""Artdatabank"" (database on species). The crowdsourcing aspect of Biologg increases the productivity of gathering information to the database on Swedish species. 
+
+SOURCE: https://www.biologg.se/ 
+SOURCE dataset used: https://www.artdatabanken.se/ ";;;

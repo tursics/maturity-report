@@ -1,0 +1,342 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;https://dane.gov.pl/;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;yes;Dane.gov.pl as a whole is a system based on a microservices architecture, with clearly defined layers of presentation, business logic and data. From the perspective of system components, these are three-layer monolithic applications in a classic client-server architecture. Most websites operate as containers, which allows them to be easily scaled, deployed and managed later. The dominant interface for communication between services is the REST API. The system portal, i.e. the frontend element, is written using TypeScript using the Angular framework, while backend services are written using Python 3 frameworks including: Falcon, Django, RDFLib, Wagtail CMS. Depending on the type of user, individual pages are rendered on the client side (CSR) or server side (SSR). The system components are located on the VMware vSphere virtualization platform.
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;"The API is described in Regulation of the Council of Ministers on the data portal.
+Technical description of API is provided at: https://api.dane.gov.pl/spec/1.4"
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;There is a SPARQL search engine available at: https://dane.gov.pl/en/dataset/sparql
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;API documentation is available at: https://api.dane.gov.pl/doc
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"On the SPARQL search page: https://dane.gov.pl/en/dataset/sparql there are examples of queries;
+link to SPARQL documentation: https://www.w3.org/TR/sparql11-query/"
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"Users report the applications they have created in PoCoTo section: https://dane.gov.pl/en/showcase?page=1&per_page=50&q=&sort=-date. 
+Users who upload data on portal may enrich it via adding supporting documents. Supporting documents can be added to data sets or resources.
+Example of a data set with a supporting documents: https://dane.gov.pl/en/dataset/2904,zbior-danych-z-badania-ilosciowego-zrealizowanego
+Example of a resource with a supporting document: https://dane.gov.pl/en/dataset/3520,dane-podmiotow-swiadczacych-uslugi-publiczne-z-kat/resource/57229/table?page=1&per_page=20&q=&sort="
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"See section ""Stay in touch with us""
+https://dane.gov.pl/pl/forms/ankieta-o-portalu It is a survey for users and its last question can  be used to submit general comments, suggestions and remarks.
+There are other forms of contact available that can be used by portal users apart from general e-mail address - these are thematic contact forms for subbmitting new proposals for datasets reuse cases to be published - https://dane.gov.pl/en/dataset/submissions and https://dane.gov.pl/en/showcase/suggest";Complement;;"See section ""Stay in touch with us"" (at the bottom of a portal page)
+https://dane.gov.pl/pl/forms/ankieta-portal-2024 It is a survey for users and its P5 question can  be used to submit general comments, suggestions and remarks.
+There are other forms of contact available that can be used by portal users apart from general e-mail address - these are thematic contact forms for subbmitting new proposals for datasets and reuse cases to be published - https://dane.gov.pl/en/dataset/submissions and https://dane.gov.pl/en/showcase/suggest
+Contact information regarding the list of protected data is provided on the DGA section: https://dane.gov.pl/en/dga/information"
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"See red buttom ""Send feedback"", e.g. https://dane.gov.pl/en/dataset/609,areas-susceptible-to-groundwater-flooding";Complement;;"See red button ""Send feedback"" available for data sets, e.g. https://dane.gov.pl/en/dataset/609,areas-susceptible-to-groundwater-flooding
+The same button is available for resources, e.g. https://dane.gov.pl/en/dataset/609,areas-susceptible-to-groundwater-flooding/resource/39368/table"
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";No;"The user can rate data by submitting feedback in the box ""Enter your rate or feedback on the above suggestion"" https://dane.gov.pl/en/dataset/submissions/accepted - click on the dataset title to go to the appropriate form.
+ANSWER TO REVIEWER 2 COMMENT:
+There is at the moment no such rating mechanism in place.
+";Change;Yes;"The user can rate data by submitting feedback in the box ""Enter your rate or feedback on the above suggestion"" https://dane.gov.pl/en/dataset/submissions/accepted - click on the dataset title to go to the appropriate form.
+It is possible to like suggestions for new data - see print screen;
+The form of rating are the statistics of the most popular data sets on the portal - see print screen.
+Another way to rate the portal is a survey in which users answer questions related to the functioning of the portal: https://dane.gov.pl/pl/forms/ankieta-portal-2024"
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://dane.gov.pl/pl/article;Complement;;"News section: https://dane.gov.pl/pl/article
+Events section: https://dane.gov.pl/en/knowledgebase/events
+Calendar of upcoming events related to open data: https://dane.gov.pl/pl/knowledgebase/useful-materials/kalendarium
+The latest examples of data use available on the main page of the portal - PoCoTo - Data reuse: https://dane.gov.pl/en
+"
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"""The """"Follow"""" function notifies the user about changes in selected collections.
+Users are invited to subscribed to a newsletter.
+This functionallyty is available only for logged in users so providing a link is difficult. To see how it look like for a user, please use this link https://dane.gov.pl/en/dataset/2913,dane-pomiarowe-esa-edukacyjna-siec-antysmogowa - there is a ""follow"" button just at the top of the dataset list (on the left). If this explenation is not enought we can provide you with some printscreen to illustrate how it functions
+There is another possibility to be notified about new datasets for users that are subscribed to the newsletter - the most notable datasets recently added to the portal are endorsed in each issue.";Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://dane.gov.pl/en/dataset/submissions;Confirm;;
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://dane.gov.pl/pl/dataset/submissions/accepted;Confirm;;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;Open data team from MDA monitors these requests remaing in contact with data providers (or directly cooperating with relevant open data officers).;Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;Logged in users with the status of a representative can use the forum. The forum is available only for logged in users so providing URL to this functionality is difficult. We are providing you with some print screens illustrating how the forum looks like for the  users (these are attached to the email this questionnair is send back to you).;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://dane.gov.pl/pl/showcase;Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;"https://dane.gov.pl/en/showcase/1261,aleocom see section ""related datasets"" towards the bottom of the page
+https://dane.gov.pl/en/dataset/1176,lista-beneficjentow-projektow-funduszy-europejskich-2014-2020, see section ""Related reuse examples"" towards the bottom of the page";Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://dane.gov.pl/en/showcase/suggest;Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://dane.gov.pl/pl/dataset/2715/resource/38594,zarejestrowane-wnioski-o-nadanie-statusu-ukr-w-zwiazku-z-konfliktem-na-ukrainie-stan-na-12052022-r/table?page=1&per_page=20&q=&sort=;Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://dane.gov.pl/pl/dataset/1673/resource/37820,rejestr-instalacji-posiadajacych-pozwolenia-zintegrowane-wedug-stanu-na-31032022-r/map?q=;Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"The portal allows you to filter high-value data sets and resources. The filter is accessible in the Data tab on the left (""High value data""): https://dane.gov.pl/en/dataset
+There is a section dedicated to HVD: https://dane.gov.pl/pl/knowledgebase/useful-materials/dane-o-wysokiej-wartosci-hvd
+High-value data is promoted on the portal. Example of promoted HVDs:
+https://dane.gov.pl/pl/dataset/3101,morze-baltyckie-hydrologia-z-rejsow-badawczych; https://dane.gov.pl/pl/dataset/3016,morze-baltyckie-meteorologia-rejsy-badawcze; https://dane.gov.pl/pl/dataset/780,panstwowy-rejestr-nazw-geograficznych-prng;
+All HVD is graphically marked "
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;"(1) the CSV system generates reports on the state of the institution, data sets, resources and users.
+(2) Kibana - system log analysis tool
+(3) Matomo - website access and traffic analysis
+";Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Complement;;"The mechanism built into the portal provides regular statistics on API usage.
+This information is used to obtain more data   through API from suppliers."
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;"user surveys https://dane.gov.pl/pl/forms/ankieta-o-portalu?lang=pl
+The users' responses are periodically analised and a report is prepared. The latest report is available at the link https://cms.dane.gov.pl/documents/103/Ocena_portalu_Dane.gov.pl_raport_z_badania.DOCX  
+Data from the report were additionally published in the dataset https://dane.gov.pl/pl/dataset/2906 
+A study was conducted to assess the advancement of the process of opening data in local government units https://cms.dane.gov.pl/documents/117/JST_2022_Raport_z_badania_final.docx 
+When planning promotional activities on Facebook, we analyze the popularity of posts (coverage) and sentiment (reactions). The content published on the Open Data profile on Facebook, on thematic groups in the IT area or on influencers' profiles are received positively and commented on favourably. Users can react positively or negatively to profile posts. In the open data profile, negative reactions appear only sporadically. This is confirmed by detailed reports from interactive agencies carried out as part of online campaigns. In 2022, such reports were prepared as part of the campaigns for Datthaton and the one promoting APIs ""Adopt an API"".";Complement;Yes;"User surveys are periodically conducted. Ongoing survey is available at: https://dane.gov.pl/pl/forms/ankieta-portal-2024
+The users' responses are periodically analised and a report is prepared.
+Final report on the evaluation of the Act on Open Data and Re-use of Public Sector Information is available at: https://cms.dane.gov.pl/documents/144/Raport_ko%C5%84cowy_ewaluacja_ustawy_OD.pdf   
+The report on the Open Data Programme for the years 2021-2027 is available at: https://cms.dane.gov.pl/documents/153/Raport_ko%C5%84cowy_MC_22.01.2024_ost.pdf
+The MDA team periodically analyzes proposals for new data submitted by users
+The MDA team constantly analyzes notifications and comments from suppliers and users sent to the e-mail address: kontakt@dane.gov.pl
+When planning promotional activities on Facebook, we analyze the popularity of posts (coverage) and sentiment (reactions). The content published on the Open Data profile on Facebook, on thematic groups in the IT area or on influencers' profiles are received positively and commented on favourably. Users can react positively or negatively to profile posts. In the open data profile, negative reactions appear only sporadically."
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;"Portal users submit their comments by completing periodic surveys, currently available: https://dane.gov.pl/pl/forms/ankieta-portal-2024
+Users can also submit comments for each data set and resource.
+Based on these activities, the portal is systematically developed. Last year activities:
+- added the ""Personal data in the data portal"" section: https://dane.gov.pl/pl/knowledgebase/useful-materials/udostepnianie-w-portalu-danegovpl-zasobow-zawierajacych-dane-osobowe,
+- added a ""List of protected data"" filter: https://dane.gov.pl/en/dataset?page=1&per_page=20&q=&sort=-date&contains_protected_data%5Bterm%5D=true
+- added HVD section: https://dane.gov.pl/pl/knowledgebase/useful-materials/dane-o-wysokiej-wartosci-hvd
+- ongoing analysis of the portal's development and introduction of new functionalities, e.g. added address for electronic delivery for suppliers
+-  FERC Data 3.0 project which developes further functionalities in the portal"
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;"1.Promotional campaign on the Internet: ""10 years of dane.gov.pl"", addressed to the general public, with particular emphasis on businesses creating applications and programs from data and the media. Promotion of open data and dane.gov.pl (logo, press conference with the participation of the Prime Minister, media releases, film, animation, graphics, communication in social media) https://dane.gov.pl/pl/article/polska-liderem-w-otwieraniu-danych-publicznych; https://www.gov.pl/web/cyfryzacja/polska-liderem-w-otwieraniu-danych-publicznych
+2. Promotion of open data and dane.gov.pl at a stand during the IGF Polska Digital Summit, Wrocław, October 4, 2023. Competition for young people and teachers. Prizes for correct answers to questions about educational films about data and the dane.gov.pl presented to the participants. 
+3.Participation in a radio broadcast on the national station Polskie Radio 1 https://jedynka.polskieradio.pl/artykul/3310841,Polska-i-%C5%9Awiat-04012024 What is open data and what conditions should it meet and who mainly uses it? uses.
+4.Regular promotion of dane.gov.pl through Open Data profile on Facebook and occasional press materials about data dane.gv.pl - sent out to the media and published on government websites.
+5. The open data team from the Ministry of Digital Affairs takes part in other various conferences and events promoting portal and addressing prospective users - for examples see answer to Q P29 (points 2,6,8,11,12,13,14)
+6. Most strategic documents contain information about the portal"
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;"The words most frequently searched by users are reported in the statistics module: https://dane.gov.pl/pl/user/dashboard/stats. The number of searches appears next to each word. Examples of the most popular are: surnames, cert, given names, dga.
+This information helps, for example, position and highlight the most popular data sets (marked with a blue frame on the portal: https://dane.gov.pl/pl/dataset)
+Based on searched keywords, MDA works to ensure that suppliers share as much of this type of data as possible"
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"The most frequently viewed data sets are reported in the statistics module: https://dane.gov.pl/pl/user/dashboard/stats. Each data set has a number of views. The most popular are:
+- Surnames appearing in the PESEL register https://dane.gov.pl/en/dataset/1681,nazwiska-osob-zyjacych-wystepujace-w-zdrowie-pesel
+- Names given to children in Poland https://dane.gov.pl/en/dataset/219,imiona-naowane-dzieciom-w-polsce
+- List of names appearing in the PESEL register https://dane.gov.pl/en/dataset/1667,lista-imion-wystepujacych-w-prezentze-pesel-osoby-zyjace
+- Surnames appearing in the PESEL register, including the names of deceased persons https://dane.gov.pl/en/dataset/568,nazwiska-wystepujace-w-zdrowie-pesel
+- Police personnel data https://dane.gov.pl/en/dataset/540,dane-kadrowe-policji
+This information helps, for example, position and highlight the most popular data sets (marked with a blue frame on the portal: https://dane.gov.pl/pl/dataset).
+We analyze the rarest data according to view statistics and their quality to enable their improvement"
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;The words and phrases used to search collections and data are monitored on an ongoing basis. On the basis of this information, work is carried out in order to optimize the search process and facilitate the users' access to information. The search engine of the dane.gov.pl portal has been integrated with the search engine of the KRONIK@ portal (portal with open resources of culture and science). This task was carried out using the SPARQL search engine. The tool enables to search for metadata of data providers, datasets and data in the RDF database using the SPARQL query language. The tool is intended for experienced users of the SPARQL language /https://dane.gov.pl/pl/dataset/sparql;Complement;;"The words and phrases used to search collections and data are monitored on an ongoing basis. On the basis of this information, work is carried out in order to optimize the search process and facilitate the users' access to information. The search engine of the dane.gov.pl portal has been integrated with the search engine of the KRONIK@ portal (portal with open resources of culture and science). This task was carried out using the SPARQL search engine. The tool enables to search for metadata of data providers, datasets and data in the RDF database using the SPARQL query language. The tool is intended for experienced users of the SPARQL language /https://dane.gov.pl/pl/dataset/sparql
+New filters have been added to optimize the search, e.g. ""high value data"", recently ""List of protected data"",
+We are trying to increase search through the portal for data from regional portals."
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Complement;;"Metadata is legally established in the Regulation of the Council of Ministers on the data portal and described in the Guide for data providers
+In the Open Data Programme for the years 2021-2027, we care about the quality of metadata,
+API documentation is available at https://api.dane.gov.pl/doc
+It is possible to download metadata for all data sets and resources on the portal. On the website https://dane.gov.pl/en/dataset there is a button ""Download metadata for the catalog"", which allows you to download data in CSV and RDF format"
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";all public sector data providers;All public sector data providers contribute to the data portal. They are following the legal requirements in the Open Data Act of August 11 2021 and Open Data Program. They are supervised and coordinated In this task by to Open Data Officers and offered expert support and training form the Open Data Team.;Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"1. In 2023 new updeted version of the guide to support offices in opening data was published: “Data opening. Good Practice Handbook” https://cms.dane.gov.pl/documents/121/otwieranie_danych_praktyczny_poradnik.pdf . Previous guides are available in the knowledge base of the dane.gov.pl portal https://dane.gov.pl/pl/knowledgebase/useful-materials/podreczniki-dot-otwartosci-danych 
+2. Guide for data providers was regularly updated https://dane.gov.pl/knowledgebase/useful-materials/nowy-przewodnik-dla-dostawcow-danych
+3. Trainings and courses for providers (for example, pilot online workshops on opening data for representatives of local government units)
+4. Regular meetings with open data officers
+5. New information section for data providers regarding HVD
+6. MDA informed the open data officers and portal editors in writing about the new national portal metadata (HVD, DD, data language)
+7. The open data team answered questions from data providers i.e. how to prepare data for publication and how to publishing data on the national portal
+8. MDA shared good practices regarding opening data with open data officers (i.e. encouraged them to create information pages on the institution's intranet dedicated to data sharing)
+9. MDA organized a webinar for scientific institutes of the Polish Academy of Sciences about  the subject of data openness (26.07.2022). During the webinar, representatives of the MDA discussed i.a. the regulatory scope of the Open Data Act, principles of re-use of research data and presented the process of data sharing on the dane.gov.pl portal.
+10. Open data standards (legal, security, technical and API) are available
+https://dane.gov.pl/pl/knowledgebase/useful-materials/standardy-otwartosci-danych
+";Complement;;"1. Guide for data providers was regularly updated https://dane.gov.pl/knowledgebase/useful-materials/nowy-przewodnik-dla-dostawcow-danych
+2. Continuation of trainings and courses for providers (for example, online workshops on opening data for representatives of local government units)
+3. Regular meetings with open data officers
+4. In 2023, MDA started a series of training sessions for local governments regarding the asset list of protected data resources
+5. The open data team answered questions from data providers i.e. how to prepare data for publication and how to publish data on the national portal
+6. MDA shared good practices regarding opening data with open data officers (i.e. encouraged them to create information pages on the institution's intranet dedicated to data sharing)
+7. Ongoing promotion and dissemination of data standards (technical, API, legal, security): https://dane.gov.pl/pl/knowledgebase/useful-materials/standardy-otwartosci-danych
+8. Keeping suppliers informed about the process of publishing data on the portal"""
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;"1) https://ckan.multimediagdansk.pl/
+2) https://www.szczecin.eu/pl
+3) https://otwartedane.gdynia.pl/";Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";all datasets;;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;https://dane.gov.pl/pl/dataset?page=1&per_page=20&q=&sort=-date&has_dynamic_data%5Bterm%5D=true;Confirm;;
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;Yes;"Non-official data can be published by private sector providers: https://dane.gov.pl/en/institution?page=1&per_page=20&q=&sort=title&institution_type%5Bterms%5D=private.
+This data is assigned to the category of private providers.
+Example: https://dane.gov.pl/pl/dataset/2880,iv-badanie-odpornosci-oprawek-na-dzialanie-niskich"
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;"https://dane.gov.pl/pl/dataset/submissions/accepted (The functionality that the link is connected with allows a user to see what data other users are asking for. These are data that, according to portal users, are in the possession of various institutions but are not open and are not published at dane.gov.pl. Therefore, in our opinion, this list meets the requirements specified in your question.
+
+An inventory of public administration systems/registers is carried out periodically. https://dane.gov.pl/pl/dataset/195,systemyrejestry-gromadzace-dane-publiczne";Complement;;"https://dane.gov.pl/pl/dataset/submissions/accepted - The functionality that the link is connected with allows a user to see what data other users are asking for. These are data that, according to portal users, are in the possession of various institutions but are not open and are not published at dane.gov.pl. Therefore, in our opinion, this list meets the requirements specified in your question.
+
+An inventory of public administration systems/registers is carried out periodically. https://dane.gov.pl/pl/dataset/195,systemyrejestry-gromadzace-dane-publiczne
+
+Asset list of protected data resources is data that is listed but not directly available on the portal: https://dane.gov.pl/en/dataset?page=1&per_page=20&q=&sort=-date&contains_protected_data%5Bterm%5D=true"
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;"The portal is regulated in a document in the form of an act: Act on open data and re-use of public sector information, a regulation: Regulation of the Council of Ministers on the data portal
+Resolution of the Council of Ministers on the Open Data Programme for years 2021-2027 is also such a strategy: https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027"
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;https://www.facebook.com/danegovpl;Confirm;;
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;https://dane.gov.pl/source-code/;Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;"https://dane.gov.pl/pl/user/dashboard/stats
+
+ANSWER TO REVIEWER 1 COMMENTS:
+These are the following stats:
+1 Ranking of institutions with the largest amount of resources
+2 Number of resources
+3 Number of new resources
+4 Ranking of providers with the largest number of data sets
+5 Number of datasets
+6 Number of new datasets
+7 Datasets with the most downloads
+8 Most popular datasets
+9 Ranking of providers with the highest number of downloads
+10 Ranking of the most popular providers
+11 Data ranking with the highest number of downloads
+12 Ranking of the most popular resources
+13 Number of resources broken down by degree of openness
+14 Most popular formats
+15 Most used categories
+16 Most used keywords
+17 Most searched words
+18 Ranking of providers with the largest number of new datasets in the last month
+19 Ranking of dataset observations
+20 Number of dataset views
+21 Number of dataset downloads
+There are plans to make the access to statistics available to every user without logging in.
+Also, apart from aboce, matomo statistics are used for internal use by open data team.";Complement;;"https://dane.gov.pl/pl/user/dashboard/stats
+
+It includes the following statistics:
+1 Ranking of institutions with the largest amount of resources
+2 Number of resources
+3 Number of new resources
+4 Ranking of providers with the largest number of data sets
+5 Number of datasets
+6 Number of new datasets
+7 Datasets with the most downloads
+8 Most popular datasets
+9 Ranking of providers with the highest number of downloads
+10 Ranking of the most popular providers
+11 Data ranking with the highest number of downloads
+12 Ranking of the most popular resources
+13 Number of resources broken down by degree of openness
+14 Most popular formats
+15 Most used categories
+16 Most used keywords
+17 Most searched words
+18 Ranking of providers with the largest number of new datasets in the last month
+19 Ranking of dataset observations
+20 Number of dataset views
+21 Number of dataset downloads
+
+Also, apart from above, matomo statistics are used for internal use by open data team.
+
+Additionally, resources illustrating the characteristics of all data on the portal are periodically published in the ""List of resources available on the data portal - Dane.gov.pl"" data set: https://dane.gov.pl/en/dataset/971,lista-zasobow-udostepnionych-w-portalu-danych-dane-gov-pl"
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;"https://dane.gov.pl/pl/user/dashboard/stats
+Statistics allow you to monitor data published by providers
+
+ANSWER TO REVIEWER 1 COMMENTS:
+Statistics allow open data team and data providers to monitor the data published by suppliers and indicate the needs of users who reuse them. Ongoing monitoring of these statistics allows to plan cooperation with data providers to increase the amount of data from a specific category that should be available to users due to their interest in these resources, as well as to set a plan to expand the system in the infrastructural layer due to the increased amount of data. It also allows to create a concept of information and promotion activities for these new resources and the most popular resources with the potential for reuse.";Confirm;;

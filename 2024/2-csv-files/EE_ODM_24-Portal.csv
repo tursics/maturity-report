@@ -1,0 +1,204 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;https://avaandmed.eesti.ee/;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;N/A;Custom development, based on Typescript, Html, monitoring Matomo, logging Kibana, PostgreSQL, SOLR. 
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;"API manual https://avaandmed.eesti.ee/instructions/api-manual ; Open Data Portal API description https://avaandmed.eesti.ee/instructions/open-data-portal-api"
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;"SPARQL Queries on our portal https://avaandmed.eesti.ee/instructions/sparql-queries ; API manual https://avaandmed.eesti.ee/instructions/api-manual ; Open Data Portal API description https://avaandmed.eesti.ee/instructions/open-data-portal-api"
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"API manual https://avaandmed.eesti.ee/instructions/api-manual ; Open Data Portal API description https://avaandmed.eesti.ee/instructions/open-data-portal-api"
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;https://avaandmed.eesti.ee/instructions/sparql-queries
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;Yes;All users are able to add new sub-datasets that have enriched or created.
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://avaandmed.eesti.ee/discussions;Confirm;;
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"https://avaandmed.eesti.ee/discussions
+
+To extend the answer. There is a possibility to provide feedback on dataset level when users are logged. Also there is a possibility to discuss regarding datasets: https://avaandmed.eesti.ee/discussions";Confirm;;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"https://avaandmed.eesti.ee/datasets/rahulolu-elukeskkonna-ja-avalike-teenustega-kohalikes-omavalitsustes.
+
+To extend the answer. Datasets can be rated when users are logged. The user has possibility to rate based on dataset quality, dataset metadata, description.";Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"https://avaandmed.eesti.ee/discussions
+
+Extending answer. There is a separate news section available at: https://avaandmed.eesti.ee/instructions";Confirm;;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"https://avaandmed.eesti.ee/
+
+Extending the answer, there is RSS feed available on the bottom of the portal. Also, if the user is logged in, they are able to manage their notifications, among other, when new datasets are requested, commented etc.";Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://avaandmed.eesti.ee/discussions;Confirm;;
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"https://avaandmed.eesti.ee/discussions
+
+For clarification, for requests that are solved, answer is provided, for example: https://avaandmed.eesti.ee/discussions/avaandmed.eesti.ee and for examaple : https://avaandmed.eesti.ee/discussions/ettevottega-seotud-soidukid";Confirm;;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;Open Data portal team monitor requests and take a communicates with data owner. If it is neccesary we advise data owner to publish data. ;Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://avaandmed.eesti.ee/discussions;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://avaandmed.eesti.ee/usage-stories;Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;For example you can see it here: https://avaandmed.eesti.ee/usage-stories/eesti-3d-kaksik;Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;"https://avaandmed.eesti.ee/usage-stories
+
+For clarification, use-cases can be added only when users are logged in to the portal. From a public view, this functionality is not available. Everyone with eID or username/password can do that.";Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://avaandmed.eesti.ee/datasets/liiklusloenduse-andmed;Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://avaandmed.eesti.ee/datasets/inspire-(tn)-eesti-sadamad-(wms);Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No; We are currently in-development to extend metadata standard to include HVD attribute and better distrinquish HVD from the rest of the datasets.
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;Google Analytics/Motomo;Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";no ;N/A;Confirm;No;
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;We conduct surveys (e.g. One of the last surveys was carried out to better undrstand what dat visualization solutions users want), conduct intervews (e.g. The las one was for understanding users main challenges regarding using the portal), also once a year we carry out an open data impact assesment to understand overall attitude and practices inside organisations.;Confirm;;
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;Yes, we use insights about portal usage and user behavior to improve its quality. We plan further developments based on feedback from agencies, collected through surveys and discussions. Recent changes in search options and UI design were made based on user feedback, and we remain open to receiving and acting on user suggestions to enhance the portal.
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;Yes, we promote our portal during our online and offline events, which include public, private, and academic representatives. Additionally, information about our portal is shared on our other data and AI-related pages, and our e-courses educate on open data publishing, directing users to our portal. This year, we also plan a communication campaign to raise awareness about our portal among businesses.
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;Such functionallity exists on the portal, however we use it quite rare.
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;For monitoring less and most consulted pages we have Matomo. In addition, We monitor the most downloaded datasets through our statistics page (https://avaandmed.eesti.ee/statistics), which helps us to understand what topics interest our users the most, so we plan our actions accordingly. We also analyse portal usage and least consulted pages, based on that either decide to improve functionalities or depreciate them.
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;"We planning to develop new searching funcionality. Our end goal will be such solution where datasets are found through google and data portal uses smarter searching tool (like elastic search).
+
+On a continuous basis we work on improving search optimisation to ensure that data is easily discoverable and accessible by users. We also validate each week whether the datasets are up to date, to ensure that search results are valid and lead to existing data. We have also implemented machine translation to improve search functionality of datasets in English. ";Confirm;;
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;We offer opportunity to use API to enable machines to read and undserstand. To humans we have UI where metadata is understandable to human;Confirm;;
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;There are two pillars of public sector in Estonia - municipal and central. The majority of central government's public sector data providers have published data on the portal. Unfortunately, local governments, representing municipal level, aren't publishing that much data (bigger local governments, where lives more than one third of Estonian population, publishing data in machine readable formats (both in the central portal and they have their own portal, too) but smaller local governments are really behind, lacking the knowledge and funds. With every year we are taking more serious approach towards local governments and trying to raise the level of their contribution by educating and consulting them. ;Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;Yes, or all public sector data providers already publish data;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;Data team of Ministry of Economic Affairs and National Information System Authority together with Statistics Estonia provides consultations for everyone, who needs an assistance with publication or description of datasets. Today we are trying to activly engage local governments using this mean. In addition, we have different working groups on data and AI related topics, working group meetings take place 1-2 times a month, other bigger events include annual Open Data Forum and Data camp. Last yearwe launched Data Steering Group, which brings together higher-level representatives from different public authorities to discuss data related questions. One more measure is creating e-courses, last year we made two publicly available e-courses on open data and its publication.;Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;"Here are few examples of regional/local portals: Tallinn geoportal https://www.tallinn.ee/est/geoportaal/;  Land Board geoportal https://geoportaal.maaamet.ee/; Tartu Statistics https://tartu.ee/et/statistika; http://metashare.ilsp.gr:8080/repository/search/";Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";approximately half of the datasets;Some of authorities intend to join automated harvesting (e.g. Transport Administration, Institute of the Estonian Language, Ministry of Environment), but the reason why we have less of majority of existing sources harvested automaticly is due to lack of financial means or knowledge about this feature. Moreover, some of authorities don't follow DCAT-AP standards. Luckily, knowledge level is getting better and we hope that more processes will become automated.;Change;None of the datasets;None, currently there is no interface
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;E.g. weather data https://avaandmed.eesti.ee/datasets/ilmavaatluste-andmestik;Confirm;;
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;Yes;"We do not separate ""non-official"" from ""official"" data, rather we differentiate between the organisation or person who has made the data available. That means that there is no restriction for publishing ""non-official"" data. However, currently we have only so-called official publishers made data available on our portal."
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;"There is an option to restrict an access to dataset and made it available only by personal request (e.g. https://avaandmed.eesti.ee/datasets/mkm-audiofailid). Users can see webpages and metadata of such datasets but there is a warning sign ""This dataset has limited access. Request access if you are unable to see the content!"". 
+";Confirm;;
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;"The portal itself doesn't have a separate strategy document. However, actions related with the further technical development of our portal together with other action supporting open data field are included in our open data action plan (https://www.kratid.ee/_files/ugd/980182_c8a4ab6ab9f7492584cb86c6a8fe7a2e.pdf). It includes – change of data model; new functionalities of the portal; migration of datasets to the new potential portal, called „data portal“, including open data and description of other information systems; updating guiding materials on our portal; adding national virtual assistants on our portal to answer questions based on open data, etc."
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;We don't have separate page for the portal in social media, but national portal topics are often covered in a Facebook group OpenESTdata https://www.facebook.com/groups/1792458637715167 and our Youtube channel called Kratid https://www.youtube.com/channel/UC8n2eMS8FeeBl-azungXn4A . We are also started to add more information about data and open data on our AI related webpage https://www.kratid.ee/ ;Confirm;;
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;https://koodivaramu.eesti.ee/andmete-teabevarav;Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;https://avaandmed.eesti.ee/statistics;Confirm;;
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;"For the portal team it is a great tool to observe how often and which datasets are being published, so we could see which categories need more attention (fewer publications may indicate a problem)
+
+";Confirm;;

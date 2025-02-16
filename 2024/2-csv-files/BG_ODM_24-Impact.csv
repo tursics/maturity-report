@@ -1,0 +1,345 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"Open data is the public information collected, created and maintained by public sector organizations and published in an open machine-readable format (CSV, RDF, XML, JSON, etc.), allowing re-use for commercial or non-commercial purposes.
+Reuse of public sector information is the use also for commercial or non-commercial purposes other than the original purpose for which it was created within the powers or functions of a public sector organization. The provision of public sector information to a public sector organization in connection with the exercise of its powers or functions is not reuse within the meaning of Access to Public Information Act. (Article 2a, APIA).
+
+https://e-gov.bg/wps/portal/agency/home/data/data";Confirm;;;;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;"The National Open Data Portal has processes in place at national level to monitor the reuse of open data. Tools are available to measure reuse, including number of users, dataset views and downloads, and overall portal usage. Using Google Analytics and Tableau, these statistics are publicly available at https://data.egov.bg/statistika?section=1&item=1 and https://lookerstudio.google.com/reporting/20a22fa9-a6dc-4f09-9c7b -192d5b24d1d1/page/DsNMB?s=jyhzby8b7FY.
+Also there are regular meetings with the Open Data Portal' Users. Their feedback, comments and suggestions on existing data are sought and invited to suggest additional data that may be useful to them.";Confirm;;;;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";yes;"The Network of Open Data Liaison Officers is a network of representatives of all Bulgarian public authorities, coordinated by the National Open Data Team. The Network of Liaison Officers meets periodically to discuss the promotion and monitoring of open data within their organizations and with stakeholders. Such an event was held in June in Pazardzhik, where Institute of Public Administration provided training together with the National Open Data Team
+The National Open Data Team also uses this network to send information to all public bodies, such as information about events, training, new portal features and support. The members of this network are also the points of contact for specific inquiries about the reuse of data published by their organization, ensuring that requests and questions are responsive.
+Regular open data training is also available to all public sector bodies, which includes the importance of re-using open data and the impact and how to measure re-use.";Confirm;;;;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;Not yet. We are still in process.;;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"https://egov.government.bg/wps/portal/ministry-meu/home/data/open-data/opendata-additionalinfo/
+https://e-gov.bg/wps/portal/agency/home/data/opendata/opendata-additionalinfo
+The impact of open data covers the activities carried out to monitor and measure the reuse of open data as a result of reuse in political, social, environmental and economic aspects. The impact leads to increased transparency, accountability, effectiveness and efficiency of government, the inclusion of marginalized groups, raising awareness and can help address a range of issues in different areas.";Confirm;;;;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";no;;Confirm;;;;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"We actively collaborate with civil society within the Open Government Partnership Initiative. For the fourth plan of the initiative, a working group was created by decree of the Council of Ministers with specific activities, deadlines, partners and a controlling organization. Any activity must be in cooperation among government structures and civil society. A Coordination Council with control functions was established with the relevant Deputy Prime Minister as chairman and relevant government structures' representatives as members.
+
+We actively work with NGOs (for example GATE Institute), Sofia University
+https://data.egov.bg/news/view/63
+https://data.egov.bg/news/view/51
+The institution and the GATE Institute will join forces to build new models of interaction between higher education and state administration, says the cooperation agreement recently concluded between the two countries.
+
+We actively collaborate with civil society in the framework of the Initiative
+
+Initially, the cooperation will focus on knowledge exchange and data sharing in the field of open and spatial data, development and development of a geospatial reference architecture for interoperability and a technological spatial platform in the infrastructure of the administration.
+ Participation of government and non-governmental organizations in joint working groups:
+ Access to Information Program
+https://www.aip-bg.org/
+Society for the Earth
+https://www.zazemiata.org/ 
+NGO Links
+http://www.ngolinks.eu/
+";Confirm;;;;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;Yes;Using events and regular communication to engage community and reusers to understand how datasets are reused;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;No;;;;
+I8-b;Surveys;new question;new question;Change;No;;;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;Using events and regular communication to engage community and reusers to understand how datasets are reused;;;
+I8-d;Other;new question;new question;Change;No;;;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Confirm;Yes;New explanation (optional);;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;No;;;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;;;;
+I9-c;Other;new question;new question;Change;Yes;"Automated feedback mechanism: Mattomo; Google Analytics";;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;"Each administration, according to Art. 15 of the Access to Public Information Act, prepares an annual report on the received applications for access to public information and for the reuse of information from the public sector, which also includes data on the refusals made and the reasons for this. The annual report is part of the annual reports under Art. 62, para. 1 of the Administration and Summary Information Act is published in the annual report of IISDA.
+One section of the Council of Ministers report examines the implementation of the obligations of state institutions following the Access to Public Information Act (APIA) to adopt internal rules for work under the Access to Public Information Act, to publish certain categories of information on their websites and to provide explanatory information on the exercise of the right of access to information by citizens and legal entities.
+An element of this part of the analysis is the data on the preferred form of obtaining the requested public information. The re-use summary section in the report is under development. results will be visible in next year report. 
+https://www.strategy.bg/Publications/View.aspx?lang=bg-BG&Id=81
+https://ariisda.government.bg/AdmReports/ReportingPeriods/QuestionnairePreview
+https://www.aip-bg.org/";Confirm;;;;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";No;;Confirm;;;;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";No;"The system for electronic budget payments (SEBRA) is a system for monitoring payments initiated by budget enterprises included in it and managing payments within pre-set limits. The implementation and improvement of SEBRA is a major component of the budget reform and, in particular, of the reform of the payment system for the budget sector, through which the following main goals are achieved:
+- improvement of the budget payments and rationalization of the payment process by centralizing the monetary resource in BGN in the Bulgarian National Bank and decentralized management and control of the payments of the individual systems, through the relevant primary administrator;
+- implementation of aggregated control and management of payments by setting a general limit for payments to the relevant budget appropriations, with a view to ensuring rhythmicity in the financing of state expenditures.
+Achieved results:
+- modernization, simplification and rationalization of cash management and budget execution;
+- improving efficiency in the management of budgetary resources;
+- limiting cash payments to the maximum extent;
+- increasing fiscal transparency;
+- improvement of fiscal discipline.
+https://e-gov.bg/wps/portal/agency/about-us/open-management/sebra-info
+https://data.egov.bg/data/view/6f3d3e61-9788-4092-b8bd-f37436ebd0f5
+
+The platform for access to public information was created and is maintained by the administration of the Council of Ministers according to Art. 15c, para. 1 of the Act on Access to Public Information (APIA). It represents a single, central, public web-based information system that provides electronically the entire process of submitting and considering an application for access to information, referral by competence if necessary, provision of a decision and publication of the relevant information by those obliged under the Law on Access to Public Information entities subject to the protection of the applicant's personal data according to the Personal Data Protection Act.
+https://pitay.government.bg/PDoiExt/
+Portal for public consultations
+https://www.strategy.bg/
+
+The opening of this data has led to a great deal of public interest and discussion. These data were requested through an annual list of priority data sets approved by Decision of the Council of Ministers to be published and updated continuously. This led to strong public interest, making easier and more adequate decisions by experts based on open data and information.
+
+The Open Data team maintains an ongoing dialogue with multiple users and owners of open data to improve the access and impact of this data.
+An internship program was announced at the beginning of the year, which supported an intern to work with the open data team.
+ 
+The impact on government open data challenges can be seen in the way government policy has changed to take open data requirements into account.
+In recent months there has been serious discussion and debate by the government with the implementation and transposition of the Open Data Directive. This has led to increased transparency in government and has pushed public bodies to improve their data management and publishing processes.";Confirm;No;;;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;;;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;;;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;;;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;;;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";No;"Social challenges in the ""Education"" sector are annually presented in the form of open data on the National Portal, on the basis of which high school applicants can analyze their chances of ranking in certain educational institutions. Statistics and criteria for the current year are maintained and published by the Ministry of Education. There is data on schools, profiles and specialties suitable for disadvantaged youth - youth at social risk or who have dropped out of the education system to continue their education, get basic knowledge and guidance in choosing a profession.
+https://data.egov.bg/data/view/b56288b6-25aa-4049-9aa6-de2cd4cdabf8
+https://data.egov.bg/data?access=&q=%D0%B8%D0%B7%D0%BA%D0%BB%D1%8E%D1%87%D0%B2%D0%B0%D0 %BD%D0%B5+%D1%83%D1%87%D0%B8%D0%BB%D0%B8%D1%89%D0%B5&page=2
+https://data.egov.bg/data/view/342373b3-ff81-411e-ab01-1bfe597e8348
+https://web.mon.bg/bg/1
+
+""Access to information"" program - cases received with a request for legal comment or advice are recorded and determined according to several criteria. This allows the arrangement of all the case studies and the comments on them in a database, which allows them to be systematized over time, as well as allowing various statistical inquiries to be made:
+Legal Qualification – This criterion determines the type of right violated.
+Institution – This criterion indicates the institution that the information seeker has contacted or wishes to contact.
+Type of legal aid provided
+https://www.aip-bg.org/cases/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA %D0%B0/
+https://www.aip-bg.org/trainings/ Foundation Program Access to Information
+
+The State Agency for Child Protection maintains statistical resources based on information and analytical reports for children at risk, refugees, raised and educated in specialized institutions.
+https://sacp.government.bg/%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0";Confirm;;;;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"A good example of an NGO initiative that uses open data to solve migrant problems in Bulgaria is the Bulgarian Council on Refugees and Migrants (BCRM). This organization actively works on various projects aimed at the integration of refugees and migrants, while using data to improve the effectiveness of its programs.
+One of BCRM's projects is the ""National Integration Evaluation Mechanism"" (NIEM), which is co-financed by the European Union. The project uses data to track and evaluate progress in the integration of refugees in Bulgaria, providing a basis for improving integration policies and practices at the national level ( BCRM-bg.org ) .
+Another important initiative is the ""Refugees and Migrants Information Bureau"", which provides migrants and refugees with access to important information and services through the use of data collected and analyzed from various sources. This initiative facilitates access to legal aid, healthcare and social services, which significantly improves the living conditions of these groups ( BCRM-bg.org ) .
+The organization ""Multi Kulti Kolectiv"" also works actively in this area with projects such as ""Kitchen against xenophobia"", where the use of open data and cultural initiatives helps to overcome prejudices and promote social integration ( NGO Norway ) .
+These examples show how NGOs in Bulgaria are using open data to improve conditions for migrants and refugees, as well as to reduce social inequality and integrate minorities. For more information, you can visit the websites of these organizations, such as the Bulgarian Council on Refugees and Migrants and the Multi Kulti Collective .
+";;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Open data enables local authorities and NGOs to identify specific needs and problems in residential areas. For example, data on demographics, the number of homeless people, the condition of the building stock and more can help direct resources to where they are most needed.
+Open data increases the transparency of housing management processes. Citizens can monitor how funds are allocated for housing projects and participate in the decision-making process. This reduces corruption and inefficiency.
+By analyzing data on pollution, noise, access to green space and other factors that affect the quality of life, measures can be taken to improve conditions in residential areas. This includes landscaping projects, infrastructure improvements
+Data on the socio-economic situation of different population groups can help to develop targeted programs to support vulnerable groups, such as low-income families, migrants and refugees. 
+Example:
+Open Data Platform of Sofia https://www.sofia.bg/web/sofia-municipality/w/the-budget-of-sofia-is-now-uploaded-to-the-open-data-portal :
+Project of the NGO ""Habitat for Humanity Bulgaria"" : The organization uses data on housing conditions and the socio-economic status of families to develop affordable housing and renovation programs for low-income households.
+Conclusion
+The use of open data in Bulgaria has the potential to effectively address housing issues in urban areas by providing awareness, transparency and better resource planning. Although there are many positive examples, the continued development and expansion of data access will be key to even better results.
+
+";;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The use of open data in Bulgaria has a significant impact on solving problems related to health and well-being. Open data improves transparency, facilitates access to information and supports research and informed decision-making. Here are some specific ways this is done:
+Open data enables effective monitoring and management of health services. For example, the National Health Information System (NZIS) provides data on hospital workload, the availability of medical personnel and equipment, which supports the optimization of the health system .
+ Data on the spread of diseases and epidemics allow health authorities to take timely and effective measures for prevention and control. During the COVID-19 pandemic, open data on incidence and vaccination status were key to informing the public and making decisions.
+Open data is an important resource for health research and innovation. Universities and research institutes use this data to develop new treatment methods and health technologies. For example, healthcare digitization projects use data to create telemedicine services and other innovations 
+Open data on socio-economic conditions such as unemployment, income and housing conditions help to identify the social determinants of health. This allows health authorities and NGOs to develop targeted programs to improve the health and well-being of vulnerable groups) .
+Examples in practice:
+1. National Health Information System (NZIS) : This system provides open data on health services and epidemiological indicators that are publicly available and can be used for research and management decision-making.
+2. Future Health Project : Uses open data to develop health care innovations, such as telemedicine and digital health services, that improve access to health services and quality of care.
+The use of open data in Bulgaria has a significant positive impact on the health and well-being of the population. It facilitates informed decision-making, supports scientific research and improves the efficiency of health services. Expanding access to such data and its continued use will lead to even better results in the future.
+";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Teachers can use open data to create interactive lessons and learning materials. For example, the use of geographic data can be integrated into geography or history lessons by creating interactive maps or visualizations.
+Students and academic communities can use open data to research public issues and inequalities. For example, analyzing health care data can help understand differences in access to health care in different regions of the country.
+Providing open data can encourage innovation and entrepreneurship. Startup companies and software developers can use data to create new products and services that solve real problems in society.
+Open data can be used to teach programming and data analysis. For example, students can study programming by analyzing climate or economic data, which helps them apply their skills to real-world problems.
+Open data can be used to improve education management and decision-making. For example, the analysis of data on student achievement can help identify weak areas and introduce appropriate measures for improvement.
+These are just a few examples of how open data can be used to improve education and skills in society in Bulgaria and elsewhere.
+Here are some concrete examples of projects that use open data in Bulgaria:
+1. ""Open data in the classroom"" - This project is an initiative of the Bulgarian Fund for Journalism and Open Knowledge Foundation Bulgaria. Its aim is to promote the use of open data in schools through trainings, teaching materials and educational games. The project provides resources and training for teachers and students on the topic of open data and its applications in the educational process.
+2. ""Open Sofia"" - This is an online platform that provides access to various data about the city of Sofia. The platform collects and visualizes information about traffic, public spaces, cultural events and other aspects of city life. Using open data, Open Sofia aims to improve citizens' awareness and encourage their participation in city governance.
+3. ""Education without violence"" - This project uses open data to analyze cases of violence in schools in Bulgaria. By collecting and analyzing data from various sources, the project seeks to identify problem areas and propose strategies to prevent violence in schools.
+4. ""Transport Portal of Sofia"" - This project provides data on public transport in the city of Sofia, including information on routes, timetables, tariffs and others. The portal allows citizens to get up-to-date information on public transport and plan their journeys more efficiently.
+These are just some of the examples of projects that use open data in Bulgaria. Each of them aims to improve citizens' awareness, encourage their participation in public life and contribute to solving societal problems through the use of data and technology
+";;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";No;"The strategic goals and priorities in the field of energy and climate of Bulgaria laid down in INPEC are as follows: Regarding the ""Decarbonization"" dimension, Bulgaria will make efforts to increase the share of energy from renewable sources in the gross final energy. consumption and reduction of greenhouse gas emissions. On the recommendation of the EC, Bulgaria raised the level of ambition for the share of energy from renewable sources in the gross final energy consumption from 25% to 27.09%, thereby betting on achieving the calculated goal, according to Annex II to Regulation (EU) 2018/1999 In support of this goal, Bulgaria will build additional capacities with an emphasis on wind and solar energy. Also, if necessary to achieve the set goals after 2025, it is possible to hold tenders for additional capacities for energy from renewable sources, tailored to market conditions. Biomass use is projected to increase in all sectors: electricity, heat and cooling, and transport. The anticipated changes in the transport sector will have a significant impact on the development of energy from renewable sources, as well as on the reduction of greenhouse gas emissions. More specifically, Bulgaria will promote the introduction and use of electric and hybrid vehicles in public and private transport, envisaging the creation of low-emission zones in major cities. These measures, among others, will contribute to a significant reduction of greenhouse gas emissions in Bulgaria.
+https://library.fes.de/pdf-files/bueros/sofia/18247.pdf
+https://www.climateka.bg/
+https://www.me.government.bg/files/useruploads/files/national_energy_and_climate_plan_bulgaria_clear_22.02.20.pdf
+https://www.nsi.bg/bg/content/4201/%D0%B2%D1%8A%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D1 %8F%D0%B5%D0%BC%D0%B8-%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B9%D0%BD%D0% B8-%D0%B8%D0%B7%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D1%86%D0%B8
+Renewable energy sources and energy efficiency by region http://www.repowermap.org/?ln=bg
+
+Digital twins in Bulgaria
+In Bulgaria, there are already several implemented projects for the construction of Digital Twins, with the main emphasis on temperature and climate changes, which are studied on the basis of artificial intelligence and LIDAR images (GATE Institute).
+A scientific team from the National Center for Geospatial Research and Technologies at SU ""Kliment Ohridski"" -(https://ukh.uni-sofia.bg/hgis/team/) is also working very actively on the topic, working on several projects with urban heat islands (Anton Popov, Stelian Slavkov Dimitrov, Bilyana Borisova, 2019).
+In a large part of the above-mentioned studies, the topic of landfills is advocated, which has been extensively researched by the author's collective of the National Research Institute of BAS, ""Aerospace Data"" Section (Dancheva, A. 2020; Dancheva, A., Nedkov). , R., Borisova, D., Spasova, T., (2019); Dancheva, A. and Asenovski, S (2018).
+Impact: Urban heat islands are analyzed through open data and in relation to the Green Deal and impact the implementation of new projects and innovative solutions raising awareness of water quality and/or air quality, endorsing the thermal comfort of urban spaces, limiting pollination is improved, biological diversity is supported, etc.
+https://bnr.bg/sofia/post/101720366/oblagorodiha-taplinen-ostrov-v-lulin
+https://www.sofia.bg/w/direkcia-zeleni-sistemi-oblagorodi-prostranstvo-v-rajon-lulin-identificirano-kato-toplinen-ostrov-
+
+Institute of Meteorology and Hydrology
+https://www.ocean-twin.eu/partner/national-institute-of-meteorology-and-hydrology
+";Confirm;;;;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"https://airbg.info/
+1. URL to the Reuse Case: Air Quality Monitoring by AirBG.info
+2. URL to the Open Dataset: Air Quality Data
+Reuse Case Description: AirBG.info
+Impact in Biodiversity Conservation: The reuse of open data for air quality monitoring has significant implications for biodiversity conservation. Poor air quality can have detrimental effects on ecosystems and biodiversity, impacting the health and survival of various species of plants and animals. By providing accessible and up-to-date information on air quality through platforms like AirBG.info, citizens and policymakers can better understand the environmental factors affecting biodiversity and take proactive measures to mitigate pollution and protect vulnerable ecosystems. This reuse case demonstrates how open data can empower citizens to contribute to biodiversity conservation efforts by raising awareness and fostering collective action to address environmental challenges.
+";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Уes, the use of open data in Bulgaria can have an impact on achieving more environmentally friendly cities by improving green transport systems, waste management and other environmental protection initiatives in cities. Here is an example of open data reuse that illustrates this.
+The ""Green Sofia"" project is an initiative of the Sofia Municipality, which aims to turn the city into one of the greenest and most environmentally sustainable places to live in Europe. One of the key elements of the project is the creation of eco-indicators that use open data from the Metropolitan Municipality to analyze the ecological status.
+By using open data from a variety of sources such as citizen mobile apps, air quality sensors and traffic data, the project creates eco-indicators that reflect pollution levels, the use of green spaces, the use of green transport and other. 
+The impact of this project is significant, as it provides citizens and city authorities with valuable information about the state of the environment and environmental trends in the city. This allows the community to be more informed and involved in environmental protection and encourages taking concrete measures to improve the environmental status.
+This example illustrates how the use of open data can support the development of greener cities by improving green transport systems, waste management and other environmental initiatives
+https://move.bg/mission-green-sofia-decarbonization-eng
+";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Reuse Case: Climate Change Adaptation in Bulgaria, https://www.moew.government.bg/static/media/ups/categories/attachments/Strategy%20and%20Action%20Plan%20-%20Full%20Report%20-%20%20ENd 
+The reuse case involves the Bulgarian government's efforts to adapt to climate change by utilizing open data on climate variables such as temperature, precipitation, and extreme weather events.
+Impact in Climate Change Adaptation:
+By accessing and analyzing open climate data provided by institutions like the Bulgarian Meteorological Institute, policymakers and relevant stakeholders can make informed decisions regarding climate change adaptation measures. This includes planning infrastructure projects to withstand extreme weather events, implementing water management strategies to mitigate drought and flooding risks, and developing policies to support sustainable agriculture practices resilient to changing climatic conditions.
+The reuse of open climate data enables Bulgaria to enhance its resilience to climate change impacts, protect vulnerable communities and ecosystems, and ensure sustainable development in the face of environmental challenges. This reuse case highlights the importance of open data in facilitating evidence-based decision-making and fostering effective climate change adaptation efforts at the national level (http://www.weather.bg/ ).
+";;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The Ministry of Energy in Bulgaria publishes open data on the locations and the capacity of wind farms in the country. This data was used to create an interactive map that shows citizens where wind farms are located and how much energy they produce. This not only increases the transparency of the energy sector, but also promotes interest in renewable energy sources
+https://portal.seea.government.bg/bg/Map 
+https://www.enerdata.net/expertise/global-market-analysis.html
+";;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";No;"Bulgarian Small and Medium Enterprises Promotion Agency publishes information about all its initiatives in one place, which leads to increased visibility and economic impact. It also publishes regular reports on the state of SMEs with information on newly established enterprises in the country by year. Entrepreneurship contributes to employment, prosperity, competitiveness and economic growth. Encouraging entrepreneurship and the creation of start-ups is of crucial importance for the development and competitiveness of the Bulgarian economy as well as nationally as well as regionally. Open Data is a key resource for the development of SMEs and especially startups. 
+https://e-sme.government.bg/Public/RegisterMSP#
+https://www.sme.government.bg/uploads/2023/03/%D0%94%D0%9E%D0%9A%D0%9B%D0%90%D0%94_%D0%9C%D0%A1%D0%9F-2022.pdf
+
+The National Institute of Statistics provides extensive information on unemployment and various types of indices
+https://nsi.bg/bg
+https://infostat.nsi.bg/infostat/pages/module.jsf?x_2=13
+https://nsi.bg/bg/content/7697/%D0%B1%D1%80%D0%BE%D0%B9-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F%D1%82%D0%B0
+
+Ministry of Labor and Social Policy and
+Employment agencies announce daily vacancies
+https://www.az.government.bg/bg/ejobs/view_prl/
+The Executive Agency for Small and Medium Enterpriseshttps://www.sme.government.bg/
+
+Innovations and project proposals is on the page of https://www.mig.government.bg/";Confirm;;;;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Yes, the use of open data in Bulgaria can have an impact on the level of employment through several mechanisms:
+Innovation and entrepreneurship: Open data provides opportunities for innovation and entrepreneurship by creating new products and services. Entrepreneurs can use open data to develop new applications, platforms or business models that create jobs and drive economic growth.
+Transparency and management of resources: Open data can contribute to more efficient management of public resources and finances. As citizens and organizations have easier access to information about the budget, public procurement and other aspects of government, they can more effectively monitor and influence the decisions made by the government. This can lead to better management and allocation of resources, which can ultimately create new jobs or improve the conditions of existing ones.
+Education and skills: Open data can be used to develop educational programs and initiatives to support the development of the skills and qualifications of the workforce. Providing accessible information and training in data processing and analysis can make it easier for people to retrain or develop new skills that are in demand in the labor market.
+These mechanisms are just some of the ways in which the use of open data can affect the level of employment in Bulgaria. By creating a more innovative, transparent and educated community, open data can contribute to increasing jobs and improving economic development.
+project ""Providing digital skills training and creating an adult learning platform""
+The main goal is to expand access and provide more opportunities for quality education using the possibilities of digital technologies. The development and implementation of a virtual online learning platform will provide flexible and affordable forms of learning such as online distance learning courses and electronic resources for self-study.
+After the creation and implementation of the virtual e-learning platform under Component 1, all courses in an electronic environment for the training of unemployed and employed persons, organized within the framework of the active labor market policy and financed from the state budget and from the ESF+ under the ""Development of human resources"", will be held through it.
+The virtual e-learning platform will be linked to the My Competence Competence Assessment Information System, which presents competency models describing the skills and competencies required to successfully perform key positions and tools, as well as databases and electronic registers relevant to the training of adults - the National Labor Market Database of the Employment Agency (EA), the Electronic Register of Vocational Training Centers of the National Agency for Vocational Education and Training (NAPEO), etc.
+The Platform will also have access to the training providers, as well as control bodies (e.g. MTSP, AZ, NAPOO, employers, etc.). They will be able to monitor and control the implementation of the trainings in real time. At any moment during the training period, it will be possible to check the attendance of the trainees, the completion of the curriculum by days, the success rate through access to the exam materials and tests, access to the materials and questionnaires for the evaluation of the training, etc. In this way, compliance with the regulatory requirements for the organization of training and the quality of the conducted training will be monitored.
+Total estimated financial resource - BGN 379,470,088.
+Project implementation period – 54 months (2022-2026)
+Expected results:
+The digital learning platform to be fully functional;
+To operate 760 digital clubs in which access to the training platform will be provided
+Approximately 500,000 unemployed and employed persons have received basic and/or intermediate level digital skills training
+Approximately 100,000 unemployed and employed persons have validated their basic and/or intermediate level knowledge of digital skills
+
+https://www.mlsp.government.bg/eng/proekt-predostavyane-na-obucheniya-za-digitalni-umeniya-i-szdavane-na-platforma-za-obuchenie-na-vzrastni 
+";;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Yes, the use of open data in Bulgaria can have a significant impact on the level of innovation and adoption of new technologies. Here are a few ways this can happen: 
+1.Stimulating innovation: Open data provides valuable information and resources that can be used by entrepreneurs, developers and researchers to create new products, services and technologies. By having free access to data, innovators can extract knowledge, conduct analysis and develop innovative solutions that solve real problems and improve people's lives. 
+2. Supporting Digital Entrepreneurship: Open data creates an enabling environment for the development of digital entrepreneurship by providing access to basic data and resources essential for the launch and development of new technology startups. This may include data on public services, transport networks, healthcare and other areas.
+ 3. Improving citizen participation and innovation projects: Open data provides opportunities for citizens and civil organizations to participate in innovation projects and collaborate with government institutions and the private sector to solve public problems. This stimulates community spirit and contributes to the creation of innovative solutions that address the needs of society. These are just some of the ways in which the use of open data can have an impact on the level of innovation and adoption of new technologies in Bulgaria. By creating an open and innovative environment that encourages the exchange of data and ideas, Bulgaria can develop its potential for innovation and adopt new technologies to support economic growth and social progress.
+Example: Public Transport Open Data Projec
+Project description: The ""Open data for public transport"" project is implemented by the local transport operator in the city of Sofia. The aim of the project is to provide open access to data on public transport timetables, route information, ports, traffic condition notes and more.
+Providing open data on public transport stimulates the development of mobile applications, internet platforms and other innovative solutions that support citizens in their daily journeys. Developers can use this data to create real-time applications for public transportation tracking, route planning, trip optimization, and other services that improve citizen mobility and convenience.
+In addition, open data on public transport is driving the creation of innovative business models and startups that use the data to develop services for transport fleet management, intelligent traffic systems and more. These innovative solutions can contribute to more efficient urban traffic management, reducing pollution and traffic delays, and improving the quality of life in cities.
+https://openbulgaria.org/post/public-transport-sofia/
+";;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Access to market and competitive information : Open data can provide valuable information about market trends, consumer preferences and the competitive landscape. This access to information can help entrepreneurs make more informed decisions when starting and running their businesses.
+
+Support for innovation and product development : Open data can serve as a basis for innovation and development of new products and services. Entrepreneurs can use this information to identify new opportunities and create innovative products to meet market needs.
+
+Helping startups and SMEs : Open data can make it easier to start a business by providing access to information and resources to create business plans, navigate the registration and licensing process, and access financing and development support.
+
+Transparency and accountability : Open data can contribute to greater transparency and accountability in the business environment, which can facilitate access to resources and opportunities for entrepreneurs from all social groups, including women and minorities.
+
+There are still challenges and opportunities to improve the use of open data in Bulgaria, but it has the potential to support the development of entrepreneurship and the business sector, especially by targeting the support of diverse entrepreneurial initiatives.
+Here are some examples of ways in which open data is being used in Bulgaria to support entrepreneurship and business creation: Trade register data and company data https://portal.registryagency.bg/ : Platforms such as the Bulgarian Trade Register provide access to data on registered companies in Bulgaria. This information can be useful for entrepreneurs in building business models, analyzing the competition and finding potential partners.
+";;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;;;;

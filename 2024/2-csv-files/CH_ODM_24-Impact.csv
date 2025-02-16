@@ -1,0 +1,206 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";no;;Confirm;;;;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";no;;Change;Yes;"The Open Government Data Masterplan 2024 - 2027 contains Principle 5 with the goal 10 “The impact of OGD is regularly measured and communicated”. The following indicators are used.
+- Number of datasets, showcases and data stories by theme;
+- Portal usage statistics (e.g. via Matomo Analytics);
+- Impact monitoring using the method recommended by data.europe.eu (KPI).
+URL: https://www.bfs.admin.ch/bfs/fr/home/services/ogd/masterplan.html";;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";yes;"Part of the data management and OGD training covers ""Measuring and promoting data re-use"", see content:  ""https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-und-open-government-data-2023/
+response to reviewers: This training is free of charge for administrative employees. The content of the training in this area is Knowledge transfer on the impact of OGD. What we can achieve with OGD. Highlighting international examples of OGD-impact.  Impact measurement concepts and difficulties. Presentation of impact areas with reference to the Open Data Maturity Report 2022. Benefits of OGD intermediaries. The focus of this training is not only on the impact, but it is also a part of it. ";Complement;Yes;"In addition to the mentioned training, an event on the impact of OGD was organized last year by the association opendata.ch. Together with opendata.ch, the OGD Office organized a workshop on the topic of impact and how to measure it with the title ""Mapping the Impact of Open Government Data – OGD Masterplan"".
+URL: https://opendata.ch/events/opendata-ch-2023-forum/
+Slides: https://opendata.ch/wordpress/files/2023/07/20230616_forum_opendata_extern.pdf";;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;;;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"In a published study on the economic impact of Open Government Data (https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/dokumentation.assetdetail.11147089.html) the economic impact of OGD ist defined as follows ""The economic impact of OGD is defined as the benefits accruing to suppliers, us-ers and re-users of data and information in terms of profits generated, jobs created and supported as well as the wider benefits to society from it.""";Confirm;;;;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;"The Impact Monitoring Framework: https://boris.unibe.ch/75031/1/CeDEM2016%20-%20Impact%20Monitoring%20Framework%20V06.pdf
+- it is based on a structured and consistent list of criteria. 
+- method to measure the value of OGD initiatives and projects.
+- it used  the Social Return on Investment (SROI) approach to measure the impact
+- it proposes as a possible source for the selection of data catagories the classification according to G8 summit in 2013 ";Confirm;;;;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"https://opendata.ch/events/, https://prototypefund.opendata.ch/; https://www.bk.admin.ch/bk/en/home/digitale-transformation-ikt-lenkung/bundesarchitektur/api-architektur-bund/govtech-hackathon.html";Confirm;;;;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;Yes;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;No;;;;
+I8-b;Surveys;new question;new question;Change;Yes;"Swisstopo has conducted a survey to find out if and how its open geodata are used professionally?
+URL: https://www.linkedin.com/posts/swisstopo_swissgeodevelopment-swisstopo-ogd-activity-7109823539557355520-B8S3?utm_source=share&utm_medium=member_desktop";;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;Open data users are regulary invited to events, forums or workshops to share their use cases and experience;;;
+I8-d;Other;new question;new question;Change;No;;;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;We have created a working group where data publishers can provide feedback and suggest improvements on the portal;;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;;;;
+I9-c;Other;new question;new question;Change;No;;;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;"Response to reviewers: Since automn 2022, the portal opendata.swiss has a showcase form for data users to easily submit their showcases, see button ""Submit showcase"" on the showcases page: https://opendata.swiss/en/showcase. The process of collecting and reviewing showcases is now much easier. The OGD Office encourages at every opportunity (e.g. events, Twitter, LinkedIn) to upload showcases. Another way to collect reuse cases is the example of the open data portal of the city of Bern: they have formulated potential ideas and questions for the reuse of their open data and added links to corresponding datasets, see: https://www.bern.ch/open-government-data-ogd/ideen-fuer-dienstleistungen.
+Another way is to bring together students and data publishers. An example is that of the Bern University of
+of Applied Sciences: https://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/fruehjahrssemester_2023/index_ger.html. It encourages the collaboration between public bodies and students. They are looking for data coaches every year. The students reuse open data from different public bodies, one example is from the canton of Thurgau: https://ogd.tg.ch/anwendungen/open-data-vorlesung-2022.html/14316. Some public bodies are very involved here, for example https://www.opendata.bs.ch/neu/aktivitaeten.html (Open Data Veranstaltung 2023: Speed Dating am 23.03.2022).";Confirm;;;;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;On opendata.swiss they are classified according to categories and type of content: https://opendata.swiss/showcase;Complement;Yes;"The open data portal of the canton of Basel categorizes its use cases into three categories: ""data visualizations"", ""data journalism"" and ""applications and apps"".
+URL: https://www.opendata.bs.ch/anwendungen.html
+city of zurich categorizes its use cases after year: https://www.stadt-zuerich.ch/portal/de/index/ogd/anwendungen.html";;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";I don't know;"There is a study from 2019 about how the concept ""open data"" and ""transparency"" are related and perceived in public administration in Switzerland: https://www.tandfonline.com/doi/full/10.1080/15309576.2019.1657914 
+""The impact of open data on the perception of transparency does not seem to be significant. Our findings show that open data does not increase the transparency of public administrations, which is understood as a continuous process that goes beyond simple data provision. This perception is certainly motivated by the fact that the random release of datasets does not always make them useful or valuable for users (Susha et al., Citation2015). In this sense, it appears crucial to note that open data, if it is to serve the purpose of greater administrative transparency, should be developed in a way that guarantees possible reuse by and empowerment of citizens.""
+";Confirm;;;;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Use Case 1: The publication of the IATI activity and organisation files improves the transparency of SDC activities and financing. The data is re-used by several publication tools on Internet, such as d-portal.org. The data is used to provide a general overview of international cooperation activities from different kinds of actors (bilateral agencies, development banks, NGO, private sector, etc.) so that both the providers and the beneficiaries know what is done where.
+Dataset: https://opendata.swiss/en/dataset?q=sdc
+Reuse case: https://d-portal.org/
+Use Case 2: Using registers such as https://schema.ld.admin.ch/PoliticalMunicipality - Reuse Cases are all cases that also use the FSO commune number (instead of listing the commune name alone in the data).";;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"1)Water suppliers from canton zurich must provide their customers with comprehensive information about the quality of their drinking water at least once a year. To support water suppliers in implementing their duty to inform consumers, the cantonal laboratory visualizes data from drinking water tests in the ""Züri Trinkwasser Map"".
+https://www.zh.ch/de/gesundheit/lebensmittel-gebrauchsgegenstaende/lebensmittel/trinkwasser.html
+Dataset: https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1362@gesundheitsdirektion-kanton-zuerich
+2)
+1 - https://data.bs.ch/pages/gsv-dashboard-spitaeler/
+2 - https://data.bs.ch/explore/dataset/100320/
+3 - An interactive dashboard was created to move away from a PDF report. The annual PDF report on hospital numbers required resources – thanks to the dashboard, time and money can be saved.";;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Together with other administrative bodies and partners, the Zurich Statistical Office is providing publicly accessible data to show how the coronavirus crisis is affecting society. The monitoring bundles daily updated data series, which are intended to shed light on the developments triggered by the coronavirus crisis in all areas of life.
+Dataset: https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/740@statistisches-amt-kanton-zuerich
+Visualization: https://www.web.statistik.zh.ch/cms_vis/covid19_indikatoren/";;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Digital Twin Zurich: https://www.stadt-zuerich.ch/content/ted/de/index/geoz/plan-und-datenbezug/3d-stadtmodell.html
+The Digital Twin is an important data basis for decision-making processes: https://link.springer.com/article/10.1007/s41064-020-00092-2";;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";I don't know;;Confirm;;;;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;;;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"1) Dataset: https://opendata.swiss/de/dataset/statistik-der-schweizer-stadte-2024
+5 Insights about housing developments in a media article from SRF: https://www.srf.ch/news/schweiz/bevoelkerung-religion-politik-so-entwickeln-sich-die-schweizer-staedte
+2) article about empty dwellings with data from OFS: https://tageswoche.ch/gesellschaft/interaktive-grafik-in-den-beiden-basel-stehen-schweizweit-am-wenigsten-wohnungen-leer/
+3) Using data to correct wrong assumptions: https://tageswoche.ch/politik/bei-der-bodeninitiative-gehts-um-40-prozent-der-kantonsflaeche-falsch/";;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Raising awareness of bicycle accidents in cities
+Dataset: https://www.stadt-zuerich.ch/portal/de/index/ogd/anwendungen/2023/velounfallrechner.html
+Reuse: https://www.nzz.ch/zuerich/so-gefaehrlich-ist-ihre-zuercher-veloroute-ld.1821947";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Platform sCHoolmaps https://www.schoolmaps.ch/
+Open geospatial data for education: https://www.zebis.ch/unterrichtsmaterial/schoolmaps-bringt-geodaten-den-unterricht
+On sCHoolmaps.ch, teachers can find numerous ideas and materials for using geodata in their lessons. In working with digital data and tools, students will develop important skills from the Media and Computer Science module related to presenting, structuring, and evaluating
+data.
+Potential of this platform: https://lernetz.schule/schoolmaps-daten-zur-schweiz-fuer-den-unterricht/";;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";I don't know;;Confirm;;;;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Reuse: https://rues.data-bs.ch/onlinedaten/onlinedaten.html
+The visualization shows the online data of the Rhine monitoring station as follows: 1.1.2002 to 31.12.2017 hourly, thereafter raw data every quarter of an hour.
+https://www.aue.bs.ch/nm/2023-rheinwasserqualitaet-aus-schwimmperspektive-wsu.html";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Digital Twin Zurich: https://www.stadt-zuerich.ch/content/ted/de/index/geoz/plan-und-datenbezug/3d-stadtmodell.html
+-To enable the use of the digital twin, open governmental data is being utilized in order to facilitate contributions from the different stakeholders and their accessibility to the city data, see 2.3. The Digital Twin of the City of Zurich: https://www.mdpi.com/2071-1050/13/6/3386 
+-According to this blog entry, this digital twin is very good for sustainable urban planning: ""Utilizing digital twins, Zurich has crafted a digital sandbox of the city, enabling planners to experiment with various development strategies. This digital foresight ensures that each infrastructural evolution aligns seamlessly with sustainability objectives, allowing the city to flourish without compromising its ecological integrity."" According to this blog entry, this digital twin is very good for sustainable urban planning."" https://www.toobler.com/blog/digital-twin-and-sustainability";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;https://www.meteoswiss.admin.ch/climate/climate-change/changes-in-temperature-precipitation-and-sunshine/climate-monitor.html;;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"use case: https://www.energieschweiz.ch/tools/energiereporter/
+Dataset: https://opendata.swiss/en/dataset/energie-reporter
+The Energy Reporter observes the development of the energy future in the municipalities. Where do Switzerland's municipalities stand when it comes to electric cars, renewable heating, solar power and electricity consumption.
+The EnergyReporter has met with a great response. The media and municipalities use it. The dataset is used by the SRF Climate Monitor and My Blue Planet. 
+";;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";I don't know;response to reviewers: unfortunately not;Change;I don't know;;;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;;;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Predikon is a website born out of an academic project by the Information and Network Dynamics Laboratory (INDY Lab) at the Swiss Federal Institute for Technology in Lausanne (EPFL). Its main goal is to provide predictions about votes in Switzerland, as soon as municipal results are published by Swiss cantons starting at 12:00pm on the day of a vote.
+Dataset: https://opendata.swiss/en/dataset/echtzeitdaten-am-abstimmungstag-zu-eidgenoessischen-abstimmungsvorlagen
+Predikon x DemoSquare Predikon is now operated by DemoSquare, a startup of EPFL and INDY Lab launched by the creators of Predikon. Their predictions are being used by Swiss media Le Temps and NZZ.
+Start-up: https://demosquare.ch/landing/
+Monitor and analyze political and regulatory activities with artificial intelligence.";;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"One example of a company start-up is geoimpact AG: it enables sustainable decisions with information technology
+https://www.geoimpact.ch/";;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;;;;

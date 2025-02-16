@@ -1,0 +1,280 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;https://dati.gov.it/;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;N/A;"The technology used for Italian Open Data Portal is CKAN with specific extentions due to the national metadata profile DCAT-AP_IT
+The CMS used for the portal is Drupal.
+"
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;"The basePath is https://dati.gov.it/opendata/
+
+An example:  https://www.dati.gov.it/opendata/api/3/action/package_list
+"
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;https://lod.dati.gov.it/sparql/
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;https://dati.gov.it/api
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;https://dati.gov.it/sviluppatori/sparqlclient
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://www.dati.gov.it/scrivi-redazione;Confirm;;
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"The ""Contact the Editorial Staff"" form https://www.dati.gov.it/scrivi-redazione can be also used  to submit feedback about specific datasets. The portal editorial staff, managed by AgID, receives feedback and provides responses, in some cases going back to the dataset owner.
+
+RESPONSE TO THE REVIEWER
+To provide a feedback for a dataset, the user has to select the specific option (""Feedback for a dataset"") and specify what the dataset is.";Confirm;;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;For each dataset, there is a rating system based on five stars levels (1 star = bad, 5 stars = very good). TO see the rating system, you need access the single dataset page and you can see it at the end of the page (e.g. for this dataset https://dati.gov.it/view-dataset/dataset?id=ce9825ba-6fde-4a13-bcad-1cc60d3d8e90);Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://www.dati.gov.it/notizie ;Confirm;;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://www.dati.gov.it/notizie.xml;Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"""The aforementioned """"Contact the Editorial Staff"""" form available for users can be also used for requesting datasets, also with reference to the basket of datasets. The portal editorial staff, managed by AgID, receives feedback and provides responses, in some cases going back to the dataset owner. [ https://www.dati.gov.it/scrivi-redazione ]
+RESPONSE TO THE REVIEWER
+To require a a dataset, the user has to select the specific option (""Request a dataset"").
+
+In addition, as the Guidelines for the implementation of Legislative Decree no. 36/2006 (amended by the Legislative Decree no. 200/2021 transposing the Directive 2019/1024),  has introduced a new procedure for requesting datasets directly to the data owner.
+";Confirm;;
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"On the basis of the national policy adopted, the requests received is addressed on the OGP table, which by definition deals with the request of stakeholders. 
+RESPONSE TO THE REVIEWER
+Consequently the progress status of the request is monitored through the OGP table and the open data basket available at [ https://dati.gov.it/monitoraggio/paniere-dataset ] including the list of datasets planned to be opened based either on decision of the data owner or on requests by stakeholders or civil society.
+
+RESPONSE TO THE REVIEWER
+In the open data basket the datasets requested by stakeholders and civil society are identified and included and annually it is indicated if those datasets has been opened.";Confirm;;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;The monitoring is conducted by the portal team annually through the open data basket available at [ https://dati.gov.it/monitoraggio/paniere-dataset ]. The description of such monitoring is provided in an ad-hoc methodology note available at the same page (i.e. https://dati.gov.it/sites/default/files/2022-06/NotaMetodologica2021.pdf).;Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"Based on the national policy, there are discussion forum for all purposes and all tasks of public sector external to the national portal. A specific area dedicated to the open data community (data providers) for discussion is available on the platform ""Rete Digitale"" managed by AgID https://www.retedigitale.gov.it. A more general discussion forum for all users, including sections dedicated to data and open data, is available here: https://forum.italia.it/";Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;"An appropriate tag is used to identify the use cases https://www.dati.gov.it/notizie?name=casi_d%27uso
+
+RESPONSE TO THE REVIEWER
+Through this tag the news or data story related to a use case can be specifically identified. The news or article can also concern news about webinar or other event where the use case is presented. In this case the link to the data involved is included.";Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;"Example: https://dati.gov.it/notizie/open-data-sugli-appalti-pubblici-line-il-nuovo-portale-anac
+
+RESPONSE TO THE REVIEWER
+https://dati.gov.it/notizie/webinar-agidformez-su-open-data-dinamici-da-sensori-e-iot
+
+As specified in the answer to the previous question, the specific tag to identify the use case is used for the news, but in the text of the news there is the link to the data involved.";Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;"The users can submit their own use cases through the ""Contact the Editorial Staff"" form [ https://dati.gov.it/scrivi-redazione ].
+
+RESPONSE TO THE REVIEWER
+To submit a use case, the user has to select the specific option (""Submit a use case of a dataset"").
+
+";Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;The function is available by clicking on the related icon available for each distribution in the dataset page. E.g. for this dataset https://dati.gov.it/view-dataset/dataset?id=69a39d14-5a69-4bca-a0b9-c68e3cd301c4 the preview is this http://view.dati.gov.it:8000/?file=https%3A%2F%2Fdati.veneto.it%2FSpodCkanApi%2Fapi%2F2%2Frest%2Fdataset%2Fa769db19-c68c-4d24-bf1a-517a44b22dad.csv;Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";No;"The open data portal is linked to the national catalogue for spatial data, that publishes both open data and data not yet available as open data. In case of open data, metadata is made available, through GeoDCAT-AP, also on the open data portal where the dataset is referenced by specific URI. This URI is resolved through the metadata page on the national catalogue for spatial data where a preview function, joined to query and search tools, is available also in accordance with the OGC standards. An integrated geoviewer is available at https://geodati.gov.it/geoportale/geoviewer/ . Please note that the page related to the metadata of spatial data in the national open data portal includes the URI of that dataset in the national catalogue for spatial data (having the structure https://geodati.gov.it/resource/id/{dataset-id}) that is resolved by the metadata page in that catalogue.
+As an example:
+RESPONSE TO THE REVIEWER
+https://dati.gov.it/view-dataset/dataset?id=regione-toscana-zone-di-protezione-art-14-legge-regionale-3-94 
+ Through that URI, that dataset can be visualised in the geoviewer available in the catalogue for spatial data.
+";Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;At the end of October filtering features for HVDs will be available on the portal homepage and consequently we'll promote them.
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;"Since April 2020 AgID has implemented Web analytics Italia (WAI), a national platform for traffice and usage statistics of websites and digital services of the Italian Public Administrations [ https://webanalytics.italia.it ]. This platform is based on Matomo software.
+
+";Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Complement;;"The aforementioned platform https://webanalytics.italia.it also provides the analytics based on API usage.
+The insights are used for informing data providers on what kind of data they shoul work or what data they should pay attention on for specific initiatives, actions and activities.
+In future the insights will be used also to highlight the data more accessed and consequently more used."
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;Further activities concern web analytics through the aforementioned platform https://webanalytics.italia.it and analysis of the official Twitter accounts linked to the national open data portal and the catalogue for spatial data continuously monitored by the communication office of the Agency for Digital Italy as well as by the portal team.;Confirm;;
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;With the latest release of the national portal we improved the functionalities of the portal by using results of log analytics (for example: improvement of the search criteria, monthly trend of open data available, monthly trend of administrations that make open data available, and so on).
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;"The portal is promoted in several ways:
+- it is referenced in the AgID official web sites;
+- it is denoted as a tool for users and PAs in the Three-Year Plan for ICT in PA;
+- it is denoted as single access point to Open Data in the Legislative Decree No. 36/2006 (amended by the Legislative Decree No. 200/2021 transposing Open Data Directive);
+- in national, regional or local events with dedicated presentations, mentions or communication. An example is the Forum PA 2023, the most important national event dedicated to the topic of PA modernisation, where dedicated cards about the national portal were produced, published and distributed to the participants visiting the AgID stand (https://www.facebook.com/photo/?fbid=620067630151604&set=t.100064451182098);
+- by launching information campaign oh the web (e.g. https://www.facebook.com/photo/?fbid=767371235421242&set=pb.100064451182098.-2207520000)"
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;The aforementioned platform https://webanalytics.italia.it also provides the analytics based on the keywords used for searching data and content on the portal.
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"The aforementioned platform https://webanalytics.italia.it also provides the analytics based on the consulted pages.
+The insights are used for improving the content, the usability and the classification of the content.
+
+- https://www.dati.gov.it/view-dataset/dataset?id=6082a3e9-2c30-46ad-9d37-a3c8213368f5
+- https://www.dati.gov.it/view-dataset/dataset?id=1b1dad1e-5fdf-47ff-bf00-a377713c80c7
+- https://dati.gov.it/view-dataset/dataset?id=8e9e7891-749a-4d9e-89d5-a4fb23291053
+- https://www.dati.gov.it/view-dataset/dataset?id=d7a76ff1-1910-488f-9fb2-ab3541089bda
+- https://www.dati.gov.it/view-dataset/dataset?id=12403b55-fbc3-4088-a9a7-5960f48b9380
+
+"
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;"Periodic checks are made on the positioning of the national catalogue in the results on the search engines in order to carry out any necessary interventions to improve it or the way in which the different pages are previewed among the results of the search. Thanks to the recent evolution of the portal, advanced search functions have been released, (multiple search, search by keywords, search by administration, search by catalog etc ..). 
+In addition, the integration between the open data portal and the catalogue for spatial data has further improved the data discoverability.
+";Change;Yes;"Periodic checks are made on the positioning of the national catalogue in the results on the search engines in order to carry out any necessary interventions to improve it or the way in which the different pages are previewed among the results of the search. Thanks to the recent evolution of the portal, advanced search functions have been released, (multiple search, search by keywords, search by administration, search by catalog etc ..). 
+In addition, the integration between the open data portal and the catalogue for spatial data has further improved the data discoverability."
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;The search results (metadata) are returned in clear plain language, both humans (such as HTML page showing metadata) and machines readable, in order to enable users and machine to use information retrieved by the portal.;Change;Yes;https://dati.gov.it/view-dataset/dataset?id=2caccca7-9044-415e-81fd-edfc9912d212
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;"Each data provider is required to communicate the endpoint of  its local catalogue and then that local catalogue is harvested by the national portal.
+In case a data provider doesn't manage an own local catalogue, the provider can create a dump file of metadata to be published in the national portal from a web accessible folder.
+";Change;Approximately half of the public sector data providers;"Each data provider is required to communicate the endpoint of  its local catalogue and then that local catalogue is harvested by the national portal.
+In case a data provider doesn't manage an own local catalogue, the provider can create a dump file of metadata to be published in the national portal from a web accessible folder."
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"A regular monitoring of the public open data catalogs is carried out and, depending on the circumstances, contacts are made with the contact points of the catalog to evaluate the methods of inclusion in the national catalog. The harvestng from web accessible folder (waf) is allowed in case of lack of the local catalog.
+Furthermore, a FAQ page has been published in order to provide operational support to solve some issues related to the publication process https://dati.gov.it/faq.
+";Complement;;"In addition, a community in the platform ""ReteDigitale"" has been created by involving the owners of open data portals (corresponding to data providers)."
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;"The Regional portals available are:
+Regione Basilicata https://dati.regione.basilicata.it/   
+Regione Campania https://dati.regione.campania.it/ 
+Regione Friuli Venezia Giulia https://www.dati.friuliveneziagiulia.it/ 
+Regione Lombardia https://dati.lombardia.it/  
+Regione Marche http://goodpa.regione.marche.it  
+Regione Piemonte https://www.dati.piemonte.it
+Regione Lazio                  https://dati.lazio.it/ 
+Regione Puglia               https://dati.puglia.it/ 
+Regione Sardegna http://opendata.regione.sardegna.it/ 
+Regione Siciliana https://dati.regione.sicilia.it/ 
+Regione Toscana http://dati.toscana.it  
+Regione Umbria https://dati.regione.umbria.it/  
+Regione del Veneto https://dati.veneto.it/ 
+Regione Trentino Alto Adige https://dati.trentino.it/ 
+Regione Valle d'Aosta https://www.regione.vda.it/statistica/Opendata/Opendataregione/opend_categoria_i.asp  
+Regione Abruzzo http://opendata.regione.abruzzo.it/  
+Regione Emilia Romagna https://dati.emilia-romagna.it/ 
+
+Other local portals and other national thematic portals are listed at this page of the national open data portal: https://dati.gov.it/elenco-harvest-sources 
+";Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;All catalogues listed above and their data sources  are discoverable in the national portal. The list and the URL to those catalogue and data sources (also including other national and local catalogues not listed above) are available at this page: https://dati.gov.it/elenco-harvest-sources . In addition the catalogues and the data sources can be set as search criteria (see https://dati.gov.it/view-dataset).;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";all datasets;;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;"Some examples : 
+https://dati.gov.it/view-dataset?Cerca=&tags_set=dati+dinamici&tags=dati+dinamici&ordinamento=&sort=Invia
+
+
+";Complement;;The right URL: https://dati.gov.it/view-dataset?Cerca=&tags_set=dati-dinamici&tags=dati-dinamici&ordinamento=&sort=Invia
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;No;
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;"The national Portal includes a specific section dedicated to the PA databases not available as open data, see https://www.dati.gov.it/base-dati-informazioni.
+Furthermore, the national data portal is linked to the catalogue for spatial data (i.e. https://geodati.gov.it), that includes both open and not-open data. In case of open data, the related metadata are made also available in the dati.gov.it portal through GeoDCAT-AP. ";Confirm;;
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;"The National Portal is an essential infrastructure in the contest of the open data policies, which is also expressly provided for in the legislation transposing the Open Data directive (i.e. the legislative decree 200/2021 amending the Legislative Decree no. 36/2006 [ https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig= ] (art. 9) The national portal is also relevant infrustructure in the context of the three Year Plan 2022 – 2024 and 2024-2026 [ https://www.agid.gov.it/sites/default/files/repository_files/piano_triennale_per_linformatica_nella_pa_2022-2024.pdf and https://www.agid.gov.it/sites/default/files/repository_files/piano_triennale_per_linformatica_nella_pa_2024-2026.pdf] with specific actions linked to it. It is therefore institutionally guaranteed to be sustainable. 
+Finally in the budget for the year 2024 and the three-year period 2024 - 2026, a specific item is dedicated to open data and open government including the activities linked to the portal (https://trasparenza.agid.gov.it/download/5589.html)."
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;https://twitter.com/DatiGovIT - https://www.youtube.com/channel/UCHsqR2YhxeKgFT4rAKVcAAQ (there is also the Twitter account of the national catalogue for spatial data https://twitter.com/rndt_it ) ;Confirm;;
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;Available in the repository dati.gov.it of the GitHub organization AgID, i.e. https://github.com/AgID/dati.gov.it;Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;"https://avanzamentodigitale.italia.it/it/progetto/open-data  provide a monitoring in terms of the number of data sets published,number of public administrations that publishes open data, distribution across categories, real-time data, distribution across administrations type (national, regional, …). 
+https://dati.gov.it/Monitoraggio/MonitoraggioDinamico provides the measures about metadata quality and the results of the actions on open data defined in the Three-Year Plan for ICT in the PA.
+https://dati.gov.it/Monitoraggio/Statistiche provides the information and the annual statistics on the data published on the portal.
+";Confirm;;
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;"Based on the monitoring results, specific and targeted activities are carried out by the portal team to support the individual data providers to improve the quality of its metadata published and consequently the general performance on the national portal. 
+Furthermore, based on those results, specific guidance is provided as FAQ in order to address specific (preferibly common) issues (see https://dati.gov.it/faq).
+Finally, the log of the harvesting process for each local/thematic catalogue is shared with the data provider in case corrections need.";Confirm;;

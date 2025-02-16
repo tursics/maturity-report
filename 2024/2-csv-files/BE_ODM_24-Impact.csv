@@ -1,0 +1,163 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;Use of non-private data in an easy (for automated tools) to process format by businesses, NPOs or other administrations than the administration publishing the data, in practical tools, services, visualisations or analyses;Confirm;;;;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;Yearly search for thesises published with/about open data (https://data.gov.be/nl/studies-en-thesissen) and looking for reuse (also on regional level, see https://www.vlaanderen.be/datavindplaats/inspiratie);Confirm;;;;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";no ;;Confirm;;;;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;;;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";no;;Confirm;;;;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";no;;Confirm;;;;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"Participation of public sector experts in OpenKnowledge community, and in activities like ""open summer of code""";Complement;Yes;"In addition, trainings / events like FLEXPUB including academia and public sector (e.g. https://soc.kuleuven.be/io/opleidingen/workshop-flexpub-psi-open-data), training ""Sustainable Business Models for Open Geospatial Data"" https://www.eurosdr.net/sites/default/files/images/inline/02_eduserv2024_sustainablebm4god.pdf";;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;Yes;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;Yes;Most portals use some sort of analytics (Matomo, Google Analytics …) to obtain info about most visited /downloaded data sources ;;;
+I8-b;Surveys;new question;new question;Change;No;N/A;;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;"Federal level 1-to-1 meetings with other public administrations and companies using (or looking into using) open data (about 1 per month), regional level eg Brussels (""user club"" meetings like https://be.brussels/en/about-region/publications-open-data-statistics/publications/publications-paradigm/users-club-datastore-listening-users), Flanders Region ""partner days geo and open data"" (https://www.wvigisco.be/event/partnerdag-geo-en-open-data)";;;
+I8-d;Other;new question;new question;Change;No;n/a;;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";Yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;Eg at regional level the Brussels Datastore User Club meetings, and Partner Days in Flanders Region (https://www.wvigisco.be/event/partnerdag-geo-en-open-data);;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;n/a;;;
+I9-c;Other;new question;new question;Change;No;n/a;;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";no;Rather on an ad-hoc basis;Confirm;;;;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";I don't know;;Confirm;;;;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";I don't know;As far as I know no hard figures, though impact is mentioned in projects and initiatives;Confirm;;;;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Sharing of cadastral parcel plan + statistics and police / emergency zones on  as open data (as opposed to a closed data source) reduces the administrative burden for municipalities and other administrations needing this data https://finance.belgium.be/en/experts-partners/open-data-patrimony/datasets/download-portal)
+
+Same for portals like the Datavindplaats of the Flemish Region which also focuses on reuse by other administrations (https://www.vlaanderen.be/digitaal-vlaanderen/nieuwsberichten/eerste-versie-datavindplaats-gelanceerd), and the Brussels Region (https://datastore.brussels/web/)";;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Monthly overview of expenses by federal government (https://bosa.belgium.be/fr/budget-de-letat) provides transparancy on spending of tax payer's money, similar initiative in Brussels Region on public procurement expenses(https://openbudgets.be.brussels/en/data-table/table-1), Flanders Region (see also press article https://www.knack.be/nieuws/belgie/politiek/subsidieregister-laat-zien-dat-het-tijd-is-voor-een-kerntakendebat/) and in Walloon Region (https://subventions.wallonie.be/home.html)
+
+Draft legislation of parliament (federal and regional) is sometimes used on social media for discussion";;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"""Provincies in cijfers"" (provinces in numbers) provides data to help identify issues in municipalities (e.g. high unemployment rate or high number of vacant shops compared to average). https://provincies.incijfers.be/databank allows to dynamically compare several key indicators and to generate thematic reports (see also https://provincies.incijfers.be/dashboard/dashboard/ )  for e.g. city planners, community councils";;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;n/a;;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";I don't know;There is data on social challenges, eg part of SDG indicators (gender equality, risk of poverty...) https://indicators.be/en/t/SDG/, though hard to say what the impact of open data is on these challenges;Change;Yes;"The Flemish Provinces use the open data dashboard on SDGs to track progress of municipalities in achieving these goals, see also https://cdn.flxml.eu/m-7e0dddf44851770ee2dd728bc7106997da4f071c55402b3d, and to create the ""Kansarmoede Atlas"" (see https://kansarmoede.west-vlaanderen.be/gwportal/apps/sites/#/kansarmoede-atlas) and reports to create awareness on gender inequality in pensions (e.g. https://www.plan.be/uploaded/documents/202404250919410.REP_PensionGenderCapsEU_Report2_13001.pdf)";;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;Initiatives like https://www.onwheelsapp.com/nl/app/ (using OpenStreetMap open geo data) to check and document the accessibility of buildings. There is also data on social challenges, eg part of SDG indicators (gender equality, risk of poverty...) https://indicators.be/en/t/SDG/, though hard to say what the impact of open data is on these challenges;;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;While there is open data available on housing prices and number of sales etc (https://statbel.fgov.be/en/themes/housing/house-price-index), it's hard to tell what the impact is. The Flanders Region does have a use case on the reuse of open data by real estate agents, e.g. https://www.vlaanderen.be/datavindplaats/inspiratie/realsmart;;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;For instance a news item of the statistics office,  based on the survey on income and living conditions (EU-SILC) https://statbel.fgov.be/en/themes/households/poverty-and-living-conditions/risk-poverty-or-social-exclusion#news which was picked up by the media (e.g. https://www.vrt.be/vrtnws/nl/2023/02/16/risico-op-armoede-of-sociale-uitsluiting/), greatly increasing the awareness of this problem.;;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Statbel and Eurotstat organizes the ""Towards a more statistically literate future"" https://statbel.fgov.be/en/EU2024/conference"", one of the sessions is about integrating statistics (which are often open data) in educational materials, for example https://www.statbeljunior.be/)";;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";I don't know;There is data on climate and environment (like satellite data), but not about impact of this data on the challenges (https://climat.be/);Confirm;;;;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"E.g. crowd-soruced air quality monitoring in Flanders like e.g. https://www.samenvoorzuiverelucht.eu (see also Dutch newsletter https://www.vmm.be/nieuwsbrief/september-2023/samen-met-lokale-besturen-en-burgers-naar-een-betere-luchtkwaliteit ), the ""Internet of Waters"" project ( https://www.internetofwater.be/en ) , and in Walloon Region the ""open data for water and energy"" workshop https://ecosysteme-economiecirculaire.wallonie.be/en/events/open-data-forwater-and-energy-use-cases-and-workshop/";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Companies like AnyWays are using open data to offer better mobility services to companies and public administrations to reduce travel time and promote greener options https://www.anyways.eu/blog/2022-09-14-gipod
+
+Regions also provide locations of public charging stations as open data to promote the switch from ICE to EV (https://www.vlaanderen.be/lokale-besturen-en-publieke-laadinfrastructuur)
+
+Walloon Region has the ""Wallonie-en-poche"" apps which combines various open data sources into 1 app for citizens, e.g. for finding bike-sharing services https://www.youtube.com/watch?v=7Svvcnr_WQI";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Air Quality / emissions progress report using open data from IRCELINE, see https://www.irceline.be/en/emissions?set_language=en
+(which is used by government / public administration to verify if the long-term goals on decreasing emissions are met)";;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;E.g Wallonie published the site/tool https://cartographie-solaire.spw.wallonie.be/ to convince people to install more solar on rooftops. In the Flanders Region, the Waze app (https://www.vlaanderen.be/datavindplaats/inspiratie/waze-community) is using open data to create better routing options, thereby reducing traffic jams / fuel consumption of vehicles;;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";I don't know;;Change;Yes;Linked Open Data Economie (Dutch), on economic impact of data from the Cities of Bruges and Ghent (https://stad.gent/sites/default/files/media/documents/LODE%20finaal%20rapport.pdf);;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;n/a;;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;n/a;;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;n/a;;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;n/a;;;

@@ -1,0 +1,218 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";other;"Federal ICT Strategy 2020-2023, Implementation: Master plan (document only available in german: Anhang B: Masterplan - Ausgabe 2020) point 3.3 ""Strategische Initiative SI-3 «Once-Only Prinzip», Kern-Initiative"" (SI 3.3): https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/strategie-planung/ikt-strategie_bund_2020-2023.html ";Change;Yes;"(1) https://www.fedlex.admin.ch/eli/cc/2023/682/fr#art_10
+(2) Loi fédérale sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités (LMETA), Art. 10 Données ouvertes
+(3) With the entry into force of the EMOTA, the open by default principle, which is part of the 2019-2023 Open Government Data strategy (OGD Strategy), will be enshrined in law. The federal administration will be obliged to publish its data in the form of OGD by default, within three years of the new law coming into force, scheduled for early 2024. ";;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"https://www.fedlex.admin.ch/eli/fga/2019/125/de, also available in English: https://www.bfs.admin.ch/bfs/en/home/services/ogd/documentation.assetdetail.16164831.html
+You'll find the highlights here: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/strategie.html";Complement;;"(1) https://www.bfs.admin.ch/bfs/fr/home/services/ogd/masterplan.assetdetail.28425806.html
+(2) Masterplan Open Government Data 2024-2027: The OGD strategy will thus be pursued by a plan of measures (Masterplan OGD 2024-2027), aimed at supporting the federal administration in implementing Art. 10 of the EMOTA concerning open government data, and with the goal of continuing the initiatives of the OGD strategy. The OGD master plan sets out the principles, goals and measures for open government data and defines implementation priorities for the federal administration. The publication and use of OGD give rise to new questions relating to law, ethics, governance and others, as well as new responsibilities. The measures in the OGD master plan will help to clarify these. The OGD office is also strengthening its role as an information centre for open access government data. It supports the use and publication of open data, as well as automatic information processing tools. The OGD master plan is also an important reference document for the cantons, communes and parastate enterprises, which are encouraged to promote the open access publication of government data.
+
+To support the administrative units in implementing Art. 10 of the EMOTA, five principles have been defined, each with its corresponding measures. These principles should help stakeholders to become familiar with the main principles of OGD, such as open by default and open by design, and to promote collaboration, exchanges and networking within the OGD community, so that the full potential of open government data can be exploited within the framework of legal, organisational, technical and semantic requirements. Emphasis has been placed on developing synergies with research and data science. The implementation of this law is  also intended to ensure that Switzerland remains both compatible and competitive at international level with regards to open government data.
+";;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;"For example: City of Lucerne has an ""OGD-Strategiehaus"": https://www.stadtluzern.ch/opengovernmentdata; City of Zurich has a strategy OGD 2030; The canton of Zug has a joint strategy for open government data: https://zg.ch/de/news/news~_2022_9_Gemeinsame-Strategie-fuer-offene-Verwaltungsdaten-im-Kanton-Zug~; Strategy for Geodata: https://www.geo.admin.ch/fr/news-13012023-le-plan-action-sgs-2023-est-arrive";Complement;Yes;"Switzerland is a federal state. There are many strategies at regional and local level. Here are a few examples. 
+OGD strategy canton berne: https://www.kaio.fin.be.ch/de/start/themen/rechtliche-grundlagen/open-government-data.html
+Geneva city: https://www.geneve.ch/publication/politique-donneees-2024-ville-geneve
+Open Data Basel Stadt: https://www.statistik.bs.ch/ueber-uns/rechtliche-grundlagen/fachstelle-ogd.html
+Kanton Aargau: https://www.smartservicesaargau.ch/#grundlagen
+Kanton Zug: https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/fachstelle/open-government-data-1/downloads/ogd-strategie/download
+Stadt Zürich: https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat/geschaefte-des-stadtrates/stadtratsbeschluesse/2021/Jul/StZH_STRB_2021_0743.html
+";;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;"The Appendix of the Strategy for open government data in Switzerland 2019-2023 is an action plan, its structure follows the 5 defined objectives:
+Promote coordinated data publication
+Data and data description: Quality
+The central portal opendata.swiss
+Administrative data overview
+Promotion of data use
+https://www.bfs.admin.ch/bfs/en/home/services/ogd/documentation.assetdetail.16164831.html";Complement;Yes;"The Masterplan OGD 2024-2027 contains 5 directions and 10 objectives: 
+1. Availability: Obj. 1 - Open access data are published in a coordinated manner in accordance with the LMETA.
+2. Quality of (meta)data: Obj. 2 - OGDs can be easily reused; Obj. 3 - OGDs have a high quality of (meta)data.
+3. Infrastructure: Obj. 4 - A central source of information on the publication of OGDs exists and is known; Obj. 5 - Users can easily find available OGDs.
+4. Synergies: Obj. 6 - The OGDs are integrated into the Swiss data ecosystem; Obj. 7 - The processes for the OGDs are established in the federal administration.
+5. Exchanges: Obj. 8 - An open data culture is established within the administration; Obj. 9 - The needs of OGD users are taken into account and integrated; Obj. 10 - The impact of OGD is regularly measured and communicated.";;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Change;Yes;"It is not an incentive, but the EMBAG regulation states that OGD data must be published in accordance with the OGD principles, one of which is to publish as soon as possible, if possible even in real-time (see p. 8).
+This is particularly important for dynamic data (including environmental data, traffic data, satellite data, meteorological data and data generated by sensors), which are constantly changing and whose economic value depends on their availability without delay and with regular updates. Dynamic data should be made available through an application programming interface (""API"") immediately after acquisition or creation or, in the case of a manual update, immediately after the dataset has been modified, in order to facilitate the development of Internet, mobile and cloud applications based on such data. 
+URL: https://www.newsd.admin.ch/newsd/message/attachments/84343.pdf";;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;;;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";no;;Confirm;;;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;Support and encourage the re-use of data is the 5th objective of the strategy. Different measures are defined, which particulary aim at the improvement of data competences and at supporting the network between data users and providers.;Complement;Yes;"Direction 5 Objectives 8  (p. 19, OGD masterplan 2024-2027): Strengthen competencies and expand networking in the OGD area (exchange). 
+Measures include the following
+- Interdisciplinary exchange in the OGD area is facilitated and actively promoted.
+- The creation and dissemination of communities of practice will be promoted.
+- A program of training courses for public administration will be created to strengthen skills
+";;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;Creation of community events to encourage the dialogue publishers-users, creation of supporting tools and guidelines, measures to support the development of data literacy.;Confirm;;;;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;The creation of overview is an explicit objective of the OGD-Strategy.;Complement;Yes;"LMETA, Art. 14 Plateforme d’interopérabilité
+https://www.fedlex.admin.ch/eli/oc/2023/682/fr#art_14
+The inventory can be carried out directly on the interoperability platform www.i14y.admin.ch";;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;The aim of the I14Y-Platform is that all of the Federal Administration's data collections are described here in a form that provides information on the existence and quality of the data held. More Information: www.i14y.admin.ch;Complement;Yes;[mro] The inventory can be carried out for all data (open, closed and shared) on the interoperability platform;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Not Applicable;;;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-b;Earth observation and environment;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-c;Meteorological;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-d;Statistics;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-e;Companies and company ownership;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-f;Mobility;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;;;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"The activities to support open government data (OGD) in Switzerland are organised by various bodies, including the specialist body for data management and interoperability, the OGD forum and two operational working groups (legal and portal).
+
+The specialist body for data management and interoperability is responsible for coordinating data management and interoperability throughout the Federal Administration. It also coordinates open government data and OGD activities.
+
+The main function of the OGD forum is to facilitate the sharing of expertise on open data and support stakeholder debate on this topic in Switzerland. It also provides support for the implementation of the OGD activities set out in the 2024‒2027 OGD master plan. To this end, it sets out recommendations for the development of OGD in Switzerland, supports the coordinated implementation of OGD throughout Switzerland and raises awareness throughout the Federal Administration of the OGD principles in accordance with the federal act (EMOTA). Additionally, it encourages multistakeholder participation and debate on OGD matters at every level of the Swiss federal system. The members of the OGD forum have the power to set up independent working groups.
+
+Two working groups have been set up to support delivery of the OGD master plan. The portal working group oversees the operation and development of the opendata.swiss portal. This group is open to all opendata.swiss contributors. The legal working group ensures that OGD activities have a solid legal basis and that conditions for the use of OGD keep pace with new developments.";;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;At a federal level it works more top-down, whereas at national level it follows more a concept of cooperation;Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Not Applicable;The administrative structure at federal level is supported by a law (EMBAG). This law does not apply to the cantons and municipalities, but serves as a guide for them. In principle, however, a regulated governance structure at federal level should also facilitate initiatives at regional level.   ;;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";approximately half of the public bodies;;Change;The majority of public bodies;There are very few public bodies that don't have open data initiatives.  ;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";yes;https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/aktivitaeten.html;Complement;Yes;Organisation of open government data activities under the 2024–2027 master plan: https://www.bfs.admin.ch/bfs/en/home/services/ogd/activities.html;;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"It's the same team; OGD office: https://www.bfs.admin.ch/bfs/en/home/services/ogd.html";Complement;Yes;This is the same team. The OGD office maintain the national portal and is also in charge of the cross-cutting OGD theme at the national level (open data team).;;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;Various dedicated posts for dedicated open data officers have been created on the federal level (OGD Office) but also at the cantonal level (OGD Basel, OGD Zürich);Complement;Yes;"OGD data stewards from the departments will be appointed at federal level this year. 
+Task: 
+- Maintenance of metadata and data of the organizational unit
+-Harmonization according to the semantic standards (metadata) defined in a specific subject area
+-Correct and complete maintenance of metadata, including the preparation and publication of Open Government Data (OGD)
+- Responsibility for maintaining the quality of data content and structures within the organizational unit ";;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"OGDDACHLI: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/dachli.html, Forum OGD: https://twitter.com/opendataswiss/status/1651813602733555714; Linked Data Day: https://lindas.admin.ch/linked-data-day/?lang=en";Complement;Yes;"We have regular meetings in the OGD working group of KORSTAT. OGD representatives from the Swiss cantons, municipalities and cities as well as the OGD office meet here to share their knowledge and experience. See Attachement AGO OGD Korstat 
+Open Government Data Forum : https://www.bfs.admin.ch/bfs/en/home/services/ogd/activities.html ";;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Open Data Beer, for example last november organized by OGD Office and Liip AG: https://opendatabeer.ch/impressionen/open-data-beer-nr-20-29-11-2022/;Complement;Yes;"Opendata.ch/Forum: https://opendata.ch/de/events/opendata-ch-2024-forum/
+Open Data Beer: https://opendatabeer.ch/
+Linked Data Meetup: https://www.bfh.ch/de/aktuell/fachveranstaltungen/linked-data-meetup-1-24/
+Hackathons: https://www.bk.admin.ch/bk/en/home/digitale-transformation-ikt-lenkung/bundesarchitektur/api-architektur-bund/govtech-hackathon24.html
+";;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"There are overarching initiatives and handbooks and many organizations are better defining their internal process. Geodata is particularly well managed. https://www.geo.admin.ch/en/base-geodata and for geometadata: https://www.geocat.admin.ch/en/documentation/application.html
+On cantonal level: guidelines from canton zurich: https://www.zh.ch/de/politik-staat/opendata/leitlinien.html";Confirm;;;;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;"Monitoring and ""Controlling"" are generally an important task of the open government data office. The OGD office is obligated to deliver a yearly progress report to the government.";Complement;Yes;"OGD-Masterplan 2024 - 2027 p. 13 chapter 5: In cooperation with the various stakeholders, the OGD office coordinates the evaluation of the implementation of operational informal consultations to evaluate the implementation of the operational objectives (section 5). It monitors the status of implementation of the action plan and prepares information for the management level in order to facilitate decision-making 
+with a view to updating this master plan. The evaluation takes the following dimensions into account into account:
+- Evaluation of the implementation of the operational objectives: Overview of the status of implementation of the measures using the indicators proposed in Chapter 6;
+- Evaluation of the OGD offering: status of the OGD offering in comparison with the objectives set (including FSO performance indicators);
+- Monitoring the implementation of OGD at cantonal level;
+- International comparison: Switzerland in international comparison in the OGD area";;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;"Yes, the master plan OGD (2024-2027) is based on the results of a user survey. At the same time, workshops were held with participants from the federal government, cantons and municipalities, academia and civil society. In order to define the master plan according to the different needs of the participants, within the framework of the EMBAG regulations. The previous strategy (2019-2023) was also evaluated and its results taken into account: https://www.efk.admin.ch/en/audit/implementation-of-key-recommendations-general-secretariat-of-the-federal-department-of-home-affairs-and-federal-statistical-office/. 
+
+The master plan is updated every 4 years, corresponding to the duration of the legislature. The new proposal is submitted to the Federal Council, which decides the measures to be taken in the OGD field.";;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";I don't know;;Change;No;;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;"1) Missing clear legal base for OGD publications
+2) Lack of understanding from the federal offices (both at the management level and the base, even if there are of course many good exceptions) about the importance of OGD
+3) somewhat a lack of gouvernance in data management";Change;N/A;"1) Lack of understanding of the importance of OGD by some federal agencies (both at the management level and at the grassroots level, although there are many good exceptions).
+2) A certain lack of governance in data management also because of federalism. Should be resolved with EMBAG and the NaDB program.
+3) Lack of financial and human resources
+";;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"OGD will be anchored in a federal law as of 01.01.2024: https://www.parlament.ch/en/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20220022; Awareness is growing thanks to multiple initiatives both internal (more and better publications) and from the user side (interesting and innovative use of OGD awakens the interest of federal bodies to publish). Implementation (fourth realisation in August 2023) of the Data Management and Open Government Data training module: https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-und-open-government-data-2023/
+The national data management programme puts in place a governance model for data management at national level: https://www.bfs.admin.ch/bfs/en/home/nadb/nadb.html";Complement;Yes;"""-LMETA: https://www.fedlex.admin.ch/eli/cc/2023/682/fr#art_10 
+-Masterplan OGD 2024-27 : https://www.bfs.admin.ch/bfs/en/home/services/ogd/masterplan.html
+-National data management program (NaDB) : https://www.bfs.admin.ch/bfs/en/home/nadb/nadb.html 
+-various other programs""";;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;"The OGD Office
+ - Supporting administrative units and data providers in referencing open datasets on opendata.swiss
+- Promotion of (OGD) data competence through theoretical and practical training in the management of (meta)data within and outside the federal administration.
+URL: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/geschaeftsstelle.html
+Handbook: https://handbook.opendata.swiss/fr/";;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;"There are different activites in place. In particular we organise an official course on the topic ""open data & data management""";Complement;Yes;https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/;;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, >9;https://opendata.ch/events, opendatabeer.ch, ;Complement;Yes, >9;"Hackathons: https://opendata.ch/projects/hackathons/ ; https://www.bk.admin.ch/bk/en/home/digitale-transformation-ikt-lenkung/bundesarchitektur/api-architektur-bund/govtech-hackathon24.html
+Lecture: https://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/fruehjahrssemester_2024/index_ger.html
+";;;;;;

@@ -1,0 +1,101 @@
+;Dimension 3: Open Data Quality;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;3.1 Currency and completeness;;;;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;It is set in the regulation  of Cabinet of Ministers regulations Nr.445  “Procedures by which Institutions Place Information on the Internet” –  paragraph 5 of the Regulations regulates work and usage of the official Latvian open data portal and the obligation for the authorities to publish the open data that they own in data.gov.lv and the requirement to update data according to the metadata “Frequencey”;Confirm;;
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;70-89%;"Data holders have the option to upload via the API or manually.
+CSV data can also be changed manually, automatically via API, this is the responsibility of the data providers."
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;We indicate that the information is updated immediately.
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;"It all depends on the data holders. There are datasets that contain information from before, there are datasets that contain up-to-date information and archived information should be queried with the data holder or whether the data holder has set a time limit for the data: https://data.gov.lv/dati/lv/dataset/valsts-adresu-registra-informacijas-sistemas-atvertie-dati.
+In the new version of the portal, data holders will see a message next to datasets if they are not updated by the specified deadline, indicating the need to update the dataset. "
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;Yes: https://data.gov.lv/dati/lv/dataset?tags=augstv%C4%93rt%C4%ABg%C4%81+datu+kopa
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;The high-value datasets are published in accordance with the requirements of the Implementing Regulation No (EU) 2023/138. If they are properly published in another Member State, their interoperability should be possible.
+;3.2 Monitoring and measures;;;;;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;Manually, by analysing API data.;Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";no;;Change;Yes;https://data.gov.lv/lv/standarti
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;https://data.gov.lv/lv/standarti
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;he portal provides a standard for describing metadata and a roadmap (guidelines) for creating metadata: https://data.gov.lv/lv/standarti
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;"Rekomendācija atrodama sadaļā ""Datu aprakstīšanas vadlīnijas"": https://data.gov.lv/lv/datu-aprakstisanas-vadlinijas"
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Confirm;>90%;N/A
+Q13;How many different licences are used on your portal?;1-4;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;So far, explanations have been provided by telephone on request, but a training session is planned for autumn this year, including a section on data quality.  
+;3.3 DCAT-AP Compliance;;;;;
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;CKAN - DCAT-AP plugin
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);>90%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";No;;Complement;;The plugin is used, Latvia has not developed its own DCAT-AP standard.  
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;No;At the moment, such cases are not being investigated, but we may consider doing so in the future.
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+;3.4 Deployment quality and linked data;;;;;
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;"We are currently evaluating the quality of data deployment manually by checking published datasets.
+
+August Update
+According to technical colleagues they use 5 - star Open data modul.";Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;"Please see answer from technical colleague about 5star Open data modul using:
+Laima Ķiece
+iepriekš ja bija nepieciešam novērtēt datu kopu, tad novērtēšana tika veikta pēc šī modeļa https://5stardata.info/en/
+5-star Open Data
+Information around Tim Berners-Lee's 5-star Open Data Plan";Confirm;;
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;>90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;>90%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;71-90%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;>90%;N/A;Confirm;;N/A

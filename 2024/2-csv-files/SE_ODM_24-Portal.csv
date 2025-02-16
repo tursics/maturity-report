@@ -1,0 +1,320 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;"https://www.dataportal.se/
+
+We also have a newer version of the portal that we are developing in parallel, see https://beta.dataportal.se/ This version also includes support for open source and public AI, and after some additional UX-improvements (to mainly the dataparts) we plan to replace the current dataportal with the beta-version later this year.";Change;Yes;The link to the Swedish data portal is https://www.dataportal.se/sv, and a english version (though with less content) is found at https://www.dataportal.se/en.
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;Yes;"Our technology stack is based on Entryscape from Metasolutions for the backend.  The Entryscape product:  https://bitbucket.org/metasolutions/entryscape/src/develop/
+See also additional descriptions: https://docs.dataportal.se/registry/api/
+For the frontend web we are using the Strapi CMS, and NodeBB for our community."
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;https://docs.dataportal.se/registry/api/
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;No;
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"There is documentation for the API for the portal provided here: https://docs.dataportal.se/registry/api/
+There is also support for API-producers under ""Tools"" in the menue and a built-in support for Swagger if the API is supporting OpenAPI.
+"
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"Any user that have produced a data set are able to that via the tool ""Admin"", including adding links to supportive materials like dokumentation or test cases. The Admin-tool is available behind a login at this link: https://admin.dataportal.se/start"
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;" This can either be done on the dataportals open community (see 
+https://community.dataportal.se/category/33/feedback-p%C3%A5-samarbetsplattform) or by an info-mail adress available at the dataportal (https://www.dataportal.se/sv/om-oss) 
+";Change;Yes;"This can either be done on the dataportals open community under the category ""Feedback"", or by an info-mail address available at the dataportal.
+ 
+# Link to feedback community: https://community.dataportal.se/category/4/feedback-p%C3%A5-dataportal-se
+
+# Link to ""Contact us"" at the portal: https://www.dataportal.se/om-oss#kontakta_oss"
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"Yes, in our community we have a specific category for ""Data"" where users e.g. can discuss datasets and ask questions. https://community.dataportal.se/category/23/data  The feedback button for each dataset contains a link to the community and this text: ""Do you have questions or comments?
+Contact the publishing organization for questions, comments and requests regarding the information on this page. You can also turn to the data portal's community.""";Change;Yes;"Yes, in our community we have a specific category for ""Data"" where users e.g. can discuss datasets and ask questions. See: https://community.dataportal.se/category/23/data  
+
+Also, at every dataset there is a feedback button that links to the community with this text: ""Do you have questions or comments?
+Contact the publishing organization for questions, comments and requests regarding the information on this page. You can also turn to the data portal's community.""
+
+The users can also contact the data owner via the provided contact information available at each data page. "
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;Yes, users can find various information provided both by us (Digg - who runs the dataportal) and from other datausers at our communiy, see https://community.dataportal.se/. They can also find news at the dataportal (www.dataportal.se). In the upcoming and new dataportal (https://beta.dataportal.se) we will also make room for more news and good exemples provided by our collaborators and other other datausers. ;Change;Yes;"At the portal there is a both a news section and a section on good exemples that provides users with different information (these examples can also be filtered into various topics such as AI, data sharing and data use). 
+
+# Link to the news section: https://www.dataportal.se/nyheter
+
+# Link to section on good examples: https://www.dataportal.se/goda-exempel
+
+Additionaly, users can find a lot of information on our community, across a range of different topics. 
+
+# Link to community:  https://community.dataportal.se/ "
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no ;;Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;In our community there is a specific category for requesting data, see https://community.dataportal.se/category/1/efterfr%C3%A5ga-data-och-api-er;Change;No;
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no;Yes, any requests for data on our community is public. However, we currently have no processes or tools for present the status of the requests. ;Confirm;;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;At Digg (Agency of digital government), the open data team keeps track of the requests and tries to connect the requesting person with relevant persons that might hold the requested data. But we do not have a formal process for this, rather our effort is based on the amount of time available. ;Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://community.dataportal.se/;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";no;Yes, in the beta-version.https://beta.dataportal.se/aktuellt;Change;Yes;"Since mars 2024 we have a new section with good examples, among that reuse cases. 
+
+See https://www.dataportal.se/goda-exempel"
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";no;;Change;Yes;"Since we launched the new section for good exemples in mars 2024 we do have a functionality for referencing used data sets (in a ""side box"" for facts/information), but since the current exemples were written before we had this opportunity, we have not been able to upgrade the examples with this information. But upcoming reuse exemples will have this information. 
+
+# Link to an example on data use where the ""side box"" is shown (without information on data though): https://www.dataportal.se/goda-exempel/visualiseringar-nyckeln-till-forstaelse"
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://community.dataportal.se/category/23/data;Change;Yes;"Users can apply for publication of their own use case via this form: https://www.digg.se/ovrigt/formular/intresseanmalan-for-att-skicka-in-goda-exempel
+
+This link is available at the dataportal in the ""About us"" section: https://www.dataportal.se/om-oss#hur_kan_du_bidra_till_sveriges_dataportal?"
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";no;;Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";no;;Change;Yes;An example on weather data about air humidity with displayed visualisations for geodata area: https://www.dataportal.se/datasets/78_5527/seacmf-meteorologiska-observationer-relativ-luftfuktighet-timvarde#ref=?p=1&q=&s=2&t=20&f=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2Ftype%7C%7Chttp%3A%2F%2Fpurl.org%2Fadms%2Fpublishertype%2FNationalAuthority%7C%7Ctrue%7C%7Curi%7C%7COrganisationstyp%7C%7CNationell%20myndighet%24http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2Fpublisher%7C%7Chttps%3A%2F%2Fwww.smhi.se%2Fdata%2Futforskaren-oppna-data%2Fopendata_support_smhi.se%7C%7Cfalse%7C%7Curi%7C%7COrganisation%7C%7CSMHI%20-%20%C3%96ppna%20Data&rt=dataset%24esterms_IndependentDataService%24esterms_ServedByDataService&c=false
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"In the data search section there is a filter avaible for high-value datasets (in swedish ""Värdefulla datamängder""). See https://www.dataportal.se/datasets?q=&f= (click to open more filters). 
+
+By this filter users are able to filter their search for HVD. For data providers, we also have a guide for how to publish HVD, see https://docs.dataportal.se/dcat/docs/recommendations/#14-vardefulla-datamangder
+
+The link to the guide is available at the portal in the section ""Stöd & verktyg"" (in english ""Support & tools), under the filter for recommendations for data sharing. See https://www.dataportal.se/stod-och-verktyg"
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;We use Matomo for monitoring e.g. number of unique visitors, what countries they come from, breifly their visitor profiles etc. For the community, we use the in-built analytic tool in NodeBB which the community is built upon. However, we have just also included the community in the Matomo licence to make sure we have comparable numbers and statistics. There is also a statusreport for datapublishers: https://docs.dataportal.se/registry/status/;Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";no ;N/A;Confirm;;
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;"Yes, we perform a number of activities in this sense:
+# We often engage in discussions in our community where a lot of user needs are ventilated. 
+# In the release of the beta.dataportal.se in Nov 2022 we also used the community to specificly request comments on the new design.  
+# We engage in dialogues about user needs in various seminaries, e.g. a seminar with representatives from a number of different civil society organisations.
+# In 2022, we performed a larger need inventory with data providers (with the help of consultants) based on 24 interviews and as a result we now have a rather long list of identified needs, see https://www.digg.se/analys-och-uppfoljning/publikationer/publikationer/2023-01-31-slutrapport-uppdrag-att-framja-delning-och-nyttiggorande-av-data (""Bilaga 1: Användarbehov för en digital arena"")
+# We have earlier results from a number of usability tests with data users that we still see is relevant to some extent (for exempel, a number of the functionality that also is highlighted in this survey such as being able to request data was also seen in our user tests).  ";Change;Yes;"Yes, we perform a number of activities in this sense:
+# User discussions in our community provides much insigths to needs related to both data use and data sharing, as well as other topics. The community is also used for gathering users opinions on e.g. the new design of the national data portal. 
+# In our open Github for the dataportal, users suggests improvements to the dataportal. 
+# We engage in dialogues about user needs in various seminaries, e.g. a seminar with representatives from a number of different civil society organisations.
+# We participate in a project called ""Dataverkstaden"" (in eng. Data workshop"" which supports primarily municipalities and regional actors to share data, and we use this as a platform for both genrerally identifying needs of data owners, but also as a test platform for concepts and new functionality and design. 
+# In 2022, we performed a larger need inventory with data providers (with the help of consultants) based on 24 interviews and as a result we now have a rather long list of identified needs, see https://www.digg.se/analys-och-uppfoljning/publikationer/publikationer/2023-01-31-slutrapport-uppdrag-att-framja-delning-och-nyttiggorande-av-data (""Bilaga 1: Användarbehov för en digital arena"")
+# We have earlier results from a number of usability tests with data users that we still see is relevant to some extent (for exempel, a number of the functionality that also is highlighted in this survey such as being able to request data was also seen in our user tests).  "
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;"Together with our new web consultants, who have a much stronger UX-profile than ours previous consultants, we use the user insigths for a qualitative user driven design process for the data portal. This includes conceptual design and tests, development and continuous testing and dialogues with users, and also contiuous improments of identfied bugs and things that can be improved. 
+As a result, in mars 2024 we launched a new dataportal (https://www.dataportal.se/sv) with the following improvements:
+# A new and more user friendly design and structure (focus on e.g. consistentency, 
+# A new area for ""Stöd & verktyg"" (in eng. Support & tools), including filtering possibilities. 
+# A new area for good exemples, including a  process to apply for publish users good examples (see PT19)
+# A new area for ""Datasamverkan"" (in eng. Data colloboration"") where big national initiatives that aims to make data a strategic resource can be displayed
+# A new page for educations related to data 
+# A new page ""Varför dela data?"" (in eng. Why share data?) with information on; generic benefits, regulations related to data, and strategies and policies related to data.  
+# A new page for ""Resultat och uppföljning"" (in eng. Results and follow-ups), that shows e.g. metadata quality for data catalogues. 
+See also a news article about the launched improvements: https://www.dataportal.se/nyheter/sveriges-dataportal-nu-storre-och-snyggare"
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;"To promote the dataportal we do e.g. the following:
+# Promotion at LinkedIn for bigger news and updates at the dataportal
+# Participation at several seminars arranged by leading public actors within open data sharing
+# Discussions with an organisation that arranges business innovation competitions in order to find ways to promote data use in innovations, and find exempels of start-ups that have utilized open data.
+# Presentation at Diggs open seminiars ""Digg Forum"", see e.g. https://www.digg.se/kunskap-och-stod/digg-play/filmer/2024-04-23-sveriges-dataportal---nu-storre-och-snyggare
+# Monthly presentations and information to participants (public data providers) in the project ""Nationell dataverkstad"" (in eng. National data workshop""), see https://www.vgregion.se/ov/dataverkstad/
+# Presentation of thenew  national data portal for a network of public organisations focusing on digitalisation, see https://www.esamverka.se/ "
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;Yes, we use the web analytics tool Motomo to monitor key words used for searching at the data portal. A few times per year we look into this to gain insigths into potiential needs for further improvements of the dataportal. If possible (due to financing and time/people resources), we then make improvement to the dataportal. 
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"As with the monitoring of used key words for searching, we also monitor least and most consulted pages a couple of times a year, in order to gain insigth for further improvements of the dataportal. Since we just launched a new dataportal, we are also now planning to how we can improve our overall web analysis strategi. 
+
+The five most popular dataseta on our dataportal are: 
+# https://www.dataportal.se/datasets/172_4994/energimyndigheten-statistikdatabas
+# https://www.dataportal.se/datasets/172_8857/avfallspriser-per-kvartal-exklusive-skatt-fran-och-med-2021-kronor-mwh-fritt-forbrukare-lopande-priser
+# https://www.dataportal.se/datasets/272_2383/statistik-over-korkortsinnehavare
+# https://www.dataportal.se/datasets/6_71657/mina-arenden
+# https://www.dataportal.se/datasets/172_8538/historisk-anvandning-av-producerad-biogas-i-sverige-gwh-ar-2005-2021"
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;We have started to do this. The first phase has been to set up actions/triggers to measure searchability and keywords for data in the analysis tool, e.g what is searched upon, search without hit, etc. We also plan to improve this further during 2023 since we are in the middle of a process of changing web consults (to https://www.digitalist.se/), and our new consultant firm specializes in Matomo and have long experience in SEO. ;Change;Yes;"Yes, as part of the work with developing a new dataportal (launched in march 2024), the search functionality has undergone improvements, both from a design perspective, but also with new functionality (new filter for HVD and type of organisation, improved content search).
+
+Our process for this is driven both by user needs and by regulations (that the dataportal shall support regulations). "
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Change;Yes;"An example of a dataset described by its metadata: https://www.dataportal.se/datasets/172_8538/historisk-anvandning-av-producerad-biogas-i-sverige-gwh-ar-2005-2021
+
+Information about what metadata that is shown at the dataportal and what metadata that is not: https://docs.dataportal.se/dcat/docs/dataportal/"
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";Few public sector data providers;"In Sweden, a number of different aspects contribute to the relatively low degree of public sector data providers.
+
+# Municipalites and county regions in particular are governed with a very high degree of self-governance, that is, the decentralized government structure makes is difficult (if not impossible) to strongly incentivise these actors to share data they do not have to release. The implementation of high-value datasets in the new data law makes it easier for us (at Digg, the Authority for digital government) to work towards increased data sharing.
+
+# Many public actors report technical challenges related to their metadata catalogue, and therefore we will launch a service for a shared metadata catalogue at dataportal.se during 2023.  The analysis covering this challenge can be found here: https://www.digg.se/analys-och-uppfoljning/publikationer/publikationer/2022-03-09-tekniska-forutsattningar-for-oppna-data
+
+# A generally low awareness among public actors about open data, and in particular on the benefits of open data and how they get started. To adress this we launced an basic education programme called ""Data ambassador"" in Feb 2023 which gives the basics in open data including the general benefits. We now have more than 100 registrered participants. During 2023, we are also developing a learning initiative (education like) specifically for leaders and managers in public organisations. Link to a news article about the Data ambassador programme: https://www.digg.se/om-oss/nyheter/nyheter/2023-02-21-digg-lanserar-dataambassadorsprogram-for-att-stodja-arbetet-med-oppna-data";Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"During 2022 we performed several actions to assist data providers:
+
+# We launced a recommended REST API-profile for public actors (and others). See https://www.dataportal.se/sv/nyheter/18/rest-api-profil-okar-kvaliteten-pa-api-er
+
+# Together with the Swedish public employment service (a public agency) we developed a tool called the ""DCAT-AP-processorn"" which enables data providers to automatically create metadata from an existing API. See https://www.dataportal.se/sv/nyheter/17/nytt-verktyg-for-att-automatiskt-skapa-metadata  
+
+# We started to develop the dataportal into more of a digital arena for knowledge sharing and dialogue with more important support (e.g. an additional focus on open source and public AI). The updated dataportal will also have increased support for co-created content (e.g. re-use examples), that is, more actors can be given publication access e.g. other public actors, projects that work with data sharing or for example Smart cities or IoT. We are not there yet, but we are working on it, see https://beta.dataportal.se/ 
+
+# We developed new recommendations for the procurement of data so that when data is aquired it will be easier to open up. See https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/rekommendationer-for-upphandling-av-data 
+
+# We started developing a shared metadata catalogue to make it easier for public actors to get starting in their sharing of data. 
+
+# We developed the education ""Data ambassadors"" (recorded a lot of videos, developed quiz's and other educational material such as a set of Power Point files for there usage). This was launched in Feb 2023, see link in Q 91.
+
+# We have conducted a number of information seminars about the new data law (based on the Open data directive), see https://www.dataportal.se/sv/nyheter/15/digg-bjuder-in-till-informationstraffar-om-den-foreslagna-datalagen. In addition to seminars, we have also developed a support page about the data law with a stronger legal perspective, see https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/information-om-oppna-datalagen";Complement;Yes, or all public sector data providers already publish data;"We continuously develop new tools and means for supporting data providers in order to build up a broader and more efficient support for sharing open data. Here are some examples of actions taken the last year.
+# A new and better dataportal has been launched with a lot of new functionality and more information (see improvements described in PT26)
+# A new guide for high-value data, see https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vardefulla-datamangder 
+# As a complement to our course for basic open data knowledge (Dataambassadörsprogrammet), we are in the process of developing a new educational initiative for management. This will be launched 2024 at the dataportal. 
+# Continuous support of public actors participating in the project “Nationell dataverkstad”, which aims to provide practical support to public data providers. See https://www.vgregion.se/ov/dataverkstad/ 
+# Participation in a project called “Smart City Lab” (with a focus on IoT, data use, data sharing within municipalities), where we rather regulary spreads information about news and participates in dialoges and seminars. See https://www.ri.se/sv/vad-vi-gor/projekt/smart-city-lab-kommunernas-stodfunktion-for-datadriven-utveckling"
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;"If we by portals mean a dataportal which hosts data from more than one public actor, in Sweden we have the following dataportals apart from the national dataportal:
+
+# The national geodata portal is managed by the national mapping agency (see https://www.lantmateriet.se/) and hosts data from municipalities, county regions and public agencies. Link: https://www.lantmateriet.se/sv/geodata/Geodataportalen/
+
+# The national statistics database is held by the agency Statics Sweden (see https://www.scb.se/en/) and contains statistics from a variety of public actors. Link: https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/ 
+
+# The national research data portal is hosted by Gothenburg university but is owned by a konsortium of 40 academic institutions (such as universities) and contains shared research data. Link: https://snd.gu.se/en 
+
+# A regional dataportal that contains data from both the county region ""Region Västra Götaland"" and some of its municipalities in the region is Dataportal Väst. Link: https://www.vgregion.se/ov/dataportal-vast/datakatalog 
+
+In addition to dataportals that contains data from several actors, there are also several ""dataportals"" that only consists of data from one actor, resembling more these actors own web for their open data. Since we have 290 municipalitites and 21 county regions in Sweden, we only give some examples. 
+
+# Examples of municipalities dataportals are: 1) Umeå municipality, https://opendata.umea.se, 2) Helsingborg city, https://helsingborg.io/dataportal/, and Sundsvall municipality, https://data.sundsvall.se/";Change;Yes;"If we by portals mean a dataportal which hosts data from more than one public actor, in Sweden we have the following dataportals apart from the national dataportal:
+
+# The national geodata portal is managed by the national mapping agency (see https://www.lantmateriet.se/) and hosts data from municipalities, county regions and public agencies. Link: https://www.lantmateriet.se/sv/geodata/Geodataportalen/
+
+# The national statistics database is held by the agency Statics Sweden (see https://www.scb.se/en/) and contains statistics from a variety of public actors. Link: https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/ 
+
+# The national research data portal is hosted by Gothenburg university but is owned by a konsortium of 40 academic institutions (such as universities) and contains shared research data. Link: https://snd.gu.se/en 
+
+# A regional dataportal that contains data from both the county region ""Region Västra Götaland"" and some of its municipalities in the region is Dataportal Väst. Link: https://www.vgregion.se/ov/dataportal-vast/datakatalog 
+
+In addition to dataportals that contains data from several actors, there are also several ""dataportals"" that only consists of data from one actor, resembling more these actors own web for their open data. Since we have 290 municipalitites and 21 county regions in Sweden, we only give some examples. 
+
+# Examples of municipalities dataportals are: 1) Umeå municipality, https://opendata.umea.se,, and 2) Helsingborg city, https://helsingborg.io/dataportal/."
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;Yes, not all of them, but most of them. The Geodataportal has been connected to national dataportal for a number of years. The research data portal will be integrated with the national dataportal now in May2023. The open data in the Region Väst data catalogue are visible at the national dataportal. S;Change;Yes;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";the majority of datasets;;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;"Yes, when you search ""realtid"" (realtime in Swedish) on the Swedish dataportal you get 55 hits. 
+See the search results: https://www.dataportal.se/sv/datasets?p=1&q=realtid&s=2&t=20&f=&rt=dataset%24esterms_IndependentDataService%24esterms_ServedByDataService&c=false
+";Change;Yes;"Yes, when you search ""realtid"" (realtime in Swedish) on the Swedish dataportal you get 67 hits. 
+See the search results: https://www.dataportal.se/sv/datasets?p=1&q=realtid&s=2&t=20&f=&rt=dataset%24esterms_IndependentDataService%24esterms_ServedByDataService&c=false"
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;Yes;It is possible for non-official actors, e.g. companies or non-governmental organisations, to publish data at the Swedish data portal. 
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;It is possible to use the portal for both open and controlled data by providing a correct license for the data.;Change;Yes;"By using the filter ""licens"" and choosing a licence that is not for open data (CC BY-NC), the users can filter out data that is not open data."
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;In the instruction for the Agency for digital government (Digg)y, it is stated that the national register for public data provided for reuse shall be kept. This ensures that Digg keeps the national data portal up and running. See link to Diggs instruction: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-20181486-med-instruktion-for_sfs-2018-1486/
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";no;;Confirm;No;
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;"Diggs Github account is called ""diggsweden"" and has a catalog for the national dataportals open spource code. See https://github.com/DIGGSweden/dataportal-web";Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;"The homepage has a section for statistics regarding data per month on a half year basis, the amount of organizations that publishes data, the organizations with most published datasets and the five most common categories of data.
+See the section “Statistics at a glance”: https://www.dataportal.se/en 
+Also see the page “Statistics”: https://www.dataportal.se/en/statistics  and https://admin.dataportal.se/status/overview
+
+Due to the change of web consultants (see Q 103) we now also have access to more competence in the Matomo tool, so moving forward we are planning to further improve our usage of varios web statistics. ";Change;Yes;"The homepage has a section for statistics regarding data per month on a half year basis, the amount of organizations that publishes data, the organizations with most published datasets and the five most common categories of data.
+See the section “Statistics at a glance”: https://www.dataportal.se/en 
+Also see the page “Statistics” that shows results per month: https://www.dataportal.se/en/statistics  and https://admin.dataportal.se/status/overview
+
+We have also started to improve our use of the data analytics tool Matomo in order to further improve our usage of various web statistics from the national dataportal. "
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;Yes, the monitoring of the dataportal allows us to gain more knowledge on e.g. what in the data publication process is considered difficult by data providers, and also when more communication about the dataportal is needed. Dataproviders can gain access to monitoring functionality through our platform for technical support, see https://admin.dataportal.se/status/overview;Confirm;;

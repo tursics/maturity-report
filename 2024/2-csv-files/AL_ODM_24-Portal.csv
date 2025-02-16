@@ -1,0 +1,216 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;http://opendata.gov.al/ and http://ogp.gov.al/;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;N/A;The portal enables users to access and filter data, providing a range of functionalities such as searching by data type, category, and institution.An example is: https://opendata.gov.al/qendra-shendetesore but does not support any of the technologies.
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;Yes, the national open data portal of Albania, opendata.gov.al, offers users the ability to programmatically query the metadata via an API. This is used for such open data portals and includes a API for accessing metadata and datasets.                                                                            We can not provide a link at this moment, but it will sure be done during the update of the portal.
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;No;The national open data portal of Albania, opendata.gov.al, does not provide a SPARQL access point for programmatically querying the metadata.
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"One of the links that is used api is ""https://opendata.gov.al/qendra-shendetesore""."
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;SPARQL is not used and has no documentation.
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;Yes;The data of the portal is completed by certain users, but the data that is published is compiled by the institutions.    Ordinary users can not contribute datasets because all the datasets of the portal contains governmental data.
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;http://opendata.gov.al?item=kontakt;Confirm;;
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Change;Yes;"https://opendata.gov.al/  On the right side of the first page of the portal, there's a section labeled ""CONTACT."" Here, you can enter your name, email, and any message you have regarding the portal.                                                                                There is still not a functionality to link the query with a specific dataset, but it will be part of the upgrade of the portal.                         "
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;No;This will be done in advance with the new project plan with the World Bank on upgrading the Open Data Portal.
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no;;Confirm;;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no ;;Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Change;Yes;Request Data  is implemented in our portal and you can search for any dataset.                                    There has been a misunderstanding from the last answer, because there is not a request data button, but there is a search button, where you can search for any dataset that you want.
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no;;Confirm;;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";no;;Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";no;;Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";no;;Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";no;;Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;http://opendata.gov.al/lista-e-barnave-te-rimbursueshme;Complement;Yes;"          We have tabular data: examples of this are:
+1.https://opendata.gov.al/qendra-shendetesore
+2.https://opendata.gov.al/importi-i-karburanteve"
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://opendata.gov.al/?item=rajone-policie;Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;The open data portal does have high-value datasets. About users to filter the datasets they want, there is a search button on the left side of the first page of the portal where users can search about the datasets, that they are interested in. Also high-value datasets are promoted by the National Geo Portal (ASIG) which provides high-value datasets for example: methorologic data, hydrografi, geology, land, etc.
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;"Backend reports
+C#, Javascript, ";Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";no ;N/A;Change;Yes;We use Google analyst in API usage.                          Regarding the Action Plan to develop and upgrade the portal, analytics are a crucial part of our discussions, which will be part of Open Data Readiness Assessment (ODRA)
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";no;;Complement;No;This is  part of the new action plan of developing open data in Albania.
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;This initiative is part of the new action plan for upgrading the Open Data Portal. Based on the latest statistics from the portal, we will collaborate with the World Bank on a project to enhance the Open Data Portal, utilizing insights to drive improvements.
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;By the end of 2023, the governmental structure responsible for promoting open data and the Open Government Partnership became the Ministry of Public Administration and Anticorruption. After assuming this responsibility, the Ministry had not yet implemented substantial initiatives to actively promote the portal. However, discussions about the portal took place during meetings and consultations with various ministries and institutions. In these gatherings, both the existence of the portal and the need for its upgrades were emphasized. While direct promotional efforts remained limited at the time, awareness of the portal and its significance had begun to spread within relevant government bodies.
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;No;We do not monitor what keywords are used to search for data and content on the portal
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;We can generate only statistics which page is least viewed and used.                                                           The site is monitored only through the statistics generated by Google Analytics. The five most popular datasets in the portal are:                                 https://opendata.gov.al/?item=thesari                     https://opendata.gov.al/?item=lista-e-barnave      https://opendata.gov.al/?item=e-albani-sherbimehttps://opendata.gov.al/                              https://opendata.gov.al/?item=statistika-mbi-numrin-e-te-diplomuarve-ne-ial-publike-dhe-private                                         https://opendata.gov.al/?item=statistika-te-portalit-e-albania                                                                       
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;"The portal was launched during a technology event where the Prime Minister was present. There hasn't been a promotional campaign since. Best SEO techniques are being implemented to ensure visibility on search engines.
+
+SEO (Search Engine Optimization) aspects for the website ""opendata.gov.al""
+
+Meta Description: The meta description for the website is 107 characters long. It provides a concise overview of the website's purpose: ""Open Data është një platformë e hapur që shërben për katalogimin e të dhënave nga institucionet qeveritare."".
+
+H1 and H2 Tags: The homepage of the website contains one H1 tag and one or more H2 tags.
+
+Alt Attributes for Images: All images on the homepage have alt attributes.
+
+Title Length: The title of the homepage has 41 characters, which is considered good for SEO.
+
+Index Meta Tag or Header: Your homepage does not contain an index meta tag or header. 
+
+OpenGraph Meta Tags: Opengraph meta tags have been found. Opengraph tags help control how your content appears when shared on social media platforms.
+
+Robots.txt File: Your site has a robots.txt file. This file helps guide search engine crawlers on which pages to crawl or not to crawl.
+
+Local Images: No local images were found on the page. This could mean that images used on the site are hosted externally.
+
+Minified JavaScript Files: All JavaScript files appear to be minified. Minifying JavaScript files helps reduce their file size, improving page loading speed.
+
+HTML Document Size: The size of the HTML document is 4 KB, which is significantly smaller than the average HTML size of 33 KB. Having a smaller HTML size can contribute to faster page loading times.  ";Confirm;;
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Confirm;;
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";approximately half of the public sector data providers;The government institutions do not have a clear understanding of the term open data and they are unable to provide information on the opendata sets they might possess.To ensure the portal’s expansion meets the objectives of the commitment, a readiness assessment will be performed, and awareness will be designed together with the institutions providing open data during 2023 and implemented, so as to familiarize and educate institutions, citizens and other stakeholders on the full range of applications of open data and explain how the portal can be used by them for various applications.;Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;Periodic e-mails have been sent. Data is either needed manually, if an electronic system is not in place to ensure triggering of data via webservices, or via webservices. In the first case, the institution only needs to provide the data in the right format to NAIS via email, and it is NAIS which publishes this data later to the portal. In the second case, technical assistance is ensured at all times.;Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;"https://opendata.tirana.al/; 
+In addition to the national open data portal, there is a local portal known as the open data portal of Tirana municipality. This portal provides various types of data, including the general local plan, transparency program, business and economy-realted information, and more.";Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";no;;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";;;Change;Few datasets;7% of the datasets in our national open data portal are harvested automatically
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;"http://opendata.gov.al/thesari/veprimet-e-thesarit-sipas-ministrive/
+
+ The real-time/dynamic data come automatically to the portal from web services. The currently operational web services are as follows:                                                QKB_RegistrationsByLegalForm, QKB_RegistrationsByOwnershipNationality, QKB_RegistrationsByRegion,                                AKSHI_KonsultimetPublike                                                                                                      https://opendata.gov.al/?item=bizneset-e-regjistruara-sipas-formes-ligjore                                                                                                         https://opendata.gov.al/?item=bizneset-e-regjistruara-sipas-kombesise                                                                                                               https://opendata.gov.al/?item=bizneset-e-regjistruara-sipas-qyteteve                                                                                                                   https://opendata.gov.al/?item=regjistri-elektronik-per-njoftimet-dhe-konsultimet-publike   ";Confirm;;
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;No;
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";no;;Confirm;;
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;"The Open Data portal will increase interested parties' access to the ability to download data.
+The National Agency of Information Society, as the implementing authority of the opendata.gov.al portal, has appointed contact people who communicate regularly with other institutions' contact persons to ensure the increase of the datasets number. On the other hand, the agency is in close collaboration with the Prime Minister's Office, which leads the process in high level, concludes the annual reports and other documentation in OGP which are published to the opendata.gov.al. Improving Equitable Access To High Standard, Sustainable Public Services At Central And Sub-National Level Program PforR with the World Bank include the action plan and strategy to upgrade the Open Data portal and to ensure its sustainability. At this moment a link is impossible to be given since we are currently drafting the ToRs."
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;https://www.facebook.com/profile.php?id=100064604652851;Confirm;;
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";no;;Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";no;;Change;Yes;We monitor all the time static data and real time data.
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";no;;Change;Yes;Based on all the data and monitoring that will be gathered from the portal, improvements will be made during the new action plan

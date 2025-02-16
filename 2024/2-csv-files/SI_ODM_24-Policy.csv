@@ -1,0 +1,552 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"The Slovenian Open Data Policy consists of a framework of the following:
+
+-The provisions of the Access to Public Information Act that implements the EU Open Data Directive (last amended in Nov. 2022); http://pisrs.si/Pis.web/pregledPredpisa?id=ZAKO3336
+- the Integrity and Prevention of Corruption Act that establishes the publication of all financial transactions from public sector bodies and their publication as Open Data on the National Open Data Portal, Art. 75b, Para 13-The respective Decree – that explicitly defines the metadata for publishing the databases; http://www.pisrs.si/Pis.web/pregledPredpisa?id=URED6941#
+-The national Open Data Portal, established in 2016; https://podatki.gov.si/-The central roles of the Ministry of Public Administration – MPA (in charge of legislation) and the Ministry for Digital Transformation (MDT) that is running the national open data portal (main editors of the portal are from both ministries) and the network of editors at the other state bodies;
+- The Open Data of the Public Sector – the Strategic Working Plan for 2022-2023:
+https://podatki.gov.si/sites/default/files/reports/Odprti%20podatki%20JS%20-%20Strateški%20delovni%20načrt%202022%202023_0.pdf 
+-the Decree on the provision and re-use of public information (last amended in November 2022), including the Annexes:
+http://www.pisrs.si/Pis.web/pregledPredpisa?id=URED6941 
+-The educational activities of the Administrative academy of the MPA;
+-The Manual for opening of the PSI which promotes the use of the CC 4.0 licence; https://podatki.gov.si/posredovanje-podatkov
+-the Study on the state of digitalised databases in the field of Culture, 2017 (Analiza stanja) ; https://podatki.gov.si/knjiznica/dodatna-gradiva
+-all the various regular activities for the promotion of the Open Data and Portal OPSI
+
+
+
+-	In March 2023, the Government adopted the national strategy in the field of digital transfromation – entitled »Digitalna Slovenija 2030« -  hereinafter: Digital (Transformation) Strategy 2030 (March 2023)that contains a special section on Digital Data Economy, including Open Data (Chapter 4: POT V PAMETNO DRUŽBO 5.0; 4.1 Podatki v korist družbe): https://www.gov.si/assets/ministrstva/MDP/Dokumenti/DSI2030-potrjena-na-Vladi-RS_marec-2023.pdf (see below).
+-	
+-	In Dec. 2022, the Government adopted also the Strategy of digital Public Services  which includes chapter IV. on »trusted Data Management« and refers to the Open Data regulation:
+-	»We will establish a common framework of processes, rules, relations and standards for responsible data management, based on the European Data Strategy, to ensure data quality, transparency, availability, connectivity, security and legality. In cooperation with stakeholders, we will establish interoperable public administration data spaces (including in compliance with the General Data Protection Regulation (GDPR), the Data Governance Act and the Open Data and Re-use of Public Sector Information Directive, following the INSPIRE Directive and other EU and international guidelines.«
+-	https://nio.gov.si/nio/asset/strategija+digitalnih+javnih+storitev
+-	 (available in English, see page 26) 
+-	
+-	Also, in 2021, the Government adopted the National Programme for the promotion of development and use of Artificial Intelligence (2025), which recognizes Open Data and National Open Data Portal as important elements/infrastructure in the process.
+
+According to the Access to Public Information Act, which transposes the EU Open Data Directive, (Article 10.b) – the open Data policy – obligations of the public sector bodies are as follows:
+Article 10.b – Slovenian Access to Public Information Act
+(1) The public sector bodies should allow re-use of public sector information by publication on the World Wide Web by publishing in open formats and in machine-readable form, together with metadata, except where this would involve disproportionate effort, going beyond a simple operation.
+(2) The authorities should publish at the national open data portal a list of all databases within its competence with the relevant metadata and databases as such in the form of open data or links to websites where these are published as open data.
+(3) Anyone may re-use the data published on the national open data portal, free of charge, under the conditions that:
+-         Re-use of data is carried out in accordance with the law governing the protection of personal data and
+-         At each re-use the user provides the source of data.
+
+2022 amendments to the Access to Public Information Act implemented the part of the Open Data Directive on High Value Datasets.
+
+Regarding the field of Open Science - st the end of March 2022, the National Assembly of the Republic of Slovenia adopted the Resolution on the Slovenian Scientific Research and Innovation Strategy 2030 which was published in the Official Gazette of the Republic of Slovenia in April 2022. This is a key Slovenian strategic document for research and innovation until 2030 and is based on the Article 10 of the new Scientific Research and Innovation Activities Act, which introduces Open Science as an important integral part of the scientific research. In the context of the horizontal objectives under Item 6.2., the Strategy defines six key measures in the field of Open Science, as follows:
+1. Effective management and financing of the development of the national Open Science ecosystem and related national structures and infrastructures, ensuring their international alignment as well as integration into international associations and infrastructures.
+2. Introduction of modern approaches to the evaluation of scientific research activity in accordance with Open Science principles to increase the quality and impact of research (e.g., DORA - San Francisco Declaration on Research Assessment, Leiden Manifesto for Research Metrics, ERAC - European Research Area and Innovation Committee Guidelines).
+3. Ensuring that the results of scientific research comply with the FAIR principles (Findable, Accessible, Interoperable, and Reusable), and that full and immediate open access is provided (subject to legitimate exceptions).
+4. Establishment of a National Open Science Community for the introduction and monitoring of Open Science in Slovenia, as well as its integration into ERA and beyond.
+5. Promoting the development of citizen science and public involvement in scientific research.
+6. Promoting the development of a national scientific publishing system to operate according to the principles of Open Science.
+These measures, which are recognised as essential for the development of Open Science in Slovenia, will be the  basis for the Action Plan on Open Science, which is in the process of preparation. 
+-	
+Slovenian Government adopted (April 2015) a Strategy on development of public administration 2015-2020. The strategy had a special section devoted to transparency, re-use and open data (Chapter 6.4.1). On the basis of this Strategy, the Action plan of the Slovenian Government 2018-2019 provided for the following fundamental commitments  in this field, which continue to be followed by the public sector bodies - open data publishers:
+oGreat emphasis has been put on the online publication of public sector open data, i.e. data in open, machine-readable formats, which enables anyone: citizens, non-governmental organisations, media, etc to further reuse them.
+oGood practice in the reuse of public sector data shows that applications with significant added value may be created on the basis of raw public data.
+•Therefore, it must be ensured that bodies will open their data for re-use, especially through the Slovenian open data portal – Portal OPSI 
+•In accordance with the transposition of the Open Data Directive, additional activities have been anticipated in this field (legal framework, hackathons, data challenges, consultations, guidelines, up-date of the open data portal etc).
+•Regarding databases of the public sector, special attention has been paid to the provision of transparency in terms of what sort of databases have been managed by public administration bodies (clear metadata), and of better connectivity between those databases, in order to provide simple access of citizens and other public administration bodies to data.
+
+Strategic Working Plan for Open Data 2022-2023 includes the following measures (some of which have already been concluded), inter alia:
+• preparing a list of high value data sets - HVDs
+• amendments to the Act on Access to Public Information
+• Preparation of the first amendments to the Decreeon transmission and reuse of public information
+• Preparation of a list of high-value databases (based on the implementing Act of the European Commission of Dec. 2022) and preparation of the second amendment to the Decreeon transmission and reuse of public information
+• International cooperation in the field of open data
+• Establishment of a single information point in accordance with Article 8 of the EU Data Governance Act (DGA)
+• Participation in the preparation of the new Strategy for the Development of Digital Services in Public Administration and the Development Strategy of Slovenia 2030
+• Adding more datasets from the museums, public undertaking, municipalities and local governments to the national portal
+• Implementation of open data training for civil servants at the Administrative Academy of the Ministry of Public Administration
+• Improve the quality, quantity and scope of open data and associated metadata (applies to data providers (editors at authorities)).
+• Improve the quality and range of services provided through the OPSI portal
+o Stylistic redesign of the portal (renewal of menus and front page)
+o Additional functionalities to help the work of content and chief editors (suggest a correction, a new collection - addition of functionality, notifications to users, etc.)
+• Establishment of the OPSI API module
+• Establishment of the OPSI LAB module
+• Revision of the Manual for opening of public sector data (December 2023)
+• Establishment of a fund to promote the reuse of open data, which will be a tool for improving the accessibility and use of data on the national open data portal. Financial support will be intended for the following contents:
+o Open data awareness
+o Reuse of government open data from various fields(environment, society, ...)
+o Increasing the efficiency of public services
+o Projects, studies on the benefits of open data
+o Projects, studies on the effects of open data from an environmental, social, political or economic impact
+
+• Cooperation with all interested stakeholders - promotion and encouragement of re-use of open data within the EZOP and OPSI HUB (see EZOP and OPSI HUB chapters):
+o Organization of various events (conferences, workshops, hackathons, trainings and other activities) in which all stakeholders will participate;
+o Other activities related to the opening, reuse and promotion of open data.
+
+Link to the 2022-2023 working plan: https://podatki.gov.si/sites/default/files/reports/Odprti%20podatki%20JS%20-%20Strate%C5%A1ki%20delovni%20na%C4%8Drt%202022%202023_0.pdf";Confirm;;;;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"It is included in the 
+
+Digital (Transformation) Strategy 2030 adopted by the Government of Slovenia in March 2023; the Strategy includes a special section on Digital Data Economy including Open Data (Chapter 4: POT V PAMETNO DRUŽBO 5.0; 4.1 Podatki v korist družbe 
+: https://www.gov.si/assets/ministrstva/MDP/Dokumenti/DSI2030-potrjena-na-Vladi-RS_marec-2023.pdf and Strategic Working Plan for Open Data 2022-2023
+
+- The Digital (TRansformation) Strategy 2030 (March 2023) defines data as a strategic raw material and driver of a smart society 5.0 and emphasizes that it is extremely important to provide up-to-date, timely and comprehensive data. It emphasizes the importance of high-value data from six thematic areas: geospatial data; observing the Earth and the environment; meteorological data; statistics; businesses and business ownership; mobility. The aim of the data strategy is to facilitate the sharing of data and thereby accelerate the use of data, including open data.
+-The aim is to establish a dynamic data ecosystem, with data standards and tools, in which data providers, data analysts and application developers who, in cooperation and partnership, will be able to develop data applications that will offer smart digital services as responses to social challenges. 
+-The data ecosystem which will be founded upon the national open data portal will thus represent the basis of innovation and entrepreneurship.
+-In this way, the 2030 Strategy follows one of the goals of the European Data Strategy, which aims to establish a single data space in the European Union, which will consist of different substantive data spaces.
+
+-	In Dec. 2022, the Government adopted also the Strategy of digital Public Services  which includes chapter IV. on »trusted Data Management« and refers to the Open Data regulation:
+-	»We will establish a common framework of processes, rules, relations and standards for responsible data management, based on the European Data Strategy, to ensure data quality, transparency, availability, connectivity, security and legality. In cooperation with stakeholders, we will establish interoperable public administration data spaces (including in compliance with the General Data Protection Regulation (GDPR), the Data Governance Act (DGA) and the Open Data and Re-use of Public Sector Information Directive (ODD), following the INSPIRE Directive and other EU and international guidelines.«
+-	https://nio.gov.si/nio/asset/strategija+digitalnih+javnih+storitev
+ (available in English)
+
+Strategic Working Plan for Open Data 2022-2023 includes the following measures (some of which have already been concluded), inter alia:
+• preparing a list of high value data sets - HVDs
+• amendments to the Act on Access to Public Information
+• Preparation of the first amendments to the Decreeon transmission and reuse of public information
+• Preparation of a list of high-value databases (based on the implementing Act of the European Commission of Dec. 2022) and preparation of the second amendment to the Decreeon transmission and reuse of public information
+• International cooperation in the field of open data
+• Establishment of a single information point in accordance with Article 8 of the EU Data Governance Act (DGA)
+• Participation in the preparation of the new Strategy for the Development of Digital Services in Public Administration and the Development Strategy of Slovenia 2030
+• Adding more datasets from the museums, public undertaking, municipalities and local governments to the national portal
+• Implementation of open data training for civil servants at the Administrative Academy of the Ministry of Public Administration
+• Improve the quality, quantity and scope of open data and associated metadata (applies to data providers (editors at authorities)).
+• Improve the quality and range of services provided through the OPSI portal
+o Stylistic redesign of the portal (renewal of menus and front page)
+o Additional functionalities to help the work of content and chief editors (suggest a correction, a new collection - addition of functionality, notifications to users, etc.)
+• Establishment of the OPSI API module
+• Establishment of the OPSI LAB module
+• Revision of the Manual for opening of public sector data (December 2023)
+• Establishment of a fund to promote the reuse of open data, which will be a tool for improving the accessibility and use of data on the national open data portal. Financial support will be intended for the following contents:
+o Open data awareness
+o Reuse of government open data from various fields(environment, society, ...)
+o Increasing the efficiency of public services
+o Projects, studies on the benefits of open data
+o Projects, studies on the effects of open data from an environmental, social, political or economic impact
+
+• Cooperation with all interested stakeholders - promotion and encouragement of re-use of open data within the EZOP and OPSI HUB (see EZOP and OPSI HUB chapters):
+o Organization of various events (conferences, workshops, hackathons, trainings and other activities) in which all stakeholders will participate;
+o Other activities related to the opening, reuse and promotion of open data.
+
+Link to the 2022-2023 working plan: https://podatki.gov.si/sites/default/files/reports/Odprti%20podatki%20JS%20-%20Strate%C5%A1ki%20delovni%20na%C4%8Drt%202022%202023_0.pdf
+
+In February 2023, a 4- year Programme of Government of Republic of Slovenia to strengthen integrity and transparency in Public Sector 2023-2026 was adopted. The Programme focuses on measures to strengthen the integrity of institutions, public employees, high officials, and other employees in the public sector, as well as measures to increase the transparency of operations in the public sector. 
+The Programme includes the measure 3A.1c »TRANSPARENCY – PROMOTE PUBLIC DATA PUBLICATION IN OPEN FORMATS«. The purpose of the measures is to train civil servants and officials in government and ministries on the importance of data, its management and the value of opening up data in terms of transparency and its impact on the functioning of society. The final aim is to empower public officials and public servants to take into account the relevance of data for the wider benefit of society in the performance of their duties; 
+Method of implementation: training in the framework of a specific training course at the Administrative Academy (ministry responsible for public administration);
+Published at: https://www.gov.si/teme/integriteta/ (see below in English)";Confirm;;;;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";not applicable;In Slovenia, we do not have regions, but due to the large number of municipalities (212) and small population in municipalities (https://sl.wikipedia.org/wiki/Seznam_ob%C4%8Din_v_Sloveniji ), this type of policy is prepared at the national level and coordinated with the local level. All state policies are coordinated with all stakeholders, including the local communities, during the process. Due to the specificity of the organization of local self-government and the lack of an intermediate management level in the form of regions (no regions), all policies for the area of open data are prepared at the national level. Legal obligations under the law in relation to Open Data (including the publication of open data at the national open data portal) as well as the commitment to implement the open data policy are equal for institutions at the national level as well as for municipalities. Thus, municipalities are equally bound as other public institutions.;Confirm;;;;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;"The Strategic Working Plan for Open Data 2022-2023 is an action plan and includes the following measures (some of which have already been concluded) in line with the 2030 Digital (Transformation) Strategy and other relevant programmes and strategies, inter alia:
+• List of high value data set - HVD
+• Preparation and adoption of the amendments to the Access to Public Information Act
+• Preparation of the first amendment to the Decreeon the transmission and reuse of public information
+• Preparation of a list of high-value databases (based on the implementing act of the European Commission) and preparation of the second amendment to the Decree on transmission and reuse of public information
+• International cooperation in the field of open data
+• Establishment of a single information point in accordance with Article 8 of the EU Data Governance Act (DGA)
+• Participation in the preparation of the new Strategy for the Development of Digital Services in Public Administration and the Development Strategy of Slovenia 2030
+• Adding more datasets from the museums, public undertaking, municipalities and local governments to the national portal
+• Implementation of open data training for civil servants at the Administrative Academy of the Ministry of Public Administration
+• Improve the quality, quantity and scope of open data and associated metadata (applies to data providers (editors at authorities)).
+• Improve the quality and range of services provided through the OPSI portal
+o Stylistic redesign of the portal (renewal of menus and front page)
+o Additional functionalities to help the work of content and chief editors (suggest a correction, a new collection - addition of functionality, notifications to users, etc.)
+• Establishment of the OPSI API module
+• Revision of the Manual for opening public sector data (December 2023)
+• Establishment of a fund to promote the reuse of open data, which will be a tool for improving the accessibility and use of data on the national open data portal. Financial support will be intended for the following contents:
+o Open data awareness
+o Reuse of government open data from various contents (environment, society, ...)
+o Increasing the efficiency of public services
+o Projects, studies on the benefits of open data
+o Projects, studies on the effects of open data from an environmental, social, political or economic impact
+
+• Cooperation with all interested stakeholders - promotion and encouragement of re-use of open data within the EZOP and OPSI HUB (see EZOP and OPSI HUB chapters):
+o Organization of various events (conferences, workshops, hackathons, trainings and other activities) in which all stakeholders will participate;
+o Other activities related to the opening, reuse and promotion of open data.
+
+Link to the working plan:  https://podatki.gov.si/sites/default/files/reports/Odprti%20podatki%20JS%20-%20Strate%C5%A1ki%20delovni%20na%C4%8Drt%202022%202023_0.pdf
+
+In February 2023, a Programme of Government of Republic of Slovenia to strengthen integrity and transparency in Public Sector 2023-2026 was adopted. The Programme focuses on measures to strengthen the integrity of institutions, public employees, high officials, and other employees in the public sector, as well as measures to increase the transparency of operations in the public sector. 
+The Programme includes the measure 3A.1c »TRANSPARENCY – PROMOTE PUBLIC DATA PUBLICATION IN OPEN FORMATS«. The purpose of the measures is to train civil servants and officials in government and ministries on the importance of data, its management and the value of opening up data in terms of transparency and its impact on the functioning of society. The final aim is to empower public officials and public servants to take into account the relevance of data for the wider benefit of society in the performance of their duties; 
+Method of implementation: training in the framework of a specific training course at the Administrative Academy (ministry responsible for public administration);
+Published at: https://www.gov.si/teme/integriteta/ (see below in English)";Confirm;;;;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"The Strategic Working Plan for Open Data 2022-2023 includes a measure - an IoT call for smart cities that will encourage local communities to establish a real-time data flow through IoT sensors. 
+Also in line with the EU Directive, the national Law will be amended with an explicit obligations on providing real time data.
+-  A proposal for further amendments to the Access to Public Information Act to implement the part of the Open Data Directive on High Value Datasets has been prepared and will be sent to the National Assembly in July. The draft law contains new Article 10.č which states that bodies that create or obtain dynamic data in the performance of public tasks shall enable their re-use immediately after they are collected and enable their mass transfer or transfer via application programming interfaces.                                                                                                                                                                             In addition, Strategic Working Plan for Open Data 2022-2023 includes the following measures inter alia:
+• Establishment of the OPSI API module (access to the data via API)
+• Improve the quality, quantity and scope of open data and associated metadata (applies to data providers (editors at authorities)).
+• Improve the quality and range of services provided through the OPSI portal
+• Establishment of a fund to promote the reuse of open data, which will be a tool for improving the accessibility and use of data on the national open data portal. Financial support will be intended for the following contents:
+o Reuse of government open data from various contents (environment, society, ...)
+o Increasing the efficiency of public services
+
+Link to Strategic Working Plan for Open Data 2022-2023: https://podatki.gov.si/sites/default/files/reports/Odprti%20podatki%20JS%20-%20Strate%C5%A1ki%20delovni%20na%C4%8Drt%202022%202023_0.pdf";Confirm;;;;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;;;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";yes;"The Strategic Working Plan for Open Data 2022-2023 includes harvesting from national open data portal to EU data portal.                                                                                                                                                                                                         ""The Strategic Working Plan for Open Data 2022-2023 includes harvesting from national open data portal to EU data portal.
+
+Link to Strategic Working Plan for Open Data 2022-2023: https://podatki.gov.si/sites/default/files/reports/Odprti%20podatki%20JS%20-%20Strate%C5%A1ki%20delovni%20na%C4%8Drt%202022%202023_0.pdf""";Confirm;;;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"Strategic Working Plan for Open Data 2022-2023 includes:
+ 
+• Training on Open Data (for open data editors at the ministries) at the Administrative Academy of the MPA
+
+According to the Slovenian Open Data policy the central role has been performed by the Ministry of Public Administration- MPA that runs the national Open Data portal, and at the same time has the central editorial role, meaning that it is the central point to keep the network of editors at various ministries and state bodies active. 
+This has been done by regular e-mails on the novelties regarding the portal, by the educational activities regarding Open Data at the Administrative Academy of the MPA, bi-lateral meetings and annual meetings for all the editors (e.g. https://podatki.gov.si/content/delovno-sre%C4%8Danje-urednikov-portala-opsi )
+The opening of PSI is promoted also on the basis of the Manual of Open Data (2016): https://podatki.gov.si/posredovanje-podatkov. 
+The re-use of data within the public sector has been encouraged also by the Guidelines for Development of Applications (2020): https://nio.gov.si/nio/asset/smernice+mju+za+razvoj+informacijskih+resitev-768 ; these Guidelines contain a special section on Open Data (section 6.2) which emphasizes the importance of using Open Data when developing new applications in the public sector.
+Support has been given also by the national open data portal editors to the local authorities who also publish data at the national open data portal in the form of workshops (e.g. a workshop on 8. March 2021, in relation to an IoT call for smart cities that will encourage local communities to establish a real-time data flow through IoT sensors):
+https://skupnostobcin.si/tedenske-novice/tedenske-novice-sos-st-9-26-2-2021-5-3-2021/#post-38852
+Upgrade of the national portal with the APIs will also support greater publication of open data by the public sector bodies for re-use. 
+Support will in addition be provided also by the upgrades of the portal and preparation of IT Technical standards for open data for the wider public sector.                                                                                                                                                    In addition, Strategic Working Plan for Open Data 2022-2023 includes the following measures inter alia:
+• Establishment of a fund to promote the reuse of open data, which will be a tool for improving the accessibility and use of data on the national open data portal. Financial support will be intended for the following contents:
+o Open data awareness
+o Reuse of government open data from various contents (environment, society, ...)
+o Increasing the efficiency of public services
+o Projects, studies on the benefits of open data
+o Projects, studies on the effects of open data from an environmental, social, political or economic impact
+
+• Cooperation with all interested stakeholders - promotion and encouragement of re-use of open data within the EZOP and OPSI HUB (see EZOP and OPSI HUB chapters):
+o Organization of various events (conferences, workshops, hackathons, trainings and other activities) in which all stakeholders will participate;
+o Other activities related to the opening, reuse and promotion of open data.
+
+Link to Strategic Working Plan for Open Data 2022-2023: https://podatki.gov.si/sites/default/files/reports/Odprti%20podatki%20JS%20-%20Strate%C5%A1ki%20delovni%20na%C4%8Drt%202022%202023_0.pdf";Confirm;;;;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"The measures include actions supporting the reuse of open data by the public sector:
+- Collaboration with the Chamber of Commerce of Slovenia in the form of the »Open Data Hub« (regular events, consultations with the actors from the private sector)
+- Collaboration with the academia, Universities and students (Hackathons, presentations on Open Data to the students, preparation of the open data projects by the students)
+- Collaboration with the civil society (NGOs etc)
+
+The national Digital (TRansformation) Strategy 2030 (adopted by the Government in March 2023) specifically emphasises the importance of supporting re-use of open data by the private sector (page 29-last paragraph and 30-first paragraph):
+»Based on the example of the public sector, the private sector should also be encouraged to open up and exchange data, where appropriate. In Slovenia, the first step in this direction was the establishment of the Open Data Hub of Slovenia (OPSI Hub), whose founders were Tehnološki Park Ljubljana d.o.o. and the Chamber of Commerce of Slovenia (ZIT), with the support of the Ministry of Public Administration. The OPSI portal represents a good basis on which private sector databases (the so-called data market, etc.) will be transparently presented and made available under different conditions (e.g. different licenses, SLAs). The goal is to facilitate the voluntary publication of data by companies and in this way accelerate the use of data as a raw material of the digital society«.
+
+In 2019 the MPA started to work with the Chamber of Commerce of Slovenia and organised a first meeting on Open Data and Digital Economy: https://ikthm.gzs.si/Novice/ArticleId/70728/odprti-podatki-javnega-sektorja-in-digitalno-gospodarstvo. In March 2020 the MPA started a long-term collaboration with the Chamber of Commerce and founded together ""the Open Data Hub"", the goal of which is to promote use of open data by the companies: https://podatki.gov.si/content/ustanovitev-sti%C4%8Di%C5%A1%C4%8Da-za-odprte-podatke-slovenije. 
+Also in May 2020, the MPA and the Open Data Hub organised an on-line conference: Open Data - accelerators of the economy: https://www.gov.si/novice/2020-05-07-konferenca-odprti-podatki-pospesevalci-digitalne-ekonomije/. The minister of public administration, Mr. Bostjan Koritnik opened the conference: https://www.gov.si/assets/ministrstva/MJU/Open-Data-nagovor-ministra-07052020.docx We intend to continue this collaboration. 
+
+Hackathon on dementia with stakeholders from the private sector (22nd, 23rd Oct 2022)
+https://transformation-lighthouse.com/hackathon-roche/en/main-page/
+
+Also the following general activities are supporting the re-use by the private sector: 
+• Promotion in media (press releases); 
+• promotional videos: https://www.youtube.com/watch?v=WKfLZ7kk_t0&feature=youtu.be ;
+• Promotion at the fairs (for various stakeholders, eg. Students, business etc)
+• Common activities with the academia intended for students, start-ups (hackathons, data challenges etc)
+• Consultations and promotion with businesses and the Chamber of Commerce;
+• Consultations and promotion with the NGO’s
+• Preparation and publication of videos promoting the Open data and the use of Open Data
+ In addition, Strategic Working Plan for Open Data 2022-2023 includes the following measures inter alia:
+• Establishment of a fund to promote the reuse of open data, which will be a tool for improving the accessibility and use of data on the national open data portal. Financial support will be intended for the following contents:
+o Open data awareness
+o Reuse of government open data from various contents (environment, society, ...)
+o Increasing the efficiency of public services
+o Projects, studies on the benefits of open data
+o Projects, studies on the effects of open data from an environmental, social, political or economic impact
+
+• Cooperation with all interested stakeholders - promotion and encouragement of re-use of open data within the EZOP and OPSI HUB (see EZOP and OPSI HUB chapters):
+o Organization of various events (conferences, workshops, hackathons, trainings and other activities) in which all stakeholders will participate;
+o Other activities related to the opening, reuse and promotion of open data.
+• Prepare a tender for smart cities.
+
+Link to Strategic Working Plan for Open Data 2022-2023: https://podatki.gov.si/sites/default/files/reports/Odprti%20podatki%20JS%20-%20Strate%C5%A1ki%20delovni%20na%C4%8Drt%202022%202023_0.pdf
+";Confirm;;;;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;"According to the Access to Public Information Act (Article 8), the public bodies must publish a so called Catalogue of Public Information (data inventory). The content of the Catalogue is determined by the respective by-law, the Decree on communication and re-use of public sector information (Article 2 of the Decree). In practice this information has been published at the OPSI portal; for example metadata on 47 datasets of the MPA are available here: https://podatki.gov.si/data/search?publisher=ministrstvo_za_javno_upravo&q=Ministrstvo+za+javno+upravo  The list of metadata has been prescribed in the Annex 1 of the Decree: http://www.pisrs.si/Pis.web/npb/2016-01-0994-p1.pdf";Confirm;;;;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;Every public body needs to publish a list of metadata on all the datasets they produce or run, even if the data in a certain dataset is not open or is not published as open data. This list is published on the national OPSI portal under Katalog IJZ. The list of metadata is prescribed by the Government in the Annex 1 to the Decree: http://www.pisrs.si/Pis.web/npb/2016-01-0994-p1.pdf  ;Confirm;;;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;"In line with the Access to Public Information Act (Article 10c and 10č), the  regulation (EU) 2023/138 on high-value datasets has been implemented in Slovenia. In this two Articles we defined obligations in relation to HVDs and also for dynamic data.
+In the Decree on communication and re-use of public sector information we determined a  list of national databases that fall under the definition of HVDs and we also added additional atribute in metadata schema where each database that is HVDs is defined. SO, user can filter easily such databases on the National open data portal - OPSI and see all the HVDs.
+
+Link to Decree on communication and re-use of public sector information: https://pisrs.si/pregledPredpisa?id=URED6941
+The list of metadata has been prescribed in the Annex 1 of the Decree: https://pisrs.si/api/datoteke/integracije/35924300
+The list of HVDs has been prescribed in the Annex2 of the Decree: https://pisrs.si/api/datoteke/integracije/35924303";;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;5;5;5;5;5;5;5;;;;
+P11-b;Earth observation and environment;5;5;5;3;4;5;5;;;;
+P11-c;Meteorological;5;5;5;3;3;3;5;;;;
+P11-d;Statistics;5;5;5;5;5;5;5;;;;
+P11-e;Companies and company ownership;5;5;5;5;5;5;5;;;;
+P11-f;Mobility;2;5;2;4;4;4;5;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"In line with the Access to Public Information Act (Article 10c and 10č), the  regulation (EU) 2023/138 on high-value datasets has been implemented in Slovenia. In this two Articles we defined obligations in relation to HVDs and also for dynamic data.
+In the Decree on communication and re-use of public sector information we determined a  list of national databases that fall under the definition of HVDs and we also added additional atribute in metadata schema where each database that is HVDs is defined. SO, user can filter easily such databases on the National open data portal - OPSI and see all the HVDs.
+
+Link to Decree on communication and re-use of public sector information: https://pisrs.si/pregledPredpisa?id=URED6941
+The list of metadata has been prescribed in the Annex 1 of the Decree: https://pisrs.si/api/datoteke/integracije/35924300
+The list of HVDs has been prescribed in the Annex2 of the Decree: https://pisrs.si/api/datoteke/integracije/35924303,";;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"The OPSI portal has a well-developed editorial policy. The portal's administrators and editors-in-chief are employees of the Ministry of Digital Transformation and the Ministry of Public Administration.
+Other civil servants from ministries, other government bodies, municipalities and others who regularly publish information on the portal act as content editors. They publish, amend and update records and collections on the portal. Their role is to publish, modify and update their collections and some other activities on the portal.
+Before a collection is published on the portal, it is reviewed by the editors-in-chief and, if the metadata is entered correctly, they approve the publication of the collection. If they consider that there are errors, they contact the authorities (refuse publication on the portal) to update the data accordingly. Once this has been done, the Chief Content Editor will publish the collection on the portal. The only exception is when the authorities only publish a new file with up-to-date data. In this case, the file is automatically published on the portal. No review and approval by the Editor-in-Chief is required. 
+All portal managers, editors-in-chief and content editors cooperate with each other. They meet in meetings, training sessions (content and technical) and other events (conferences, web presentations, training sessions) organised by the Ministry of Public Administration and the Ministry of Digital Transformation. ";;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";top-down;In the Public Information Access Act the same obligations and procedure regarding access to and re-use of the PSI  as well as the publication of the PSI as open data has been prescribed for the state bodies and local self-government bodies. We have one common (national) open data portal. Regarding population Slovenia has been a small country and there are actually no regions (only municipalities and smaller local communities). They work hand in hand with the MPA (which is as a horizontal ministry also in charge of the system of local government in Slovenia).;Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;"In the Public Information Access Act the same obligations and procedure regarding access to and re-use of the PSI  as well as the publication of the PSI as open data has been prescribed for the state bodies and local self-government bodies. We have one common (national) open data portal. Regarding population Slovenia has been a small country and there are actually no regions (only municipalities and smaller local communities). They work hand in hand with the MPA (which is as a horizontal ministry also in charge of the system of local government in Slovenia). Local authorities (their Open Data editors) regularly contact the main editors at the Ministry of Digital Transformation and the Ministry of Public Administration; they are also invited to the meetings of editors, same as editors from the ministries.";;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";all public bodies;There are no regional bodies as there are no regions. But open data obligations under the law apply eqally to the state bodies, local administrations and other public bodies. ;Confirm;;;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";yes;"Yes, the law - Act on Access to Public Information states that the national Open Data portal is run by the MPA. The open Data team at the MPA acts as main editors of the OPSI portal and connects the editors at other ministries, state institutions, llocal authorities and public sector bodies. The structure has been explalined also in the Strategic Work Plan for Open Data 2022-2023 (title: Upravljavska struktura portala OPSI):
+
+Link to Strategic Working Plan for Open Data 2022-2023: https://podatki.gov.si/sites/default/files/reports/Odprti%20podatki%20JS%20-%20Strate%C5%A1ki%20delovni%20na%C4%8Drt%202022%202023_0.pdf    ";Confirm;;;;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"On technical level, we have regular meeting with the developer team. 
+e.g. in case of preparing APIs we had meetings with the developers and not only main editors but also editors and technical staff at other public sector bodies.
+For the content of the portal, we regularly communicate with the editors from other public bodies and have annual meetings with editors of the OPSI portal. Apart form the Manual on Open Data, in 2020 the MPA prepared the Guidelines for developing the applications (within the public sector), which include a chapter on Open Data: https://nio.gov.si/nio/asset/smernice+mju+za+razvoj+informacijskih+resitev-768";Confirm;;;;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;"The article 9 of Public Information Access Act says:  Each body shall appoint one or more officials responsible for the transmission of public information.
+Directly for the purposes of publishing the information on databases at the national Open data portal, the network of editors has been established with the central role of the main editorial team at the MPA. The communication with the editors is regular.
+The Governance model therefore includes a person at a specific public sector body that is a direct contact with the main editors of the OPSI portal at the MPA. These editors are invited to regular events for editors.
+In the process is also the intention to appoint open data stewards.";Confirm;;;;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Please change the answer to:
+There are annual meetings with people responsible for open data;  
+- Annual meetings with open data officers 
+- Also sharing knowledge via OPSIHub 
+
+The role of a data custodian for the slovenian public sector - workshop 5 june 2023 
+Razvoj omrežja skrbnikov podatkov in opredelitev vloge za javni sektor | GOV.SI (https://www.gov.si/novice/2023-06-05-razvoj-omrezja-skrbnikov-podatkov-in-opredelitev-vloge-za-javni-sektor/)
+
+Slovenia hosts international workshop for data providers - 22-23 May 2023 
+Slovenija gostila mednarodno delavnico za ponudnike podatkov - 22. in 23. 5. 2023 | OPSI - Odprti podatki Slovenije (gov.si) (https://podatki.gov.si/content/slovenija-gostila-mednarodno-delavnico-za-ponudnike-podatkov-22-23-5-2023)
+
+Open Data Day: Using open data effectively to boost innovation 
+Dan odprtih podatkov: Z učinkovito rabo odprtih podatkov do večje inovativnosti | GOV.SI (https://www.gov.si/dogodki/2022-03-04-dan-odprtih-podatkov-z-ucinkovito-rabo-odprtih-podatkov-do-vecje-inovativnosti/)
+Dan odprtih podatkov 2022: Z učinkovito rabo odprtih podatkov do večje inovativnosti | Tehnološki park Ljubljana (tp-lj.si) (https://www.tp-lj.si/sl/novice/dan-odprtih-podatkov-2022-z-ucinkovito-rabo-odprtih-podatkov-do-vecje-inovativnosti-2022-03-07)
+
+10 february 2022 - opsi 2021 annual meeting of editors10. februar 2022 - Letno srečanje urednikov portala OPSI 2021 | OPSI - Odprti podatki Slovenije (gov.si) (https://podatki.gov.si/content/10-februar-2022-letno-sre%C4%8Danje-urednikov-portala-opsi-2021)
+
+Slovenia is among the first to set up a network of data stewards
+Slovenija med prvimi vzpostavlja omrežje skrbnikov | GOV.SI (https://www.gov.si/novice/2022-12-08-slovenija-med-prvimi-vzpostavlja-omrezje-skrbnikov/)";Change;Yes;"""There are annual meetings with people responsible for open data;  
+- Annual meetings with open data officers 
+- Also sharing knowledge via OPSIHub 
+
+The role of a data stewards for the slovenian public sector - workshop 5 june 2023 
+Razvoj omrežja skrbnikov podatkov in opredelitev vloge za javni sektor | GOV.SI (https://www.gov.si/novice/2023-06-05-razvoj-omrezja-skrbnikov-podatkov-in-opredelitev-vloge-za-javni-sektor/)
+
+Slovenia hosts international workshop for data providers - 22-23 May 2023 
+Slovenija gostila mednarodno delavnico za ponudnike podatkov - 22. in 23. 5. 2023 | OPSI - Odprti podatki Slovenije (gov.si) (https://podatki.gov.si/content/slovenija-gostila-mednarodno-delavnico-za-ponudnike-podatkov-22-23-5-2023)
+
+ANNUAL MEETING OF EDITORS OF THE OPSI PORTAL 
+8.3.2024
+https://podatki.gov.si/content/letno-srečanje-vsebinskih-urednikov-portala-opsi-832024
+
+MEETING ON THE INTERNATIONAL OPEN DATA DAY 
+8.3.2024
+https://podatki.gov.si/content/srečanje-ob-mednarodnem-dnevu-odprtih-podatkov-832024
+
+ALL-SLOVENIAN HACKATHON - CO-SHAPE THE FUTURE WITH OPEN SCIENCE
+April and May 2024
+https://podatki.gov.si/content/vseslovenski-hackathon-z-odprto-znanostjo-sooblikuj-prihodnost
+
+Openness and trusted artificial intelligence in practice
+23. 5. 2024
+https://www.gov.si/dogodki/2024-05-23-odprtost-in-zaupanja-vredna-umetna-inteligenca-v-praksi/
+
+
+Round table Privacy in open data
+23. 5. 2024
+https://www.gov.si/dogodki/2024-05-23-okrogla-miza-zasebnost-pri-odprtih-podatkih/""";;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Links:
+1.	Seminar papers with students of Faculty of Computer and Information Science – October 2022 and January 2023
+2.	Presentation of good practices - an event organized by the EC  Dan odprtih podatkov Slovenije - 2022 Tickets, Fri, Mar 4, 2022 at 10:00 AM | Eventbrite: https://www.eventbrite.com/e/dan-odprtih-podatkov-slovenije-2022-tickets-273719601697?keep_tld=1
+3.	Quality Conference 2022 Jubilejna letna konferenca kakovosti 2022 | GOV.SI: https://www.gov.si/novice/2022-05-06-jubilejna-letna-konferenca-kakovosti-2022/
+4.	Data Analytics Forum Program - Forum podatkovne analitike (planetgv.si): https://www.planetgv.si/forum-podatkovne-analitike/program/
+5.	Legal Clinic - transparentnost.in.integriteta_.razpored.predavanj_za.objavo_.pdf (uni-lj.si): https://www.pf.uni-lj.si/media/transparentnost.in.integriteta_.razpored.predavanj_za.objavo_.pdf
+6.	Environmental data and public services Podatki o okolju in javne storitve – 4PDIH: https://4pdih.com/2022/06/01/podatki-o-okolju-in-javne-storitve/";Change;Yes;"""Links:
+1.	Seminar papers with students of Faculty of Computer and Information Science – October 2023 and January 2024
+2.	15th International Conference """"Corporate Security Days""""
+13. 05. — 14. 05. 2024
+https://www.ics-institut.si/assets/uploads/images/15-med-2/Program-Dnevi-korporativne-varnosti-2024.pdf
+
+3. Openness and trusted artificial intelligence in practice
+23. 5. 2024
+https://www.gov.si/dogodki/2024-05-23-odprtost-in-zaupanja-vredna-umetna-inteligenca-v-praksi/
+
+4. Round table Privacy in open data
+23. 5. 2024
+https://www.gov.si/dogodki/2024-05-23-okrogla-miza-zasebnost-pri-odprtih-podatkih/""";;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"The publication plans are included in the Strategic Work Plan for Open Data 2022-2023 with the main focus on municipalities data and datasets of companies providing public services in 2021 – public undertakings (in line with the EU Open Data Directive).
+Also, based on the amendments to the Access to Public Information Act as well as the implementaion of the EU regulation- implementating act on HVDs – the current publications plans include the prioritisation of publication of HVDS as Open Data.
+
+At public body level, specific plans to open HVDs and offer them via API is included in the Government Decree that was adopted immediately after the amendments of teh Access to Public Information Act, fully implementing the provisons of the EU Directive on HVDs,in November 2022. The Decree explixitly mentiones the datasets of the Statistical Office, the Surveying and Mapping Authority, the Agency that runs the Slovenian Business Register inter alia.                                                                                                                                                                                    The Strategic Work Plan for Open Data 2022-2023 has taken this into consideration.
+
+Link to Strategic Working Plan for Open Data 2022-2023 : https://podatki.gov.si/sites/default/files/reports/Odprti%20podatki%20JS%20-%20Strate%C5%A1ki%20delovni%20na%C4%8Drt%202022%202023_0.pdf";Confirm;;;;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;"Every month our Open Data Portal team reports to the Project Office at the Ministry of Public Administration on the progress made (regular monthly written reports and meetings).
+The implementation according to the action plan is also recorded in the annual report.";Confirm;;;;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;No;"The Strategic Working Plan for Open Data 2022-2023 includes 8. PLANNED MEASURES AND ACTIVITIES IN THE FIELD OF PUBLIC SECTOR DATA OPENING IN 2022 - 2023.                                                                       
+Link to Strategic Working Plan for Open Data 2022-2023: https://podatki.gov.si/sites/default/files/reports/Odprti%20podatki%20JS%20-%20Strate%C5%A1ki%20delovni%20na%C4%8Drt%20MJU.pdf";;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;"The article 34a of Public Information Access Act says:
+(1) The authority may charge marginal costs for the re-use of data, but may not charge a price.
+(2) Notwithstanding the preceding paragraph, it may charge a price for re-use:
+-         a body which, in accordance with a plan or program of work or financing, must generate revenue in addition to the budget to cover at least 30% of its costs related to the performance of its public tasks, and
+-         library, museum and archive.
+(3) In the cases referred to in the preceding paragraph, a price shall be charged for the re-use of information, which may not exceed the costs of collecting, preparing, reproducing and disseminating information and the normal return on investment. The price must be cost-oriented and determined in the normal accounting period and in accordance with the prescribed accounting rules for the authority. The calculation basis for the price is information of a public nature.
+(6) The Ministry shall decide that the body may charge a price on the basis of the first indent of the second paragraph of this Article for a period of two years, on the basis of a proposal which must be substantiated by figures from the adopted annual substantive and financial program and report. The body's appeal against the ministry's decision is not allowed, but an administrative dispute is allowed.";Confirm;;;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;"Top 3 challenges: 
+- Provision of all HVDs via APIs
+On the bases of the amendments to the Access to Public Information Act and the Decree (to implement the Open Data Directive in relation to High Value Datasets) as well as the implementing regulation (EU) 2023/138 on high-value datasetsThe PSBs that run datasets categorized as HVDs have been now providing these via APIs.
+- The establishment of the new Data Economy unit within the newly established Ministry for Digital Transformation.
+-organise trainings for civil servants on Open Data in line with the Programme of Government of Republic of Slovenia to strengthen integrity and transparency in Public Sector 2023-2026 which was adopted in Feb 2023 (measure 3A.1c »TRANSPARENCY – PROMOTE PUBLIC DATA PUBLICATION IN OPEN FORMATS).";Confirm;N/A;;;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"Activities:
+- Provision of HVDs via APIs
+
+We have been co-organising  the “first face-to-face data.europa.eu Workshop” that will take place in Ljubljana from 22-23 May and will be hosted by the Slovenian Ministry of Digital Transformation and the Ministry of Public Administration. The event will bring together member states’ administrations and the EC’s expertise to ensure smooth adoption of the new policy. In the workshop, we will cover the EU policy landscape and discuss how to translate policy to practice ensuring an aligned implementation. Bi-lateral meetings with the public sector bodies - Open Data providers - will follow. 
+
+- The establishment of the new Data Economy unit within new Ministry for Digitalisation.
+- Hackathon in September 2022 in Ljubljana, Slovenia, on Health
+
+-	organise trainings for civil servants on Open Data in line with the Programme of Government of Republic of Slovenia to strengthen integrity and transparency in Public Sector 2023-2026 which was adopted in Feb 2023 (the measure 3A.1c »TRANSPARENCY – PROMOTE PUBLIC DATA PUBLICATION IN OPEN FORMATS«). The final aim is to empower public officials and public servants to take into account the relevance of data for the wider benefit of society in the performance of their duties; A specific training course will be prepared anew at the Administrative Academy of the Ministry of Public Administration.
+-	Published at: https://www.gov.si/teme/integriteta/ (see below in English)";Change;Yes;"""Activities:
+- Provision of HVDs via APIs
+
+ALL-SLOVENIAN HACKATHON - CO-SHAPE THE FUTURE WITH OPEN SCIENCE
+April and May 2024
+https://podatki.gov.si/content/vseslovenski-hackathon-z-odprto-znanostjo-sooblikuj-prihodnost
+
+-	organise trainings for civil servants on Open Data in line with the Programme of Government of Republic of Slovenia to strengthen integrity and transparency in Public Sector 2023-2026 which was adopted in Feb 2023 (the measure 3A.1c »TRANSPARENCY – PROMOTE PUBLIC DATA PUBLICATION IN OPEN FORMATS«). The final aim is to empower public officials and public servants to take into account the relevance of data for the wider benefit of society in the performance of their duties; A specific training course will be prepared anew at the Administrative Academy of the Ministry of Public Administration.
+-	Published at: https://www.gov.si/teme/integriteta/ (see below in English)""""""";;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;"Yes, we have core opendata team (main editors) at the Ministry of Digital Transformation and the Ministry of Public Administration, which helps data holders to publish their data.
+On technical level, we have regular meetings with the developer team. 
+e.g. in case of preparing APIs we had meetings with the developers and not only main editors but also editors and technical staff at other public sector bodies.
+For the content of the portal, we regularly communicate with the editors from other public bodies and have annual meetings with editors of the OPSI portal. Apart form the Manual on Open Data, in 2020 the MPA prepared the Guidelines for developing the applications (within the public sector), which include a chapter on Open Data: https://nio.gov.si/nio/asset/smernice+mju+za+razvoj+informacijskih+resitev-768";;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;"We have several courses for data governance.
+This is the list of courses:
+1. Data literacy - data gives strength
+2. Creating a data opening plan
+3. Public sector data management, open data and the OPSI portal
+4. From questionnaires to content for decision making
+5. Basic statistical methods for data analytics
+6. Data analytics
+7. Introduction to text mining
+8. Data Science for Beginners
+9. Data collection with online survey questionnaires
+Detailed description for each are here: https://ua.gov.si/aktivnosti/?Tag=459&category=b7dc9176-8c97-e711-8382-00155d010a0f";Change;Yes;"""We have several courses for data governance.
+This is the list of courses:
+1. """"Data management, interoperability and advanced tools""""
+2. """"Data analytics - practical examples""""
+3. """"Basic training for working with GIS within GeoHub-SI""""
+4. """"The concept of open data and the creation of a plan for opening data""""
+5. """"Training of Data Stewards""""""";;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, >9;"1.	Data Analytics Forum Program - Forum podatkovne analitike (planetgv.si): https://www.planetgv.si/forum-podatkovne-analitike/program/
+2.	Legal Clinic - transparentnost.in.integriteta_.razpored.predavanj_za.objavo_.pdf (uni-lj.si): https://www.pf.uni-lj.si/media/transparentnost.in.integriteta_.razpored.predavanj_za.objavo_.pdf
+3.	Seminar papers with students of Faculty of Computer and Information Science
+4.	Annual meeting of content editors 
+5.	Quality conference: https://www.gov.si/novice/2022-05-06-jubilejna-letna-konferenca-kakovosti-2022/ 
+6.	Dementia – Our Common Challenge https://transformation-lighthouse.com/hackathon-roche/en/main-page/
+7.	Days of Slovenian Administration (Digital Breakthrough in the Field of JU) / Open data-based development of e-services XXIX. Dnevi slovenske uprave (29. - 30. 9. 2022) - Svetovalno-izobraževalni center (sic.si)
+8.	Heritage project  Predstavitev rezultatov projekta eDediščina: https://www.gov.si/dogodki/2022-11-16-predstavitev-rezultatov-projekta-edediscina/
+9.	Environmental data and public services Podatki o okolju in javne storitve – 4PDIH: https://4pdih.com/2022/06/01/podatki-o-okolju-in-javne-storitve/
+10.	DEAS Strategy Field Trip: https://www.ljubljana.si/sl/moja-ljubljana/evropska-sredstva-za-ljubljano/projekt-deas/novice-projekta-deas/deas-strategy-field-trip/
+11.	Povezujmo z gradniki: https://www.gov.si/dogodki/2022-10-13-povezujmo-z-gradniki/ 
+12.	Dogodek Informacijskega pooblaščenca ob Svetovnem dnevu pravice vedeti: https://www.ip-rs.si/novice/dogodek-informacijskega-pooblaščenca-ob-svetovnem-dnevu-pravice-vedeti";Change;Yes, 6-9;"""There are events to promote open data:  
+
+1. The role of a data stewards for the slovenian public sector - workshop 5 june 2023 
+Razvoj omrežja skrbnikov podatkov in opredelitev vloge za javni sektor | GOV.SI (https://www.gov.si/novice/2023-06-05-razvoj-omrezja-skrbnikov-podatkov-in-opredelitev-vloge-za-javni-sektor/)
+
+2. Slovenia hosts international workshop for data providers - 22-23 May 2023 
+Slovenija gostila mednarodno delavnico za ponudnike podatkov - 22. in 23. 5. 2023 | OPSI - Odprti podatki Slovenije (gov.si) (https://podatki.gov.si/content/slovenija-gostila-mednarodno-delavnico-za-ponudnike-podatkov-22-23-5-2023)
+
+3. ANNUAL MEETING OF EDITORS OF THE OPSI PORTAL 
+8.3.2024
+https://podatki.gov.si/content/letno-srečanje-vsebinskih-urednikov-portala-opsi-832024
+
+4. MEETING ON THE INTERNATIONAL OPEN DATA DAY 
+8.3.2024
+https://podatki.gov.si/content/srečanje-ob-mednarodnem-dnevu-odprtih-podatkov-832024
+
+5. ALL-SLOVENIAN HACKATHON - CO-SHAPE THE FUTURE WITH OPEN SCIENCE
+April and May 2024
+https://podatki.gov.si/content/vseslovenski-hackathon-z-odprto-znanostjo-sooblikuj-prihodnost
+
+6. Openness and trusted artificial intelligence in practice
+23. 5. 2024
+https://www.gov.si/dogodki/2024-05-23-odprtost-in-zaupanja-vredna-umetna-inteligenca-v-praksi/
+
+
+7. Round table Privacy in open data
+23. 5. 2024
+https://www.gov.si/dogodki/2024-05-23-okrogla-miza-zasebnost-pri-odprtih-podatkih/""";;;;;;

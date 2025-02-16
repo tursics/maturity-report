@@ -1,0 +1,262 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;https://data.gov.lv/lv;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;N/A;CKAN
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;https://data.gov.lv/dati/lv/dataset/pakalpju-piekluves-statistika
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;"Only with CKAN API help ( PT3 site)
+Each dataset has its own API access according to the CKAN instructions an API connection is made to a specific resource so that data can be retrieved.
+https://docs.ckan.org/en/latest/maintaining/datastore.html"
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;https://docs.ckan.org/en/2.10/api/
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"In Latvian Open Data portal is all the necessary information for users how to add a data sets: https://data.gov.lv/lv/publicetajiem
+But if they have a other questions there are other options to have a answer, for example, ask the question: https://data.gov.lv/lv/buj or send the e-mail to atbalsts@vraa.gov.lv
++ according to Latvian legislation the publication of data on the portal that is not from official sources doesn't allow."
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;In this section the portal user has the possibility to ask a question and make a comment - https://data.gov.lv/lv/buj.  ;Complement;Yes;Plus users can send the e-mail to atbalsts@vraa.gov.lv
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;Under each dataset there is an option for users to contact the publishers of the dataset individually. See example: https://data.gov.lv/dati/lv/dataset/eadrese;Confirm;;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";No;"https://data.gov.lv/lv (Balso par datu kopām)
+
+August Update
+There are no such specific functions in the portal. However, if we look at it another way, the more popular dataset on the portal is considered to be the one with the larger view. These are the three most viewed datasets on the portal: 
+1. Information about Saeima sittings: https://data.gov.lv/dati/lv/dataset/saeimas-sedes;
+2. Schedule of the annual state technical inspection of tractor equipment and its trailers (planned): https://data.gov.lv/dati/lv/dataset/traktortehnikas-un-tas-piekabju-ikgadejas-valsts-tehniskas-apskates-grafiki-planotas;
+3. Companies register: https://data.gov.lv/dati/lv/dataset/uz.";Change;Yes;"At the present moment, those below datasets are most popular:
+1. Nekustamā īpašuma tirgus datu bāzes atvērtie dati ( https://data.gov.lv/dati/lv/dataset/nekustama-ipasuma-tirgus-datu-bazes-atvertie-dati);
+2. Informācija par Saeimas sēdēm (https://data.gov.lv/dati/lv/dataset/saeimas-sedes);
+3. Traktortehnikas un tās piekabju ikgadējās valsts tehniskās apskates grafiks (plānotais) (https://data.gov.lv/dati/lv/dataset/traktortehnikas-un-tas-piekabju-ikgadejas-valsts-tehniskas-apskates-grafiks-planotais);
+4. Valsts adrešu reģistra atvērtie dati (https://data.gov.lv/dati/lv/dataset/valsts-adresu-registra-informacijas-sistemas-atvertie-dati);
+5. Hidrometeoroloģiskie novērojumi (https://data.gov.lv/dati/lv/dataset/hidrometeorologiskie-noverojumi).
+The main change is the statistics part, where is available to see TOP 5 data sets and TOP 5 categories as well as overall data sets statistic statistika.
+TOP 5 statistics: https://data.gov.lv/lv
+Data sets statistic:https://data.gov.lv/lv/statistika
+"
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";No;"https://data.gov.lv/dati/lv/dataset?q= ) On the right-hand side you will find the search options and by clicking the Sort by button you can search for the most popular datasets that have undergone changes. 
+
+August Update
+The portal will have an option to show the dataset that has just been uploaded, and an option to show when the dataset has been updated.";Confirm;No;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no ;"At the moment there is no such feature, but discussions have taken place with the Portal's maintainer about adding a new feature: notifying (notifying) users when new datasets are available on the Portal.
+";Change;Yes;"Users can subscribe to the newsletter to receive notifications when datasets are added.
+https://data.gov.lv/lv/pierakstities-jaunumiem"
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://data.gov.lv/lv/iesaki-datu-kopu;Complement;Yes;Correct link: https://data.gov.lv/lv/form/contact
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"Adrešu reģistrs: https://data.gov.lv/dati/lv/dataset?q=adre%C5%A1u+re%C4%A3istrs&sort=score+desc%2C+metadata_modified+desc;
+sabiedriskā transporta saraksti: https://data.gov.lv/dati/lv/dataset?q=Sabiedrisk%C4%81+transporta+saraksti&sort=score+desc%2C+metadata_modified+desc;
+svētku dienas: https://data.gov.lv/dati/lv/dataset?q=Sv%C4%93tku+dienas&sort=score+desc%2C+metadata_modified+desc
+
+August Update
+https://data.gov.lv/lv/iesaki-datu-kopu  
+In Portal is an opportunity to vote for datasets, as well as the number of votes being represented. ";Complement;Yes;Users were interested in calendar names: https://data.gov.lv/dati/lv/dataset/latviesu-tradicionalais-un-paplasinatais-kalendarvardu-saraksts
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;"The team monitors the publication of requested data and reports on publication plans, as well as communication with dataset holders.
+
+August update
+The requests are considered when regular reports of data publishing plans are created.";Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"
+In the future, the Portal will have a Forum section for users. For the time being, users can send their questions to the Twitter (https://twitter.com/datagovlv) account or by sending them to the gmail account: data.gov.lv@gmail.com. As well as to other means of communication available on the Portal.
+
+";Complement;Yes;"In the next improvement requests for the portal, it is foreseen to request the creation of a forum. For the time being, user communication is as described above.
+The portal now has a Q&A section where users can ask questions: https://data.gov.lv/lv/buj.
+Plus users can contact true -email: atbalsts@vraa.gov.lv."
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://data.gov.lv/lv/piemeri This section is planned to be expanded and improved.;Complement;Yes;Link will change in the future:  https://dpptest.vraa.gov.lv/lv/atkalizmantosana
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;https://data.gov.lv/lv/piemeri the name of the dataset is below the picture.;Complement;Yes;Link will change in the future: https://dpptest.vraa.gov.lv/lv/atkalizmantosana
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;"Users can send their examples of open data use to the address provided on the Portal.
+
+Update August
+https://data.gov.lv/lv/piemeri";Complement;Yes;Link will change in the future: https://dpptest.vraa.gov.lv/lv/atkalizmantosana
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;the portal offers a preview function for tabular data. For example, see this dataset: https://data.gov.lv/dati/lv/dataset/latvijas-iedzivotaju-skaits-pasvaldibas/resource/77cba010-0284-4dd9-91a2-0f41bd401089;Complement;Yes;Link will change in the future: https://dpptest.vraa.gov.lv/dati/lv/dataset/avis-benefits/resource/a91cae70-2507-43a4-a3c1-358e7161322f
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;"https://data.gov.lv/dati/lv/dataset/adreses-inspire/resource/d218d5dc-b08c-4d24-baab-f524a8b21d52
+
+August Update
+https://data.gov.lv/dati/lv/dataset/vides-piesrojuma-zioanas-vienbas-troksnis-inspire-wms";Complement;Yes;https://geolatvija.lv/main
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"In Latvian Open Data portal (on the left side) there is section ""Birka"" where users can find a new tag ""high-value dataset"". To date, 33 high value datasets are available on the Portal - https://data.gov.lv/dati/lv/dataset?tags=augstv%C4%93rt%C4%ABg%C4%81+datu+kopa"
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;Through Google Analytics;Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Confirm;;
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";No;"To better understand user behaviour and needs, our team intends to create new functions by providing more statistical records on the Portal, as well as further surveys of different sections.
+
+August update
+Not at the present moment.";Confirm;No;"Once the portal is launched in the new production environment, we are planning a user survey at the end of autumn on usability and other issues related to the portal.
+Meetings are organised where Data Holders are invited to discuss current issues and identify existing functionality and possible future functionality of the portal. "
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;"If we receive user suggestions, we respond to them and take them into account. 
+At the same time, we would like to point out that we have a procedure for submitting improvements to the developer and that it takes a certain amount of time for improvements to be made. In addition, it should be noted that everything depends on the funding allocated for the maintenance and development of the Portal."
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;When considering draft laws and regulations prepared by the institutions in the TAP portal, we invite them to publish the data on the portal as open data (https://tapportals.mk.gov.lv/reviews/resolutions/c3622c73-5f6c-45d0-bfd7-0b0d7bbb60ae).
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;"Monitoring is used for statistical purposes.
+With the changes to the portal, which has now been updated with a statistics section, we have discovered the most requested datasets of all. This also allows data holders to understand users' needs.
+"
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"Yes, monitoring is qualified by page views.
++ With the changes to the portal, which has now been updated with a statistics section, we have discovered the most requested datasets of all. This also allows data holders to understand users' needs."
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;"We plan to improve the accessibility of the Portal, including to optimise the search and findability of content.
+
+Update August
+Work is currently underway to search and locate the data content. It is expected that the improvements to the Portal will be completed by the end of this year.";Complement;Yes;"Yes, the portal has several search options, for example you can search on the home page (https://data.gov.lv/lv), of the portal by going to the ""Datasets"" section (https://data.gov.lv/dati/lv/dataset), and you can also search under ""Data publisher"" (https://data.gov.lv/dati/lv/organization)."
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Confirm;;https://stat.gov.lv/lv/metadati/8113-iedzivotaju-skaits-un-galvenie-demografiskie-raditaji-eksperimentala-statistika
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;The data are published in accordance with the above-mentioned information report, Article 10 (2) Freedom of Informationa Law, 3. in accordance with Cabinet Regulation No.445.;Change;All public sector data providers;Data holders upload data to the portal in accordance with legal acts. There are institutions that collect metadata.  
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;Meetings are organised to help authorities understand what and why open data should be published. While providing legal clarification and support in line with other LV legislation, e.g. on personal data. ;Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";no;;Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";not applicable;"Municipalities use the Latvian Open Data Portal. Municipal websites or documents on open data refer to the national portal. 
+
+Update August
+Yes, in the section Organisation, there is a search option where is possible to look for the publisher of the data  including the local authority: https://data.gov.lv/dati/lv/organization";Change;Yes;"Regional authorities are using and downloading they data in Latvian Open Data portal.
++
+I would like to clarify that there are no regional and national portals in Latvia. According to the legislation of the Republic of Latvia, there is one portal, which is the Latvian Open Data Portal, where data is published by both state institutions and local government institutions, which are regional institutions. 
+As to whether regional authorities use the data available on the portal, the answer is yes, as do public authorities. 
+"
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";not applicable;Municipalities use the Latvian Open Data Portal. Municipal websites or documents on open data refer to the national portal. ;Change;The majority of datasets;"Regional authorities are using and downloading they data in Latvian Open Data portal.
+The question is not really clear, but we point out that regional authorities publish their data on the portal, including through the API, for example, the Liepaja Central Administration's dataset on infringements: https://data.gov.lv/dati/lv/dataset/lmt-vieda-luksofora-fiksetie-parkapumi-liepaja-oktobris/resource/132dc234-4240-47af-a711-673e58a8a894 + Cēsu municipality: https://data.gov.lv/dati/lv/dataset/cesu-novada-pasvaldibas-agenturas-socialais-dienests-statistiskie-dati/resource/454a97f6-4633-43d5-b9dd-7519d3106eb2"
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;https://data.gov.lv/dati/eng/dataset/satiksmes-uzskaites-dati;Complement;Yes;"https://data.gov.lv/dati/lv/dataset/nacionala-piekluves-punkta-datu-kopas;
+https://data.gov.lv/dati/lv/dataset/telpiskie-hidrometeorologiskie-noverojumi/resource/a264bfb4-f52f-41f7-93fc-04214f4a2b5b"
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;No;Latvian legislation does not allow the publication of data on the portal that is not from official sources. 
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";no;Currently not allowed, but in the development of the Portal this option is foreseen. ;Change;Yes;"In this data set is information about institutions data what is restricted data: https://data.gov.lv/dati/lv/dataset/iestazu-datu-metadati
+To complement the answer, we would like to point out that the information in this dataset comes from the information system ""VIRSIS"", where information on the institution's data other than open data is available. In order to access this information, it is necessary to register in the VIRSIS information system. Link: https://virsis.gov.lv/"
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;"Latvia's open data strategy: https://tap.mk.gov.lv/lv/mk/tap/?pid=40472319
+One of the long- term activities of the Strategy Portal is the increased use of Application Programming Interfaces (APIs) in public administration, which would contribute to the implementation of system-to-system data exchange solutions. Also real-time data availability, automated data processing, data updating."
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;https://twitter.com/datagovlv  ;Confirm;;
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;"https://data.gov.lv/dati/lv/dataset/vienotas-pieteiksanas-modula-integracija-valsts-un-pasvaldibu-iestazu-timeklvietnu-vienota-platforma
+https://www.varam.gov.lv/lv - © 2023 Ministry of Environmental Protection and Regional Development, all rights reserved.
+© 2020 State Chancellery, Unified Web Platform, all rights reserved.";Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";No;"https://data.gov.lv/dati/lv/dataset - You can see them by clicking the ""Sort by"" button, and there are several other options on the left-hand side of the page for monitoring.
+
+August update
+Given that work has started on improving the functioning of the portal, which will also include an analytics approach on the portal. ";Change;Yes; The monitoring is automatic, according to the renewal period specified by the data holders. For example, if a data holder has not updated the data on time, a notification will appear in the portal next to the defined dataset indicating that the dataset needs to be updated.  There are also data publication requirements that data holders have to comply with in order to publish data on the portal.  
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;"Taking into account both user suggestions and monitoring, work has started on improving the Portal. 
+
+August Update
+We had some problems with cookies at the end of last year, but these have now been resolved and data publishers will be able to request Google Analytics reports in the future.";Complement;Yes;"Yes
+The portal allows you to log in and receive notifications for both successful and unsuccessful data uploads - for data providers for their own resources, and for the administrator for all resources: https://data.gov.lv/lv/aktualitates/pieteiksanas-pazinojumiem-par-datnu-ieladi-un-datu-ielades-statusa-parbaude "

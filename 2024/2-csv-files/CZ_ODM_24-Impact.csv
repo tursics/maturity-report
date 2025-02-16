@@ -1,0 +1,209 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;According to the documentation attached to the amendment to the Act No. 106/1999 Coll. re-use can be defined as the development of applications and services based on open data that are machine readable, with available metadata and legal openness. See https://www.psp.cz/sqw/text/tiskt.sqw?O=9&CT=222&CT1=0.;Confirm;;;;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;"In 2022 the National Open Data Team prepared an analysis for identification the level of the re-use of open data as a part of the analysis of the open data impact in the Czech Republic. There were at least 69 applications, portals and services based on open data identified. Moreover, according to the questionnaire sent out to all open data providers in December 2022, 15 (of a total of 56 that participated
+in the questionnaire) providers regularly monitor the re-use of their open data. Results are published in the respective Annual Reports on the State of Open Data in the National Open Data Portal (https://data.gov.cz/výroční-zprávy/).
+";Complement;;The National Open Data Team annually prepares an analysis of the re-use of open data as a part of the analysis of the open data impact in the Czech Republic. At least 78 applications, portals and services based on open data were identified. Moreover, according to thequestionnaire sent out to all open data providers at the beginning of  2024, 22 (of a total of 67 that participated in the questionnaire) providers regularly monitor the re-use of their open data. Results for the year 2023 will be published in the Annual Report on the State of Open data on the national portal during the summer 2024.  Examples of 27 applications can be found on the  national portal https://data.gov.cz/aplikace.  ;;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";yes;"The National Open Data Team strongly encourage all public bodies to monitor the re-use of the data. Monitoring is required primarily for the Open Data Working Group members that subsequently have to report the results to the National Open Data Team through annual questionnaire about the state of open data in the Czech Republic. The results are available through the respective Annual Reports on the State of Open Data here: https://data.gov.cz/výroční-zprávy/.
+";Complement;;The National Open Data Team strongly encourage all public bodies to monitor the re-use of the data. Monitoring is required primarily for the Open Data Working Group members who subsequently have to report the results to the National Open Data Team through an annual questionnaire about the state of open data in the Czech Republic. The results will be available through the respective Annual Reports on the State of Open Data later in the summer 2024 here: https://data.gov.cz/výroční-zprávy/. There is a new feature on the national data portal where anyone can suggest an application that uses the open data. We are encouraging all our providers to upload their re-use solutions and applications they have for users. https://data.gov.cz/aplikace ;;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;We have added a new specification that indicates the HVD datasets into the technical standard (https://data.gov.cz/ofn/) that is obligatory for all providers and that allow us to indetify what data are HVD. As all the applications in the catalogue (list of applications: https://data.gov.cz/aplikace) on the data portal are connected to the specific data set we can monitor also the reuse of the high-value datasets.   ;;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"The definition of the impact of open data is described in the Methodology for Developing an Analysis of the Impact of Open Data in the Czech Republic. The document was prepared as one of the objectives of the project KODI financed from the Operational Programme Employment and is published online https://data.gov.cz/kodi/. 
+Impact of open data - Changes of the established ways of behavior and attitudes in the society through the values and services created on the basis of open data and their gradual implementation into the life of the society.";Confirm;;;;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;The methodology is based on an indirect approach that is based on the identification of the value of open data across the whole of Czech society and takes into account various aspects such as the quality of open data, the existence of applications, data enrichment or benefits for providers. ;Confirm;;;;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;The collaboration between the government and the academia is embodied in the KODI project led by the National Open Dat Team and financed from the Operational Programme Employment where the majority of the team comes from the academic sector (ex. Faculty of Mathematics and Physics at the Charles University, Faculty of Law at the Masaryk University, or the Prague University of Economics and Business). All objectives of the project are available o the Portal:  (see Objective C3V11). Moreover there is a regular cooperation between the National Open Data Team and the NGO OSF Prague at the programme Our State, Our Data (see https://osf.cz/programy/ziva-demokracie/nas-stat-nase-data/) that supports the open data re-use in different projects and activities across the civil society in the Czech Republic.;Complement;;The collaboration between the government and academia is embodied in the NPO project (Czech version of the Recovery and Resilience Facility project) led by the Data Team until 2025. This project covers the development of the National open data catalogue as well as the data management activities. In the project participate representatives e.g. from Faculty of Mathematics and Physics at Charles University, Faculty of Law at Masaryk University, or Prague University of Economics and Business. Moreover, there is regular cooperation between the National Open Data Team and several civil sector communities e.g. https://www.czechitas.cz/, https://www.opencontent.cz/ as well as the informal community of Open Data Limo. ;;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;Yes;"The questionnaire for data providers sent out annually by the National Open Dat Team (Digital and Information Agency) revealed that at least the following offices use an automated feedback mechanism:
+Agency for Nature and Landscape Protection
+Czech Trade Inspection 
+Czech Social Security Administration
+Czech School Inspection
+Liberec region
+Pilsen Region
+City of Prague
+City of Bohumín
+National Library
+City of Brno
+Office of Industrial Property
+Czech telecommunication office";;;
+I8-b;Surveys;new question;new question;Change;Yes;The Digital and Information Agency does annually a survey among the open data providers asking also on examples of reuse and also how and which datasets the users use. The summary of this survey will be published in the summer of 2024 in the Annual Report on the State of Open Data. In addition, the Czech Land Surveying and Cadastral Office also conducts a monitoring survey among users.;;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;"The questionnaire for data providers sent out annually by the National Open Dat Team (Digital and Information Agency) revealed that at least the following offices do interview/workshops with reusers:
+Czech Trade Inspection 
+Digital and Information Agency
+Czech Statistical Office
+Pilsen Region
+Ministry of Health
+Region Hradec Králové
+City of Prague
+City of Brno";;;
+I8-d;Other;new question;new question;Change;Yes;Some the public bodies (municipalities, Czech Supreme Audit Office) organize hackathons to secure direct access to information about their data reuse cases and have the opportunity to monitor the sustainability of these projects.;;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;"The City of Prague organizes informal meetings with users of the portal and data once or twice a year. For example, thanks to the feedback they decided to unite several information websites about Prague data and reuse cases into one website to make it easier for users to find their way around and to be motivated to use the data.
+Similarly, informal meetings are organized by the Digital and Information Agency. The ideas are than part of the development of the national portal. At the same time, DIA collects information for other public bodies as well.
+Every year, the Region Hradec Králové organizes a hackathon for students and users to get feedback, at the last one was even created an application that facilitates the reuse of data on the portal and was directly implemented on the portal.";;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;Yes;"Digital and Information Agency follows the analysis of X account @otevrenadata where we communicate changes on the portal and we also called for participation in research for portal users.
+Feedback from social networks (X) is also collected by the Ministry of Health, which regularly informs about currently published data and opens a discussion about what other items users would need (for example, data on diabetes or pregnancy). At the same time, they also present their own visualizations and get feedback on their quality and possibilities for further use.";;;
+I9-c;Other;new question;new question;Change;Yes;"The Open Data Team annually conducts a survey among the providers of the National open data catalogue. The providers are asked If and how they communicate with their users. Most of the providers do communicate with their users (13 out of 65). A most common way of communication is individual communication. Many of the regional providers also organize annual hackatons (usually together with the universities or NGOs) where they meet with the community of the users:  #HACKUJBRNO 2024, https://www.datakhk.cz/pages/hackathony, https://www.sitport.cz/kalendar-akci/infis-hackathon/, https://hackathon.upol.cz/. There is also annual national hackaton where winners from the regional ones compete: Hackathon veřejné správy 5.0 (hackujstat.cz).
+Furthermore, the Ministry for Regional Development and the Ministry of Industry and Trade are collecting suggestions for opening data from users. The City of Brno, in turn, supports reuse by city hall employees by organizing internal workshops and training.";;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;The National Open Data Team from the Digital and Information Agency every year carries out a survey among open data providers as a part of the open data impact measurement and the preparation of the Annual Report on the State of Open Data to monitor the re-use cases. Moreover, as shown from the regular annual survey between data providers, almost 10 providers (from 56 respondents) gather re-use cases or directly participate in the development of applications or portals working with their data.;Complement;;"The National Open Data Team from the Digital and Information Agency every year carries out a survey among open data providers as a part of the open data impact measurement and the preparation of the Annual Report on the State of Open Data to monitor the re-use cases. Moreover, as shown from the regular annual survey between data providers, almost 18 providers (from 65 respondents) gather re-use cases. 14 of the providers claim that they have initiated or participated in the development of applications or portals working with their data. 
+Moreover, the National Open Data Team gathers reuse cases directly through national portal where users can register reuse cases, link them to used dataset registred in the portal and publish them in the catalogue of applications that is available th the portal itself at https://data.gov.cz/aplikace.";;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;The National Open Data Team from the Digital and Information Agency in the open data impact measurement classifies the re-use cases into the following categories: Information providing, New services and products,  Media portals and Others. ;Complement;;The National Open Data Team from the Digital and Information Agency in the open data impact measurement classifies the re-use cases into the following categories: Information providing, New services and products,  Media portals and Others. There's also a thematic classification such as Government and public sector, Economy, Agriculture, Culture, Society, Environment etc. altogether 12 categories (from the European Vocabulary)  that is available at the catalogue of applications directly at the portal.;;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";yes;The impact of open data as a way to ensure principles of open government (opennes, transparency and activity monitoring and effectiveness) is taken into account by the impact study carried out in accordance with the Methodology for developing an analysis of the impact of open data in the Czech Republic. The methodology was updated in 2020 and now provides a more comprehensive impact assessment. The results of the study for the 2022 year are available online here: https://data.gov.cz/kodi/. However, thanks to the ongoing study, we have collected the re-use examples, see below.;Complement;;The Open Data team in previous years developed the methodology to follow and analyse the open data impact in CZ. Annually we conduct survey among the data providers as well as gather various data and information on the re-use to have the needed data for the annual report. This year's Impact Report Annual Report on the State of Open Data is still in process and will be available in the summer 2024.  ;;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"In 2023 data journalist Jan Boček from the public radio Český Rozhlas published the first series of articles on his investigation of the illegal redistribution of drugs from the pharmacies across the CZ worth 20 million EUR. Most of the drugs ended up in the pharmacies abroad. This investigation was conducted based on analysing the open data of the State Institute of Drug Control which led to uncovering the whole illegal business. There were several steps taken to prevent this practice from the part of the Ministry of Health and penalties were given. Nevertheless, the case is not closed yet. 
+https://www.irozhlas.cz/zpravy-domov/leky-leciva-nelegalni-reexport-sukl-symbicort-turbuhaler_2305150500_jab 
+https://www.irozhlas.cz/zpravy-domov/leky-leciva-nelegalni-reexport-sukl-fmd-kody-slovensko-sukl_2305170500_jab 
+https://www.irozhlas.cz/zpravy-domov/kam-mizi-leky-dil-treti-sukl-v-rozporu-se-zakonem-nezverejnuje-data-ktera_2305190500_jab 
+https://www.irozhlas.cz/zpravy-domov/leky-leciva-reexport-preprodej-dostupnost-vypadky-sukl_2403130500_jab 
+https://data.gov.cz/datov%C3%A9-sady?poskytovatel=https%3A%2F%2Frpp-opendata.egon.gov.cz%2Fodrpp%2Fzdroj%2Forg%C3%A1n-ve%C5%99ejn%C3%A9-moci%2F00023817&kl%C3%AD%C4%8Dov%C3%A1-slova=dod%C3%A1vky%20p%C5%99%C3%ADpravk%C5%AF 
+https://data.gov.cz/datov%C3%A9-sady?poskytovatel=https%3A%2F%2Frpp-opendata.egon.gov.cz%2Fodrpp%2Fzdroj%2Forg%C3%A1n-ve%C5%99ejn%C3%A9-moci%2F00023817&kl%C3%AD%C4%8Dov%C3%A1-slova=LEK-13 
+https://data.gov.cz/datov%C3%A9-sady?poskytovatel=https%3A%2F%2Frpp-opendata.egon.gov.cz%2Fodrpp%2Fzdroj%2Forg%C3%A1n-ve%C5%99ejn%C3%A9-moci%2F00023817&kl%C3%AD%C4%8Dov%C3%A1-slova=REG-13 ";;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The Supreme Audit Office conducts an Annual Report that gives a complex overview of persistent systemic problems the Czech state faces. The Supreme Audit Office evaluates how successful the state is when solving these issues. The Office mainly uses open data for their controls made over the year in state offices and bodies. Eg. for the evaluation of the state of digitalization they use this dataset:  https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F17651921%2Ff50cfdd635e1c37698ebb9c50c881d4c.
+For the Annual Report from the 2023 see https://www.nku.cz/assets/publikace-a-dokumenty/vyrocni-zprava/vyrocni-zprava-nku-2023.pdf. ";;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;The Czech Society for Cardiology made a significant revision of the National Plan for Cardiology  (https://www.nzip.cz/clanek/1652-narodni-kardiovaskularni-plan) based on the prediction that was an outcome of the analysis of the available data. It seems that cardiovascular disease is not only a problem of bad lifestyle but is connected to a broader problem that the new plan reflects.  For the analysis, they used open datasets e.g. about the deaths caused by diseases of the circulatory system: https://www.nzip.cz/datova-sada/103 ;;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The Digital and Information Agency (DIA) coordinates other public bodies in the process to fulfil the new Digital Service Rights Act - the obligation to provide all state services to citizens in digital form. Thanks to open data about the digitization of the services, DIA can 
+adapt activities to fulfill the law according to the current status quo. DIA uses data in the form of visualisation that is also available to the public (https://app.powerbi.com/view?r=eyJrIjoiZmIzYWY0ZjEtYTA0ZS00ZDZmLTkyY2UtMzFiODFjOTg5Yzk4IiwidCI6IjFkYjQxZDZmLTFmMzctNDZkYi1iZDNlLWM0ODNhYmI4MTA1ZCIsImMiOjh9). This data is also widely used by the Supreme Audit Office to verify the data given by the official bodies during the audits. For data see: https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F17651921%2F26a0dc31b72e0fbdf5bc9844c8666a66 ";;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";yes;The social impact of open data is taken into account by the impact study carried out in accordance with the Methodology for developing an analysis of the impact of open data in the Czech Republic. The methodology was updated in 2020 and now provides a more comprehensive impact assessment. The results of the study for the 2022 year are available online here: https://data.gov.cz/kodi/. However, thanks to the ongoing study, we have collected the re-use examples, see below.;Complement;;The social impact of open data is taken into account in the Annual Report on the State of Open Data. This report is based on the methodology that was developed by the Open Data team in previous years and has been revised according to the needs. This report provides a comprehensive assessment of the open data impact. However, this report is currently still in process and will be available in the summer 2024. ;;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The Ministry of Labor and Social Affairs publishes the Social Exclusion Index (https://www.socialni-zaclenovani.cz/index_socialniho_vylouceni/) based on the analysis of (and not only) available open data. This determines the area where the activities of the Agency for Social Inclusion are concentrated, which ensures support in the process of social integration of residents at risk of social exclusion (three quarters of this population group is made up of the Roma minority). The agency creates local partnerships in identified localities, on which it targets aid, including, for example, advice on drawing funds from European structural funds. 
+For example, the following datasets are used to calculate the index: https://data.mpsv.cz/web/data/nezamestnanost-v-obcich-od-brezna-2014, https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F70940517%2F1122955719, https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F66002222%2F16f5cf654712a7a6f1d789a6ee5662de. ";;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The City of Brno is using open data to map the brownfield locations that can be used again. These spaces are usually unique due to their location in the city and are used for new town planning. 
+https://data.brno.cz/datasets/016b08cbcdab46c4bd9d13dea88332f8_0/explore 
+The City of Brno also monitors the current number of public housing that covers various types of housing such as social housing, shared apartments, apartments with social care, housing for disabled people as well as starting flats. This helps to allocate the free capacity and help the clients more efficiently. https://bydleni.brno.cz/
+https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F44992785%2Fb31370de24b1aaf7c6f3f3711ad24f04 ";;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The Ministry of Health has launched a new National Portal of Psychiatric Care on https://psychiatrie.uzis.cz/. It gives an overview of the whole sector with detailed information on the available psychiatric care, or the quality of the health care system and basic parameters and data on inpatient and outpatient care. The goal is to create a background for working with data to optimize psychiatric care in the Czech Republic.
+The portal works with various open datasets: 
+https://data.gov.cz/datov%C3%A9-sady?kl%C3%AD%C4%8Dov%C3%A1-slova=psychiatrie";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The open data is especially widely used on hackatons. There are several regional hackatons as well as a national one and this year several of them invited students mostly from secondary schools as well as universities.The goal is to strengthen digital skills and data literacy among secondary school and university students.
+https://hpk.maleskoly.info/ 
+https://www.olkraj.cz/hackathon-byl-plny-napadu-zname-nejlepsi-projekty-aktuality-12533.html 
+https://hackithon.ujep.cz/ 
+The winners of the regional rounds took part in the national round, which was organized by the Supreme Audit Office. The list of created applications and the data sets used is here: https://www.hackujstat.cz/.";;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";yes;"There is currently a project called NERP - National Environmental Reporting Platformthat focuses on available sources of environmental data and tries to streamline their collection and processing and to analyze their impact on the social, political and legislative requirementscasued by the climate and environmental changes - https://nerp.cenia.cz/. The project will be finished in 2023.
+Moreover, the environmental impact of open data is also taken into account by the impact study carried out in accordance with The Methodology for developing an analysis of the impact of open data in the Czech Republic. The results of the study for the 2022 year are available online here: https://data.gov.cz/kodi/. However, thanks to the ongoing study, we have collected the re-use examples, see below.";Confirm;;;;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"There is an application (www.znecistovatele.cz) that shows the level of toxic pollution in various locations as well as who and what produces toxic pollution. The application is run by an influential environment protection NGO which is a driving force in the environment protection sector. The application is registered in the National Open Data Catalogue and connected to the specific datasets: https://data.gov.cz/detail-aplikace?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fregistrovan%C3%A9-aplikace%2F27 
+One of the regional providers launched an application that shows the specially protected areas including protection zones, NATURA 2000 locations - bird areas, nature parks and memorial trees in the Hradec Královéa  Region. It has an especially educating impact on the public as they are more aware of the protected area and the species that live there. 
+https://data.gov.cz/detail-aplikace?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fregistrovan%C3%A9-aplikace%2F17 ";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"There is a very useful application (https://www.kamsnim.cz/) that helps users to recycle all kinds of goods and waste properly. The application is widely used in the cities and helps the citizens to orientate in the recycling options and keeps the cities more environmentally friendly. The application uses several open datasets. The application is registered on the National Data Portal and connected to the specific datasets. In the link below you can find a link to the application as well as the datasets: 
+https://data.gov.cz/detail-aplikace?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fregistrovan%C3%A9-aplikace%2F10 ";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"There is a portal called Facts about Climate https://faktaoklimatu.cz/ that gathers various data about the climate and environment and makes an analysis. For their analysis, the team behind the portal also uses open data e.g. https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00020699%2F43c1c51053b19f753b1b33f748eee7e7 
+Another application registered at the National Data portal and uses open datasets is Carbonfix:  https://www.carbonfix.cz/. It is an online platform that helps companies to count their carbon footprint. https://data.gov.cz/detail-aplikace?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fregistrovan%C3%A9-aplikace%2F5 ";;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;Thanks to published open data on the location and quantity of Electricity producing facilities (https://data.brno.cz/datasets/a06ad6e95c4a416f9bfbfb2757a88a89_0/explore), the City of Brno found that the maximum possible potential for electricity production from photovoltaics exceeds the values ;;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";yes;The economic impact of open data is taken into account by the impact study carried out in accordance with the Methodology for developing an analysis of the impact of open data in the Czech Republic. The methodology was updated in 2020 and now provides a more comprehensive impact assessment.The results of the study for the 2022 year are available online here: https://data.gov.cz/kodi/. However, thanks to the ongoing study, we have collected the re-use examples, see below.;Confirm;;;;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;The Ministry of Labour and Social Affairs has a web application that enables one to search the free positions in the CZ that are suitable for foreign workers. https://www.mpsv.cz/-/vyhledavani-volnych-pracovnich-mist-pro-cizince The search uses data for the open dataset: https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00551023%2Fadb4b3fb85cd2e96ee508e4e5a78b567 ;;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The company Blindspot.si, which otherwise deals with e.g. the efficient use of space in transport containers or the optimisation of transport routes, used the election data of the Czech Statistical Office (https://www.volby.cz/opendata/opendata.htm ) in an innovative way to predict the presidential election results (https://volby.blindspot.ai/). The company wanted to test their model using artificial intelligence. Due to the high quality of the open data and the speed at which the Czech Statistical Office provides it, the voters had very precise election predictions at hand  instantly.
+We also wrote about the reuse case in an article published on the portal: https://data.gov.cz/články/výsledky-voleb-v-čr-aneb-když-otevřená-data-fungují-na-1.";;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"There is a non-profit organisation Czechitas that opens the world of IT to women. It educates them and helps them to change their careers. This organisation was a co-organiser of one of the regional hackatons in Brno that worked with the open data of the City of Brno.  https://www.czechitas.cz/hackuj-brno Czechitas also widely use the open data from the National Open Data Portal in their educational programmes.  
+The consulting company Dun & Bradstreet (https://www.dnb.com/cs-cz/) uses a large amount of open data in its products, which helps clients from large and small and medium-sized enterprises gain a competitive advantage on the market. It offers, for example, a rating proving the economic stability of companies to ensure quality suppliers and customers, information on existing and potential business partners, reducing the outflow of customers, or ensuring credit risk monitoring in real time. Businesses thus prevent negative events and ensure growth. The description of the reuse case and the used  dat sets is here: https://data.gov.cz/detail-aplikace?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fregistrovan%C3%A9-aplikace%2F22.";;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Open data is also used by the Carbonfix online platform for calculating the carbon footprint of companies (https://www.carbonfix.cz/). In this way, companies gain an overview of the sources of emissions and discover areas where they can innovate. The benefits of reducing carbon footprint include: implementing sustainable practices that lead to efficient use of resources and cost savings; companies that prioritize sustainability gain a competitive advantage in the market; the European Union provides subsidies for activities that help reduce the carbon footprint. All these points help to increase the productivity of companies that are part of the Czech economy. The description of the reuse case and the used data is here: https://data.gov.cz/detail-aplikace?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fregistrovan%C3%A9-aplikace%2F5.";;;

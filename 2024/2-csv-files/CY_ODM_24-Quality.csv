@@ -1,0 +1,131 @@
+;Dimension 3: Open Data Quality;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;3.1 Currency and completeness;;;;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;"PSBs are by law expected to publish their data catalogue annually. This process is overviewed by the PAPD Open Data Team. 
+Further, PSBs when publishing their datasets on www.data.gov.cy , indicate the updating frequency (daily, weekly, monthly, annually or periodically).";Confirm;;
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;<30%;"Currently all metadata are manualy editted.
+Our portal do not harvest any metadata"
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;The majority of datasets are published directly on the portal. For those PSBs that publish their date elsewhere and these are linked to the portal, the open data liaison officers are directed to update the metadata on the national portal within a day.
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;"On our portal there is a mandatory field for the frequency of the updating (daily, weekly, monthly, annually or periodically) to ensure and monitor that Public Bodies will update their datasets on time.
+Over times the Open Data team doing random checks on Datasets to ensure the fulfillment and the accuracy of metadata."
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"Regarding the DCAT-AP High Value Datasets tag, we have introduced the HVD's tags both in Greek and English ""Δεδομένα Υψηλής Αξίας"" and ""High Value Data"" on all datasets containing High value data.
+
+Challenging is to inform all Public Bodies to add the tag on their HVDs datasets in order for the resusers can easily recognise the HVDs datasets.
+The Open Data team on October 2022, had assigned to a Consulting Services Contractor the provision of support for publishing dynamic data and HVDs to Public Bodies (POs) relevant to the regulation (EU) 2023/138 on high-value datasets.On May 2023, the contractor gave us the final report and a separate report for each of the six Public Bodies, presenting an Action Plan for compliance with the regulation.
+
+"
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;
+;3.2 Monitoring and measures;;;;;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"Public Sector Bodies when publishing data on the National Open Data Portal are required to provide a number of mandatory metadata items. The internal mechanics of the portal are set in such a way that no dataset can be submitted for publication on the portal unless the mandatory metadata fields are completed. 
+The submitted dataset and the related metadata then undergo a quality review for:
+(a) Format compliance,
+(b) Metadata completeness,
+before being published on the portal.
+For more: http://www.data.gov.cy/user-roles-and-levels ";Change;Yes;"Public Sector Bodies when publishing data on the National Open Data Portal are required to provide a number of mandatory metadata items. The internal mechanics of the portal are set in such a way that no dataset can be submitted for publication on the portal unless the mandatory metadata fields are completed. 
+The submitted dataset and the related metadata then undergo a quality review for:
+(a) Format compliance,
+(b) Metadata completeness,
+before being published on the portal.
+URL: https://www.data.gov.cy/en/node/105
+"
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;https://bit.ly/3uAzhfW;Change;Yes;Open Dataset URL: https://www.data.gov.cy/el/dataset/deiktes-poiotita-metadedomenon-ethnikis-diadiktyakis-pylis-anoikton-dedomenon
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;"National Technical Guidelines Document 
+URL: https://www.data.gov.cy/en/techincal-guidelines
+PDF Presentation, available also for download
+URL: https://shorturl.at/foDFH"
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;"The National Portal follows the DCAT-AP 1.0 framework. A slight variation, with more mandatory classes than the EU standard, as well as optional DCAT-AP fields. 
+For practicality and for purposes of uniformity, two standardized usage licenses were chosen, specifically CC-BY 4.0 and CC BY-SA 4.0, from which public bodies can choose the most appropriate one during the process of publishing their datasets.
+
+Minimum Metadata - Mandatory fields (15 fields):
+Dataset Title, Description, Topics, Identifier (UUID), Groups/Organizations, License to Use, Language, Geospatial Coverage, Update Frequency, Start Date, Contact Link Name, Contact Link Email, Resource Title,Resource format, Access URL."
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;"According to Article 15 of the Cypriot Open Data and PSI Law: “Public sector bodies permit the re-use of documents, information and data through an open standard licence without any restriction, other than the obligation to provide acknowledgment of source and acknowledgment of whether the document, data or information have been modified in any way or impose conditions through obtaining a special individual licence or through imposing charges: These conditions shall not unnecessarily restrict possibilities for re-use and shall not be used to restrict competition”.
+URL: https://bit.ly/2s2dhgr 
+
+These licenses are named in the national Technical Guidelines to Publishers of Data and are the Creative Commons CC-BY 4.0 and CC- BY-SA 4.0
+URL: https://www.data.gov.cy/en/techincal-guidelines
+PSBs that publish their data on the National Open Data Portal are limited to choose between two standard licences (CC-BY 4.0 and CC- BY-SA 4.0), unless they get permission from the licensing authority to use a different  license."
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;1-4;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;"a. Open Data Days / Workshops
+b. Provision of Structured Training Program to Open Data Liaison Officer
+c. Provision of OnBoarding Program for new PSBs
+d. A series of easy-to-use Guides , which provide support and guidance to Public Bodies on how they can evaluate/select, prepare and publish data sets and technical guidlines. (https://www.data.gov.cy/el/ypostirixi-gia-dimosioys-foreis)"
+;3.3 DCAT-AP Compliance;;;;;
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;"The National Portal follows the DCAT-AP 1.0 framework.
+We have applied for a DCAT-AP verification from the European Data Portal.
+"
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);>90%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;"There is a slight national variation of the DCAT-AP. More precisely the national variation has more  mandatory classes than the EU standard. In other words some recommended classes, such as  ""frequency"" are mandatory under the national variation.
+The reason for doing so was to achieve uniformity for datasets published by the various Public Sectors Bodies on the National Open Data Portal. (for more see metadata section of the: http://www.data.gov.cy/technical-guidelines).";Change;Yes;"There is a slight national variation of the DCAT-AP. More precisely the national variation has more  mandatory classes than the EU standard. In other words some recommended classes, such as  """"frequency"""" are mandatory under the national variation.
+The reason for doing so was to achieve uniformity for datasets published by the various Public Sectors Bodies on the National Open Data Portal.
+URL: https://www.data.gov.cy/en/techincal-guidelines"
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;Yes;Distribution errors (codes 404, 500)
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;31-50%;N/A;Confirm;;N/A
+;3.4 Deployment quality and linked data;;;;;
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;The 5-star model is adopted through the National Technical Guidelines for publishing datasets on the portal. As a general rule only datasets with a 3-star rating or above, are published on the portal. Exceptions are allowed only in the case that the publishing PSB provides a plan for the provison of those datasets in a 3-star rating (see national technical guidelines).;Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;The 5-star model is part of the Structured Training Programme provided to the Open Data Liaison Officers.;Confirm;;
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;>90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;>90%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;10-30%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;Confirm;;N/A

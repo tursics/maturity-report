@@ -1,0 +1,315 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;https://datos.gob.es;Complement;Yes;We are currently in full development of a new platform that is planned to be launched publicly in December 2024. The objective of evolving the components of the current platform that improves its functionality, usability and accessibility, and responds to the obligations established by current regulation in Europe regarding open data, especially within the scope of the Directive. (EU) 2019/1024 of the European Parliament and of the Council and the DCAT application profile for metadata catalogs in its latest consolidated version. To this end, the “Advanced Service for the new data.gob.es platform” has been put out to tender for 4 years. The file number is: 024/23-SI for a value of 2,305,761.39 euros. See here: https://contrataciondelestado.es/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfIjU1JTC3Iy87KtUlJLEnNyUuNzMpMzSxKTgQr0w_Wj9KMyU1zLcvQjk0qKSr3K3bxSc1ydAoKcKqJ M8rxUDdJtbfULcnMdATu3a7M!/
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Complement;N/A;Drupal (CMS) + CKAN (DMS)
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;https://datos.gob.es/en/apidata
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;https://datos.gob.es/en/sparql
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;https://datos.gob.es/en/accessible-apidata
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;https://datos.gob.es/en/accessible-sparql
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"The functionalities for contributing datasets are the same as for any public sector publisher.
+
+Most published datasets come from public sector entities. However, a group of researchers - Foundation for the Promotion of Health and Biomedical Research of the Valencian Community (FISABIO), listed as a private entity in the portal's faceted search engine- publishes a dataset of semantically enriched medical images from its research activities. 
+
+https://datos.gob.es/es/catalogo?_publisher_display_name_limit=0&publisher_display_name=Fundaci%C3%B3n+para+el+Fomento+de+la+Investigaci%C3%B3n+Sanitaria+y+Biom%C3%A9dica+de+la+Comunitat+Valenciana+%28FISABIO%29
+
+On the other hand and along the same line, another group -Mondragon University-contributes 94 datasets from a project on intelligent systems and IoT.
+
+https://datos.gob.es/es/catalogo?_publisher_display_name_limit=0&publisher_display_name=Universidad+de+Mondrag%C3%B3n
+
+It is expected that citizens or new entities from private sector will soon join with datasets of research projects, among others."
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"The “Report on” section permits queries about data, communicating examples of re-use applications or companies, new open data initiatives and any suggestions and improvements to the portal: https://datos.gob.es/en/report 
+The Aporta Initiative permanently encourages users to participate and form part of the open data community promoted by datos.gob.es. This video invites you to be part of the community: https://youtu.be/x0jSL7CDYJo ";Confirm;;
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"Users who visit each dataset have the “Add new comment” functionality at their disposal to submit comments or incidents about the dataset. These comments go directly to the data publishers who are responsible for providing the relevant response. The following URL shows an example dataset with comments and publisher response: 
+https://datos.gob.es/en/catalogo/e05068001-precio-de-carburantes-en-las-gasolineras-espanolas 
+It is also possible to include comments in any other editorial content. These comments are addressed directly to the support team for give feedback to users. ";Confirm;;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"This functionality is available for each dataset along with comments. To the left of the “add new comment” button, there is a button that allows the user to indicate that they like that dataset. This information is collected in the dashboard for registered users and offers a ranking of the data sets based on the number of votes. 
+See evidence: 
+https://datos.gob.es/sites/default/files/datosgobes/dimension3_evidenciapregunta_66c.png";Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"https://datos.gob.es/es/noticias
+https://datos.gob.es/en/blog
+https://datos.gob.es/es/boletines";Complement;Yes;"During the last 12 months, specifically, for the period May 2023-May 2024, the production of content has been very abundant. As an example:
+75 expert notes: https://datos.gob.es/es/blog/fecha/past_month
+27 news related to the sector: https://datos.gob.es/es/noticias/fecha/ultimo_anyo
+11 reports/infographics or data science exercises: https://datos.gob.es/es/documentacion/fecha/ultimo_anyo
+20 fortnightly bulletins with news: https://datos.gob.es/es/boletines/fecha/ultimo_anyo"
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes; https://datos.gob.es/feeds/dataset.atom;Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"Queries and requests concerning data that users can not find in the catalogue can be submitted through the form: https://datos.gob.es/en/informa-sobre/peticion-datos.  
+These requests are assigned to the public bodies with competence in relation to the data request made, so they can be published, if possible, or included in their open data plans/roadmaps.  
+Likewise, any user can join a request already made by clicking on the “Join the request” button, which appears in each of the required datasets. Example here: https://datos.gob.es/es/peticiones-datos/precios-diarios-actualizados-de-los-supermercados";Complement;Yes;"Another example including a response from the publisher to the request indicating the URL of the availability of the requested data:
+
+https://datos.gob.es/es/peticiones-datos/datos-sobre-citricos"
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"All requests are public and are managed through the Data Availability section. See at the following URL: https://datos.gob.es/en/peticiones-datos.  
+
+The user can track the requests made, since this section shows the requests made, their processing status (received, assigned, under study, programmed, published, ...) and the final result with the data published or the reason why the request was denied. ";Confirm;;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;"Dataset requests are managed through a workflow that permits changes between the different states of a request at any given time (the states are: received, assigned, under study, programmed, published, not feasible, partially published). Each publisher modifies the status of each request they receive based on their actions. The “Published” state is reached when the data has already been published and is available to users. Until now 88 new datasets was released after requests. Listed in next link: 
+https://datos.gob.es/en/peticiones-datos/estado/publicado-1980";Complement;Yes;During the last year, a task has been carried out to store historical information with the objective of presenting only the most up-to-date information. The cut-off point is 01/01/2021, so that from that date to the present, the number of new data requests answered has been 31. https://datos.gob.es/es/peticiones-datos/estado/publicado-1980
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;The comments area -available for each dataset or in the ‘data availability’ section-, in addition to functioning as a feedback channel, allows users to establish a discussion forum. See this example in the comments area of this data request: https://datos.gob.es/en/peticiones-datos/cobertura-de-banda-ancha-nivel-de-entidad-singular, which shows the interaction between users and publisher whose response is the publication of the requested data set. ;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;"https://datos.gob.es/en/aplicaciones
+https://datos.gob.es/en/casos-éxito";Complement;;During the last 12 months, specifically, for the period May 2023-May 2024, the production of cases and applications has increased significantly. Specifically, 23 solutions have been included in the application catalog and 10 new business models have been documented in the company catalog. In total we have 453 applications and 90 companies that reuse open data.
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;"The fact sheet for each application -and reuse companies too- has a field for indicating the URLs of the data sources. For example: https://datos.gob.es/en/aplicaciones/debesaberlo
+
+Likewise, the step-by-step visualisations section, inform about the open data used for its implementation. An example can be seen at the URL: https://datos.gob.es/en/documentacion/analysis-toxicological-findings-road-traffic-accidents";Complement;Yes;Another example: https://datos.gob.es/en/aplicaciones/contratosmenoreses
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;Through the “report on” section (https://datos.gob.es/en/report) and completing the form: https://datos.gob.es/en/informa-sobre/aplicaciones ;Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";no;;Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";no;;Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"The national catalog ""datos.gob.es"" is going to undergo a deep remodeling and adaptation of the technological platform. The aim is to broaden its scope beyond open data to include, in general, all types of activities and communities related to the creation of value around data.  A previous consultancy has been carried out to set the scope of the project where the figure of high-value datasets is highlighted. In the mock-up, the high-value datasets are presented under a differentiated menu entry, a direct access in highlighted topics and the possibility to be set as filter criteria. Meanwhile, as an easy measure to implement and on a transitional basis,  high-value datasets are being tagged with the ""HVD"" tag using ""keyword"" metadata. 
+
+Beyond the technical adjustments, a series of analyzes are being prepared and published aimed at identifying the high-value data available in Spain:
+• Statistical data: https://datos.gob.es/es/blog/high-value-statistical-datasets-foreseen-national-statistical-plan-2021-2024
+• Geospatial data: https://datos.gob.es/es/blog/complying-europe-inspire-and-high-value-geospatial-assemblies-regulation
+• Earth observation and environmental data: https://datos.gob.es/es/blog/cumpliendo-con-europa-el-reglamento-de-conjuntos-de-alto-valor-de-observacion-de -the-earth-and
+• The contents related to the rest of the high-value categories will be published soon, currently available here: https://datos.gob.es/sites/default/files/datosgobes/evidencia_2/evidencia2.png;
+https://datos.gob.es/sites/default/files/datosgobes/evidencia_2/evidencia3.png"
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;"The main web analytics tool is Google Analytics. In addition to the indicators the tool incorporates by default, it has been parameterised by implementing the following custom reports: 
+
+1.ADQ - User origin by channel 
+2.ADQ - Overview according to visitor type 
+3.ADQ - Ratio of new users vs recurring/source 
+4.ADQ - Ratio of new users vs recurring/channel 
+5.INTERACTION - Number of form submissions 
+6.INTERACTION - Number of registrations and cancellations in the newsletter 
+7.INTERACTION - Most searched terms 
+8.INTERACTION  - No. of catalogue views (grouped) 
+9.INTERACTION - Number of catalogue views 
+10.INTERACTION - Number of accounts created by organisation 
+11.INTERACTION - Number of documents uploaded (by sectors) 
+12.INTERACTION - Pageviews by content type 
+13.CONVERSION - Number of downloads (documents) 
+14.CONVERSION - Number of downloads (api) 
+15.CONVERSION - Number of downloads (sparql) 
+16.CONVERSION - Number of accesses to external resources 
+17.CONVERSION - Number of discharges (control panel) 
+18.CONVERSION - Report 11 to 15 
+19.LOYALTY - % recurring users 
+20.VISITS PER HOURS 
+
+The public information collected in the previous reports is summarised in the public dashboard available on the portal at the URL: https://datos.gob.es/en/dashboard ";Complement;Yes;An exhaustive analysis is carried out monthly that collects the results of numerous user interaction metrics with the national catalog and with the rest of the content published on data.gob.es. The report collects and analyzes more than 50 KPIs. Below is a view of some of the graphs referred to in the report corresponding to April 2024: https://datos.gob.es/sites/default/files/datosgobes/evidenciaportalpregunta23.pdf
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Change;Yes;Using Google Analytics, a custom report has been defined that measures the use of the API. Since usage is low, this metric is being used to design better documentation and new usage examples to incorporate into the new platform currently being developed.
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;"In addition to the aforementioned web analytics tool (Google Analytics), the following are used: 
+
+- Twitter Analytics 
+- LinkedIn Analytics 
+- Talkwalker for social impact measurement 
+- Hotjar for web analytics and usability 
+- SEMrush for SEO positioning monitoring 
+- Google Data Studio as a data visualisation tool ";Complement;Yes;This information about the interactivity performance of our users is used in our weekly monitoring meeting to optimize the engagement strategy followed on social networks and in the portal's content management. In addition, we periodically carry out a survey of data publishing users to understand their user experience of the portal, which allows us to identify their frequency of access, most relevant sections, functionalities to improve or proposals for new content.
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;We are currently in full development of a new platform that is planned to be launched publicly in December 2024. The feedback from our users is allowing us to redesign functionalities that will improve the user experience on the platform. Among others, we will improve the relationship between reuse cases and their datasets
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;"With the aim of identifying new content for the portal as well as attracting new publishers:
+
+- Information campaigns specifically aimed at the network of open data managers.
+- Biweekly newsletter with the latest news on open data, to which many of these managers subscribe.
+- Monthly meeting of the Data Group of the General State Administration in which, among others, new topics on open data are discussed.
+- Sectoral meetings with those responsible for open data of the autonomous communities.
+
+With the aim of expanding the community of open data reusers, throughout the reference period, the data.gob.es team has participated in the following events in person:
+
+- II Encuentro Nacional de Datos Abiertos (14 de septiembre de 2023) https://www.aragon.es/-/ii-encuentro-nacional-de-datos-abiertos
+
+- Primer Encuentro Nacional de Oficinas del Dato (20 de noviembre de 2023) https://www.silicon.es/primer-encuentro-nacional-de-oficinas-del-dato-celebrado-en-navarra-2490899
+
+- VI Jornada de Transparencia y Datos Abiertos (29 de noviembre de 2023) https://www.consejodetransparencia.es/ct_Home/dam/jcr:18949dc5-752d-4861-97b8-ef8ae80da821/VI_JORNADAS_DE_TRANSPARENCIA_Y_DATOS_ABIERTOS.pdf
+
+- Conferencia Asedie sobre Reutilización de la Información del Sector Público (12 diciembre de 2023) https://www.asedie.es/es/conferencias/12-edicion-xmf8l-nh56y-8tfdr
+
+- Jornada de Gobierno Abierto en la Administración local (29 de febrero de 2024) https://laadministracionaldia.inap.es/noticia.asp?id=1514742
+
+- Presentación 12ª Edición del Informe ASEDIE La Economía del Dato en su ámbito Infomediario (2º de marzo de 2024) https://static1.squarespace.com/static/600a99c4d2a8133c3599fc67/t/65fda87fecd8912292b68e71/1711122560423/Programa+Presentaci%C3%B3n+Informe+ASEDIE+2024+VF+%281%29.pdf
+
+- III Encuentro Nacional de Datos Abiertos (31 de mayo de 2024) https://www.dipcas.es/es/iii-encuentro-nacional-de-datos-abiertos.html
+ 
+- Semana de la Administración Abierta 2024 (el 10 al 16 de junio de 20) https://transparencia.gob.es/transparencia/transparencia_Home/index/Gobierno-abierto/sensibilizacion-formacion/SemanaAA.html"
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;"Regarding the contents of the portal, different analyzes are carried out, one of them is the analysis of the search terms made by users through the ""Solr"" search engine. The result of this analysis allows us to know if the searched terms are linked to datasets or content. In both cases, it allows us to assess interest and decide whether to highlight datasets on the portal's home page or promote the publication of related content."
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;From Google Analytics, data is obtained on different indicators related to content that feed a report prepared on 'Locker Studio' that, among others, measures the number of accesses to portal pages, distinguishing catalog pages (datasets) from editorial content. These indicators are used to update featured content on the home page as well as the contents of the biweekly newsletter to which portal users are subscribed.
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;"On the home page of http://datos.gob.es (Featured section) there is a content carousel that is updated weekly to report on the five outstanding new features of the portal. 
+Likewise, new editorial content (news, events, guides and reports) is broadcast on Twitter and Linkedin. 
+A biweekly newsletter is also generated to inform followers of the latest news about published content and featured datasets.
+When searching the data catalogue, recently added datasets appear by default, making it easy for users to discover them. 
+On the other hand, improvements have been introduced in the faceted search mechanism, in such a way that it is possible to combine and/or order criteria alphabetically or quantitatively.  
+In the audits carried out on publishing organisations regarding the quality of their data publications, improvements in metadata management are proposed to make better use of existing search options: themes, labels, formats, free text, etc. Datasets available for the most reused formats have been included on the home page: CSV and APIs.  
+In addition, the specific content of each sector  (Environment, Culture and Leisure, Education, Transport, Health & Wellness, Tourism, Justice and society) is permanently updated, as can be seen in this example: : https://datos.gob.es/en/sector/medio-ambiente";Confirm;;
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;"Each fact sheet on each dataset details all the metadata adjusted by the data publishers, as can be seen in the following dataset example: https://datos.gob.es/en/catalogo/l02000048-sendas-ciclables1
+
+The same information can be obtained in CSV, XML, JSON, Turtle, RDF/XML format by clicking on the corresponding icons on the page of each dataset. Likewise, through content negotiation, it is possible to obtain the RDF/XML version of the data sheet by adding the ‘.rdf’ extension to the URL access dataset. For example: https://datos.gob.es/en/catalogo/l02000048-sendas-ciclables1.rdf";Confirm;;
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;The portal mainly publishes open data from all levels of public administration (State, Regional and Local Administration, Universities, Other Institutions from Public Sector too).  The incorporation of public sector initiatives is progressive under current legislation, occurring to a greater extent at the State and Regional levels (75% of the total datasets).  At the local level, Spain has numerous municipalities with less than 10,000 inhabitants that do not have the technical or personal resources to publish open data. However, 18% of the publishers come from the local level.  On the other hand, the number of initiatives in the field of Public Universities is progressively increasing (currently 14 with 2% datasets).  During 2022, 9 new data initiatives belonging to the public sector have been added to the national catalogue. (December 2021, there were 161 publishers - December 2022, there were 170 publishers).;Complement;The majority of public sector data providers;"In May 2024, the distribution of publishers is: 263 publishers, 99% public sector (42% national level; 35% regional level; 17% local level; 1% pubic universities; 4% others; 1% private sector)."
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Change;Yes, or all public sector data providers already publish data;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"When a new open data initiative arises at any level of the public sector, a first contact is established to publicise the Aporta initiative and offer technical information on how to carry out a data federation process through datos.gob.es and data.europa.eu. During 2022, we celebrate 29 virtual meetings (from 697 interactions of different types, with 130 publishers). 
+
+The support service is focused on advising and helping organisations to publish their data openly and reference them through datos.gob.es: https://datos.gob.es/en/advice-and-support. This service also acts proactively, approaching data publishers to perform metadata quality audits and make proposals for new sets of data of interest that can be published on datos.gob.es. See evidence here: https://datos.gob.es/sites/default/files/datosgobes/dimension3_evidenciapregunta_92b_113a.jpg ";Complement;Yes, or all public sector data providers already publish data;We update the number of interactions: from 01/01/2023 to 05/28/2024, 926 interactions of different types have been carried out with 173 different organizations. 32 have been virtual meetings
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;There are numerous open data portals launched by various local initiatives. The portals of the largest cities are federated with the national catalogue datos.gob.es. On the other hand, all regional portals are federated. So far, we have identified 250 open data initiatives at local and regional level (231, local and 19 regional).;Complement;Yes;We update the number of initiatives different from the national portal. On 05/28/2024 there are 312 initiatives. The reference to each one can be found at this URL: https://datos.gob.es/en/iniciativas
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;"A list of the 313 existing open data initiatives to date can be found in the ‘Initiative Map’ section available at URL https://datos.gob.es/en/accessible-initiatives Local Administration (231) ; State Administration (45); Regional Administration (18); Universities (17) and other institutions (1).";Complement;Yes;"We update the number of initiatives different from the national portal. On 05/28/2024 there are 312 initiatives: Local Administration (231) ; State Administration (44); Regional Administration (19); Universities (17) and other institutions (1). The reference to each one can be found at this URL: https://datos.gob.es/en/iniciativas"
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";the majority of datasets;At regional level, from 18 intiatives, 16 (89%) perform automatic federation in the national catalogue.  At the local level, 231 initiatives are identified in Spain. Of these, 50 - the municipalities with the largest number of inhabitants - federate their data at datos.gob.es, 35 of which (70%) do so automatically. In terms of the number of datasets, 39% of the datasets published in the national catalogue come from the regional sphere and 18% come from local entities. ;Complement;The majority of datasets;"We update data to May 2024:
+- 20 regional initiatives contribute 42% of the total data available in the national catalog. 99% are datasets automatic harvested.
+- 102 regional initiatives contribute 17% of the total data available in the national catalog. 99% are datasets automatic harvested."
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;"The faceted browser provides two options for obtaining datasets in real time: 
+- On the one hand, it is possible to filter the update frequency of the datasets. Of the possible options, datasets that have a continuous update frequency of less than 5 minutes are considered real time or near real time. The datasets in this category include the following: Continuous (119) ; Every 1 minutes (139) ; Every 2 minutes (3) ; Every 5 minutes (6)  
+- On the other hand, the faceted search engine makes it possible to filter the data provided by APIs or web services that typically link data served in real time. This filtering by format uses an icon to differentiate data accessible via API or OGC web services (WMS, WFS). 
+In addition, a highlight of the latest data sets that offer data via API or web services has been incorporated into the home page. See evidence: https://datos.gob.es/sites/default/files/datosgobes/dimension3_evidenciapregunta_94a.png 
+- Finally, to encourage the publication of data in real time, a guide has been published to explain to publishers the use of APIs to offer quality dynamic data: https://datos.gob.es/en/documentacion/practical-guide-publishing-open-data-using-apis ";Complement;Yes;"Some examples of datasets cataloged in the national portal with quasi-real-time update frequency (every 5 minutes o everu 1 minute): https://datos.gob.es/es/catalogo?_frequency_limit=0&frequency=%7B%22type%22%3A+%22minutes%22%2C+%22value%22%3A+%225%22%7D ; https://datos.gob.es/es/catalogo?_frequency_limit=0&frequency=%7B%22type%22%3A+%22minutes%22%2C+%22value%22%3A+%221%22%7D"
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;Yes;The portal allows you to filter datasets published by public bodies and by private entities. Some examples: https://datos.gob.es/es/catalogo?_frequency_limit=0&_administration_level_limit=0&administration_level=P
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;Users have access to data requests that publishers declare to be non-viable, indicating why the data is not published: See evidence: https://datos.gob.es/es/peticiones-datos/estado/no-viable-1977. ;Confirm;;
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;The national datos.gob.es catalogue is part of the actions that make up the Spanish government’s ‘Aporta’ initiative on open data. The national strategy is seen as a public policy with funds from the administration itself for its management and support.  This sustainability is based on the current agreement (C-003/19-ED) between the General State Administration, through the current Ministry of Economic Affairs and Digital Transformation, and the public business entity Red.es to promote the opening and the re-use of public sector information. The duration of the Agreement extends until mayo de 2028,  See information here: https://datos.gob.es/sites/default/files/datosgobes/dimension1_2023_evidenciapregunta_17a.png
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"The following URLs indicate the presence of the social media initiative: 
+
+https://twitter.com/datosgob 
+https://www.linkedin.com/organization-guest/company/datos-gob-es 
+https://www.youtube.com/user/datosgob 
+https://github.com/datosgobes
+https://es.slideshare.net/datosgob 
+https://www.flickr.com/photos/datosgob/ ";Complement;;In the coming months, dissemination activity will begin on Instagram. We are currently finalizing the image to use. See here: https://datos.gob.es/sites/default/files/datosgobes/dimension1_2024_evidencia_p4.png
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;"The initiative has an organisation account on Github where different repositories are available with information and useful code for implementing open data portals, vocabularies or data re-use.  
+https://github.com/datosgobes 
+Specifically, the source code of the datos.gob.es portal is available in the repository: 
+https://github.com/datosgobes/datos.gob.es ";Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;"The portal has two types of dashboards: 
+- Public, which reports on general aspects of the portal through indicators such as: visits to datos.gob.es, initiatives, applications and re-use cases published, published data sets, data sets by administration level or by category, most visited data sets, distributions by format, etc. at the URL: https://datos.gob.es/en/dashboard 
+- Private, available to each publisher and administrator of the portal, which they can consult, among other indicators: the evolution of visits to datos.gob.es by sections; evolution of data sets by level of administration; evolution of data sets by agency; volume of data sets according to the number of distributions; most voted datasets; number of published contents; number of votes for published content; evolution of publishing bodies, by level of administration, by form of updating; active user accounts by organisation, etc. 
+See evidence: 
+Public dashboard: https://datos.gob.es/sites/default/files/datosgobes/dimension3_evidenciapregunta_105b_1.jpg 
+Private dashboard: https://datos.gob.es/sites/default/files/datosgobes/dimension3_evidenciapregunta_105b_2_0.png ";Confirm;;
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;"In addition to the dashboard mechanisms mentioned above, the portal has a backoffice that allows certain actions to be carried out by publishers to be monitored. These actions allow publishers to take action on the feedback they receive. The most relevant functionalities available are: 
+- federation management console, through which publishers manage and schedule automatic data federation (harvesting) tasks. 
+- check for broken links. This functionality allows publishers to see the results of the periodic broken link checks that the platform performs on the availability of the distributions published. 
+- data availability, which makes it possible to manage data requests received by publishers, providing feedback to users and changing the status of each request based on the availability of new datasets. 
+- comment management, to respond to comments on data sets received from users. 
+- user management, which allows publishers to maintain user accounts authorised to interact with the portal. 
+This video explains the backoffice for publishers: https://www.youtube.com/watch?v=5v3oHbwrL8I&t=2s";Confirm;;

@@ -1,0 +1,242 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";no;;Confirm;;;;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";no;;Confirm;;;;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";no ;;Change;Yes;The Operating Model for Sharing Data includes guidance and instructions for monitoring re-use in Chapter 8: https://www.avoindata.fi/en/operating-model/8-monitoring-data-use;;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;;;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"In the report ""Use and impacts of open data"" (published 2017 by the Prime Minister´s Office) researchers assessed the economic impacts of open data in Finland and proposed concrete means how to enhance the impact of open data in our society (https://tietokayttoon.fi/documents/10616/3866814/40_avoimen+datan+16032017.pdf/0444467d-5400-4f0c-8728-2447cef039ad/40_avoimen+datan+16032017.pdf?version=1.0&t=1489650786000). As an example form sector specific definition: The aims for opening non confidential social and health data have been defined. The aims are to support public welfare and to provide business opportunities.";Confirm;;;;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;Opendata.fi uses the STEEP analysis methodology to measure the social, technological, economic, environmental and political impact of open data.;Confirm;;;;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"HRI Loves Developers meetups organized by the City of Helsinki: https://hri.fi/fi/ohjeet/datan-hyodyntajalle/kehittajayhteistyo/, 
+HRI collaborates with the Universities and Universities of Applied Sciences in Helsinki Region: https://hri.fi/fi/hrin-vuosi-2020-verkkotapahtumia-ja-mielenkiintoisia-data-avauksia/ and https://hri.fi/fi/hrin-vuosi-2021-avoimen-datan-arkea-ja-juhlaa/. In addition Sitra IHAN https://www.sitra.fi/en/projects/ihan-business-programme/.";Confirm;;;;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;Yes;"Matomo web analytics regarding hri.fi open data portal (e.g. hri.fi/data/en_GB/statistics)
+
+Opendata.fi portal has implemented tools for monitoring the re-use of datasets for dataset providers";;;
+I8-b;Surveys;new question;new question;Change;Yes;Helsinki Region Infoshare’s annual user survey: https://hri.fi/fi/hrin-kayttajakysely-2024-hyva-etta-olette-olemassa/;;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;"Helsinki Region Infoshare’s regular open meetups https://hri.fi/fi/ohjeet/datan-hyodyntajalle/hri-loves-developers-tapahtumat/ 
+
+";;;
+I8-d;Other;new question;new question;Change;Yes;Open data from the Finnish Environment Institute Syke (https://www.syke.fi/en-US/Open_information) has been available for nature conservation, land use and urban planning 2008 onwards. Syke collects data on the amount of downloaded data packages and web map service queries in its Open data service. These numbers are not publicly available. Data is published in several repositories and services. When, for example the Zenodo repository is used, it provides open information on downloads of data:  https://zenodo.org/communities/syke/records?q=&l=list&p=1&s=10&sort=newest ;;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";Yes;N/A;Change;Yes;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;No;;;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;;;;
+I9-c;Other;new question;new question;Change;Yes;"Helsinki Region Infoshare’s annual user survey: https://hri.fi/fi/hrin-kayttajakysely-2024-hyva-etta-olette-olemassa/ 
+Helsinki Region Infoshare’s survey for the employees of the City of Helsinki https://hri.fi/fi/helsingin-tyontekijoista-harva-tuntee-hrin-mutta-kokemukset-hyvia/; data: https://hri.fi/data/en_GB/dataset/helsinki-region-infoshare-palvelun-kayttoa-koskevan-kyselyn-vastaukset 
+";;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";Yes;Helsinki Region Infoshare collects showcases (https://hri.fi/data/en_GB/showcase). Open data users can add their own showcases using a form.;Confirm;;;;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";No;;Confirm;;;;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";Yes;"RESPONSE: Good point. In the evaluation of the state aid reform, the effects of the reform have been discussed from the point of view of transparency and utilization of information, but it is more of a qualitative assessment than a quantitative study. 
+
+Example: ""From the point of view of citizens, the clear positive effect of the reform of state aid activities can be considered to be that increasing the openness and transparency of information about state aid promotes the realization of the openness of administration and the principle of publicity included in fundamental rights. In particular, increasing the transparency of information about state aid improves the possibilities of monitoring the use of public power and funds. Increasing transparency also improves citizens' participation rights.""
+
+In this report, on the other hand, quantitative data on the effectiveness of open data has been collected, but the focus has been more on the business perspective: https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160261/Avoimen_datan_hy%c3%b6dynt%c3%a4minen_ja_vaikuttavuus.pdf?sequence=1&isAllowed=y";Change;No;;;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;The service for assessing the situation of blue-green algae has been produced through collaboration between several organizations and is based on openly available data. As a result, there is a service that even citizens can use to check whether it is safe to swim in a specific water body. It supports municipal actors in organizing swimming opportunities for citizens.  https://www.vesi.fi/sinilevatilanne/;;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Syke website and open services provide up-to-date information on available data and various ways to access the data, as well as their terms of use. Additionally, we maintain a registry related to environmental monitoring. In addition to basic information, you can also find information, for example, on which directive the monitoring is related to. Syke website on Open information and data: https://www.syke.fi/en-US/Open_informationOpen spatial datasets: https://www.syke.fi/en-US/Open_information/Spatial_datasets/Downloadable_spatial_dataset Data sources for monitoring: https://www.syke.fi/fi-FI/Avoin_tieto/Seurantatiedot Register of monitoring data: https://ckan.ymparisto.fi/fi/
+
+https://www.tutkihallintoa.fi/ Tutkihallintoa.fi website contains detailed open datasets on local government economy (municipalities and welfare counties). This data is used by journalists and researchers. Example of a consultant interviewed by a reporter, the consultant used open data from tutkihallintoa.fi to question and criticize cost-cutting measures made by welfare counties: https://yle.fi/a/74-20056092
+
+
+
+";;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;Syke’s open environmental information systems one aim is to support governance management and policy formulation. For example, Liiteri is a service that includes land use planning and built environment data resources for policy planning: https://www.syke.fi/fi-FI/Avoin_tieto/Ymparistotietojarjestelmat;;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;Syke’s open Hertta environmental system provides information for administration to support public administration in their daily decisions, and planning, as well as implementation duties. The Hertta provides open data on, e.g., water resources, the state of surface waters, groundwater, species, and environmental pollution.  https://www.syke.fi/fi-FI/Avoin_tieto/Ymparistotietojarjestelmat;;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";no;;Change;Yes;"Assessing the evolution of educational accessibility with self-avoiding random walk: insights from Helsinki; research study https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00581-4; https://hri.fi/data/fi/showcase/assessing-the-evolution-of-educational-accessibility-with-self-avoiding-random-walk-insights 
+
+Research article on the use of open data in education and its benefits for students: 
+https://unlimited.hamk.fi/ammatillinen-osaaminen-ja-opetus/avoimen-datan-hyodyntaminen-opetuksessa-ja-tutkimuksessa/ ""On selvää, että avoin data tarjoaa selkeitä mahdollisuuksia ennen kaikkea IT-alan opiskelijoille. He pystyvät hyödyntämään avointa dataa rajapinta-, tietokanta-, sovelluskehitys- ja analytiikkaharjoituksissa ja projektitöissä sellaisenaan. On kuitenkin tärkeää ymmärtää, että avoin data ei tarjoa mahdollisuuksia ainoastaan heille, vaan myös lähes kaikkien alojen opiskelijoille."" ";;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;;;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;;;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Social welfare datasets by the National Welfare Administration are available at opendata.fi as well as tietotarjotin.fi. The National Welfare Administration has helped DigiFinland Oy (a government owned enteprise set up to help healthcare providers tackle various digitalization challenges) in creating different kinds of information views and specialized datasets to aid healthcare providers in their decision-making processes.
+
+https://laakarihinta.fi/ Lääkärihinta.fi-service was released in 2015 with a goal to make health services more price transparent. With lääkärinhinta.fi you can compare the price of doctors, dentists, MRI scans and vets easily https://www.avoindata.fi/data/en_GB/showcase/laakarihinta-fi";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"1. Information literacy and evidence-informed decision-making (LITERACY) strategic reseach programme (https://www.aka.fi/en/strategic-research/strategic-research/strategic-research-in-a-nutshell/programmes-and-projects/literacy/) with its projects seeks solutions to how information can be used critically and constructively to support both individual and societal decision-making and actions. _x000D_
+2. A case of open data's effects to a curricula, ""Open data challenges the curriculum"", was a sub-ject of academic interest as well (https://finna.fi/Record/theseus_laurea.10024_702839). _x000D_
+3. Specific educational materials are available to support the use of open data in different levels of education: https://finna.fi/Record/aoe.1952";;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";yes;"The Finnish Meteorological Institute provides most of its datasets open, free of change, in WMS format and some in Amazon AWS S3 format through the FMI Open Data Services since 2013. More information on the FMI website: https://en.ilmatieteenlaitos.fi/open-data. 
+
+An impact study focusing on data usage in 2018 and a user survey on the FMI Open Data Services was conducted in 2019 which proved the value of open data information for business, public sector, and citizens. According to the study, FMI open data has a significant impact on business. 14% of the private company respondents said that FMI open data have generated new business during last 3 years (N = 389; 14 % of 389 = 54 companies). 
+
+User survey and impact study results
+
+Use of open meteorological data through the FMI Open Data Services:
+- Most users use interpolated timeseries
+- Large datasets are disseminated via AWS and it’s important for heavy users
+- Timeseries API is crucial
+- Summer is the busiest time of the year (three times more data requests)
+- Removing of API-key increased significantly data requests
+- Guidelines and manuals were used by approx. 60% of the users
+- 25% of respondents use FMI open data with other open data  
+- Four top datasets cover over 3/4 of requests:
+o Station specific weather observations
+o Weather forecast model HIRLAM (production was terminated in late 2022)
+o Lightning strikes
+o Weather radar images
+
+Users of the FMI Open Data Services:
+- Over 60% of users couldn’t be recognized. However, 80% of recognized users were companies and only 6% from public sector. 
+- The companies requested mostly weather forecasts and surface observations and public sector used a lot of road weather observations
+
+FMI Open Data Services is used for example in:
+- teaching students in the elementary and high school
+- water supply and waste management services, especially for forecasting waste-water flow 
+- displaying real-time and historical marine weather data as background information in our services for the users
+- estimating solar power production
+
+Access to FMI Open Data Services
+
+Access to FMI open datasets through the web interfaces:
+• Discovery Service (a.k.a. Catalog service) providing metadata about the available data sets and services, implemented using the OGC Catalog Service for Web (CSW),
+• View Services giving a visual preview of the available data sets, implemented using OGC Web Map Service (WMS), and
+• Download Services providing a continuous online access to the most up-to-date data, implemented using OGC Web Feature Service (WFS).
+
+More technical guidance about the FMI Open Data Services: https://en.ilmatieteenlaitos.fi/open-data-manual. 
+
+RESPONSE: We accept the transfer of this evidence to questions Q55 and Q51-54. Unfortunately, we found it difficult to find some other evidence to this question. There is a study on the utilisation of open data in circular economy business but we are not sure if it fits here. Link: https://storage.googleapis.com/turku-amk/2019/08/tuamk-kiertotalouden-avoimen-datan-ratkaisut-raportti.pdf";Confirm;;;;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"https://helda.helsinki.fi/server/api/core/bitstreams/b28ede71-d3c5-42b9-889a-02f96ab51a7b/content Using openly available ALS data and National Land Survay of Finland’s (NLS’s) topographic database a forest trafficability map was developed (hereafter referred as to the static trafficability
+map; more details in method section) for supporting wood procurement planning. The static trafficability map describes the season when the harvesting operations may take place without causing significant damage to soil using standard logging machinery (harvester, forwarder). Dataset: https://www.maanmittauslaitos.fi/en/maps-and-spatial-data/datasets-and-interfaces/product-descriptions/topographic-database";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"
+For Helsinki region: https://hri.fi/data/fi/dataset/helsingin-keskustan-rakennusten-sisaankaynnit-ja-portit & https://forumvirium.fi/tietorahti-pilotti-helsinki/ An automated transport pilot, Home-on-Demand, carried out at shopping centre REDI showed that transport modes such as this are close to achieving commercial potential. All 86 orders placed by K-Supermarket Redi’s customers made it safely to their destination in high-rise building Majakka, transported by a robot. In the long run this technology can save time and energy from using traditional delivery methods, e.g. cars.
+Furthermore, the pilot created demand for other types of deliveries and work for a robot in this residential building and the shopping centre. Having multiple functions and larger volumes might soon make the use of a robot financially viable. The service used, among others, the Helsinki region open dataset on the entrances and gates of buildings. 
+
+https://app.powerbi.com/view?r=eyJrIjoiMTJiYTViMjktMTk4Zi00ODkxLTgyZWUtYmQ4ZjQ1NTQ2ODIwIiwidCI6ImM4NTBmZTljLWI0NmMtNGIyZC1iODYzLTAxZmEyYTg5ODA2OCIsImMiOjh9&pageName=ReportSection Finland's waste management visualised: https://www.avoindata.fi/data/en_GB/showcase/suomen-alueelliset-jatehuollot-visualisoituna
+
+https://fölläri.fi/ Fölläri - Turku city bike availablity on a map: https://www.avoindata.fi/data/en_GB/showcase/llriurunkaupunkipyriensaatavuuskartalla
+
+https://junalahdot.fi/junalahdot/main Train Departures – Timetable service: https://www.avoindata.fi/data/en_GB/showcase/junalahdot-fi-aikataulupalvelu";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Urban runoff and heat island modelling towards assessing the impacts of climate change https://www.youtube.com/watch?v=cMNkC0EU1N4 (presentation from 27:30)
+
+Datasets used: https://www.hsy.fi/ymparistotieto/avoindata/avoin-data---sivut/hsyn-huleveden-viemarointialue/
+https://www.maanmittauslaitos.fi/kartat-ja-paikkatieto/aineistot-ja-rajapinnat/tuotekuvaukset/maastotietokanta
+https://gtkdata.gtk.fi/maankamara/
+https://www.maanmittauslaitos.fi/kartat-ja-paikkatieto/aineistot-ja-rajapinnat/tuotekuvaukset/korkeusmalli-2-m
+
+https://helda.helsinki.fi/server/api/core/bitstreams/b28ede71-d3c5-42b9-889a-02f96ab51a7b/content Using openly available ALS data and National Land Survay of Finland’s (NLS’s) topographic database a forest trafficability map was developed (hereafter referred as to the static trafficability
+map; more details in method section) for supporting wood procurement planning. The static trafficability map describes the season when the harvesting operations may take place without causing significant damage to soil using standard logging machinery (harvester, forwarder). Dataset: https://www.maanmittauslaitos.fi/en/maps-and-spatial-data/datasets-and-interfaces/product-descriptions/topographic-database
+
+http://energiavalinta.fi/index.html Energiavalinta – Save money and energy: https://www.avoindata.fi/data/en_GB/showcase/energiavalinta-saasta-rahaa-ja-energiaa
+https://sahkoseuranta.fi/ Sähköseuranta – track electricity prices: https://www.avoindata.fi/data/en_GB/showcase/sahkoseuranta
+
+
+
+";;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"http://energiavalinta.fi/index.html Energiavalinta – Save money and energy: https://www.avoindata.fi/data/en_GB/showcase/energiavalinta-saasta-rahaa-ja-energiaa
+https://sahkoseuranta.fi/ Sähköseuranta – track electricity prices: https://www.avoindata.fi/data/en_GB/showcase/sahkoseuranta";;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";I don't know;;Change;Yes;A government study in 2017 examined the different innovation capabilities and accomplishments of enterprises that use and enterprises that do not use open data (see chapter 3) https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160261/Avoimen_datan_hy%c3%b6dynt%c3%a4minen_ja_vaikuttavuus.pdf?sequence=1&isAllowed=y;;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;;;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;A government study in 2017 examined the different innovation capabilities and accomplishments of enterprises that use and enterprises that do not use open data (see chapter 3) https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160261/Avoimen_datan_hy%c3%b6dynt%c3%a4minen_ja_vaikuttavuus.pdf?sequence=1&isAllowed=y;;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;;;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;;;;

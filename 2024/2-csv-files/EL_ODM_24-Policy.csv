@@ -1,0 +1,190 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";Yes;"Open Data and further re-use of public sector information, new Law 4727/2020 (“Chapter I”) replacing L. 4305/2014, https://www.secdigital.gov.gr/wp-content/uploads/2020/07/secdigital-n-4704-2020.pdf
+
+Response to reviewer - changed to ""other""";Confirm;;;;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";Not Applicable;"https://www.opengovpartnership.org/documents/greece-action-plan-2022-2024-december/
+
+Response to reviewer - changed to N/A";Confirm;;;;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";No;"Response to reviewer:
+Regional and local organisations have worked on open data strategies but are not communicated.";Confirm;;;;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;"Open data on areas previously not open, datasets of high added value
+
+Response to reviewer:
+Yes, same answer as last year --> ""1. All public sector organisations should record all datasets
+2. All datasets should be categorized to: open, open by fee/royalty, classified (personal data, intellectual property, national security etc.). Classified datasets should be recorded with caution but also with concrete reasoning.
+3. The above mentioned record should be signed by the head of the organisation and publicly uploaded
+4. Datasets provided open should be uploaded at least at the Central Government Open Data Portal""";Confirm;;;;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";No;"https://www.opengovpartnership.org/documents/greece-action-plan-2022-2024-december/
+
+Response to reviewer - changed to N/A";Confirm;;;;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;;;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";No;"Response to reviewer:
+Change answer to ""no""";Confirm;;;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;The General Secretariat for Digital Governance and Process Simplification organizes an annual competition for the Digital Governance Awards. The purpose of the competition is to reward civil servants and officials who with their actions and ideas have contributed to the digital transformation of the Greek Public Administration and to the improvement of the provision of public services to citizens. https://www.secdigital.gov.gr/diagonismos-vraveion-psifiakis-diaky/ ;Complement;;The General Secretariat for Information Systems & Digital Governance organizes an annual competition for the Digital Governance Awards. The purpose of the competition is to reward civil servants and officials who with their actions and ideas have contributed to the digital transformation of the Greek Public Administration and to the improvement of the provision of public services to citizens. https://digitalawards.gov.gr/;;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;Further hackathons are organized by public or civil society organizations that include mainly the private sector (civil society, businesses etc.);Confirm;;;;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;"1. All public sector organisations should record all datasets
+2. All datasets should be categorized to: open, open by fee/royalty, classified (personal data, intellectual property, national security etc.). Classified datasets should be recorded with caution but also with concrete reasoning.
+3. The above mentioned record should be signed by the head of the organisation and publicly uploaded
+4. Datasets provided open should be uploaded at least at the Central Government Open Data Portal";Confirm;;;;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;"1. All public sector organisations should record all datasets
+2. All datasets should be categorized to: open, open by fee/royalty, classified (personal data, intellectual property, national security etc.). Classified datasets should be recorded with caution but also with concrete reasoning.
+3. The above mentioned record should be signed by the head of the organisation and publicly uploaded
+4. Datasets provided open should be uploaded at least at the Central Government Open Data Portal";Confirm;;;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;"See table
+
+RtR: We have conducted discussion for disseminating the requirements to implement the 2023/138 regulation to the appropriate bodies. Moreover, we are in preparation of a circular to all public entities in order for them to check whether they have suitable datasets. In addition, we are in the progress of updating our National Portal to meet the metadata requirements of HVD.
+
+Regarding company data, Greece is part of the STIRdata project (see https://www.researchgate.net/publication/379479574_The_STIRData_Approach_to_Interoperability_of_European_Company_High-Value_Datasets).";;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;2;1;4;1;1;1;1;;;;
+P11-b;Earth observation and environment;3;2;4;1;1;2;2;;;;
+P11-c;Meteorological;3;2;4;1;1;2;2;;;;
+P11-d;Statistics;3;3;4;1;1;3;2;;;;
+P11-e;Companies and company ownership;3;4;5;5;5;5;4;;;;
+P11-f;Mobility;3;2;4;1;1;2;2;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;;;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"The Department of Open Governance and Transparency of the Ministry of Digital Governance communicates with all potential stakeholders and provides relative guidance and support.
+
+RtR: There are operational and technical discussions between the Ministry of Digital Governance and public sector bodies which responded to letters (a circular actually https://diavgeia.gov.gr/doc/%CE%A8%CE%94%CE%91046%CE%9C%CE%A4%CE%9B%CE%A0-%CE%A04%CE%92?inline=true) directed to all public bodies requesting datasets and contact points for the ensuing discussions.";;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";top-down;The Ministry of Digital Governance is responsible for the governing policy of open data;Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;The Ministry of Digital Governance provides technical support for the publication of datasets (e.g. https://data.gov.gr/datasets/apdkriti-swimwater/)  provided by local and regional public bodies.;;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";the majority of public bodies;;Confirm;;;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";yes;According to Presidential Decree 40/2020: https://www.secdigital.gov.gr//wp-content/uploads/2020/06/secdigital-proedriko-diatagma-40-2020.pdf ;Complement;;Article 19 of the Presidential Decree 40/2020 (https://www.et.gr/api/DownloadFeksApi/?fek_pdf=20200100085);;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Working together in the same teams;Confirm;;;;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;"Response to reviewer: According to paragraph 5 of article 19 of the Presidential Degree 40/2020 (https://www.et.gr/api/DownloadFeksApi/?fek_pdf=20200100085) as as it has been amended by law 4727/20 (https://www.et.gr/api/DownloadFeksApi/?fek_pdf=20200100184) defines the competent authority of open data and assigns to it the participation and representation of the Country in international organizations and institutions or services of the European Union or other states and international organizations for the recording and utilization of good practices at national, European and international level in the relevant matters.
+
+As a result, relevant decisions are issued assigning members of the Department to European or other (e.g. OECD) groups.";Confirm;;;;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"By providing the necessary instructions by L. 4272/2020 to all public sector bodies to use a capable team that already exists and is ""transparency"" proficient";Confirm;;;;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Covid-19 has halted most but not all regular sectoral meetings with relevant agencies. A new focus group was created to work on ways to tackle moderate open data quality.;Confirm;;;;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"Each public sector body's decision to provide open data is annually re-designed in order to provide more open datasets. This is an obligation by L. 4272/2020
+
+Response to reviewer:
+eg.: https://diavgeia.gov.gr/decision/view/9%CE%A9%CE%A9%CE%A54653%CE%A04-8%CE%A4%CE%94";Confirm;;;;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;By L. 4272/2020 the National Transparency Agency is responsible in cooperation with the Ministry of Digital Governance;Confirm;;;;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;No;;;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;"It is currently under design in order to minimize datasets provided with cost in general and at the same time do not disturb the data market
+
+Response to reviewer:
+It is currently a draft Law, evaluating the marginal cost and requesting compliance or public explanations including the competent Minister's decision.";Confirm;;;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;"1. Lack of motivation
+2. Lack of resources
+3. Lack of open data strategy to further improve the quality of openly available datasets";Confirm;N/A;;;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";No;"Plan: New dedicated Open Government Strategy that will include further amendments to publishing open data
+
+Response to reviewer:
+Change answer to ""no""";Change;Yes;"A circular (https://diavgeia.gov.gr/doc/%CE%A8%CE%94%CE%91046%CE%9C%CE%A4%CE%9B%CE%A0-%CE%A04%CE%92?inline=true) was sent to all public sector bodies requesting a contact point for open data and non-machine readable datasets to be posted on the national portal. A number of bodies have responded with contact points. Of these, few responded with datasets and even fewer were those where these datasets were truly machine readable. In the next phase, communication will follow to support stakeholders in identifying useful datasets and improve their quality even by organising relevant seminars.
+
+RtR: The circular goal is to establish communication with the public bodies where we can in the ensuing discussions a) underline the importance of open data and, thus, motivate them to publish datasets, b) provide help with the dataset publications, minimizing as much as possible their lack of resources and c) jointly determine the challenges for the improvement of data quality of possible datasets.";;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;The Department of Digital Governance and Transparency ha the role of promoting and assisting the data publication proccess at all levels. Please also see Question P26-b. ;;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;"The National Center for Public Administration and Local Government provides official certification that is recognized by every public agency.
+The National Coalition for Digital Skills, though its cooperation with Microsoft, Oracle and others, also offers official certification.";Confirm;;;;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, 3-5;"eg. https://crowdhackathon.com/open-data/en/
+
+Response to reviewer:
+Open Data Hackathon by GrowthFund, 19-20 November 2022, Innovathens";Complement;;https://eellak.ellak.gr/wp-content/uploads/sites/23/2023/04/%CE%94%CE%95%CE%9B%CE%A4%CE%99%CE%9F-%CE%A4%CE%A5%CE%A0%CE%9F%CE%A5_BankofGreeceDatathon2023.pdf;;;;;;

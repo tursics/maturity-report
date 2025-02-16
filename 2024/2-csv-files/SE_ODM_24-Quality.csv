@@ -1,0 +1,100 @@
+;Dimension 3: Open Data Quality;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;3.1 Currency and completeness;;;;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;Yes, there is a tool for the data providers (accessible by a login) in a tool called Admin, see https://admin.dataportal.se/start where they can check their metadata status. ;Complement;Yes;The metadata catalogue is updated every night to support the data producers.
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;100%;100% is updated automatically. The shared metadata catalogue with manually editing is provided seperately and also harvested.Documentation on the harvesting: https://docs.dataportal.se/dcat/docs/harvesting/
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;The portal is updated every night.
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;No;This is up to the data producers, but we are updating DCAT-AP-SE to 3.0 which will support data series in order to support the data producers.
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;Yes, we follow the HVD extention to DCAT-AP. This is described in DCAT-AP-SE 2.2. https://docs.dataportal.se/dcat/2.2.0/en/ 
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;Yes, we provide a recommendation https://docs.dataportal.se/dcat/docs/recommendations/#14-vardefulla-datamangder and general support on HVD https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vardefulla-datamangder
+;3.2 Monitoring and measures;;;;;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"UPDATED ANSWER:
+Yes, we use a automatic link checker functionality and DCAT-AP-control, and the administrators of the dataportal also have access to a more elaborate statistics tool. 
+
+Link: https://admin.dataportal.se/status/statistics (requires user login) ";Complement;Yes;We have a new complement to the validiation- in the admin tool which is a Metadata Quality Assessment per data catalogue. We are still working with the DCAT-AP SCHACL validiation here, this part is not yet in place. See https://docs.dataportal.se/dcat/docs/quality/ and https://www.dataportal.se/metadatakvalitet. We also have a validation of the metadata based on the Five star open data model described and shown at the same place.
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;"There is a public statistics page available at https://admin.dataportal.se/status/overview 
+ ";Complement;Yes;Yes, as described above, this is published here: https://www.dataportal.se/metadatakvalitet You can also click and look at each catalogue seperate.
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;Yes, we have the MQA and Five star information provided above as well as guidelines for publishing in tecknical documentation and searchable under tools at the dataportal. Example: Guidelines for making information available https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information Guidelines for licensing https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/rekommendation-om-oppna-licenser-och-immaterialratt  Guidelines for publishing High value datasets https://docs.dataportal.se/dcat/docs/recommendations/#14-vardefulla-datamangder 
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;Yes, all metadata at the dataportal. All metadata delivered to the Swedish dataportal must be delivered in DCAT-AP-SE which describe minimum information etc. https://docs.dataportal.se/dcat/en/ 
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;Yes, we provide recommendations for the use of CC BY 4.0 and CC0. See: https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/rekommendation-om-oppna-licenser-och-immaterialratt See also publishing guidelines: https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information#h-Valjvillkorforanvandning
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;71-90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;>10;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;No;N/A
+;3.3 DCAT-AP Compliance;;;;;
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;Yes. The national portal only harvest DCAT-AP. We provide a harvesting specification. https://docs.dataportal.se/dcat/docs/harvesting/ We also provide a shared metadatacatalogue based on DCAT-AP for those actors who can not follow the technical harvesting specification provided.
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);51-70%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;"UPDATED ANSWER:
+Yes there is. Documentation for the Swedish DCAT-AP standard (DCAT-AP-SE) is available in the technical documentation for the national dataportal: https://docs.dataportal.se/dcat/ Here you can find the standard in both Swedish and in English.
+DCAT-AP-SE contains clarifications, translations and explanations of DCAT-AP for Sweden. DCAT-AP-SE is a national adaption of DCAT-AP, which could be compared with DCAT-AP as a European adaption of DCAT (W3C). The reason to have a national adaption is to make it easier for Swedish data producers to use DCAT-AP-SE and to make a uniform description of data sets. The data producers are required to use DCAT-AP-SE to make metadata about their data available at the Swedish data portal. DCAT-AP-SE is developed in collaboration to suit the Swedish context of organisations and data domains and to simplify the collection, search and presentation of data at the Swedish data portal. The main differences from the standard EU version is a translation to Swedish, more detailed explanations and suggestions of how to use recommended and optional fields in the Swedish context. 
+";Confirm;;
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;Yes;We provide a validation tool for DCAT-AP-SE for the dataproducers (in Admin, behind log-in).
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;10-30%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+;3.4 Deployment quality and linked data;;;;;
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;"Yes, we use the 5-star open data model as a reference and example for having various dialogues on data quality, and how data producers can increase the data quality over time. Also, we use this model in our education ""Data ambassadors"" as a pedagic example on how they can start on a rather low level and then increase the the data quality and means for access to data (via e.g. an API). Some public actors get stressed over linked data, and then we can also use the 5-star open data model to show that linked data can be seen as a goal rather than as the starting point. ";Complement;;We are now also measuring the metadata in the catalogue according to the 5-star open data model see https://docs.dataportal.se/dcat/docs/quality/#datakvalitet-5-stjarnemodellen and https://www.dataportal.se/metadatakvalitet
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;"We work with knowledge rising programs as the 
+data ambassador program https://www.digg.se/om-oss/nyheter/nyheter/2023-02-21-digg-lanserar-dataambassadorsprogram-for-att-stodja-arbetet-med-oppna-data and also promotes the five star model in our guidelines for making data available  https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information#h-Forberedinformationsmangdenforanvandning:~:text=begrepp%20och%20terminologier.-,Anv%C3%A4nd%20best%C3%A4ndiga%20identifierare,-F%C3%B6r%20att%20anv%C3%A4ndare";Confirm;;
+Q25;What percentage of datasets are made available under an open licence? ;71-90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;>90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;>90%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;<10%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;51-70%;N/A;Confirm;;N/A

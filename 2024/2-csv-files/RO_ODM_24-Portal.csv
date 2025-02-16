@@ -1,0 +1,200 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;https://data.gov.ro/;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;N/A;CKAN
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;https://data.gov.ro/pages/developers
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;No;
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;https://data.gov.ro/pages/developers
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;There is a contact form allowing users to submit feedback on general and specific issues: https://data.gov.ro/contact;Confirm;;
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;The Disqus plugin enables users to provide feedback at dataset level. For example: https://data.gov.ro/dataset/situatii_financiare_2021;Confirm;;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://data.gov.ro/dataset/transparenta-covid (Users can rate the datasets with 1-5 stars from bad to excellent and the average score and number of scorings is shown);Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://data.gov.ro/blog;Confirm;;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"https://data.gov.ro/feeds/dataset.atom ; as well as notifications for subscribers to institutions ";Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://data.gov.ro/datarequest;Confirm;;
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"https://data.gov.ro/datarequest; https://data.gov.ro/datarequest/dc50fdef-8803-4b06-a34f-e08faf826e34";Confirm;;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;The portal team is part of the process / procedure that informs the institutions of the respective request, as this is not an automated process. As such, the response is also monitored. As part of the new Law on open data, the public institutions will have to report yearly on the number of requests they received directly and how many have resulted in publication of requested data (this will be implemented from 2023 on).;Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;The Disqus plugin also works as a discussion forum. For example: https://data.gov.ro/dataset/situatii_financiare_2018;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://data.gov.ro/showcase;Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;https://data.gov.ro/showcase/zoom-report;Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;The contact form has this specific option: https://data.gov.ro/contact-us;Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://data.gov.ro/dataset/plati-programul-national-de-investitii-anghel-saligny-aprilie-2023/resource/441688b8-c8b6-4c51-8716-ace2d4c6f95a;Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://data.gov.ro/dataset/unitati-administrative/resource/833dc6e4-4851-41e3-8d0b-03c9e56e43b0;Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;To some extent, through editorial features (https://data.gov.ro/blog/rezumatul-intalnirii-publice-ziua-datelor-deschise-deschiderea-datelor-geospatiale)
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;Google Analytics, CKAN statistics / reports;Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Confirm;;
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;Mostly Google Analytics;Complement;;We are also now conducting an online survey on User satisfaction (available as a pop-up on the portal and disseminated through mailing lists/open data stewards): https://forms.gle/6rMkWhmxLfMyd4nq5. The survey enables us to have a better picture on who the users are (public sector, academia, private sector etc.), their reasons for accessing the portal and type of engaggement and, most importantly, as we are planning a portal update, it helps us prioritise the needs for new or improved features and functionalities
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;We are also now conducting an online survey on User satisfaction (available as a pop-up on the portal and disseminated through mailing lists/open data stewards): https://forms.gle/6rMkWhmxLfMyd4nq5. The survey enables us to have a better picture on who the users are (public sector, academia, private sector etc.), their reasons for accessing the portal and type of engaggement and, most importantly, as we are planning a major portal update, it helps us prioritise the needs for new or improved features and functionalities and will feed into the project documentation.
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;The portal is promoted through webinars, public meetings (academia, private sector), dedicated information sessions (students), mentions on open data/portal in new guidelines for the digitalisation of public services (central and local public service providers), presentations and updates in the national Committee on e-government and red-tape Reduction etc.
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;Through the Search Console module of Google Analytics. The most searched keywords match the most consulted categories /datasets (in terms of either the subject or the publisher of the dataset). 
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"We monitor the most consulted pages through Google Analytics. The results have been fairly constant/similar for the past years and resulted in closer dialogue with the respective data providers to ensure the datasets are complete and up to date, to communicate the increased interest of re-users and so on. 
+Most popular datasets: 
+1. Companies Register https://data.gov.ro/dataset/firme-inregistrate-la-registrul-comertului-pana-la-data-de-07-aprilie-2024
+2. Yearly financial reports of companies
+https://data.gov.ro/dataset/situatii_financiare_2022
+3. List of public entities
+https://data.gov.ro/dataset/lista-entitatilor-publice-actualizata-la-01-03-2024-898_
+4. Lists of judicial experts
+https://data.gov.ro/dataset/experti-judiciari
+5. NGO Register
+https://data.gov.ro/dataset/registrul-national-ong"
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;Structured data and Google Dataset Search indexing are implemented in the portal, news features on the ogp.gov.ro website and the data portal, social media posts. Support for the publishers to encourage better metadata publication.;Confirm;;
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Confirm;;
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;Although all public sector data providers are encouraged to contribute to the national data portal, there are several institutions that choose to publish on their own portals that were previously designed for their specific data (Ministry of Finance – transparenta-bugetara.gov.ro, National Statistics Institute - http://statistici.insse.ro:8077/tempo-online/#/pages/tables/insse-table, National Cadastre Agency - http://geoportal.gov.ro/Geoportal_INIS/). These have not been included yet in the national open data portal.;Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;There are ongoing efforts to harvest available public data / metadata to the national portal (technical support, API development), but these were hindered by low prioritisation and lack of resources.;Complement;;The new (draft) secondary legislation for the Law transposing the Open Data Directive (-consultare.gov.ro/w/hotarare-a-guvernului-pentru-aprobarea-normelor-metodologice-de-aplicare-a-legii-nr-179-2022-privind-datele-deschise-si-reutilizarea-informatiilor-din-sectorul-public/) includes additional guidelines on how to identify, prioritise, publish and update the available data.
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;https://data.primariatm.ro/;Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";no;;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";none of the datasets;Lack of resources for API implementation.;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;1. https://data.gov.ro/dataset/locurile-libere-din-parcarile-cu-bariere (real time)  2. https://data.gov.ro/dataset/transparenta-covid (updated daily). ;Confirm;;
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;No;
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";no;;Complement;;The new (draft) secondary legislation for the Law transposing the Open Data Directive (-consultare.gov.ro/w/hotarare-a-guvernului-pentru-aprobarea-normelor-metodologice-de-aplicare-a-legii-nr-179-2022-privind-datele-deschise-si-reutilizarea-informatiilor-din-sectorul-public/) mandates that all institutions have a public inventory of the data they hold.
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;"There is currently a dedicated funding line for open data from EU funds (Smart Growth, Digitalisation and Financial Instruments Programme 2021-2027): https://oipsi.gov.ro/lansarea-apelului-pocidif-aferent-actiunii-2-2-1-e-guv-in-administratia-institutiile-publice-masura-3-dezvoltarea-de-platforme-informatice-alimentate-cu-datele-generate-de-ad/.
+As the main beneficiary of this funding is the development of the national open data portal (according to the Applicant's Guide), the Secretariat General of the Government has initiated preparation for a project submission to update and improve the portal. As part of this, we are conducting an initial analysis that will include proposed sustainability measures for the portal, both in terms of funding, uptake and technical, taking into consideration this update project."
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"As it was started as a joined initiative with the Open Government Partnership plans:
+https://www.facebook.com/RomaniaOGP
+https://twitter.com/ogp_ro";Confirm;;
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;GitHub links are available here for the non-proprietary functionalities: https://data.gov.ro/pages/resources;Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;"https://data.gov.ro/stats; https://data.gov.ro/report";Confirm;;
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;The monitoring enables the portal team to contact the data providers to recommend improvements.;Confirm;;

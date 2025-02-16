@@ -1,0 +1,310 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"The definition of open dat re-use can be found in Act No. LXIII. of 2012 on the re-use of public data 4.§ points 8-9. It is also included in the National Open Data Portal's disclaimer, it containes the list of glossary: https://kozadatportal.hu/disclaimers 
+
+Response to Reviewer 2: 
+
+Translated definition of open data reuse: 
+8. reuse: the use of public data or public cultural data for a commercial or non-commercial purpose that is outside the original goal for which the data were produced, as defined by the law imposing the performance of the public task within the framework of the performance of the public task;
+9. making available for reuse purposes: providing access to the requester for public data or cultural public data that allows the requested data to be reused by the requester, including, in particular, the one-time or periodic transfer of data on data carriers or electronically, providing direct access to the database containing the data, and any other access method that does not conflict with any other legislation, as agreed upon by the public sector body and the requester in the reuse agreement;
+";Complement;;"The definition of open data re-use can be found in Artile 2, point 35 of the Act CI of 2023 on the System for Utilisatioln of National Data Assets and Certain Services. 
+The translated definition of open data re-use is the following:
+35. re-use: related to national data asset
+ (a) in case of protected data, re-use as defined in point 2 of Article 2 of the Data Governance Act,
+b) the use of public data or cultural public data for commercial or non-commercial purposes that fall outside the original objective arising from the legislation prescribing the performance of the public task within which the data was produced;
+https://njt.hu/jogszabaly/2023-101-00-00.0#PR";;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;"After the National Data Asset Management Agency has been established, one of the main purposes of the Agency is to promote and facilitate the re-use of open data. In doing so, the Agency leads the development of Hungary's National Open Data Portal, where the number of views and downloads on the portal and analytics data shows the level of re-use of the country's open data.
+The XCI Act of 2021 on National Data Asset (National Data Asset Act) and its implementing decree, the Government Decree 607/2021 (XI. 5.) on certain detailed rules related to the use of national data assets define the data analysis, data provision and information service tasks of the National Data Asset Management Agency. To perform these tasks, the National Data Asset Management Agency Limited Liability Company was established, which is responsible for the development and implementation of the general principles of national data asset management, the operation of the National Public Data Portal, the creation and maintenance of the public data register and the inventory of national data asset, while contributing to the fulfilment of the requirements under Act LXII of 2012 on the re-use of public data (Public Data Act).
+URL: https://net.jogtar.hu/jogszabaly?docid=a2100091.tv
+https://net.jogtar.hu/jogszabaly?docid=A2100607.KOR
+https://net.jogtar.hu/jogszabaly?docid=a1200063.tv
+https://kozadatportal.hu/dataset/";Complement;;"Following the creation of the National Data Asset Management Agency, one of the main objectives of the Agency is to promote and facilitate the re-use of open data. In doing so, the Agency is leading the development of Hungary's National Open Data Portal, where the number of views and downloads on the portal and analytics data shows the level of re-use of the country's open data.
+From 1 July 2021, the data analysis, data provision and information provision tasks of the Agency were defined by Act XCI of 2021 on National Data Assets (National Data Assets Act) and its implementing decree, Government Decree 607/2021 (XI. 5.) on certain detailed rules related to the use of national data assets. However, this regulation was substantially amended in 2023 due to the entry into force of the European Union Data Governance Regulation (Regulation (EU) 2022/868). At the end of last year, the Hungarian Parliament adopted the Act CI of 2023 on the System for Utilisation of National Data Assets and Certain Services. The law designated the Agency as the Single Information Point and Competent Body.
+The CI Act of 2023 will enter into force gradually, but already on 1 January 2023 it incorporated the Hungarian Act LXIII of 2012 on the re-use of public data, which transposed the previous EU PSI Directive (now the Open Data Directive). The new Act partly strengthened the tasks of the Agency and partly gave it new tasks, while it remains responsible for the development and implementation of the general principles of national data management, the operation of the National Open Data Portal, the establishment and maintenance of the Public Data Register and the National Data Asset Inventory, and contributes to the fulfilment of the corresponding requirements.
+https://njt.hu/jogszabaly/2023-101-00-00.0#PR
+https://kozadatportal.hu/dataset/";;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";yes;"The partners of National Data Asset Management Agency with a cooperation agreement are obliged to do so. Futhermore based on the Act No. XCI. of 2021 on the National Data Asset along with the National Open Data Portal we are planning to develop data management awareness, and after that there will be more detailed directions for it.
+URL: https://net.jogtar.hu/jogszabaly?docid=a2100091.tv
+https://kozadatportal.hu/";Complement;;"Partners of the National Data Asset Management Agency with a cooperation agreement are obliged to do so. In addition, under the Act CI of 2023 on the System of Utilisation of National Data Assets and Certain Services, we plan to work with the National Open Data Portal to develop data management awareness, and more detailed guidance will follow.
+It is worth noting that Article 15 of the CI Act 2023 requires all public bodies with 250 or more employees to have a Chief Data Officer (CDO) from 1 July 2024. While for smaller bodies, the appointment of officers who must provide, inter alia, professional coordination and methodological support to the Agency. It is in the framework of this coordination and methodological activity that the Agency can support public bodies to monitor the further use of their data. 
+https://njt.hu/jogszabaly/2023-101-00-00.0#PR
+https://kozadatportal.hu/";;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"Governmental bodies can monitor the availability of further use of high-value datasets primarily through the National Open Data Portal, for which the provision of metadata is made mandatory for all public bodies by Act CI of 2023. The National Data Asset Management Agency also provides a single information point and contact service on the National Open Data Portal, where requests for the re-use of high-value data sets can be submitted. From 2026 onwards, the Agency will also be able to provide its own high value datasets of public sector bodies through the National Data Platform service. Finally, the Agenxy may provide a number of data use support services, as defined in the new law, which require the re-use of some or all of the high-value data sets. All these services allow the level of actual re-use to be measured. (See  Article 68 of the CI Act 2023.)
+https://njt.hu/jogszabaly/2023-101-00-00.0#PR";;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"The Chapter 3.1.2 of the White Paper on the National Data Policy of Hungary summerizes the social and economical advantage, impact and importance of open data. 
+URL: https://www.magyary.hu/wp-content/uploads/2019/09/Adatpolitikai_feher_konyv_201608-1_EN_20161121.pdf
+There is no exact definition of the impact of open data, but the document contains a list and examples about the impact, such as: 
+
+""The accessibility to public sector data and the services re-using public sector data have a significant impact of improving competitiveness, attracting capital as well as leverage leading to increasing employment and tax income.""
+
+""Removing the barriers of re-use gives a boost to a new sector - the data sector - that increases employment and produces tax income.""
+
+""Re-use services satisfy important social needs what increases social welfare""";Confirm;;;;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";no;;Change;Yes;In the framework of an EU project (See: RRF-9.6.1-21-2023-00001 project, https://navu.hu/europai-unios-palyazatok), the National Data Asset Management Agency, in cooperation with the University of Debrecen, started to conduct 30 ex ante and 40 ex post impact assessments in 2023, for which it prepared its own methodology. The majority of the analyses are based on open access data. The methodology can also be used to analyse the impacts of open access.;;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"The National Data Asset Management Agency has established official partnership with the National University of Public Service in the field of network research capabilities in the public administation.
+
+The Career Tracking System also serves as a good exemple for collaboration between government and academia to create open data impact. 
+https://www.diplomantul.hu/
+
+At the Infotér13 Conference in 2022 there were lots of governmental and civil organization, companies as participants.  This may be the biggest collaborating event between government and civil actors. The highlighted themes were:  Data & artificial intelligence, Digitization of the economy, E-public administration, Network development, IT security, Digital agriculture, National space strategy. https://konferencia.infoter.eu/";Complement;;"The National Data Asset Management Agency has entered into a formal partnership with the National University of Public Service in the area of public administration network research capabilities. As part of this, training of around 200 government officials will start in the second half of 2024 under an EU project (See project RRF-9.6.1-21-2023-00001, https://navu.hu/europai-unios-palyazatok).
+
+In addition, NAVÜ will work closely with the University of Debrecen, where a team of nearly 10 PhD students will help to carry out ex-post impact analyses on important social and economic, digitalisation and environmental sustainability issues. Information on 70 of these analyses will be published in the first half of 2025 on the National Open Data Portal operated by the Agency in the framework of the RRF project mentioned above.
+
+The National Education Office's career tracking system is also a good example of collaboration between government and higher education to create the impact of open data.
+https://www.diplomantul.hu/";;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;Yes;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;No;;;;
+I8-b;Surveys;new question;new question;Change;No;;;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;No;;;;
+I8-d;Other;new question;new question;Change;Yes;From 2024, the statutory task of the National Data Agency will be the continuous monitoring of the use of public data (see: Act CI of 2023, Article 1 subsection (1) point (b) and Article 8 subsection (2) point f) and Article 19).;;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Change;Yes;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;The National Agency for Data Assets Management regularly monitors the visit data of the National Public Data Portal set up under the National Data Assets Act (Act XCI of 2021) and the new National Data Assets Utilisation Act (Act CI of 2023). In this context, it analyses user comments and questions posted to the portal. In addition, the Agency is in continuous consultation (through small workshops) with some 70 governmental bodies with whom it has concluded partnership cooperation agreements. In the course of this, it is continuously discussing issues and user needs related to the further use of data and the functioning of the public data portal.;;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;;;;
+I9-c;Other;new question;new question;Change;No;;;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;"Yes, an important functions of the National Open Data Portal, developed and operated by the National Data Asset Management Agency, is the collection and publication of applications and visualisations to systematically collect showcases/examples of re-use. The Agency collects the re-use cases from public authorities through cooperation agreements. 
+https://kozadatportal.hu/showcase/";Confirm;;;;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;"Yes, the National Data Asset Management Agency collects applications and visualisations displayed on the National Open Data Portal. Those cases are classified in the same categories as the datasets according to the EU Data Themes. 
+https://kozadatportal.hu/showcase/ (Please refresh the page if it doesn't show on the first try.)";Confirm;;;;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";yes;"In Hungary we always look closely at the annual results of the Digital Economy and Society Index (hereinafter: DESI) and the Open Data Maturity Report. These two European Union surveys, which are based on a uniform methodology, always give a good picture of our current results, our own progress compared to last year, and our progress in international comparisons. The Hungarian government looks closely at the results of these and acts accordingly to improve itself on these surveys. This is the biggest impact created by open data on governmental challenges in the country as of now. Our devotion to these surveys also can be seen in the National Digitalization Strategy, the creation of the strategy was partially based on the DESI survey and its results, it is visble on its structure and concepts used.
+
+Certain open datasets are continuously utilized by government employees, clearly making their work more efficient and effective. These include:
+The authentic collection of currently effective legal regulations in electronic form in Hungary, the National Legal Database which assists in everyday legal application. It can be used free of charge. Access to the more detailed database requires registration, but it is also free and available to anyone (https://njt.hu/). The database has multiple layers such as central and municipal regulations, explanations, international agreements, English translations.
+The following publication on smart legislative methods provides a summary on the situation and opportunities of quality law-making for local local authorities.
+https://tudasportal.uni-nke.hu/xmlui/bitstream/handle/20.500.12944/15885/Okos%20jogalkotasi%20modszerek.pdf?sequence=1
+In the central and local government decision making processes, employees also regularly use the Statistics Tables of the Central Statistical Office (https://www.ksh.hu/stadat) to support decisions with facts and figures, and to prepare impact analyses.
+http://real.mtak.hu/104945/1/lencses.pdf
+https://joallamjelentes.uni-nke.hu/
+
+Response to Reviewer 2:
+
+The National Data Asset Management Agency also receives inquiries from organizations seeking assistance in utilizing and recycling open data for the development of research topics or decision-making processes. Based on open data, the National Data Asset Management Agency conducts analyses for both market players and government entities, contributing to resource allocation or investment decisions. A concrete example is the preparation of higher education data analysis, which serves as a basis for government planning regarding higher education financing. Another example is a university collaboration, where the National Data Asset Management Agency assisted in supporting research related to diseases.";Complement;;"In the framework of an EU project (See: RRF-9.6.1-21-2023-00001 project, https://navu.hu/europai-unios-palyazatok), the National Data Asset Management Agency, in cooperation with the University of Debrecen, started to conduct 30 ex ante and 40 ex post impact assessments in 2023, for which it prepared its own methodology. The majority of the analyses are based on open access data. The methodology can also be used to analyse the impacts of open access.
+
+Certain open datasets are continuously utilized by government employees, clearly making their work more efficient and effective. These include:
+The authentic collection of currently effective legal regulations in electronic form in Hungary, the National Legal Database which assists in everyday legal application. It can be used free of charge. Access to the more detailed database requires registration, but it is also free and available to anyone (https://njt.hu/). The database has multiple layers such as central and municipal regulations, explanations, international agreements, English translations.
+The following publication on smart legislative methods provides a summary on the situation and opportunities of quality law-making for local local authorities.
+https://tudasportal.uni-nke.hu/xmlui/bitstream/handle/20.500.12944/15885/Okos%20jogalkotasi%20modszerek.pdf?sequence=1
+In the central and local government decision making processes, employees also regularly use the Statistics Tables of the Central Statistical Office (https://www.ksh.hu/stadat) to support decisions with facts and figures, and to prepare impact analyses.
+http://real.mtak.hu/104945/1/lencses.pdf
+https://joallamjelentes.uni-nke.hu/";;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Within the framework of an EU project (see RRF-9.6.1-21-2023-00001 project, https://navu.hu/europai-unios-palyazatok), the National Data Asset Management Agency, in cooperation with the University of Debrecen, started to carry out 30 ex ante and 40 ex post impact assessments in 2023, for which it has prepared its own methodology. 
+
+The methodology will be made available to around 200 government officials in autumn 2024 in a wide-ranging training course organised by the National University of Public Service. Most of the analyses that can be carried out under the methodology are based on open access data, which closely support data-driven governance.
+";;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"As we mentioned last year, there is a slight difference in approaches here. In Hungarian law open data means the “classic” transparency regime where the operation of the public bodies must be transparent, and all data related to this must be freely accessible. Hungary made large efforts in this field. We have one of the strongest Freedom of Information Act in the EU. The law obliges public bodies to publish certain information on themselves on their websites in a certain structure. In this regard, yes, open data made a huge impact on transparency, since a lot of information is available freely on internet on the operation of the public sector. PSI re-use, however, is a different topic, also different in legal terms. Freedom of information does not cover accessibility of public databases or datasets. A different law, a different regime is applied for PSI re-use. When we are speaking about data policy, this focuses mainly and almost exclusively for re-use related questions and has no direct effect of “classic” transparency or FOI issues. Therefore while there can be an indirect link between FOI and re-use, FOI has a constitutional, re-use has a socio-economical nature meaning that one can not direct affect the other.  
+
+The following exemple promote the transparency and accountability of public administration: 
+
+2. Electronic Procurement System:  https://ekr.gov.hu/portal/kezdolap - public procurment data available
+
+The uniformed publication of open data (from the National Open Data Portal) does contribute to improving transparency and accountability in Hungary as well.";;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Within the framework of an EU project (see RRF-9.6.1-21-2023-00001 project, https://navu.hu/europai-unios-palyazatok), the National Data Asset Management Agency, in cooperation with the University of Debrecen, started to carry out 30 ex ante and 40 ex post impact assessments in 2023, for which it has prepared its own methodology.
+
+The methodology will be made available to around 200 government officials in autumn 2024 in a wide-ranging training course organised by the National University of Public Service. Most of the analyses that can be carried out under the methodology are based on open access data, which closely support data-driven governance. 
+
+";;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Within the framework of an EU project (see RRF-9.6.1-21-2023-00001 project, https://navu.hu/europai-unios-palyazatok), the National Data Asset Management Agency, in cooperation with the University of Debrecen, started to carry out 30 ex ante and 40 ex post impact assessments in 2023, for which it has prepared its own methodology.
+
+The mentioned 30 ex ante impact assessments will assist in the preparation of specific government decisions pending in 2024. The identification of some of these proposals will be carried out in close cooperation with the staff of the Government Office of the Prime Minister's Cabinet Office and the Ministry of Justice, which is responsible for the legislation (project consortium).
+Most of the analyses that can be carried out based on the methodology are based on open access data, which closely support data-driven governance. These data-driven government proposals can have a significant impact on social, economic, digital and environmental sustainability.";;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";No;"In Hungary we always look closely at the annual results of the Digital Economy and Society Index (hereinafter: DESI) and the Open Data Maturity Report. These two European Union surveys, which are based on a uniform methodology, always give a good picture of our current results, our own progress compared to last year, and our progress in international comparisons. The Hungarian government looks closely at the results of these and acts accordingly to improve itself on these surveys. This is the biggest impact created by open data on governmental challenges in the country as of now. Our devotion to these surveys also can be seen in the National Digitalization Strategy, the creation of the strategy was partially based on the DESI survey and its results, it is visble on its structure and concepts used.
+
+An example regarding the impact created by open data in the Hungarian education system is the MTA SZTAKI KOPI Plagiarism Search Portal, which has been used free of charge by Hungarian higher education institutions for more than a decade to check the authenticity of papers and theses written by students. The essence of KOPI is that teachers can easily compare the written works of students with the text of assignments uploaded into the system, as well as with the content of other open databases and internet publications. At some universities, the results of KOPI plagiarism screening must be attached to the thesis. In case the measure of textual similarity with another piece of writing is over 10% the thesis will be rejected. (https://kopi.sztaki.hu/)
+https://eprints.sztaki.hu/8019/1/if2014_submission_26.pdf
+https://eprints.sztaki.hu/5691/";Confirm;;;;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;Yes. For example, the Central Statistical Office regularly publishes open data comparing the wealth and income conditions of people living in disadvantaged areas with those in more developed regions, or studies that track identifiable anomalies in the wages of women and men. These studies, which are widely known, provide important guidance for employers and policy makers and contribute to reducing the pay gap (see https://www.ksh.hu/interaktiv/eurostat/womenmen/bloc-2d.html). ;;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Yes, the Central Statistical Office's Real Estate Database, which also has open data that can be downloaded and used for further purposes, is suitable for this purpose: https://www.ksh.hu/s/ingatlanadattar/archivum. 
+
+Use case e.g.: https://privatbankar.hu/cikkek/ingatlan/mennyit-er-az-ingatlanom-balatonakarattya-mar-dragabb-mint-fured-vagy-tihany.html";;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Yes, the thematic page of the Central Statistical Office ""We can do something for our health"", which also contains open data that can be downloaded and used for further purposes: https://www.ksh.hu/docs/hun/xftp/idoszaki/elef/te_2019/index.html 
+
+The website of the National Centre for Public Health and Pharmacy, set up on 1 August 2023 following the merger of two institutions, also provides useful open data. For example, monitoring of viruses in the composition of waste water or information on pollen causing allergic complaints (https://www.nnk.gov.hu/)";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Yes, the Central Statistical Office's thematic website ""Digital literacy, Sustainable Development Goals"" is a good place to start: https://www.ksh.hu/sdg/1-23-sdg-4.html 
+A particularly good example of the impact of open data is the Graduate Career Pathway System run by the Education Authority, which makes a significant contribution to informed higher education career choices by publishing data such as expected salary bands and gender distribution. The open data thus made available will help to ensure an appropriate quality of higher education choices.
+https://www.diplomantul.hu/";;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";No;"Yes, there are a number of applications available to users that contribute to the development of responses to environmental challenges by publishing open data. Examples include:  
+1. Noise Map: https://zajterkepek.hu/index.html  
+2. National Environmental Protection Information System: http://web.okir.hu/sse/?group=KAR  
+3. National Climate Protection Authority: https://nemzetiklimavedelmihatosag.kormany.hu/kereso.php  
+https://legszennyezettseg.met.hu/  
+
+The following article about the mapped, interactive display of geological data on the web using open-source tools is an example of impact created by open data related to environmental challenges:
+http://epa.niif.hu/03200/03288/00002/pdf/EPA03288_geodezia_kartografia_2017_2_034-037.pdf";Complement;;"Yes, there are a number of applications available to users that contribute to the development of responses to environmental challenges by publishing open data. Examples include:  
+1. Noise Map: https://zajterkepek.hu/index.html  
+2. National Environmental Protection Information System: http://web.okir.hu/sse/?group=KAR  
+3. National Climate Protection Authority: https://nemzetiklimavedelmihatosag.kormany.hu/kereso.php  
+https://legszennyezettseg.met.hu/  
+
+The following article about the mapped, interactive display of geological data on the web using open-source tools is an example of impact created by open data related to environmental challenges:
+http://epa.niif.hu/03200/03288/00002/pdf/EPA03288_geodezia_kartografia_2017_2_034-037.pdf
+
+The website of the National Centre for Public Health and Pharmacy, set up on 1 August 2023 following the merger of two institutions, also provides useful open data. For example, monitoring of viruses in the composition of waste water or information on pollen causing allergic complaints (https://www.nnk.gov.hu/)
+
+Within the framework of an EU project (see RRF-9.6.1-21-2023-00001 project, https://navu.hu/europai-unios-palyazatok), the National Data Asset Management Agency, in cooperation with the University of Debrecen, started to carry out 30 ex ante and 40 ex post impact assessments in 2023, for which it has prepared its own methodology. Among the impact assessment tasks we can mention more that refers to climate change, green energy forestry and fishery issues.";;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"For example the following open data solution contributes to biodiversity conservation: Data published and available from the National Centre for Public Health on the status of water and air quality: https://www.nnk.gov.hu/index.php/terkepes-informaciok 
+
+Within the framework of an EU project (see RRF-9.6.1-21-2023-00001 project, https://navu.hu/europai-unios-palyazatok), the National Data Asset Management Agency, in cooperation with the University of Debrecen, started to carry out 30 ex ante and 40 ex post impact assessments in 2023, for which it has prepared its own methodology. Among the impact assessment tasks we can mention more that refers to climate change, green energy forestry and fishery issues.";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The Government launched a mobile app to report illegally placed waste: https://hulladekradar.hu/ 
+
+In Hungary, registers on urban development and urban policies are managed by the Lechner Knowledge Centre that ephasis on green transition and digitalisation. To this end, it makes available various methodologies and research data, e.g. on smart city developments in Hungary, with a lot of environmental data. E.g.:
+https://lechnerkozpont.hu/cikk/mar-1000-jo-gyakorlat-kozott-lehet-bongeszni-az-okos-varos-peldatarban
+https://lechnerkozpont.hu/cikk/europai-varosfejlesztesi-jo-gyakorlatok-sikeres-adaptacioja
+";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The National Chamber of Agriculture launched the creation of a weather forecasting system based on instantly updated data at the end of 2023, and the development of a free phone application for Chamber members, which can, for example, predict damage caused by ice, drought and inland water.  
+
+See:
+https://www.nak.hu/szolgaltatasok/jeger";;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The National Data Asset Management Agency 
+
+In Hungary, the role of solar photovoltaic systems in the annual energy mix has increased significantly in recent years. Small power plants of less than 0.5 megawatts, which supply green electricity to MAVIR Hungarian Electricity Transmission System Operator Ltd. through so-called dispatching, play an important role in this. The scheduling of power plants is mainly carried out by market companies (e.g. EWISER Forecast, ALTEO-Sinergy, eNET-NRGY Forecast etc.) on the basis of open access metorological data and their own experience. The importance of their service is that a bonus scheme has enabled generators to reduce their balancing energy costs by 5-7% in recent years. This has also contributed significantly to the success of the state's mandatory green power transfer ('KÁT') scheme, to the fact that the amount of solar energy generated is increasing by almost 10% year on year and that the 6.5 Gigawatts of installed capacity set in Hungary's National Energy and Climate Plan will be available in 2026 instead of 2030.
+
+https://ewiser.ai/
+https://enet.hu/energetikai-tanacsadas/
+https://alteo.hu/ezt-tesszuk/menetrendezes/
+https://g7.hu/tech/20220211/a-magyar-napelemek-mar-paksot-is-lepipaljak/
+
+Indicators of sustainable development in Hungary, 2022 – Sustainable Development Goals (SDG): https://www.ksh.hu/apps/shop.kiadvany?p_kiadvany_id=1078774#utm_source=kshhu&utm_medium=banner&utm_campaign=theme-energiagazdalkodas
+";;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";No;"The economic impact of open data can be seen in the following two strategies:
+Research, Development and Innovation Strategy of Hungary (2021–2030) Link: https://nkfih.gov.hu/hivatalrol/strategia-alkotas/kutatasi-fejlesztesi-innovacios-strategia 
+The vision of Hungary's Research, Development and Innovation Strategy between 2021 and 2030 is a knowledge-based, balanced, sustainable economy and society capable of creating high added value in all areas of the country, and the achievement of this vision is supported by the Government with the tools of the Research, Development and Innovation policy.
+The Vocational training 4.0 strategy. Link: https://www.nive.hu/index.php?option=com_content&view=article&id=1024&Itemid=166 
+The long-term plan is primarily based on the creation of an attractive learning environment and infrastructure, the provision of career opportunities and the professional work of instructors with up-to-date knowledge. It introduces the concept of the technical school, which is a 5-year training course that becomes the entrance hall of higher engineering education, and also announces a broad scholarship program for all students studying vocational education. Vocational training 4.0 lays the foundation for the possibility of creating sectoral training centers and also opens the door to the use of digital teaching materials to a large extent.";Confirm;;;;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The Graduate Career Tracker (https://www.diplomantul.hu/) run by the Education Authority is an excellent example of the impact of open data on the labour market. The system shows which careers can be pursued with which tertiary qualifications, which includes gender ratios and expected wages. The system has made career choices in Hungary more informed and helps to properly track the career paths of tertiary educated workers. 
+
+The Central Statistical Office's thematic website ""Labour Force"" is a good starting point: https://www.ksh.hu/munkaero 
+
+The National Employment Service website also provides useful information on national data collection and measurement (https://www.munka.hu/).
+
+";;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;"The databases of the National Intellectual Property Office (SZTNH) (https://www.sztnh.gov.hu/hu/hogyan-tajekozodhatok-a-honlapon/adatbazisok) are publicly searchable, which has a significant positive impact on innovation and the uptake of new technologies. However, their data are not accessible via API and are therefore not suitable for further use in this form.
+
+The economic impact of open data can be seen in the following two strategies:
+Research, Development and Innovation Strategy of Hungary (2021–2030) Link: https://nkfih.gov.hu/hivatalrol/strategia-alkotas/kutatasi-fejlesztesi-innovacios-strategia 
+The vision of Hungary's Research, Development and Innovation Strategy between 2021 and 2030 is a knowledge-based, balanced, sustainable economy and society capable of creating high added value in all areas of the country, and the achievement of this vision is supported by the Government with the tools of the Research, Development and Innovation policy.
+The Vocational training 4.0 strategy. Link: https://www.nive.hu/index.php?option=com_content&view=article&id=1024&Itemid=166 
+The long-term plan is primarily based on the creation of an attractive learning environment and infrastructure, the provision of career opportunities and the professional work of instructors with up-to-date knowledge. It introduces the concept of the technical school, which is a 5-year training course that becomes the entrance hall of higher engineering education, and also announces a broad scholarship program for all students studying vocational education. Vocational training 4.0 lays the foundation for the possibility of creating sectoral training centers and also opens the door to the use of digital teaching materials to a large extent.";;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;"The site of the Hungarian Chamber of Commerce and Industry provide information for business creation.
+https://mkik.hu/en
+The datasets published by the Hungarian Central Statistical Office assure the impact of data on entrepreneurship.
+https://www.ksh.hu/business-units-and-non-profit-organisations
+
+The Central Statistical Office's thematic website ""Company monitor"" is a good starting point: https://www.ksh.hu/heti-monitor/vallalkozasok.html 
+
+In addition to this, Company data in Hungary are public and can be downloaded free of charge (https://www.e-cegjegyzek.hu/), which has a significant positive impact on the willingness to register. However, they cannot be downloaded as a database and are not accessible via API, so they are not yet suitable for further use in this form.
+";;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The Central Statistical Office's thematic website ""Labour force's productivity"" is a good starting point: https://www.ksh.hu/sdg/4-7-sdg-8.html
+The thematic website ""Resource Productivity"" on changes in resource productivity and its components (DMC and GDP) maintained by the Hungarian Central Statistical Office (https://www.ksh.hu/ffi/3-31.html) is also a useful reference in this respect.";;;

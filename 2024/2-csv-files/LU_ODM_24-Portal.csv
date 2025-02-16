@@ -1,0 +1,208 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;https://data.public.lu;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;yes;udata
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;https://data.public.lu/api/1
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;No;
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;https://data.public.lu/en/docapi/
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"The users can create an account and publish their own datasets. They can publish the documentation as a resource of the type documentation (a resource can be a link), or put the documentation in the description of their dataset. If they want to enrich a dataset, they can publish data as ""community"" resources on the dataset. Here is an example of community resources: https://data.public.lu/en/datasets/archives-bruit-des-avions/"
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Change;Yes;"We have a ""contact us"" link with a mailto to our contact address on all pages. The url is the following: mailto:info@data.public.lu"
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"At the level of each dataset (in its subpage) there is a dataset-related user forum providing the possibility to add  questions/discussions linked to this particular dataset. Here examples of datasets with quite a lot of interaction in the related forum part at the bottom of the page 
+https://data.public.lu/fr/datasets/horaires-et-arrets-des-transport-publics/ 
+https://data.public.lu/fr/datasets/parc-automobile-du-luxembourg/";Confirm;;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;The datasets can be listed sorted by relevance https://data.public.lu/en/datasets/ and on the other hand we regularly publish small news articles in the news section about  interesting data or related projects;Confirm;;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;We automatically announce the arrival of every new dataset on our social media accounts - see @OpenDataLU on twitter and https://mas.to/@OpenDataLu on mastodon.;Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://data.public.lu/fr/requesting/;Confirm;;
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://data.public.lu/fr/datasets/demandes-de-publications-de-donnees-en-open-data/;Confirm;;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;Manual follow-up and assistance with publication of the data.;Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;Yes there is a discussion / feedback forum at the bottom of the sup-page of every dataset. This means that every discussion is per se related to this dataset.;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://data.public.lu/en/reuses/;Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;example : https://data.public.lu/fr/reuses/safe-crossing-project-potentially-unsafe-pedestrian-crossings-in-luxembourg-city/;Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;Any user can publish a re-use, and indicate the datasets that have been taken into account. Here an example https://data.public.lu/fr/reuses/comparaison-de-prix-des-carburants-par-motorisation/;Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;"Please click on the ""preview"" button next to the data resource https://data.public.lu/en/datasets/operations-delta-des-vehicules-au-luxembourg/ ";Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";No;;Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"all high-value datasets have the tag ""high-value-dataset"" and can be found at this URL https://data.public.lu/en/datasets/?tag=high-value-dataset"
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;We use matomo and an internal, more complete, solution to monitor all aspects of the portal.;Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Confirm;;
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;We have developed an (internal) monitoring solution, based upon a dedicated datbase where the activities in the portal are registered and historized. Search terms and feedbacks are also part of this information, which is used for quite detailed analysis. For example we have created a first version of a data provider quality scoring system, helping us to  consider the pros and cons of the open data approach of our partners.;Confirm;;
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;We have for example detected that some outdated datasets are getting lots of views compared to new and up to date datasets on the same topic. In this case, we have updated the documentation of the outdated dataset to redirect the users to the new one. Example: https://data.public.lu/en/datasets/villes-rues-et-codes-postaux-de-luxembourg-1/
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;"The portal is acknowledged as the central national platform for open data, which is manifested by its increasing notoriety in projects and strategic texts. To continue fostering it, the open data team regularly undertakes promotion and sensibilisation activities.
+On the public sector side, we have built a group of open data representatives of all ministries, administrations and other public sector organisations, with the intention to enhance their knowledge about the importance of their data being available as opendata and the opportunities provided by the portal in this context. We have started a series of dedicated open data meetups, where they can better understand how to use the portal and how to represent their organisation on the portal. The agenda of the first event of this series contained presentations about the basics of the open data portal https://data.public.lu/en/posts/le-premier-open-data-meetup-du-gouvernement/ as well as  insights aboiut ongoing inventory and High Value Data projects.
+On the general public side, we traditionally organisie hackathon events, at least once per year, about topics focussing on opendata that already exists on the portal and where we encourage the participants to create user accounts and to publish their reuses. When we discover in the media eventual re-uses of open data, we generally get in touch with the reusers to invite the to also use the portal functions to publicly announce their reuse case.
+These activities contribute to the constantly rising number of portal users."
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;We monitor the keywords used on google via the google search console and via our internal web analytics Matomo
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"We monitor the most consulted pages via our matomo web analytics. The data coming from matomo are accessible in the admin section of the portal. With these figures we can identify the most consulted pages, and we regularly check  them to make sure they have no issues regarding the metadata quality and the availability of the data resources. Here is the actual list of the 5 most popular datasets on the portal :
+https://data.public.lu/en/datasets/covid-19-rapports-hebdomadaires/
+https://data.public.lu/en/datasets/prix-annonces-des-logements-par-commune/
+https://data.public.lu/en/datasets/prix-de-vente-des-appartements-par-commune/
+https://data.public.lu/en/datasets/covid-19-rapports-journaliers/
+https://data.public.lu/en/datasets/prix-de-vente-des-appartements-prix-affines-hors-annexes-par-commune/"
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;We manually monitor the metadata content, the tags, associated themes and optimize as much as possible. We regularly scan the tags and associated data categories to update them.;Confirm;;
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Complement;Yes;On all our datasets, there is a metadata tab showing the metadata for humans. For machines the metadata is available via our API and our DCAT endpoints.
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;"All  governmental organisations are obliged to proceed with the publication of their ""administrative documents"" - that is an obligation from the access-to-information-law (https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/jo). The corresponding instruction letter by the Prime Minister (https://data.public.lu/fr/datasets/lettre-circulaire-aux-departement-ministeriels-administrations-et-services-de-letat-administration-transparente-et-ouverte/) indicates the national data portal as the platform to be used for this purpose. This means that principally all public sector entities should already be active as data providers. A second instruction letter by the Prime minister (https://data.public.lu/fr/datasets/lettre-circulaire-aux-departements-ministeriels-administrations-et-services-de-letat-donnees-ouvertes/) requires all governmental organisations to provide data inventories as well as dedicated contact persons. Actually 75% of ministries are already active on the portal as such.";Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Change;Yes, or all public sector data providers already publish data;This analysis has been presented during our first open data meetup 
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"Identified organisms that have unopened data are contacted to be further sensibilised. To the greatest possible extent we offer our help  with the practical steps to join the portal, to use the API, but also to work on data formats and harvesting scripts etc. Sometimes it is only a problem of availability, but often there are legal or other considerations .  
+
+Examples:
+- the entire government has been sensibilized in the scope of the impact assessment of our access to information law, to publish all documents and several actors have launched an integrated approach to proceed accordingly, like f.e. the ministry of economic affairs https://data.public.lu/fr/organizations/ministere-de-leconomie-direction-generale-du-tourisme/ or the Civil Aviation department https://data.public.lu/fr/organizations/direction-de-laviation-civile/
+- Further more we have set up harvesting scripts, that automatically reference complete data / document publications from existing web sites on the portal: example the national access to information commission CAD https://data.public.lu/fr/datasets/rapports-dactivite-de-la-cad/
+";Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;"There are no local or regional open data portals due to the size of the countries and the corresponding size of the local governments.
+But there is an ongoing project to create another platform for national data exchange - also destined at data that cannot be opened up as ""open data"" but that still should be re-usable. This society (form : Groupement d'intérêt économique GIE) is called PNED GIE (Plateforme nationale d'échanges de données = National Data exchange platform). Both systems are meant to collaborate, as re-uses of opendata  in combination with ""non-open"" data should also be mentioned and described on the open data portal, and as on the other hand open data will be likely to be re-used in such projects.";Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";not applicable;There are no local or regional open data portals due to the size of the countries and the corresponding size of the local governments. But as soon as the above mentioned PNED platform will be launched, it will be listed as partner.;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";not applicable;;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;"Example 1 : Raw GNSS data https://data.public.lu/fr/datasets/raw-gnss-data-from-the-spslux-network/  https://act.public.lu/fr/gps-reseaux/spslux1/1spsluxaccess.html
+Example 2  : https://data.public.lu/fr/datasets/daily-meteorological-parameters-luxembourg-findel-airport-wmo-id-06590/";Confirm;;
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;Yes;"The Luxembourgish open data portal is open for anyone to publish own data, and there is in principle no previous validation neither of data nor of new organisations. To distinguish between official providers and others, we use a ""badge"" system : the public sector organisations that have been verified are marked by a corresponding badge stamp."
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";No;We are still working on a complete data inventory that contains all data, open or not, but in the meantime we have the list of data requests which shows data that have been requested and which eventually has not been provided yet https://data.public.lu/fr/datasets/demandes-de-publications-de-donnees-en-open-data/.;Change;No;Luxembourg's Ministry for Digitalisation, together with the open data team as well as other concerned actors, are working on a general public sector data inventory project, which includes protected data that cannot be made open without aggregating, pseudonymising or anonymising it first. To make a clear distinction between open data and other data, it has been decided to use a separate dedicated catalog for the protected data. A prototype of this catalog is currently under construction.
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;No;
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"OpenDataLU on twitter and https://mas.to/@OpenDataLu on mastodon
+youtube channel  https://www.youtube.com/channel/UCNc9Gufuv_yDDrwZZ1wOp7A 
+ 
+";Complement;Yes;We are now also available on Linkedin https://www.linkedin.com/company/opendatalu/?viewAsMember=true
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;on github https://github.com/opendatalu/ ;Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;We monitor the portal, its data publishers, their data, metadata, popularity, feedbacks, updating discipline, user interaction etc with the help of a dedicated dashboard, which is however only for internal use (at the moment), so there is no URL to share. This dashboard relies on a dedicated database, where all the transactional information of the portal are retrieved and  stored after the necessary cleaning and adaptation. We also store precedent states of the data, which enables us to make in-depth analysis of the evolution in time.;Confirm;;
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;"This monitoring has for example helped the Open data team to intensify the work with the data providers on the license indications - although ther has been some progress, there are still too many datasets without a license specification.
+It has also helped the Open data team to gain insights about the relevance of data producers compared to others : indeed we are moving from the concept of maximum dataset counts to a broader concept of relevance, where the number of accesses, downloads, re-uses and feedbacks enter into consideration.";Confirm;;

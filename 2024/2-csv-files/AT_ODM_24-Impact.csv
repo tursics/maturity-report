@@ -1,0 +1,221 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"Stipulated in the Austrian Framework for Open Government Platforms and the White Paper of the Cooperation OGD Austria, referring to the Open Principles and the Creative Commons Licence CC-BY 4.0. (https://www.data.gv.at/anleitung)
+
+response to reviewers:
+In Austria, the definition of open data reuse is stipulated in the Austrian Framework for Open Government Platforms and the White Paper of the Cooperation OGD Austria. It refers to the Open Principles and the Creative Commons Licence CC-BY 4.0. Specifically, open data reuse is defined as the use of data that is freely available to everyone to use, modify, and share for any purpose—subject to the terms specified under the Creative Commons Licence CC-BY 4.0. (Source: data.gv.at)";Confirm;;;;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;"o The reuse of open government data is being monitored systematically by the number of visitors, downloads, and re-use, through the list of applications on the Austrian Data Portal and by using the web analytics tool Matomo provided by the national data portal: https://www.data.gv.at/application/ 
+o In 2021, an online survey among users of the national portal has been performed: https://www.data.gv.at/2021/01/20/umfrage-gestartet/
+o The City of Vienna performs incremental monitoring and quality checks through its Data Excellence Strategy (circular view on data provision and feedback).";Confirm;;;;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";yes;"o Award of the Austrian Data Governance Conference: https://www.adv.at/eventrueckblick/5-oesterreichische-data-governance-konferenz/
+o The ""KDZ - Zentrum für Verwaltungsforschung"" offers open data trainings for civil servants all across Austria, in particular for regional and local civil servants. (https://www.kdz.eu/de/seminare)
+o FAIR Office Austria: https://forschungsdaten.at/en/fair-data-austria/about-fair-data-austria/";Confirm;;;;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;Please find our general data analytics page here (data.gv.at/stats) and our tracking of applications developed on the basis of open data (data.gv.at/anwendungen);;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"The Cooperation OGD Austria representing various levels of government has published a guidance on the national open data portal on the impact of open data and on KPI. (https://www.data.gv.at/infos/analyse/) 
+The definition of the impact of open data can be derived from the first paragraph. That means that impacts of open data (or public administration in general) are difficult to caputre in figures. owever, an evidence-based approach requires clearer representations of administrative action. The systematic provision of open data enables better and, above all, automatable representations and is thus an essential component of the digital transformation of the public sector. 
+The impact of the re-use of open data is measured by some KPIs, that are derived, for example, from the findings on the greatest possible impact of and demand for data.";Complement;Yes;"The Cooperation OGD Austria representing various levels of government has published a guidance on the national open data portal on the impact of open data and on KPI. (https://www.data.gv.at/infos/analyse/) 
+The definition of the impact of open data can be derived from the first paragraph. That means that the impact of open data (or public administration in general) is difficult to capture in figures. However, an evidence-based approach requires clearer representations of administrative action. The systematic provision of open data enables better and, above all, automatable representations and is thus an essential component of the digital transformation of the public sector. 
+The impact of the re-use of open data is measured by some KPIs, that are derived, for example, from the findings on the greatest possible impact of and demand for data.";;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;The impact of open data is measured by applications being created using open data. The list of apps on the Austrian Data Portal is continuously curated (https://www.data.gv.at/suche/?typeFilter%5B%5D=application). Furthermore, the reuse of open government data is being monitored systematically by using the web analytics tool Matomo provided by the national data portal (data.gv.at/stats/).;Confirm;;;;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;o  Open Data Governance Study, Fachhochschule St. Pölten & Österr. Akademie der Wissenschaften (to be published in autumn 2023);Complement;Yes;"o  Open Data Impact between government and civil society or academia is perpetuated by the Cooperation OGD Austria. This forum serves as a place to exchange ideas and to establish initiatives.
+o  Governance of Open Data and Digital Platforms Study, Fachhochschule St. Pölten (Governance offener Daten und digitaler Plattformen – Regulierungsfragen einer
+digitalisierten Wirtschaft, https://research.fhstp.ac.at/projekte/govmed-governance-offener-daten-und-digitaler-plattformen)";;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;No; ;;;
+I8-b;Surveys;new question;new question;Change;Yes;Studies on open data (e.g. https://epub.jku.at/obvulihs/download/pdf/5676861?originalFilename=true);;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;Dialogue within the Cooperation OGD Austria;;;
+I8-d;Other;new question;new question;Change;Yes;"Developer dialogue (by data.gv.at): Emergence of applications by the use of open data; datahub.tirol: creation of a regional dataspace by the use of open data";;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;No; ;;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;Yes;Data.gv.at team interacts with user community on social media;;;
+I9-c;Other;new question;new question;Change;Yes;Exchange within the Cooperation OGD Austria (an exchange forum between federal government, states, cities and municipalities in close cooperation with the Data community, science, culture and business representatives);;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;Data.gv.at is gathering info about the creation of apps on the basis of provided open data. This is being performed for the whole of Austria. Source: https://www.data.gv.at/suche/?typeFilter%5B%5D=application;Confirm;;;;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;"App developers are asked to give active feedback when they are using open data from data.gv.at. Overall, the response is great, thus we have a pretty good picture on use of data ie. the creation of applications. Please see the classification on https://www.data.gv.at/suche/?typeFilter%5B%5D=application
+
+response to reviewers:
+Public bodies in our country have developed a systematic way of classifying the gathered reuse cases. On our open data portal data.gv.at, we categorize reuse cases based on:
+
+ 1. Policy Field: For instance, Environmental, Health, Transportation, etc.
+2. Type of Application: Such as mobile apps, web services, analytics tools, etc.
+3.  Data Source: Identifying which datasets were crucial in each reuse case.
+
+App developers are encouraged to provide feedback when using open data, thus helping us to maintain an up-to-date classification system. More details can be found on data.gv.at search filter for applications.";Confirm;;;;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";No;"1) Since 2018 (constitutional amendmant), the open publishing of procurement data has significantly contributed to increasing the efficiency, accountability and transparency of the government for any new public procurement project. 
+2) A recent constitutional amendment (B-VG Art. 20 Abs 5) stipulates the publication of studies, expert opinion and surveys. This already has significant effects on Open Government and the opening up of data for the public.
+3) The Austrian government has also implemented the Transparency Portal (Transparenzportal) to make information about public spending easily accessible.
+
+response to reviewers: 
+While we do not yet have quantifiable data or specific studies to directly measure the impact of open data on governmental challenges, several mechanisms are in place to gauge its effectiveness:
+
+1. Efficiency and Effectiveness: The open publishing of procurement data is designed to streamline the procurement process and eliminate redundancies. We are in the process of setting up metrics to quantify its impact on efficiency.
+
+2. Transparency and Accountability: The Transparency Portal aims to make public spending easily accessible, thereby promoting accountability. User engagement and public feedback are collected to assess its impact on transparency.
+
+3. Decision-making Capacity: The recent constitutional amendment to publish studies, expert opinions, and surveys aims to improve data-driven policy-making. While specific metrics are being developed, initial feedback indicates a positive impact on decision-making.
+
+We are currently developing methods to systematically measure the impact of these initiatives to provide quantifiable data in the near future.";Change;Yes;o) a study was performed on the effect of data accessibility and data sources on trust levels: Austrian open data like the punctuality of public transport, number of infrstructural defects per day, average rent in €/m2 was used in the study. It ws shown that open data is a catalyst for citizen trust and public performance information. Impact study link: https://www.researchgate.net/publication/366747566_Trust_in_Public_Performance_Information_The_Effect_of_Data_Accessibility_and_Data_Source;;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"o) The creation of the open ""Basemap Austria"" (www.basemap.at) has created significant impact at various governmental levels, as it is now the reference for many use cases of geo data (e.g. the cartographic layer for mobility apps). It has also shifted business models of various geo institutions (of the states) to cost free reusability.";;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"o The legal requirement for public procurement publishing as open data has created significant effects on transparency.
+o The publishing of budgetary information has a considerable effect on transparency.
+-> Open Budget: https://www.offenerhaushalt.at/ (includes financial data of 1523 municipalities), https://service.bmf.gv.at/Budget/Budgets/VBB/de/2024/Home/Index (federal budget from 2018-2024)";;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;o Statistical COVID-19 data is being used throughout Austria for evidence based policy making. The Austrian Corona Alert Level System is based on publicly available statistical data: https://www.data.gv.at/katalog/dataset/52abfc2b-031c-4875-b838-653abbfccf4e;;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;o The COVID-19 crisis has shown the need for evidence-based policymaking. The use of current data has a considerable effect on policy making in the health sector.;;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";No;"The use of open data has had a positive impact on health and wellbeing in Austria. By providing access to health-related data sets, such as public health statistics and healthcare performance indicators, the government has enabled researchers, healthcare professionals, and the public to gain a deeper understanding of health issues and trends.
+
+response to reviewers:
+The impact of open data on social challenges is particularly evident in the healthcare sector. Open data has empowered important initiatives like
+
+Public Health Monitoring: Open data sets related to public health indicators have been used by researchers to monitor trends in diseases, vaccinations, and other health metrics. This has led to targeted public health interventions. URL: to related datasets: https://www.data.gv.at/daten/covid-19/
+
+This example highlights how open data has been used to make data-driven decisions to address social challenges, specifically in healthcare. The data sets and applications have been crucial for policy-makers, healthcare providers, and civil society to address social inequities in healthcare access and quality.";Change;No;The project AUTO-WELF investigates the extensive implementation of automated decision-making (ADM) in the welfare sector. (https://www.oeaw.ac.at/en/ita/projects/auto-welf);;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;;;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Open data can provide important information on the state of the housing market and homelessness. The ministry for social affairs conducted a study to evaluate the data basis for homelessness to increase evidence-based policy-making: https://www.oeaw.ac.at/isr/wohnen-und-urbane-oekonomie/datenbasis-obdachlosigkeit-wohnungslosigkeit;
+Open government data on building type data (year built) and listed protected buidlings are used for a rent-calculation, e. g. https://wiener-mietenrechner.at/; 
+Statistik Austria provides data on the whole housing market / census data, including e.g. data on housing problems in different legal relationsships (rent, owner, public housing, etc.), https://statcube.at/statistik.at/ext/statcube/jsf/tableView/tableView.xhtml, or housing costs: https://www.statistik.at/statistiken/bevoelkerung-und-soziales/wohnen/wohnkosten";;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The recent COVID-19 pandemic led to an increased utilization of open data. 87 applications and visualization were developed on the status of vaccinations, infected, general status and more. Please find the weblinks to all initiatives here (under ""Anwendungen und Visualisierungen"": https://www.data.gv.at/daten/covid-19/";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;"o COVID-19 pandemic and general awareness on data
+o Education of civil servants concerning the quality of data
+o Open data and privacy related questions are of high importance to Austrian ctitizens";;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";No;"o Energy industry input data and scenarios as a basis for the Climate Strategy 2020 and the Monitoring Mechanism 2011: https://www.data.gv.at/katalog/dataset/1130286d-d7a3-4320-b7e1-9e2b8f42761e
+As a basis for the evaluation and revision of the climate strategy and to fulfil the reporting obligation within the framework of the Monitoring Mechanism on the development of greenhouse gas emissions, the Federal Environment Agency calculated two scenarios up to the year 2030
+o Uber Movement: With the Uber Movement platform, travel times on the streets in Vienna can be digitally evaluated and visualized. This enables city planners, authorities and research institutions to gain a sound insight into the city's mobility needs. This allows for better planning of public transport and thus the evasion of traffic for iomproving the environment. The effects of infrastructure measures can be specifically analyzed and evaluated (https://www.data.gv.at/application/uber-movement)
+
+response to reviewers: 
+Open data has shown a tangible impact on environmental challenges, particularly in the realms of climate change mitigation and sustainable urban planning:
+
+1. Climate Strategy 2020 Impact: Open datasets related to energy industry input have informed the Climate Strategy 2020. These datasets have contributed to significant policy shifts that aim to reduce greenhouse gas emissions by 2030. As a result, Austria has set forth initiatives to increase energy efficiency and renewable energy usage. Climate Strategy 2020 Dataset: https://www.data.gv.at/katalog/dataset/1130286d-d7a3-4320-b7e1-9e2b8f42761e
+
+2. Uber Movement's Role in Sustainable Urban Planning: The Uber Movement platform has enabled city planners to optimize public transport routes and encourage sustainable modes of transportation. This in turn contributes to lowering greenhouse gas emissions and mitigating air pollution in urban areas. Uber Movement Platform: https://www.data.gv.at/application/uber-movement/
+
+3. Air Quality Monitoring: Open data on air quality, available to the public, has led to increased awareness and advocacy for reducing air pollution. Public pressure and data-driven insights have impacted policy decisions around industrial regulations and vehicle emissions. Air Quality Dataset: https://www.data.gv.at/katalog/dataset/505a4929-6fb4-4dea-b7ea-048b5789ae29
+
+These examples clearly show the impact that open data has had on environmental challenges, from policy formulation to public participation in environmental conservation.";Confirm;;;;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;The Austrian environmental protection agency is member of the Cooperation OGD Austria. The Agency provides data (https://www.data.gv.at/auftritte/?organisation=umweltbundesamt) and publications (https://www.data.gv.at/auftritte/?organisation=umweltbundesamt&documentFilter[0]=OpenDocument) on data.gv.at. This includes air and water quality data.;;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;The Austrian environmental protection agency is member of the Cooperation OGD Austria. The Agency provides data (https://www.data.gv.at/auftritte/?organisation=umweltbundesamt) and publications (https://www.data.gv.at/auftritte/?organisation=umweltbundesamt&documentFilter[0]=OpenDocument) on data.gv.at. This includes air and water quality data.;;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;The Austrian environmental protection agency is member of the Cooperation OGD Austria. The Agency provides data (https://www.data.gv.at/auftritte/?organisation=umweltbundesamt) and publications (https://www.data.gv.at/auftritte/?organisation=umweltbundesamt&documentFilter[0]=OpenDocument) on data.gv.at. This includes air and water quality data.;;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The Austrian regulatory agency for electricity and gas provides monthly statistics on the electricity, gas and renewable energy production and usage. This is provided in detailed interactive graphics and as raw data. https://www.e-control.at/statistik
+This data is utilized as a policy-informing tool for the responsible ministries, that cover energy-related topics. Including data provided by Statistics Austria and the Austrian Power Grid. The data is used in the yearly energy report of the government. 
+";;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";yes;"Open Data is a key resource for the development of the digital economy and knowledge society, in particular for SMEs and startups which are the backbone of Austria's economy. There is an abundance of examples on how the re-use of open data has contributed to innovative solutions.
+o In this regard, please see the overview of applications that have been created by using open government data. https://www.data.gv.at/application/";Confirm;;;;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The autrian employment agency (AMS) is providing monthly statistics on employment data: https://www.ams.at/arbeitsmarktdaten-und-medien/arbeitsmarkt-daten-und-arbeitsmarkt-forschung/arbeitsmarktdaten
+The ministry for Labour and Economy is providing a data portal (AMIS) of unemployment, AMS trainings, employment, job market and population statistics. (https://www.dnet.at/bali/Default.aspx)
+The employment agency is also hosting a research network on how to utilize the openly availbale statistics (https://www.ams-forschungsnetzwerk.at/deutsch/willkommen.asp?sid=119319869)
+";;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The project ""Kappazunder"" (https://digitales.wien.gv.at/projekt/kappazunder/) by the City of Vienna is a virtual copy of the entire city. Three dimensional data is being provided as open data. Whether inquiries to the city service, approval procedures or road construction planning -  digital site inspection based on Kappazunder saves time and money and makes processes more effective. The availability of 3D data is having an impact on innovation as it can be used by innovators.";;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;Please see the example of the Datahub.tirol (https://www.datahub.tirol/). This initiative supports several dataspaces, in which entrepreneurs and companies can use data and develop use cases or solutions. Hotels and tourism providers e.g. are entrepreneurs and mostly small-sized businesses. The use and sharing of data leads to a better tourism experience. Data analysis, artificial intelligence and advanced technologies play an important role in adapting tourism offers to the constantly changing needs of guests. The Tourism Data Space brings together information from a wide range of sources - from publicly accessible open data to specific surveys conducted by the participating organisations. The sharing of data contributes to a better identification of behavioural patterns, the better understanding of needs, which makes the fine-tuning of touristic offers possible. The use of data contributes to a more sustainable tourism sector. (Tourism Data Space https://www.tourism-dataspace.com/de) Please see some illustrative use cases (https://www.datahub.tirol/use-cases).;;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;Datahub.tirol (https://www.datahub.tirol/) is a dataspace that has been created by using open data. One central goal is to improve availaible information and the guest experience for tourists when considering or staying in Tirol. The dataspace has greatly incrased overall efficiency and synergy among various participants in tourism, including tourists, hotels, restaurants, ski lift operators, leisure providers, energy providers and many more. Furthermore, new business models are being developed. Please find a list of use cases here: https://www.datahub.tirol/use-cases. For a highly developed tourism location such as Austria, digitalisation offers great opportunities to increase productivity and precisely target supply and demand. The use of digital data could help to protect sensitive environmental areas by managing visitor flows, increasing productivity and targeting supply to demand.;;;

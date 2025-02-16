@@ -1,0 +1,158 @@
+;Dimension 3: Open Data Quality;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;3.1 Currency and completeness;;;;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;"The NTI-RISP (technical standard compatible with the DCAT standard for the interoperability of data catalogues) establishes common conditions on the selection, identification, description, format, conditions of use and availability of the data sets produced or guarded by the public sector. These conditions are intended to facilitate and guarantee the re-use process, ensuring the persistence of information, the use of open formats, as well as the appropriate terms and conditions of use. Specifically, section III.5 of the NTI-RISP indicates that the information resources of periodic production or collection made available for re-use will be updated to their latest versions and the date of last update will be indicated, as well as the period of the update. 
+
+In this sense, the initiative promotes the management of data sets published automatically and periodically via federation (harvesting). Through the federation console, publishers are informed when there has been a problem updating the metadata so that they can be corrected.  ";Complement;Yes;Dataset publishers can adjust the harvesting frequency (daily, weekly, biweekly, monthly), to ensure that high-frequency data is always up-to-date.
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;90-99%;"The portal's backoffice has a federation management console, through which publishers manage and schedule automatic data harvesting tasks. The process is the following:
+- Publishers define the URI of the RDF/XML that contains the source open data catalog.
+- adjust the harvesting frequency: manual, daily, weekly, biweekly or monthly).
+- the national catalog parses the RDF and updates datasets.
+This process applies to all types of data published to source catalogs described using RDF."
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;All metadata is updated in the portal each time a scheduled federation task is run or a dataset is manually uploaded or updated is performed after validate that is free of errors.
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;"The responsibility for the management of published datasets lies with the publishing organizations. However, the support team carries out metadata quality audits and reviews these types of situations. In the case of time series, it indicates ""If a dataset can be defined as a series
+temporarily, the following is recommended:
+- ensure update frequency.
+- communicate and explain any update or modification to the model.
+- use temporal coverage metadata (dct:temporal) to express temporal information.
+- optionally, include as many distributions as necessary, avoiding unnecessary fragmentation of new datasets."""
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;Ongoing the adoption of a DCAT-AP HVDS catalog for HVDS.
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;As mentioned above, there is an ongoing project to adopt DCAT-AP HVDS catalog. Furthermore, Spain incorporates the corresponding metadata into the data linked to the INSPIRE directive, ensuring the interoperability of geospatial, earth observation and mobility data with other countries.
+;3.2 Monitoring and measures;;;;;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"The quality of the metadata is checked at the time of registration and/or update of each dataset. Datasets that do not meet the quality standards established in the Spanish NTI-RISP compatible with DCAT are not allowed. The automatic federation mechanism or the manual upload method generates reports addressed to the publishers reporting when these quality standards are not met so that the metadata can be adjusted correctly. Changes are not saved to the dataset catalogue until they are successful. 
+On the other hand, individualised audit processes are continuously carried out on publishers on the quality of metadata currently published on the portal. This audit follows the methodological approach of the Metadata Quality Assessment (MQA) proposed by the European Data Portal, evaluating the quality of metadata based on three complementary dimensions: discovery, interoperability and context. See evidence at: https://datos.gob.es/sites/default/files/datosgobes/dimension3_evidenciapregunta_92b_111a.jpg 
+Likewise, as has been mentioned previously, distribution URLs are periodically evaluated to inform data managers of possible broken links. This analysis generates a report in the portal for administrators and is also emailed to publishers. See evidence: https://datos.gob.es/sites/default/files/datosgobes/dimension4_evidenciapregunta_111b_111a.png ";Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;"A quantitative report on the quality of metadata is published annually at the following URL: 
+
+https://datos.gob.es/sites/default/files/datosgobes/informe_calidad_metadatos_2023.pdf 
+
+On the other hand, the reports of the automatic federations of data sets that collect details regarding the adjustment of metadata and the reports of broken links in the distributions are accessible only to publisher users and portal administrators.  See evidences: 
+https://datos.gob.es/sites/default/files/datosgobes/dimension4_evidenciapregunta_111b.png
+https://datos.gob.es/sites/default/files/datosgobes/dimension3_evidenciapregunta_111b_2.png 
+https://datos.gob.es/sites/default/files/datosgobes/dimension4_evidenciapregunta_111b_111a.png";Complement;Yes;"Updated quantitative report on the quality of metadata is published annually at the following URL: 
+
+https://datos.gob.es/sites/default/files/datosgobes/informe_calidad_metadatos_2024.pdf "
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;"In addition to the personalized support tasks (from May '23 to May '24, 685 support interactions were carried out with 149 different organizations) there are several guides aimed at both improving the quality of the metadata and the data itself. Specifically:
+
+- Practical Manual to improve Open Data Quality: https://datos.gob.es/en/documentacion/practical-manual-improve-open-data-quality
+- How to develop a plan of measures to promote openness and reuse of open data: https://datos.gob.es/en/documentacion/how-develop-plan-measures-promote-openness-and-reuse-open-data
+- Practical guide for publishing linked data in RDF: https://datos.gob.es/es/documentacion/guia-practica-para-la-publicacion-de-datos-enlazados-en-rdf 
+- Practical guide for publishing spatial data: https://datos.gob.es/es/documentacion/guia-practica-para-la-publicacion-de-datos-espaciales 
+- Practical guide for publishing tabular data in CSV format: https://datos.gob.es/es/documentacion/guia-practica-para-la-publicacion-de-datos-tabulares-en-archivos-csv 
+- Practical guide for publishing data through APIs: https://datos.gob.es/es/documentacion/guia-practica-para-la-publicacion-de-datos-abiertos-usando-apis 
+- Introduction to data anonymisation: Techniques and case studies: https://datos.gob.es/en/documentacion/introduction-data-anonymisation-techniques-and-case-studies
+- How to implement Linked Data, real case of the Aragón Open Data portal: https://datos.gob.es/es/documentacion/como-implementar-linked-data-caso-real-del-portal-aragon-open-data 
+- Open data in real time: use cases for smart cities: https://datos.gob.es/es/documentacion/datos-abiertos-en-tiempo-real-casos-de-uso-para-ciudades-inteligentes 
+- Guide that defines 40 priority data sets to be published by municipalities (an upgrade is currently underway that will increase the set of priority datasets to 80 datasets): https://datos.gob.es/es/documentacion/datos-abiertos-femp-2019-40-conjuntos-de-datos-publicar-por-las-entidades-locales
+- Data Visualisation Guide for Local Authorities: https://datos.gob.es/en/documentacion/data-visualisation-guide-local-authorities"
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;"The national open data policy, reflected in Law 37/2007, mandatory for the General Administration of the State, the Administrations of the Autonomous Communities and the Entities that make up the Local Administration, among other public bodies and the NTI-RSIP that develops specific aspects on reuse of information resources, indicates which metadata is mandatory, specifically, for data catalogs: Name, Description, Publisher, Creation date, Update date, Language, Subjects, Website, Terms of use (license) and information resource(s) (datasets). For datasets: Name, Description, Subjects, Publisher, Distributions. For distributions: access URL, format.
+
+https://www.boe.es/eli/es/res/2013/02/19/(4)/con
+
+We are now working on a new NTI-RISP fully compliant DCAT-AP that will be the current standard for all publishers in the state by the end of this year."
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;"Currently, the Initiative promotes the use of standard licenses (such as CC BY) for the re-use of public sector information in Spain. However, our current legislation indicates that open data publishers may provide licenses for the re-use of documents, which must be available in digital format and be processable electronically. The conditions incorporated in the licenses must respect the following criteria:
+
+a) They must be clear, fair and transparent.
+b) They must not restrict the possibilities of reuse or limit competition.
+c) They should not be discriminatory for comparable categories of re-use, including cross-border re-use.
+
+These conditions are compatible with the CC-BY 4.0 license.
+
+These conditions can be viewed at the following URL:
+https://datos.gob.es/en/avisolegal
+Royal Decree 24/2021: https://www.boe.es/buscar/act.php?id=BOE-A-2021-17910
+Royal Decree 1495/2011: https://www.boe.es/diario_boe/txt.php?id=BO
+
+Besides, the personalised audit documents for publishers provide a reference to the wizard for adjusting the re-use conditions of Open Data of the European Data Portal: https://www.europeandataportal.eu/es/training/licensing-assistant 
+On the other hand, the training unit is available https://datos.gob.es/en/documentacion/pautas-metodologicas-para-la-apertura-de-datos which contains basic guidelines for choosing the license for the opened data. "
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;1-4;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;As indicated above (Q7) individualized audit processes are continually carried out for editors on the quality of the metadata currently published on the portal. Between May 2023 and May 2024, 5 personalized audit jobs were carried out. This process of supporting organizations follows the methodological approach of the Metadata Quality Assessment (MQA) proposed by the European Data Portal, evaluating the quality of metadata based on three complementary dimensions: discovery, interoperability and context. See evidence at: https://datos.gob.es/sites/default/files/datosgobes/dimension3_evidenciapregunta_92b_111a.jpg
+;3.3 DCAT-AP Compliance;;;;;
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;"The Spanish specification for the interoperability of data catalogues, NTI-RISP, was defined in 2013 [https://www.boe.es/eli/es/res/2013/02/19/(4)/con] and is DCAT compliant. At this time, it is in the phase of adaptation to the DCAT-AP 2.1.1 specification and will soon be the reference standard for the interoperability of data catalogues in Spain. On the other hand, we are implementing a new national catalog (on CKAN) that will be fully compatible with DCAT-AP; DCAT-AP HVD; GeoDCAT-AP.
+
+Regarding mandatory goals, the current NTI-RISP follows the DCAT-AP guidelines except for the taxonomy of themes where there is some difference in naming in some topic. This is solved by mapping themes before generating the DCAT-AP compatible RDF that is federated at data.europa.eu."
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);71-90%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);71-90%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;The Spanish specification for the interoperability of data catalogues, NTI-RISP, was defined in 2013 [https://www.boe.es/eli/es/res/2013/02/19/(4)/con] and is DCAT compliant. At this time, it is in the phase of adaptation to the DCAT-AP 2.1 specification and will soon be the reference standard for the interoperability of data catalogues in Spain. ;Change;Yes;"We plan to have the revision of the current NTI-RISP fully compatible with DCAT-AP ready in the next quarter..
+
+As indicated in Q15, the main diffrence regards the use of vocabularies and the taxonomy of themes where there is some difference in naming in some topic. The latter is solved by mapping themes before generating the DCAT-AP compatible RDF that is federated at data.europa.eu. In the new version of NTI-RISP the use of vocabularies will be mandatory"
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;Yes;The lack of compatibility is detected and corrected through the mapping process indicated in previous questions. This will be fully resolved with the implementation of the new fully compatible NTI-RISP DCAT-AP on the new national portal before the end of this year.
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;51-70%;N/A;Confirm;;N/A
+;3.4 Deployment quality and linked data;;;;;
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;"The open data initiative has always taken into account the 5-Star Open Data model to classify distributions of data sets based on their publication format. In addition, our Government of Spain’s Data Office, take the FAIR principles as a basis for defining the guiding principles for the data and its infrastructures and facilitate its re-use. The initiative promotes the publication of open data from the 3-Star level of the Open Data scale and recommends progression within said scale. An example of this promotion is the “practical guide for the publication of linked data in RDF” that describes the process of transforming tabular datasets in CSV (3-Star) into linked and semantically enriched data (5-Star): 
+https://datos.gob.es/es/documentacion/guia-practica-para-la-publicacion-de-datos-enlazados-en-rdf 
+Reference to 5-Star Open Data categorised formats is available at the following URL: 
+https://datos.gob.es/es/faq/que-nivel-de-la-escala-de-las-5-estrellas-pertenece-cada-uno-de-los-formatos-disponibles-en ";Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;"Continuous promotion and dissemination of good practices is carried out to improve the quality of open data and specifically in the availability of data at the higher levels of the 5-Star Open Data scale. Some significant examples are the following: 
+- How to enrich data using reconciliation techniques using OpenRefine can be seen in some of the step-by-step visualizations available in the ""Documentation"" section, for example: https://datos.gob.es/en/documentacion/analysis-state-and-evolution-national-water-reservoirs
+- Interview with the manager of Open Data Portal of the University of Extremadura who explains the implementation of open data that uses ontological schemes and represents all the data in RDF. This organisation already benefits directly from organising the information it publishes in this way from the enormous potential for extracting and managing information for multiple purposes. One of the results obtained is the automatic generation of the annual research report through SPARQL queries. https://datos.gob.es/es/comunidad-risp/entrevista-adolfo-lozano-director-de-la-oficina-de-transparencia-y-datos-abiertos-de 
+- The following URL explains how to implement a 5-Star open data portal from scratch. It describes one of the most advanced initiatives in our country: https://datos.gob.es/es/documentacion/como-implementar-linked-data-caso-real-del-portal-aragon-open-data 
+- Finally, mention the training unit https://datos.gob.es/es/documentacion/pautas-metodologicas-para-la-apertura-de-datos where the 5-star scale is explained in the section on choosing formats for publishing the data. ";Complement;Yes;"In addition to the examples cited, the importance of publishing high-quality data continues to be disseminated. Among others:
+- Article ""Overcoming Data Publishing Challenges with Linked Data Event Streams (LDES)"": https://datos.gob.es/en/blog/overcoming-data-publishing-challenges-linked-data-event-streams-ldes
+- Semantically enriched data visualization exercise ""Generating personalized tourist map with ""Google My Maps"": https://datos.gob.es/en/documentacion/generating-personalized-tourist-map-google-my-maps
+- Article ""Vinalod: The tool to make open datasets more accessible"": https://datos.gob.es/en/blog/vinalod-tool-make-open-datasets-more-accessible"
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;>90%;N/A;Change;71-90%;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;71-90%;N/A;Change;>90%;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;<10%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;Confirm;;N/A

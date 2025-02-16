@@ -1,0 +1,317 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"Article 3 (point 4) of the Law on the Right to Information and Re-use of Data 
+https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.94745/asr. 
+„RESPONSE TO REVIEWER“: ""4 . Reuse of data - the use of data by applicants and/or their representatives for commercial or non-commercial purposes, which differ from the original purpose of data preparation, in the performance of a public function. Data exchange between institutions or between institutions and state-run entities in the performance of public functions is not considered data reuse.""";Complement;;"Article 3 (point 4) of the Law on the Right to Information and Re-use of Data: 4 . Reuse of data - the use of data by applicants and/or their representatives for commercial or non-commercial purposes, which differ from the original purpose of data preparation, in the performance of a public function. Data exchange between institutions or between institutions and state-run entities in the performance of public functions is not considered data reuse. 
+https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.94745/asr
+
+Article 2 point 4) of the Law on the Reuse of Health Data: 4. Reuse of health data - processing of health data in the areas specified in this law for purposes different from the original purpose of collecting health data. https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/72c77a52626411ecb2fe9975f8a9e52e/asr";;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;Open Data Portal  has tools in place to monitor data usage. Google Analytics is used to monitor data user behaviour as well. Also, a study was carried out in June 2022 to determine the level of the re-use of open data, the impact of open data etc. among public sector institutions (https://data.gov.lt/news/27). An overview of this study was published in September 2022 - https://data.gov.lt/news/30;Complement;;"1. The National Open Data Portal has tools to monitor data usage, including views, searches, downloads, feedback/comments on data quality.
+2. Google Analytics is also used to track user behavior.
+3. In June 2022, a study was conducted to evaluate the reuse of open data and its impact among public sector institutions. An overview of this study was published in September 2022. You can find more details here: (https://data.gov.lt/blog/2022/06/20/atlikta-duomenu-atverimo-pazangos-ir-poveikio-vertinimo-apklausa/) and the overview here: (https://data.gov.lt/blog/2022/09/29/kvieciame-susipazinti-su-pirminiais-atviru-duomenu-pazangos-ir-poveikio-vertinimo-apklausos-rezultatais/).
+4. The open data license (CC BY) requires users to cite the data source, which helps us identify such cases using search engines (Google etc.).
+5. The State Data Agency regularly showcases the best examples of open data usage at public events, seminars, workshops, and conferences. This task requires a regular scanning of media, social media, and scientific chat groups to find the most recent examples.";;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";yes;"A study/questionaire for institutions was carried out in June 2022 to determine the level of the re-use of open data, the impact of open data etc. among public sector institutions (https://data.gov.lt/news/27). An overview of this study was published in September 2022 - https://data.gov.lt/news/30. 
+The Ministry of Economy and Innovations periodically promotes re-use of open data seeking to show a sense of data opening for institutions:
+https://eimin.lrv.lt/lt/naujienos/auga-tiek-atvertu-duomenu-kiekis-tiek-domejimasis-jais 
+https://eimin.lrv.lt/lt/naujienos/pernai-gautos-159-uzklausos-del-duomenu-atverimo-populiariausi-teisingumo-ministerijos-duomenys
+";Complement;;"Most efforts are focused on persuading institutions to open their data, but several incentives are in place to encourage the reuse monitoring process:
+1. The State Data Agency leads an RRF-funded project aimed at centralizing national data and producing open data. This provides a strong incentive to monitor and collect best practices for using open data to convince other institutions to share their data with the centralized Data Lake.
+2. The State Data Agency makes public announcements each time it opens a dataset (https://duomenys.stat.gov.lt/naujienos/). After these announcements, the Agency searches for examples and use cases of reused published data. There is a feedback loop for agencies that provided the data for opening to receive feedback about data quality. Additionally, there is a centralized place to collect open data requests and an automated process to respond to such requests.
+3. As mentioned in the previous response (question I2, answer 3), a survey conducted in June 2022 evaluates the reuse of open data and its impact among public sector institutions.
+4. The Ministry of Economy and Innovation periodically promotes the reuse of open data to showcase the value of data openness for institutions:
+https://eimin.lrv.lt/lt/ziniasklaidai/naujienos/eimin-didesnis-duomenu-prieinamumas-ir-pakartotinis-naudojimas-leistu-sutaupyti-daugiau-kaip-4-mln-euru-valstybes-lesu/
+https://eimin.lrv.lt/lt/ziniasklaidai/naujienos/auga-tiek-atvertu-duomenu-kiekis-tiek-domejimasis-jais/
+https://eimin.lrv.lt/lt/ziniasklaidai/naujienos/pernai-gautos-159-uzklausos-del-duomenu-atverimo-populiariausi-teisingumo-ministerijos-duomenys/
+https://eimin.lrv.lt/lt/ziniasklaidai/naujienos/eimin-iniciatyva-atveriama-dar-daugiau-svarbiu-duomenu/
+5. The Information Society Development Committee encourages institutions, companies, and individuals to share their open data reuse cases:
+https://data.gov.lt/blog/2023/09/11/pasidalink-atviru-duomenu-panaudojimo-atvejais/
+https://www.linkedin.com/posts/information-society-development-committee_lietuvos-atvir%C5%B3-duomen%C5%B3-portale-httpsdatagovlt-activity-7107274048618831873-MUg5?utm_source=share&utm_medium=member_desktop";;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;There are opened more than 200 high-value data sets on the national opena data portal. It is used the same measures, mentioned in questions I2 and I3, are used to monitor and measure the level of reuse of high-value datasets. Also, there is a funcktionality on the the national portal to monitor the number of downloads of the each dataset, including high-value, for example: Data on waste generation and management is downloaded 5061 times, Data from annual water use accounting reports -5295, Information about water measuring stations - 8655 (https://data.gov.lt/datasets/?selected_facets=groups_exact%3A1&page=10). These numbers show the most populars high-value datasets and we can assume that these data are reused.;;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"The impact of open data is defined in a Methodology for assessing the impact of opening up data (definition is specified in page 1, point 3) The document for download is available - https://ivpk.lrv.lt/uploads/ivpk/documents/files/Poveikio%20vertinimo%20metodika_%20Projektas.docx 
+„RESPONSE TO REVIEWER“: ""3. The impact of data opening is understood as the added value of the open data initiative to the country's economy, social and political environment.""";Complement;;The impact of open data is defined in a Methodology for assessing the impact of opening up data (definition is specified in page 1, point 3. „The impact of data opening is understood as the added value of the open data initiative to the country's economy, social and political environment“). The document for download is available - https://ivpk.lrv.lt/uploads/ivpk/documents/files/Poveikio%20vertinimo%20metodika_%20Projektas.docx ;;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;Methodology for the monitoring of open datasets, establishing monitoring indicators for open datasets and the methods of monitoring the data opening is approved by the Order of Director of Information Society Development Committee - https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/b781e5c0804e11eb9fc9c3970976dfa1?jfwid=-a3k5cpix9.;Complement;;"Methodology for the monitoring of open datasets, establishing monitoring indicators for open datasets and the methods of monitoring the data opening is approved by the Order of Director of Information Society Development Committee - https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/b781e5c0804e11eb9fc9c3970976dfa1?jfwid=-a3k5cpix9.
+The Ministry of Economy and Innovation made carried out predictive calculations of the impact of open data on the Lithuanian economy according to the methodology of the European Commission (https://eimin.lrv.lt/uploads/eimin/documents/files/Open%20data%20Poveikis%20ekonomikai.pdf).";;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"""Transparency International Lithuania” collaborating with the Parliament to obtain data created online political integrity monitoring tool called Manoseimas.lt. The tool contains agendas of Members of Parliament including their meetings with interest groups and registered lobbyists allowing to compare the activity of individual MPs as well as different political groups. Moreover, recently the tool was updated with the data about long-term permits to access the Parliament, being one of the very few countries in the world to publish such information. Permits data was also matched with data from parliamentary committees meetings to see who and how much used their permits to participate in commitees discussions. Currently, Manoseimas.lt is being updated with 4 years data on committees’ meetings.";Complement;;"1. As mentioned in question I3, answer 2, the National Open Data Portal includes a feature for the civil society to request new open data. This functionality is promoted at every conference, workshop, and presentation in which the State Data Agency participates.
+2. The State Data Agency frequently meets with higher education institutions (both students and teachers) to discuss available open datasets and explore potential research topics. We are aware of at least three master's level students using our open data in their theses.
+3. The State Data Agency offers virtual environments with sensitive anonymized data for safe analysis. Some requests for sensitive data access are redirected to a different track, resulting in the creation of demand-driven open data collections accessible to everyone instead of private access.
+4. The State Data Agency, as the national statistics bureau, frequently receives inquiries about statistical indicators. Recently, the agency has developed a practice of converting individual single-indicator requests into universal demand-driven open datasets, allowing for wider reuse and more nuanced analysis, as this data is more detailed than simple statistical indicators.
+5. As the State Data Agency leads an RRF-funded project aimed at centralizing national data into a single Data Lake, one of its tasks is to systematically interview every potential data provider. So far, approximately 300 in-depth interviews have been conducted. Data providers are incentivized to share their data with the promise that making some data open will significantly reduce the burden of individual requests from the public, such as custom statistical indicators. Institutions are asked about the most frequent public requests, and these responses are treated as an indirect public survey (""what do people want to know""), leading to the publication of more useful datasets.
+6. ""Transparency International Lithuania,"" in collaboration with the Parliament, created an online political integrity monitoring tool called Manoseimas.lt. This tool includes the agendas of Members of Parliament, their meetings with interest groups, and registered lobbyists, allowing for comparisons between individual MPs and different political groups. Recently, the tool was updated with data on long-term permits to access the Parliament, making Lithuania one of the few countries to publish such information. Permit data was also matched with parliamentary committee meetings to track permit usage for committee discussions.
+7. The national Open Data conference, ""Open Data Opportunities - See What is Not Visible!"" aimed to present the work done by the public sector and the current affairs of data users. During the event, representatives from the OECD, Lithuania's public sector, business, and the academic community shared their current challenges, opportunities, and experiences in data impact and reuse (https://www.youtube.com/watch?v=owjZYMphpBI).
+8. The Information Society Committee cooperates with Mykolas Romeris University, presenting to master's students about the possibilities of open data.";;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;Yes;The National Open Data Portal includes a feature that enables the creation and storage of log files, as well as detailed analysis. The portal administrator performs thorough analyses of download statistics and other metrics on a daily basis.;;;
+I8-b;Surveys;new question;new question;Change;Yes;"Indirect surveys about the data the public wants to be opened are conducted using the method described in question I7, answer 5 (also 2,3 4). Direct survey on data demand is done via National Data Portal where there is a ""request data"" button.";;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;"1. Interviews and workshops are held on an ongoing basis, gathering information about re-use of data sets. 
+2. First focus groups -  ministry representatives  (that are also data re-users), others - private sector representatives. https://www.lrytas.lt/it/ismanyk/2023/10/26/news/ekspertai-kalba-atviru-duomenu-misija-kurti-vertingas-skaitmenines-paslaugas-bei-produktus-28888620. 
+3. Furthermore, during a project „Strengthening Results Oriented Management Capacities“ (https://lrv.lt/lt/vyriausybes-kanceliarija-1/apie-lrvk/lrvk-projektu-portfelis/igyvendinami-projektai/valdymo-gebejimu-stiprinimas/) at he begining of 2023, there were organized workshops „Aplication of data and open data in strategic management documents“. Target group strengthened knowledge and skills in the field of application of open data reuse in the preparation of annual reports.";;;
+I8-d;Other;new question;new question;Change;No;;;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;"1. The National Open Data Portal includes a section where any user can request additional open data sets. This feature is crucial because the goal of opening data to the public is to maximize accessibility, driven by demand, and to assess its positive impact on public interest, transparency, and business development (https://data.gov.lt/requests/submitted/).
+2. Every dataset on a the National Open Data Portal has a feedback collection mechanism: rating with stars and a text field.
+3. Additionally, users of the National Open Data Portal can utilize the GitHub platform to address technical issues related to the portal (https://github.com/orgs/atviriduomenys/repositories).
+4. A public chat group called ""Open Data"" has been created on the Microsoft Teams platform, allowing everyone to share their experiences, suggestions, news, and to collectively enhance and expand the field of open data knowledge.";;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;Yes;"There are few groups on social media dedicated to open data in Lithuania (https://www.facebook.com/groups/atviriduomenys), they are being tracked, and inforrmation analysed. 
+Additional relevant answers are provided in question I7.";;;
+I9-c;Other;new question;new question;Change;Yes;The State Data Agency purchases a third-party tool to gauge relevant media (and social media) sentiment on various topics (including open data).;;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;Re-use cases are gathered and published in Open data portal. Information about re-use cases are gathered through annual Open data surveys, during events (conferences and etc.), also following public information published via institution websites.;Complement;;"1. Plase see the answers to the question I8.
+2. Also, some information about re-use cases are gathered through annual Open data surveys, some during events (conferences and etc.), also following public information published via institution websites. 
+3. Some identified re-use cases are gathered and published in the National Open Data Portal. ";;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;"Classifications of the main topics can be found here: https://open-data-ls-osp-sdg.hub.arcgis.com/
+
+August Update
+Categories are ussually classified by policy field (e.g. environment, citizens, culture, social protection, health and etc.). For example, the State Data agency has identified the most popular fields – Covid-19 data, population and housing census, agricultural cesus and economic entities in operation and local units. 
+The State Data Agency provides not only open geospatial data of population and housing censuses, agricultural censuses, operating business entities, but also data on other topics. For example, the data of the Register of Cultural Values, the Register of Educational and Scientific Institutions, the General Help Center, etc. GIS applications are created operating open data. The demand for GIS applications comes from the Government, external (e.g. private sector), projects funded by EU. (https://open-data-ls-osp-sdg.hub.arcgis.com/)
+Furthermore, it is created the portal for Sustainable Development Goals. There each goal has dashboards of indicators which are created by using open data. (https://lithuaniasdg-ls-osp-sdg.hub.arcgis.com/)";Change;Yes;"Classifications of the main topics can be found here: https://open-data-ls-osp-sdg.hub.arcgis.com/
+Categories are ussually classified by policy field (e.g. environment, citizens, culture, social protection, health and etc.). For example, the State Data agency has identified the most popular fields – Covid-19 data, population and housing census, agricultural cesus and economic entities in operation and local units. 
+The State Data Agency provides not only open geospatial data of population and housing censuses, agricultural censuses, operating business entities, but also data on other topics. For example, the data of the Register of Cultural Values, the Register of Educational and Scientific Institutions, the General Help Center, etc. GIS applications are created operating open data. The demand for GIS applications comes from the Government, external (e.g. private sector), projects funded by EU. (https://open-data-ls-osp-sdg.hub.arcgis.com/)
+Furthermore, it is created the portal for Sustainable Development Goals. There each goal has dashboards of indicators which are created by using open data. (https://lithuaniasdg-ls-osp-sdg.hub.arcgis.com/)";;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";yes;"To advance data opening and digital transformation across different fields of public administration, the Government has established an Open Data and Digital Transformation Centre of Excellence, which is responsible for assisting institutions in their activities regarding planning of data opening and digital transformation and project implementation, coordination of inter-institutional activities, initiating of shared solutions and ensuring quality of implementation, dissemination of knowledge needed to open data and implement digital transformation, and monitoring of the implementation of initiatives. (https://lrv.lt/en/news/green-light-to-initiative-to-proceed-with-open-data-and-digital-transformation-centre-of-excellence)
+
+In the middle of 2022 Open Data Progress and Impact Assessment survey was conducted by Ministry of Economy and Innovation and Information Society Development Committee. 165 state and municipal institutions and bodies participated in it. The results showed that the majority of respondents positively assess the impact of open data on the economy, social and political environment. Institutional respondents used open data in implementing regulatory policies. (https://data.gov.lt/news/30)
+
+Datasets regarding different topics can be found on our national data portal, here are some examples classified by topics: Government and Public sector datasets - https://data.gov.lt/datasets?category_id=231 ; Justice, legal system and public safety datasets - https://data.gov.lt/datasets?category_id=139
+
+State Enterprise Centre of Registers is one of the main state data managers, which has its Open data strategy (https://www.registrucentras.lt/bylos/dokumentai/duomenys/aduomenys/Duomenu_atverimo_strategija_2020-06-26_Final_papildyta_2020-08-17.pdf).
+
+The Government of the Republic of Lithuania uses national and international resources of open data in solving the deep problems, decision making, preparation of strategic management documents, such as annual activity reports (https://lrv.lt/lt/aktuali-informacija/xvii-vyriausybe/strateginis-valdymas/vyriausybes-veiklos-ataskaitos-seimui).";Complement;;"To advance data opening and digital transformation across different fields of public administration, the Government has established an Open Data and Digital Transformation Centre of Excellence, which is responsible for assisting institutions in their activities regarding planning of data opening and digital transformation and project implementation, coordination of inter-institutional activities, initiating of shared solutions and ensuring quality of implementation, dissemination of knowledge needed to open data and implement digital transformation, and monitoring of the implementation of initiatives. (https://lrv.lt/en/news/green-light-to-initiative-to-proceed-with-open-data-and-digital-transformation-centre-of-excellence)
+
+In the middle of 2022 Open Data Progress and Impact Assessment survey was conducted by Ministry of Economy and Innovation and Information Society Development Committee. 165 state and municipal institutions and bodies participated in it. The results showed that the majority of respondents positively assess the impact of open data on the economy, social and political environment. Institutional respondents used open data in implementing regulatory policies. (https://data.gov.lt/blog/2022/09/29/kvieciame-susipazinti-su-pirminiais-atviru-duomenu-pazangos-ir-poveikio-vertinimo-apklausos-rezultatais/)
+
+The Ministry of Foreign Affairs uses national and international open data sources to preparate strategic management documents such as annual activity reports of the Ministry  (https://www.urm.lt/ministerija/veikla/veiklos-ataskaita/171). 
+In order to ensure the safety of its citizens and provide information about travel to other countries, as well as the need for visas, the Ministry of Foreign Affairs of Lithuania has created and uses the website https://keliauk.urm.lt/, which is updated taking into account international challenges, natural cataclysms and bilateral agreements. The Ministry of Foreign Affairs has opened a data set ""Data of consular information for those traveling and living abroad"" (https://data.gov.lt/datasets/1046/), which is updated in cases of changes in the visa regime.
+
+Datasets regarding different topics can be found on our national data portal, here are some examples classified by topics: Government and Public sector datasets - https://data.gov.lt/datasets/?selected_facets=category_exact:231; Justice, legal system and public safety datasets - https://data.gov.lt/datasets/?selected_facets=category_exact:139
+
+State Enterprise Centre of Registers is one of the main state data managers, which has its Open data strategy (https://www.registrucentras.lt/bylos/dokumentai/duomenys/aduomenys/Duomenu_atverimo_strategija_2020-06-26_Final_papildyta_2020-08-17.pdf).
+
+The Government of the Republic of Lithuania uses national and international resources of open data in solving the deep problems, decision making, preparation of strategic management documents, such as annual activity reports (https://lrv.lt/lt/apie-vyriausybe/strateginis-valdymas/ataskaitos-1/vyriausybes-veiklos-ataskaitos-seimui/ ; https://lrv.lt/lt/apie-vyriausybe/strateginis-valdymas/ataskaitos-1/nacionalinio-pazangos-plano-igyvendinimo-ataskaitos/).
+";;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The Department of Environmental Protection, strengthening waste management in the country, created an interactive map  at www.tvarkaulietuva.lt in 2023. It can be used to mark contaminated places in nature, damaged forest roads and destroyed forest floor and monitor the progress of management. From May of 2024, it is possible to mark the bark-boring typographer and its likely breeding sites on the map. There are online platform and app.
+ URL to reuse case: https://tvarkaulietuva.lt/
+URL to the open data dataset, related to reuse case: https://www.geoportal.lt; https://www.geoportal.lt/metadata-catalog/catalog/search/resource/details.page?uuid=%7B83C067E7-7EE1-4AF2-B573-2CC09250E70C%7D";;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Open Lithuanian finance lietuvosfinansai.lt  website opens up systemized and detailed data on Lithuanian public finances, the sources of which are sets of budget execution and financial statements. Also, the website automatically generate some financial reports, statistics and applications on the specific area or indicator. The purpose of data opening is to ensure the publicity of state financial data, to stimulate interest in the state financial management processes, to create preconditions for greater transparency and comprehensibility of the activities of public sector entities.
+URL to reuse case: https://lietuvosfinansai.lt/
+URL to the open data datasets, related to reuse case: https://rinkiniai.lietuvosfinansai.lt/dataset/
+";;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The State Data Agency publishes operational and detailed statistics of migrants who have crossed the state border illegally. These data allow to perform a detailed analysis of the situation, make reasonable decisions on its management and forecast the course of the situation. The number of migrants who crossed the state border illegally, their number by declared citizenship, gender, age groups, statistics of illegal migrants by municipality is published on the light board . 
+URL to reuse case: https://www.arcgis.com/apps/dashboards/9b0a008b1fff41a88c5efcc61a876be2 
+URL to the open data datasets, related to reuse case: https://data.gov.lt/datasets/?q=migracij&selected_facets=organization_exact%3A78";;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Road traffic information system of state importance, called EIS. The purpose of creating this system is to enable road users and road maintenance companies to use traffic data collected automatically and stored in one place. Data is collected into the EIS from several automatic weather stations, called KOS stations. These are roadside devices with sensors that measure parameters needed to determine road condition and traffic conditions (road surface temperature, air temperature and relative humidity, dew point, wind direction, speed and gusts, intensity and type of precipitation, visibility, road surface condition, frozen depth of road structures, etc.). The system also collects video data, which is collected from cameras installed and additionally installed at KOS stations. Another and no less important goal of EIS is to inform road users about traffic conditions, traffic disturbances, applied traffic management measures on roads and to provide users with the opportunity to perform automated traffic data analysis. 
+URL to reuse case: https://eismoinfo.lt/#!/
+URL to the open data datasets, related to reuse case: https://data.gov.lt/datasets/1250/ ; https://data.gov.lt/datasets/1249/; https://data.gov.lt/datasets/1248/";;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";yes;"In 2022 Open Data Progress and Impact Assessment survey‘s results showed that open data created impact on social challenges - 73 % respondents from 165 state and municipal institutions and bodies (please look at the chart No. 12,  https://data.gov.lt/news/30)
+
+==Original===
+During the action of the plan for the implementation of the provisions of the program of the Eighteenth Government of the Republic of Lithuania “Create a common platform for monitoring NGO funding and develop an NGO database in order to ensure the collection of high-quality open data on the NGO sector” in 2022 a feasibility study was carried out, discussions were held with interested organizations and institutions, data on the sector was collected and analyzed in order to better prepare for the database development works (https://socmin.lrv.lt/uploads/socmin/documents/files/veikla/planavimo-dokumentai/2023/2023-03-20%20SADM%202022%20m_%20veiklos%20ataskaita_teikti.pdf).
+
+VAPRIS - medicinal products information system (https://vapris.vvkt.lt/vvkt-web/public/medications), where we can find any information about medicinal product that is of interest to society (medicines, personal licenses, company licenses, submit ADR (for patients or specialists)).
+
+Datasets regarding different topics can be found on our national data portal, here are some examples classified by topics: Social security datasets - https://data.gov.lt/datasets?category_id=85 ; Healthcare datasets - https://data.gov.lt/datasets?category_id=96 ; Education - https://data.gov.lt/datasets?category_id=115 ; Culture datasets - https://data.gov.lt/datasets?category_id=63";Complement;;"In 2022 Open Data Progress and Impact Assessment survey‘s results showed that open data created impact on social challenges - 73 % respondents from 165 state and municipal institutions and bodies (https://data.gov.lt/blog/2022/09/29/kvieciame-susipazinti-su-pirminiais-atviru-duomenu-pazangos-ir-poveikio-vertinimo-apklausos-rezultatais/)
+Quality and sustainable NGO development policy making requires reliable data on the NGO sector. In implementing action 3.6.1 of the plan of the Government of the Republic of Lithuania, ""To create a common platform for the monitoring of NGO funding and to develop an NGO database in order to ensure the collection of high-quality open data on the NGO sector"" in 2023 the first sets of required data are obtained. At the beginning of the year, after evaluating the alternatives, separate NGO databases (as separate systems) development and maintenance costs, a decision was made instead of the planned acquisition of the database, those collect the data itself in cooperation with the State Data Agency. It was formulated and coordinated during the year requesting the necessary data and receiving the first data, which are currently being processed and prepared for analysis. (https://socmin.lrv.lt/media/viesa/saugykla/2024/3/pAyPc83xHZE.pdf).
+
+Datasets regarding different topics can be found on our national data portal, here are some examples classified by topics: Social security datasets - https://data.gov.lt/datasets/?selected_facets=category_exact:85; Healthcare datasets - https://data.gov.lt/datasets/?selected_facets=category_exact:96 ; Education - https://data.gov.lt/datasets/?selected_facets=category_exact:229; Culture datasets - https://data.gov.lt/datasets/?selected_facets=category_exact:63";;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"1. The State Data Agency collects and publishes daily data on war refugees from Ukraine. This information includes details on daily immigration flows categorized by age, gender, and profession, as well as the distribution of refugees across various regions in Lithuania. Journalists frequently monitor and reference this data. Notably, we have received numerous requests from citizens seeking contact information for refugees in specific professions (e.g., IT sector, engineers, scientists) to offer them employment. As a result of this extensive open data on refugees, a new website was created to coordinate efforts by Lithuanians who wish to provide aid to refugees, including housing, food, and household items.
+URL to the open data dataset, related to reuse case: https://data.gov.lt/datasets/2566/
+URL to reuse cases:
+  https://experience.arcgis.com/experience/7b39dbfae2b74f4491dc69afdd2ba0a5/
+  https://stipruskartu.lt/";;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Kurgyvenu.lt collects and analyzes all the relevant information about the real estate and living environment. This data/information comes from local governments, public authorities, heat supply companies and other institutions. Here you will find utility taxes, real estate market value, crime rate, air pollution, noise level, distances, demographic situation of your district, school rankings and all the other useful information. 
+URL to the reuse case: https://kurgyvenu.lt/
+URL to the open data datasets, related to reuse case (an example of the city of Vilnius) : https://opendata.vilnius.lt/lt/dataset/vilnius-addresses; https://opendata.vilnius.lt/lt/dataset/vilniaus-miesto-triuksmo-prevencines-zonos; https://opendata.vilnius.lt/lt/dataset/vilniaus-miesto-administracines-ribos; https://opendata.vilnius.lt/lt/dataset/viesojo-transporto-stoteles and etc.";;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The Ministry of Health, in collaboration with the State Patient Fund and the State Data Agency, has created a dataset and a dashboard to monitor patient waiting times for doctor appointments. The dashboard displays data from the Advance Patient Registration Information System, enabling the monitoring of queue dynamics, identification of problematic areas, and assessment of the effectiveness of implemented measures.
+URL to the reuse case: https://osp.stat.gov.lt/pacientu-eiles
+  announcement: (https://sam.lrv.lt/lt/news/pradejo-veikti-naujas-eiliu-stebejimo-irankis-interaktyvi-svieslente/)
+URL to the open data datasets, related to reuse case: https://data.gov.lt/datasets/1516/; https://data.gov.lt/datasets/1536/; https://data.gov.lt/datasets/1801/ and etc.";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"During a project „Strengthening Results Oriented Management Capacities“ (https://lrv.lt/lt/vyriausybes-kanceliarija-1/apie-lrvk/lrvk-projektu-portfelis/igyvendinami-projektai/valdymo-gebejimu-stiprinimas/) at he begining of 2023, there were organized workshops „Aplication of data and open data in strategic management documents“. Target group strengthened knowledge and skills in the field of application of open data reuse in the preparation of annual reports (https://www.delfi.lt/uzsakomasis-turinys/premium/duomenu-ir-atviru-duomenu-valdymas-dalis-viesojo-sektoriaus-specialistu-kompetenciju-92395709). For example,  the Ministry of Economy and Innovation held in 2022 performance report based on different data sources, including open data. The target group practiced to base decisions on data and open data and to form analytical conclusions in strategic management documents.
+URL to the reuse case (example of the Ministry of Economy and Innovation): https://eimin.lrv.lt/lt/ekonomikos-ir-inovaciju-ministerija/administracine-informacija/veiklos-ataskaitos/
+URL to the open data datasets, related to reuse case: https://data.gov.lt/datasets/1787/, https://data.gov.lt/datasets/665/, https://data.gov.lt/datasets/500/, https://data.gov.lt/datasets/2482/, https://data.gov.lt/datasets/1671/, https://data.gov.lt/datasets/2472/ and etc.
+
+Additional information:
+1. The State Data Agency employs and promotes a hiring practice in which candidates are given an openly accessible dataset to analyze, allowing them to demonstrate their competence and showcase their creativity.
+2. The State Data Agency organizes school competitions that require participants to use open data.
+3. Various educational institutions, such as Turing College, LSMU, and CodeAcademy, organize hackathons that utilize national open data.
+4. Students are enthusiastic about shifting from synthetic or small real datasets to using real-world data, where the number of rows often reaches tens of millions.
+5. The State Data Agency conducts hands-on analytical workshops and seminars for public sector employees (25 teaching hours during February-May 2024, attendance ~300 individuals). These events exclusively use open data, aiming to uncover various phenomena within the data.
+6. Governmental institutions are adopting a new approach to public requests: instead of calculating statistical indicators on-demand, they refer users to detailed open data, allowing users to aggregate and analyze the data themselves (and instructing how to do it).
+7. A new trend is emerging in investigative and analytical journalism, where journalists use open data to identify societal issues through systematic methods. Examples include: 
+  https://www.facebook.com/sienalt
+  https://www.facebook.com/RedakcijaLT
+  https://www.facebook.com/laisvestv
+  https://www.facebook.com/skirmantas.malinauskas.tiesayrasvarbu
+8. Another new trend is the emergence of ""pop-science"": Facebook pages and content creators who use open data to derive insights through engaging visualizations and statistical methods:
+  https://www.facebook.com/gytis.dudas
+  https://www.facebook.com/vzemlys
+  https://www.facebook.com/duomenureikalai
+  https://www.facebook.com/mazvydasj
+  https://www.facebook.com/nerijus.maciulis
+  https://www.facebook.com/raminta.pp";;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";yes;"In 2022 Open Data Progress and Impact Assessment survey‘s results showed that open data created impact on environmental challenges - 40 % respondents from 165 state and municipal institutions and bodies (please look at the chart No. 14,  https://data.gov.lt/news/30)
+
+==Original==
+
+
+1.	Portal “Tvarkau miestą” (https://tvarkaumiesta.lt/)  allows users to inform the relevant city municipality about problems in the city (abandoned cars, garbage, lighting, etc.)/ The portal uses and shows data for 8 cities on real time. 
+2.	Unified information system for accounting for products, packaging and waste – GPAIS (https://www.gpais.eu/web/guest) .GPAIS is dedicated to the collection, analysis and control of product, packaging and waste (GPA) accounting data. With its help, accounting of waste generation, management, supply of products and packaging to the domestic market is carried out, and other GPA accounting data is processed. In addition, GPAIS is a directory of manufacturers and importers. GPAIS functions include reporting and other document submission, report verification, data analysis and processing, and other processes.
+3.	Datasets on different domains can be found on our national data portal, here are some examples classified by topics: 
+Energy datasets - https://data.gov.lt/datasets?category_id=62; 
+environment datsets - https://data.gov.lt/datasets?category_id=1;
+transport datasets - https://data.gov.lt/datasets?category_id=161;
+regions and cities - https://data.gov.lt/datasets?category_id=244.
+";Complement;;In 2022 Open Data Progress and Impact Assessment survey‘s results showed that open data created impact on environmental challenges - 40 % respondents from 165 state and municipal institutions and bodies (please look at the chart No. 14,  https://data.gov.lt/blog/2022/09/29/kvieciame-susipazinti-su-pirminiais-atviru-duomenu-pazangos-ir-poveikio-vertinimo-apklausos-rezultatais/).;;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Kurgyvenu.lt/  collects and analyzes all the relevant information about the real estate and living environment. This data/information comes from local governments, public authorities, heat supply companies and other institutions. Here you will find utility taxes, real estate market value, crime rate, air pollution, noise level, distances, demographic situation of your district, school rankings and all the other useful information. Data about air pollution level and etc. allows to identify most polluted areas in the city, and stimulate the necessary protection decisions to change situation for the better. 
+Kurgyvenu.lt is an open data reuse case, because this tool represents short reports about the place wanted to know. Reports are generated using open data. This service helps citizens to know about the place topics in different areas. Also the State and municipalities, others stakeholders can  perform various researches and propose solutinios how to manage, for instanse, air pollution quality.
+URL to the reuse case: https://kurgyvenu.lt/
+URL to the open data datasets, related to reuse case: https://data.gov.lt/datasets/500/; https://data.gov.lt/datasets/2073/; https://data.gov.lt/datasets/360/ and etc.";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"""Park and Ride"" sites are designed for drivers who prefer to switch to public transportation mid-journey. These sites are conveniently located near public transport stops. Use cases include mobile apps and websites that provide information about the locations of these sites and real-time positions of nearby public transportation. These products leverage various open datasets to deliver this information.
+
+URL to the reuse case: https://judu.lt/vairuotojams/statyk-ir-vaziuok-aiksteles/;  https://judu.lt/vairuotojams/
+URL to the open data datasets, related to reuse case: https://opendata.vilnius.lt/lt/dataset/viesojo-transporto-stoteles; https://opendata.vilnius.lt/lt/dataset/vilniaus-m-gatviu-ir-privaziavimu-asines-linijos-wgs-84; https://opendata.vilnius.lt/lt/dataset/vilniaus-miesto-transportiniai-rajonai; https://opendata.vilnius.lt/lt/dataset/vilnius-addresses and etc.";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"A valuable tool for monitoring flood risks in Lithuania has been developed. This public web map utilizes open data and serves various target groups, including emergency services, nature conservation officers, waterway institutions, road and railway authorities, municipalities, and citizens. Certain areas in Lithuania become particularly hazardous in the spring or after severe storms. This tool plays a significant role in proactively informing stakeholders about impending or current floods, enabling them to prepare and respond appropriately. Moreover, it assists in the development of essential infrastructure in high-risk areas to prevent disasters. The government relies on the flood threat and risk data provided by this tool to make informed decisions and develop effective strategies and plans (https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/394a366681fc11edbdcebd68a7a0df7e(https://aaa.lrv.lt/uploads/aaa/documents/files/2023%2004%2026%20Visas%20planas.pdf; https://www.e-tar.lt/portal/lt/legalAct/03eba4c0e41e11ed9978886e85107ab2)
+URL to the reuse case: https://potvyniai.aplinka.lt/map
+URL to the open data datasets, related to reuse case: https://data.gov.lt/datasets/1779/; https://data.gov.lt/datasets/548/; https://data.gov.lt/datasets/2045/; https://data.gov.lt/datasets/2008/; https://data.gov.lt/datasets/2002/; https://data.gov.lt/datasets/1982/ and etc.";;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Registration system for public charging stations for electric vehicles. Map of electric vehicle charger stations shows their location across the country, inspiring people to use green energy. 
+URL to the reuse case: https://ev.lakd.lt/
+URL to the open data dataset, related to reuse case: https://data.gov.lt/datasets/1854/";;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";yes;"In 2022 Open Data Progress and Impact Assessment survey‘s results showed that open data created impact on economic - 53 % respondents from 165 state and municipal institutions and bodies (please look at the chart No. 11,  https://data.gov.lt/news/30)
+
+===Original====
+1.	Open data is a significant resource for developing services and products. Natural and legal persons (companies, startups and etc.) can use open data published on the Lithuanian open data portal free of charge. It is also possible to submit a request for missing data on the open data portal. We conduct different projects, which bring together public and private sector or create some other value. Our lasts projects: https://govtechlab.lt/lt/version_winner/4-0/.  
+2.	Datasets on different domains can be found on our national data portal, here are some examples classified by topics: sience and technology datasets - https://data.gov.lt/datasets?category_id=229. 
+";Complement;;"In 2022 Open Data Progress and Impact Assessment survey‘s results showed that open data created impact on economic - 53 % respondents from 165 state and municipal institutions and bodies (please look at the chart No. 11,  https://data.gov.lt/blog/2022/06/20/atlikta-duomenu-atverimo-pazangos-ir-poveikio-vertinimo-apklausa/). An overview of this study was published in September 2022 - https://data.gov.lt/blog/2022/09/29/kvieciame-susipazinti-su-pirminiais-atviru-duomenu-pazangos-ir-poveikio-vertinimo-apklausos-rezultatais/). 
+he Ministry of Economy and Innovation made carried out predictive calculations of the impact of open data on the Lithuanian economy according to the methodology of the European Commission (https://eimin.lrv.lt/uploads/eimin/documents/files/Open%20data%20Poveikis%20ekonomikai.pdf).";;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"A private company ""Neurotechnology"" has developed a solution that automates the collection of freely available data to analyze labor market trends and forecast future needs. This tool offers a comprehensive and systematic forecast of regional labor market demands, aiding in the targeted organization of local vocational guidance and the development of training and retraining programs, while reducing human and financial resource requirements.
+URL to the reuse case: https://www.neurotechnology.com/case-study-panevezys-now-netgeist-hr.html  or https://data.gov.lt/projects/32
+URL to the open data datasets, related to reuse case: https://data.gov.lt/datasets/224/; https://data.gov.lt/datasets/223/; https://data.gov.lt/datasets/222/; https://data.gov.lt/datasets/211/ and etc.";;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The three-dimensional map of the real situation allows not only to see the city virtually, but also to assess the changes taking place in it. The interactive map helps to see public spaces, residential buildings, roads and other projects planned in the residential area. Everyone is given the opportunity to see ongoing and planned projects, to assess their importance for the quality of life. The 3D city map allows the municipality and design, real estate companies and all those contributing to the city's well-being to understand what impact the planned projects will have on the city's development and the well-being of the citizens. Five interactive maps are presented to the public:
+ - 3D model of a real image - the current situation of the city is presented, it provides an opportunity to get acquainted with the changes and directions of development of the city.
+ - 3D city model - detailed representation of city buildings and objects.
+ - Oblique view aerial photos - the territory and the objects in it are depicted from different sides. You can see the park near your house from different angles.
+ - Project proposals and technical projects - information about the planned construction design and solutions.
+ - Solar Energy Potential - provides general information on solar radiation indicators, allowing you to assess the potential of solar panels in your office building or apartment building.
+URL to the reuse case: https://3d.vilnius.lt/
+URL to the open data datasets, related to reuse case: https://opendata.vilnius.lt/lt/dataset/vilniaus-miesto-seniunaitiju-ribos; https://opendata.vilnius.lt/lt/dataset/vilniaus-miesto-nomenklatura-500-trapecine; https://opendata.vilnius.lt/lt/dataset/vilniaus-miesto-adresai-taskai; https://opendata.vilnius.lt/lt/dataset/vilniaus-miesto-administracines-ribos and etc.";;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Lithuanian startup ""Ocredo"" enables small European companies to take advantage of greater business opportunities. By using different open datasets, this company creates a product that makes it easy to understand data and help businesses solve problems.
+URL to the reuse case: https://okredo.com/lt-lt/atviru-duomenu-platforma (https://bznstart.lt/verslas/startuolis/vilniuje-isikurusi-okredo-pritrauke-650-tukst-euru-uz-atviru-duomenu-platforma/, https://www.facebook.com/OkredoLT/videos/561536649037977/)
+URL to the open data datasets, related to reuse case: https://data.gov.lt/datasets/1633/; https://data.gov.lt/datasets/1666/; https://data.gov.lt/datasets/1710/; https://data.gov.lt/datasets/1212/; https://data.gov.lt/datasets/1938/; https://data.gov.lt/datasets/1911/ and etc.
+";;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"An open dataset detailing the locations of ATM machines is being used to develop applications and maps that assist citizens in finding the nearest ATM. Journalists and citizen scientists are leveraging this data to calculate the average travel time to the closest ATM, which helps estimate accessibility for residents in remote or suburban areas.
+  dataset: https://data.gov.lt/datasets/2003/
+  reuse cases:  
+  https://bankomatas.lt/#bankomatu-vietu-gidas
+  https://www.delfi.lt/verslas/verslas/igyvendintas-100-bankomatu-regionuose-pazadas-ketvirtis-milijono-salies-gyventoju-issigryninti-pinigus-gales-lengviau-91540375";;;

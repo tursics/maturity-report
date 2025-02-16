@@ -1,0 +1,118 @@
+;Dimension 3: Open Data Quality;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;3.1 Currency and completeness;;;;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;"General Information about best practices is provided on data.gv.at. The Cooperation OGD Austria serves as a forum for continuous exchange and dialogue.
+
+Response to reviewers:
+We have a structured approach to ensure that metadata is kept up-to-date, consistent with the characteristics and requirements of individual datasets. The approach involves several components:
+
+1. Data Stewardship: Each dataset is assigned to a data steward responsible for its upkeep.
+2. Time-Triggered Updates: Some datasets have predefined schedules for updates, which are built into our system to automatically prompt the responsible data steward.
+3.  Event-Triggered Updates: Other datasets are updated when specific events occur (e.g., legislative changes, significant weather events).
+4.  User Feedback Mechanism: Users can report issues with the metadata, which are then reviewed and acted upon.
+5. Cooperation OGD Austria Forum: This serves as a platform for data providers and stakeholders to discuss best practices, challenges, and methods for keeping data and metadata up-to-date.
+6.  Quality Checks: Automated and manual quality checks are performed to ensure metadata accuracy.
+7. Documentation: Best practices and guidelines for metadata updating are documented and provided to all data stewards and contributors.
+
+By combining these methods, we ensure that our metadata is accurate, reliable, and up-to-date, meeting the varying requirements of different types of data.";Confirm;;
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;90-99%;Automated harvesting from local or regional portals
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one week;Metadata of the City of Vienna is usually updated within hours. All metadata should be updated within 1 week, e.g. in case of possible manual updates.
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;No;In general, it is up to (local or regional) data providers to cover the full period and to maintain a high level of data quality. With the implementation of the new data strategy (in 2024) and the implementation of the EU Data Governance Act (DGA) a certain public sector body will have the transversal task to support other public sector bodies in enhancing and maintaining the quality of protected and open data. Against this backdrop, further measures should be introduced to provide for guidance, coherent metadata standards and more. Until that, the team of data.gv.at provides ad hoc assistance for data providers.
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;For geographical data, earth observation and environment data and meteorological data the INSPIRE Directive 2007/2/EC applies. The national INSPIRE body supervises the implementation and cross-border interoperability
+;3.2 Monitoring and measures;;;;;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"Data quality checks are possible via platform tools such as bulk exports. An updated ADEQUATE data quality checking instrument for metadata is envisaged (ADEQUATe - Analytics & Data Enrichment to improve the QUAliTy of Open Data).
+
+Response to reviewers:
+We employ a multi-tiered approach to monitor the quality of metadata on our portal:
+
+1. Automated Scans: Our platform conducts automated scans at regular intervalls to assess the quality of metadata. 
+2. ADEQUATe Tool: We are planning to employ the ADEQUATe data quality checking instrument for metadata, which will enable us to perform analytics and data enrichment to improve metadata quality.
+3. User Feedback: We have a feedback mechanism that allows users to report issues with metadata, which are then reviewed and corrected if needed.
+4. Audit and Review: We also perform a manual audit of metadata, especially for high-value datasets, to ensure that they meet quality standards.
+
+By employing these strategies, we aim to maintain the highest possible metadata quality to ensure that our datasets are useful, reliable, and easy to find and use.";Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";no;;Confirm;;
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;"o) General guidance on open data (Ein Leitfaden für offene Daten) (https://www.data.gv.at/anleitung) and publishing guidance (Veröffentlichungsleitfaden) (https://www.data.gv.at/wp-content/uploads/2019/04/datagvat-veroeffentlichungsleitfaden_2019.pdf)
+o) General starting point (https://www.data.gv.at/daten/anleitung-zur-datenveroeffentlichung/)
+o) Handbook (Handbuch Data Cockpit) (https://www.data.gv.at/wp-content/uploads/Benutzerhandbuch-datagvat-Cockpit.pdf)
+o) Open Data Folder and Guidance for publishers from April 2023 by data.gv.at (https://www.data.gv.at/flyer/)"
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;Data providers have to meet general quality criteria according to the national metadata reference standard (https://go.gv.at/ogdmetaen). Furthermore the transition to DCAT-AP.at is in progress (dcat-ap.at).
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;The Austrian Framework for Open Government Platforms serves as official agreement between the federal and state levels. According to this agreement, CC-BY 4.0 is mandatory for Austrian public sector bodies for the publication of  Open Government Data. URL: https://go.gv.at/ogdframeen. See also the national Framework for Open Government Documents (https://go.gv.at/ogdocs).
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;1-4;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;The Federal Act on the Re-Use of Information stipulates the establishment of open data coordinators. These coordinators are gradually being set up within the public sector and provide regular assistance in supplying high-quality datasets.
+;3.3 DCAT-AP Compliance;;;;;
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;The Austrian metadata standard is fully compliant with DCAT-AP. Austrian Metadata specification 2.6 (https://go.gv.at/ogdmetaen). Explanation of the metadata interface (https://go.gv.at/xmlmeta). A working group on the transition to DCAT has been formed. Against the backdrop of the ongoing working group, we envisage to increase available information on DCAT-AP. Furthermore the transition to DCAT-AP.at is in progress (dcat-ap.at).
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);>90%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";no ;Austria is still in the process of implementing DCAT-AP as national standard.;Confirm;;
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;No;
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+;3.4 Deployment quality and linked data;;;;;
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;Austria applies the default 5 star open data quality model to assess the quality of data deployment.;Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;Yes. There is general continuous encouragement for improved data quality. Furthermore, the Cooperation OGD Austria releases regular information on raising data availabilty and quality. Additionally best practices and experiences of other Member States and public sector bodies are being communicated.;Confirm;;
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;>90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;>90%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;>90%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;Confirm;;N/A

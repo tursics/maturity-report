@@ -1,0 +1,147 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";Other;Malta has a legal instrument, Chapter 546 together with provisions for subsidiary laws for each of the Base Registers. The Law is not specific to open data but data in general.;Confirm;;;;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;A holistic data strategy was published as draft for national discussion. It has now been revisted to focus on the public administration.;Confirm;;;;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";Not Applicable;Strategy is at a National level since the regional scope is limited in Malta mainly due to size.;Confirm;;;;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;Yes, are measures in place to standardise and re-use aspects such as discovery, meta data management and tools to facilitate human readability.;Confirm;;;;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;The strategy includes a digital first apporach with the functionality managed by data owners through APIs ;Confirm;;;;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;No, although data altruism is encouraged it is not incentivised.;Confirm;;;;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";yes;All data is to be registered on the National Data Portal (Register of registers)which is subsequently harvested by earo.europa.eu;Confirm;;;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;The strategy is for data to be Open by default. Once Registered owners are required to link to this source data.;Confirm;;;;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;The strategy is for data to be Open by default. One of the measures is also to study the possibility of allowing extrenal organisations to use certain 'closed' data.;Confirm;;;;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;Register the register and dataset in the NDP (Register of registers);Confirm;;;;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;All data is to be regitered.;Confirm;;;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;Yes, each Theme contact point is working towards fulfilling the  HVD requirements. The National Data Portal will also be enhanced.;;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;4;4;3;4;2;4;2;;;;
+P11-b;Earth observation and environment;4;4;4;3;2;4;3;;;;
+P11-c;Meteorological;3;2;4;2;1;4;2;;;;
+P11-d;Statistics;4;4;4;4;4;4;3;;;;
+P11-e;Companies and company ownership;4;4;4;4;4;4;3;;;;
+P11-f;Mobility;4;4;3;3;2;4;2;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;HVD enhancements are due for Q4. ;;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;Chief Data Officer and Data Governance Council, The Data Governance Council acts as a coordination and mediation body for all Public Service data requests. The DGC may be involved in discussions with Stakeholders about data governance and open data publishing matters.;;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";Hybrid;Data repositories are identified through legal instruments but data owners can register their registers/datasets;Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;Malta's small size permits to cover the whole country through National initiatives, however, if required regional councils may be involved to contribute operationally;;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";Not Applicable;Due to Malta's size regional governance is limited.;Confirm;;;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";No;;Change;Yes;This is described in the subsidiary legislation https://legislation.mt/eli/sl/546.1/eng ;;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";Yes;These responsabilities are performed by the same team.;Confirm;;;;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";Yes;A proposal is in place for current Data Protection Officers to take over additional responsabilities ;Confirm;;;;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";Yes;The team under the supervision of the Data Governance Coucil communicates with Ministry CIOs or his deligate.;Change;Yes;The team under the supervision of the Data Governance Council communicates with Miinistry CIOs or delegate.;;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";Yes;The team's parent organisation has an MOU with the national Univertsity for such measures.;Confirm;;;;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";Yes;The Register of Registers contains links to the digital source and also the publisher of the specific dataset eminating from the register.;Confirm;No;;;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";Yes;We monitor and liaise with register owners in maintaining the register or registers.;Confirm;;;;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;No;Due to the long list of actions in our strategy we are embarking on an action plan of the work to be performed in the short term. The strategy is also used as a vision of where we would like to be in the future.;;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";Yes;This information is also monitored and maintained in the NDP as part of the register of registers. ;Confirm;;;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;Some data is purchased from third party organisations and might pose issues to publish, mostly of legal nature.;Confirm;N/A;;;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";Yes;Provisions in the open tendering process of acquiring such data are being stipulated when possible.;Confirm;;;;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;"Part of our data categorisation process includes a traffic light notation system. Green data is data that can be made available as open data (according to the data owner) but may not adhere to an open data specification. Example the data owner for Tourism datasets used to expose excel sheets. We made the data owner aware of the 5 star schema and the changes required to categorise this data as open data.
+
+As a team we provide consultancy services to Government entities. We also embarked on an exercise to go through the Laws of Malta and extract any data obligations each Ministry has on maintaining data (both open and closed data) and are working towards including these dataset in the Data Catalogue.";;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";No;;Confirm;;;;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";Yes, 1-2;;Confirm;;;;;;;;

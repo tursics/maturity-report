@@ -1,0 +1,243 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"Right of Access to Information Act (NN 25/13, 85/15, 69/22) defines re-use as the use of the public authority information by natural persons or legal entities, for commercial or non-commercial purposes different from the original purpose
+within the public purpose for which this information was created, and which is realised within the frame of the law or other scope prescribed by the regulations, or business that is generally considered a public affair. The exchange of information among public authorities in order to perform tasks within their scope is not considered re-use.
+http://digarhiv.gov.hr/arhiva/1912/162307/FOI_Act-ENG_Version.pdf ";Complement;Yes;"https://sredisnjikatalogrh.gov.hr/srce-arhiva/1608/134237/ZPPI-2022-procisceni-tekst.pdf                                                                       Right of Access to Information Act (NN 25/13, 85/15, 69/22) defines re-use as the use of the public authority information by natural persons or legal entities, for commercial or non-commercial purposes different from the original purpose
+within the public purpose for which this information was created, and which is realised within the frame of the law or other scope prescribed by the regulations, or business that is generally considered a public affair. The exchange of information among public authorities in order to perform tasks within their scope is not considered re-use.
+";;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";No;"Google Analytics on national open data portal data.gov.hr
+Response to reviewer: we change the answer to NO";Confirm;;;;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";no ;;Confirm;;;;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;After the adpoption of the action plan (the process of adoption and entry into force is under way), Croatia will, thorugh the plan, establish procedures for monitoring and measuring the level of reuse of high-value datasets ((EU) 2023/138).   With the action plan, Croatia will establish procedures for monitoring and measuring the level of reuse of high-value datasets ((EU) 2023/138). The action plan identified and recognized all institutions that have high-value data sets. Through these Measures, the necessary will be ensured, for example Measure 1 Encouraging the opening of data sets that have been identified as high-value sets for state administration bodies, Determination of the list of high-value data sets and competent public authorities, Publication of high-value sets, Publication and updating of available high-value data sets, Preparation technical prerequisites for the publication of high-value data sets from the scope of work, all in accordance with the Implementing Regulation of the Commission (EU);;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"Central State Office for the Development of Digital Society implemented project “Adjustment of Information Systems of Public Sector Bodies to Open Data Portal” in the frame of The European Social Fund and there is a methodology in place that defines the impact of the public bodies open data:
+https://rdd.gov.hr/eu-projekti/prilagodba-informacijskih-sustava-tijela-javnog-sektora-portalu-otvorenih-podataka-open-data/provedba-projekta/1445";Confirm;;;;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;"The ex-post index of the influence of the set of open data is a measure of the realized influence of the set of open data in solving the problem area. Due to its complexity and all the variables involved, the construction of the impact index of the open data set is built according to four categories:
+- Economic impact,
+- Social impact,
+- Political influence,
+- Environmental impact.
+At the same time, it is important to emphasize that the construction of the ex-post index of influence of the set of open data additionally includes a fifth category - the index of use. Usage index - which is constructed based on the download rate, referencing rate, rating of the usefulness of the data set by the user and the up-to-dateness of the data set.
+
+1) Total impact index value of open data set (A)
+2) Economic Impact Index (B)
+3) Social Impact Index (C)
+4) Political Influence Index (D)
+5) Environmental Impact Index (E)
+6) Usage Index (F) - Ex-post
+Where A = B + C + D + E + F
+
+B) The economic impact index is constructed based on scores on questions divided into three categories:
+1. Macroeconomic impact,
+2. Microeconomic and sectoral impact, and
+3. Impact on the public sector.
+C) The social impact index is constructed based on three categories:
+1. housing,
+2. inclusion of marginalized social groups, i
+3. reduction of social inequalities.
+D) The political influence index of the open data set is constructed based on the following categories:
+1. transparency and responsibility,
+2. effectiveness,
+3. efficiency, i
+4. decision making.
+E) The environmental impact index is constructed based on the four selected most important environmental impact categories
+1. Water and/or air quality,
+2. Management/management of waste,
+3. Environmentally friendly transport, and
+4. Noise level
+F) The usage index is used exclusively in the construction of the ex-post index of the influence of the set of open data after a minimum of one year has passed since the publication of the data set.
+The usage index consists of:
+1. download rates,
+2. referencing rates,
+3. evaluations of the usefulness of the data set by users i
+4. assessments of the up-to-dateness of the data set based on the up-to-date report,
+
+";Confirm;;;;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"https://www.dorscluc.org/  At the Faculty of Electrical Engineering and computing in Zagreb, organized by the Central State Office for the Development of Digital Society, as part of the project “adaptation of information systems of public sector bodies to open data Portal (open data)”, a Datathon was held in which eight student teams participated with nine conceptual solutions from the social, political, environmental and economic field. Innovative IT solutions presented on datathon enable better promotion and visualization of open data. 
+https://rdd.gov.hr/vijesti/pobjednici-datathona-napravili-it-rjesenja-za-promociju-otvorenih-podataka-i-osvojili-vrijedne-nagrade/2048 Thus, the academic community, civil society and the Government's Central Office for the Development of Digital Society participated.";Confirm;;;;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";I don't know;N/A;Change;Yes;https://dgu.gov.hr/otvoreni-podaci/6116;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;No;;;;
+I8-b;Surveys;new question;new question;Change;No;;;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;"As part of the fourth element of the project ""Adaptation of Information Systems of Public Sector Bodies to the Open Data Portal"" the following was done:
+ 
+Activity 1
+Creation of a training program that includes the preparation and publication of a set of data in open formats on the Open Data Portal
+Activity 2
+Study, analysis and preparation of materials from the field of open data
+Activity 3
+Creation of educational content for officials of public bodies on processes and an improved system of open data
+Activity 4
+Organization and training of public authority officials through 18 online workshops.";;;
+I8-d;Other;new question;new question;Change;Yes;"At the Faculty of Electrical Engineering and computing in Zagreb, organized by the Central State Office for the Development of Digital Society, as part of the project “adaptation of information systems of public sector bodies to open data Portal (open data)”, a Datathon was held in which eight student teams participated with nine conceptual solutions from the social, political, environmental and economic field. Innovative IT solutions presented on datathon enable better promotion and visualization of open data.
+
+
+The aim of the event was to create an almost IT solution or develop an IT idea for an information-based solution that will enable better promotion and visualisation of open data. The proposed solutions developed under the Datathon must promote the use of open public sector data, in particular those published on national/regional open data portals, and present a potential contribution to one of the four thematic areas: socially, politically, environmentally or economically. Student teams presented the proposed solutions using open data and open source software, as well as technologies such as artificial intelligence, device connectivity via the Internet (“the”Internet of things), augmented reality (“the”augmented reality), big data (“the”big data), blockchain”blockchain or similar The first prize was won by team DogCityZg with the solution and for developing solutions by using open data that address certain societal challenges such as: better access to information on cultural life, information on the housing district, its contents and characteristics, solving complex public problems especially in crisis situations, encouraging wider involvement of experts in the process of solving public problems, inclusion of marginalised social groups, etc.: “DogCityZg - hub for dog owners in Zagreb” from the Faculty of Agriculture of the University of Zagreb (mentor Filip Varga). The team has created a web platform that provides dog owners with valuable information in one place through an interactive map where the locations of dog parks and green areas for dogs can be found, contacts of veterinarians, dog groomers, dog hotels, pet shows, etc.";;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";I don't know;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;No;;;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;;;;
+I9-c;Other;new question;new question;Change;No;;;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";I don't know;;Confirm;;;;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";I don't know;;Confirm;;;;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";I don't know;;Change;No;"https://app.powerbi.com/view?r=eyJrIjoiMjc4MGJhNjQtYjg2ZC00MTdlLWJjMjAtZGVlMWU5YjIxOGJmIiwidCI6IjUyMzM3NTUxLTA3MWMtNDljNC1hNmQ2LTc0MjU0NGNmNmIyZiIsImMiOjl9
+Gong is a civil society organization aimed at improving democratic processes and institutions and democratic political culture, as well as encouraging active and responsible participation of citizens in political processes, especially decision-making processes related to the good management of public and common goods, the protection and promotion of the rule of law and human rights and solidarity. Searchable database of final financial reports for the campaigns of all parties and coalitions that participated in the parliamentary elections.  
+The database contains data from political parties that have been submitted to the State election commission. We do not have analytical information.";;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;Gong organized the Open Data Days, which have been promoting open data as an important mechanism for citizen oversight and information for more than a decade. A series of discussions, presentations and workshops were held on March 7 and 8, 2024.  https://imamopravoznati.org/   https://parlametar.hr/      https://popravi.to/ Digital solutions that help citizens exercise their right to access information, monitor the work of key political institutions and actively participate in solving problems in the community.;;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;Gong organized the Open Data Days, which have been promoting open data as an important mechanism for citizen oversight and information for more than a decade. A series of discussions, presentations and workshops were held on March 7 and 8, 2024.  https://imamopravoznati.org/   https://parlametar.hr/      https://popravi.to/ Digital solutions that help citizens exercise their right to access information, monitor the work of key political institutions and actively participate in solving problems in the community.;;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;Gong organized the Open Data Days, which have been promoting open data as an important mechanism for citizen oversight and information for more than a decade. A series of discussions, presentations and workshops were held on March 7 and 8, 2024.  https://imamopravoznati.org/   https://parlametar.hr/      https://popravi.to/ Digital solutions that help citizens exercise their right to access information, monitor the work of key political institutions and actively participate in solving problems in the community.;;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;Gong organized the Open Data Days, which have been promoting open data as an important mechanism for citizen oversight and information for more than a decade. A series of discussions, presentations and workshops were held on March 7 and 8, 2024.  https://imamopravoznati.org/   https://parlametar.hr/      https://popravi.to/ Digital solutions that help citizens exercise their right to access information, monitor the work of key political institutions and actively participate in solving problems in the community.;;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";No;Response to reviewer: we change the answer to NO;Change;No;1. https://popravi.to/  Digital solutions that help citizens exercise their right to access information, monitor the work of key political institutions and actively participate in solving problems in the community.   2. On Open Data Days organized by Gong, in March 2024 Sara Sinčić from the House of Human Rights to present the new digital Human Rights Guide, which offers educational tools and resources on human rights and serves as a cooperation network for public sector organizations and institutions in the field of human rights education.    We do not have analytical information.;;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;On Open Data Days organized by Gong, in March 2024 Sara Sinčić from the House of Human Rights to present the new digital Human Rights Guide, which offers educational tools and resources on human rights and serves as a cooperation network for public sector organizations and institutions in the field of human rights education.   https://www.kucaljudskihprava.hr/en/   We cannot provide the URL to the reuse case, the URL to the open dataset used by the reuse case, and a description of the reuse case and its impact on this subdomain.;;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;1. https://popravi.to/  Digital solutions that help citizens exercise their right to access information, monitor the work of key political institutions and actively participate in solving problems in the community.     Popravi.to is a free tool, created in cooperation with Code for Croatia and Gong, which facilitates the reporting of problems and damage to public areas and infrastructure in every neighborhood, city, municipality and other parts of Croatia. It was created as an idea to make it easier for citizens to report problems they have encountered so that they don't have to research who to send a report about a hole in the road or sidewalk, a street light that doesn't work, a damaged bench or an illegal waste dump.    We cannot provide the URL to the reuse case, the URL to the open dataset used by the reuse case, and a description of the reuse case and its impact on this subdomain.;;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;"https://data.gov.hr/ckan/dataset/koronavirus
+The open (machine-readable) data on the website koronavirus.hr, which is collected and provided by the Croatian Institute of Public Health and the Ministry of Health of the Republic of Croatia with the aim of informing the public about the new coronavirus epidemic in the Republic of Croatia, does not match the data that is presented daily at press conferences at 2 p.m., the National Headquarters of the Civil Protection of the Republic of Croatia reports. The data is refreshed once a day and brings data for processing to the time period of one day, i.e. from 00:00 to 23:59 for the previous day (DoD). In other words, open (machine) readable data is published with a 24-hour delay.                             We cannot provide the URL to the reuse case, the URL to the open dataset used by the reuse case, and a description of the reuse case and its impact on this subdomain.";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"https://mzom.gov.hr/ser-skolski-e-rudnik-3419/3419   
+It shows the address book of school institutions, the geographical distribution of schools and students, various statistical data on schools, students and educational programs, as well as demographic trends by school years.
+
+It shows statistical data on the general success of students, their grades, justified and unjustified absences, pedagogical measures and trends by school year.
+
+It shows the results of students at the state matriculation exam, their grades in the final grades of primary and secondary schools, trends by school year and admissions to higher education institutions.
+
+It shows statistical data on applications and enrollments in high schools, geographic distribution of enrolled students, student interests in schools and programs, data on points and general success, and trends by school year.                                                                          We cannot provide the URL to the reuse case, the URL to the open dataset used by the reuse case, and a description of the reuse case and its impact on this subdomain.";;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";no;;Confirm;No;"On the DHMZ website, it is possible to view basic meteorological data for the last 24 hours and download data in .xml format. 
+It is also possible to view the map display of all types of meteorological stations along with basic information about the stations.
+Archive data in machine-readable format can be obtained upon request.  https://meteo.hr/podaci.php?section=podaci_vrijeme&prikaz=abc
+https://meteo.hr/podaci.php?section=podaci_vrijeme&param=amp
+https://meteo.hr/proizvodi.php?section=podaci&param=xml_korisnici
+https://meteo.hr/infrastruktura.php?section=mreze_postaja&param=pmm
+https://meteo.hr/proizvodi.php?section=katalog_zahtjevi&param=zahtjev_podaci_usluge
+Climate model data created as part of the Climate Change Adaptation Strategy are available in a publicly accessible repository. The database of climate simulation results is maintained in cooperation with the University Computing Center of the University of Zagreb. Additional data and climate model data processing are available upon request.   https://repozitorij.meteo.hr/regcm4-simulacije
+https://meteo.hr/proizvodi.php?section=katalog_zahtjevi&param=zahtjev_podaci_usluge
+Digital climatological maps of meteorological elements made on the basis of multi-year data sets for the periods 1961-1990 and 1971-2000, as well as maps of extremely rare events - minimum and maximum temperatures and wind speeds that appear once in 50 years - are available on the DHMZ website - And. Additional data and data processing used to create climate maps are available on request.  https://meteo.hr/klima.php?section=klima_hrvatska&param=k1_5
+https://meteo.hr/klima.php?section=klima_hrvatska&param=k1_6
+https://meteo.hr/klima.php?section=klima_hrvatska&param=k1_7
+https://meteo.hr/klima.php?section=klima_hrvatska&param=k1_9&el=ext
+https://meteo.hr/proizvodi.php?section=katalog_zahtjevi&param=zahtjev_podaci_usluge         We do not have analytical information.
+
+";;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"https://iszz.azo.hr/iskzl/    The ""Air Quality in the Republic of Croatia"" portal contains measured concentrations of pollutants in the air from the national network for permanent monitoring of air quality (the work of the network is managed by the State Hydrometeorological Institute, under the expert supervision of the Ministry of Economy and Sustainable Development) and from local networks (under the jurisdiction of counties, cities Zagreb, cities and municipalities). The owner of the air quality monitoring station continuously transmits original data on the concentrations of pollutants in the air in real time via a computer network. For ease of understanding, the data is presented as an air quality index. The portal also contains validated data on air pollutant concentrations from state and local networks, as well as annual reports on air quality monitoring. Air quality data is sent from the exchange network to the EEA/EC e-reporting system. Users have access to statistical browsers, exceedances of limit and target values, and trends. The data is presented in tabular and graphical form, and can also be downloaded (services).";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"https://mingo.gov.hr/print.aspx?id=8611&url=print   https://roo.azo.hr/katOtpada/   https://eloo.haop.hr/public/otpad/prijava   https://eloo.haop.hr/public/otpad/pregled  
+The ELOO system was created and is managed by the Ministry of Economy and Sustainable Development. Citizens can also report the locations where discarded waste is located, but the final data visible in the system and on the map were entered and confirmed by municipal wardens.";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;https://envi.azo.hr/?topic=6   The ENVI portal is a web geoportal of the environmental protection information system that provides public access through a web GIS browser, as well as the administration of all spatial information and data of the Environmental Protection Information Systems (ESI) and transparently presents and shares them through standardized WMS and WFS services for viewing and downloading data. https://vrtlac.izor.hr/ords/bazapokpub/bindex          We cannot provide the URL to the reuse case, the URL to the open dataset used by the reuse case, and a description of the reuse case and its impact on this subdomain.;;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;https://einstalaterioie.mgipu.hr/login.html   Through the address https://einstalaterioie.mgipu.hr, all interested citizens can see a list of all certified installers of renewable energy sources, as well as holders of training programs authorized by the Ministry.                                                                          We cannot provide the URL to the reuse case, the URL to the open dataset used by the reuse case, and a description of the reuse case and its impact on this subdomain.;;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";I don't know;;Change;No;"Organized by the Central State Office for the Development of the Digital Society, a Datathon was held as part of the project Adaptation of information systems of public sector bodies to the Open Data Portal. The competition consisted of four challenges and each was organized as a separate competition of equal importance. One of the challenges was the economic area. The development of solutions through the application of open data has been demonstrated, which enables the increase or decrease of costs associated with the use of open data, and will result in the development of new goods and services, the improvement of existing goods and services, the lowering of operating costs, the increase of productivity in the economy and the reduction of time and cost of access to information and fig.,
+The first prize was won by the AnimCRO team with the solution: ""Concept solution for the Naše blago open portal"" from the Faculty of Agriculture, University of Zagreb (mentor Dragica Šalamon). The solution is unique in the Croatian agricultural ecosystem of open data, with great potential to increase the value of the agricultural economy and the prosperity of rural areas in the Republic of Croatia by providing geolocation (business address) and market data (prices) in a non-aggregated and machine-readable format.                                       We do not have analytical information.";;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Organized by the Central State Office for the Development of the Digital Society, a Datathon was held as part of the project Adaptation of information systems of public sector bodies to the Open Data Portal. The competition consisted of four challenges and each was organized as a separate competition of equal importance. One of the challenges was the economic area. The development of solutions through the application of open data has been demonstrated, which enables the increase or decrease of costs associated with the use of open data, and will result in the development of new goods and services, the improvement of existing goods and services, the lowering of operating costs, the increase of productivity in the economy and the reduction of time and cost of access to information and fig.,
+The first prize was won by the AnimCRO team with the solution: ""Concept solution for the Naše blago open portal"" from the Faculty of Agriculture, University of Zagreb (mentor Dragica Šalamon). The solution is unique in the Croatian agricultural ecosystem of open data, with great potential to increase the value of the agricultural economy and the prosperity of rural areas in the Republic of Croatia by providing geolocation (business address) and market data (prices) in a non-aggregated and machine-readable format.                                       We cannot provide the URL to the reuse case, the URL to the open dataset used by the reuse case, and a description of the reuse case and its impact on this subdomain.";;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Organized by the Central State Office for the Development of the Digital Society, a Datathon was held as part of the project Adaptation of information systems of public sector bodies to the Open Data Portal. The competition consisted of four challenges and each was organized as a separate competition of equal importance.   
+It was shown through a competition related to the social field development of solutions using open data that solve certain social challenges such as: better access to information about cultural life, informing about the residential district, its content and characteristics, solving complex public problems, especially in crisis situations, encouraging wider involvement of experts in the solution process public problems, inclusion of marginalized social groups, etc.,
+The first prize was won by the DogCityZg team with the solution: ""DogCityZg - hub for dog owners in Zagreb"" from the Faculty of Agriculture, University of Zagreb (mentor Filip Varga). The team created a web platform that provides dog owners with valuable information in one place through an interactive map where you can find the locations of dog parks and green areas for dogs, contacts of veterinarians, dog groomers, dog hotels, pet shops, etc.        We cannot provide the URL to the reuse case, the URL to the open dataset used by the reuse case, and a description of the reuse case and its impact on this subdomain.";;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;;;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;;;;

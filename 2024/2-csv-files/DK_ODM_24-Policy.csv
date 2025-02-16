@@ -1,0 +1,220 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"The Act Amending the Law on the Reuse of Public Sector Information of 10 May 2021 (PSI-loven) implements the Open Data Directive 2019/1024 of 20 June 2019. As a result, Denmark notified the Commission the full transposition of the Directive. 
+
+Response: https://www.retsinformation.dk/eli/lta/2021/1764 ";Complement;Yes;"The Act Amending the Law on the Reuse of Public Sector Information of 10 May 2021 (PSI-loven) implements the Open Data Directive 2019/1024 of 20 June 2019. As a result, Denmark notified the Commission the full transposition of the Directive. 
+
+Link: https://www.retsinformation.dk/eli/lta/2021/1764 ";;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"o The national strategy for digitisation (2022-2026) is based on 9 visions for the digital development of Denmark, the 7th being ""A strong, ethical, and responsible digital foundation"", which includes improved access to data: https://fm.dk/media/25845/danmarks-digitaliseringsstrategi-sammen-om-den-digitale-udvikling_web.pdf, p. 45ff. An (unofficial) translation of the relevant passage would be: ""The Danish government aims to ensure that public data is usable and shareable across Danish society in ways that are effective, standardised, and data-ethically responsible. [...] The first step towards this goal is making it easy for users to find public data, and for them to evaluate what this data can and may be used for."" 
+In line with this, one of the initiatives of the strategy is the development of a national metadata portal. (no. 44). Moreover, a number of the initiatives in the strategy will make more and better data available (see Q3). 
+
+o In general, publication of Danish public sector data follows a ""publish with purpose"" principle (see the recitals to the Danish implementation of the Open Data Directive: https://www.folketingstidende.dk/samling/20201/lovforslag/L160/20201_L160_som_fremsat.pdf, 3.3.2. and the national audit authority (Rigsrevisionen's) report on open data in the public sector: https://rigsrevisionen.dk/Media/637684152375842683/309-21.pdf, p. 1)
+
+o Public authorities are encouraged to publish any data that is not confidential or otherwise protected. A technical guide has been developed to support this effort: https://arkitektur.digst.dk/metoder/begrebs-og-datametoder/teknisk-vejledning-til-udstilling-af-offentlige-data/teknisk as well as a reference architecture for the disclosure of data by transmission: https://arkitektur.digst.dk/node/1097
+";Complement;Yes;"o The national strategy for digitisation (2024-2027) is based on 7 themes for the digital development of Denmark, the 5th being ""A strong, ethical, and responsible digital foundation"", which includes improved access to data: https://www.digmin.dk/Media/638357207253210400/SVM%20regeringen_Danmarks%20digitaliseringsstrategi_2023_V9_Online_Final%20(1)-a.pdf, p. 22ff. The strategy was confirmed in early 2024 through a political agreement between the government and all of the parties in parliament: https://www.regeringen.dk/nyheder/2023/politisk-aftale-paa-plads-om-danmarks-nye-digitaliseringsstrategi/. The strategy contains around 30 initiatives aimed at digitization, many of these dealing with increased access to open (and non-open) public data. The total funding for the strategy is around 100m  Euro over the next four years. 
+
+o In general, publication of Danish public sector data follows a ""publish with purpose"" principle (see the recitals to the Danish implementation of the Open Data Directive: https://www.folketingstidende.dk/samling/20201/lovforslag/L160/20201_L160_som_fremsat.pdf, 3.3.2. and the national audit authority (Rigsrevisionen's) report on open data in the public sector: https://rigsrevisionen.dk/Media/637684152375842683/309-21.pdf, p. 1)
+
+o Public authorities are encouraged to publish any data that is not confidential or otherwise protected. A technical guide has been developed to support this effort: https://arkitektur.digst.dk/metoder/begrebs-og-datametoder/teknisk-vejledning-til-udstilling-af-offentlige-data/teknisk as well as a reference architecture for the disclosure of data by transmission: https://arkitektur.digst.dk/node/1097
+";;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;"o The national strategy mentioned above is complemented by a joint public sector strategy which is a collbaration between the three levels of government: https://fm.dk/media/26022/digitalisering-der-loefter-samfundet_den-faellesoffentlige-digitaliseringsstrategi-2022-2025_web.pdf, https://fm.dk/nyheder/nyhedsarkiv/2022/juni/regeringen-kl-og-danske-regioner-enige-om-ny-faellesoffentlig-digitaliseringsstrategi/
+
+In addition to this, the association of Danish municipalities published its data strategy for local governments in 2022: https://www.kl.dk/media/48578/kommunernes-datastrategi.pdf. One of the principles of the strategy is that ""Municipalities [should] make standardized data available to other [users]."" (p. 11)";Confirm;;;;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;Please refer to the initiatives from the strategies mentioned in Q2-Q4. The strategies are made up of overall visions as well as concrete initiatives to be implemented in the coming years.;Complement;Yes;Please refer to the initiatives from the strategies mentioned in P2-P3. The strategies are made up of overall visions as well as concrete initiatives to be implemented in the coming years.;;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"o The PSI law, the Danish implementation of the ODD, requires that dynamic data, when made available, is done so through API access, and if relevant, mass download: https://www.retsinformation.dk/eli/lta/2021/176, kap. 4, §7, stk. 3
+o Among other things, the strategy includes a national plan for mobility data (18) and a test of intelligent transport systems (40). These will increase the access to and usability of real time data about traffic. ";Complement;Yes;"o The PSI law, the Danish implementation of the ODD, requires that dynamic data, when made available, is done so through API access, and if relevant, mass download: https://www.retsinformation.dk/eli/lta/2021/176, kap. 4, §7, stk. 3
+o Among other things, the strategy includes a national program for improved access to data from the utilities sector (electricity, water, and heating, cf. initiative 3.1) and from car charging stations (initiative 3.3). https://via.ritzau.dk/files/13560322/13781061/68941/da";;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"o The strategy includes initiatives that make it easier for citizens to grant and withdraw consent or authorisation to the authorities to process and/or share their data (initiatives 8 and 9). One possible use case is the sharing of citizen-generated data. In addition to this, initiative 30 contains the plan to develop a strategy for the handling of ""self-reported"" data in the health sector.
+
+A concrete example of this is the ""DataDonor"" initiative from the Region of Southern Denmark: https://syddansksundhedsinnovation.dk/projekter/datadonor-platformen";Complement;Yes;"In a Danish context, citizen-generated data is especially prevalent and relevant in the health sector. The effort to increase access to these data - when ethically and legally permissible and possible to do so - is supported by the Danish Life Science Strategy: https://www.em.dk/Media/638380759704342521/Agreement%20on%20a%20strategy%20for%20life%20science.pdf, more specifically the Danish Life Science Cluster: https://www.danishlifesciencecluster.dk/ and its national network for citizen-generated data: https://www.danishlifesciencecluster.dk/netvaerksgrupper/nationalt-netvaerk-om-borgerskabte-data/ which tackles ethical, technical, and organisational challenges in this area. 
+
+A new life science is expected to be launched in 2024: https://www.em.dk/aktuelt/temaer/life-science";;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";yes;o The national metadata portal is being developed to allow for easy harvesting of metadata to data.europa.eu, e.g. by using the DCAT metadata standard. ;Confirm;;;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"o The strategy carries on and develops the work done in previous strategies with regard to data sharing across public authorities through the promulgation of common architectural principles and standards (initiative 49). The website for the common digital architecture (FDA) was recently overhauled with a focus on increased faciliation of the re-use of data and digital building blocks: https://arkitektur.digst.dk/
+o Moreover, the national metadata portal (initaitive 44) also supports the re-use of open data by the public sector.";Complement;Yes;"o The strategy carries on and develops the work done in previous strategies with regard to data sharing across public authorities through the promulgation of common architectural principles and standards. 
+
+c The strategy also supports the modernization of the Danish basic data registries (cf. iniatitive 5.1 https://via.ritzau.dk/files/13560322/13781061/68941/da), the Danish groundwater database (cf. 3.2) as well as the digitization of the geographical aspects of legislation, which will make it easier to reuse geodata in legal contexts (cf. 5.3)
+
+c Moreover, the strategy includes initiatives to increase data sharing within the public sector to decrease the burden of reporting on private companies (cf. initiatives 4.2 and 4.5). ";;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;o The national data portal is being built with private sector users of open data in mind. The same goes for many of, if not all the initiatives mentioned in 3). The portal was built in collaboration between Government and the Danish Business Authority and has conducted several user tests with private sector representatives. ;Complement;Yes;In addition to the data improvements mentioned in P8 (all of which will also benefit the private sector), the strategy includes an initiative to increase Danish participation in the European digital economy, e.g. through an increased focus on and funding of Danish and European data spaces, which will improve data access for private parties (cf. initiative 7.1). The program on utilities data (initiative 3.1) can be seen as a sector-specific example of one such data space effort in which public and private sector parties collaborate on standards and agreement for the sharing of data in this field. ;;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;"From §11 of the Danish implementation of the Open Data Directive: ""Den offentlige myndighed og offentlige virksomhed offentliggør en oversigt over dokumenter og datasamlinger, der stilles til rådighed for videreanvendelse efter denne lov."" English: ""The public sector body and public undertaking [must] publish an overview of the data that is being made available according to this law.""  https://www.retsinformation.dk/eli/lta/2021/1764
+
+The national data portal is meant to support this effort by giving a central overview of all the data made available by public sector bodies. ";Confirm;;;;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;"Data inventories will also be maintained for health and demographic data; data which is usually not open at the individual level, but which e.g. reasearchers can gain access to - including as mandated by the DGA. ";Confirm;;;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;The Danish Agency for Digital Government and the authorities with whom we collaborate are close to having identified what Danish datasets are considered HVD. All the data that might fall into this category is already publically available for free through the required means of access. What remains is to denote the data as such. In this regard, The Danish Agency for Digital Government is awaiting an authoritative decision on how to denote HVD status for INSPIRE metadata, and how to map this to DCAT-AP. ;;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;4;5;4;5;5;5;4;;;;
+P11-b;Earth observation and environment;4;5;4;5;5;5;4;;;;
+P11-c;Meteorological;4;5;5;5;5;5;4;;;;
+P11-d;Statistics;5;5;4;5;5;5;4;;;;
+P11-e;Companies and company ownership;4;5;5;5;5;5;4;;;;
+P11-f;Mobility;4;5;5;5;5;5;4;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;Since there is  as of yet no EU consensus on how to map HVD information from INSPIRE to DCAT-AP, this is not currently possible for a large number of the datasets in question. This is currently the main challenge for the implementation. ;;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"o 1. Basic Data is governed by the Steering Group for Basic Data and a number of sub-groups/forums: https://datafordeler.dk/vejledning/grunddata/  
+2. Wrt. geographic data/INSPIRE-data, The Agency for Data Supply and Infrastructure runs The Coordination Committee (""Samordningsudvalget""): https://inspire-danmark.dk/english/inspire-denmark/the-coordination-committee-for-infrastructure-for-digital-spatial-information
+The committee acts as a channel for discussing political and strategic aspects of the spatial information infrastructure and government policies and management areas with geodata angles. In recent years, the Committee has, among other things, dealt with data quality in geo-referenced legislation, the interaction between new technologies and the geographical infrastructure, the quality of metadata, and the use of geodata for differentiated and automated regulation.
+3. The Agency for Digital Government is responsible for two cross-government forums that deal with (open) data issues more broadly: One with representatives from upper management, another with technical personnel. 
+
+The first is the Steering group for digital innovation and the green transition (Styregruppen for digital innovation og grøn omstilling, DIGO): https://digst.dk/strategier/den-faellesoffentlige-digitaliseringsstrategi/organisering-af-samarbejdet-om-den-faellesoffentlige-digitaliseringsstrategi/ 
+The second is the Forum for data distributors (which does not have an associated website)
+User feedback from stakeholders external to the public sector is provided to these groups either directly to the participating authorities, or through the National Data Portal service organisation. ";;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;"o According to the Danish Constitution, municipalities have a right to self-government, and the state has a right to oversee this. The Basic Data Programme is governed by all three levels of government (local, regional, and national) in cooperation.
+
+Within national government, data governance is similarly decentralised. I.e., each agency is largely responsible for deciding which data to make available as open data (with exceptions such as HVD). When they choose to do so, however, they must live up to the provisions of the PSI law. ";Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;The three levels of Danish government (national, regional, and local) coordinate a number of initaitives through the governance for the goint government digitisation strategy: https://digst.dk/strategier/den-faellesoffentlige-digitaliseringsstrategi/. This includes reviews of initiatives run by lcoal government to ensure compatability with national standards and building blocks, including reuse of public data. ;;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";all public bodies;o For example, all Danish municipalities are members of GeoDanmark, an organisation that works to maintain the open Danish geodata that are part of the Danish basic data: https://www.geodanmark.dk/om-geodanmark/ - cf. answer 14 above;Confirm;;;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";no;The Agency for Digital Government is responsible for the implementation of the Open Data Directive through the Danish PSI Law (mentioned above). The agency assists other public sector organisations in their work with open data, but these organisations are themselves responsible for which data they choose to publish (unless where mandated by law), and which metadata to provide. There is no single document describing this practice. ;Confirm;;;;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"o Yes, as they are part of the same office at the Agency for Digital Government. The agency facilitates regular meetings in the so-called ""Forum for data distributors"", which includes the main distributors of open public data in Denmark. Every meeting, the most recent one having been held in March 2023, includes a presentation of the current status for the national metadata portal (""Datavejviseren""), to which many of the data owners represented in the forum provide metadata. ";Change;Yes;"o Yes, as they are part of the same office at the Agency for Digital Government. The agency facilitates regular meetings in the so-called ""Forum for data distributors"", which includes the main distributors of open public data in Denmark. Every meeting, the most recent one having been held in April 2024, includes a presentation of the current status for the national metadata portal (""Datavejviseren""), to which many of the data owners represented in the forum provide metadata. ";;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";no;;Confirm;;;;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;o See the answer to Q17 above. Although these people do not carry an official title of data officer or steward, they function as such in practice.;Change;Yes;o See the answer to P18 above. Although these people do not carry an official title of data officer or steward, they function as such in practice.;;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Yes, e.g. at conferences, through interviews, presentations etc. 
+
+Examples of forums/conferences held in the past year with private and public sector participants: https://www.dafago.dk/ DAFAGO (Danish Forum for the Use of Basic Data and other Public Data) 
+https://itb.dk/event/danmarks-data/ Denmark's Data
+https://offdig.dit.dk/English
+https://digitallead.dk/kalender/2023/kmd-insight-23-fremtidens-organisation-er-ikke-bare-digital-den-er-datadrevet/ KMD Insight
+
+The national data portal service organisation regularly meets with individual reusers such as universities (University of Copenhagen, IT University of Copenhagen), large and small businesses, and citizens. See fx the invitiation to a recent event on transportation data: https://digst.dk/nyheder/nyhedsarkiv/2023/februar/invitation-til-dialogmoede-om-rejsekortdata/. A similar event on energy data will be held later this year. ";Change;Yes;"Yes, e.g. at conferences, through interviews, presentations etc. 
+
+Examples of forums/conferences held in the past year with private and public sector participants: https://www.dafago.dk/ DAFAGO (Danish Forum for the Use of Basic Data and other Public Data) 
+https://itb.dk/event/danmarks-data/ Denmark's Data
+https://offdig.dit.dk/English
+https://computerworldevents.dk/1413/datadrevet_forretning_maj24
+
+The national data portal service organisation regularly meets with individual reusers such as universities (University of Copenhagen, IT University of Copenhagen), large and small businesses, and citizens. See fx the invitiation to an event in the Fall of 2023 on improved access to 3D model data: https://digst.dk/nyheder/nyhedsarkiv/2023/september/invitation-til-workshop-om-national-3d-model/";;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"Statistical datasets, produced by Statistics Denmark, all follow a release calendar (https://www.dst.dk/en/Statistik/planlagte). Dates for each dataset is announced at least one year before publication, and the process and workflows are described in the statistical documentation, that is available for each dataset (https://www.dst.dk/en/Statistik/dokumentation/documentationofstatistics)
+
+Basic data: Descriptions of new releases, planned changes to services, documentation, etc. are publically available at https://datafordeler.dk/drift/meddelelser
+";Complement;Yes;"Statistical datasets, produced by Statistics Denmark, all follow a release calendar (https://www.dst.dk/en/Statistik/planlagte). Dates for each dataset is announced at least one year before publication, and the process and workflows are described in the statistical documentation, that is available for each dataset (https://www.dst.dk/en/Statistik/dokumentation/documentationofstatistics)
+
+Basic data: Descriptions of new releases, planned changes to services, documentation, etc. are publically available at https://datafordeler.dk/drift/meddelelser
+
+At a more general level, the Danish Agency for Digital Government has published a reference architecture for the sharing of data and documents: https://arkitektur.digst.dk/referencearkitekturer/deling-af-data-og-dokumenter/referencearkitektur-deling-af-data-og-dokumenter as well as a technical guideline for sharing of public data: https://arkitektur.digst.dk/metoder/begrebs-og-datametoder/teknisk-vejledning-til-udstilling-af-offentlige-data/teknisk. Data publishers can draw on these when designing their own specific publication plans.  ";;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;"o The national metadata portal is a measure to ensure that open data is in fact being made available publically in line with the strategy.The team behind the portal monitors which data has been made available. 
+o As for the implementation of the ODD, the Agency for Digital Government maintains a list of the public sector bodies that hav emade use of the exclusion clause and are allowed to charge beyond marginal costs for data: https://digst.dk/data/videreanvendelse-af-offentlige-data/betaling-for-data/";Complement;Yes;"o The national metadata portal is a measure to ensure that open data is in fact being made available publically in line with the strategy.The team behind the portal monitors which data has been made available. 
+o As for the implementation of the ODD, the Agency for Digital Government maintains a list of the public sector bodies that have made use of the exclusion clause and are allowed to charge beyond marginal costs for data: https://digst.dk/data/videreanvendelse-af-offentlige-data/betaling-for-data/";;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;"The team working on the portal continuously works on how to improve the implementation of the open data policy at an operational, strategic, and international level, e.g. by finding new ways of going about onboarding authorities, using new political agendas to leverage existing solutions, and working for greater EU standardisation of solutions, for example in relation to mapping between different metadata standards and ensuring uniform interpretation of legal demands. 
+
+The overall political and legal strategy for the portal is set at, broadly speaking, two levels: The national and the joint governement level. At the national level, EU legislation is transposed to Danish law (in the case of directives) or applies directly (in the case of regulations). Here, the implementation strategy for cross-cutting is decided, e.g. in terms of deciding to re-use the national data portal as the NSIP for DGA purposes rather than building a new one.
+
+Moreover, funding and political backing for the open data portal stem from national strategies for digital government (such as the current one running 2024-2027 https://digst.dk/nyheder/nyhedsarkiv/2023/november/ny-digitaliseringsstrategi-for-2024-2027/) or the yearly state budget negotiations (with funding running for a set period or indefinitely). 
+
+At the joint government level, municipalities, regions, and national government agree to 4 year joint government strategies for digital government. The current one runs through 2025. The negotiations for the strategies mentioned above provide opportunities for re-tooling or re-orienting the approach to open data in light of new legislation, new political priorities, new technologies, lessons learned, etc.  ";;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;The Agency for Digital Government maintains a list of public sector bodies that do this: https://digst.dk/data/videreanvendelse-af-offentlige-data/betaling-for-data/. ;Confirm;;;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;"Describing use conditions for non-open data 
+Mapping between INSPIRE and DCAT metadata";Confirm;N/A;;;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;We follow a number of European initiatives closely, i.e. SEMIC, Data Spaces, data.europa.eu etc.;Confirm;;;;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;The national open data team offers different forms of assistance to data-publishing authorities. E.g. in the shape of financing pilot projects or API development, providing guidance in how to comply with national standards or recommendations, and feedback on concrete projects. ;;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;The Agency for Digital Government organizes a number of training programs for civil servants, including one on data governance: https://digst.dk/styring/statens-digitaliseringsakademi/kursuskatalog-for-medarbejdere/;Confirm;;;;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, >9;"o An annual conference is held to share knowledge about the Common Public-Sector Digital Architecture. The common architecture ensures secure cross-organisational processes and efficient sharing of data across the public sector and between the public and private sector, and the conference brings together hundreds of stakeholders from both sectors. The 2023 version will be held in September.
+
+Cf. also the events mentioned in 20.  ";Change;Yes, >9;"o An annual conference is held to share knowledge about the Common Public-Sector Digital Architecture. The common architecture ensures secure cross-organisational processes and efficient sharing of data across the public sector and between the public and private sector, and the conference brings together hundreds of stakeholders from both sectors. The 2024 version will be held in September: https://arkitektur.digst.dk/kom-i-gang/kompetencer/faellesoffentlig-digital-arkitektur-konference-2024
+
+In May 2024, the associations Open Data DK and OS2 (which works to increase the use of Open Source solutions in the public sector) held a joint, open annual meeting to promote open data and open source initiatives: https://www.os2.eu/arsmode-2024-os2-x-open-data-dk 
+
+Many universities and university libraries also hold events to help their users (usually students) find and interpret open data relevant to them: https://kub.kb.dk/datalab";;;;;;

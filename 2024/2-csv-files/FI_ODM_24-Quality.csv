@@ -1,0 +1,127 @@
+;Dimension 3: Open Data Quality;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;3.1 Currency and completeness;;;;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;"o    The Opendata.fi Data Owner’s guide has a topic to suggest that organizations create generic data administrator accounts rather than individual accounts to ensure that multiple persons have administrator and editor rights to data and descriptions.
+o   The portal used to send monthly reminders to data openers on broken links and approaching expiration dates. This practice has been discontinued in 2022 at the request of the organizations opening data. The reminders did not result in updating activities in smaller organizations, and the bigger organizations opening data already have processes and policies in place to ensure regular data updates.";Complement;Yes;The previous answer is otherwise valid, but we no longer send out the monthly reminders at the request of the data publishers.
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;70-89%;"- We agree with each harvested organization individually what data gets harvested, match the data models, agree on the cadence, and then follow-up on the pracitises approximately once per year.
+- Types of data that gets harvested: data from the big cities, geospatial data from Paikkatietohakemisto, and environmental data from SYKE
+- The list of portals that are harvested is available at: https://www.avoindata.fi/data/en_GB/harvest"
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;When a dataset is added in the portal directly, or updated in the portal, the changes in the metadata are immediately available. All harvested portals are harvested with 24 hour cadence. The metadata changes are available immediately after harvesting. 
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;No;This at the responsibility of the individual organizations publishing data. The national portal team offers an experimental complete listing of the Finnish Company Register (https://www.avoindata.fi/data/en_GB/dataset/yritykset). The portal team does its best to ensure that the data set is updated montly during the course of the experiment. 
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"- The portal has implemented the means to tag a HVD data set as HVD. Once we add the support for the initial HVD categories during 2024, we also make the HVD tag visible in the portal.
+- For additional information, see also the answer below for Q6. 
+- Additionally, we are currently (May 2024) in discussions with Paikkatietohakemisto (https://www.paikkatietohakemisto.fi/geonetwork/srv/eng/catalog.search#/home ; one of the geospatial data portals that are harvested in the national portal) on how to implement the HVD categories when we harvest their open data. Similar discussions need to be conducted with other harvested portals as well once we have implemented the support for the initial HVD categories. "
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;In the near future during 2024, when a data publisher tags a dataset or an API, (or a harvested dataset) as a HVD dataset, the data publisher must select/communicate at least one matching HVD category as currently defined: Geospatial, Earth observation and environment, Meteorological, Statistics, Companies and Company ownership, or Mobility.
+;3.2 Monitoring and measures;;;;;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"o    The portal uses the Berner’s-Lee Five-star rating on the quality of metadata to both analyse the metadata and communicate the quality of the metadata for each data set. 
+o    https://www.avoindata.fi/data/en_GB/report/openness
+o    Opendata.fi reacts to portal user’s feedback on issues with data sets, including e.g. incomplete descriptions and missing meta data that is considered necessary.
+o    Opendata.fi monitors broken links and sends out monthly reminders.
+o    https://www.avoindata.fi/data/en_GB/report/broken-links
+o    The portal also monitors expired data and sends out multiple warnings in advance. 
+o    The Opendata.fi administrators monitor the errors the portal harvesters report on the data and the metadata. The portal team assists data owners in fixing the errors that fall on the data owners’ responsibility.";Change;No;We do not monitor the quality of metadata per se, but the portal data model mandates a fairly comprehensive set of metadata in order for the dataset to be published, or harvested successfully.
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;"The following reports are available to portal users: 
+o    https://www.avoindata.fi/data/en_GB/report/broken-links
+o    https://www.avoindata.fi/data/en_GB/report/openness
+
+A report against DCAT-AP compliance (mandatory, optional, and supported recommended fields) is planned, but not implemented at the time of answering.";Change;No;A focused report on DCAT-AP compliance is still in the backlog. We are investigating what already existing tools and implementations are available, but the feature will not make it in the 2024 backlog. 
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;"The following guidelines and step-by-step instructions are available: 
+Guidelines :https://www.avoindata.fi/en/operating-model/6-publication
+User instructions: https://www.avoindata.fi/fi/kayttoohjeet/datan-lisaaminen-0#lisaa-dataa
+
+"
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;"- The best practises guidance document ""Operating model for sharing data"" provides a section on various recommended metadata practises as part of the guidelines for data publishing. See https://www.avoindata.fi/en/operating-model/6-publication#step
+- When a data publisher publishes data via the portal, the metadata must contain the DCAT-AP mandatory properties and those recommended properties that are needed for national compliance. This does not fully apply to datasets that are harvesed form other portals, although we do take steps to ensure the minimum coverage also from harvested portals. In practise we expect the DCAT-AP 2 mandatory properties and select recommended properties as minimum information to be compliant nationally as communicated in our national extension: https://www.avoindata.fi/ns/.
+We also recommend the use of the CC0 and CC BY 4.0 licenses. "
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;"- The best practises guidance document ""Operating model for sharing data"" recommends using the CC BY 4.0 and CC0 licenses. The recommendation is available in the section Planning and implementation - Defining access rights.  See 
+https://www.avoindata.fi/en/operating-model/5-planning-and-implementation#access-rights
+- The UI for publishing data on the portal mandates the selection of license and recommends CC0 for metadata and CC4 for the dataset itself."
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;5-10;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;No;"No regular activities are conducted. For data quality, we provide the following guidelines and best practises: for opening and sharing data ""Operating model for data sharing"": https://www.avoindata.fi/en/operating-model
+and best practises for opening and sharing data via APIs in the public sector ""API principles"": https://www.avoindata.fi/en/api-principles
+We also conduct one-to-one support sessions with data providers upon request, for example for the regional portal Lounaistieto when they migrated their data in the national portal. "
+;3.3 DCAT-AP Compliance;;;;;
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;The portal is compliant with DCAT-AP v.2.11 with some extensions and changes to accommodate for established national practises specified in the national extension. The portal will introduce the DCAT-AP v.3 HVD categories during 2H2024. Fuller DCAT-AP v.3 support  with corresponding scaling down of the national extension is planned to take place when CKAN support for DCAT3 is available. 
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);>90%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;"Opendata.fi data model is compliant with DCAT-AP version 2.11. Our data model does, however, support only select fields within the optional classes. 
+See the technical documentation for our extension for closer details. https://www.avoindata.fi/en/dcat-ap";Confirm;;
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;Yes;"The reasons for incompatibility have been the same fora number of years: 
+1 = Very old data sets that are published before DCAT-AP 1.1 are not necessarily compliant if they have not received any content or metadata updates. 
+2 =  Some data owners provide minimum metadata descriptions only (although we recommend a comprehensive set of metadata). We do not mandate filling in the recommended or optional fields when submitting new data sets. 
+3 =  For some harvested data sets (esp. geospatial data), the metadata available does not match the DCAT-AP metadata 100%, and we support only partial GeoDCAT-AP compliance for the time being.
+4 = A large number of data sets (esp. geospatial data) carries additional metadata derived e.g. from Inspire and its national applications that is not explicitly identified in the DCAT-AP specification. The majority of this data can be mapped in the recommended fields, which we have done e.g. with Paikkatietohakemisto. 
+- Any new materials either harvested or added in the portal directly are, however, compliant at least with the DCAT-AP 2 mandatory properties."
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+;3.4 Deployment quality and linked data;;;;;
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;"Opendata.fi assesses the quality of the data according to the 5-star model. Based on discussions with the data openers at the time of answering, both data publishers and open data re-users consider the model cumbersome and difficult and  thus a barrier for publication. A lot of typical open data re-users (e.g. regular citizens and reporters in media) use open data in very basic/proprietary formats, such as MS Excel. 
+
+We are increasingly trying to apply the FAIR principles in assessing the data quality and related communications to the extent that is possible. Implementing the principles in the national portal is not clear cut, but we aim for higher adoption. 
+
+Opendata.fi also considers it problematic that the data semantics in the 5-star model are not anchored with anything. The semantics do not, for example foster interoperability of data on national (Finnish) or European levels. The portal team’s experience has, however, shown that the best publishing approach is either three stars or five stars on the 5-Star model.";Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;Opendata.fi communicates both the 5-star model and the FAIR principles in the portal’s technical framework and related documentation as well as  in the Data Owner’s guide. We have also taken up the model in the events and meetups with data providers systematically over the years. ;Complement;;In addition to the previous answer, section 6. 'Publication' in the best practises guideline Operating model for sharing data (https://www.avoindata.fi/en/operating-model/6-publication#metadata) contains a motivation to publish also comprehensive metadata. 
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;>90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;71-90%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;>90%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;Confirm;;N/A

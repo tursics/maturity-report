@@ -1,0 +1,151 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";other;Republic of Serbia has adopted Law on Electronic Government in April 2018, which includes open data (definition, right to reuse, regulation of the National Open Data Portal, etc), in the following sections: article 4, article 25, article 26, and article 27. URL: https://www.ite.gov.rs/tekst/130/zakon-o-elektronskoj-upravi-i-podzakonska-akta.php;Confirm;;;;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";not applicable;There is no national open data strategy, however, open data is prominently mentioned in the Programme for Development of Electronic Government in the Republic of Serbia for the period 2023 - 2025 with the Action Plan for its Implementation. Open data is part of the following sections: Special Goal 4, measures 4.1, 4.2, and 4.3. https://mduls.gov.rs/wp-content/uploads/Program-razvoja-elektronske-uprave-za-period-od-2023.-do-2025.-godine-sa-Akcionim-planom.pdf Additionaly, open data is prominently mentioned within the Strategy for the Development of Artificial Intelligence in the Republic of Serbia for the period 2020 - 2025. Open data is part of the following sections: 4.3, 4.3.2.1, 4.3.2.2, and 6.4.2 URL: https://www.srbija.gov.rs/tekst/en/149169/strategy-for-the-development-of-artificial-intelligence-in-the-republic-of-serbia-for-the-period-2020-2025.php;Confirm;;;;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;The City of Priboj has mentioned open data in their Plan for Development of the Municipality of Priboj for 2022 - 2028, in the development direction 4 (4.1. Digitalization and establishing the open administration, 4.2. Improving data management, opening the data and implementing the Smart City solutions). URL: http://www.priboj.rs/docs/plan_razvoja_opstine_Priboj_2022-2028.pdf;Confirm;;;;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;"Within the Programme for Development of the Electronic Government in the Republic of Serbia for 2020 - 2022, and the specific goal 4, there are four measures to be implemented in the open data field: 1. Successful implementation of the Open Data legal framework; 2. Support to open data reuse; and 3. Introducing the ""Smart City"" concept. ";Complement;Yes;"Within the Programme for Development of the Electronic Government in the Republic of Serbia for 2023 - 2025, and the specific goal 4, there are four measures to be implemented in the open data field: 1. Succesfull open data release 2. Successful implementation of the Open Data legal framework; 3. Support to open data reuse; and 4. Introducing the ""Smart City"" concept. ";;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;;;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;;;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";no;;Confirm;;;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"Within the measure 4.2. Support to open data usage, one of the measurement units is ""Number of authorities supported for opening and/or reuse of open data"", with target value 62 by 2025 (baseline value was 28 in 2022)";Confirm;;;;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"Within the measure 4.2. Support to open data usage, one of the activities is ""Conducting trainings towards opening and reuse of data (for public, private and civil sector, academia and media)""";Confirm;;;;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";no;;Confirm;;;;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";no;;Confirm;;;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Not Applicable;;;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-b;Earth observation and environment;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-c;Meteorological;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-d;Statistics;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-e;Companies and company ownership;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-f;Mobility;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;Not Applicable;;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;Governance structure includes Open Data Working Group (new mandate to be confirmed in Q3 2024), which contains members from the government, local self government, civil society, tech community, academia, media. Additionaly, Office for IT and eGovernment coordinates Open Data Hub, which includes relevant experts from tech, academia, government and other sectors of society.;;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;Most of the decision-making process and open data ecosystem building goes by the bottom-up model, however in some cases a top-down model is more applicable, in order to produce more effective results (usually in cases of implementation of already agreed, planned, and publicly discussed measures/plans);Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;Both Office for IT and UNDP cooperate with multiple stakeholders to ensure support for local and regional open data initiatives. Open Data Portal has more than 50% of accounts opened by LSGs, in the past 7 years project suppported multiple events on the local level, and launched open data challenge focused on local open data. In April 2024 Office for IT and eGovernment gave expert suppport to the Regional Open Data Challenge, facilitated by UNDP and ReSPA. More info: https://www.ite.gov.rs/vest/sr/7467/regionalni-izazov-otvorenih-podataka-2024.php;;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";approximately half of the public bodies;;Confirm;;;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";no;This answer is changed in light of the comment of the reviewer to the previous question. ;Change;Yes;The open data team is displayed in here: https://hub.data.gov.rs/en/community/ (our team) Open Data Hub is directly linked at the Open Data Portal: https://data.gov.rs/sr/;;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Since the national open data team and the team maintaining the national open data portal are seated within the same institution - the Office for IT and eGovernment - there is a regular exchange ;Confirm;;;;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;The National Academy for Public Administration trains and certifies data officers. URL: https://www.napa.gov.rs/extfile/sr/2540/%D0%9E%D0%BF%D1%88%D1%82%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%20%D0%BE%D0%B1%D1%83%D0%BA%D0%B5%20%D0%B4%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B8%D1%85%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B7%D0%B0%202021..pdf (page 549)gh;Confirm;;;;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";No;;Confirm;;;;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Exchange of knowledge was accomodated through meetings within the Open Data Working Group (consisting of the public officials, CSO, media, tech community, academia, etc), and now through meetups. URL: https://www.ite.gov.rs/vest/sr/4333/sastanak-radne-grupe-za-otvorene-podatke.php, https://www.facebook.com/groups/104525646608201/permalink/1532308657163219/;Confirm;;;;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";no;;Confirm;;;;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;The Ministry of Public Administration and the Local Self-Governemnt monitores implementation of the Programme for Development of eGovernment, and publishes reports. URL: http://mduls.gov.rs/publikacije/;Confirm;;;;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;"Policy update is scheduled by the end of 2024, according to the Programme for Development of eGovernment 2023-2025 (page 52). The assessment of the compliance of the Law on Electronic Government with Directive (EU) 2019/1024 of the European Parliament and of the Council on open data and the re-use of public sector information is currently being conducted (according to the Programme, page 18. https://mduls.gov.rs/wp-content/uploads/Program-razvoja-elektronske-uprave-za-period-od-2023.-do-2025.-godine-sa-Akcionim-planom.pdf)
+
+
+
+
+
+";;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;Public sector bodies in Serbia don't charge for data.;Confirm;;;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;1) The policy needs to be updated in order to follow PSI Directive and strengthen the right to reuse open data through introducing complaint system in case that the user (requester) doesn't get data on request. 2) ambition bar needs to be raised in terms of open data release of high-value datasets 3) Data Officers need to be introduced on all levels of governance (national and local);Confirm;N/A;;;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;The Office for IT and eGovernment is currently scoping a new project with UNDP Serbia, where the mentioned challenges will be tackled. Additionaly, legislative change is planed as measure of the new Programme for Development of eGovernment for 2023 - 2025 ;Change;Yes;The new project focused on open data has started, and it will be implemented by Office for IT and eGovernment, in partnership with UNDP, with support by the United Kingdom. Most of the challenges will be addressed through it. Additionaly, measure for change of the legislative framework has became part of the Programme for development of eGovernment. The new project started in April 2024, and activities which have been implemented up to date are: establishment of the working group for change of the Law on eGovernemnt and Open Data Portal Regulation. Previous to the establishment of the working group, SIGMA has supported consultancy work on Regulatory impact analysis and harmonization with EU PSI Directive and HVD Implementation Act. This has been used as a basis for work of the Working Group. Also, in parallel, we have started cooperation with the Serbian Agency for Environmental Protection to harmonize their open data sets standards with HVD Implementation Act, making them a first institution (pilot), even before it becomes mandatory for all HVD holders. ;;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;Office for IT and eGovernment supports data holders though various means: tailor made support (e.g. Development of custom harvester for big data publishers), trainings, participation in Open Government Partnership process and support to commitments which include open data release. Additionaly, National Academy for Public Administration has a training for data holders: https://akademija.info/programi-obuka/ucionica/otvaranjePodataka.html;;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;Open Data course is availabe to all civil servants through the National Academy for Public Administration, as well as Open Data Officer course (introduced within their annual course plan). Additionaly, occasional tranings and schools are organized. ;Confirm;;;;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, >9;Every year, National Open Data Week is organized, in collaboration with the open data community of users. Additionaly, other events are organized throughout the year. URL: https://hub.data.gov.rs/en/2022/03/18/open-data-week-begins/;Change;Yes, 6-9;Regional Open Data Challenge is organized from March until May 2024: https://www.ite.gov.rs/vest/sr/7467/regionalni-izazov-otvorenih-podataka-2024.php Additionaly, last year we have organized open data panel on the Data Science Conference, on November 2023: https://vreme.com/vreme/bez-otvorenih-podataka-setali-bismo-u-mraku/ Finally, last year we have organized National Open Data Week with the community and open data meetup: https://hub.data.gov.rs/la/2023/05/22/otvoreni-podaci-otkrivanje-mogucnosti-2/ ;;;;;;

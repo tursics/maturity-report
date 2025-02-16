@@ -1,0 +1,214 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;https://data.gov.cz;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;LinkedPipes ETL, LinkedPipes DCAT-AP Viewer, Openlink Virtuoso;LinkedPipes ETL, LinkedPipes DCAT-AP Viewer, Openlink Virtuoso. We base our implementation on open-source DCAT-AP compliant tools.
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;"SPARQL Endpoint: https://data.gov.cz/sparql
+Linked data fragments: https://data.gov.cz/ldf/nkod-ldf
+GraphQL: https://data.gov.cz/graphql"
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;SPARQL Endpoint: https://data.gov.cz/sparql
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"Regarding SPARQL endpoint: contents documented by DCAT-AP-CZ: https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/
+Regarding GraphQL: Self-documented using GraphiQL and its auto-complete features: https://data.gov.cz/graphql "
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;Regarding SPARQL endpoint: contents documented by DCAT-AP-CZ: https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Change;Yes;Links to various contacts in the footer of all pages of the portal/catalog: https://data.gov.cz/
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;All new information and articles about the open data topics are accessible directly from the homepage of the Portal here https://data.gov.cz/#novinky-ze-světa-otevřených-dat or here https://data.gov.cz/#články-ze-světa-otevřených-dat. ;Complement;;All new information and articles about the open data topics are accessible directly from the homepage of the Portal here https://data.gov.cz/#novinky-ze-světa-dat-veřejné-správy or here https://data.gov.cz/#články-ze-světa-dat-veřejné-správy.
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";No;"Response to reviewer:
+
+Users can connect to the contents of the national open data catalogue via API points (SPARQL endpoint, Linked Data Fragments endpoint or GraphQL endpoint) and compare the differences with the last known state (new datasets, new data providers, new local catalogues etc.) (it is a ""pull"" not a ""push""). (See https://data.gov.cz/sparql, https://data.gov.cz/ldf/, https://data.gov.cz/graphql).";Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;Users can request datasets through form called Open Data Wishlist accessible directly from the home page: https://docs.google.com/forms/d/e/1FAIpQLSdUaVaCITtmHdTGxsU5xPvdzIygOA7wHHaotPRPAbglCF3mpw/viewform. ;Complement;;Users can request data through a form located on the main page of the portal. See: https://forms.office.com/pages/responsepage.aspx?id=zYVrW-9EZk2G1GA90hYHgFb4sumQIuNPmsE0FFjWpJBUNU42MkFSSDBUOUw3NTgyUFFTOFM0NDY2Wi4u.
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;The requests are regularly analysed and the distributed into categories based on whether it is possible to open them or not. The analysis is part the the Annual Report of the State of Open Data and also available here https://opendata.gov.cz/dokumenty:analýza-opendata-wishlist.;Complement;;The information from the forms is subsequently evaluated and published directly on the Portal at: https://data.gov.cz/návrhy-na-datové-sady-k-otevření.
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;"The National Open Data Team monitors this issue through the Open Data Working Group and the questionnare about the state of open data that is sent out to the data providers annualy. Moreover, we compare the data from requests with actual datasets published in the National Open Data Portal.
+";Complement;;The National Open Data Team monitors this issue through the Open Data Working Group and the questionnaire about the state of open data that is sent out to the data providers annually. Moreover, we compare the data from requests with actual datasets published in the National Open Data Portal. Data that is published in the catalog is linked to requests and this information is also published for users.
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Change;Yes;"Discussions take place on the GitHub platform, where the codes and documentation for the catalog, portal or data standards for selected thematic datasets are completely published. The link to the GitHub discussion leads directly from the main page. See for example: https://github.com/datagov-cz/nkod-registrovane-aplikace/issues
+https://github.com/datagov-cz/otevrene-formalni-normy/issues
+GitHub notifies representatives of the National Open Data Team with the question, to which they then respond. Categorizing issues according to individual components of the portal enables better targeting and searching in their content for other participants. It also enables the direct involvement of publishers who are affected by the question, because the debate is public and accessible to everyone."
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;"Several. Open Data use cases are regularly showed in the form of articles directly on the Portal here: https://data.gov.cz/články/. Then the list of  use cases distributed into categories with a brief description is available in the every Annual Report on the State of Open Data in the Czech Republic also available on the Portal here https://data.gov.cz/výroční-zprávy/. For 2021 see Chapter 7.6 (hhttps://data.gov.cz/p%C5%99%C3%ADlohy/v%C3%BDro%C4%8Dn%C3%AD-zpr%C3%A1vy/V%C3%BDro%C4%8Dn%C3%AD%20zpr%C3%A1va%20o%20stavu%20otev%C5%99en%C3%BDch%20dat%20v%20%C4%8Cesk%C3%A9%20republice%202021.pdff). The 2022 Annual Report will be disponible at the end of June 2023. Currently we prepare the new system of how to show use cases on the Portal in accordance with the amendment to the Act. No. 106/1999 Coll. that stipulates that Portal has to provide ""information about products and services that use open data and other information"".
+";Complement;;There is a designated section on the Portal that contains reuse cases. See: https://data.gov.cz/aplikace
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";no;;Change;Yes;For each published reuse cases, there are linked datasets that it uses. They are available directly in the reuse case metadata in the Used datasets section. See: https://data.gov.cz/detail-aplikace?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fregistrovan%C3%A9-aplikace%2F14.
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";no;;Change;Yes;Directly on the home page, there is a link that leads the user to the form, in which it is possible to fill in the metadata items for the reuse case, which will subsequently appear on the portal. See form: https://forms.office.com/pages/responsepage.aspx?id=zYVrW-9EZk2G1GA90hYHgJIZFKrFC9hAvTG9nlkLeOtURUlNQ09XUjc2OEFZSEI1T1FBWFlCTkUyUyQlQCN0PWcu
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";no;;Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";no;;Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;As part of the search in the catalog, users can identify HVDs among the searched sets, or browse only HVDs themselves. Furthermore, for datasets that are HVD, the HVD label automatically appears in the catalog, both in the list of all datasets and in the metadata record of the dataset.
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";no ;The National Open Data Team uses the Google Search Consol Insights to have a general overview of the number of searches or clicks, or their geographical origin. We do not use cookies or Google Analytics instruments as we do not think that this kind of activity is in accordance with open data principles, especially the possibility of free (unconditional) sharing and re-use of data. If data is to be open, sharing it is an objective and therefore does not make sense restrict it in any way. Moreover, using third-party cookies especially legated to the Google instruments means to send data about users to the countries outside EU where we have no control over. However, several data providers monitor their local portal´s traffic (for example the Czech Social Security Administration,  the Ministry of Labour and Social Issues, the Czech Statistical Office, the  State Administration of Land Surveying and Cadastr, the Ministry of Agricutlure, the Ministry of Health, the Czech Telecommunication Office, Region Hradec Králové, the City of Brno). It is even more accurate way of how to measure number od dataset downloads etc. since the National Open Data Portal is a catalog and first point of contact to open data usually only at the beginning - as far as we know from the users´needs survey, many users after it access the data via local portal of respective open data providers.;Change;Yes;Matomo
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";no ;N/A;Confirm;;
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;At the end of 2021 the data users research was launched to identify e.g. which data users use most frequently, what motivates them to use data, or as an assessment of the format and quality of data. The results of this survey was published on the Open Data Portal in October 2022. Moreover, we use Twitter Analytics to analyze performance of the Twitter account of the National Open Data Team- tweet impressions, profile vistis, mentions, followers - and the Google Search Consol Insights to have a Portal general overview of the number of searches or clicks, or their geographical origin.;Complement;;At the beginning of the year, research focused on users of the national portal and data catalog was launched. The research included both a questionnaire survey (the invitation to participate was sent out as part of the newsletter and was published on the portal at https://data.gov.cz/2024/02/07/dotazníkové-šetření.html), as well as direct interviews with users and focus group. The results of the research are currently being processed and will be part of setting the strategy for the development of the portal for the year 2025. The current development of the portal also includes findings from similar research that was carried out in 2022.
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;The results of the research are currently being processed and will be part of setting the strategy for the development of the portal for the year 2025. When the assignment for the current development of the portal was being processed, the findings from a similar research that was carried out in 2022 became part of it. Based on the recommendations, the search functions were adjusted, the manuals were concentrated in one place, the content of the portal began to focus on public sector data management in general, a validator was developed that allows providers to verify compliance with standards, or a catalog of requests and applications was added.
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;The portal is regularly promoted on the social network X. The portal, its functions, news, user manuals are also mentioned in most presentations of the National Open Data Team - conferences, seminars, working groups. Presentations are thematically adjusted according to the target group - public sector (differences for users and providers when using the catalog), academia (presentations for university students and their teachers as part of courses), scientists (including the possibility of sharing other types of data for scientific research), auditors (specific training for the Supreme Audit Office), analysts (specific training for analysts in public administration).
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;We monitor searches related to the content of the portal, not the data catalog itself. Based on the monitored interest, we adapt content creation according to user preferences (focus on data management, articles with examples of reuse cases, good practice).
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"We monitor searches related to the content of the portal, not the data catalog itself. Based on the monitored interest, we adapt content creation according to user preferences (focus on data management, articles with examples of reuse cases, good practice).
+https://data.gov.cz/datové-sady
+https://data.gov.cz/vzdělávání/
+https://data.gov.cz/články/výsledky-voleb-v-čr-aneb-když-otevřená-data-fungují-na-1
+https://data.gov.cz/články/nový-lkod-nejen-pro-prahu
+"
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;"Based on feedback from Open Data and Portal (social media analysis, survey, community activites etc.) we gradually improve the full-text search function. Moreover, in last 12 months we developed the local open data catalogue validation function or ""search dataset available through API"" function. ";Complement;;In the last 12 months, we've added the ability to search for dynamic data and HVD, and made working with keywords clearer. Furthermore, an explanatory function was added for individual search categories.
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Complement;;"for humans: https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F44992785%2F5e454a0461e9a0580c848c18f97580a7
+for machines: https://data.gov.cz/sparql"
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";all public sector data providers;According to the Act No. 106/1999 Coll. all data that are published as open data has to be registred in the National Open Data Portal.;Complement;;Accroding to the Act 106/1999 Coll. Alldata that are publish as open data has to be registered in the National Open Data Portal/Catalog. Portal contains data from central, regional and local providers that register their data directly. After the registration Portal harvest information itself.
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"The National Open Data Team prepared several tools on how to help with publication process. The list of seminars and webinars can be found on the Open Data Portal (https://data.gov.cz/vzdělávání/prezenční/; https://data.gov.cz/vzdělávání/on-line/). In 2022 there were 42 realized seminars and webinars for open data publishers with more the 960 participants. Moreover, e-learning section on the Portal is available to all Portal users: https://data.gov.cz/vzdělávání/e-learning/. The National Open Data Team carries out consultations for all those interesed in data publishing. There were 27 consultations carried out in 2022 (+ countless emails and phone calls that are not part of official consultation numbers). The National Open Data Team has prepared detailed instructions on how to publish data, including examples of good and bad practice. See the portal for providers https://opendata.gov.cz/.";Complement;;"The National Open Data Team prepared several tools on how to help with the publication process. The list of seminars and webinars can be found on the Open Data Portal (https://data.gov.cz/vzdělávání/prezenční/; https://data.gov.cz/vzdělávání/on-line/). In 2022 there were 42 realized seminars and webinars for open data publishers with more than 960 participants. Moreover, the e-learning section on the Portal is available to all Portal users: https://data.gov.cz/vzdělávání/e-learning/. The National Open Data Team carries out consultations for all those interesed in data publishing. There were countless emails and phone calls. The numbers for the year 2023 will be available at the Annual Report published in summer 2024. The National Open Data Team also prepared detailed instructions on how to publish data, including examples of good and bad practice. See the portal for providers https://opendata.gov.cz/. Providers are also instructed at the meetings of Open Data Working Group."
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;For the list of all local, regional and sectoral open data portals see https://data.gov.cz/lokální-katalogy. ;Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;All data from the regional and local portals has to be registred and discoverable via national portal. For the list of all local, regional and sectoral open data portals see https://data.gov.cz/lokální-katalogy. ;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";all datasets;;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;"For example see:
+Positions of public transrpot vehicles - https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F44992785%2F867e77653877d289ecfd05049c91079f
+Traffic flow - https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F44992785%2Fe43a56fd2b22c14fb4520027d66c6bce
+Occupancy of parking houses and parking lots - https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F44992785%2F5211908d3bf82bd5ef8d210648ab8aee
+Air quality - https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F44992785%2F878df1f033e55b45c101cc9ea59359f1""";Complement;;"Occupancy of parking houses and parking lots 
+https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F44992785%2Fa13f84a4e700ace125de365fb9938f12 
+Air quality 
+https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F44992785%2F4907e5c199620d99a44c1ec388703cd5 
+Location of the public transport vehicles  
+https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F02795281%2F7650856a3ff6d3f6feaa38c08d82f444 "
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;Yes;Data from the Center for Research in the Non-Profit Sector (https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady% 2F44992785%2Faee8d88c79b4e167a10b57c0ce827ec5), data from research organization TamTamResearch (https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9 -sady%2F65993390%2F1087749998), data from the CEF Telecom STIRData project (https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov %C3%A9-sets%2F00216208%2Fe9a83e226dc746c02dd05aa4688359ad). REVISION: It is possible to publish non-official datasets, but we do not allow anyone other than the dataset provider to modify or change official datasets. So it's aligned with PT7 if we correctly understood the question.
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;See the Analysis of the requirements from the Open Data Wishlist where the required data were according to the possibility of their publication in the open data form divided into five categories - https://opendata.gov.cz/dokumenty:analýza-opendata-wishlist.;Complement;;This information is part of the requested data metadata, which is publicly accessible on the portal. The information also states if the data cannot be published for legislative reasons. An analysis of whether or not the data can be opened and for what reasons is regularly carried out by the national team or the legal department. See for example: https://data.gov.cz/n%C3%A1vrh-na-datovou-sadu-k-otev%C5%99en%C3%AD?iri=https%3A%2F%2Fdata.gov.cz %2Fsource%2Fsubstance%C4%9Bty-for-data-to-open%C5%99en%C3%AD%2FR1. 
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;"Emphasis on maintaining the national portal and its development is part of both the Information Concept of the Czech Republic (https://digitalnicesko.gov.cz/vize/#ctyri-pilire-digitalniho-ceska) and the new Strategy for Data Management of Public Sector for the years 2024-2030 , which commits the Digital and Information Agency to the operation and development of the national portal and ensuring its financing while maintaining the functionalities necessary for
+ensuring the quality of published open data and user comfort at
+search and use of open data (see https://data.gov.cz/přílohy/články/projekt-DIA-pomože-úřadům-zlepšit-správu-dat/Strategie%20pro%20správu%20dat%20ve%20VS.pdf). This is supported by the legislative convention of the national portal in the Act 106/1999 Coll. Failure to maintain it would thus be a violation of the law."
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"The National Open Data Team that manages the Portal, also manages the Twitter account @otevrenadata.
+";Complement;;The National Open Data Team that manages the portal, also manages the X accout @otevrenadata.
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;GitHub, see here: https://github.com/datagov-cz/nkod.;Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;The dashboards with characteristics of the published data (quality, distributions, data services, licences) are here: https://oha01.mvcr.gov.cz/kibana/app/dashboards#/view/43389e30-3335-11ec-aeb4-71177d02ba9a?_g=(filters:!()). Moreover, there are dashboards specifically dedicated to the individual data providers that show changes in time. See for example the Czech Statistical Office: https://oha01.mvcr.gov.cz/kibana/app/dashboards#/view/77aa5da0-721b-11ec-bbef-ab0fe51320ee?_a=(filters:!((query:(match_phrase:('http:%2F%2Fwww.w3.org%2Fns%2Fdqv%23computedOn.keyword':'https://rpp-opendata.egon.gov.cz/odrpp/zdroj/org%C3%A1n-ve%C5%99ejn%C3%A9-moci/00025593')))));Confirm;;
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;All dashboards monitoring the quality of data and metadata are available to both the Team and data providers. The Team regularly monitors dashboards and communicate irregularities to data providers, especially to members of the Open Data Working Group, and urges them to improve their performance.;Complement;;All dashboards monitoring the quality of data and metadata are available to both the Team and data providers. See for example https://oha01.dia.gov.cz/kibana/app/dashboards#/view/77aa5da0-721b-11ec-bbef-ab0fe51320ee?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-1y%2Fd,to:now-1d%2Fd)). The Team regularly monitors dashboards and communicates irregularities to data providers, especially to members of the Open Data Working Group, and urges them to improve their performance. The results of the biggest providers are also published as a part of the Annual Report of the State of Open Data in the more comprehensible form - see p. 53 https://data.gov.cz/přílohy/výroční-zprávy/Výroční%20zpráva%20o%20stavu%20otevřených%20dat%20v%20České%20republice%20za%20rok%202022.pdf. 

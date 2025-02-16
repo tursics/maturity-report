@@ -1,0 +1,133 @@
+;Dimension 3: Open Data Quality;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;"Provide updated answer (if applicable)+I7;H3:I6";Provide updated explanation (if applicable)
+;3.1 Currency and completeness;;;;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;A generalized approach has been defined that provides for weekly harvesting of each federated catalogue (https://www.dati.gov.it/elenco-harvest-sources), except for specific requests for more frequent updating. Consequently, the update in the national portal is aligned with that one of the harvested local/thematic portal.;Confirm;;
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;100%;"Each data provider is required to communicate the endpoint of  its local catalogue and then that local catalogue is harvested by the national portal automatically.
+In case a data provider doesn't manage an own local catalogue, the provider can create a dump file of metadata to be published in the national portal from a web accessible folder."
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one week;A generalized approach has been defined that provides for weekly harvesting of each federated catalogue (https://www.dati.gov.it/elenco-harvest-sources), except for specific requests for more frequent updating. Consequently, the metadata is visible on the portal within a week at latest.
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;In the national Open Data Guidelines (binding for PAs), there is a specific recommendation that in the case of data series, the publication should cover not only the most recent or current data, but the entire series so as not to lose an important wealth of information useful, for example, for analyses on the evolution of various phenomena of interest.
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"We are working to implement DCAT-AP HVDs.
+We were waiting for the adaptation of CKAN to that guidelines in order to avoid customezed solutions. That was one of the challenges, also because we need to also adapt the plugin related to the national profile (DCAT-AP_IT) that will be made available as open source for reuse . "
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"A specific guidance document has been adopted and published in order to provide the data owners with operational and more detailed indications for a more effective implementation of the Regulation (also related to ensure the interoperability) and support them in the process of opening that type of data.
+The first version of the guidance document is available at the URL https://www.agid.gov.it/sites/default/files/repository_files/guida_operativa_hvd_-_ver._1.0.pdf "
+;3.2 Monitoring and measures;;;;;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"""Increasing the quality of metadata is a specific goal of the Three Year Plan for ICT in the PA 2022 - 2024 as well as the previous Plans, [https://www.agid.gov.it/sites/default/files/repository_files/piano_triennale_per_linformatica_nella_pa_2022-2024.pdf ]. Some actions and expected results in that Plan, indeed, concern the metadata quality:
+
+R.A.2.2a - Increase the number of datasets with quality metadata compliant with European and national reference standards
+
+To this end, the national portal makes available the list of data providers with the number of their datasets documented through metadata (see https://dati.gov.it/amministrazioni ) and the list of harvested catalogues with the number of datasets for each catalog (see https://dati.gov.it/elenco-harvest-source ). In addition, a validator has been implemented to allow data providers to know the quality of the metadata through compliance with mandatory and strongly recommended properties (such as contact point) in the DCAT-AP_IT profile. All this tools are used to discover any anomalies to be communicated to the competent administrations for a consequent improvement of metadata quality.
+The dynamic Monitoring page in the data portal https://dati.gov.it/Monitoraggio/MonitoraggioDinamico shows the measures about the quality of metadata published in the open data portal on the basis of a weekly frequency. To this purpose some indicators have been identified in relation to which targeted and joint interventions are carried out with the individual administrations to improve the information available on the portal.
+That page also shows the measures of the expected results and target of the Plan mentioned above.
+";Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;The information on the metadata quality is available in the monitoring section of the data portal, also downloadable in csv format: https://dati.gov.it/Monitoraggio/MonitoraggioDinamico ;Confirm;;
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;"https://www.dati.gov.it/fare-open-data/Strumenti-per-gli-Open-Data
+
+https://www.dati.gov.it/fare-open-data/Strumenti-per-gli-Open-Data
+https://www.dati.gov.it/contesto-normativo
+
+The Guidelines for the implementation of the Legislative Decree no. 36/2006, as amended by Legislative Decree no. 200 of 8 November 2021, transposing Directive (EU) 2019/1024,  https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf
+
+Guidance document on HVDs: https://www.agid.gov.it/sites/default/files/repository_files/guida_operativa_hvd_-_ver._1.0.pdf"
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;"The national metadata profile based on DCAT-AP (i.e. DCAT-AP_IT) states the mandatory (minimum) metadata required and the related DCAT-AP properties.
+It includes some extensions with respect to DCAT-AP, e.g. the rights holder, as well as more restrictive properties (from optional or recommended to mandatory). "
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;The Guidelines for the implementation of the Legislative Decree no. 36/2006, as amended by Legislative Decree no. 200 of 8 November 2021, transposing Directive (EU) 2019/1024 include the requirement that the licences to be used are CC-BY 4.0, CC0 or any equivalent or less restrictive open licence https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;5-10;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;"There are direct and regular contacts and support for data providers (mainly with the owner of the harvested catalogues) for publishing high-quality data and metadata, as this is included, with related expected results and actions, as an objective in the Three-Year Plan for ICT in Public Administration, with specific target set and specific tasks for public administrations.
+The measure of the quality of the metadata published in the portal is weekly published in the monitoring dedicated page to show what and how many metadata elements are still not conformant to standards.
+Furthermore, a validator is available on the portal in order to support the data providers to check the conformity of their metadata to the national metadata profile DCAT-AP_IT.
+Finally, in case of error raised in the harvesting process for each local/thematic catalogue, the error log file is shared with the data provider in order to enable the alignment to the standards.
+"
+;3.3 DCAT-AP Compliance;;;;;
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;"The national portal follow the DCAT-AP framework with some extensions (DCAT-AP_IT profile).
+A specific plugin is available for CKAN and a validator is available on the portal."
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);71-90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);71-90%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);71-90%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;"The decision to define a national profile (for Italy DCAT-AP_IT)) is mainly due to the needs related to the national legal system. The main extensions introduced concern:
+-	The additional mandatory property rightsholder;
+-	The additional optional properties subtheme and creator;
+-	The class Distribution is mandatory;
+-	Changes in the cardinality of several properties (from optional or recommended to mandatory), such as frequency, theme, modified.
+
+Our national extension is documented together with others in DCAT-AP implementation guidelines WG  https://docs.google.com/spreadsheets/d/1SPfA6fA9im_6EtxLDBtCMyBpt1q1aXl5ng4epLgSyJM/edit#gid=0
+
+The national profile is available here:
+https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/index.html";Confirm;;
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;Yes;".- Controlled vocabularies not used;
+.- not appropriate configuration of the technologies used; 
+.- mandatory properties missing"
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+;3.4 Deployment quality and linked data;;;;;
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;"As reported in the National Guidelines, the use of the 5 -Star Open Data model is required for the representation / distribution of the data (see
+https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf ).
+In accordance with the latest update of legislation regarding open data and reuse of public sector information, the FAIR principles are mandatory for research data and recommended for all other data types (see
+https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf)";Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;"The use of the 5 -Star Open Data model is promoted through the national Guidelines (see
+https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf ).
+Furthermore, AGID promotes the implementation and the use of the standard ISO 25012 on data quality, ISO 25024 on data quality measurement, and UNI-TS 11725 """"Guidelines for measuring data quality”. A specific section is dedicated in the national Guidelines (https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf).
+In addition, AGID has adopted a specific act aimed at improving data quality, see https://www.agid.gov.it/sites/default/files/repository_files/circolari/dt_cs_n.68_-_2013dig_-regole_tecniche_basi_dati_critiche_art_2bis_dl_179-2012_sito.pdf 
+and the measurement of the data quality, see https://www.agid.gov.it/sites/default/files/repository_files/documenti_indirizzo/iso_25024_agid_misurazione_della_qualita_dei_dati.pdf.";Confirm;;
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;71-90%;N/A;Change;>90%;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;>90%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;31-50%;N/A;Change;51-70%;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;Confirm;;N/A

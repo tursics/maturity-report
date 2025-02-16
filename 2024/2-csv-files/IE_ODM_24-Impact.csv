@@ -1,0 +1,445 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"A piece of data or content is open if
+anyone is free to use, reuse, and redistribute it —
+subject only, at most, to the requirement to attribute
+and/or share-alike” (http://opendatahandbook.org/).";Complement;;"In the Open Data Strategy 2023-2027 in Appendix 3 under Open Data Terminology, we have given a definition of data reuse as "" The Open Data Directive defines reuse as the use by persons or legal entities of documents held by public 
+sector bodies.""
+
+https://data.gov.ie/docs/Open.Data.Strategy_FINAL_ENG.pdf";;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;"Yes, there are a number of national level processes to monitor the reuse of open data.   Tools are available on the National Open Data Portal to measure reuse, including number of views and downloads of datasets, and overall usage of the portal. Utlising Fathom Analytics and Tableau, these statistics are publicly available at https://data.gov.ie/stats and dataset metrics are available on the dataset listing page https://data.gov.ie/dataset
+
+The Stats page on the portal provides all portal users an overview of data reuse nationally. https://data.gov.ie/stats
+This monitors and presents the metrics on the degree to which data is accessed.  Part of the remit of the Open Data Unit is to maintain a strong network of contacts with both data creators, managers and users.  Meetings are organised with data users and their feedback is actively sought on the portal, inviting them to comment on existing data and suggest further data that might be useful to them.";Confirm;;;;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";yes;" Yes, there are a number of tools in place to support and incentivise public bodies in measuring the reuse of their own and other public bodies’ open data. There is the KPI tool that has just been developed to allow data publishers to monitor their datasets- show when the data was uploaded, what was deleted and the currency of their data.  The KPI tool allows PBs to compare the quality of their data with other PBs and monitor their own progress over time.
+https://data.gov.ie/kpi-report; https://data.gov.ie/qa-report
+
+In general, Open Data allows Public Service Bodies (PSBs) to deal more efficiently with FoI requests and Parliamentary Questions as the data requested is already in the public domain and answers can simply be made in the form of a url to the relevant dataset.
+The National Open Data Portal provides information on the number of views for each dataset on the portal.  This is 'upfront' and can be easily viewed when you go into view a dataset. This visibility and transparency encourages PSBs to more closely their dataset numbers in relation to similar organisations and provides impetus within the organisation for continuous improvement.  The most visited datasets are ranked on the open data portal at https://data.gov.ie/stats and the most popular Covid datasets are featured on the front page of the portal.
+    
+There is evidence that the release of open data led to increased efficiencies in some public bodies.  For example since Failte Ireland (Irish tourism board) released their data via API, instead of running custom queries and excel exports for individual requests, they can now direct people to their Open Data API.  Fáilte Ireland would have had numerous queries from consultants, research agencies, other government organisations as well as developers of web applications.  This was time consuming and data wasn’t current once the query was run. The data is now dynamic and has lessened the burden on internal ICT resources to manage ad hoc queries on data.  https://data.gov.ie/organization/failte-ireland.  An example of use of the Failte Ireland API opendata can be found here https://data.gov.ie/showcase/failte-maps
+In addition to these tools provided by the National Open Data Portal described above, public bodies are supported through network groups and training. 
+The Open Data Liaison Officer Network is a network of representatives from all Irish public bodies, coordinated by the National Open Data Team. The Liaison Officer Network meets periodically to discuss the promotion and monitoring of Open Data within their organisations and with their stakeholders. The National Open Data Team also uses this Network to push out information to all Public Bodies, such as information about events, training, new features of the portal, and supports. Members of this Network are also the contact points for specific queries about the reuse of data published by their organisation, ensuring the responsiveness of requests and questions. 
+Regular Open Data Training is also available to all public-sector bodies, which includes the importance of open data reuse and impact and how to measure reuse. ";Confirm;;;;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"Ireland has an Open Data Strategy and emphasises compliance with EU regulations. Also as part of our Circular 2020/21 of the Open Data Directive, Section 14 and 15 lists Actions Required of public bodies. The publication of HVDs is monitored by adding this feature as a filter category, so the data can be easily identified (https://data.gov.ie/dataset/?high_value_dataset=true). In addition, both our internal tracker software identifies issues around which users have questions on HVDs and the portal feedback mechanism allows users to respond to HVD questions or issues.
+In addition, the metadata includes a European Legislation Identifier with links to  relevant HVD legislation.
+";;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;" The definition of Open Data Impact is set out in the Open Data Evaluation Framework (Section 4.3) https://data.gov.ie/uploads/page_images/2019-04-24-104508.655717Open-Data-Evaluation-Framework.pdf, which recommends both a macro and micro approach. A macro impact evaluation to examine the broad outcomes of the initiative from a social, political and economic perspective.  At a micro level, particular case-studies can be explored to get a clear understanding of the impact of Open Data in specific sectors and under a certain set of conditions.  The Most Significant Change technique could be used as a framework to capture and analyse particular stories.  
+
+The Impact of Open Data is one of the seven themes in the National Open Data Strategy 2017-2022: Theme 6: Evaluate the impact, benefits and risks of the Open Data Initiative and benchmark against other jurisdictions. This outlines “the development of metrics that allow benefits capture, for example, what contribution Open Data makes to improve efficiency and effectiveness of public service delivery. Carry out and publish an evaluation of the impact, benefits and risks of the Open Data Initiative. Consider evaluation frameworks in use in other jurisdictions which address benefits and return on investment”.
+
+Consultation with stakeholders is taking place on the next National Open Data Strategy and it is envisaged that the impact of open data will be a key area, especially in relation to high value datasets.";Complement;;"In the Open Data Strategy 2023-2027 we describethe benefits of using Open Data and the impact it can have. The Impact of Open Data is a strong theme in the current strategy. Under the Publishers Pillar, one of the goals is . ""Demonstrating the value and impact of Open Data and identifying success indicators to provide evidence on the business case for increased Open Data use"". Under the Platform Pillar, one of the goals is "". Raising recognition of the value and impact Open Data offers, to align and secure the resources needed to realise its full potential 
+for organisations and communities. Supporting the network of Open Data Liaison Officers to do this on the ground in their own organisations is essential"".The strategy outlines that ""For data to have the most effective impact, it needs to be appropriately accessible, mobile and reusable. That means encouraging better coordination, access to and sharing of data of appropriate quality.""
+
+We look at impact through the lens of the benefits Open Data can have. The strategy outlines ""On an individual level, the use of Open Data benefits us every day – from 
+planning our journeys, knowing what 
+weather awaits us at our destination, 
+to understanding how much we have 
+exercised and identifying a good beach for 
+swimming...The Open Data 
+Governance Board (ODGB) has provided 
+best practice in data governance, 
+identified opportunities for improved 
+access to government data and identified 
+the opportunities to realise the longterm social, political, environmental 
+and economic benefits of Open Data 
+for Ireland. "" This can all be read in further detail on page of the strategy ""Benefits of Open Data""
+ https://data.gov.ie/docs/Open.Data.Strategy_FINAL_ENG.pdf";;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;" Defining metrics to measure data use or impact can be difficult, especially if what is being measured is  subjective, for example, data quality. However, there are a number of indicators that can be
+automated and consistently reviewed to measure data access, such as dataset views and downloads
+on a data catalogue. For example, data.gov.ie uses Fathom Analytics to record dataset page views and downloads. If a publisher publishes data via an API, the number of API requests can be measured to better understand usage. 
+
+Impact stories and Showcases on the Portal provide examples of use and demonstrate the potential of open data, facilitating wider access to the data, and can encourage further use of the data. Examples can be provided by the publisher directly, or contributed by other users with the support of the publisher.  https://data.gov.ie/showcase/active-travel-counts
+https://data.gov.ie/showcase/muhds-lihaf-story-map";Complement;;"The strategy also commits to measuring impact. ""Measuring for Success Progress on implementing the commitments within this Strategy will be continuously measured, evaluated, and reported on. We will incorporate a broader set of outcomes to measure the impacts _x000D_
+of our interventions on societal well-being, _x000D_
+as per the commitment set out in the _x000D_
+Programme for Government. Risks and _x000D_
+dependencies surrounding our priorities _x000D_
+and goals will also be continuously _x000D_
+monitored and managed. A key focus _x000D_
+of our evaluation approach will be on _x000D_
+identifying lessons learned that can be _x000D_
+applied to future work.""";;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;" At the end of 2022, DataSoc in University College Dublin recieved an Open Data Engagement Fund award to run two hackathons for third level students using open data.  DataLink Hackathon – a two week competition where 3rd level students across the country are given a problem statement and many datasets, they have two weeks to complete and submit their solutions.Women in Tech Hackaton – a group of 40 girls, split into groups of 4 are given a problem statement and many datasets and are given 3 hours to make a 2 page PowerPoint
+
+The Smart cities iniative aims to provide information and a platform for feedback to both the public and civic groups.  It started with SmartDublin (https://smartdublin.ie/), but has since increased to other local areas- Smart Docklands, DCU, Dún Laoghaire, Balbriggan, D8 (https://smartdublin.ie/smart-districts/smart-d8/).  
+
+The Hale & Hearty EU funded Action was a collaboration of governmet and private sector partners to create a thematic knowledge base and app to support puvlic health and well being in an accessible, intuitive way (https://data.gov.ie/haleandhearty; https://haleandhearty.ie/).  This Action collaborated with NGOs like Sports Ireland and the Cork Healthy Cities (https://corkhealthycities.com/) and WHO sponsored programme.";Complement;;"Yes, our Annual Engagement Fund helps promote collaboration between government and civil society and academia to create open data impact in our country. This year we funded 6 projects as can be seen here at: https://data.gov.ie/blog/open-data-engagement-fund-winners-2023-2024
+Showcases can be seen here at: 
+https://data.gov.ie/blog/focus-on-the-open-data-engagement-fund and https://data.gov.ie/blog/european-peatlands-and-policies-open-data
+";;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Change;Yes;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;Yes;The Open Data Unit has a ticketing system that tracks a users request for access to datasets or requests for new datasets to be released. ;;;
+I8-b;Surveys;new question;new question;Change;Yes;The Open Data Unit conducted a survey with public bodies in Ireland in relation to complience with the Open Data Directive. In turn, public bodies have completed the survey. ;;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;Public sector bodies have completed at least the following six workshops in the following areas which is commissioned by the Open Data Unit in Ireland: General Introduction to Open Data, Introduction to the Open Data Directive, Open Data Audits & Data Publication, Introduction to Data Analytics & Visualisation, Data Anonymisation Techniques, and Introduction to Linked Data.;;;
+I8-d;Other;new question;new question;Change;Yes;The Courts Service launched its Open Data Portal at data.courts.ie, making court data readily available in a user-friendly format with clear visuals and downloadable datasets. This open access empowers citizens, legal professionals, and researchers to download, analyse, and leverage the data for various purposes, promoting transparency and fostering a deeper understanding of the court system.;;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Change;Yes;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;Feedback sessions during our conference and through surveys provide direct communication with our reusers. Through our conferences and webinars, public bodies can learn which datasets are most used and for what purposes, they can also do this through their own portals. This helps them prioritise resources. User feedback through our tracker can reveal issues with search functionalities and can help with improving discoverability or data organisation on the portal. ;;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;Yes;Generally, social media sentiment analysis is less likely to be used directly by public bodies for understanding reusers' needs. While it does and can be used to provide a general sense of public perception towards open data, it might not offer specific insights from actual data users.;;;
+I9-c;Other;new question;new question;Change;Yes;Some Public sector bodies would monitor which datasets are downloaded, which can indicate a user preferences and areas requiring further promotion. Public sector bodies such as Smart Dublin or Galway County Council are participating in forums and workshops with data scientists, developers, and researchers which are providing valuable insights into emerging needs.;;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;"The open data unit regularly canvasses for open data re-use examples.  This is done through the portal with a call for showcases of open data on the homepage; https://data.gov.ie/showcase
+A significant part of the open data research on what would be relevant for the next strategy was an examination of reuse cases and an analysis of what these could tell us about the priorities and needs of our users.";Complement;;"In addition to the answer from 2023, Our engagement fund is also a specific systematic way of gathering reuse cases through the specific categories applied for, application requirements, reporting, and publishing the outcomes:
+Category (b): Re-use of Government Open Data: This category directly encourages projects that demonstrate innovative ways to reuse data. Funded projects could involve:
+1.	Building apps, dashboards, or new products/services using open data.
+2.	Developing visualizations showcasing data usage.
+3.	Organizing hackathons to promote open data use in solving real-world problems.
+
+Category (c): Special Category Project: This category supports projects using open data to achieve specific goals, potentially generating valuable reuse cases:
+1.	Increasing public service efficiency.
+2.	Assisting in government decision-making.
+3.	Demonstrating trends in social topics for addressing current issues.
+
+Application Requirements:
+The application process helps identify reuse cases by requiring details about the project:
+•	(b) and (c) Categories: Applicants must demonstrate how they'll use datasets from the national open data portal (data.gov.ie). This ensures the project focuses on reusing available data.
+•	All Categories: Applications need to show ""clear audience benefits/impacts."" This encourages projects with tangible results and potential for wider adoption.
+Reporting:
+Successful applicants must submit reports:
+•	Progress Report: This report might include details on data used and initial findings, potentially revealing early signs of reuse.
+•	Final Report: This report should showcase the project's completion and its impact on data reuse. This could involve presenting developed applications, visualisations, or insights gained from data analysis.
+Publishing Outcomes:
+The Open Data Unit may publish the final reports via the Open Data portal. This allows for wider dissemination of successful reuse cases.
+Details of successful applicants and funded projects are published on the Open Data portal, further promoting reuse examples.
+By funding projects that directly utilise open data and requiring reporting on their impact, the fund not only encourages reuse but also captures valuable data on how open data is being leveraged for various purposes.
+";;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;"The open data research referenced above classified re use in the following ways;
+Whether a respondent was a user, creator, both or facilitator of open data.
+The sector in which the data was to be utilised, i.e. Economic, Social, Academic, Political or Civic.
+The activities for which open data could be used; to make new data products and services; for organizational optimization; to improve knowledge and capacity building; for research, reports, and presentation; for new business opportunity; for transparency; advocacy.
+The type of data of interest; real time, statistical, spatial, historic, relatin to government services";Confirm;;;;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";No;"The impact on governmental challenges of open data can be seen in the way in which government policy has shifted to take the requirements of open data into account.  In the past 9 months there have been FoI and AIE data requests on governmental compliance with the implementation  the Open Data Directive , derogations sought and work done on the recognition of high value datasets.  This has driven increased transparency in government and provided the impetus for public bodies to improve their data management and publication processes.RESPONSE TO REVIEWER: 
+Governmet efficiency is also assessed with open data featured on; https://whereyourmoneygoes.gov.ie/en/ As it compares government spending in different areas and gives a trend for spending on services. 
+https://data.gov.ie/impact/health/ This link gives information on hospital waiting times to improve transparency for patients. ";Change;Yes;"Yes, there is data available on the impact of open data on governmental challenges in Ireland.
+The impact on governmental challenges of open data can be seen in the way in which government policy has shifted to take the requirements of open data into account.  In the past 9 months there have been FoI and AIE data requests on governmental compliance with the implementation of the Open Data Directive, derogations sought and work done on the recognition of high value datasets.  This has driven increased transparency in government and provided the impetus for public bodies to improve their data management and publication processes. 
+Government efficiency is also assessed with open data featured on; https://whereyourmoneygoes.gov.ie/en/ As it compares government spending in different areas and gives a trend for spending on services. 
+https://data.gov.ie/impact/health/ This link gives information on hospital waiting times to improve transparency for patients. ""
+The Open Data Strategy aims to improve transparency and efficiency of government, potential for business innovation, and a vast array of social and personal benefits: 
+https://www.gov.ie/en/policy-information/8587b0-open-data/
+The Open Data Initiative addresses issues such as legal and technology constraints that prevent efficient information sharing among public bodies:
+https://oecd-opsi.org/innovations/irelands-open-data-initiative/
+The Open Data Strategy document mentions potential cost savings and job creation associated with open data initiatives, suggesting economic modelling: 
+https://assets.gov.ie/277517/45722fb7-1e1c-414a-830b-fa831388aecf.pdf
+Our Open Data showcases also lists a variety of examples that provide data on the impact of Open Data on Government challenges in Ireland:
+https://data.gov.ie/showcase
+";;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"URL to the reuse case: https://whereyourmoneygoes.gov.ie/en/_x000D_
+URL to the open dataset used by the reuse case: https://data.gov.ie/dataset/voted-public-expenditure_x000D_
+Description of the reuse case and its impact in this sub-domain: _x000D_
+This user-friendly platform provides an easy-to-understand interface for exploring government spending. Interactive charts, graphs, and summaries break down complex financial data into accessible formats. Users can delve into various spending sectors and even analyse trends._x000D_
+By making spending data accessible, the website empowers citizens to hold the government accountable for resource allocation. They can actively participate in budget discussions and policy decisions based on readily available information. This fosters public trust and allows for informed public discourse on government spending priorities._x000D_
+Increased transparency and citizen engagement can lead to identifying inefficiencies in spending. Data-driven insights can inform policy decisions, potentially leading to a more efficient allocation of resources. Ultimately, this can contribute to a more effective delivery of public services across Ireland. _x000D_
+A brief explanatory video is available at https://youtu.be/I0K7MY0Pixw_x000D_
+";;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"""URL to the reuse case: https://www.oceanenergyireland.com/_x000D_
+URL to the open dataset used by the reuse case: https://data.gov.ie/showcase/ocean-energy-ireland-portal_x000D_
+Description of the reuse case and its impact:_x000D_
+Ocean Energy Ireland webpage acts as a central hub for information and resources related to developing Ireland's Marine Renewable Energy (MRE) sector. By centralising information and resources, the webpage makes it easier for the public to understand government efforts in promoting renewable energy. This fosters transparency. It allows the public to potentially scrutinise the information and hold the government accountable for data accuracy and transparency in its renewable energy strategies._x000D_
+In addition to the above,_x000D_
+The use of open data in Ireland is recognised as playing a significant role in enhancing transparency and accountability of public administrations. The Irish government’s Open Data Strategy highlights open data as central to delivering better public services, providing a rich evidence base for decision-making, and creating inherently transparent systems that contribute to accountable public bodies: _x000D_
+https://www.gov.ie/en/press-release/429e1-minister-donohoe-launches-new-open-data-strategy/_x000D_
+Additionally, open data supports openness and accountability as part of Ireland’s Open Government Partnership National Action Plan: _x000D_
+https://www.gov.ie/en/publication/163db-irelands-fourth-open-government-national-action-plan-2023-2025/_x000D_
+""";;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"URL to the reuse case:_x000D_
+https://www.gov.ie/pdf/?file=https://assets.gov.ie/255872/e6feb71e-0199-4061-894e-6f8e80bafad1.pdf#page=null_x000D_
+URL to the open dataset used by the reuse case:_x000D_
+https://data.gov.ie/dataset/public-service-numbers_x000D_
+Description of the reuse case and its impact:_x000D_
+Open Data falls under pillar 3 of the Better Public Services Strategy: Evidence-Informed Policies and Services Designed for and with our Public. This theme emphasises using data and user feedback to inform policy decisions and service design. Initiatives could involve citizen engagement programs, data-driven analysis to identify service gaps, and co-creation of services with the public. Public administrations are making use of the data as evidence for the problem identification and policy formulation. Open data is having a significant impact on policy-making processes in Ireland. The government has recognised its importance in driving better public services and providing a rich evidence base for decisions. It’s also seen as key to creating transparent and accountable public bodies._x000D_
+";;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Yes, open data is having an impact on decision-making processes in Ireland, supported by the Open Data Portal. The Irish government has emphasised that open data is central to driving better public services, providing a rich evidence base to inform decisions, and ensuring the creation of effective and inclusive services. It also promotes transparency and accountability in public bodies._x000D_
+https://www.gov.ie/en/press-release/429e1-minister-donohoe-launches-new-open-data-strategy/_x000D_
+https://data.gov.ie/pages/open-data-strategy-2023-2027_x000D_
+https://www.siliconrepublic.com/enterprise/open-data-strategy-ireland-policy_x000D_
+This suggests a government-level push for utilising data, potentially including open data, in decision-making. Both the Open Data Strategy 2023-2027 and the Better Public Services Strategy 2030 emphasise data-driven decision making._x000D_
+URL to the reuse case: https://marineplan.ie/_x000D_
+URL to the open dataset used by the reuse case: https://data.gov.ie/showcase/marine-spatial-planning_x000D_
+Description of the reuse case and its impact:_x000D_
+This web map portal is a pioneering initiative by the Irish government, acting as a one-stop shop for information on marine spatial planning (MSP) in Ireland.  With key functionalities such as Activities Map, Policies Map, and MSP Hub. It also includes Information on government departments and agencies involved in maritime affairs. The Irish Marine Spatial Planning (MSP) portal can significantly impact public administration decision-making processes related to maritime activities by: Informing Policy and Regulation Development, such as Spatial Activity Overlays. This can inform the development of targeted policies and regulations that consider potential conflicts and ensure balanced use of maritime resources. Policy-Activity Linkages: The Activities and Policies Map allows decision-makers to analyse the effectiveness of existing regulations for specific maritime activities. This can help identify areas where policies need to be adjusted or strengthened. Clear Spatial Information: The portal provides a clear spatial picture of permitted activities within specific areas. This can expedite permit processing by minimising the need for extensive data collection and verification. Identifying Potential Conflicts: By visualising proposed activities alongside existing ones, the portal can help decision-makers identify potential conflicts between different uses of maritime space. This allows for proactive conflict resolution during the permitting stage, saving time and resources. Baseline Data on Existing Activities: The portal serves as a readily accessible source of baseline data on existing maritime activities within a specific area. This data can be crucial for environmental impact assessments (EIAs) associated with proposed projects. Enhanced Transparency: The portal empowers the public to access information on marine activities, policies, and responsible agencies. This fosters transparency and allows for informed public participation in decision-making processes related to maritime spatial planning._x000D_
+";;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";No;"There is significant data on social challenges in Ireland.  In particular, organisations like Airo in Maynooth University RESPONSE TO REVIEWER: https://www.maynoothuniversity.ie/airo/partnerships-and-services use open data to assess social challenges, represent the groups affected and advocate for better data-driven government decisions.
+Organisations like Tusla, the Child and Family Agency has a comprehensive Open Data Portal to allow access to its data on child services, child protection and welfare, family support and domestic violence.  They now have 822 datasets on the open data portal and are one of the most viewed publishers.  https://data.gov.ie/organization/tusla  
+Data is increasing recognised as a force for positive social change, a figures on deprivation or lack of social services are more accessible and both journalists and the public become more competant in finding and interpreting source data.
+Frequently organisations like Pobal feed directly into both the media and government policy; Frequently organisations like Pobal
+";Change;No;"There is significant data on social challenges in Ireland.  In particular, organisations like Airo in Maynooth University RESPONSE TO REVIEWER: https://www.maynoothuniversity.ie/airo/partnerships-and-services use open data to assess social challenges, represent the groups affected and advocate for better data-driven government decisions.
+Organisations like Tusla, the Child and Family Agency has a comprehensive Open Data Portal to allow access to its data on child services, child protection and welfare, family support and domestic violence.  They now have 822 datasets on the open data portal and are one of the most viewed publishers.  https://data.gov.ie/organization/tusla  
+Data is increasing recognised as a force for positive social change, a figures on deprivation or lack of social services are more accessible and both journalists and the public become more competant in finding and interpreting source data.
+Frequently organisations like Pobal feed directly into both the media and government policy;  Organisations like Pobal also publish Deprivation Indices (https://data.gov.ie/dataset/pobal-hp-deprivation-index-scores-2022) which are used by a wide range of organisations to add contect to their own studies.
+
+In addition to this, 
+The Open Data on Irish Travellers allow for targeted social services and resource allocation. 
+The Open Data on housing can address housing shortages and affordability issues.
+The Open Data on health and wellbeing can be used to identify areas with high disease burdens and target preventative healthcare initiatives. 
+The Open Data on education can inform policies to improve educational equity and outcomes.";;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;There are examples of the beneficial effect of the use of open data on minorities, migrants, and/or refugees and reducing inequality, for example, Irish Travellers. Multiple data sources are drawn on from the CSO that provides this impact and please see following link to a research report prepared by the Department of Integration: https://www.universityofgalway.ie/media/healthpromotionresearchcentre/hbscdocs/nationalreports/2020---NR---Young-Trevellers-in-Ireland.pdf .;;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;There are examples of the beneficial effect of the use of open data on Alleviating housing issues such as the Housing Agency Data Hub. It provides key indicators and insights into the housing market: https://www.housingagency.ie/data-hub/welcome-housing-agencys-data-hub . Also, The Department of Housing, Local Government and Heritage is responsible for overseeing the Local Infrastructure Housing Activation Fund (LIHAF) initiative. LIHAF Story Maps is an interactive web mapping platform that visualises the progress of infrastructure projects funded by LIHAF. This increases public awareness and engagement, transparency and accountability, and improved communication: https://storymaps.arcgis.com/stories/87cc342bff20462bb896087b0ce16215;;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"There are examples of the beneficial effect of the use of open data on Fostering health and wellbeing:_x000D_
+The Healthy Ireland Survey 2021 provides insights into the health and wellbeing of people in Ireland during COVID-19 restrictions: https://www.gov.ie/en/publication/9ef45-the-healthy-ireland-survey-2021/._x000D_
+The Central Statistics Office has a Social and Wellbeing COVID-19 Information Hub that includes surveys on the social impact of COVID-19: https://www.cso.ie/en/releasesandpublications/ep/p-covid19/covid-19informationhub/socialandwellbeing/ ._x000D_
+Understanding Life in Ireland: The Well-being Dashboard 2022 offers a broad overview of life in Ireland, including health and wellbeing indicators: https://assets.gov.ie/226077/8b4c5045-c259-498d-8d03-7feadd128726.pdf._x000D_
+The Well-being Information Hub by the Central Statistics Office covers a range of life aspects in Ireland, including health, based on an international framework developed by the OECD: https://www.cso.ie/en/releasesandpublications/hubs/p-wbhub/well-beinginformationhub/._x000D_
+The Second Report on Ireland’s Well-being Framework analyses well-being indicators across economic, environmental, social, and democratic areas: https://www.gov.ie/en/press-release/6db7f-publication-of-the-second-report-on-irelands-well-being-framework-and-analysis-of-the-well-being-dashboard/._x000D_
+";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;There are examples of the beneficial effect of the use of open data on Improving education: The Department of Education and the Central Statistics Office (CSO) in Ireland have statistics demonstrating significant improvements in educational participation, retention, and progression over the last 55 years: https://www.erc.ie/wp-content/uploads/2022/04/Carroll-2022-IJE.pdf;;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";No;"There have been a number of awards from the Open Data Engagement Fund, run by the Open Data Unit, to projects that use open data to promote good environmental practice, for example, This year, Smart Dublin received an award under this fund to organise a hackathon using primarily air quality data in Dublin.
+
+On Friday the 24th of February, Smart Dublin, an organisation founded by the four Dublin Local Authorities, partnered up with Google and Aclima, to launch a weekend- long Hackathon focused on improving air quality. It was the largest Air Quality Data Hack Ireland has ever seen. Air quality is a serious challenge facing our cities and one that not only affects the environment, but society as a whole. Over the last 16 months, equipped with Aclima’s air sensing platform, Google we able to collect over 50 million records at 5 million locations of street level air quality data for Dublin.Over the 3 days of the Hackathon, more than 100 participants gathered in the Dublin Google Offices and spent the weekend hacking these 50 million measurements of air quality data collected as part of the ‘Google Air View Dublin’ project. The aim was for the participants, spread across 16 teams, to come up with ways to help tackle air pollution in Dublin, given the hyperlocal, rich open data collected. This open data is available to view on Google’s Environmental Insights Explorer and on Smart Dublin’s open data platform and by making this data accessible and open, we hope to see local government, businesses and the general public working collaboratively to improve air quality for Dublin.
+
+The event was a great success, with teams coming up with innovative and imaginative solutions that could certainly help tackle air quality in Ireland. https://data.gov.ie/blog/smart-dublin-hackathon
+
+RESPONSE TO REVIEWER:  The Environmental Protection Agency publishes a wide variety of data, much of it in API format, to support the monitoring of environmental standards by both Local government, NGOs and members of the public; https://data.epa.ie/api-list/epr-open-data/
+
+The NMPF’s climate change policies seek to support management of potential impacts of proposals in two ways. Firstly, the way in which the proposal may affect natural and / or physical features that play a role in mitigation (e.g. carbon sequestration) or adaptation (e.g. flood defence. Secondly the way in which the proposal has considered its own direct and indirect contributions to mitigation (e.g. measures included in the proposal to reduce emissions) and adaptation (e.g. ensuring the proposal is future-proofed in relation to changing operating conditions due to climate change); https://data.gov.ie/dataset/national-marine-planning-framework-area?package_type=dataset
+
+The EPA use and generate open data on a number of environmental research projects https://www.catchments.ie/open-data-developer-resources/?_gl=1*1tkiden*_ga*MTA4MzEyNTY4OS4xNjU3MTIwNDMx*_ga_TPK2CK9KEX*MTY5NTM4NjYwOS4zLjEuMTY5NTM4NjYwOS4wLjAuMA..";Change;Yes;"This year the Open Data Engagement fund had many projects which were commiotted to solving environmental challenges. One such project was the  European Peatlands and Policies Open Data Mapathon 2024 in the University of Galway. 
+
+A blog on this event can be seen here: https://data.gov.ie/blog/european-peatlands-and-policies-open-data.
+https://www.youtube.com/watch?v=9KJgQLyu93c
+
+
+The dataset used was https://data.europa.eu/data/datasets?query=peatlands&locale=en&page=1&limit=50
+
+https://multipeat.insight-centre.org/map is a showcase of the project toolkit.
+
+Another project is that of Water Alerts which also received funding under the Open Data Engagement Fund. The website can be seen here: https://www.wateralerts.ie/?ref=PER
+
+
+The datasets used are:
+Datasets used in the project (if applicable)
+Details of datasets used from data.gov.ie and any other datasets used	
+•	Marine Institute Tide Prediction https://data.gov.ie/dataset/marine-institute-tide-prediction
+•	Met Eireann Live Text Forecast Data https://data.gov.ie/dataset/met-eireann-live-text-forecast-data 
+•	EPA Bathing Water Measurements https://data.gov.ie/dataset/bathing-water-measurements 
+•	EPA Bathing Water Alerts https://data.gov.ie/dataset/bathing-water-alerts 
+•	EPA Bathing Water Locations https://data.gov.ie/dataset/bathing-water-locations 
+•	OPW Hydrometric Network Water Level Data Latest Reading https://data.gov.ie/dataset/opw-hydrometric-network-water-level-data-latest-reading 
+•	Tailte Eireann (OSI) Admin Boundaries: Townlands, settlements, counties
+
+";;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"URL to the reuse case: https://www.epa.ie/our-services/research/epa-research-2030/strategies-and-policies/open-access-policy/_x000D_
+URL to the open dataset used by the reuse case:_x000D_
+https://data.epa.ie/_x000D_
+Description of the reuse case and its impact:_x000D_
+Open data can be used to share environmental data collected by the Environmental Protection Agency (EPA) on air and water quality. This transparency allows citizens and NGOs to track trends, identify potential issues, and hold authorities accountable. Furthermore, Ireland adheres to EU directives like the Water Framework Directive, which emphasise data collection and public participation in protecting water quality. Also, Ireland's National Biodiversity Action Plan highlights the importance of data and knowledge sharing for biodiversity conservation. Also, a €34 million project aims to make biodiversity data more accessible and track progress towards key policy goals in a transparent way: https://www.npws.ie/news/minister-noonan-announces-%E2%82%AC34m-project-transform-ireland%E2%80%99s-approach-biodiversity-data. This could indirectly contribute to maintaining good air and water quality by supporting better decision-making for nature protection and restoration: https://biodiversityireland.ie/app/uploads/2024/02/National-Biodiversity-Data-Centre-Strategic-Plan-2024-2028-WEB.pdf_x000D_
+";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"_x000D_
+URL to the reuse case: https://smartdublin.ie/fresh-data-fresh-thinking-google-project-air-view-results/_x000D_
+URL to the open dataset used by the reuse case: https://data.smartdublin.ie/dataset/google-airview-data-dublin-city_x000D_
+Description of the reuse case and its impact: Ireland's use of open data is positively impacting the goal of more environment-friendly cities through improved air quality monitoring. Dublin's Project Air View, for instance, released over 50 million air quality measurements openly accessible to the public. This transparency allows citizens to understand air quality variations and empowers city councils to develop targeted policies for environment-friendly transport systems, such as playing bike rental schemes in strategic locations: https://data.smartdublin.ie/dublinbikes-api. This would be based on data-driven insights from areas with higher pollution levels. By promoting public awareness and informing decision-making, open data like this contributes to a healthier environment-friendly transport system._x000D_
+";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"URL to the reuse case:_x000D_
+https://atlas.marine.ie/#?c=53.9000:-15.9000:6_x000D_
+URL to the open dataset used by the reuse case:_x000D_
+https://data.gov.ie/showcase/ireland-s-marine-atlas_x000D_
+Description of the reuse case and its impact in this sub-domain:_x000D_
+_x000D_
+_x000D_
+Ireland's Marine Atlas is an example of how open data can be a tool in the fight against climate change, for example by Predictive Monitoring, Preventative Actions, and Differentiated Disaster Responses._x000D_
+_x000D_
+The Atlas provides comprehensive marine environmental data, allowing researchers to track trends like ocean acidification and rising sea temperatures. This data can be used to predict future climate impacts on marine ecosystems._x000D_
+_x000D_
+By understanding the vulnerability of marine areas, policymakers can implement preventative measures. This could involve establishing marine protected areas or developing regulations for coastal development to mitigate climate change effects._x000D_
+_x000D_
+The Atlas can provide real-time data on extreme weather events like storm surges or floods. This information can be used to target emergency response efforts and minimise damage to coastal communities._x000D_
+_x000D_
+The Marine Atlas data is used by the Sustainable Energy Authority of Ireland (SEAI) to identify potential areas for developing clean, renewable energy sources like offshore wind farms. This reduces reliance on fossil fuels and contributes to Ireland's climate goals._x000D_
+_x000D_
+The Atlas also supports the National Marine Planning Framework (NMPF), which plays a crucial role in promoting sustainable practices in Ireland's maritime space. This includes ensuring responsible development and minimising human impact on marine ecosystems, both vital aspects of climate change mitigation._x000D_
+";;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"URL to the reuse case:_x000D_
+https://www.seai.ie/data-and-insights/seai-statistics/key-statistics/renewables/._x000D_
+URL to the open dataset used by the reuse case:_x000D_
+https://data.gov.ie/organization/sustainable-energy-authority-of-ireland?q=&sort=score+desc%2C+metadata_modified+desc_x000D_
+Description of the reuse case and its impact:_x000D_
+For instance, Ireland’s National Energy and Climate Plan (NECP 2021-2030) aims for a planned Renewable Energy Sources in Electricity (RES-E) of 70% by 2030, and the Climate Action Plan 2023 (CAP 23) targets to increase the share of electricity generated from renewable sources up to 80% by 2030. Additionally, at least 16% of gross final energy consumption in Ireland must come from renewables by 2020, as per the EU Renewable Energy Directive: https://www.seai.ie/data-and-insights/seai-statistics/key-publications/renewable-energy-in-ireland/ ._x000D_
+";;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";No;" While the impact of open data on the economy is difficult to quantify, the open data unit is supporting this research through the Research on open data impact; https://ec.europa.eu/eusurvey/runner/IrelandODImpactSurvey2021
+In addition to this, through our network, we are aware of business for whom open data is a key resource.  for example, MapAlerter is a free service that delivers localised alerts and notifications from your local authority open data. Subscribers receive SMS, email and app notifications for water disruptions, road works, floods, planning activity, severe weather and other topics - most local authorities now choose MapAlerter as their official alert service provider; https://www.mapalerter.ie/
+The company Home Assistant provides a service for monitoring a wide range of household functions, one of which is weather alerts.  This is done by accessing the MET Eireann API (https://www.home-assistant.io/integrations/met_eireann/) and example of open data supporting employment in innovative ways
+RESPONSE TO REVIEWER: 
+https://etownz.com/programs-training/ eTownz utilises open data to provide a forum for rural communities to train and communiate to develop their area and provide opportunities for a cohort that would otherwise be less accessible. The eTownz service uses open data to serve rural communities and facilitate rural developement and higher value employment, for example ; https://etownz.com/programs-training/   ;   https://etownz.com/project/smart-rural-27/";Change;Yes;"While the impact of open data on the economy is difficult to quantify, the open data unit is supporting this research through the Research on open data impact; https://ec.europa.eu/eusurvey/runner/IrelandODImpactSurvey2021
+In addition to this, through our network, we are aware of business for whom open data is a key resource. for example, MapAlerter is a free service that delivers localised alerts and notifications from your local authority open data. Subscribers receive SMS, email and app notifications for water disruptions, road works, floods, planning activity, severe weather and other topics - most local authorities now choose MapAlerter as their official alert service provider; https://www.mapalerter.ie/
+The company Home Assistant provides a service for monitoring a wide range of household functions, one of which is weather alerts. This is done by accessing the MET Eireann API (https://www.home-assistant.io/integrations/met_eireann/) and example of open data supporting employment in innovative ways.
+https://etownz.com/programs-training/ eTownz utilises open data to provide a forum for rural communities to train and communiate to develop their area and provide opportunities for a cohort that would otherwise be less accessible. The eTownz service uses open data to serve rural communities and facilitate rural developement and higher value employment, for example ; https://etownz.com/programs-training/  ;  https://etownz.com/project/smart-rural-27/. They aggregate multiple open datasets to provide a central service for users, e.g. https://data.gov.ie/dataset/kildare-library-locations; https://data.gov.ie/dataset/wexford-libraries     into       https://etownz.com/
+
+Tools like Smart Location Analysis empowers businesses, particularly Small and Medium-sized Enterprises (SMEs). Traditionally, SMEs lacked the resources for comprehensive location analysis, often leading to poor location choices and business closures. Smart Location Analysis leverages open data to provide SMEs with a user-friendly platform for analysing potential locations. Users define their area of interest and business objectives, such as market validation or competitor assessment. The platform then analyses over 70 data points on demographics, property, amenities, and even local brands. This data translates into tailored reports that can guide businesses in making informed location decisions, potentially leading to new market exploration, better regional coverage, and ultimately, increased chances of success. Smart Location Analysis highlights how open data contributes to economic growth by empowering SMEs with location intelligence previously unavailable to them.
+
+URL to Smart Location Analysis: https://www.smartlocationanalysis.com/
+
+Example of URLs to the Data from data.gov.ie:
+•	National Planning Applications: https://data.gov.ie/dataset/national-planning-applications
+•	Small Areas Generalised 20m – Osi: https://data.gov.ie/dataset/cso-small-areas-national-statistical-boundaries-2022-generalised-20m
+•	National Statistical Boundaries — 2015: https://data.gov.ie/dataset/nuts3-boundaries-ungeneralised-national-statistical-boundaries-2015
+•	Census Small Area: https://data.gov.ie/dataset/census-small-area
+
+Examples of other OpenData sets used
+•	Residential Property Price Register for the Republic of Ireland from the
+Property Services Regulatory Authority.
+•	New Dwelling Completions for the Republic of Ireland from the Central Statistics Office of Ireland.
+•	2022 Pobal HP Deprivation Index from POBOL.
+";;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Open Data usage in Ireland is part of the government’s Public Service Reform activities, aiming to increase transparency, stimulate new business, and improve services. Employment rates in Ireland have been increasing, with a rate of 74.2% in Q2 2023 compared to 73.5% in Q2 2023: https://www.cso.ie/en/releasesandpublications/ep/p-lfs/labourforcesurveyquarter22023/employment/_x000D_
+Open data have led to job creations in product development, marketing, and sales. It has also led to a multitude of Open Data Portals which need staff to maintain and also as a result, jobs have been created for software developers, data analysts, and customer service representatives._x000D_
+_x000D_
+The following is a further example that demonstrates the potential of open data to influence job creation. Open data from the Central Statistics Office on visitor numbers, spending patterns, and popular destinations empowers businesses like hotels and travel agencies to make data-driven decisions. Ultimately tailoring offerings to tourist preferences. _x000D_
+_x000D_
+Tourism and Travel: https://www.cso.ie/en/statistics/tourismandtravel/_x000D_
+_x000D_
+These strategic actions have the potential to lead to business growth and, consequently, job creation in areas like hospitality, marketing, and customer service. _x000D_
+";;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Reuse Case URL: https://doras.dcu.ie/26008/1/BuildingaDataProcessingActivitiesCatalogRepresentingHeterogeneousCompliance-relatedInformationforGDPRusingDCATAPandDPV.pdf_x000D_
+_x000D_
+Open Data Set URL: https://www.cso.ie/en/index.html_x000D_
+_x000D_
+Description and Impact:_x000D_
+This reuse case involves a collaboration between Dublin City University (DCU) and several logistics companies in Ireland. The project utilises open data from the Central Statistics Office (CSO) on demographics, traffic patterns, and road infrastructure._x000D_
+_x000D_
+Impact on Innovation and Technology Adoption:_x000D_
+1.	Route Optimisation Software: Researchers at DCU are using the open data to develop and refine route optimisation software for delivery vehicles._x000D_
+2.	Data-Driven Efficiency: This software allows logistics companies to plan more efficient delivery routes, considering factors like traffic congestion, road closures, and population density._x000D_
+3.	Reduced Emissions: By optimising routes, delivery companies can potentially reduce fuel consumption and CO2 emissions, contributing to environmental sustainability goals._x000D_
+4.	Technological Advancements: The project is a prime example of how open data can be leveraged to develop new technological solutions (route optimisation software) with a positive impact on the logistics sector._x000D_
+";;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"One of our engagement fund winners this year conducted a project aimed at using location data and harnesses the power of open data to benefit small businesses. 
+""Smart Location Analysis provides detailed, data-driven insights. Our service offers in-depth analysis of locations, helping you assess how they meet your needs.
+
+Using a wide range of data including people and lifestyle trends, property, amenities, and more, we'll help you make better decisions.
+
+Get knowledge about key metrics like age, family composition, education and type of profession, schools, sports clubs, possible competitors or complimentary businesses before you make a decision on where to live or where to run your business from.
+Gain understanding of the property market with our analysis of Irish locations.""
+
+
+The use case website can be seen here
+https://www.smartlocationanalysis.com/
+
+A blog on this project and the impact is has can be viewed here:
+
+ https://data.gov.ie/blog/focus-on-the-open-data-engagement-fund
+
+The use case uses the following datasets:
+https://data.gov.ie/dataset/national-planning-applications
+https://data.gov.ie/dataset/small-areas-generalised-20m-national-statistical-boundaries-2015
+https://data.gov.ie/dataset/census-small-area";;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Reuse Case URL: http://www.precisionagireland.ie/About_us.html_x000D_
+Open Data Set URL: https://www.met.ie/climate/available-data_x000D_
+_x000D_
+Description and Impact:_x000D_
+_x000D_
+This reuse case involves Irish agricultural businesses utilising Precision Agriculture techniques. One key component of Precision Agriculture is leveraging open data sources like weather data from Met Éireann (Irish National Meteorological Service)._x000D_
+_x000D_
+By accessing and analysing open weather data, farmers can make informed decisions about planting, irrigation, and pest control. For example, using real-time and historical weather data to optimise irrigation schedules based on weather conditions can potentially reduce water waste and improve crop yields. It can further help farmers optimise resource allocation by allowing them to identify areas requiring more or less water, fertiliser, or pesticides based on real-time conditions. Access to open weather data empowers farmers to make data-driven decisions that can potentially improve farm efficiency and overall productivity._x000D_
+";;;

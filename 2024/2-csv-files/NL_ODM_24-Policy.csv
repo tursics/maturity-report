@@ -1,0 +1,162 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"Wet Hergebruik Overheidsinformatie  https://wetten.overheid.nl/BWBR0036795/2021-07-01
+In this law, the Open Data Directive will be implemented.";Complement;;"Wet Hergebruik Overheidsinformatie:  https://wetten.overheid.nl/BWBR0036795/2021-07-01
+The law implementing the Open Data Directive is recently finalised and accepted (June 2024).";;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"https://www.rijksoverheid.nl/documenten/rapporten/2021/10/31/nl-digitaal-interbestuurlijke-datastrategie-nederland
+The IBDS describes the ambition and the approach for reaching these goals. The key points are:
+- working towards technically, legally and ethically better considerations regarding data use
+- develop government-wide system functions, like a federative data system
+- Using concrete use cases with social value.";Confirm;;;;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;Yes for example Amsterdam: https://www.amsterdam.nl/innovatie/digitalisering-technologie/data/amsterdamse-datastrategie;Complement;;"Yes, there are multiple municipalities and provinces with datastrategies that include open data. In general, these strategies describe plans for working with data, becoming a more 'data-driven' organization, with a focus on how to do it responsibly, respecting human values. For example: 1) province of Utrecht: ""Datastrategie 2024-2026, op weg naar verantwoord datagebruik"" https://www.provincie-utrecht.nl/sites/default/files/2024-04/Datastrategie_2024_-_2026.pdf, 2) the municipality of Haarlem ""Data, de Haarlemmerolie van nu, datastrategie 2023-2026"": https://gemeentebestuur.haarlem.nl/bestuurlijke-stukken/20221754574-2-Bijlage-1-Datastrategie-2023-2026-1.pdf ";;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;"https://www.rijksoverheid.nl/documenten/rapporten/2021/10/31/nl-digitaal-interbestuurlijke-datastrategie-nederland
+Some of the measures/actions:
+- publish a data manifest
+- develop a federative data system
+- assign responsibilities
+- develop a 'toolkit' for data experts
+- develop data leadership
+";Confirm;;;;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;;;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;;;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";no;;Confirm;;;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;The IBDS (national data strategy) supports the reuse of open data by creating a federative data system, that will make data easier findable and usable, aiming to increase the number of reuse cases, especially for social issues.;Confirm;;;;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;;;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";no;;Confirm;;;;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";no;;Confirm;;;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;The Ministry for the Interior is taking the lead in implementing the HVD regulation. Data providers are meeting regularly to discuss progress and remaining issues. Most of the data concerned was already open in the Netherlands and available through national level services. All providers did an inventory and impact assessment. There is still uncertainty wrt the scope of the environmental data. Wrt company register there has been uncertainty wrt the inclusion of personal data. There is a national level register (aanmerkingsregister.nl) that indicates which agency is responsible for HVD sources. The national open data portal is yet to add a HVD category to it, which is dependent also on a few outstanding metadata issues over all HVD themes.;;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;4;5;5;4;4;4;4;;;;
+P11-b;Earth observation and environment;4;5;3;3;3;4;3;;;;
+P11-c;Meteorological;5;5;5;5;4;4;4;;;;
+P11-d;Statistics;5;5;5;4;4;4;4;;;;
+P11-e;Companies and company ownership;3;3;5;4;3;4;3;;;;
+P11-f;Mobility;4;5;5;4;4;4;4;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;The aanmerkingsregister.nl provides an overview which public bodies are responsible for which data sets under e.g. HVD and INSPIRE as well as other regulations and directives. This will be the basis for adding metadata to denoted datasets, which is yet to be done (e.g. for the national open data portal). There is also still some discussion within the European INSPIRE community on how to denote HVD for INSPIRE data sets in metadata and how that might be harvested in the European INSPIRE portal;;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"On the national level, the Ministry of the Interior is responsible for open data policies and practices, but they work together with all the departments, implementing organisations, provinces, municipalities, and the water boards. For example on the creation of the national data strategy (IBDS) and its implementation, the governance structure has been described here on page 25: https://realisatieibds.nl/file/download/1c9729a6-70a9-4bda-a245-49c1d6d63adb/meerjarenaanpak-interbestuurlijke-datastrategie6maart2023.pdf ; there is OBDO: Overheidsbreed Beleidsoverleg Digitale Overheid 'intergovernmental policy committee for digital administration. OBDO is an advisory board for digital policy and ICT use within the public sector, with representatives from all layers of government. And IDO: Interbestuurlijk Data Overleg, intergovernmental data committee, mandated by OBDO to determine the strategy for government data policy and (inter)governmental data related programs (such as IBDS, the intergovernmental data strategy), for which it sets the scope and direction. And there is a focusgroup working on the implementation.";;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;Hybrid since it combines the advantages of top-down and bottom-up;Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;The National dataportal gives an overview of initiatives and events on national, regional and local level and are involved in a lot of these activities. ;;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";approximately half of the public bodies;;Confirm;;;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";yes;The responsibilities of the national team (data.overheid.nl) are described here: https://data.overheid.nl/ondersteuning/algemeen/over-dataoverheidnl;Confirm;;;;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;The team maintaining the national portal is part of the national open data team. ;Confirm;;;;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;The (chief) data officers are often also responsible for open data. Some organizations (for example CBS) have a dedicated open data officer.;Confirm;;;;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Events and news items can be found on the website of the national data portal: https://data.overheid.nl/actueel
+Knowledge and support is also shared via the website: https://data.overheid.nl/ondersteuning/data-publiceren/handreiking-open-data RESPONSE: Every 3 months there is a meeting about the national data strategy (https://realisatieibds.pleio.nl/events/view/f4bfbc3b-ef62-4ece-bc61-528c0b003c86/save-the-date-ibds-cafe-hoe-kunnen-data-maatschappelijke-opgaven-verder-helpen).";Complement;;Every 3 months there is a meeting (IBDS Café) organised by IBDS (the organisation working on the implementation of the national data strategy) where different topics are discussed with a wider network of data officers: https://realisatieibds.nl/events/view/23378149-533d-4ee2-b9d4-6553527dc81a/save-the-date-ibds-cafe-aan-de-slag-met-datagedreven-samenwerken;;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;For example on the Geoform, there is a lot of contact between data providers such as PDOK and users. Online, and on events: https://geoforum.nl/ and  https://geoforum.nl/c/events/49;Confirm;;;;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;There are standard publication plans on national and local level provided by the National dataportal and biggest cities. These plans also implement the DCAT standardized value list for mandatory fields to fill during publication. There is in addition a staged publication process. The biggest data owning organization first publish data in internal catalogues, before it is published in the public and national datapportals. ;Confirm;;;;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;The implementation of the IBDS (strategy) is handled by an organization (ICTU) focusing on the realisation of the strategy (see: https://realisatieibds.pleio.nl/) by stimulating and facilitating the intergovernmental cooperation.;Confirm;;;;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;"The national strategy (IBDS) was proposed in 2021, but the plans for implementation of the strategy are more recently shaped in cooperation with all partners; there is plan for multiple years (https://realisatieibds.nl/file/download/1c9729a6-70a9-4bda-a245-49c1d6d63adb/meerjarenaanpak-interbestuurlijke-datastrategie6maart2023.pdf)  and one for 2024 alone (https://realisatieibds.nl/files/view/0e3756f4-9437-4ed9-b3c2-d7bdc304e109/ibds-jaarplan2024-def.pdf). This plan is set for 2023-2027, so it will be updated in 2027.";;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;All public sector bodies provide their data free of charge, except for a couple of organizations that are allowed to charge fees, as regulated by specific laws.;Confirm;;;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;1. Data quality 2. Trust in data 3. Lack of data interoperability ;Confirm;N/A;;;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"The measures are described in the national data strategy: https://www.digitaleoverheid.nl/document/interbestuurlijke-datastrategie-2021/ 
+For example the development of a federative data system, that will contribute to better data quality and interoperability. RESPONSE: The national data strategy also offers a toolkit that provides help with the responsible use of data. This could help enhance the trust in data. https://realisatieibds.pleio.nl/cms/view/628d59dd-0755-4c20-8217-d3f26d9d8a5c/toolbox-voor-verantwoord-datagebruik";Confirm;;;;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;"The team of the national dataportal is available for help, and extensive support content for data publishers is available in Dutch on the website: https://data.overheid.nl/ondersteuning/data-publiceren/datasets-publiceren, combined with a ""handreiking"" which is an extensive guidline to help makes the choices how to publish data";;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;The RADIO (National Academy for Digital and Information Government) provides such trainings: https://www.it-academieoverheid.nl/onderwerpen/d/data;Complement;;The RADIO (National Academy for Digital and Information Government) provides such trainings/e-learning/webinars, about data, digital literacy and digitalisation but also about bid data and AI: https://www.it-academieoverheid.nl/onderwerpen;;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, >9;"- https://data.overheid.nl/actueel/evenementen
+- https://www.open-overheid.nl/actueel/activiteiten?trefwoord=&periode=alle-activiteiten-uit-het-verleden&organisator=Alle+organisatoren&type=Alle+typen+activiteiten
+- https://www.meetup.com/osgeonl/";Complement;;PDOK (Public Services on the map, platform for geo data) is often present on geo/data related events, promoting their platform which is entirely based on open data: https://www.pdok.nl/events, OSGeo organizes events https://www.meetup.com/osgeonl/, Data Sharing Festival (6-7 feb 2024) https://www.tno.nl/nl/newsroom/agenda/data-sharing-festival-next-level-data/ , Dutch Data Summit: https://www.dutchdatasummit.nl/agenda , list of events from 'open government': https://www.open-overheid.nl/actueel/activiteiten;;;;;;

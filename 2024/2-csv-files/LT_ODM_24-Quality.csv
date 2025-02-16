@@ -1,0 +1,115 @@
+;Dimension 3: Open Data Quality;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;3.1 Currency and completeness;;;;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;"Newly opened datasets are required to update the data with the periodicity specified in the metadata. Data user can see if the periodisity value of data set consides date of the last update. In future foreseen implement an automatic mechanism for such verification.
+
+Currently we are in process implementing DCAT extensions to add metadata for each data field, we have to special data field types temporal and spatial. If data provider specified temporal or spatial types, then we are able to automatically detect and update temporal and spatial coverage.";Change;Yes;"Datasets that have recently been made available must be regularly updated according to the frequency outlined in the metadata. Users are now getting automatic notifications if the dataset is not being updated. They can also check manually if the dataset's periodicity aligns with the date of its last update. 
+At present, we're in the final stage of implementing DCAT extensions to incorporate metadata for every data field. This includes specialized types for temporal and spatial data fields. By specifying temporal or spatial types, data providers enable us to automatically identify and update temporal and spatial coverage."
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;50-69%;"When data is updated in data storage, the metadata on the portal is also automatically updated through synchronization. This includes fields like ""Updated"" (date when metadata was updated), ""Data Structure"", ""Data"", etc. Additionally, metadata updates are automatically pulled from external catalogs such as atvirfinansai.lt and geoportal.lt, although these updates are currently paused pending the alignment of the Inspire and DCAT standards."
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;Metadata is updated on a periodic basis, which differs for each dataset (yearly, monthly, weekly, daily, etc.). Typically, organizations configure their systems to update metadata automatically via API. When the scheduled time for an update arrives, according to the established periodicity, the metadata is updated within one day. Additionally, when data is updated in the data storage, this change is reflected almost immediately on the portal
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;"We adhere to the open data principles that are outlined and published on the portal. https://old.data.gov.lt/opening/learningmaterial/16
+When a data source is specified for a dataset, it includes information such as the publication date of the dataset, the period it covers, and its update history. Depending on the dataset's update frequency, there may be a series of data sources corresponding to each year, month, etc. For instance, you can see an example here: https://data.gov.lt/datasets/509/Recently, we rely on these principles to motivate data providers to supplement open sets with retrospective data. 
+
+After a complete inventory of possible open sources, there will be an opportunity for a qualitative assessment of the application of the implementation of the principles.
+
+We adhere to the open data principles that are outlined and published on the portal. https://old.data.gov.lt/opening/learningmaterial/16
+When a data source is specified for a dataset, it includes information such as the publication date of the dataset, the period it covers, and its update history. Depending on the dataset's update frequency, there may be a series of data sources corresponding to each year, month, etc. For instance, you can see an example here: https://data.gov.lt/datasets/509/
+Currently, the process is not regulated. We discuss this on an individual basis with data contributors when we find that data does not conform to those principles or when we receive requests from data users"
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"We've added a new filter titled ""Group,"" which offers the option to select from a list of subgroups. Included in these choices is a category known as ""High Value Datasets."" This addition aims to facilitate users in locating these datasets more efficiently. https://data.gov.lt/datasets/?selected_facets=groups_exact%3A1"
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;High value datasets are opened in the Lithuania’s open data portal, which uses DCAT standards. The use of those standards ensures interoperability among the EU countries.
+;3.2 Monitoring and measures;;;;;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"We monitor and inspect:
+- that the content of the opened data fully complies with the description of the data structure (https://atviriduomenys.readthedocs.io/atverimas/struktura.html);
+- compleatness of mandatory metadata fields;
+
+Also data prividers are obligated to ensure data acuracy, completeness and freshness. Also, Users' comments on the accuracy and errors of the data must be reviewed and, if justified, adjusted. The implementation of DCAT requirements is ensured by setting mandatory fields, keeping the consistency and completeness of their completion. E.g. a dataset is given the status ""open data"" only when the required metadata is fully completed and the data is loaded. The portal can filter data according to their preparation status (Inventory, prepared metadata, open data). Automatic data quality assurance algorithms are also developed. ";Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;"Portal visitors can filter data according to the completeness status of datasets: inventoried, metadata
+done, data structure exists, Data updated. Detailed information on the quality and content of the data set is provided in the data structure (csv format. Example https://data.gov.lt/dataset/adresu-registro-gyvenamuju-vietoviu-tekstiniu-duomenu-rinkinys).";Change;Yes;In some extent metadata quality depends on the status of the dataset. Portal visitors can filter data according to the completeness status of datasets: open data, unassigned, and inventoried only. Detailed information on the quality and content of the dataset is provided in the data structure, e.g. https://data.gov.lt/datasets/1484/models/JuridinisAsmuo/
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;"Information on the documentation can be found here https://data.gov.lt/opening-tips/vadovas/
+and here
+https://data.gov.lt/opening-tips/opening/learningmaterial/.
+Unfortunately, as of now, the documentation is accessible only in Lithuanian language
+Other tools and information that helps publishing high-quality metadata is published here https://data.gov.lt/opening-tips/data-opening-tools/"
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;"
+In order to maintain high-quality metadata, we employ a data maturity level rating system developed by Tim Berners-Lee, known as the 5-star deployment scheme for open data. This system primarily evaluates the format and accessibility of the data, ensuring that it meets established standards. More information about this rating system at https://5stardata.info/en/.
+Dataset data structure has an option to add a property from other vocabularies/ontologies, including DCAT-AP. To access it, user needs to edit a dataset and put the property into ""Class"" field."
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;"""Description of data opening procedure"" article 15 says ""For each open data set to which no other data re-use conditions apply, as specified in Sections 1, 2, and 3 of Article 8 of the Law (https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/77d2b640dd6711eb866fe2e083228059?positionInSearchResults=0&searchModelUUID=cc1dc85c-32fd-4295-a64c-b3ba508bc7fe), a type of re-use license from the list available on the Portal is assigned based on the international ""Creative Commons"" copyright model (https://creativecommons.org/licenses/?lang=lt)."""
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;71-90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;1-4;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;Our consultants are always available to assist publishers in providing high-quality datasets.
+;3.3 DCAT-AP Compliance;;;;;
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;"Data structure of a dataset on the portal is based on extended DCAT standard. It is a requirement to prepare a data structure in order to open data on the portal.
+https://atviriduomenys.readthedocs.io/search.html?q=dcat-ap&check_keywords=yes&area=default"
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);>90%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;"
+Extensions relate to the national interest in having more comprehensive metadata. For example, a hierarchy of categories. https://atviriduomenys.readthedocs.io/dsa/index.html";Confirm;;
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;Yes;Integration of metadata from Inspire standard 
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;Change;71-90%;
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Change;71-90%;
+;3.4 Deployment quality and linked data;;;;;
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;We use 5-5tar Open Data model. At the dataset level we assign stars based on distribution format used. But at individual data field level, stars from 0 to 3 are assigned manually, but 4 and 5 are detected automatically by checking if a data model has a primary key if field is a reference to another data model and if an association with external vocabulary is provided. So first at dataset level we have a very approximate rating, but on data fields level, we have a very precise rating.;Change;Yes;We utilize the 5-star Tim-Berners Lee model to assess data quality. While the overall dataset is evaluated based on its format, the rating of individual fields varies. This variation is determined by factors such as the data's relationships with other datasets, whether it includes a primary key, etc.
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;Yes, we ask data providers to provide data structure description tables. With help of such tables and companion automated tools, we are able to increase data queality quite easily. If data itself is in good shape, then the rest is mostly matter of filling in some additional metadata about individual data fields. We keep track of data quality for each individual data fields and data users can easily request to miproved data maturity of each data field or even collaborate and provide missing metadat themselves, which can imporove data quality.;Complement;;We have implemented ADP functionality that enables users to submit requests for correcting errors in datasets, thereby enhancing the quality of the data.
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;>90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;>90%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;<10%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;Confirm;;N/A

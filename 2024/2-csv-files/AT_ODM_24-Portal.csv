@@ -1,0 +1,228 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;https://www.data.gv.at;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;Yes;Data.gv.at is based on CKAN and Wordpress as main components
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;Yes, an API query is possible via (https://www.data.gv.at/katalog/api/3)
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;No;
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;We provide an OpenAPI documentation (https://www.data.gv.at/api-hub/?schema=https://www.data.gv.at/katalog/schema.yml)
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"Users (developers) are able to report applications that they have created on the basis of public open data from the national data portal. Developers can use the following weblink (https://www.data.gv.at/anwendungen/anwendung-einreichen/) for submissions. We gather this feeedback on developed applications and list these applications accordingly at each dataset. Please find a full list of developed apps here (https://www.data.gv.at/anwendungen). Since the purpose of the public open data portal ""data.gv.at"" is the public sector, this portal is not intended for the content of private users. Private users (the civil sector, researchers, companies) can upload data via their user account to our sister portal ""OpenData Portal Österreich (opendataportal.at)"" (https://www.opendataportal.at/katalog/user/login). "
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"We offer several general feedback channels.
+1) Contact form at https://www.data.gv.at/suche/kontaktformular/, 
+2) email to info@data.gv.at ,
+3) or feedback via social media channels, such as Twitter (@datagvat) or Facebook (Open Data Austria Group) or Mastodon";Confirm;;
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;We are using Disqus as feedback and commenting feature. This feature appears at the bottom of the dataset page when a contact e-mail address is provided for a dataset, e.g. https://www.data.gv.at/katalog/dataset/2c54f4d6-5712-4e5a-a025-b7f7a396c39b. If no e-mail is given, feedback can be provided to the organizational level, which is forwarded to data maintainers.;Confirm;;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";No;"Written rating is possible in the comment/ discussion section
+
+response to reviewers:
+The national portal does not currently offer a formal rating mechanism, such as a star system or likes/dislikes, that would provide a summarized user quality rating for datasets. While there is a comment/discussion section where users can provide written feedback, this does not serve as a rating mechanism in the way that the reviewers have defined it.";Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://www.data.gv.at/news/;Confirm;;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;RSS: https://www.data.gv.at/infos/rss-feeds/;Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"Access rights for specific datasets or the granting of re-use depend on a case-by-case decision of the respective public sector body. On the national portal, data requests are possible via contact form, email and social media channels (requests are being forwarded to the respective public sector body). According to the Informationsweiterverwendungsgesetz (IWG), a formal request can be placed to the competent public sector body. Data requests (according to the Auskunftspflichtgesetz, Freedom of Information) can also easily be placed via the portal ""Frag den Staat"": https://fragdenstaat.at/ ";Confirm;;
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"Please see the portal ""Frag den Staat"": https://fragdenstaat.at/";Confirm;;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;The operational team of data.gv.at manages requiests and keeps track of the requests;Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;Yes, data.gv.at uses Disqus for comments and as discussion feature below each dataset to engage users. See e.g. an example under any dataset as here: https://www.data.gv.at/katalog/dataset/69a06550-1ede-4f50-9c36-e7fb5cf6e7e8 or https://disqus.com/;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;URL: https://www.data.gv.at/application/;Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;"Each use case references the datasets it is based on.
+Application: Water in Vienna
+URL: https://www.data.gv.at/application/wasser-in-wien/
+Description: Find the nearest public water points, swimming pools, bathing places, toilets, drinking fountains, spray showers and dog drinking fountains in Vienna
+Datasets: datasets are listed at the bottom of the page
+This application uses the following datasets/services:
+Drinking fountain locations Vienna (Stadt Wien)
+bathing places locations Vienna (City of Vienna)
+Swimming pools locations Vienna (City of Vienna)
+Public toilets locations Vienna (City of Vienna)
+basemap.at Administrative Base Map Vector Austria (Geoland.at)";Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://www.data.gv.at/anwendung-einreichen/;Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";No;"Example: Migration flows in Vienna by nationality and gender since 2002 https://www.data.gv.at/katalog/dataset/3b1a5a2b-72fb-430d-bd82-14bcfc3338a1
+
+response to reviewers:
+The national portal typically offers a preview function for tabular data, which allows users to interact with the data before downloading it. However, this feature is currently under maintenance due to a technical issue. We expect this functionality to be restored soon. The feature is part of our commitment to provide a user-friendly experience and facilitate the effective utilization of open data.";Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";no;;Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;All HVD are highlighted via special tag and can be filtered accordingly. Please find the list of HVD here (https://www.data.gv.at/suche/?searchterm=&documentFilter%5B0%5D=HighValueDataset&nr=1)
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;"o For web analysis, we use the tool Matomo, publicly accessible via https://www.data.gv.at/stats
+o In 2021, an online survey among users of the national portal has been performed: https://www.data.gv.at/2021/01/20/umfrage-gestartet/";Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";Yes;N/A;Change;No;
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;We use the Matomo analytics with custom notifications to trigger email notifications when threshold values are passed;Confirm;;
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;Insights about the portal usage do have an impact on improving the national data portal. As the open data web presence of the City of Vienna (https://www.data.gv.at/auftritte/?organisation=stadt-wien) insights gathered have an impact on the Digital Strategy of the City of Vienna. For example, please find the results of the recent (2024) evaluation of the Open Data Strategy of Vienna here: https://www.wien.gv.at/data/pdf/evaluation-opendata-strategie.pdf Necessary improvements of the data portal are discussed within the Cooperation OGD. Usage statistics (e.g. portal traffic and API usage collected via https://www.data.gv.at/stats) are a relevant indicator for the further development of the portal. In 2023, a dedicated working group has been installed on data quality standards and feedback loops.
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;Please find herewith our recent publications in order to attract new audiences: Open Data Flyer (https://www.data.gv.at/flyer/) and Open Data Guidelines (https://www.data.gv.at/2023/07/04/neuer-open-data-leitfaden-erschienen/). These have been promted at events (Open Data Expo) and by our Cooperation OGD members.
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;The search optimisation research partnership has used collected data for training AI models. Please find the monitoring via (https://www.data.gv.at/stats)
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"o The reuse of open government data is  systematically monitored by using the web analytics tool Matomo: https://www.data.gv.at/stats/
+o  Most visited datasets: Orthofoto Österreich, Digitales Geländemodell, Digitale Bodenkarte, Basemap.at Verwaltungsgrundkarte, Baumkataster der Stadt Wien
+o Additionally, applications developed by the use of open data: https://www.data.gv.at/katalog/datasets_with_application_count"
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;data.gv.at has an on-site SEO optimization plugin which handles metatags for keywords, description etc and also uses a machine-readable sitemap for search engines. Our content published in the blog is also distributed to our social media channels on Facebook, Twitter and Instagram.;Complement;Yes;data.gv.at has an on-site SEO optimization plugin which handles metatags for keywords, description etc and also uses a machine-readable sitemap for search engines. Our content published in the blog is also distributed to our social media channels on Facebook, Twitter and Instagram. In 2023, a search optimisation project has been started with a research partner. First results have been implemented.
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Confirm;;
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;"According to a general agreement between the federal level, the states, cities and municipalities, all public sector data provided for re-use has to be published via the national data portal data.gv.at. In general, data provision is regulated by existing access regulations (or regulations concerning fees). Austria still lacks a Freedom of Information Law stipulating general access rules. Thus, public sector bodies are not yet obliged to publish data according to existing (sectoral or state) laws. The decision on publishing data effectively relies within the competent public sector bodies. In general, data re-use is granted on a voluntary basis. 
+
+However, current government plannings and the government programme foresee major changes concerning freedom of information. Furthermore, additional concrete improvements are envisaged through the transposition of the EU Open Data and Public Sector Information Directive 2019/1024.
+
+The data.gv.at platform is designed as a metadata aggregation portal. The data (resources) remain with the data holders. The data.gv.at portal serves as single point of access to available data and represents the full picture of Austria with regard to available Open Government Data. However, at the moment it is not possible to ascertain or control from a central perspective whether all public sector data providers contribute data to the portal, neither whether a completeness of all datasets can be achieved. Obviously there is still major potential for improvements, in particular with regard to data being provided by the states, cities and municipalities.
+
+The data.gv.at portal offers a data storage and distribution functionality, above all for small data providers, which allows for an upload of data by the data holders themselves. The contractual basis for the usage of this functionality depends on a number of parameters (eg. file size). The feature is free of charge for smaller file uploads.";Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"o Handbook: https://www.data.gv.at/wp-content/uploads/Benutzerhandbuch-datagvat-Cockpit.pdf
+o Bilateral meetups with ministries
+o Integration of new data providers in the Cooperation OGD Austria
+o Individual assistance by the data.gv.at team
+";Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;"eg: Tyrol: data.tirol.gv.at; data.graz.gv.at; data.statistik.gv.at; data.vorarlberg.at";Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;;Complement;Yes;Local or regional data sources are discoverable via data.gv.at. A list of regional and local portals is planned.
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";all datasets;;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;e.g. Vienna public transport (Wiener Linien) real time traffic data https://www.data.gv.at/katalog/dataset/522d3045-0b37-48d0-b868-57c99726b1c4;Confirm;;
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;Yes;There is a second portal for non-official data (opendataportal.at). The search functionality includes results from both portals.
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";no;;Confirm;;
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;The data portal is anchored in multiple federal acts and in the national data strategy ensuring its sustainability and continuous development.
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"https://twitter.com/datagvat
+https://www.facebook.com/groups/opendataaustria
+https://www.instagram.com/data.gv.at/
+https://mastodon.social/@datagvat";Confirm;;
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;Github https://github.com/datagvat;Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;It is possible to monitor these indicators via our web analytics tool (data.gv.at/stats).;Confirm;;
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;"o Information concerning Data Publishers: https://www.data.gv.at/daten/veroeffentlichende-stellen/
+o Web Usage Statistics: data.gv.at/stats/
+
+response to reviewers:
+Our monitoring system offers detailed analytics and usage statistics, which allow both the portal team and data providers to gauge the performance and reach of the datasets. The ""Information concerning Data Publishers"" page provides insights into the quality and volume of published datasets, including compliance with DCAT-AP and licensing information. The ""Web Usage Statistics"" section provides real-time metrics on dataset downloads, visits, and interaction, enabling us to identify trends, user needs, and areas for improvement.
+
+These metrics serve as key performance indicators and guide us in making data-driven decisions to enhance the portal's performance, improve dataset quality, and prioritize the publication of high-value datasets. They also enable data providers to fine-tune their data publication strategy in response to user interaction and feedback.";Confirm;;

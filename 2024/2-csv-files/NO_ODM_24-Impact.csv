@@ -1,0 +1,305 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"""Å gjøre data tilgjengelig for viderebruk handler om å gi næringsliv, forskere og sivilsamfunn tilgang til åpne data som offentlig forvaltning har, på en slik måte at de lett kan brukes i nye sammenhenger av både mennesker og maskiner. "" Definition from https://www.regjeringen.no/no/tema/statlig-forvaltning/ikt-politikk/viderebruk-av-offentlig-informasjon/id2343341/
+
+Unofficial translation:
+Making data accessible for re-use is about giving businesses, scientists and civil society access to open data that the public administration possess, in such a way that they are easily applicable in new contexts by both humans and machines.  ";Confirm;;;;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;"The Norwegian Digitalisation Agency has implemented a methologhy for measuring impact of reuse. The first result are ready in august 2023 (no links available). In addition, the national portal provides crowdsourced examples of reuse: https://datalandsbyen.norge.no/category/2/gode-eksempler-p%C3%A5-bruk . These are also automatically linked to the datasets in use, and integrated with the dataset catalog. Example: https://data.norge.no/datasets/68d08f28-a16d-4fab-a953-ed4ab08ce2e2 
+
+In the data portal, the number of published datasets and the number of new ones are used as a measure of data reuse in the public sector. A new service catalog with a link to datasets is envisaged as a possible future indicator.";Confirm;;;;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";no ;;Confirm;;;;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;;;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"""Data as a resource"", focuses on the impact of sharing data between public and private sector. The policy emphasize how data may have be an economic resource and contribute to economic growth and creating new activities. 
+https://www.regjeringen.no/no/dokumenter/meld.-st.-22-20202021/id2841118/?ch=1
+
+A framework has also been developed to measure impact. The framework is now in a testing phase. Impact is defined as socio-economic value + private economic value: https://www.digdir.no/media/3339/download (p. 17).";Confirm;;;;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;"The Norwegian Digitalisation Agency has developed and implemented a methologhy for measuring impact of reuse in the private sector. The first result are ready in august 2023 (no links available).
+
+A framework has also been developed to measure impact. The framework is now in a testing phase. Impact is defined as socio-economic value + private economic value: https://www.digdir.no/media/3339/download (p. 17).
+
+The Institute of Transport Economics (Transportøkonomisk institutt, TØI) is national institution for transport research and development.  The Institute recently conducted a study where open science methodology was used. Norway is still assessing whether this is a suitable method. The analyzes so far indicate that the method is not suitable for measuring impact of data reuse. The method used is The futures wheel: https://en.wikipedia.org/wiki/Futures_wheel
+https://www.toi.no/english/?lang=en_GB";Confirm;;;;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"The Norwegian Language Bank. In order to develop high-quality language technology for Norwegian big datasets with Norwegian speech and text are needed. Språkbanken, the Language Bank, at the National Library of Norway, provides such datasets. The resources are aimed at companies that develop language technology software, as well as language researchers and students, and all the resources we create are available online and have an open-source license. 
+
+Nemonoor is a national center for artificial intelligence (AI) consisting of 8 Norwegian companies with broad expertise in AI: https://www.nemonoor.no/om-oss";Confirm;;;;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Change;Yes;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;No;;;;
+I8-b;Surveys;new question;new question;Change;Yes;Last year Brønnøysundregistrene (The Central Coordinating Register for Legal Entities) deployed a survey with reusers to better understand their needs, how their datas were being used and what they achieved by using the data. ;;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;No;;;;
+I8-d;Other;new question;new question;Change;No;;;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;We have regular sessions with portal users where we interview them to understand their behavior when they look for data, and what they need to be able to use the data they find. We also go through the interface of the portal with the user. ;;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;;;;
+I9-c;Other;new question;new question;Change;Yes;"Last year Brønnøysundregistrene (The Central Coordinating Register for Legal Entities) deployed a survey with reusers to better understand their needs, how their datas were being used and what they achieved by using the data. 
+
+Based on the answers they got, they have now implemented updates in their strategy.";;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;Reusers can choose to describe their re-use/product on the community-pages in the national data portal. Datasets mentioned here will be fed back as metadata in the dataset-catalog. Example: https://data.norge.no/datasets/288aa74c-e3d3-492e-9ede-e71503b3bfd9 ;Confirm;;;;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;Relations between descriptions of reuse  and  the datasets in the dataset catalog, makes it is possible to use the dataset theme taxonomy ;Confirm;;;;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";yes;"Norway does not have a general report on the effects of open data on governmental challenges. Use of data and analyzes of effects are largely linked to use cases, and essentially the data used is a mixture of open data and data with restrictions. A recent report (2022) concludes that measuring effects and gains from a single data set, especially into services, is difficult and that there are few feasible methods.
+
+We have several reports relating to the effect of various use cases. For the example used in the answer, the White Paper on Readily Available and Accessible (Open) Marine Geospatial Information can be referred to. 
+
+In 2020, an assessment was made of the societal benefit of BarentsWatch. In the report presented, it is concluded that they fulfill an important societal need. Furthermore, the report points out that measuring the usefulness of information sharing is demanding as it is not the information itself, but the use of it that possibly creates value for society. Of benefit to society, the following are highlighted:
+• Cost savings in the public sector
+• Increased profit for business
+• Reduced environmental costs
+• Reduced accident costs
+• Reduced crime (increased safety)
+• Increased trust
+
+Within different sectors there are several different reports and analyses. Examples:
+• Faster response time with geographical analysis (planning of ambulance services): https://geodata.no/bransjer/raskere-responstid-med-geografisk-analyse
+• The value of free map and property data: https://www.regjeringen.no/globalassets/upload/kmd/plan/verdien-av-gratis-kart-og-eiendomsdata.pdf
+•The environmental sector is characterized by extensive data collection activities and monitoring of the environment and natural resources, as a basis for decisions and trade-offs between different considerations. The Norwegian Environment Agency, in its capacity as the national coordinator for environmental data, has conducted a systematic review of opportunities and challenges for increased use of environmental data. A key aspect is  environmental data as a basis for decision-making: https://www.menon.no/wp-content/uploads/2021-153-Hovedrapport-KVU-Fremtidens-miljodata.pdf
+• Value and effect of data sharing: https://www.digdir.no/datadeling/verdi-og-effekt-av-datadeling-en-kartlegging-av-norske-virksomheters-praksis/3925";Change;Yes;"Norway does not have a general report on the effects of open data on governmental challenges. Use of data and analyzes of effects are largely linked to use cases, and essentially the data used is a mixture of open data and data with restrictions. A recent report (2022) concludes that measuring effects and gains from a single data set, especially into services, is difficult and that there are few feasible methods.
+
+We have several reports relating to the effect of various use cases. For the example used in the answer, the White Paper on Readily Available and Accessible (Open) Marine Geospatial Information can be referred to. 
+
+In 2020, an assessment was made of the societal benefit of BarentsWatch. In the report presented, it is concluded that they fulfill an important societal need. Furthermore, the report points out that measuring the usefulness of information sharing is demanding as it is not the information itself, but the use of it that possibly creates value for society. Of benefit to society, the following are highlighted:
+• Cost savings in the public sector
+• Increased profit for business
+• Reduced environmental costs
+• Reduced accident costs
+• Reduced crime (increased safety)
+• Increased trust
+
+Within different sectors there are several different reports and analyses. Examples:
+• Faster response time with geographical analysis (planning of ambulance services): https://geodata.no/bransjer/raskere-responstid-med-geografisk-analyse
+• The value of free map and property data: https://www.regjeringen.no/globalassets/upload/kmd/plan/verdien-av-gratis-kart-og-eiendomsdata.pdf
+•The environmental sector is characterized by extensive data collection activities and monitoring of the environment and natural resources, as a basis for decisions and trade-offs between different considerations. The Norwegian Environment Agency, in its capacity as the national coordinator for environmental data, has conducted a systematic review of opportunities and challenges for increased use of environmental data. A key aspect is  environmental data as a basis for decision-making: https://www.menon.no/wp-content/uploads/2021-153-Hovedrapport-KVU-Fremtidens-miljodata.pdf
+• Value and effect of data sharing: https://www.digdir.no/datadeling/verdi-og-effekt-av-datadeling-en-kartlegging-av-norske-virksomheters-praksis/3925";;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"All invoicing has better quality due to the company register and the possibility for correct information about companies and public bodies. (https://data.norge.no/datasets/5a5374c3-c6a7-49f8-b9cc-0a9e48c1acd7)  data and Company register ( https://data.norge.no/datasets/68d08f28-a16d-4fab-a953-ed4ab08ce2e2)
+
+Kompensasjonsordningen:
+https://kompensasjonsordning.brreg.no/en
+https://data.norge.no/dataservices/08a05ace-5b69-3d58-8849-da30918d3259
+https://data.norge.no/datasets/7aa53892-ef52-33d5-8dd6-f46044be37db";;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"There are several transparency services based on open data
+https://statsregnskapet.dfo.no/   -->  https://data.norge.no/datasets/cb6767c3-81ac-4dd5-a0c2-a78f9902a2c4
+https://einnsyn.no/sok
+https://www.regjeringen.no/no/aktuelt/einnsyn/id604997/
+
+https://statsregnskapet.no/ (Stat accounts) is an application that provides an overview of actual income and expenses in addition to an overview of changes in the capital balance in the Norwegian state. All data used can also be downloaded: https://statsregnskapet.dfo.no/last-ned. In the application, it is possible to see details for a single ministry or a single agency.
+
+https://einnsyn.no is a system developed to be a common access solution for state, municipal and county bodies. This will contribute to more openness and access in the administration, and will make it easier for users to find information about public case processing. Postal journals (correspondence registers) from state, municipal and county bodies are published on eInnsyn, along with information about meetings and committees of such bodies. The goal is to make it easier to search what may be perceived as complex and inaccessible. eInnsyn a service that anyone can use to search for information related to the public sector.
+ See also https://einnsyn.no/informasjon/om-oss";;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Ensuring that oil drilling is planned outside protected areas is based on open data: https://kartkatalog.miljodirektoratet.no/Dataset/Details/702   
+
+In Norway, there is a debate about where to drill for oil. Open data contributes to policy formulation.  See also: https://www.npolar.no/en/themes/the-marginal-ice-zone/
+";;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The national statistics bank is freely and openly available and utilised by many organisations in their decision making processes. https://data.norge.no/datasets/e74957b7-d052-4d93-9afb-4a2fce65882f
+
+""The national statistics bank is used for various purposes. One example is The Technical Calculation Committee for Income Settlements.""The Technical Calculation Committee for Income Settlements uses statistical data in several ways in its work:
+
+Analysis of Economic Trends: They use statistical data to analyze economic trends, including inflation, wage development, employment, and other economic indicators. This provides them with a picture of the current economic situation.
+
+Reference Data: Statistical data serve as reference data to compare current income levels and working conditions with previous years. This helps them assess changes over time.
+
+Modeling and Forecasts: They can use statistical models to create forecasts for future economic conditions, including wage growth, price inflation, and other economic variables. This is important for planning income settlements.
+
+Insight into Sectors: Statistical data provide insight into various sectors of the economy, such as industry, services, the public sector, etc. This allows them to assess how changes in income settlements will affect different parts of the economy.
+
+Comparisons with Other Countries: They can also compare Norwegian data with statistics from other countries to assess how competitive wage and working conditions are compared to international standards.
+
+The Norwegian Public Roads Administration collects a lot of data about road, environment, weather and so on. This data is used extensively when planning traffic, environmental and fiscal policy or measures. Most of the data is open. https://data.norge.no/organizations/971032081
+https://dataut.vegvesen.no/
+https://transportportal.atlas.vegvesen.no/en/gen/about/
+
+The same applies to The Norwegian Mapping Authority https://data.norge.no/organizations/971040238";;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";yes;"https://www.menon.no/wp-content/uploads/2018-69-Helsedata-store-verdier-p%C3%A5-spill.pdf This report states that health care data positively impacts the citizens' healthcare, efficiency with in the health care sector, and business reliant on such data. Open data is not mentioned explicitly, but the definition of healt data in the report (found in section 2.1 in the report) clearly involves open data.
+
+In the knowledge sector (education), a study has recently been carried out and a new organization for data sharing in the knowledge sector has been established (https://kunnskapsdata.no/). The study includes all types of data from the sector, including open data.
+The study can be read here:
+https://www.regjeringen.no/contentassets/0ff78b4f861b43e8a7e52d5f02dbbd34/sluttrapport-fremtidig-deling-av-data-1.1.pdf";Confirm;;;;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The research and development groups Giellatekno and Divvun at the University of Tromsø (http://giellatkeno.uit.no, http://divvun.no) have  built language tools and resources that have made it possible to use minority languages in digital context.  Language use is increasingly dependent upon a wide range of digital applications, and (lack of) access to such applications will essentially govern the possibilities linguistic minorities have to use their languages. Dictionary resources are freely abailable for others to use, not only in open interfaces (https://sanit.oahpa.no/, etc.) but also the content. As a result, the dictionary has been reused both for machine translation, pedagogical applications, and other dictionary providers, such as dinordbok.no and others. The core data are structured, machine-readable grammatical models: https://giellalt.github.io/LanguageModels.html. The language models and documentation and source code are openly available. The key factor is to build, document and share language models that makes reuse possible. These resources have changed the prerequisites for use of minority languages. Earlier, North Saami newspapers were e.g. publised every second day, at most. With the spellchecker it was possible to publish the newspaper http://avvir.no daily. The availability of proofing tools in standard word processors, a functionality taken for granted by all majority language users, is now either in place or within reach for the Nordic national minority languages. The source code is available under an open license:
+https://github.com/apertium/apertium-sme-nob
+https://github.com/apertium/apertium-sme-smj";;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Finn.no is Norways largest property portal. This utilises data from mapping, transport, weather etc. https://www.finn.no/realestate/homes/search.html
+https://data.norge.no/datasets/d291d325-db30-4c69-a82e-e19b0928e487
+https://data.norge.no/datasets/749cc842-54a2-42a3-8c4c-feabaa021a9a
+https://data.norge.no/datasets/4d12590c-bf33-3bc4-b292-abc4942260e7 
+
+SSB House market data is used to give an overview of the situation in the market. https://www.ssb.no/priser-og-prisindekser/artikler-og-publikasjoner/prisene-pa-nye-boliger-stiger / https://www.ssb.no/priser-og-prisindekser/boligpriser-og-boligprisindekser
+SSB also has statistics on living conditions etc: https://www.ssb.no/bygg-bolig-og-eiendom/bolig-og-boforhold / https://www.ssb.no/bygg-bolig-og-eiendom?de=Bolig+og+boforhold&innholdstype=publikasjon-artikkel
+
+hjemla.no  is a new service aimed at making information on home sales and value estimation for homes available. Utilises open data and a mix of public data and there own data.
+https://www.hjemla.no/innsikt/om-hjemla. Prognosesenteret is a similar service that uses data, some open, to calculate housing value: https://prognosesenteret.no/boligverdi/
+https://data.norge.no/datasets/4d12590c-bf33-3bc4-b292-abc4942260e7
+https://data.norge.no/datasets/d20046fe-362d-37bd-8eba-4a8e2d0cd0c0
+
+The media  regulary utilises open datasets about maping, transport, sold prices etc. to make stories/maps etc. about the housing market
+https://www.aftenposten.no/oslo/i/AP3oWM/her-er-den-stoerste-samlingen-av-boligverdier-i-oslo";;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Open data has been used throughout the pandemic, both by central government and by local authorities. An example is the municipalities' dashboard for infection tracking. The municipalities also have more advanced dashboards intended for internal use, such as planning, quarantines etc.
+Application (Oslo): https://experience.arcgis.com/experience/742a281a0fa74ab79147a76e6b52833b (The service has ended.)
+Dataset: https://github.com/folkehelseinstituttet/surveillance_data (the Norwegian Institute of Public Health)
+
+Media is using open data to create stories and visualisations, example:
+https://www.vg.no/spesial/corona/ (The service is not being updated.)
+Data set: https://data.norge.no/datasets/07df7566-311d-36dc-911b-fbb0a1557eb0 (The data is not being updated)";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;;;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";yes;"Open data on stock exchange and open research data has given insight into environmental challenges
+https://energiogklima.no/meninger-og-analyse/kommentar/apne-data-har-snudd-klimakampen/
+
+The Norwegian Environment Agency, in its capacity as the national coordinator for environmental data, has conducted a systematic review of opportunities and challenges for increased use of environmental data. One of the aspects covered is effects (impact). It also contains comprehensive descriptions of how data and open data will contribute to new solutions https://www.menon.no/wp-content/uploads/2021-153-Hovedrapport-KVU-Fremtidens-miljodata.pdf
+
+A study of the future environmental data has also been carried out, : https://www.menon.no/wp-content/uploads/2021-153-Hovedrapport-KVU-Fremtidens-miljodata.pdf
+Chapter 2 of the report has a detailed review of the current situation including the value chains for environmental data (production, management, consumption) where raw data is refined into knowledge and finally becomes concrete products for use for various purposes (p. 24). One of the examples that is referred to is the priority map for efforts against acute pollution: https://www.miljodirektoratet.no/ansvarsomrader/vann-hav-og-kyst/beredskap-mot-akutt-forusurningen/prioriteringskart-for-inssats-mot - acute pollution/";Confirm;;;;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"We monitor the air quality https://luftkvalitet.nilu.no/ and predict the upcoming air quality https://luftkvalitet.miljodirektoratet.no/. We also provide a calculator to test the effect of measures to try to reduce air pollution https://www.miljodirektoratet.no/tjenester/tiltakskalkulator-for-luftkvalitet/
+
+Some municipalities use air quality data to implement restrictions on driving and wood-burning: https://www.bergen.kommune.no/hvaskjer/tema/luftkvalitet/strakstiltak/hvilke-regler-gjelder-ved-datokjoring
+
+In some municipalities, air quality data is utilized to assess the level of air pollution, particularly in terms of particulate matter (PM) and pollutants such as nitrogen dioxide (NO2) and carbon monoxide (CO). When air quality deteriorates to a certain extent, these municipalities may implement restrictions on activities that contribute to air pollution, such as:
+
+Driving Restrictions: They may impose temporary driving restrictions, particularly on vehicles with high emissions or during periods of high pollution, like smog or haze events. This can include measures like alternating license plate numbers allowed on the road on specific days.
+
+Wood-Burning Bans: During periods of poor air quality or high pollution, some municipalities may ban or restrict the use of wood-burning stoves or fireplaces to reduce the emission of particulate matter and other pollutants from burning wood.
+
+These measures aim to improve air quality and protect public health by reducing exposure to harmful pollutants. The specific restrictions and their enforcement can vary from one municipality to another, depending on local air quality conditions and regulations.";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"We monitor the air quality https://luftkvalitet.nilu.no/ and predict the upcoming air quality https://luftkvalitet.miljodirektoratet.no/. We also provide a calculator to test the effect of measures to try to reduce air pollution https://www.miljodirektoratet.no/tjenester/tiltakskalkulator-for-luftkvalitet/
+Dataset: https://data.norge.no/datasets/d962c1b2-f233-43f7-8959-60463f0534e8
+Cities use the aforementioned calculator to achieve more environment-friendly cities
+
+NILU has good infrastructure and high competence in measuring and developing new measurement methods and instrumentation. This knowledge is used, inter alia, to advise local and national authorities on issues that are relevant to the development of measures and regulations to achieve better air quality. The information is particularly important for those living with diseases that can be exacerbated by high air pollution, such as respiratory and cardiovascular diseases.
+
+We can also add https://artsdatabanken.no has the goal of bridging the gap between biodiversity, science and policy. At the Artsdatabanken, there is a large amount of data and information about natural diversity in Norway that you can freely download. These are provided by knowledge institutions, voluntary organisations, administration, business and private individuals.
+
+Information and data on biodiversity are found in natural history museums, research institutions, environmental agencies and NGOs run by professional and amateur biologists. NBIC works with all these groups to collate and disseminate this material so that it can become available to everyone.
+
+NBIC's main tasks are to provide:
+
+Risk assessments for species and ecosystems
+Digital tools and services for knowledge on biodiversity
+New knowledge on species and ecosystems in Norway
+
+https://www.biodiversity.no/Pages/135580/About_Norwegian_Biodiversity_Information_Centre
+See also: https://www.biodiversity.no/Pages/195122/Species_online";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"We monitor our progress on the fight of climate change, and also present the effect on the connected disaster (e.g. sea level rise and global warming). https://energiogklima.no/klimavakten/ . In the same overview we also have a grading system where we strive towards ""green"" results, thus affecting our policy on the fight of climate change. Open data from Norway and from other countries is used in the service.";;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Open data is also used for services to calculate and display emissions https://www.tilnull.no/. The service will be expanded as new datasets are released
+With tilnull.no, the Norwegian Climate Foundation wants to make visible in a simple and credible way where Norway stands in the climate transition - and contribute to ongoing debate about measures that can increase the pace of climate work. The data for the service is provided by the Norwegian Public Roads Administration, county municipalities, municipalities, ferry operators etc. The data is also donwloadble, example: https://www.tilnull.no/ferger/fergedataene";;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";yes;"On behaf of the Confederation of Norwegian Enterprise (NHO) Menon Economic conducted a study to monitor the economic impact of open data. 
+https://www.nho.no/siteassets/veikart/rapporter/verdiskaping-med-data-menon.pdf
+
+Data as a resource - Data-driven economy and innovation:  https://www.regjeringen.no/no/dokumenter/meld.-st.-22-20202021/id2841118/";Confirm;;;;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;;;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;;;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Fiskher (directly translates to «Fish here») has used open geodata to create an app for fishers and have expanded to several countries and gotten a research-grant
+https://digitalnorway.com/slik-skapte-fiskher-en-app-suksess-av-apne-data-fra-kartverket/
+
+Data from the population register and other open data from power companies has impacted business creation by providing data for https://www.motkraft.no/ . Motkraft is a non-profit power provider.
+
+Data from our road administration (Statens Vegvesen) provides open data regarding car ownership. https://datalandsbyen.norge.no/topic/52/bileier-hvem-eier-bilen / https://bileier.app/ The use case showcases an app that makes it easy to gain access to the owner of a car by typing in the cars license plate number. ";;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;;;;

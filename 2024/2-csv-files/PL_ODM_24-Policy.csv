@@ -1,0 +1,837 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"The Ministry of Digital Affaires (MDA) (formerly the Chancellery of the Prime Minister(CPM)) pursues an open data policy in Poland based on several documents: Open Data Programme and the Open Data Act (regulations), but also Open Data Projects, Open Data Standards and the project of the National Repository of Scientific and Cultural Resources.
+1. Open Data Programme: 
+a. Open Data Programme 2016-2020 (pol.: Program Otwierania Danych Publicznych na lata 2016-2020)
+In 2016-2020 MDA implemented first Polish open data strategy: Open Data Programme 2016-2020 (completed). The five Programme evaluation reports and one Programme finale research are published on dane.gov.pl.
+b. Open Data Programme 2021-2027 (pol.: Program otwierania danych na lata 2021-2027)
+The programme is a continuation of the open data strategy implemented by the MDA under the previous Open Public Data Programme 2016-2020. The new programme was adopted by a resolution of the Council of Ministers in February 2021. The Programme complements the Open Data Act and concentrates more on practical and technical mechanisms for opening data at the government level. Its main goal is among other to improve the quality and increase the amount of public data made available in an open manner. Examples of the planned activities include: increasing the amount of data resources made available by API on the dane.gov.pl portal, in particular dynamic data and high-value data and strengthening cooperation with data providers (e.g. conferences, hackathons, workshops, working meetings), increasing re-use and exchange of data, education, consolidation of Network of Open Data Officers. The Programme is addressed to the government administration but can also be implemented by other entities, e.g. public bodies at local level (cities/municipalities and regions) or private sector.                                               
+URL: 
+Open Data Programme 2021-2027: 
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027                                                       
+2. Regulations:
+a. Act on access to public information
+b. Open Data Act
+In Poland constitutional right to the information is realised by Act on access to public information (Act of 6 September 2001 on access to public information). Moreover in accordance with the new Polish Open Data Act (Act of 11 August 2021 on open data and the re-use of public sector information) every person shall have the right to re-use public sector information (the right to re-use) (previously Act of 25 February 2016 on the re-use of public sector information). The Polish Open Data Act implement Directive 2019/1024 and introduces the foundations for opening and re-use data. As a general rule, all public sector content can be re-used free of charge and without any conditions (or under minimum requirements). Among the new developments, the Act emphasizes the automated and real-time provision of data via the portal and through the application programming interfaces (API), and introduces the foundations for data sharing by new entities, like public undertakings and research and scientific institutions and also data sharing by private sector on dane.gov.pl portal.                                                                                                                                                                  
+URL:
+Act on access to public information: https://www.dziennikustaw.gov.pl/DU/rok/2022/pozycja/902 
+Open Data Act: https://dziennikustaw.gov.pl/DU/2021/1641
+3. Open data projects: 
+a.  Open data - access, standard, education 
+b.  Open data plus
+Open data projects support implementation of Open Data Programme 2016-2020/2021-2027. Main goal is to provide open data in manner that facilitates re-use of PSI; API development; open data portal development (dane.gov.pl); Open Data Laboratory (support data providers in the legal, technical and security areas of opening data); education; promotion open data in Poland.   
+4. Project: National Repository of Science and Culture Objects (KRONIK@)
+KRONIK@ (kronika.gov.pl) is a platform that collects Polish culture, science and administration heritage dispersed until recently in the digital space. It has been equipped with a multi-search engine so that it is possible to search the collected resources in both simple and advanced way, as well as on the OCR text layer. In addition, KRONIK@ provides a free repository for archiving resources and their long-term storage, securing them against removal or loss. The successive increase in the number of entities that will make their resources available on the KRONIK@ will contribute to the increase in the number of digitally available science and culture works. Currently, Kronik@ collects more than 16 million objects grouped within 70 searchable categories. In addition, Kronik@ provides anyone interested with access to the digital resources provided, as well as the opportunity to re-use these resources in their work, projects or research. Currently, the number of resources played and downloaded by Kronik@ has exceeded 2 million.
+The project also developed a metadata standard introducing uniform data management rules enabling the exchange of information and integration between digital sources.
+URL:
+https://www.gov.pl/web/cyfryzacja/kronik-krajowe-repozytorium-obiektow-nauki-i-kultury 
+https://kronika.gov.pl/  
+5. New projects:
+a. open data (general): continuation and development of the projects: Open Data Access, Standard, Education and Open Data Plus 
+b. open data (science and culture ): continuation and development of the projeck: National Repository of Science and Culture Objects (KRONIK@)
+The new projects is expected to increase the quantity and quality of public sectro information available for re-use, in particular high-value data and dynamic data.
+URL: https://www.rozwojcyfrowy.gov.pl/strony/dowiedz-sie-wiecej-o-programie/o-programie/
+6. Open data standards (legal, security, technical and API):
+a. first version of the standards (2018)
+b. standards after evaluation and public consultations (2020)
+The standards provide guidelines on: legal regulations, data security and privacy protection, technical aspects and API standards
+URL: https://dane.gov.pl/pl/knowledgebase/useful-materials/standardy-otwartosci-danych
+";Complement;;"The Ministry of Digital Affaires (MDA)  pursues an open data policy in Poland based on several documents: Open Data Programme and the Open Data Act (regulations), but also Open Data Projects, Open Data Standards and the projects of the National Repository of Scientific and Cultural Resources.
+
+1. Open Data Programme: 
+a. Open Data Programme 2016-2020 (pol.: Program Otwierania Danych Publicznych na lata 2016-2020)
+In 2016-2020 MDA implemented first Polish open data strategy: Open Data Programme 2016-2020 (completed). The five Programme evaluation reports and one Programme finale research are published on dane.gov.pl.
+b. Open Data Programme 2021-2027 (pol.: Program otwierania danych na lata 2021-2027)
+The programme is a continuation of the open data strategy implemented by the MDA under the previous Open Public Data Programme 2016-2020. The new programme was adopted by a resolution of the Council of Ministers in February 2021. The Programme complements the Open Data Act and concentrates more on practical and technical mechanisms for opening data at the government level. Its main goal is among other to improve the quality and increase the amount of public data made available in an open manner. Examples of the planned activities include: increasing the amount of data resources made available by API on the dane.gov.pl portal, in particular dynamic data and high-value data and strengthening cooperation with data providers (e.g. conferences, hackathons, workshops, working meetings), increasing re-use and exchange of data, education, consolidation of Network of Open Data Officers. The Programme is addressed to the government administration but can also be implemented by other entities, e.g. public bodies at local level (cities/municipalities and regions) or private sector.      
+An evaluation study (on-going) of the Programme was conducted in December 2023, and the results were published on data.gov.pl.                                                   
+URL: 
+Open Data Programme 2021-2027: 
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027                                                       
+
+2. Regulations:
+a. Act on access to public information
+b. Open Data Act
+In Poland constitutional right to the information is realised by Act on access to public information (Act of 6 September 2001 on access to public information). Moreover in accordance with the new Polish Open Data Act (Act of 11 August 2021 on open data and the re-use of public sector information) every person shall have the right to re-use public sector information (the right to re-use) (previously Act of 25 February 2016 on the re-use of public sector information). The Polish Open Data Act implement Directive 2019/1024 and introduces the foundations for opening and re-use data. As a general rule, all public sector content can be re-used free of charge and without any conditions (or under minimum requirements). Among the new developments, the Act emphasizes the automated and real-time provision of data via the portal and through the application programming interfaces (API), and introduces the foundations for data sharing by new entities, like public undertakings and research and scientific institutions and also data sharing by private sector on dane.gov.pl portal.       
+In 2023 MDA conducted an ex-post evaluation of the Open Data Act (one year after its entry in force), and its results were presented in the report. The report also contains proposals regarding the Open Data Directive.                                                                                                                                                           
+URL:
+Act on access to public information: https://www.dziennikustaw.gov.pl/DU/rok/2022/pozycja/902 
+Open Data Act: https://dziennikustaw.gov.pl/DU/2021/1641
+Report on the ex-post evaluation of the Open Data Act:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/prawo
+
+3. Projects completed:
+a.  Open data - access, standard, education 
+b.  Open data plus
+c. National Repository of Science and Culture Objects (KRONIK@)
+Open data projects supported implementation of Open Data Programme 2016-2020/2021-2027. Main goal was to provide open data in manner that facilitates re-use of PSI; API development; open data portal development (dane.gov.pl); Open Data Laboratory (support data providers in the legal, technical and security areas of opening data); education; promotion open data in Poland.   
+
+Project: National Repository of Science and Culture Objects (KRONIK@)  (completed)
+KRONIK@ (kronika.gov.pl) is a platform that collects Polish culture, science and administration heritage dispersed until recently in the digital space. It has been equipped with a multi-search engine so that it is possible to search the collected resources in both simple and advanced way, as well as on the OCR text layer. In addition, KRONIK@ provides a free repository for archiving resources and their long-term storage, securing them against removal or loss. The successive increase in the number of entities that will make their resources available on the KRONIK@ will contribute to the increase in the number of digitally available science and culture works. Currently, Kronik@ collects more than 16 million objects grouped within 70 searchable categories. In addition, Kronik@ provides anyone interested with access to the digital resources provided, as well as the opportunity to re-use these resources in their work, projects or research. The number of resources played and downloaded by Kronik@ has exceeded 2 million.
+The project also developed a metadata standard introducing uniform data management rules enabling the exchange of information and integration between digital sources.
+URL:
+https://www.gov.pl/web/cyfryzacja/otwarte-dane-dostep-standard-edukacja2
+ttps://www.gov.pl/web/cyfryzacja/otwarte-dane-plus
+https://www.gov.pl/web/cyfryzacja/kronik-krajowe-repozytorium-obiektow-nauki-i-kultury 
+https://kronika.gov.pl/  
+
+4. New projects (from 2024):
+a. open data (general): Data 3.0_exchange, value continuation and development of the projects: Open Data - Access, Standard, Education and Open Data Plus 
+b. open data (science and culture ): Kronik@ 2.0 continuation and development of the project: National Repository of Science and Culture Objects (KRONIK@)
+The new project is expected to increase the quantity and quality of public sector information available for re-use, in particular high-value data and dynamic data made available via API. 
+c) educational projects (from 2025)
+URL: https://www.rozwojcyfrowy.gov.pl/strony/dowiedz-sie-wiecej-o-programie/o-programie/
+
+5. Open data standards (legal, security, technical and API):
+a. first version of the standards (2018)
+b. standards after evaluation and public consultations (2020)
+The standards provide guidelines on: legal regulations, data security and privacy protection, technical aspects and API standards
+URL: https://dane.gov.pl/pl/knowledgebase/useful-materials/standardy-otwartosci-danych";;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"In 2016-2020 the MDA implemented first Polish open data strategy: Open Data Programme 2016-2020 (completed). The five Programme evaluation reports and one Programme finale research are published on dane.gov.pl. In 2020 the MDA developed a new comprehensive open data strategy: Open Data Programme 2021-2027. New document has been adopted by resolution of the Council of Ministers in February 2021. The Programme complements the Open Data Act and concentrates more on practical and technical mechanisms for opening data at the government level. Its main goal is among other to improve the quality and increase the amount of public data made available in an open manner and also creating an environment where economic and social benefits from open data are noticed and make provide a new services, products, business models and new jobs, and will be support strategic decision making.Open Data Programme 2021-2027 implement the key issues of open data and data management. Programm provides strategic tasks for 7 years.
+Examples of the planned activities include: increasing the amount of data resources made available by API on the dane.gov.pl portal, in particular dynamic data and high-value data and strengthening cooperation with data providers (e.g. conferences, hackathons, workshops, working meetings), increasing re-use and exchange of data, education, consolidation of  Network of Open Data Officers. The Programme is addressed to the government administration but can also be implemented by other entities, e.g. public bodies at local level (cities/municipalities and regions) or private sector.                                                                                                                                                                                      
+URL:
+Open Data Programme 2021-2027: 
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027  
+";Complement;;"In 2016-2020 the MDA implemented first Polish open data strategy: Open Data Programme 2016-2020 (completed). The five Programme evaluation reports and one Programme finale research are published on dane.gov.pl. In 2020 the MDA developed a new comprehensive open data strategy: Open Data Programme 2021-2027. New document has been adopted by resolution of the Council of Ministers in February 2021. The Programme complements the Open Data Act and concentrates more on practical and technical mechanisms for opening data at the government level. Its main goal is among other to improve the quality and increase the amount of public data made available in an open manner and also creating an environment where economic and social benefits from open data are noticed and make provide a new services, products, business models and new jobs, and will be support strategic decision making.Open Data Programme 2021-2027 implement the key issues of open data and data management. Programme provides strategic tasks for 7 years.
+Examples of the planned activities include: increasing the amount of data resources made available by API on the dane.gov.pl portal, in particular dynamic data and high-value data and strengthening cooperation with data providers (e.g. conferences, hackathons, workshops, working meetings), increasing re-use and exchange of data, education, consolidation of  Network of Open Data Officers. The Programme is addressed to the government administration but can also be implemented by other entities, e.g. public bodies at local level (cities/municipalities and regions) or private sector.                                                                                                                                                                                      
+URL:
+Open Data Programme 2021-2027: 
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027  
+The Programme is subject to ongoing evaluation: the evaluation and the review is planned after two, four and then seven years after its adoption.
+The first review has already been done in December 2023.
+At that time, an evaluation (on-going) study of the Open Data Programme 2021-2027 was conducted among those responsible for the implementation of the Programme and other stakeholders (representatives of local administration, the private sector, the scientific community, NGOs, individual users). The main objective of the study was an overall evaluation of the Programme and its implementation process, as well as identification of areas that need to be changed in order to increase the effectiveness of the utility and relevance of the Program's activities.
+URL:
+Open Data Programme 2021-2027 evaluation study report:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027";;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;"Public bodies at local level (e.g. cities/municipalities and regions) purse independent open data policy, many of them have a policies for open data and run open data portals. Aslo entieties al local level are actively encouraged to publish data on dane.gov.pl. Moreover Open Data Programme 2021-2027 can be voluntary implemented by public bodies at local level, e.g. cities will be able to develop an annual schedule for opening selected data and making relevant data sets available at dane.gov.pl. Dane.gov.pl plans to harvest a new datasets from other local open data portals. 
+Also the MDA plans training/education event for employees of bodies at local level. Example is MDA's new practical guide of opening data, which is the second edition of the handbook of open data. 
+Second edition handbook of open data:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/podreczniki-dot-otwartosci-danych
+Examples of local open data policies:
+Kraków: https://www.bip.krakow.pl/?dok_id=167&sub_dok_id=167&sub=uchwala&query=id%3D20610%26typ%3Du
+Poznań: https://www.poznan.pl/mim/wos/-,doc,1017,38312/-,91567.html 
+Szczecin: http://bip.um.szczecin.pl/chapter_131308.asp?soid=979DF167A1C9499993C72E96C4B41D63 
+Kołobrzeg http://umkolobrzeg.esp.parseta.pl/index.php?id=122698
+Examples of local open data portals:
+Górnośląsko-Zagłębiowska Metropolia (eng: Metropolis GZM): https://otwartedane.metropoliagzm.pl/ 
+Warszawa: https://api.um.warszawa.pl/# 
+Wrocław: https://www.wroclaw.pl/open-data/
+Rzeszów: https://otwartedane.erzeszow.pl/ 
+Jaworzno: https://otwartedane.um.jaworzno.pl/ 
+Gdynia: https://otwartedane.gdynia.pl/ 
+Gliwice: https://open-data-gliwice.hub.arcgis.com/
+Gdańsk: https://www.gdansk.pl/otwarte-dane-w-gdansku
+";Complement;;"Public bodies at local level (e.g. cities/municipalities and regions) purse independent open data policy, many of them have a policies for open data and run open data portals. Aslo entieties al local level are actively encouraged to publish data on dane.gov.pl. Moreover Open Data Programme 2021-2027 can be voluntary implemented by public bodies at local level, e.g. cities will be able to develop an annual schedule for opening selected data and making relevant data sets available at dane.gov.pl. Dane.gov.pl plans to harvest a new datasets from other local open data portals. 
+The MDA also successively conducts training/education for staff of public bodies at the local level. An example is the online workshop on data opening. Within this framework 240 employees of public bodies at the local level were trained. Due to high interest, another workshop is planned for 2024.
+Online workshop on opening data:
+https://www.gov.pl/web/cyfryzacja/wez-udzial-w-bezplatnych-warsztatach-o-otwieraniu-danych
+Another example is the second edition of the new Open Data Handbook, which is the MDA's practical guide to opening data. 
+Second edition Open Data Handbook:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/podreczniki-dot-otwartosci-danych
+Examples of local open data policies:
+Kraków: https://www.bip.krakow.pl/?dok_id=167&sub_dok_id=167&sub=uchwala&query=id%3D20610%26typ%3Du
+Poznań: https://www.poznan.pl/mim/wos/-,doc,1017,38312/-,91567.html 
+Szczecin: http://bip.um.szczecin.pl/chapter_131308.asp?soid=979DF167A1C9499993C72E96C4B41D63 
+Kołobrzeg http://umkolobrzeg.esp.parseta.pl/index.php?id=122698
+Examples of local open data portals:
+Górnośląsko-Zagłębiowska Metropolia (eng: Metropolis GZM): https://otwartedane.metropoliagzm.pl/ 
+Warszawa: https://api.um.warszawa.pl/# 
+Wrocław: https://www.wroclaw.pl/open-data/
+Rzeszów: https://otwartedane.erzeszow.pl/ 
+Jaworzno: https://otwartedane.um.jaworzno.pl/ 
+Gdynia: https://otwartedane.gdynia.pl/ 
+Gliwice: https://open-data-gliwice.hub.arcgis.com/
+Gdańsk: https://www.gdansk.pl/otwarte-dane-w-gdansku
+Kraków: https://otwartedane.um.krakow.pl/
+Lublin: https://otwartedane.lublin.eu/
+Przemyśl: https://otwartedane.przemysl.eu/
+Legnica: https://opendata.legnica.eu/open-data.php
+Siemianowice Śląskie: https://dane.siemianowice.pl/
+Województwo Małopolskie: https://www.malopolska.pl/aktualnosci/fundusze-europejskie/otwarte-dane-wartosciowe-informacje-dla-kazdego";;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;"Open Data Programme 2021-2027 provides strategic tasks for 2021-2027 and schedule for opening selected data and sharing relevant data sets on the dane.gov.pl. The Programme has an action plan for its implementation: 
+a) Action plan - table/schedule with among others directions of intervention, responsible entities and deadlines,
+b) APIs development plan - table/schedule with data sets, data providers and deadlines.
+See: Open Data Program 2021-2027 Appendix No. 1.
+Also the Programme provides indicators of target measurement:                               
+1. Number of datasets, dynamic data and high-value datasets available for re-use on dane.gov.pl;
+2. Number of datasets at higher level of openness or better quality available for re-use on dane.gov.pl;
+3. Number of datasets provided via APIs for re-use on dane.gov.pl;
+4. Number of activities leading to removal or limitations of barriers in exchange of data;
+5. Number of culture and science datasets available for re-use on dane.gov.pl;
+6. Number of entities publishing data for re-use on dane.gov.pl;
+7. Number of people participating in trainings/educational events;
+8. Number of recipients activities information and promotion (e.g.: conferences, hackathons, campaign in media).
+After two and four years after the Programme was adopted and in the seventh year of the document implemented, Programme will be review and evaluation.
+As two years have passed since its adoption, the Programme is currently being reviewed and evaluated.
+In addition working group of strategic directions for data management (on Semptember 2022) was set up as part of the Task force for the implementation of the Programme Open Data 2021-2027. One of the objectives of the this group is to evaluate Programme Open Data 2021-2027, as well as: share knowledge, good practices and learne about the needs of different groups in areas such as data sharing and management, share new categories of data, data market research in Poland, data openness, communication and personal data protection.
+URL: https://www.gov.pl/web/cyfryzacja/grupa-robocza-ds-strategicznych-kierunkow-zarzadzania-danymi
+First meeting:
+https://m.facebook.com/story.php?story_fbid=pfbid03CVA9VJFfBabbRL1Wk2i3Lu1RbH1AyUHCNDzAUdtnLLsvhqFW6Hu3bbaSSJy397Wl&id=107789623943313
+Others meetings:
+https://m.facebook.com/story.php?story_fbid=pfbid02E9m4TBh6ZAU5DZmeWaLpQNm75mWw6WQiRs5qzJkW79JBt8o6mYoFMDwK4VJGzDcVl&id=107789623943313
+https://m.facebook.com/story.php?story_fbid=pfbid0SZTQbzJ3wZ4HTXbQad9n2HPDXGMB8N36NExGmGuG2QVgzNGUQhsW1vz9YwLY8c5yl&id=107789623943313
+https://m.facebook.com/story.php?story_fbid=pfbid0259jdDCRH7L2ViBgrASVTRVdWw42J9syhRzF9NKGqkXNiMa4xPfposnjYmKnz6uk2l&id=107789623943313
+https://m.facebook.com/story.php?story_fbid=pfbid02jwuCWxyhEZagnP36RoZ5J9QxH3DNW2a9frcL8qixgCXZCxuAe5paXK6BABNPSkujl&id=107789623943313
+https://m.facebook.com/story.php?story_fbid=pfbid0jHndPTUWfa1d5vbGABoQDXgMSjFTEbVRsMPCR82AeUNqvgMg8YiNyehvFQheYhb7l&id=107789623943313
+";Complement;;"Open Data Programme 2021-2027 provides strategic tasks for 2021-2027 and schedule for opening selected data and sharing relevant data sets on the dane.gov.pl. The Programme has an action plan for its implementation: 
+a) Action plan - table/schedule with among others directions of intervention, responsible entities and deadlines,
+b) APIs development plan - table/schedule with data sets, data providers and deadlines.
+See: Open Data Programme 2021-2027 Appendix No. 1.
+Also the Programme provides indicators of target measurement:                               
+1. Number of datasets, dynamic data and high-value datasets available for re-use on dane.gov.pl;
+2. Number of datasets at higher level of openness or better quality available for re-use on dane.gov.pl;
+3. Number of datasets provided via APIs for re-use on dane.gov.pl;
+4. Number of activities leading to removal or limitations of barriers in exchange of data;
+5. Number of culture and science datasets available for re-use on dane.gov.pl;
+6. Number of entities publishing data for re-use on dane.gov.pl;
+7. Number of people participating in trainings/educational events;
+8. Number of recipients activities information and promotion (e.g.: conferences, hackathons, campaign in media).
+After two and four years after the Programme was adopted and in the seventh year of the document implemented, Programme will be review and evaluated.
+The Programme is subject to ongoing evaluation: the evaluation and the review is planned after two, four and then seven years after its adoption.
+As two years have passed since its adoption, the Programme was reviewed and evaluated. The research was conducted among those responsible for the implementation of the Programme and other stakeholders (representatives of local government, the private sector, the scientific community, NGOs, individual users).The main objective of the research was an overall evaluation of the Programme and its implementation process, as well as identification of areas that need to be changed in order to increase the effectiveness of the utility and relevance of the Programe's activities.
+URL:
+Open Data Programme 2021-2027 evaluation study report:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027
+In 2022-2023, the group on strategic directions for data management operated. It was the  part of the Task force for the implementation of the Open Data Programme 2021-2027. One of the objectives of the this group was to evaluate Open Data Programme 2021-2027, as well as: to share knowledge, good practices and learn about the needs of different groups of stakeholders in areas such as data sharing and data management, including new categories of data, data market research in Poland, data openness, communication and personal data protection.
+URL: https://www.gov.pl/web/cyfryzacja/grupa-robocza-ds-strategicznych-kierunkow-zarzadzania-danymi
+First meeting:
+https://m.facebook.com/story.php?story_fbid=pfbid03CVA9VJFfBabbRL1Wk2i3Lu1RbH1AyUHCNDzAUdtnLLsvhqFW6Hu3bbaSSJy397Wl&id=107789623943313
+Others meetings:
+https://m.facebook.com/story.php?story_fbid=pfbid02E9m4TBh6ZAU5DZmeWaLpQNm75mWw6WQiRs5qzJkW79JBt8o6mYoFMDwK4VJGzDcVl&id=107789623943313
+https://m.facebook.com/story.php?story_fbid=pfbid0SZTQbzJ3wZ4HTXbQad9n2HPDXGMB8N36NExGmGuG2QVgzNGUQhsW1vz9YwLY8c5yl&id=107789623943313
+https://m.facebook.com/story.php?story_fbid=pfbid0259jdDCRH7L2ViBgrASVTRVdWw42J9syhRzF9NKGqkXNiMa4xPfposnjYmKnz6uk2l&id=107789623943313
+https://m.facebook.com/story.php?story_fbid=pfbid02jwuCWxyhEZagnP36RoZ5J9QxH3DNW2a9frcL8qixgCXZCxuAe5paXK6BABNPSkujl&id=107789623943313
+https://m.facebook.com/story.php?story_fbid=pfbid0jHndPTUWfa1d5vbGABoQDXgMSjFTEbVRsMPCR82AeUNqvgMg8YiNyehvFQheYhb7l&id=107789623943313";;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"The Open Data Act act implementing of Open Data Directive provides dynamic data are publish immediately after collection, via APIs and where relevant, as a bulk download (see art. 24). Sharing and re-use of PSI by API is strongly recommended by Open Data Standards. Moreover Open Data Programme 2021-2027 has an APIs development plan - table/schedule with data sets, data providers and deadlines (See: Open Data Program 2021-2027 Appendix No. 1.). Also MDA developed report and research on sharing of dynamic data via APIs by polish cities.
+In addition working group on strategic directions for data management (on September 2022) was set up as part of the Task force for the implementation of the Programme Data Open 2021-2027. 
+This working group is to support different groups in areas such as data sharing and management, sharing new data categories. 
+URL:
+https://dziennikustaw.gov.pl/DU/2021/1641 
+https://dane.gov.pl/knowledgebase/useful-materials/standardy-otwartosci-danych 
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027
+https://dane.gov.pl/pl/article/badanie-api-w-miastach
+https://www.gov.pl/web/cyfryzacja/grupa-robocza-ds-strategicznych-kierunkow-zarzadzania-danymi
+https://m.facebook.com/story.php?story_fbid=pfbid03CVA9VJFfBabbRL1Wk2i3Lu1RbH1AyUHCNDzAUdtnLLsvhqFW6Hu3bbaSSJy397Wl&id=107789623943313
+Others meetings see q.5. 
+";Complement;;"Open Data Programme 2021-2027 provides strategic tasks for 2021-2027 and schedule for opening selected data and sharing relevant data sets on the dane.gov.pl. The Programme has an action plan for its implementation: 
+a) Action plan - table/schedule with among others directions of intervention, responsible entities and deadlines,
+b) APIs development plan - table/schedule with data sets, data providers and deadlines.
+See: Open Data Programme 2021-2027 Appendix No. 1.
+Also the Programme provides indicators of target measurement:                               
+1. Number of datasets, dynamic data and high-value datasets available for re-use on dane.gov.pl;
+2. Number of datasets at higher level of openness or better quality available for re-use on dane.gov.pl;
+3. Number of datasets provided via APIs for re-use on dane.gov.pl;
+4. Number of activities leading to removal or limitations of barriers in exchange of data;
+5. Number of culture and science datasets available for re-use on dane.gov.pl;
+6. Number of entities publishing data for re-use on dane.gov.pl;
+7. Number of people participating in trainings/educational events;
+8. Number of recipients activities information and promotion (e.g.: conferences, hackathons, campaign in media).
+After two and four years after the Programme was adopted and in the seventh year of the document implemented, Programme will be review and evaluation.
+As two years have passed since its adoption, the Programme is currently being reviewed and evaluated.
+The Programme is subject to ongoing evaluation: the evaluation and the review is planned after two, four and then seven years after its adoption.
+As two years have passed since its adoption, the Programme was reviewed and evaluated as part of an evaluation study . The research was conducted among those responsible for the implementation of the Programme and other stakeholders (representatives of local government, the private sector, the scientific community, NGOs, individual users).The main objective of the research was an overall evaluation of the Programme and its implementation process, as well as identification of areas that need to be changed in order to increase the effectiveness of the utility and relevance of the Programe's activities.
+URL:
+Open Data Programme 2021-2027 evaluation study report:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027
+In 2022-2023, the group on strategic directions for data management operated. It was the  part of the Task force for the implementation of the Open Data Programme 2021-2027. One of the objectives of the this group was to evaluate Open Data Programme 2021-2027, as well as: to share knowledge, good practices and learn about the needs of different groups of stakeholders in areas such as data sharing and data management, including new categories of data, data market research in Poland, data openness, communication and personal data protection.
+URL: https://www.gov.pl/web/cyfryzacja/grupa-robocza-ds-strategicznych-kierunkow-zarzadzania-danymi
+First meeting:
+https://m.facebook.com/story.php?story_fbid=pfbid03CVA9VJFfBabbRL1Wk2i3Lu1RbH1AyUHCNDzAUdtnLLsvhqFW6Hu3bbaSSJy397Wl&id=107789623943313
+Others meetings:
+https://m.facebook.com/story.php?story_fbid=pfbid02E9m4TBh6ZAU5DZmeWaLpQNm75mWw6WQiRs5qzJkW79JBt8o6mYoFMDwK4VJGzDcVl&id=107789623943313
+https://m.facebook.com/story.php?story_fbid=pfbid0SZTQbzJ3wZ4HTXbQad9n2HPDXGMB8N36NExGmGuG2QVgzNGUQhsW1vz9YwLY8c5yl&id=107789623943313
+https://m.facebook.com/story.php?story_fbid=pfbid0259jdDCRH7L2ViBgrASVTRVdWw42J9syhRzF9NKGqkXNiMa4xPfposnjYmKnz6uk2l&id=107789623943313
+https://m.facebook.com/story.php?story_fbid=pfbid02jwuCWxyhEZagnP36RoZ5J9QxH3DNW2a9frcL8qixgCXZCxuAe5paXK6BABNPSkujl&id=107789623943313
+https://m.facebook.com/story.php?story_fbid=pfbid0jHndPTUWfa1d5vbGABoQDXgMSjFTEbVRsMPCR82AeUNqvgMg8YiNyehvFQheYhb7l&id=107789623943313";;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"In Polish open data policy ""citizen-generated data"" and ""private sector data"" are included in one definitions - ""private data"". 
+1. Open Data Act
+Open Data Act introduces the foundations for data sharing by by private sector on dane.gov.pl portal (e.g. enterprises, NGO's) (Article 35). Also the Act defines the concept of private data (Article 2.5). Examples of private data sets sharing dane.gov.pl: 
+https://dane.gov.pl/pl/dataset/2762,wyniki-projektu-br-zwiekszenie-konkurencyjnosci-vt.
+https://dane.gov.pl/pl/dataset/2880,iv-badanie-odpornosci-oprawek-na-dzialanie-niskich
+https://dane.gov.pl/pl/dataset/2900,wyniki-badan-prototypu-pasywnej-igly-bezpiecznej-w
+2. Open Data Programme 2021-2027
+Open Data Programme 2021-2027 include activity encouraging private entities to sharing own data on the Dane.gov.pl portal (see p. 38). Also the Programme can be implemented by entities different than government administration, e.g. private sector. The goals of the Programme focus on the key 
+elements of the open data policy, both in terms of the public sector and the sector private (see p. 29).
+3. Report 
+Report ""Challenges and prospects in sharing private sector data with recommendations for government administration"" (The Open Data Laboratory).The report presents a diagnosis, benefits and recommendations in the area of re-use and exchange data, describes the legal status of sharing of private data, barriers and models for data exchanges (B2G, B2B, C2G). 
+ULR:
+https://dziennikustaw.gov.pl/DU/2021/1641
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027
+https://dane.gov.pl/pl/knowledgebase/useful-materials/raporty-laboratorium-otwartych-danych
+";Complement;;"In Polish open data policy ""citizen-generated data"" and ""private sector data"" are included in one definition - ""private data"". 
+1. Open Data Act
+Open Data Act introduces the foundations for data sharing by private sector on dane.gov.pl portal (e.g. enterprises, NGO's) (Article 35). Also the Act defines the concept of private data (Article 2.5). Examples of private data sets  published on?dane.gov.pl: 
+https://dane.gov.pl/pl/dataset/2762,wyniki-projektu-br-zwiekszenie-konkurencyjnosci-vt.
+https://dane.gov.pl/pl/dataset/2880,iv-badanie-odpornosci-oprawek-na-dzialanie-niskich
+https://dane.gov.pl/pl/dataset/2900,wyniki-badan-prototypu-pasywnej-igly-bezpiecznej-w
+https://dane.gov.pl/pl/dataset/3407,opracowanie-innowacyjnych-rozwiazan-technologiczny
+https://dane.gov.pl/pl/dataset/3575,surowce-do-produkcji-swiec
+2. Open Data Programme 2021-2027
+Open Data Programme 2021-2027 include activity encouraging private entities to sharing own data on the Dane.gov.pl portal (see p. 38). Also the Programme can be implemented by entities different than government administration, e.g. private sector. The goals of the Programme focus on the key 
+elements of the open data policy, both in terms of the public sector and the sector private (see p. 29).
+3. Report 
+Report ""Challenges and prospects in sharing private sector data with recommendations for government administration"" (The Open Data Laboratory).The report presents a diagnosis, benefits and recommendations in the area of re-use and exchange data, describes the legal status of sharing of private data, barriers and models for data exchanges (B2G, B2B, C2G). 
+ULR:
+https://dziennikustaw.gov.pl/DU/2021/1641
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027
+https://dane.gov.pl/pl/knowledgebase/useful-materials/raporty-laboratorium-otwartych-danych";;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";yes;"Dane.gov.pl introduced DCAT-AP. Open Data Programme 2021-2027 recommends to use the specifications  to describe public sector datasets and enable exchange of descriptions of data sets between the Dane.gov.pl portal and other national and European portals sharing public data (see p. 129). Also the Programme recommends to sharing local data / metadata on the Dane.gov.pl portal. The data is also published on an automatic sharing basis on data.europa.eu (see p. 75).
+URL:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027
+";Confirm;;;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"MDA issued a second edition of the handbook of open data to promote re-use culture among public sector as well as business and NGOs.
+The updated handbook is intended to more help build a culture of data re-use in offices. This handbook is a response to the information and education needs of the many offices that MDA has worked with the last 5 years. This edition introduces new categories of data, the use of regulations in the development of open data policies and ready-made solutions for data sharing such as the data.gov.pl and kronika.gov.pl services. Similarily to the previous edition, the current handbook does not explicitly foresee measures, but indicates the steps necessary to build an appropriate organizational structure, responsibility for opening data in the office (company) and re-use. These steps constitute a checklist for building a culture of re-use in an office (company).
+In addition Open Data Standards (in particular Legal Standard) play such role (""openness template""). Also the Open Data Programme 2021-2027 and the Legal Standard introduced the Pillars of Openness (see. p. 58-59 Open Data Programme 2021 -2027). Meeting the these guidelines on public data sharing should mean giving data the attribute of openness. The Pillars of Openness was implemented to the Open Data Act  - definition of open data and principle of openness (Article 2.11 and Article 10.1). Appendix to the Legal Standard is also Check list (data providers can check that their data is open and in line with the Pillars of Openness). Moreover expert group (including MDA and Institute of Urban and Regional Development) developed a handbook ""Data management in cities. Handbook for local governments
+ 
+URL:
+https://dziennikustaw.gov.pl/DU/2021/1641
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027
+https://dane.gov.pl/pl/knowledgebase/useful-materials/standardy-otwartosci-danych
+https://dane.gov.pl/pl/knowledgebase/useful-materials/podreczniki-dot-otwartosci-danych
+http://obserwatorium.miasta.pl/wp-content/uploads/2021/10/IRMiR_Zarzadzaniedanymi_20210922-4.pdf
+";Confirm;;;;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"See q. 6c
+Open data projects supporting implementation of Open Data Programme 2021-2027 outline such measures. Main goal is to provide open data for private sector in manner that facilitates re-use of public sector information. Number of new resources at dane.gov.pl at least at the 3rd level of openness; number of downloads/consolidation of relevant data set. 
+";Complement;;"See q. 6.
+Open data projects supporting implementation of Open Data Programme 2021-2027 outline such measures. Main goal is to provide open data for private sector in a manner that facilitates re-use of public sector information. Number of new resources at dane.gov.pl at least at the 3rd level of openness; number of downloads/consolidation of relevant data set. MDA is now working on launching the next project: “Data 3.0 - exchange, value”, which is a continuation of the actions taken so far. This project builds on previous projects: “Open Data: Access, Standard, Education” and “Open Data +”. The new project will contribute to the Programme's goal of increasing the availability and improving the quality of data available on the dane.gov.pl portal, including high-value datasets.
+In addition,  European Funds for Digital Development 2021-2027 includes, among other things, Unit 2.3, “Digital Accessibility and Information Reuse.” Support in that unit Includes, among others, projects that will aim to provide access to data, including dynamic data through application programming interfaces, the use of data and business analytics in enterprises, and support for mutual data sharing between enterprises, including the development of standards for cooperation in organizational, technical and legal terms.
+URL: https://www.rozwojcyfrowy.gov.pl/strony/dowiedz-sie-wiecej-o-programie/o-programie/
+https://www.gov.pl/web/popcwsparcie/fundusze-europejskie-na-rozwoj-cyfrowy-2021-2027-ferc-czyli-co-przyniesie-jednostkom-administracji-publicznej-nowy-okres-programowania";;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;"Local level
+Public bodies at local level (cities/municipalities and and regions) are actively encouraged to publish data on dane.gov.pl. It is not mandatory, cities as well as all institutions from local level purse independent open data policy, many of them run open data portal. For example: 
+Warszawa: https://dane.gov.pl/institution/organization-65,miasto-stoleczne-warszawa
+Wrocław: https://dane.gov.pl/institution/46,gmina-wroclaw
+Open Data Programme 2021-2027 can be voluntary implemented by public bodies at local level, e.g. cities will be able to develop an annual schedule for opening selected data and making relevant data sets available at dane.gov.pl (e.g. p. 38); dane.gov.pl plans to harvest a new datasets from other local open data portals; MDA plans training/education event for employees of bodies at local level. 
+National level
+Open Data Officers monitor timely publication of public data on portal dane.gov.pl according to a defined roadmap  and quality of data. Schedules are published on dane.gov.pl. 
+Open Data Programme 2021-2027 indicates activities public bodies for sharing new datasets. Also data providers determined by law (i.e. central public sector organisations) are obliged to share data sets on the portal in line with data sharing schedules (developed every six months) as an implementation of Open Data Programme 2021-2027 (p. 38, 88). Also Open Data Programme 2021-2027 has an APIs development plan - table/schedule with data sets, data providers and deadlines (Open Data Programme 2021-2027 Appendix No. 1).
+";Complement;;"Local level
+Public bodies at local level (cities/municipalities and and regions) are actively encouraged to publish data on dane.gov.pl. It is not mandatory, cities as well as all institutions from local level purse independent open data policy, many of them run open data portal. 
+Examples of portals of the largest cities in Poland:
+Warszawa: https://dane.gov.pl/institution/organization-65,miasto-stoleczne-warszawa
+Wrocław: https://dane.gov.pl/institution/46,gmina-wroclaw
+Kraków: https://otwartedane.um.krakow.pl/
+Poznań: https://www.poznan.pl/opendata 
+Gdańsk: https://www.gdansk.pl/otwarte-dane-w-gdansku
+Metropolis GZM (Metropolis GZM consists of 41 cities and communes located in the center of the Silesian Province): https://otwartedane.metropoliagzm.pl/en/ 
+Open Data Programme 2021-2027 can be voluntarily implemented by public bodies at local level, e.g. cities will be able to develop an annual schedule for opening selected data and making relevant data sets available at dane.gov.pl (e.g. p. 38); dane.gov.pl plans to harvest a new datasets from other local open data portals; MDA offers? training/education event for employees of bodies at local level. 
+One such training course was an online workshop organized by MDA for employees of bodies at the local level. The training program included a theoretical part focused on explaining to participants the basic concepts and regulations of data openness. The practical part consisted of exercises on preparing data for release on the data.gov.pl portal and the publication process. Due to high interest, another edition of the workshop is planned for 2024.
+URL: https://www.gov.pl/web/cyfryzacja/wez-udzial-w-bezplatnych-warsztatach-o-otwieraniu-danych
+National level
+Open Data Officers monitor timely publication of public data on portal dane.gov.pl according to a defined roadmap  and quality of data. Schedules are published on dane.gov.pl. 
+Open Data Programme 2021-2027 indicates activities public bodies for sharing new datasets. Also data providers determined by law (i.e. central public sector organisations) are obliged to share data sets on the portal in line with data sharing schedules (developed every six months) as an implementation of Open Data Programme 2021-2027 (p. 38, 88). Also Open Data Programme 2021-2027 has an APIs development plan - table/schedule with data sets, data providers and deadlines (Open Data Programme 2021-2027 Appendix No. 1).
+";;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;"As a rule, this can happen. Data sets are subjects to validation. In case when the data cannot be published as open data, Open data team from MDA and Open data portal administrators support data providers to improve data quality (data sets at least at the 3rd level of openness). No matter if data sets can be published as open data, data sets published on dane.gov.pl always have an informative value. Moreover Open Data Act implemented the principle of openness – each public entities is obligate to shall make a data (public sector information) as open data (if it possible) (Article 10.1). Open Data Act defines the public sector information definition (any content or part thereof, regardless of the format used for recording, held by public entities - all data) (Article 2.8) and the open data definition (Article 2.11).
+Also according to proposal for a Polish Data Governance Act (the act will ensure the application of the DGA in national law) the single information point will provide a list of the datasets referred to in the DGA (Article 8.2 DGA). In Poland, the single information point will be Polish Open Data Portal (dane.gov.pl).   
+https://dziennikustaw.gov.pl/DU/2021/1641
+";Complement;;"As a rule, this can happen. Data sets are subjects to validation. In case when the data cannot be published as open data, Open data team from MDA and Open data portal administrators support data providers to improve data quality (data sets at least at the 3rd level of openness). No matter if data sets can be published as open data, data sets published on dane.gov.pl always have an informative value. Moreover Open Data Act implemented the principle of openness – each public entities is obligate to shall make a data (public sector information) as open data (if it possible) (Article 10.1). Open Data Act defines the public sector information definition (any content or part thereof, regardless of the format used for recording, held by public entities - all data) (Article 2.8) and the open data definition (Article 2.11). MDA opened a Polish single information point (Article 8 DGA) in the data portal (dane.gov.pl). The single information point shall make available a searchable asset list containing an overview of protected data held by public sector bodies.
+In addition, the MDA has also started  a series of training courses for public administrations on protected data (DGA) . The first training (for voivodeship offices - 16 regions  and  the biggest cities ) was held in November 2023.
+URL: 
+https://dziennikustaw.gov.pl/DU/2021/1641
+https://dane.gov.pl/en/dga
+https://dane.gov.pl/pl/dataset?page=1&per_page=20&q=dga&sort=relevance&model%5Bterms%5D=dataset
+https://www.facebook.com/danegovpl/posts/pfbid0CDvnmMG4YZsH5SiuK5UzmDcb8GqsdUBPwhBni39ZKEs7BNtpTaYvc5VrpgKKez1ul?locale=pl_PL
+";;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;"MDA monitors the progress of public sector bodies in the work related to the implementation of Regulation (UE) 2023/138 on high-value data sets (including an inventory of data they hold - in particular high-value data sets from Regulation (UE) 2023/138). Specific high-value data sets inventoried in this way can be divided into two groups.
+The first group includes datasets that are already being made available in accordance with the requirements of the Regulation (UE) 2023/138. The second group includes datasets on which work is underway or planned in order to make them available in accordance with the requirements of the Regulation (UE) 2023/138. The first group may include, for example, datasets on geospatial data, statistical data, or data on companies and company ownership. The second group may include, for example, certain data sets on Earth observation and environmental data.
+Currently, MDA is working on launching another project “Data 3.0 - exchange, value”, under which it is planned to increase the amount of high-value data published with an API on the data portal (dane.gov.pl). The project will be implemented in partnership with a number of public sector bodies, such as the Ministry of Economic Development and Technology, the Statistics Poland and the Chief Inspectorate of Environmental Protection.
+In addition, European Funds for Digital Development 2021-2027   will provide for, among other things, Unit 2.3, “Digital Accessibility and Reuse of Information.” Support will include, among others, projects that prioritize increasing the quantity and quality of public sector information available for reuse, particularly high-value and dynamic data.
+Some public sector bodies are already carrying out their own work to bring these datasets into compliance with the Regulation. Such bodies include, for example, the Ministry of Climate and Environment and the Ministry of Justice. In most cases, this work primarily involves technical aspects (for example it involves modifying the system or adding a new API). As such, in addition to being time-consuming, they also require a lot of money. Therefore, they will be co-financed under the new financial perspective of the European Funds Program for Digital Development 2021-2027.";;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;5;5;5;5;5;5;5;;;;
+P11-b;Earth observation and environment;4;4;4;4;4;4;4;;;;
+P11-c;Meteorological;5;5;5;4;4;4;4;;;;
+P11-d;Statistics;5;5;5;5;5;5;5;;;;
+P11-e;Companies and company ownership;5;4;5;4;4;4;4;;;;
+P11-f;Mobility;5;5;5;4;4;4;4;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"When sharing data on dane.gov.pl portal, public entities indicate whether specific data is HVD by checking the metadata ""Contains high-value data"". This data is visible with the mark ""Contains high-value data"" and marked with an appropriate icon.
+Description of HVD was published on portal in 2023: https://dane.gov.pl/pl/knowledgebase/useful-materials/dane-o-wysokiej-wartosci-hvd";;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"Stakeholders from the public and private sectors can participate in open data policy at the local and national levels. This ranges from being consulted on drating new open data regulations,  participating in research and various initiatives such as conferences, training, to making their own data available as open data or through the reuse of open data on national or local data portals.
+Stakeholder participation can be divided into indirect and direct. 
+Indirect participation
+Already at the stage of drafting national/local laws and other regulations on data openness, stakeholders can participate in consultations on such drafts. Every public and private stakeholder has the opportunity to comment on the proposed regulations. 
+Consultation on the Open Data Act:
+https://legislacja.rcl.gov.pl/projekt/12337400 
+Public pre-consultation of the new Open Data Programme 2021-202: 
+https://www.gov.pl/web/cyfryzacja/program-otwierania-danych-na-lata-2021-2027--ruszaja-prekonsultacje-spoleczne
+Evaluation of the Open Data Act and Open Data Programme 2021-2027:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027 
+In addition, there are permanent legal mechanisms for requesting changes to laws already in force, such as the universal right of petition. Under these mechanisms the stakeholders can make requests not only to, for example, change open data regulations, but also to take action on open data. 
+Furthermore, various stakeholders are regularly invited to participate in surveys on the open data reuse market. Depending on the purpose of the survey, these can be public sector and/or private sector stakeholders. The results of the surveys can be the basis for open data actions, such as educational or legal regulatory actions.
+See the research reports here:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/raport-z-badania-wsrod-przedsiebiorcow-na-temat-wielkosci-i-charakterystyki-rynku-ponownego-wykorzystania-danych-publicznych-w-polsce
+Besides, stakeholders are also invited to participate in various national/local initiatives, such as conferences, trainings, which, in addition to their educational value, provide a space for the exchange of views faced by both obligated entities and data users.
+Direct participation 
+Stakeholders can also directly participate in the open data reuse market through, among others, the national data portal (dane.gov.pl), as well as local portals (for examples of local portals see q. 3) , as open data contributors and as open data users. 
+In addition, the Open Data Act introduces the basis for private sector stakeholders to share data on the data.gov.pl portal (e.g., businesses, NGOs) (see q. 6).
+As an example of another space that allows stakeholders to participate in data openness policy, one should mention participation in the working group on strategic directions for data management (see q. 4). 
+In addition, one can mention:
+Open Data Officers Network (see q. 19):
+https://www.gov.pl/web/cyfryzacja/pelnomocnicy-ds-otwartosci-danych
+Task force for the implementation of the  Open Data Programme 2021-2027:
+http://www.gov.pl/web/cyfryzacja/zespol-zadaniowy-do-spraw-programu-otwierania-danych-publicznych
+ The Future is Data Conference (see q. 20).";;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;The MDA is a central hub for open data policy in Poland. MDA pursues public policy in open data at governmental level. It means that top – down model is used on the central administration level. In the same time there are plenty initiatives carried on by local governments (mostly cities, e.g. Warsaw, Gdańsk, Kraków, Wrocałw, Starachowice). Obviously there are many events or initiatives organised in cooperation between central and local level, but as a principle local governments are independent. ;Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;"Open data activities addressed to local and regional bodies supporting them in their endeavours are carried out by open data team as part of our strategy. (see for example Measure 3– p. 36 https://dane.gov.pl/en/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027). Open data team carries out this task within its normal governance structure. Specific focus in put on such activities as trainings, promotion, information and knowledge dissemination.
+A example of targeted support we give to local and regional initiatives is the letter of intent with the Górnoślasko-Zagłębiowska Metropolia (eng: Metropolis GZM), which already resulted in its local resources being made available on the data.gov.pl portal at the highest levels of openness.
+https://metropoliagzm.pl/2024/05/17/metropolia-i-ministerstwo-cyfryzacji-zainicjowaly-wspolprace-w-dziedzinie-otwartych-danych/
+Apart from supporting local initiatives, we also try to actively promote them and ensure the presence of the topic of open data at events addressed to local and regional participants. At this conference representatives from our open data team and cities’ data integrators initiative together promoted open data.
+https://dane.gov.pl/pl/article/o-otwieraniu-danych-na-forum-we-wrocawiu
+Apart from these targeted activities we also offer within our governance structure more general support to local and regional initiatives in form of trainings. An example of this type of training is an online workshop organised by MDA for local government employees. The training programme included a theoretical part focusing on explaining to participants the basic concepts and regulations of data openness. The practical part consisted of exercises on how to prepare data for release on the data.gov.pl portal and the publication process. Due to high interest, the next edition of the workshop has been planned for 2024.
+URL: https://www.gov.pl/web/cyfryzacja/wez-udzial-w-bezplatnych-warsztatach-o-otwieraniu-danych
+Currently MDA is working on launching another project “Data 3.0 - exchange, value” (this September). As part of this project, a series of educational activities are planned to enhance the knowledge and skills of officials, including at the local level, in preparing data for sharing and using data at work.
+In addition to this, MDA has prepared for local government employees the second edition of the Open Data Handbook, which is a practical guide on opening data, pointing out the benefits of making open data available. The more data is made available as open data, the less work local government bodies have to do when dealing with requests for re-use. 
+Second edition of the open data handbook:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/podreczniki-dot-otwartosci-danych
+In addition, the data made available by local government bodies is promoted nationally through campaigns organised by MDA, e.g. on social media.
+Through all these activities, many cities, as well as institutions at the local level, have independent open data policies. Moreover, but all activities described above, public bodies at the local and regional level are thus actively encouraged to publish their data on the national data portal (dane.gov.pl) maintained by MDA. By using the national data portal, these bodies can share their data without having to build their own (local) portal. They receive a free tool for publishing data nationwide. The portal offers them technical support as well. 
+Examples of local bodies data published on the national data portal:
+Warszawa: https://dane.gov.pl/pl/institution/65,miasto-stoleczne-warszawa
+Wrocław: https://dane.gov.pl/pl/institution/46,gmina-wroclaw
+Opole: https://dane.gov.pl/pl/institution/274,urzad-miasta-opola
+Sulejówek: https://dane.gov.pl/pl/institution/85,urzad-miasta-sulejowek";;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";all public bodies;;Confirm;;;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";yes;"Open Data Act:
+https://dziennikustaw.gov.pl/DU/2021/1641 
+Open Data Programme 2021-2027:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027 
+Network of Open Data Officers:
+https://www.gov.pl/web/cyfryzacja/pelnomocnicy-ds-otwartosci-danych
+Task force for the Open Data Programme 2021-2027:
+https://www.gov.pl/web/cyfryzacja/zespol-zadaniowy-do-spraw-programu-otwierania-danych-publicznych 
+Working group of strategic directions for data management:
+https://www.gov.pl/web/cyfryzacja/grupa-robocza-ds-strategicznych-kierunkow-zarzadzania-danymi
+";Confirm;;;;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"In Poland the national open data team and the team maintaining the national portal are joined together into one open data team (Data Management Department) from the MDA. 
+https://www.gov.pl/web/cyfryzacja/departament-zarzadzania-danymi
+https://www.gov.pl/web/cyfryzacja/otwarte-dane-publiczne
+
+";Confirm;;;;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;"The Open Data Act provides a legal basis for appointing official roles in civil service as part of open data governance and policy implementation. it is further developed by the Open Data Programme 2021-2027 that elaborates in more details on these implementation system and governance structure:
+1. Task force for the Open Data Programme 2021 - 2027 - policy level (in each ministry a management member is assigned to the Task force)
+2. Programme Implementers and Network of Open Data Officers – operational level.
+The implementers of the Programme are members of the Council of Ministers and the President of the Statistics Poland, supported by Open Data Officers. Each ministry (and Statistics Poland) appoints civil servants responsible for implementation of the Programme, but also as a target for open data policy in institution. Their role is to remain in constant contact with Open data team in MDA and recommends new data sets to be released on the open data portal. They monitor among other:
+- timely publication of public data on portal according to a defined roadmap 
+- quality of data – the Programme sets standards and guidelines of data formats.
+Every year the Implementers of the Programme (supported by Open Data Officers) are obliged to file a report on the implementation process and realized undertakings in the area of open data. On this basis MDA (Programme Coordinator) elaborates final report that is approved by ministerial task force and filed to the Council of Ministers. The final report is open to the public. 
+3. Programme Coordinator – MDA 
+4. Open data team from MDA (Data Management Department)
+Open data team from the MDA constantly offers legal and technical support for Open Data Officers. 
+See: Unit 6.2 in Open Data Programme 2021-2027
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027
+Moreover part of issues concerning significant tasks on open data field civil service was regulated in Open Data Act (see: Chapter 6 - ""Open Data Programme"", chapter 7 - ""Data portal"", Chapter 8 - ""Open Data Officers""). 
+";Confirm;;;;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"1. Regular meetings with Open Data Officers. 
+Network of Open Data Officers functions in all ministries and Statistics Poland. They are among other responsible for publication of new datasets on the portal dane.gov.pl and they supervise data quality and compliance with standards. They prepare annual schedules for opening and sharing selected data sets on the portal and report on the Open Data Programme implementation and other open data activities to the Prime Minister. Open data team from the MDA constantly offers legal and technical support for Open Data Officers (see: Unit 6.2 in Open Data Programme 2021-2027).
+URL: https://m.facebook.com/story.php?story_fbid=pfbid02E3XzCQ2qoEdY7XF1nbEvsWG2MZPjH5Ua6BGUuz5Rmzsk23wPG8ajpfEpGdPsuhM2l&id=107789623943313
+https://m.facebook.com/story.php?story_fbid=pfbid032tMYEAaErDmhxBbLQ1CdaRzcy2FccGpg6AmLt3CGiQMQiaxcNrgmN1Y1aLrZ8BLul&id=107789623943313
+https://dane.gov.pl/pl/article/spotkanie-z-penomocnikami-ds-otwartosci-danych
+https://dane.gov.pl/pl/article/rozmowy-w-ansku-o-perspektywach-otwierania-danych-w-polsce
+https://www.gov.pl/web/cyfryzacja/pelnomocnicy-ds-otwartosci-danych
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027
+2. Open Data Laboratory (open data team in MDA)
+The Laboratory supports data providers and Open Data Officers in the legal, technical and security areas of opening data. Until today open data team developed in Laboratory nine reports with recommendation for stakeholders of open data (e.g. for data providers, administraction, Open Data Officers, users etc.). For example: 
+Report with recommendations on the use of marks in data sets made available at dane.gov.pl.
+URL:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/raporty-laboratorium-otwartych-danych
+3. Conferences.
+a. “The future is data. Przyszłośc to dane” 2020. (first edition) 
+b. „The future is data. Przyszłośc to dane” 2021 (second edition)
+c. „The future is data. Przyszłość to dane” 2023 (third edition) 
+The main aim of the conference was to exchange knowledge and experience on the opportunities and challenges in the field of data opening, to promote their potential and to encourage their use in innovative products and services. The conferences were addressed to representatives of central and local government administration, entrepreneurs, non-governmental organizations as well as Polish and foreign experts. The events was also an opportunity to exchange experience and best practices in increasing the availability and re-use of public data.
+The reports from the events are available on the website: 
+https://dane.gov.pl/pl/promotion/the-future-is-data-przyszosc-to-dane?lang=pl 
+https://dane.gov.pl/pl/promotion/the-future-is-data-przyszosc-to-dane-2021?lang=pl&rev=-1
+https://dane.gov.pl/pl/promotion/the-future-is-data-przyszosc-to-dane-r2023?lang=pl&rev=-1
+4. Handbooks/guides.
+a. Handbook for local governments:
+Expert group (including MDA) and Institute of Urban and Regional Development) developed a handbook ""Data management in cities. Handbook for local governments""
+https://irmir.pl/news/zarzadzanie-danymi-w-miastach-podrecznik-dla-samorzadow/
+b. Handbook of open data. 
+Opening data. Good practice guide (first edition)
+https://dane.gov.pl/knowledgebase/useful-materials/ministerstwo-cyfryzacji-pomaga-urzedom-w-otwierani
+Opening data. Good practice guide (second edition)
+https://dane.gov.pl/pl/knowledgebase/useful-materials/podreczniki-dot-otwartosci-danych
+c. Guide for data providers:
+https://dane.gov.pl/knowledgebase/useful-materials/nowy-przewodnik-dla-dostawcow-danych
+5. Open data standards (legal, security, technical and API)
+a. First version of the Open data standards (2018)
+https://dane.gov.pl/knowledgebase/useful-materials/standardy-otwartosci-danych
+b. Open data standards after evaluation and public consultations (2020)
+https://dane.gov.pl/pl/article/standardy-otwartosci-danych-po-konsultacjach-publicznych
+";Complement;;"1.	Regular meetings with Open Data Officers. 
+Network of Open Data Officers functions in all ministries and Statistics Poland. They are among other responsible for publication of new datasets on the portal dane.gov.pl and they supervise data quality and compliance with standards. They prepare annual schedules for opening and sharing selected data sets on the portal and report on the Open Data Programme implementation and other open data activities to the Prime Minister. Open data team from the MDA constantly offers legal and technical support for Open Data Officers (see: Unit 6.2 in Open Data Programme 2021-2027).
+URL: https://m.facebook.com/story.php?story_fbid=pfbid02E3XzCQ2qoEdY7XF1nbEvsWG2MZPjH5Ua6BGUuz5Rmzsk23wPG8ajpfEpGdPsuhM2l&id=107789623943313
+https://m.facebook.com/story.php?story_fbid=pfbid032tMYEAaErDmhxBbLQ1CdaRzcy2FccGpg6AmLt3CGiQMQiaxcNrgmN1Y1aLrZ8BLul&id=107789623943313
+https://dane.gov.pl/pl/article/spotkanie-z-penomocnikami-ds-otwartosci-danych
+https://www.facebook.com/danegovpl/posts/pfbid0nQrauxLs7Fwgs17kzxu4CuzxvMEoHs7fwLWKG1rKncwawrqNMGapyZ6HxmgvgM7Rl
+https://www.facebook.com/danegovpl/posts/pfbid02KFVtVFPhwpy9yeNWJ4YxsU1R3LpcvfEAS1oFzEyxyZsXFqTZuSeCChpsuDtzuxLVl
+https://www.facebook.com/danegovpl/posts/pfbid0325q3zJaGZxk5X1C3Sa4htgQavJqNZazkGA7VAJhFkMJT9Pe6ka6LskLpha51sMiYl
+https://dane.gov.pl/pl/article/rozmowy-w-ansku-o-perspektywach-otwierania-danych-w-polsce
+https://www.gov.pl/web/cyfryzacja/pelnomocnicy-ds-otwartosci-danych
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027
+2. Open Data Laboratory (open data team in MDA)
+The Laboratory supports data providers and Open Data Officers in the legal, technical and security areas of opening data. Until today open data team developed in Laboratory nine reports with recommendation for stakeholders of open data (e.g. for data providers, administration, Open Data Officers, users etc.). For example: 
+Report with recommendations on the use of marks in data sets made available at dane.gov.pl.
+In addition, the Open Data team also presented a report on the evaluation study (on-going) of the Open Data Programme 2021-2027, whose stakeholders included Open Data Plenipotentiaries.
+URL:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/raporty-laboratorium-otwartych-danych
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027
+3. Conferences.
+a. “The future is data. Przyszłośc to dane” 2020. (first edition) 
+b. „The future is data. Przyszłośc to dane” 2021 (second edition)
+c. „The future is data. Przyszłość to dane” 2023 (third edition) 
+The main aim of the conference was to exchange knowledge and experience on the opportunities and challenges in the field of data opening, to promote their potential and to encourage their use in innovative products and services. The conferences were addressed to representatives of central and local government administration, entrepreneurs, non-governmental organizations as well as Polish and foreign experts. The events was also an opportunity to exchange experience and best practices in increasing the availability and re-use of public data.
+The next conference is scheduled for April 2025, and preparatory work is currently underway.
+The reports from the events are available on the website: 
+https://dane.gov.pl/pl/promotion/the-future-is-data-przyszosc-to-dane?lang=pl 
+https://dane.gov.pl/pl/promotion/the-future-is-data-przyszosc-to-dane-2021?lang=pl&rev=-1
+https://dane.gov.pl/pl/promotion/the-future-is-data-przyszosc-to-dane-r2023?lang=pl&rev=-1
+4. Handbooks/guides.
+a. Handbook for local governments:
+Expert group (including MDA) and Institute of Urban and Regional Development) developed a handbook ""Data management in cities. Handbook for local governments""
+https://irmir.pl/news/zarzadzanie-danymi-w-miastach-podrecznik-dla-samorzadow/
+b. Handbook of open data. 
+Opening data. Good practice guide (first edition)
+https://dane.gov.pl/pl/knowledgebase/useful-materials/podreczniki-dot-otwartosci-danych
+Opening data. Good practice guide (second edition)
+https://dane.gov.pl/pl/knowledgebase/useful-materials/podreczniki-dot-otwartosci-danych
+c. Guide for data providers:
+https://dane.gov.pl/knowledgebase/useful-materials/nowy-przewodnik-dla-dostawcow-danych
+5. Open data standards (legal, security, technical and API)
+a. First version of the Open data standards (2018)
+https://dane.gov.pl/knowledgebase/useful-materials/standardy-otwartosci-danych
+b. Open data standards after evaluation and public consultations (2020)
+https://dane.gov.pl/pl/article/standardy-otwartosci-danych-po-konsultacjach-publicznych";;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"In recent years, there was an Open data working party established by the MDA. Operation the working party was limited during pandemic COVID-19. As a matter of the expansion of the scope of data issues the MDA in September 2022 developed a new working group of strategic directions for data management. Working group activities include areas such as data exchange and management; providing new categories of data; data market research in Poland; data openness and personal data protection. Working group consists of the representatives of NGOs, business and public administration.
+https://www.gov.pl/web/cyfryzacja/grupa-robocza-ds-strategicznych-kierunkow-zarzadzania-danymi
+https://m.facebook.com/story.php?story_fbid=pfbid03CVA9VJFfBabbRL1Wk2i3Lu1RbH1AyUHCNDzAUdtnLLsvhqFW6Hu3bbaSSJy397Wl&id=107789623943313
+Others meetings see q. 5. 
+2. Evaluation of Open Data Standards (public consultations). Suplementing the standards with new issues (e.g. based on experiences) identified by NGOs, businesses, law firms, citizens, self-government administration etc. (significant issues for these entities). 
+a. Report based on the results of public consultations
+https://dane.gov.pl/pl/article/standardy-otwartosci-danych-raport-z-konsultacji-publicznych
+b. Open Data Standards after evaluation
+https://dane.gov.pl/pl/article/standardy-otwartosci-danych-po-konsultacjach-publicznych
+3. Public pre-consultations of new Open Data Programme 2021-2027
+https://www.gov.pl/web/cyfryzacja/program-otwierania-danych-na-lata-2021-2027--ruszaja-prekonsultacje-spoleczne
+4. Public consultation of new Open Data Act
+https://legislacja.rcl.gov.pl/projekt/12337400 
+5. International conference „The Future is Data. Przyszłość to dane” editions 2020, 2021, 2023 (see q. 19)
+https://dane.gov.pl/pl/promotion/the-future-is-data-przyszosc-to-dane?lang=pl 
+https://dane.gov.pl/pl/promotion/the-future-is-data-przyszosc-to-dane-2021?lang=pl&rev=-1
+https://dane.gov.pl/pl/promotion/the-future-is-data-przyszosc-to-dane-r2023?lang=pl&rev=-
+6. Report on a qualitative research of NGOs about the Open Data Act:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/raport-z-badania-wsrod-przedsiebiorcow-na-temat-wielkosci-i-charakterystyki-rynku-ponownego-wykorzystania-danych-publicznych-w-polsce
+7. Webinar for research institutes of the Polish Academy of Sciences:
+https://m.facebook.com/story.php?story_fbid=pfbid0oqXiJ8oLWySCdaNsHPeSU9w1WzU27XJci4z34tyBmt7eT2p4J9XNLNCX2LHbph6al&id=107789623943313
+";Complement;;"In recent years, there was an Open data working party established by the MDA. Operation of the working party was limited during pandemic COVID-19. Due to expansion of the scope of data issues, in September 2022 the MDA set up a new working group for strategic directions for data management. Working group activities included areas such as data exchange and management; providing new categories of data; data market research in Poland; data openness and personal data protection. Working group consisted of the representatives of NGOs, business and public administration.
+https://www.gov.pl/web/cyfryzacja/grupa-robocza-ds-strategicznych-kierunkow-zarzadzania-danymi
+https://m.facebook.com/story.php?story_fbid=pfbid03CVA9VJFfBabbRL1Wk2i3Lu1RbH1AyUHCNDzAUdtnLLsvhqFW6Hu3bbaSSJy397Wl&id=107789623943313
+Others meetings and information about group see q. 4. 
+2. Evaluation of Open Data Standards (public consultations). Suplementing the standards with new issues (e.g. based on experiences) identified by NGOs, businesses, law firms, citizens, self-government administration etc. (significant issues for these entities). 
+a. Report based on the results of public consultations
+https://dane.gov.pl/pl/article/standardy-otwartosci-danych-raport-z-konsultacji-publicznych
+b. Open Data Standards after evaluation
+https://dane.gov.pl/pl/article/standardy-otwartosci-danych-po-konsultacjach-publicznych
+3. Public pre-consultations of new Open Data Programme 2021-2027
+https://www.gov.pl/web/cyfryzacja/program-otwierania-danych-na-lata-2021-2027--ruszaja-prekonsultacje-spoleczne
+4. Public consultation of new Open Data Act
+https://legislacja.rcl.gov.pl/projekt/12337400 
+5. International conference „The Future is Data. Przyszłość to dane” editions 2020, 2021, 2023 (see q. 20 and 29)
+https://dane.gov.pl/pl/promotion/the-future-is-data-przyszosc-to-dane?lang=pl 
+https://dane.gov.pl/pl/promotion/the-future-is-data-przyszosc-to-dane-2021?lang=pl&rev=-1
+https://dane.gov.pl/pl/promotion/the-future-is-data-przyszosc-to-dane-r2023?lang=pl&rev=-
+6. Data reuse market research:
+See the research reports here:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/raport-z-badania-wsrod-przedsiebiorcow-na-temat-wielkosci-i-charakterystyki-rynku-ponownego-wykorzystania-danych-publicznych-w-polsce
+7. As part of the evaluation of the Open Data Act two research studies were conducted:
+- the nationwide quantitative research titled “Open Data Act in the opinion of the public sector” 
+- the expert qualitative research about the Open Data Act in the opinion of the non-governmental sector:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/raport-z-badania-wsrod-przedsiebiorcow-na-temat-wielkosci-i-charakterystyki-rynku-ponownego-wykorzystania-danych-publicznych-w-polsce
+8.Webinar for research institutes of the Polish Academy of Sciences:
+https://m.facebook.com/story.php?story_fbid=pfbid0oqXiJ8oLWySCdaNsHPeSU9w1WzU27XJci4z34tyBmt7eT2p4J9XNLNCX2LHbph6al&id=107789623943313
+9. Meetings with various stakeholders
+For example, participation in a meeting with the municipalities of the Górnośląsko- Zagłębiowska Metropolia (eng. Metropolis GZM): 
+https://www.facebook.com/danegovpl/posts/pfbid0Rj5ErgTusznSPSMBW9wkVbLUi3qM5upBWcduCWwAXQbDkMPygyEp4Z97ZPKH977wl?locale=pl_PL";;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"1.Opening Data Schedules
+Open Data Officers monitor timely publication of public data on portal dane.gov.pl according to a defined roadmap  and quality of data. Schedules are published on dane.gov.pl. 
+https://dane.gov.pl/pl/knowledgebase/useful-materials/harmonogramy-udostepniania-danych
+2. APIs development plan. 
+Open Data Programme 2021-2027 has an APIs development plan - table/schedule with data sets, data providers and deadlines (See: Open Data Program 2021-2027 Appendix No. 1.).
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027 
+";Confirm;;;;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;"MDA coordinates the implementation of the Open Data Program, regularly checks the availability of data reported by the Open Data officers, organizes meetings and prepares annual reports on the implementation of the Programme.
+Open Data Officers monitor timely publication of public data on portal according to a defined roadmap and quality of data. Open Data Programme 2021-2027 has an action plan for its implementation and provides indicators of target measurement (See: q. 5). Moreover every year the Implementers of Open Data Programme 2021-2027 (supported by Open Data Officers) are obliged to file a report on the implementation process and realized undertakings in the area of open data. On this basis MDA (Programme Coordinator) develop annual report. Also MDA develop final report that is approved by ministerial task force and filed to the Council of Ministers. The report is open to the public. Reports and Opening up Data Schedules submitted by Implementers of Programme/Open Data Officers are recognised as monitoring mechanism. Thanks to these documents MDA may track progress of data publications and control potential delays and negligence’s. Also after two and four years after the Open Data Programme 2021-2027 was adopted and in the seventh year of the document implemented, Programme will be review and evaluation.
+Now (as two years have passed since its adoption), the Programme is subject to review and evaluation.
+In addition the working group of strategic directions for data management was set up as part of the Task force for the implementation of the Open Data Programme 2021-2027. One of the objectives of this group is to evaluate the Open Data Programme 2021-2027.
+URL:
+https://www.gov.pl/web/cyfryzacja/grupa-robocza-ds-strategicznych-kierunkow-zarzadzania-danymi
+https://m.facebook.com/story.php?story_fbid=pfbid03CVA9VJFfBabbRL1Wk2i3Lu1RbH1AyUHCNDzAUdtnLLsvhqFW6Hu3bbaSSJy397Wl&id=107789623943313
+Others meeting see q. 5.
+Finally, systematic research activities carried out by the MDA form a part of monitoring mechanism as findings from analysis and reports inform the open data team about implementation process, its progress and effectiveness.
+See for example the report here:https://cms.dane.gov.pl/documents/125/Raport_z_badania_Ustawa_sektor_publiczny.docx";Complement;;"MDA coordinates the implementation of the Open Data Programme, regularly checks the availability of data reported by the Open Data officers, organizes meetings and prepares annual reports on the implementation of the Programme.
+Open Data Officers monitor timely publication of public data on portal according to a defined roadmap and quality of data. Open Data Programme 2021-2027 has an action plan for its implementation and provides indicators of target measurement (See: q. 5). Moreover every year the Implementers of Open Data Programme 2021-2027 (supported by Open Data Officers) are obliged to file a report on the implementation process and realized undertakings in the area of open data. On this basis MDA (Programme Coordinator) develop annual report. Also MDA develop final report that is approved by ministerial task force and filed to the Council of Ministers. The report is open to the public. Reports and Opening up Data Schedules submitted by Implementers of Programme/Open Data Officers are recognised as monitoring mechanism. Thanks to these documents MDA may track progress of data publications and control potential delays and negligence. Also, the Open Data Programme 2021-2027 is subject to ongoing evaluation: the evaluation and the review is planned after two, four and then seven years after its adoption. 
+Currently (as two years have passed since its adoption) the Programme has been reviewed and evaluated.
+In December 2023, an evaluation (on-going) research study about the Programme was conducted among those responsible for the implementation of the Programme and other stakeholders (representatives of local government, private sector, academia, NGOs, individual users). The main purpose of the research was a general evaluation of the Programme and the process of its implementation, as well as identification of areas where certain changes should be made in order to increase the effectiveness of the utility and relevance of programme activities.  
+Report on the evaluation research study on the Data Opening Programme 2021-2027:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027
+In addition, the Task force for the implementation of the Open Data Programme 2021-2027 in 2022-2023 included a working group on strategic directions for data management. One of the goals of this group was to evaluate the Open Data Programme 2021-2027.
+URL:
+https://www.gov.pl/web/cyfryzacja/grupa-robocza-ds-strategicznych-kierunkow-zarzadzania-danymi
+https://m.facebook.com/story.php?story_fbid=pfbid03CVA9VJFfBabbRL1Wk2i3Lu1RbH1AyUHCNDzAUdtnLLsvhqFW6Hu3bbaSSJy397Wl&id=107789623943313
+Others meeting see q. 4.
+Finally, systematic research activities carried out by the MDA form a part of monitoring mechanism as findings from analysis and reports inform the open data team about implementation process, its progress and effectiveness.
+See for example the reports here: here:https://cms.dane.gov.pl/documents/125/Raport_z_badania_Ustawa_sektor_publiczny.docx";;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;"In addition to ongoing monitoring process of the national open data policy, MDA also conducts activities focused on evaluating its individual elements (such as documents, data portal - data.gov.pl). 
+The course of the evaluation process depends on the type of open data policy element under examination. The evaluation includes, for example, research, analysis, public consultations, or commissioned expert reports.
+Examples of such activities: 
+1.	Evaluation research on the Open Data Programme 2021-2027: 
+The Open Data Programme 2021-2027 is subject to ongoing evaluation: the evaluation and the review is planned after two, four and then seven years after its adoption Two years after the adoption of the Programme, an evaluation was carried out evaluated as part of an evaluation research (on-going). The evaluation research consisted of two research studies (an in-depth interview and a questionnaire research) conducted among those responsible for the implementation of the Programme and other stakeholders (representatives of local administration, the private sector, the scientific community, NGOs, individual users). The main objective of the research was an overall evaluation of the Programme and its implementation process, as well as identification of areas that need to be changed in order to increase the effectiveness of the utility and relevance of the Programme's activities.
+Based on the assessments and opinions of the respondents, the Programme, including the direction chosen by MDA regarding the expansion of the data portal (data.gov.pl), was generally positively assessed. The final report included recommendations  regarding in particular conducting an information campaign on new possibilities and benefits of opening data and conducting long-term and cyclical training for employees of public sector bodies, especially at the local level. 
+Moreover, the report indicated the need to implement activities promoting the policy of open access to data aimed at gradually increasing the number of users and resources on the portal dane.gov.pl
+The next edition online workshops on data opening are a response to these recommendations (see q. 3). Another project “Data 3.0 - exchange, value” also aims, among other things, to increase knowledge and skills among officials in preparing data for sharing and using data in work.The actions taken after the evaluation research of the Programme, including their impact on the open data policy, require a longer time perspective.
+
+2. Ex-post evaluation of the Open Data Act
+When designing the Open Data Act, we assumed an ex-post evaluation of this act at least one year after its implementation into the national legal order. 
+As part of the evaluation, the provisions of the Open Data Act were analyzed and two studies were conducted: a study among public sector entities and a study of non-governmental organizations (22 non-governmental organizations were invited to participate). The evaluation results showed that, in general, the Open Data Act functions properly. The main area requiring intervention is primarily the issue of correct of applying the provisions of the Act. Therefore, MDA has undertaken extensive non-legislative activities, in particular information, educational and promotional activities. The implementation of these activities, as well as their impact on open data policy, requires a longer-term perspective. 
+Examples of such activities include online workshops on opening data. 240 employees of local public authorities were trained as part of the training. Due to great interest, another edition of the workshop is planned in 2024. 
+In addition, MDA is working on launching another project: “Data 3.0 – exchange, value”. One of the planned activities is to expand knowledge and skills of administration employees, including at the local level, in the field of preparing data for sharing and using data in official work.
+
+3. Update of the open data standards document 
+The revision of open data standards was preceded by public consultations. As a result of the consultations and evaluation of the existing standards, the need to update the document was diagnosed. The effect was to supplement the standards with new issues (e.g., based on experience) identified by NGOs, entrepreneurs, law firms, citizens, local administration, etc.
+URL:
+Report on the evaluation research of the Data Opening Program 2021-2027:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027
+Report on the ex-post evaluation of the Open Data Act:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/prawo
+Online workshop on opening data:
+https://www.gov.pl/web/cyfryzacja/wez-udzial-w-bezplatnych-warsztatach-o-otwieraniu-danych
+Open Data Standards after evaluation
+https://dane.gov.pl/pl/article/standardy-otwartosci-danych-po-konsultacjach-publicznych
+Public pre-consultations of new Open Data Programme 2021-2027
+https://www.gov.pl/web/cyfryzacja/program-otwierania-danych-na-lata-2021-2027--ruszaja-prekonsultacje-spoleczne";;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;"In accordance with the Open Data Act public sector information might be re-use for any purposes, commercial or uncommercial. Data is released on line free of charge, while data on request is distributed as a principle free of charge or only direct cost  might be calculated (in Polish national law marginal cost was implemented as direct cost). The only exception is for state museums and local government museums. When making available or providing public sector information for re-use with purpose other than non-commercial research, scientific or educational purpose, these entities may charge fees higher than charges established under direct cost (Article 19 Open Data Act). Minister of Culture and National Heritage establish, by way of an ordinance, the maximum charges for re-use imposed by state museums and local government museums. 
+In last year we  explained that possibility charging for data above marginal cost is limited and rarely used. Early on this year MDA developed report and large research/survey on implementation Polish Open Data Act by public sector bodies. Research covered over 2.5 thousand entities (various types: local governments, courts, central administration, central institutions etc.). Surveys were completed by over 1,300 entities. According to the results of the surveys in practice public sector bodies don't charge.
+Report on a qualitative research of public sector about the Open Data Act:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/raport-z-badania-wsrod-przedsiebiorcow-na-temat-wielkosci-i-charakterystyki-rynku-ponownego-wykorzystania-danych-publicznych-w-polsce
+";Complement;;"In accordance with the Open Data Act public sector information might be re-use for any purposes, commercial or uncommercial. Data is released on line free of charge, while data on request is distributed as a principle free of charge or only direct cost  might be calculated (in Polish national law marginal cost was implemented as direct cost). The only exception is for state museums and local government museums. When making available or providing public sector information for re-use with purpose other than non-commercial research, scientific or educational purpose, these entities may charge fees higher than charges established under direct cost (Article 19 Open Data Act). Minister of Culture and National Heritage establish, by way of an ordinance, the maximum charges for re-use imposed by state museums and local government museums. 
+Previously, we indicated that possibility of charging for data above marginal cost is limited and rarely used. In 2023 MDA developed report and large research/survey on implementation Polish Open Data Act by public sector bodies. Research covered over 2.5 thousand entities (various types: local governments, courts, central administration, central institutions etc.). Surveys were completed by over 1,300 entities. According to the results of the surveys in practice public sector bodies don't charge.
+Report on a qualitative research of public sector about the Open Data Act:
+https://dane.gov.pl/pl/knowledgebase/useful-materials/raport-z-badania-wsrod-przedsiebiorcow-na-temat-wielkosci-i-charakterystyki-rynku-ponownego-wykorzystania-danych-publicznych-w-polsce";;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;"1.Increasing availability of specific categories of data on the Dane.gov.pl portal (HVD, dynamic)
+2. Insufficient knowledge and skills of public sector employees from local/peripheral offices in the area of opening and governing data 
+3. Improving quality of data at the highest levels (linked data)
+";Change;N/A;"1 Increase the availability of high-value datasets from Regulation 2023/138 made available through APIs. 
+2. Increase knowledge and skills among public sector employees, especially from local, peripheral offices in opening and managing data.
+3. Insufficient knowledge and skills of public sector employees from local/peripheral offices in the area of opening and governing data
+4. Improving quality of data at the highest levels (linked data) ";;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"1.appointment of Open Data Officers
+2.public data publishing schedules
+3.training courses, conferences, webinars, including dedicated series of workshops for local authorities 
+4. reports prepared by the Open Data Laboratory with expert knowledge on open data related issues addresssed to practicioners in publiv sector bodies
+5. developing the Dane.gov.pl portal and adding new functionalities (for example: DCAT compatibility, notifications for editors about the need to update data)
+6. adresssing these challenges in Open Data Programme 2021-27 - an evaluation will of the programme is planned to analyse the progress made and adjust the programme accordingly
+7. the above is applied to the Open Data Act - an evaluation is on-going to analyse how the legal framwork help to address the challenges";Complement;;"1.cooperation within  Open Data Officers network 
+2.public data publishing schedules
+3.training courses, conferences, webinars, including dedicated series of workshops for local authorities 
+4. reports prepared by the Open Data Laboratory with expert knowledge on open data related issues addresssed to practicioners in publiv sector bodies
+(e.g. Report with recommendations on the use of contract marks in datasets made available on data.gov.pl)
+5. developing the Dane.gov.pl portal and adding new functionalities (for example: DCAT compatibility, notifications for editors about the need to update data)
+6. Open Data Programme 2021-2027
+7. ex-post evaluation of the Open Data Act
+4. another project Data 3.0 - exchange, value (including opening new databases through API)
+5. monitoring of obligated entities (disposers) to share high-value datasets as stipulated in Regulation 2023/138";;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;"There are a number of activities to help data holders publish their data as open data. 
+1.The new Open Data Act, which implements Directive 2019/1024 and introduces the foundations for opening and re-use data. The Act includes a definition of open data and the principle of openness (Article 2.11 and Article 10.1). 
+URL: https://dziennikustaw.gov.pl/DU/2021/1641
+2.Implementation of the new national Open Data Programme 2021-2027, which complements the Open Data Act and concentrates more on practical and technical mechanisms for data opening at the government level. Its main goal is, among others, to improve the quality and increase the amount of public data made available in an open manner (see q. 1). The programme is addressed to the government administration, but can also be implemented by other entities, such as public bodies at the local level (cities/municipalities and regions) or the private sector.  
+URL: https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027        
+3.Projects, in particular, on data opening to support national Open Data Programmes (see q. 1). This includes the Data 3.0 - exchange, value project currently being prepared for start-up, which is a continuation and development of previous projects: “Open Data Access, Standard, Education” and “Open Data Plus”. The main goals of these projects are to provide open data in the manner that facilitates re-use of PSI; API development; open data portal development (dane.gov.pl); the functioning of the Open Data Laboratory (support for data providers in the legal, technical and security areas of opening data); education; promotion of open data in Poland.
+URL:https://www.gov.pl/web/cyfryzacja/otwarte-dane-dostep-standard-edukacja2
+https://www.gov.pl/web/cyfryzacja/otwarte-dane-plus
+https://www.rozwojcyfrowy.gov.pl/strony/dowiedz-sie-wiecej-o-programie/o-programie/
+4.Open data standards (legal, security, technical and API)(see q. 1 and 8)
+The Legal Standard (“openness template”) plays a special role.  Open Data Programme 2021-2027 and the Legal Standard introduced the Pillars of Openness (see pp. 58-59 of Open Data Program 2021-2027). Meeting these guidelines on public data sharing should mean giving data the attribute of openness. As an appendix to the Legal Standard, the Check list is also provided (data providers can check whether their data is open and in line with the Pillars of Openness).
+URL: https://dane.gov.pl/pl/knowledgebase/useful-materials/standardy-otwartosci-danych
+5.Open Data Officers Network (see q. 19-20)
+Network of Open Data Officers functions in all ministries and Statistics Poland. Open Data Officers are public officials designated in their respective entities who are responsible for the implementation of open data policy. They are among other responsible for publication of new datasets on the portal dane.gov.pl and they supervise data quality and compliance with standards. They prepare annual schedules for opening and sharing selected data sets on the portal and they report on the Open Data Programme implementation and other open data activities to the Prime Minister. Open data team from the MDA constantly offers legal and technical support for Open Data Officers (see: Unit 6.2 in Open Data Programme 2021-2027).
+URL: https://www.gov.pl/web/cyfryzacja/pelnomocnicy-ds-otwartosci-danych
+6.reports prepared by the Open Data Laboratory with expert knowledge on open data related issues addressed to practitioners in public sector bodies (e.g. Report with recommendations on the use of contract marks in datasets made available on data.gov.pl)
+URL: https://dane.gov.pl/pl/knowledgebase/useful-materials/raporty-laboratorium-otwartych-danych
+7.  developing the dane.gov.pl portal and adding new functionalities (for example: DCAT compatibility, notifications for editors about the need to update data; see q. 7)
+8. Regular exchange of knowledge or experience between MDA, and data holders, including Open Data Officers (see q. 20). For example: regular meetings with Open Data Officers (see q. 20). 
+9. Regular exchange of knowledge or experience between public sector bodies (i.e. providers) and users of open data (e.g., academia, citizens, businesses) (see q. 21). For example: a meeting with the municipalities of the Metropolis GZM (see q. 21)
+URL:https://www.facebook.com/danegovpl/posts/pfbid0Rj5ErgTusznSPSMBW9wkVbLUi3qM5upBWcduCWwAXQbDkMPygyEp4Z97ZPKH977wl?locale=pl_PL
+10. Training courses, conferences, webinars, including dedicated series of workshops for local authorities (see q. 28-29). For example: in 2023 MDA again held a 2-day online workshop on data opening for representatives of local government units, during which 240 participants were trained. Due to the great interest, another edition of the workshop is planned in 2024. In addition, MDA is working on launching another project: Data 3.0 – exchange, value. One of the planned activities is to expand knowledge and skills of administration employees, including at the local level, in the field of preparing data for sharing and using data in official work. 
+URL: https://www.gov.pl/web/cyfryzacja/wez-udzial-w-bezplatnych-warsztatach-o-otwieraniu-danych
+11. Second edition of MDA's open data handbook (see q. 8)
+The updated handbook is intended to provide more assistance in building a culture of data re-use among officials. . The handbook is the answer to the information and educational needs of the many offices that MDA has worked with for the last 5 years. This edition introduces new categories of data, describes? the use of regulations in development of open data policies, and proposes? ready-made solutions for data sharing, such as the data.gov.pl and kronika.gov.pl services. 
+URL: https://dane.gov.pl/pl/knowledgebase/useful-materials/podreczniki-dot-otwartosci-danych
+";;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;"Open data plus project provided Open Data Academy - series of 8 free three-month courses for employees of ministries and entities subordinate or supervised (e.g. central offices, but also scientific and research institutions). Academy is central training hub in the area of open data. Open Data Academy ended in 2021 with altogether 159 participants. The Open Data Academy was evaluated positively and is scheduled to be continued. In 2022, 4 pilot online 2-day workshops  (launched on 26th September) on opening data for representatives of local self- government units were organised by the MDA with 79 participants. 
+URL: 
+https://dane.gov.pl/pl/article/rusza-akademia-otwartych-danych
+https://dane.gov.pl/pl/article/otwieramy-akademie-otwartych-danych
+https://m.facebook.com/story.php?story_fbid=pfbid0TjPJ9HNyE41PFmp3Mss84Ud5CqgneHGvWGLtVQEjgZ143Rg9ZsrewdYP6JvttsCyl&id=107789623943313
+https://www.facebook.com/danegovpl/?locale=pl_PL";Complement;;"Yes. Open data plus project provided Open Data Academy - series of 8 free three-month courses for employees of ministries and entities subordinate or supervised (e.g. central offices, but also scientific and research institutions). Academy is central training hub in the area of open data. Open Data Academy ended in 2021 with altogether 159 participants. The Open Data Academy was evaluated positively and is scheduled to be continued. In 2022, 4 pilot online 2-day workshops  (launched on 26th September) on opening data for representatives of local self- government units were organised by the MDA with 79 participants. 
+In 2023 MDA again held a 2-day online workshop on opening data for representatives of local government units, during which 240 participants were trained. Due to great interest, another edition of the workshop is planned in 2024. 
+In addition, MDA is working on launching another project: Data 3.0 – exchange, value. One of the planned activities is to expand knowledge and skills of administration employees, including at the local level, in the field of preparing data for sharing and using data in official work.
+URL: 
+https://dane.gov.pl/pl/article/rusza-akademia-otwartych-danych
+https://dane.gov.pl/pl/article/otwieramy-akademie-otwartych-danych
+https://m.facebook.com/story.php?story_fbid=pfbid0TjPJ9HNyE41PFmp3Mss84Ud5CqgneHGvWGLtVQEjgZ143Rg9ZsrewdYP6JvttsCyl&id=107789623943313
+https://www.facebook.com/danegovpl/?locale=pl_PL
+https://www.gov.pl/web/cyfryzacja/wez-udzial-w-bezplatnych-warsztatach-o-otwieraniu-danych";;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, >9;"1)Hackyeah hackathon 19-20.11.2022; https://2022.hackyeah.pl/
+2)3rd CASSINI Hackathon The aim of  the event was to develop intelligent solutions to support the sustainable tourism and to promote thoughtful and responsible exploration of European nature resources. Participants had access to: European space data, Copernicus satellite data (Earth Observation data), Galileo and EGNOS positioning and navigation services. 12-14.05.2022 https://www.kpt.krakow.pl/startupy/cassini-hackathon/
+3)  Hackathon City Coders https://hackathon.plock.eu/ 24-25.09.2022; Open databases made available by the City of Płock to create an applications that would increase the quality of life of residents and improve their communication with the Office.
+4) A conference Open data and reuse of public sector information. 8.12.2022; https://www.uni.lodz.pl/wydarzenia/szczegoly/otwarte-dane-i-ponowne-wykorzystywanie-informacji-sektora-publicznego
+5) Second meeting of the Working Group on strategic data management directions . The main topic of the meeting was a presentation of the report: “Unleashing the potential of data. Managing Data as a Shared Resource” 04.11.2022; https://www.facebook.com/danegovpl/?locale=pl_PL
+6) The first meeting of Data management and exchange subgroup within the Working group on strategic data management directions. Polish Economic Institute presented the results of the study: ""Do we want to share private data?"" 21.10.2022 https://pie.net.pl/tylko-co-trzeci-polak-udostepnilby.../  ; https://www.facebook.com/danegovpl/?locale=pl_PL
+7) A panel discussion “Data-driven economy: what are the benefits for consumers and socio-economic development?” during IGF Poland. 20.10.2022; https://www.facebook.com/danegovpl/?locale=pl_PL
+8) A panel discussion “Limited access to data - Data Act, difficult identification and selection of parts"" at  the 17th Congress of Automotive Industry and Market. 12.10.2022; https://www.facebook.com/danegovpl/?locale=pl_PL
+9) A panel discussion “Urban big data - information management in local government” at the 20th Local Government Capital and Finance Forum. 12.10.2022; https://www.samorzadoweforum.pl/program/miejskie-big-data-zarzadzanie-informacjami-w-samorzadzie/
+10) The Future is Data/ Przyszłość to dane was a conference organized online by the MDA - the third edition. The aim of the conference was to exchange knowledge and experience on current, most important data-related issues taking into consideration their European dimension as well. It gathered experts and practitioners including data management and cyber security specialists. The conference promoted the potential of data encouraged its reuse in innovative products and services. It was addressed to representatives of central and local government, entrepreneurs, non-governmental organizations as well as Polish and foreign data practitioners. 18.04.2023; https://dane.gov.pl/pl/promotion/the-future-is-data-przyszosc-to-dane-r2023?lang=en
+11) VI Open Science Conference https://pg.edu.pl/wydarzenia/12572-vi-pomorska-konferencja-open-science 1-2.12.2022;
+The nationwide scientific conference intended to summarize the current activities in the field of creating policies and tools supporting the opening of research results, including research data, and to discuss the directions of development of this type of services.";Complement;Yes, >9;"1)7-9.06.2024 Hackathon „Hack4change”
+The goal of the event was to develop the prototypes of environmentally friendly devices and applications based on environmental data, among other things.
+URL: https://hack4change.tech/#forWho
+2)29.02.2024 Konferencja ""Dostęp do informacji publicznej i otwarte dane. Perspektywy i wyzwania 
+A national scientific conference (online) to exchange knowledge and experience on current and key issues related to access to public information and data opening.
+URL: https://www.uni.lodz.pl/wydarzenia/szczegoly/dostep-do-informacji-publicznej-i-otwarte-dane-perspektywy-i-wyzwania
+3) 17-19.11.2023 Hackathon #Supervision_Hack 2023 
+This was the third edition of the hackathon organized by the Polish Financial Supervision Authority, which aimed to create informative solutions based on financial data to support financial market supervision.
+URL: https://supervisionhack.pl/
+4) 09.11. -12.12.2023 Data for City - Hackathon Otwartych Danych w Dzielnicy Ursynów
+The idea of the event was to open the databases controlled by the Ursynów District in Warsaw in order to create applications that improve the quality of life of residents and improve their services of  the Office.
+URL: https://www.dataforcity.pl/
+5)21-22.10.2023 Hackathon mObywatel mHack 
+The challenge for the participants was to develop, based on open public data (e.g. from the data.gov.pl portal), tools to improve the government application mCitizen 2.0 intended for citizens.
+URL: https://mhack.pl/
+6)10.10.2023 Konferencja Dane podstawą funkcjonowania i rozwoju rynku finansowego
+A national conference to discuss the role of data in financial market development.
+URL: https://cad.knf.gov.pl/#sp-position4
+7)7-8.10.2023 Hackathon NASA Space Apps Challenge Rzeszów
+The goal of the event was to develop smart solutions to challenges prepared by NASA based on NASA's open source data.
+URL: https://hackathon.pcinn.space/
+8)04.10.2023 Szczyt Cyfrowy IGF Polska 2023, 
+URL: https://www.gov.pl/web/igf-polska/igf-polska-2023
+https://youtube.com/live/khdMeJwEKHE?feature=share
+9)30.09.- 01.10.2023 Hackathon HackYeah 2023
+Annual major hackathon (one of the largest in Europe) edition 2023: https://www.tauronarenakrakow.pl/event/hackyeah-hackathon-2023/
+edition 2024: https://hackyeah.pl
+11) 02.10.2023 spotkanie z gminami Górnośląsko-Zagłębiowska Metropolia (eng. Metropolis GZM)
+The topic for discussion was the project Open data of the GZM as a base for the implementation of public services addressed to residents and investors in the Metropolis GZM. During the meeting, they talked about the importance of opening data for the development of local governments and improving the quality of life of residents.
+URL:https://www.facebook.com/danegovpl/posts/pfbid0Rj5ErgTusznSPSMBW9wkVbLUi3qM5upBWcduCWwAXQbDkMPygyEp4Z97ZPKH977wl
+12)21-22.09.2023 XXIX Forum Teleinformatyki w Miedzeszynie
+One of the Forum's topics during the panel discussion “Public statistics - role and importance in the state information system” was the use of public data.
+URL: https://piit.org.pl/wydarzenia/xxix-forum-teleinformatyki-system-informacyjny-panstwa-dylematy-rozwoju
+13)13-14.06.2023 Forum Danych Miejskich  
+National conference on problems and challenges of data use in local government .
+URL: https://danemiejskie.pl/forum-danych-miejskich/
+14) The Future is Data/ Przyszłość to dane was a conference organized online by the MDA - the third edition. The aim of the conference was to exchange knowledge and experience on current, most important data-related issues taking into consideration their European dimension as well. It gathered experts and practitioners including data management and cyber security specialists. The conference promoted the potential of data and encouraged their reuse in innovative products and services. It was addressed to representatives of central and local government, entrepreneurs, non-governmental organizations as well as Polish and foreign data practitioners. 18.04.2023; https://dane.gov.pl/pl/promotion/the-future-is-data-przyszosc-to-dane-r2023?lang=en
+15) 7-8.10.2023 City Coders Hackathons in Plock (https://hackathon.plock.eu/) - city open data was used to develope solutions for defined problems. 2023 motto of the event was ""Smart city - better life""";;;;;;

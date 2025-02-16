@@ -1,0 +1,190 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"o Basis: Federal Act on the Re-Use of Public Sector Information 2022 (Informationsweiterverwendungsgesetz – IWG 2022). https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011973
+o Responsible authority for the implementation of the Open Data Directive 2019/1024 & IWG: Federal Ministry of Labour and Economy (BMAW) (https://www.bmaw.gv.at/Themen/Europa/Wettbewerbspolitik/Open-Data.html)
+o Responsible authority for the national data portal: Federal Ministry of Finance (BMF)
+o Austrian Digital Action Plan (https://www.digitalaustria.gv.at/Strategien/Digitaler-Aktionsplan.html) of the Federal Ministry of Finance (BMF)
+o The Cooperation Open Government Data (OGD) Austria perpetuates open data governance at all levels (federal-regional-local) within the Austrian public sector
+(https://www.data.gv.at/infos/cooperation-ogd-austria/)";Complement;Yes;"o Basis: Federal Act on the Re-Use of Public Sector Information 2022 (Informationsweiterverwendungsgesetz – IWG 2022). https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011973
+o Responsible authority for the implementation of the Open Data Directive 2019/1024 & IWG 2022: Federal Ministry of Labour and Economy (BMAW) (possible change after the federal elections in 2024)
+o Responsible authority for the national data portal: Federal Chancellery of Austria (BKA)
+o Austrian Digital Action Plan (https://www.digitalaustria.gv.at/Strategien/Digitaler-Aktionsplan.html) of the Federal Chancellery of Austria (BKA)
+o The Cooperation Open Government Data (OGD) Austria perpetuates open data governance at all levels (federal-regional-local) within the Austrian public sector
+(https://www.data.gv.at/infos/cooperation-ogd-austria/)";;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"o The Austrian open data policy “Framework for Open Government Data platforms” initated by the Cooperation OGD Austria sets out a framework consisting of legal, technical and organizational requirements to be adhered to when providing public, non-personalized data. Proper alignment with these key elements should foster a smooth transition from traditional government structures to a government 2.0, where transparency, participation and collaboration are of paramount priority.
+URL: https://go.gv.at/ogdframeen 
+o The Chief Digital Officers have adopted a white paper on introducing a national open data strategy.
+o The Austrian Digital Action Plan (2020) contains a dedicated action plan on data, including open data (https://www.digitalaustria.gv.at/digitalisierungsbericht.html) ";Confirm;;;;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;"The State/City of Vienna pursues a ""Data Excellence strategy"" with the leading principle ""open by default"" for open data 
+(https://go.gv.at/l9dxstrategie) ";Complement;;"The State/City of Vienna pursues a ""Data Excellence strategy"" with the leading principle ""open by default"" for open data 
+(https://go.gv.at/l9dxstrategie). The Open Data Strategy of the City of Vienna has been evaluated in 2024 (https://www.data.gv.at/2024/05/06/evaluation-der-open-data-strategie-der-stadt-wien)";;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;The Austrian Digital Action Plan on Data contains a leading theme on data. The aim is to position Austria as digital innovation location. Data solidarity should be achieved through sharing data. Main measures are e.g.: Increased social and economic added value through better use of data, better data literacy through education and training, Austria as an attractive data location for science and the economy, ensuring transparency and the traceable use of data. The Action Plan also envisages the establishment of a national data hub.;Confirm;;;;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;The Framework for Open Government Data platforms determines that data available in real time needs to be retrievable through an application programming interface (API). The published records should be available to the public within an adequate period in a timely manner. They have to be published as soon as they are collected and compiled. National efforts on implementing EU high value datasets and national core datasets should give a significant impetus on the availability of dynamic data.;Confirm;;;;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;Through opendataportal.at the provision of citizen-generated data is encouraged. The Open Science Policy Austria adopted in 2022 is geared towards enhancing the contribution of citizen science and citizen-generated data.;Confirm;;;;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";yes;According to the national policy and the Austrian Federal Law on the Re-Usability of Information (Informationsweiterverwendungsgesetz), metadata to Austrian open government data has to be linked with data.gv.at. This ensures the basic discoverability of the entirety of Austrian open government data across all levels of government. Furthermore, data.gv.at is interconnected with data.europa.eu to allow for a pan-European searchability of open government data. ;Confirm;;;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;The Digital Action Plan defines the goal of a data-oriented, data-driven administration and the vision of a data ecosystem. Support and the exchange of best practices is established via the Cooperation OGD Austria. The Federal Ministry of  Labour and Economy and the Federal Ministry of Finance continuously encourage and inform public sector bodies to increase the re-use of open data. ;Complement;Yes;The Digital Action Plan defines the goal of a data-oriented, data-driven administration and the vision of a data ecosystem. Support and the exchange of best practices is established via the Cooperation OGD Austria. The Federal Ministry of  Labour and Economy and the Federal Chancellery continuously encourage and inform public sector bodies to increase the re-use of open data. ;;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"The Digital Action Plan on Data is aimed at measures to increasing the re-use of data by the private sector. for example:
+- Data Hub
+- Data Partnerships
+- Funding Programs for SMEs regarding data usage and data literacy";Confirm;;;;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;The Austrian “Framework for Open Government Data Platforms” determines the obligation for publishing open government data via the data.gv.at portal. This includes all levels of government (from the federal to the local level).;Confirm;;;;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;In general, closed data is not being published via data.gv.at. However, the possibility to provide asset lists (of data that falls e.g. under the scope of the Data Governance Act) via data.gv.at is given. Effectively, this depends on the willingness of the data holders to provide this information. Data screening and monitoring by public sector bodies is encouraged, but it is not an obligation.;Confirm;;;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;The relevant data holders have been informed. The implementation process has been ongoing since the announcement and adoption of the delegated regulation. Where applicable, necessary budgetary and structural adaptations are ongoing due to lost income.;;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;4;4;4;4;4;4;4;;;;
+P11-b;Earth observation and environment;4;4;4;4;4;4;4;;;;
+P11-c;Meteorological;4;4;4;4;4;4;4;;;;
+P11-d;Statistics;4;4;4;4;4;4;4;;;;
+P11-e;Companies and company ownership;4;4;4;4;4;4;4;;;;
+P11-f;Mobility;4;4;4;4;4;4;4;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;Yes. High value datasets have been tagged accordingly. The list entails 186 datasets (and more). You can follow the current implementation status here (https://www.data.gv.at/suche/?documentFilter%5B0%5D=HighValueDataset). A particular challenge for Austria is the federal structure and informing various bodies across several layers of administration.;;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"o The Cooperation OGD Austria represents the essential governance structure in Austria, including the federal level, states, cities and municipalities. 
+o The open data portal data.gv.at is a cooperation project of the Federal Chancellery of Austria (BKA) and the nine federal states with a steering committee and an expert group (cooperation agreement: https://www.data.gv.at/wp-content/uploads/2021/09/data.gv_.at_Kooperationsvereinbarung.pdf)
+o The Federal Ministry of Labour and Economy is responsible for the implementation of the Federal Law on the Re-Use of Information (IWG), including the Implementing Regulation (EU) 2023/138 on high value datasets.";;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;"o We follow a hybrid approach, combining top-down management with bottom-up initiatives of the community.
+o Top-down steering from the federal level or the Cooperation OGD safeguards coordinated developments.
+o Bottom-up participation amplifies activities from various actors and provides new impetus.";Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;Austria has a federal system. Thus, the coordination or support of open data initiatives greatly relies upon the activities of the various Länder or municipalities. The Cooperation Open Government Data Austria, however, has been established to allow for cooperation between the federal level, the Länder, regions, cities and municipalities. There are regular meetings of the Cooperation for, among others, raising awareness on certain initiatives, presenting or discussing best practices. In general, initiatives rely upon voluntary actions of the participants (generally there is no top-down support for actions).;;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";the majority of public bodies;All metadata of regional / local public bodies are published on data.gv.at > more than 1,400 organizations;Confirm;;;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";yes;cooperation agreement for data.gv.at: https://www.data.gv.at/wp-content/uploads/2021/09/data.gv_.at_Kooperationsvereinbarung.pdf ;Confirm;;;;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"The Cooperation OGD meets twice a year and discusses strategic and policy issues of OGD in Austria
+
+The Fachgruppe data.gv.at (experts group) holds quarterly meetings. This group includes members from municipal, regional and national level who discuss the further development of the national open data portal.";Confirm;;;;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;The Task Force on PSI and Open Data and Cooperation OGD Austria encourage public sector bodies to implement the concept of data officers. Effectively, this depends on the willingness of public sector bodies.;Confirm;;;;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;The Cooperation OGD meets twice a year and discusses strategic and policy issues of OGD in Austria. Participants belong to local, regional and federal organisations, universities, research centres, geo and meteorological organisations, federal computing center and open data associations;Confirm;;;;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Examples: There are regular Meet-Ups, conferences, or other events organised by the Federal Ministry of Finance (BMF), the Federal Ministry of Federal Ministry of Labour and Economy (BMAW), the City of Vienna, the City of Salzburg, the Austrian Umbrella Organization for Geographic Information (AGEO), Austrian Digital Value (ADV), etc.;Complement;Yes;"Examples: There are regular Meet-Ups, conferences, or other events organised by the Federal Chancellery (BKA), the City of Vienna, the City of Salzburg, the Austrian Umbrella Organization for Geographic Information (AGEO), Austrian Digital Value (ADV), etc.
+Weblinks: 
+o City of Vienna Meetups: https://digitales.wien.gv.at/tag/meetup/
+o ADV e-Government Konferenz 2024: https://www.adv.at/events/e-government-konferenz-2024/
+o Open Data Days Vienna 2024: https://www.data.gv.at/2024/03/13/das-waren-die-open-data-days-vienna-2024/
+o GovCamp Vienna 2024: https://barcamps.eu/govcamp-vienna-2024/";;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"o The City of Vienna has an offical publication plan. Open government data is published quarterly and presented at OGD meet-up events (https://digitales.wien.gv.at/wp-content/uploads/sites/47/2023/04/50-Programm-Open-Data-MeetUp-Wien.pdf)
+o The Federal Act on the Re-Use of Public Sector Information stipulates that each public sector body or public undertaking at federal level needs to nominate an Open Data Coordinator. The coordinators have to implement screenings or publication plans.
+o At federal level a screening of data has been performed in 2017 (OGD-Screening im Bund), checking existing government data regarding its suitability for open government data. As a whole, more than 700 datasets have been identified, many of them having been published soon thereafter. (https://www.data.gv.at/2017/11/03/open-government-data-screening-im-bund-bericht-zu-potentiell-ogd-faehigen-datensaetzen-publiziert/)";Confirm;;;;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;o Open Data Coordinators are overseeing open data policies and strategies within their remit. The Chief Digital Officers (CDO) of the minstries hold regular meetings in the formation of a dedicated open government data working group.;Complement;Yes;o Open Data Coordinators are overseeing open data policies and strategies within their remit. The Chief Digital Officers (CDO) of the ministries hold regular meetings in the formation of a data working group.;;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;Upon initiative of the State Secretary for Digitalisation in 2023, the decision has been made to elaborate a first national data strategy for Austria. From 2023 until 2024 expert interviews, and discussions with relevant stakeholders and institutions have been performed. The elaboration process also included accompanying research. The draft of the strategy was circulated among ministries for feedback. In May 2024, a public consultation was performed on the draft of the strategy allowing for public feedback. In the aftermath, the data strategy has been finalised according to the feedback provided. The data strategy should be published in 2024 as an adaptive strategy with the possibility of amending it whenever necessary. The data strategy will contain about 45 measures to be addressed. A key element will be the establishment of regular discussion fora on measures of the strategy and further necessary improvements (e.g. an administrative forum and a public forum for stakeholders).;;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;The Federal Act on the Re-Use of Public Sector Information stipulates that charging needs to be made transparent. General information by the Federal Ministry of Labour and Economy and the States demand notifying public sector bodies that need to generate income or claim to fall under an exception to the ministry and states.;Confirm;;;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;"o Federal structure of Austria and different speeds of implementation
+o Curation of data
+o Incentivising different players to provide more open data";Confirm;N/A;;;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"o Cooperation OGD Austria as a forum for dialogue across different levels of government (federal provinces, cities, regions and municipalities)
+o Assistance offered by the data.gv.at team
+o Ongoing efforts by open data officers, the Cooperation OGD Austria, the data.gv.at team to encourage the opening-up of data";Confirm;;;;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;Yes. Assistance is provided by the data.gv.at team and (open) data coordinators. Example: A member of the data.gv.at team actively approaches a public sector body concerning the possible opening-up of data. During this process, general first guidannce is offered by the data.gv.at team member, e.g. by referring to beginners guides or through individual assistance (scope of the relevant publication, data formats, metadata, API standards, etc.).;;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;"o School of Data of the Administrative Academy of the Federal Government (Verwaltungsakademie des Bundes):
+https://www.vab.gv.at/vab/bildungsprogramm/public-management-und-governance.html
+Link to the curriculum: https://www.vab.gv.at/vab_dokumente/2023/OT-PM_217.pdf?91ojdn
+o The ""KDZ - Zentrum für Verwaltungsforschung"" offers open data trainings for civil servants all across Austria, in particular for regional and local civil servants. (https://www.kdz.eu/de/seminare/21938o1ew23)";Confirm;;;;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, 3-5;"o Open Data MeetUp Wien, 30.3.2023
+o Open Data Days Vienna 2023, 2./3.3.2023
+o Kulturhackathon 2023, 1.-3.6.2023
+o KDZ-Seminar Open Data Basics 24.5.2023
+";Complement;Yes, 3-5;"o Seminar Federal Academy of Public Administration: Open Data und Informationsweiterverwendung, 17.10.2023 (https://www.vab.gv.at/bildungsprogramm/fachbereiche/public-management-und-governance/digital-government/kurs.html?vid=19338&tid=98504)
+o Open Data MeetUp Wien, 21.3.2024 (https://digitales.wien.gv.at/open-data-meetup-wien-wein/)
+o Open Data Days Vienna 2023, 6.3.2024 (https://www.data.gv.at/2024/03/13/das-waren-die-open-data-days-vienna-2024/)
+o Kulturhackathon 2023 (#GLAMhack23), 1.-3.6.2023 (https://www.data.gv.at/2023/02/28/kunst-und-kultur-neu-denken-der-kulturhackathon-2023-laedt-ein-glamhack23/)";;;;;;

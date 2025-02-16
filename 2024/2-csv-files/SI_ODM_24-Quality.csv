@@ -1,0 +1,122 @@
+;Dimension 3: Open Data Quality;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;3.1 Currency and completeness;;;;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;"The approach is actually well defined in the Governmental decision on Editorial Policy which obliges all ministries and public bodies (sectoral editors) to publish and maintain data. The data or datasets to be published must first be approved by the Sectoral Editor and after that also by the Chief Editor. The task of the editors is also to maintain data, that is make sure that they are up to date
+Gov. decision n.b.38200-17/2013/3  (http://vrs-3.vlada.si/MANDAT13/vladnagradiva.nsf/71d4985ffda5de89c12572c3003716c4/384a4d9329d25d8fc1257c4400332ab0?OpenDocument)
+
+In addition, the Manual on Open Data enlists as one of the main principles, the principle that the data provided must be up to date; see:  the principle No. 3: »Ažurnost« (https://podatki.gov.si/posredovanje-podatkov/principi-odprtih-podatkov)";Confirm;;
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;90-99%;Sources prepare three csv files (New, Update, Delete) with new metadata which we then modify.
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;We run the scripts every night, between one and three AM.
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;"In cases where there is a time series of datasets, data owners are also obliged to publish time series from the date of creation.
+We offer help with publishing, either manually or via APIs."
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"Yes, we are ensuring the interoperability of high-value datasets with other countries. To enable this, we are fully implemented INSPIRE directive, which have a common data model and it is enablig users to use datasets from different countries in interoperable way. Also we enabling meteorogical dataset to be used in another country. Also is possible for the statistical data and datasets from bussines registry.
+Also environmental data which we report to European bodies, have data model, which enable to user can use this data in interoperable way.
+We also harmonize the metadata from the national Geoportal with national Open Data Portal. In the metadata profile we also use international standards (DAT-AP, ISO, ...)."
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;All HVDs data have a legal basis in other EU rules, which also ensure adequate interoperability. And this measures are enough to ensure interoperability with other countries.
+;3.2 Monitoring and measures;;;;;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"Please change the answer to:
+Each metadata description of dataset is subject to editorial review. With this we managing the quality of metadata. Also we have set of 18 atributes which are mandatory to be filled up. The following procedure in describet in the internal document, which we can send it to you. Also every metadata also have star rating for openess based on Tim Berner's Lee openess. 
+ 
+Editorial review procedure: 
+When the content editor has submitted the collection for publication, the editor-in-chief receives a notification that the draft description is in confirmation. 
+The editor-in-chief has the option to approve or reject the collection. If he approves the collection, the collection is accessible public, the content editor receives a notification that the collection has been approved and published. In case of refusal, he must the editor-in-chief to write the reason why the collection is rejected. In this case, the content editor receives a notification, that the publication is rejected and must be corrected in accordance with the instructions, or to complete and after completion resend to editing for approval. ";Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;"Please change the answer to:
+We have an internal dashboard, that shows the compliance with DCAT-AP. We publish this data periodicaly for the public. 
+DCAT-AP | OPSI - Odprti podatki Slovenije (gov.si): https://podatki.gov.si/content/dcat-ap";Confirm;;
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;"There are two chapters in the Open Data Publication Manual that help editors to produce high-quality metadata descriptions.
+
+1. Metadata 
+- Human and machine reading of metadata 
+- Descriptive, locational, structural and administrative metadata 
+- Metadata principles 
+- Open standards for metadata 
+- List of mandatory metadata under the Access to Public Information Act 
+2. Establishment and maintenance of data and metadata 
+- Data and metadata lifecycle"
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;The Regulation on the provision and re-use of public information sets out the attributes that data providers must fulfil (url: https://pisrs.si/pregledPredpisa?id=URED6941). Before public release, these descriptions are reviewed by the Editor-in-Chief, who will approve or reject the publication of the metadata description of the dataset if it does not meet the required standards.
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;We are using CC BY by default and there is no need to have any other licence.
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;1-4;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;"Each metadata description of dataset is subject to editorial review. With this we managing the quality of metadata. Also we have set of 18 atributes which are mandatory to be filled up. 
+
+Editorial review procedure: 
+When the content editor has submitted the collection for publication, the editor-in-chief receives a notification that the draft description is in confirmation. 
+The editor-in-chief has the option to approve or reject the dataset. If he approves the dataset, the dataset is accessible public, the content editor receives a notification that the datasez has been approved and published. In case of refusal, he must the editor-in-chief to write the reason why the dataset is rejected. In this case, the content editor receives a notification, that the publication is rejected and must be corrected in accordance with the instructions, or to complete and after completion resend to editing for approval.  
+
+We always provide assistance to all the editors if they need help bettering their metadata or the data itself e.g. converting xls to open formats.
+"
+;3.3 DCAT-AP Compliance;;;;;
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;Link: https://podatki.gov.si/content/profil-aplikacije-dcat-ap-povezave-do-dodatnih-gradiv
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);>90%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";no ;;Confirm;;
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;No;"Since we have more than 90% we do not see the significance after detailed research. Each published collection is DCAT-AP compliance. We have a dashboard in which we see the % of complience, the dashboard is visible only for general editors. 
+We didn’t investigate because the compliance is high. "
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;71-90%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;71-90%;N/A;Confirm;;N/A
+;3.4 Deployment quality and linked data;;;;;
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;We are using 5-star open data model rating system.;Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;The publishers learn about 5-star open data at the courses at the Administrative Academy. A whole chapter/segment is dedicated to 5-star open data.;Confirm;;
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;71-90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;71-90%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;<10%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;>90%;N/A;Confirm;;N/A

@@ -1,0 +1,231 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;data.gov.sk;Change;Yes;yes, data.slovensko.sk
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;N/A;DCAT, SPARQL, Linked Pipes
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;https://data.slovensko.sk/api/sparql?query= API is provided via SPARQL request, no additional API is available.
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;yes, data.slovensko.sk/sparql
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;Technical support on the main page, https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=155320435
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;Technical support on the main page, https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=155320433
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;Yes;Any organization with eID can register on national open data portal as publisher. This includes NGOs, companies, universities, etc. There are 2 ways of registration new publisher - statutary officer can registrate new publisher via simple form or administrators of national open data portal. Users can be invited by administrator of publisher or administrators of national open data portal. Users need eID to login into portal.
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;After login, user can like or subscribe dataset. https://data.gov.sk/dataset/register-adries-register-budov - subscribed by 2 users* *updated;Change;Yes;Technical support on the main page, e-mail contact opendata@mirri.gov.sk
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;After login, datasets can be rated by stars (1 to 5).;Change;Yes;yes, comments are available for registered users, https://data.slovensko.sk/datasety/5f06473c-f69f-4ad1-ad55-34a13d96e9c6/komentare
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;After login, datasets can be rated by stars (1 to 5).;Change;Yes;yes, registered users can like dataset https://data.slovensko.sk/datasety
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no;;Change;Yes;news are available on methodology portal - activity tracking https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=67152309
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://data.gov.sk/feeds/dataset.atom;Change;Yes;no
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"""Návrh na zverejnenie údajov na Portáli otvorených dát"" on main page https://schranka.slovensko.sk/FormConstructor/Default.aspx?IdService=214550 - available for logged users* *updated";Change;Yes;https://data.slovensko.sk/podnet
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://open.slovensko.sk/DataRequest/Search;Change;Yes;"https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=146573741 - this was ""old"" list of requests, requests have been moved to second link - https://data.slovensko.sk/podnet"
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;"https://open.slovensko.sk/DataRequest/Search Requests are marked as ""accomplished"" = ""vybavené""";Change;Yes;yes, it is evaluated in Open Data impact report https://wiki.vicepremier.gov.sk/download/attachments/155321117/report_2024.docx?version=2&modificationDate=1717071179307&api=v2 page 15
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;There is posibility of discusion and comments on methodology portal https://wiki.vicepremier.gov.sk/display/opendata.;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://data.gov.sk/apps;Change;Yes;https://data.slovensko.sk/aplikacia
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;https://data.gov.sk/apps/detail?id=fd09f98e-fa78-4d59-938b-cd9c3236af72;Change;Yes;"https://data.slovensko.sk/aplikacia/9e6007ea-bcec-474a-be3c-9bfd265f0f15 ""Používaný dataset"""
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;"""Žiadosť o registráciu aplikácie na Portáli otvorených dát"" on main page https://data.gov.sk/apps/new - available for logged users* *updated";Change;Yes;yes, registered users can submit reuse cases 
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://data.gov.sk/dataset/datovi-kuratori-2022-05-26/resource/85668835-a752-46e9-b594-a160c910ea7f;Change;No;no
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";no;;Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;HVD datasets are easy to find with filtering dataset type: Dataset s vysokou hodnotou (HVD)
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;Google Analytics and Bash script;Change;Yes;Google Analytics until 2024, then Matomo
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";no ;N/A;Change;Yes;National open data portal does not run analytics on API usage, but open data portals of other public bodies does. https://opendata.financnasprava.sk/opendata/category/170-statistiky-opendatafs (Financial Administration) We use this data in 1st report on Open Data Impact (https://wiki.vicepremier.gov.sk/download/attachments/155321117/report_2024_final.pdf?version=1&modificationDate=1721392976577&api=v2, page 9,10)
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;Methodology for measure of open data impact and reuse is in draft version, to be complete in June 2023. Methodology implement several activities which will take place in late 2023, including interviews with online form for portal users. Activities include: analysis of web analytics, surveys (for data stewards, data users, one survey for companies, NGO and academia focused on impact). Survey for data users will ask on users satisfaction with portal and data quality. Methodology implements metrics for user requests satisfaction (on quality of data request or to publish new data request) and if most requested data (discovered by separate survey - Q38) are published.* *updated;Change;Yes;Questionairre for selected academia, NGOs and companies as part of Open Data impact report. There was question what might help them when working with open data.
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;Annual report on portals usage is published by the Office of the Government Plenipotentiary for development of the civil society https://www.minv.sk/?ros_vsetky-spravy&sprava=na-pripomienkovanie-analyza-zverejnenych-datasetov-ustrednych-organov-statnej-spravy-za-rok-2023 It adresses the main issues of portal and recommendations from external point of view. This report is released anually.
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;Trainings (https://www.youtube.com/@datovakancelaria7258), publishing information, activity on Facebook in users group OpenData.sk (https://www.facebook.com/groups/180824635305518/)
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;no
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;via Matomo nad Google analytics 1)https://data.slovensko.sk/datasety/db1e7bd7-a7d4-4eac-8e5e-0c843b9dc7d5 2)https://data.slovensko.sk/datasety/c0e92f70-8afb-4f0a-a967-7956436b0548 3)https://data.slovensko.sk/datasety/d20ddbd5-7dcc-4a30-a540-9514a39fb541 4)https://data.slovensko.sk/datasety/fadf4738-4fb2-93ab-c6d6-34514a2c8a7d 5) https://data.slovensko.sk/datasety/bfdb5659-887e-4123-9c7f-593fd6dc76ae We work with this data when solving issues, if some dataset is widely used, then is it our priority.
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;New portal is being build based on best practices of advanced portals (UK, CZ, DE). We used range of requirments for new portal including seo and search keywords optimalisation. https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-dokumentov/detail/3260979?cHash=907a90e49c7380749c54dd06ab52bb6f;Change;Yes;New portal was build based on best practices of advanced portals (UK, CZ, DE). We used range of requirments for new portal including seo and search keywords optimalisation. https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-dokumentov/detail/3260979?cHash=907a90e49c7380749c54dd06ab52bb6f
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;For humans, there is page with metadata for each dataset https://data.gov.sk/dataset/objednavky-tovarov-a-sluzieb-ruvz-svidnik/resource/e498fb89-a096-4795-bf03-2a027ce0a762 For machines there is SPARQL Endpoint: https://opendata.mirri.tech/;Change;Yes;For humans, there is page with metadata for each dataset https://data.slovensko.sk/datasety/6949993a-1216-414d-a6ba-432c1b9afa28 For machines there is SPARQL Endpoint: data.slovensko.sk/sparql
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;There are 95 data providers on portal which are mainly public bodies on national level. Regional providers are not required to publish open data, it is only optional. Around 30 regional bodies publishes open data. Harvesting this data on national open data is still problem, national open data team is working on technical solutions to help harvest all regional dataset on national portal.;Change;The majority of public sector data providers;There are 117 data providers on portal which are mainly public bodies on national level. All important public bodies on national level publishes data on national portal. About half of 100 biggest municipalities publish open data, hovewer not all local portals are yet harvested on national open data portal.
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;Publication minimum - set of recommended datasets for data providers to publish, there are also recommended data structures https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=67152323;Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;"Bratislava,https://opendata.bratislava.sk/ 
+Prešovský samosprávny kraj,https://www.po-kraj.sk/sk/open-data/; https://geopresovregion.sk/
+Košický samosprávny kraj,https://www.geoportalksk.sk/
+Prešov,https://egov.presov.sk/
+Žilina,https://egov.zilina.sk/ 
+Košice,https://opendata.kosice.sk/ 
+Malacky,https://egov.malacky.sk/
+Hlohovec,https://egov.hlohovec.sk/ 
+Trnava,https://egov.trnava.sk/ 
+Skalica,https://klient.skalica.sk/
+Nitra,https://klient.nitra.sk/
+Banská Bystrica,https://egov.banskabystrica.sk/ 
+Trenčín,https://trencin.sk/samosprava/transparentny-trencin/opendata-trencin/ 
+Humenné,https://egov.humenne.sk
+Jaslovské Bohunice,https://smart.jaslovske-bohunice.sk/ 
+Levice,https://egov.levice.sk/ 
+Modra,https://egov.modra.sk/ 
+Martin,https://egov.martin.sk/
+Rožňava,https://egov.roznava.sk/
+Pezinok,https://egov.pezinok.sk/ 
+Kežmarok,https://egov.kezmarok.sk/ 
+Bratislavský samosprávny kraj,https://bratislavskykraj.sk/opendata/
+Poprad,https://egov.poprad.sk/";Change;Yes;"Bratislava,https://opendata.bratislava.sk/ 
+Prešovský samosprávny kraj,https://www.po-kraj.sk/sk/open-data/; https://geopresovregion.sk/
+Košický samosprávny kraj,https://www.geoportalksk.sk/
+Prešov,https://egov.presov.sk/
+Žilina,https://egov.zilina.sk/ 
+Košice,https://opendata.kosice.sk/ 
+Malacky,https://egov.malacky.sk/
+Hlohovec,https://egov.hlohovec.sk/ 
+Trnava,https://egov.trnava.sk/ 
+Skalica,https://klient.skalica.sk/
+Nitra,https://klient.nitra.sk/
+Banská Bystrica,https://egov.banskabystrica.sk/ 
+Trenčín,https://trencin.sk/samosprava/transparentny-trencin/opendata-trencin/ 
+Humenné,https://egov.humenne.sk
+Jaslovské Bohunice,https://smart.jaslovske-bohunice.sk/ 
+Levice,https://egov.levice.sk/ 
+Modra,https://egov.modra.sk/ 
+Martin,https://egov.martin.sk/
+Rožňava,https://egov.roznava.sk/
+Pezinok,https://egov.pezinok.sk/ 
+Kežmarok,https://egov.kezmarok.sk/ 
+Bratislavský samosprávny kraj,https://bratislavskykraj.sk/opendata/
+Poprad,https://egov.poprad.sk/ Trnavský samosprávny kraj, https://opendata.trnava-vuc.sk/, Banskobystrický samosprávny kraj, https://opendata.bbsk.sk/ Skalica, https://klient.skalica.sk, Humenné, https://egov.humenne.sk, Brezno, https://egov.brezno.sk, Poprad, https://egov.poprad.sk/"
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";no;Majority is not discoverable, however new portal is built with functions for providers to easily integrate into national data portal.;Change;Yes;Yes, some of them. There are 12 local portals harvested automatically (data.slovensko.sk/lokalne-katalogy)
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";few datasets;"There are few examples such as Ministry of Finance Open data portal (https://opendata.mfsr.sk/) and The Ministry of Foreign and European Affairs (https://www.mzv.sk/sluzby/otvorene-data) which is harvested automatically. https://platforma.slovensko.digital/t/publikacny-profil-dcat-ap-sk/4570/7 Response to reviewer: ""Old"" portal was not built with the feature for automatic harevstation. New portal (should be launched by the end of the year) is built with this feature. We want to increase number of harvested portals with finanancial scheme for open data development, which will include activities such as publishing open data, creating local portals and local SPARQL endpoints.";Change;Few datasets;There are 12 local portals harvested automatically (data.slovensko.sk/lokalne-katalogy)
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;For example ITMS Open API - data on eurofunds projects https://data.gov.sk/dataset?tags=ITMS2014&q=itms and Budget Open API - data on state budget and budgets of public bodies https://data.gov.sk/dataset/priebezne-plnenie-rozpoctu https://rozpocet.sk/web/#/cms/clanok/61/SK/rozpocet-sk-dokumentacia-open-api;Change;Yes;Yes, for example ITMS 2014+ Open API - data on eurofunds projects, Rest API Registry of companies and public bodies https://data.slovensko.sk/datasety/9dfdae7f-1d0f-45ec-8cd1-38df14dc2ebe
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;Yes;"Any organization with eID can register on national open data portal as publisher. This includes NGOs, companies, universities, etc. All new publishers are reviewed by administrator of portal and can be deleted if they break laws or publish false information. https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=67152353 - support page for different providers (public sector, private sector, NGO). ""Register"" button on main page data.slovensko.sk, then click on ""slovensko.sk"" button - requires eID authentification"
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;"Data inventory of the ministries and central gov bodies are published at data.gov.sk. Data inventory has to contain also records on datasets that cannot be published with the reason why (e.g. Privacy and personal data protection, Commercial confidentiality; Statistical confidentiality; National security, defence, and public security; Intellectual property. ) The example of data inventory with reason why particular dataset cannot be publish: https://data.gov.sk/dataset/datovy-inventar-rezortu-podohospodarstva-a-rozvoja-vidieka ";Confirm;;
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;yes, https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=77332860
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;It does not have separate account on social media but open data team members are frequently posting in Open Data Group (https://www.facebook.com/groups/180824635305518);Confirm;;
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;"https://github.com/orgs/datova-kancelaria/repositories - ""new"" portal should be finalised by the end of 2023 ;https://github.com/nases-sk/eDemokracia-MOD - ""old"" portal";Change;Yes;https://github.com/slovak-egov/nkod-portal, data processing - https://github.com/datova-kancelaria/nkod-pipeline
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";no;We plan dashboard along with new portal launch by the end of 2023.;Change;Yes;SPARQL endpoint provides this information with predefined queries. data.slovensko.sk/sparql
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;SPARQL endpont with predefined queries is available for providers, where they can track quality of their metadata, formats used and compare with other providers. https://opendata.mirri.tech/;Change;Yes;SPARQL endpont with predefined queries is available for providers, where they can track quality of their metadata, formats used and compare with other providers. There is also page Quality of metadata with some basic statistics data.slovensko.sk/kvalita-metadat

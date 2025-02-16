@@ -1,0 +1,165 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";other;"New Law on Freedom of information access is adopted by Councile of Ministers B&H, and includes some provisions regarding the Open data and Open Data Directive. The Law needs to be adopted by Parliament assembly.
+https://www.vijeceministara.gov.ba/pdf_doc/Novi%20ZOSPI%206-9-2023%20BOS.pdf";Confirm;;;;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";no;Some Activities regarding Open data are defined in Action plan for PAR Strategic Framework ;Confirm;;;;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";no;;Confirm;;;;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;"Action plan for PAR Strategic Framework
+ There is noting new to ammend to previous  information so this is the only part of the PAR strategy relevant to this issue:
+Action plan activity : 4.2.9.1 Enable the publication of a public data good for commercial and social re-use (open administration), in full compliance with the legal framework for the protection of personal data and privacy
+Indicators:
+Data are published in OP format BLV: No
+TV: Yes
+Open data portal established in accordance with EU standards
+BLV: No
+TV: Yes
+Proposals for amending the Law on Personal Data Protection developed in order to enable optimal and efficient provision of services, electronically and physically
+BLV: No
+TV: Yes
+https://parco.gov.ba/wp-content/uploads/2021/12/action_plan_par_eng1.pdf""";Confirm;;;;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";No;"Action plan for PAR Strategic Framework 
+Same as previous answer in 29D";Confirm;;;;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";No;"Action plan for PAR Strategic Framework 
+Only such measure (or the closest one) is 4.2.9.2 -> ""Action plan activity 4.2.9.2 Ensure that citizens and the business community can make correction of their own data by implementing  all identified key prerequisites  through online authentication and access.
+https://parco.gov.ba/wp-content/uploads/2021/12/action_plan_par_eng1.pdf""";Confirm;;;;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";no;;Confirm;;;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";Yes;Action Plan for implementation of PAR Strategic Framework in Service Delivery area specifies following activities: 4.2.9.1 Enable the publication of a public data good for commercial and social re-use (open administration), in full compliance with the legal framework for the protection of personal data and privacy;Confirm;;;;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;Action Plan for implementation of PAR Strategic Framework in Service Delivery area specifies following activities: 4.2.9.1 Enable the publication of a public data good for commercial and social re-use (open administration), in full compliance with the legal framework for the protection of personal data and privacy;Confirm;;;;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;"Action Plan for implementation of PAR Strategic Framework in Service Delivery area specifies following activities: 4.2.9.1 Enable the publication of a public data good for commercial and social re-use (open administration), in full compliance with the legal framework for the protection of personal data and privacy
+
+Possibly related to this question (besides 4.2.8.1) could be 4.2.4.1 Meet the necessary assumptions and build necessary building blocks for e-Services:
+1. Establish a Catalogue of Services (Define the institutional capacities of the institutions responsible for the management and maintenance of the service catalogue; Define and propose mechanisms for maintaining and updating the content of the service catalogue)
+Also in the same activity there is following: 6. GSB-Government Service Bus (upgrade the Public Administration GSB with the Metaregister)";Confirm;;;;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;Action Plan for implementation of PAR Strategic Framework in Service Delivery area specifies following activities: 4.2.9.1 Enable the publication of a public data good for commercial and social re-use (open administration), in full compliance with the legal framework for the protection of personal data and privacy;Confirm;;;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Not Applicable;;;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-b;Earth observation and environment;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-c;Meteorological;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-d;Statistics;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-e;Companies and company ownership;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-f;Mobility;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;;;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;No;;;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;It is one of the preffered model  and possibly most feasible identified in proces of developing Open data pilot portal for CoM B&H;Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;No;We are not familiar with any of the national level initiative which include facilitation of local and regional open data initiatives. At the moment open data initiatives are segmented and with parcial approach.;;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";few public bodies;;Complement;Few public bodies;Only a few public administration bodies started publishing open data and published open data portal. i.e on local level: https://opendataprijedor.ba/ or on central level: https://odp.iddeea.gov.ba/;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";yes;https://www.vijeceministara.gov.ba/pdf_doc/Novi%20ZOSPI%206-9-2023%20BOS.pdf;Confirm;;;;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";no;;Confirm;;;;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";no;;Confirm;;;;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";no;;Confirm;;;;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";no;;Confirm;;;;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";no;;Confirm;;;;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";no;;Confirm;;;;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;No;;;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";no;;Confirm;;;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;First challenge is to introduce and finalize the law and all neccesary bylaws that will adress the Open data Directive, the second is establishing the organisational structure and building institutional capacity and third is raise awareness regarding the benefits of open data and process of opening of data.;Confirm;N/A;;;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;4.2.9.2 Ensure that citizens and the business community can make correction of their own data by implementing  all identified key prerequisites  through online authentication and access.;Confirm;;;;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;No;;;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";no;;Confirm;;;;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";no;;Confirm;;;;;;;;

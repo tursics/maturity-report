@@ -1,0 +1,153 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;Transposition of 2nd version of the PSI (3rd version in progress) https://www.ejustice.just.fgov.be/eli/loi/2016/05/04/2016009236/justel  (Loi relative à la réutilisation des informations du secteur public);Complement;Yes;The law (https://www.ejustice.just.fgov.be/eli/loi/2016/05/04/2016009236/justel) has been updated to transpose the 3rd version of the EU PSI/Open Data Directive;;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"https://data.gov.be/sites/default/files/public/content/compressed_fr-strategisch-dossier.pdf, focus on ""open by default"", economic aspects, and interaction with the community";Confirm;Yes;The 2015 document has not yet been updated (draft of new strategy in preparation);;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;E.g. Flanders Region, part of the general data strategy: https://www.vlaanderen.be/digitaal-vlaanderen/vlaamse-digitale-strategie/vlaamse-datastrategie;Complement;;"Flanders Region: https://www.vlaanderen.be/digitaal-vlaanderen/vlaamse-digitale-strategie/vlaamse-datastrategie, Vlaamse Data Strategie, focus on data awareness / ecosystem and governance / quality. 
+Walloon Region: part of https://www.wallonie.be/sites/default/files/2021-10/plan_de_relance_de_la_wallonie_octobre_2021.pdf, Plan de Relance de la Wallonie (projects 139 - develop and govern open data, 297 - data centric approach, 298 - operalization of open data) ";;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;Response to reviewer: the datasets being released are mostly request-driven, in communication with open data users and community. Main points of the plan are listed on pg 7: e.g reduce number of licenses, using DCAT for metadata exchange ;Confirm;;;;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;;;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;The 2015 document has not yet been updated (draft of new strategy in preparation);;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";yes;"Action 8: ""un portail fédéral unique renvoie … vers les
+portails des entités fédérées…  et le portail pan-européen""";Complement;Yes;The 2015 document has not yet been updated (draft of new strategy in preparation), but the law (art 17) mentions the EU Data portal.;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;;;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;promotion and communication with the open data community;Confirm;Yes;The 2015 document has not yet been updated (draft of new strategy in preparation);;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;Mandatory publication on the federal open data portal;Complement;;Required by law to have the (meta)data published on the federal portal, art 17. Also, all the 3 Regions maintain and encourage or mandate publication on their portal(s);;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;Some data repositories harvested by the federal open data portal do contain data sets that are not open data (eg geo.be in relation to INSPIRE and transportdata.be in relation to ITS);Complement;Yes;In addition to geo.be, also the regional MetaWal, Vlaamse Datavindplaats and DataStore Brussels contain INSPIRE (or other) datasets that are not necessarily open data;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;"Currently working with the geo department of the Walloon Region to obtain the metadata of HvD datsasets and service (geo and environment data, many of them available as free webservice, though not clear yet if environmental data has been standardised), and with the federal Statistical department + FPS Social Security to harvest metadata and make sure the data itself is available via API.
+Company register is available, but license needs to be changed / fees to be dropped and metadata needs to be provided.
+Mobility: talking to the transportdata hub";;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;5;4;4;3;2;3;3;;;;
+P11-b;Earth observation and environment;4;4;3;3;4;1;3;;;;
+P11-c;Meteorological;3;2;4;3;2;1;1;;;;
+P11-d;Statistics;4;5;4;3;4;4;4;;;;
+P11-e;Companies and company ownership;4;4;5;3;4;2;1;;;;
+P11-f;Mobility;4;5;3;3;2;4;3;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"Some have (e.g statistics at federal level / geospatial, earth observation and mobility at Walloon Region), but not all of them
+E.g Walloon Region: https://metawal.wallonie.be/ (scroll down, in the left column there is an option to filter on HvD and HvD categories)";;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"At federal level there is an open data task force and ""FedAX"" network of CDOs + informal meetings with members of the ""OpenKnowledge Foundation"" + by allowing anyone to request access to datasets, similar initiatives/governance at regional level
+At Walloon Level, this is carried out by the SPW";;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;practical considerations: sometimes demand for opening up data comes top-down, sometimes driven bottom-up, and so is the structure of the governance + political landscape with strong Regions and projects by larger cities;Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Not Applicable;While there are cooperations on open data initiatives and projects between federal/regional/local administrations, due to the political landscape, the federal level has no authority over open data projects on regional level;;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";all public bodies;All 3 Regions have open data initiatives + a few larger cities (smaller cities require support of Regional level);Confirm;;;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";yes;Explained in Royal Decree, chapitre 4 (https://www.ejustice.just.fgov.be/eli/arrete/2019/06/02/2019013333/justel#LNK0004);Complement;Yes;In addition to the answer from 2023, at the Walloon Region the structure of the regional team is also mentioned in a Decree (https://wallex.wallonie.be/eli/loi-decret/2022/11/24/2022207332);;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Same team: Maintainers of the data portal (open data task force) is also part of Transparency Committee;Complement;Yes;Open Data Taskforce team is also member of the FedAx CDO Network, but the CDO meeting agendas/reports etc are not public;;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;"""open data champion"" role per federal public service, responsible for the development of an open data strategy within their administration + participate in transparency committee";Change;No;While the role is still in the 2015 open data strategy, nowadays the focus is more on Chief Data Officers (not all public services have this role) who happen to also manage open data (but also DGA data and non-open data / GDPR …);;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;About 3 meetings / year with open data portal owners (local/regional/federal level): https://data.gov.be/fr/dcat-groupe-de-travail;Confirm;;;;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Participation in yearly open data event ""OpenBelgium"" (https://2022.openbelgium.be/), and 1-to-1 (private) online meetings with small companies / NPOs and ICT sector federation Agoria";Complement;Yes;"In addition to the answer from 2023: Brussels Regions organizes ""DataStore User Club"" events (https://be.brussels/fr/propos-de-la-region/publications-open-data-statistiques/publications/publications-paradigm/users-club-datastore-lecoute-des-utilisateurs)  ,the Flanders Region organizes ""Geo and Open Data Partner days"" (https://www.wvigisco.be/event/partnerdag-geo-en-open-data/), exchange between National Geographic Institute and ODECO students (https://www.linkedin.com/posts/liubov-pilshchikova_odeco-training-week-at-ku-leuven-is-underway-activity-7186466881967411200-A1e5/)";;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;Only for Statistics and Cadaster data, eg. https://statbel.fgov.be/fr/calendar;Complement;Yes;Only for some datasets, like Statistics and Cadaster at federal level. At Walloon Region, there is a plan (https://spw.wallonie.be/sites/default/files/2024-06/Memorandum_complet_SPW%20EER%20%281%29_0.pdf);;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";no;;Change;Yes;At Regional level: Flanders Region, follow-up open data action plan 2020-2024 (https://assets.vlaanderen.be/image/upload/v1682424008/OpenDataActies2021_gfnsmo.pdf);;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;No;Plociy at the federal level not yet approved;;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;If a federal public body wants to publish data with additional constraints, including costs, the motivation and details have to be sent to the open data taskforce for advice. Art 7, Royal Decree https://www.ejustice.just.fgov.be/eli/loi/2016/05/04/2016009236/justel;Confirm;;;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;"1) Chicken-and-egg-problem (businesses want ""as much data as possible"" before they can prove their idea works, public services have limited resources and need to know what to prioritize first + are looking for examples to justify their efforts), 2) Somewhat overlapping data initiatives and regulations (e.g. INSPIRE, ITS,Europeana, PSI... have slightly different goals) , 3) Finding recurring budget for a few high value datasets (maps, historical weather data), ";Confirm;N/A;;;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"On chicken and egg problem: projects like combined address register with (also) clear benefits for administrations as a ""teaser"" to encourage administrations to publish more data";Confirm;;;;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;"Support from FPS BOSA, especially on publishing and converting metadata, but also advise on choosing a license, formats / use cases …
+Support at Regional Level (eg SPW support administrations in Walloon Region, Paradigm for the Brussels Region, and DigitaalVlaanderen for the Flanders Region)";;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;"At the national level, there are sessions (https://data.gov.be/fr/news/seance-dinformation-donnees-ouvertes-services-federaux) and trainings on data in general (though not part of a specific data track) like satellite data (https://terrascope.be/en/news-events/register-our-new-terrascope-webinars) which are open to servants and private sector.
+At the regional level, there are trainings, e.g.http://www.futurocite.be/ouvrirmaville/ouvrir-ma-ville-2023/";Complement;Yes;"In addition to the answer of previous year: 2024 edition of Ouvrir Ma Ville (Walloon Region, https://www.futurocite.be/ouvrirmaville/), Smart Flanders ""Open Data Lokale Besturen"" trainings for (local) administrations (https://www.youtube.com/watch?v=RpzHdTtY1TE)";;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, 3-5;OpenBelgium (https://2022.openbelgium.be) and OpenSummerOfCode (https://osoc.be/editions/2022, though the 2023 edition is postponed),  CitizensOfWallonia (https://www.citizensofwallonia.be/), OpenStreetMap events (https://osmcal.org/event/1349/), BootCamp Open Cultural Data (https://meemoo.be/nl/vormingen-en-events/bootcamp-open-culturele-data-2023-6e-editie), Webinars on satellite data (https://terrascope.be/en/news-events/register-our-new-terrascope-webinars);Complement;Yes, 3-5;This years editions: https://terrascope.be/en/news-events/terrascope-webinars, https://osoc.be/, https://www.citizensofwallonia.be/, https://openstreetmap.be/en/category/event.html, and DataBusters (https://www.futurocite.be/databusters-appli-chasseurs-donnees/);;;;;;

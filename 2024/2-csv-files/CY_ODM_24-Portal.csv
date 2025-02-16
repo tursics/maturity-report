@@ -1,0 +1,325 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;www.data.gov.cy ;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;Yes;EKAN, Open-source data management platform
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;"The portal makes available 2 metadata APIs:
+(a) Open Data API: https://data.gov.cy/catalog.json
+(b) Dataset Rest API: https://dkan.readthedocs.io/en/7.x-1.x/apis/rest-api.html
+
+Full catalog API in JSON and RDF
+https://data.gov.cy/catalog.xml
+https://data.gov.cy/catalog.json
+
+Dataset API (Examples)
+https://data.gov.cy/el/dataset/702/dcat-ap-2.0/xml (XML)
+https://data.gov.cy/el/dataset/702/dcat-ap-2.0/json (JSON)
+
+Datastore api (JSON)
+https://data.gov.cy/api/action/datastore/search.json?resource_id=91f88e13-1baf-4a1b-b27f-3aacd1622a4c&limit=5"
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;No;
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"The documentation ia available on our Portal and specifically on Support for Developers section.
+Under DKAN API section are the links to the Dataset REST API and the Datastore API.
+Support Section URL: https://data.gov.cy/en/support-developers
+REST API URL: : https://dkan.readthedocs.io/en/7.x-1.x/apis/rest-api.html
+Datastore API URL: https://dkan.readthedocs.io/en/7.x-1.x/apis/datastore-api.html
+"
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"(1) The publishers may publish documentation or provide links to documentation alongside the data files.
+(2) URL Example: https://www.data.gov.cy/el/dataset/etisies-ektheseis-epitropis-ekpaideytikis-ypiresias (see pdf files published with the csv and xls data files)"
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"The portal provides a general “Contact Us Form” which visitors have been using to raise questions and issues about datasets.
+
+response to reviewer
+Url : https://www.data.gov.cy/contact
+
+Bottom right of the front page called Επικοινωνία/contact us";Change;Yes;"The portal provides a general Contact Us Form ""Request data"" which visitors have been using to raise questions and issues about datasets.
+URL: https://www.data.gov.cy/index.php/el/form/webform-3516
+
+Additionally, the is tab ""Dataset Review"" at the bottom of  each Dataset's page (on all datasets), giving the users the ability to send us inquiries for the specific dataset.
+URL example: https://www.data.gov.cy/index.php/el/dataset/dedomena-dimosion-metaforon-se-pragmatiko-hrono-real-time-passenger-information"
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"A feedback collapsible form is available at the bottom of each dataset page.
+Click to expand “Ανατροφοδότηση για Σύνολο Δεδομένων”
+URL: https://bit.ly/2TjEk7f";Change;Yes;"A feedback collapsible form is available at the bottom of each dataset page.
+Click to expand “Dataset Review”
+(On all Datasets) An example: https://www.data.gov.cy/el/dataset/synolika-apotelesmata-eleghoy-poiotitas-neroy-organikoi-rypoi"
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"Users can rate datasets using the star-rating widget available at each dataset page. 
+URL: i.e. https://www.data.gov.cy/node/4741";Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"Users can find  news , events and other material relevant to open data:
+https://www.data.gov.cy/news_items?language=el 
+https://www.data.gov.cy/stories?language=el";Change;Yes;"Users can find Annoucements, Articles,  Stories and News
+URL's:
+https://www.data.gov.cy/el/news-items
+https://www.data.gov.cy/el/stories"
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no ;;Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;URL: https://www.data.gov.cy/node/3900?language=en ;Change;Yes;"The portal provides a general Contact Us Form """"Request data"""" which visitors have been using to raise questions and issues about datasets.
+URL: https://www.data.gov.cy/index.php/en/form/webform-3516
+"
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://www.data.gov.cy/data_requests_view;Change;Yes;"For each submitted data request the following information is available
+-Request description
+-Entity Type
+-Name (Initials only)
+-Request Data
+-Request Status
+URL: https://www.data.gov.cy/en/data_requests_view"
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;When a request for data is submitted, this is forwarded by a member of the Open Data Team to the PSB that owns the data with guidelines on how to respond to requests. The PSBs are also required to CC their response to the applicant to a member of the Open Data team.;Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"Discussion Forums in Element / Riot im:
+https://riot.im/app/#/room/#opendatacyprus:matrix.org
+Accessible through the Developer’s Support Section: https://www.data.gov.cy/developer-support";Change;Yes;"Discussion Forums in Element (formerly Riot.im):
+https://riot.im/app/#/room/#opendatacyprus:matrix.org (Public, chat history is available w/o account)
+https://riot.im/app/#/room/#data.gov.cy:matrix.org (Public, future chat history will be visible w/o account)
+
+Both chat rooms are accessible through the National Open Data Portal:
+Support - Support for Developers - Discussion Forum
+https://www.data.gov.cy/en/support-developers"
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://www.data.gov.cy/application-showcases;Change;Yes;"All Reuse cases are showned in Showcase section on the Portal
+New URL: https://www.data.gov.cy/en/showcases"
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;"Showcases are referenced through the dataset’s page. For example:
+Night Pharmacies: https://t.ly/cn49 (see Related Content at the Bottom of page)
+Fuel Prices: https://t.ly/u9U1 (see Related Content at the Bottom of page)
+Air Quality Cyprus: ibit.ly/OxTg (see Related Content at the Bottom of page)";Change;Yes;"Showcases are referenced through the dataset’s page. (see Related Content at the Bottom of page, under ""Σχετικό Περιεχόμενο"")
+New URL's, for example:
+-Night Pharmacies (1 application related): https://www.data.gov.cy/en/dataset/817
+-Fuel Prices (3 applications related): https://www.data.gov.cy/el/dataset/paratiritirio-lianikon-timon-kaysimon-api
+-Air Quality Cyprus (2 applications related) https://www.data.gov.cy/el/dataset/trehoyses-metriseis-atmosfairikon-rypon-api
+-E-Charging (1 application related) https://www.data.gov.cy/el/dataset/stathmoi-fortisis-ilektrikon-aytokiniton-e-charging"
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://data.gov.cy/submit_new_app;Change;Yes;"Reusers can submit an application through a link on the Showcases section below, in cases they have developed applications / websites with metadata,
+New URL:
+https://www.data.gov.cy/el/form/webform-3579"
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://bit.ly/3fEyOUk;Change;Yes;"All datasets containing tabular data have a preview button
+New URL https://www.data.gov.cy/el/dataset/katalogos-topikon-seismon-local-300km"
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;"See map inset:
+
+https://bit.ly/3i2wvx5";Change;Yes;"See map inset:
+URL:
+https://www.data.gov.cy/index.php/el/dataset/temahia-exereynisis-ydrogonanthrakon-ydrografika-dedomena"
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"There is a dedicated page in the portal for High-value Datasets (HVDs), explaining what are HVDs, which categories are considered HVDs and also metioning the compliance deadline with for the regulation (EU) 2023/138.
+URL: https://www.data.gov.cy/index.php/el/dedomena-ypsilis-axias-hvds-0
+
+Regarding the filtering features, we have introduced the HVD's tags both in Greek and English ""Δεδομένα Υψηλής Αξίας"" and ""High Value Data"" on all datasets containing High value data.
+Next step, is to inform all users to add the tag on their HVDs datasets, and then resusers can easily recognise the HVDs datasets.
+https://www.data.gov.cy/el/dedomena-ypsilis-axias-hvds-0"
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;"DKAN log functionality
+Matomo Analytics
+Google Analytics";Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Change;Yes;"(1) Through a Matomo report,we can see the API calls.
+(2) By analyzing the Matomo report that shows the API calls, we can identify which API's have more interest such as the title & URL of the page being viewed. It also, gives information on the reusers such as the reusers' IP address,  the date, time and location of the request, the operating system, model, browser and resolution. Additionally the report shows the unique Visitor ID, the time and number of all visits for this user. Then, the Open Data Team ensures with the Public Bodies that the related datasets will be kept up-to-date."
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;"Web Analytics
+Surveys";Change;Yes;"(1) Web Analytics
+(2) The use of these tools offer insights for popularity of datasets, data categories, visits per dataset over time, categorisation of users, user acquisition analysis, etc. The Open Data Team can then understand the behaviour of our portal's visitors/reusers and learn more about what reusers are interested in, in order to focus on publishing more metadata on specific categories that will attract the interest of reusers.
+Additionally throughout the ""Request Data"" form, we monitor and analyse the interest on which type categorie are more frequently request data. 
+URL: https://data.gov.cy/el/form/webform-3516"
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;"There is an integrated dashboard on the Impact page, providing the Open Data Team, Public Bodies and reusers with insights regarding the portal such as, portal's traffic, Usecases and Request data chart, datasets no., datasets % per category, datasets % per Organization, datasets % per format and the most populart datasets
+URL: https://www.data.gov.cy/index.php/en/node/34
+
+The Open Data team can find  which categories are more frequently searched and especially which datasest are more favourable by reusers. The Open Data team with the information said, provide the information to the Public Bodies and explain the need to update the resources more often, and if possible to provide an API to achieve excellence. Additionally, the OD team discuss with the Public bodies the possibility to add new datasets similar to the most favorites that are not yet added in the portal. The mantioned action is included in the National Strategic Plan 2023-2027 as Action B.5. Those actions help improve the overall experience of reusers/visitors.
+
+A highlight was that the data format type for the most popoular dataset on the portal was in .xml format. The Open Data team when gain insight on some of the most popoular datasets contain data in lower level than .csv, advised the Public Bodies to switch to .csv format type. 
+(Above Example of Dataset) URL: https://www.data.gov.cy/index.php/en/dataset/467"
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;"Under the Action Δ.10 of the National Strategy Plan 2023-2027  refers to the support of measures that promote the concepts of smart cities, sustainable mobility, etc through open data.
+Further the applications/re-use cases of open data are published on the National Portal and their developers are offered the opportunity to present their work in events organised by the Open Data Team and through articles published on the portal."
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;"(1) - With the use of portal's search log, we can monitor the keywords and their frequency.
+ - Matomo Analytics provides insights of users' behavior by tracking the keywords.
+(2) By analyzing the most frequently searched keywords, we identify which topics are of  highest interest to users, ensuring that the related datasets are up-to-date. This insight helps  choose the right strategy. Additionally, may also indicate trends and future reusers' interest. The Open Data Team can then discuss with the Public bodies the possibility to add new datasets based on the keywords.
+
+Additionally, Matomo generates a report that includes key metrics such as the number of searches, pageviews, total time spent by visitors, the number of search results pages, average time on page, bounce rate, and the percentage of search exits. The bounce rate and the percentage of search exits, both can highlight potential issues with content quality and availability. The pageviews and total time spent by visitors, both can reflect content relevance."
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;The integraded dashboard on the portal shows the most and least consulted pages. With all that insights, we can be helped chhosing the right strategy and on which categories to focus. If certain topics or pages consistently receive high traffic, it may indicate future reusers' interest on similar content.  
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;Provide training to PSI Liaison Officers. Part of the training relates to how to make a dataset easily discoverable with the use of comprehensive dataset descriptions and use of tags. Specific examples are used at the practical part of the training.;Confirm;;
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Change;Yes;"Our Datasets are structured and presented in a way easily understood by a human.
+
+Additionally, on some more complex data tables with Codes, the providers are publishing additional csv that explains the coding given on  a column and make it easier for reusers to match each data 
+
+URL: https://www.data.gov.cy/el/dataset/apotelesmata-eleghoy-poiotitas-posimoy-neroy-ektos-nomothetikon-orion-iontikos-eleghos-kai"
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;"The great majority of potential data providers already contribute data to the portal. 
+Approach: Public Sector Data Holders can log into the portal and upload their data along with the relevant metadata. The dataset is then reviewed by a moderator (format compliance, metadata quality) before published on the portal.
+However, there is still a number of potential data providers, mostly at regional level, that have yet to publish data on the National Data Portal. This, in most cases, is a matter of prioritisation and resources. ";Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"The Open Data Team either through it own initiative or in response to providers that want to publish data through the portal takes a number of actions to help providers with data publications. These include:
+i. Site Visits to potential publishers
+ii. Presentation of Advantages and opportunities of opening up data
+iii. Offer Support and Training (including the PSB OnBoarding Program)";Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;"DLS Portal (national geoportal) URL:https://eservices.dls.moi.gov.cy/#/national/geoportalmapviewer
+National Statistics Portal URL: https://www.cystat.gov.cy/el/default
+Water Development Geoportal URL: https://geoportal-wdd.hub.arcgis.com/";Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";all datasets;;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;"Met Stations Live Data, URL: ibit.ly/CM4q
+Air Quality Stations Live Data, URL: http://t.ly/gNvG
+All Geospatial Data Services ,  i.e. URL: https://bit.ly/3QpDXB4";Change;Yes;"URLs:
+Met Stations Live Data, URL: https://dom.org.cy/RADAR_IMG/index.html
+Air Quality Stations Live Data, URL: https://www.airquality.dli.mlsi.gov.cy/all_stations_data_PM
+All Geospatial Data Services ,  i.e. URL: https://www.arcgis.com/apps/mapviewer/index.html?url=https%3A//weba.dls.moi.gov.cy/arcgis/rest/services/INSPIRE/TN_TransportNetwork/MapServer"
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;Yes;"Private Company/NGOs are invited to contribute data to the national portal.
+i.e. Green Dot Cyprus (NGO) which contributes data on sites for collection of recycling materials
+URL: https://www.data.gov.cy/el/dataset/nisides-anakyklosis-kai-simeia-anakyklosis-gyalioy-tis-green-dot
+"
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";no;;Confirm;;
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;"One of the 4 main pillars of the Cyprus Open Data Strategy is all about the National Open Data Portal. 
+The Public Administration and Personnel Department signed a Memorandum of Understanding with the Cyprus Open University of Cyprus for the development, hosting and maintenance of the new National Open Data Portal. The MoU has a 10-year duration with the option for renewal for another 10 years. This strategic agreement ensures the technical and financial sustainability of the portal.
+Portal sustainability issues like Data Quality and Data Actuality, as well as Communication and Impact are also covered in the more detailed action plan which is an integral part of the Strategy 2023-2027 document.
+
+Open Data National Strategy 2023-2027
+URL:
+https://www.data.gov.cy/sites/default/files/%CE%91%CE%94%CE%94%20-%20%CE%A3%CF%84%CF%81%CE%B1%CF%84%CE%B7%CE%B3%CE%B9%CE%BA%CE%AE%20%CE%91%CE%BD%CE%BF%CE%B9%CE%BA%CF%84%CF%8E%CE%BD%20%CE%94%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD%202023-2027.pdf"
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"https://twitter.com/OpenDataCy
+https://www.facebook.com/groups/605714219606170 (managed jointly with open data community)";Confirm;;
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;"Platform Name: GitHub
+o DKAN is already available on github at https://github.com/GetDKAN/dkan-drops-7                                                                                       
+o The customisations / changes of the CY portal are available at the opendatacy github account at: https://github.com/chrodos/opendatacy     ";Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;"The Number of Visitors and how this changed over time is monitored through a fully integrated google analytics module - This is done through Drupal - see  https://www.drupal.org/project/google_analytics_reports
+
+It effectively provides a dashboard where portal administrators and publishers can view number of visitors and how these changed not only at catalogue level, but also at datasets level.
+
+Also the Portal's Dashboard offers a real time overview of the the traffic on the portal, as well as the charactiristics of the data publihed on the portal (i.e distributions across themes, across publishers, formats, etc).
+URL: https://www.data.gov.cy/dashboard_EL
+
+";Change;Yes;"The Number of Visitors and how this changed over time is monitored through a fully integrated google analytics module - This is done through Drupal - see  https://www.drupal.org/project/google_analytics_reports
+
+It effectively provides a dashboard where portal administrators and publishers can view number of visitors and how these changed not only at catalogue level, but also at datasets level.
+
+Also the Portal's Dashboard offers a real time overview of the the traffic on the portal, as well as the charactiristics of the data publihed on the portal (i.e distributions across themes, across publishers, formats, etc).
+Portal's Dashboard URL:https://www.data.gov.cy/el/data-dashboard/dashboard"
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;"(a) Publishers can map on their data and see statistics (datasets per category, datasets per licence, datasets per format, etc.)  - https://www.data.gov.cy/dashboard_EL 
+(b) Publishers can also see the views for each of their datasets through the google analytics integrated module (requires log-in).";Change;Yes;"(a) Publishers can map on their data and see statistics (datasets per category, datasets per licence, datasets per format, etc.)
+URL: https://www.data.gov.cy/el/data-dashboard/dashboard
+
+(b) Publishers can also see the views for each of their datasets through the google analytics integrated module (requires log-in).
+URL: https://www.data.gov.cy/el/ekan/statistics/dashboard"

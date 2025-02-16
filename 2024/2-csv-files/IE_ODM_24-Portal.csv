@@ -1,0 +1,389 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;https://data.gov.ie/;Change;Yes;"Yes, there is a national portal in Ireland that enables users to search for open datasets and find where to download open data. The name of this National Portal is data.gov.ie. The following is a URL of the National Portal: 
+https://data.gov.ie/"
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;N/A;The technology stack of data.gov.ie is based on CKAN. 
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;"Yes. CKAN has a robust api that allows users to query a range of endpoints, both at the dataset and resource level for both metadata and in the case of tabular resources, the data itself. The base API url is https://data.gov.ie/api/action/ and the available endpoints are detailed here: https://docs.ckan.org/en/2.9/api/
+The base url should be used with the endpoints from the CKAN API docs, for example; https://data.gov.ie/api/action/package_list  will provide a list of all datasets on our portal, or; https://data.gov.ie/api/action/package_show?id=national-planning-applications      this will show the metadata for the National Planning Application 
+"
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;No;No.
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"Yes, our national portal offers a variety of documentation on the use of APIs. 
+
+https://data.gov.ie/pages/guideforpublishers is a landing page from which you can access multiple resources for example
+
+https://data.gov.ie/pages/developers and https://ckan.org/
+
+Links that are provdided throughout the portal are:
+
+https://docs.ckan.org/en/ckan-2.2.3/api.html
+data.gov.ie/api/3/action/package_list
+
+data.gov.ie/api/3/action/tag_list
+
+data.gov.ie/api/3/action/package_show?id=the-walled-towns-of-ireland
+
+data.gov.ie/api/3/action/tag_show?id=marine
+
+data.gov.ie/api/3/action/package_search?q=museum
+
+data.gov.ie/api/3/action/resource_search?query=name:The%20Walled%20Towns%20of%20Ireland"
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;No.
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"Yes, data.gov.ie provides functionality for users to contribute datasets they have produced or enriched. We have produced guidelines in relation to this: https://data.gov.ie/pages/resourcesandpublications. We also have a Data Audit Tool and how to add a dataset directly onto the portal is very self-explanatory with the step by step process. The following is a link to our data audit tool:  https://audit.data.gov.ie/ . The following is the link to how a user could add a dataset: https://data.gov.ie/dataset/new . Which is very intuitive and does not need previous experience to add a dataset. Since you might not be a user on our portal. There is also the Showcases page on the open data portal which is designed to highlight the uses to which data on the portal have been put. https://data.gov.ie/showcase
+This publicises and demonstrates the data driven projects using data published on the open data portal. It also provides examples on how open data can be used for new users.
+"
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;Yes, this is a clear and prominent heading on the portal. The page can be seen at https://data.gov.ie/contact. It allows users to get in touch by email, mail or phoneas well as having a user friendly feedback box.;Complement;Yes;Yes, users can provide general feedback to us using the Give Us Feedback red button in the footer of each page. The button links to our contact us page here https://data.gov.ie/contact. Any comments or queries submitted on this page go to our internal Open Data Tracker and are dealt with there in a timely manner. If people have questions about particular datasets we put them in touch with the data owners through our Open Data Liason Officer Network. People can also contact us by phone or email which is visible on the contact us page. 
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"All datasets have a comments facility by default which allows users to provide comments on a particular dataset. This can be seen at the bottom of any dataset page by the button ""post comment"". For example at the bottom of this page: https://data.gov.ie/dataset/covid-19-hpsc-county-statistics-historic-data?package_type=dataset";Change;Yes;Yes, at the bottom of every page of the portal there is a ‘Give us Feedback’ button which allows all users to provide feedback on specific datasets. You can see it on any page on data.gov.ie: https://data.gov.ie/. The following is a direct-URL to this tool once someone clicks on the ‘Give us Feedback’ button: https://data.gov.ie/contact . This allows users to provide direct and visible feedback on each dataset. The Open Data Unit provides support where possible for this and either responds to the data user or notifies the data publisher of the feedback.
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;Yes. A 'Like' button is available for each dataset on the portal. For example hhttps://data.gov.ie/dataset/valuation-office-api?package_type=dataset;Change;Yes;Each data set has a 'Contact Us' button on its page (https://data.gov.ie/contact) to allow users to provide feedback on this dataset. This process is monitored by the Open Data Unit, questions are answered where possible and feedback on the data is relayed to the data owners.
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"The 'Latest News' page provides news and information on open data events and topics at a national and local level.  https://data.gov.ie/blog
+For example to inform and gather input to the  next iteration of the national Open Data Strategy we have hosted a number of town halls, both online and in person.  Information on the town halls, see https://data.gov.ie/blog/our-next-open-data-strategy
+Articles on local events such as the Dublin Region Open Data Climate Action challenge are included https://data.gov.ie/blog/dublin-region-open-data-climate-action-challenge-202.Most recently in 2023, blogs have been posted that promote Open Data Training which can be seen at: https://data.gov.ie/blog/open-data-training-for-public-sector-employees-new-2023-dates. Another blog was posted about the Smart Dublin Hackathon which was held in the Dublin Google Offices and was partly funded by our 2022/2023 engagement fund. A blog post on it can be seen here: https://data.gov.ie/blog/smart-dublin-hackathon. Finally we also post about any legal requirement updates for open data to keep users informed.";Complement;;"Our latest news section on the portal enables users to find information and news on relevant open data topics in the country. The latest news section is available here at https://data.gov.ie/blog. 
+
+We have also a newsletter which we send out to all our mailing list subscribers which combines recent news items and brings them back to the portal page. The newsletter can be accessed here at https://mailchi.mp/43fba27e579d/open-data-updates. 
+This newsletter was something that came out of our latest Internal Open Data Communications Plan. We hope to take a more strategic approach to communications and maximise outreach and engagement.
+
+Some of the articles include showcases/spotlights on our engagement fund winners eg 
+https://data.gov.ie/blog/european-peatlands-and-policies-open-data AND
+https://data.gov.ie/blog/focus-on-the-open-data-engagement-fund
+
+Other articles include blogs on Open Data events attended/run eg
+https://data.gov.ie/blog/unlocking-potential-a-recap-of-the-national-open-data-conference-2023 AND 
+https://data.gov.ie/blog/data-europa-eu-workshop-for-data-providers
+
+We also provide up to date information on Open Data Training https://data.gov.ie/blog/open-data-training
+"
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"Yes, Regular tweets and blogs are issued to notify followers when new datasets are published.    https://data.gov.ie/blog  
+
+The RSS Feeds are available from the following links:
+• https://data.gov.ie/feeds/dataset.atom <- For the whole site
+• https://data.gov.ie/feeds/group/{name}.atom <- For datasets in a group
+• https://data.gov.ie/feeds/tag/{name}.atom <- For datasets with a tag
+• https://data.gov.ie/feeds/custom.atom?q=... <- Datasets matching a search query. ";Complement;;yes, at https://x.com/GovDataIE
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://data.gov.ie/dataset/suggest/new;Complement;Yes;As well as the Suggest A Dataset feature which can be accessed here https://data.gov.ie/dataset/suggest/ we also have our Open Data Tracker in which people can submit any Open Data Queries. We often get emails from people looking for a specific dataset and we put them in touch via email and our ODLOs with the potential/existing data owner.
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"Data set suggestions can be submitted through an easy to use interface.  All datset requests are listed with the status at https://data.gov.ie/dataset/suggest  . Other users can see what requests were put in and any comments those suggesting the datasets made.
+An overview is also available at https://data.gov.ie/stats";Complement;Yes;"The Open Data Unit have made significant efforts over the last number of months to ensure all dataset suggestions are replied to in a transparent way and that people are aware of any progression in the suggestions as can be seem here:https://data.gov.ie/dataset/suggest/e52d17f6-c49b-42d9-9eea-14618f516ca1.
+We take the suggestion and pass it on to the relevant Open Data Liaison Officer/ Organisation and if they are able to post the suggested data we then notify people and close out the suggestion. "
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;The Open Data Team emails the request to the relevant public body and follows up the requests to monitor progress.  Where requests are unsuccessful we advise the requester of their rights of appeal to the Information Commissioner under the PSI directive.;Complement;Yes;Yes, the Open Data Unit will monitor if requests transpire into published datasets. When we pass the suggestion onto the relevant ODLO or Public Body, we would ask them to keep us in the loop if they post the data. We also follow up regulary on dataset suggesitons to the relevant Public Body. However, we do not have the authority to mandate them to publish the data if they hold it nor do we have any visibility into what data they internally hold. We use an internal tracker app to monitor the topic and number of requests and questions and report on these metrics quarterly to the Open Data Governance Board. These progress reports to the board are also published on the open data portal https://data.gov.ie/pages/progressreports
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;There is a comment forum attached to each dataset;Complement;Yes;"For our Open Data Liaison Officers, we have a forum on data.gov.ie called CEIST. ""The Open Data Community Education and Support Tool. Connect with other leaders and champions in the Irish Open Data community, share knowledge, best practices and tips.""This may only be visible when you are logged in as a user on the portal. This forum allows for forum discussions on multiple topics such as HVDs, Data Reuse, interesting projects etc. CEIST is normally accessed here: https://discourse.staging.derilinx.com/"
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;Yes. Showcases are an important facility to demonstrate the positive and braod ranging impact of open data.  https://data.gov.ie/showcase;Complement;Yes;"We also showcase reuse cases on our lastest news section of the portal. https://data.gov.ie/blog
+
+We publish blogs of Engagement Fund Winners who has reused  national data for a variety of projects. Some examples include
+https://data.gov.ie/blog/european-peatlands-and-policies-open-data
+https://data.gov.ie/blog/focus-on-the-open-data-engagement-fund
+https://data.gov.ie/blog/digitising-galway-s-graveyard-heritage-open-data-in-action"
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;"RESPONSE TO REVIEWER: https://data.gov.ie/showcase AND
+https://data.gov.ie/showcase/failte-discover-ireland-s-hidden-gems
+";Complement;Yes;https://data.gov.ie/showcase/marine-spatial-planning Example 
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;We encourage re-users of data to submit their reuse cases as showcases. See https://data.gov.ie/showcase_suggest;Complement;Yes;https://data.gov.ie/showcase/new
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;A preview panel is provided for all datasets.  A sample of the data can be previewed provided that the dataset is not very large.See https://data.gov.ie/dataset/attractions?package_type=dataset;Complement;;https://data.gov.ie/dataset/attractions/resource/f6ccaa7b-6c59-4ea8-9da4-fd2fc3982872 This is the previewed example
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;Yes, a geospatial preview is provided for spatial data sets.  See https://data.gov.ie/dataset/mountains-osi-national-1m-map-of-ireland4?package_type=dataset;Complement;yes;https://www.arcgis.com/apps/mapviewer/index.html?url=https://services-eu1.arcgis.com/o56BSnENmD5mYs3j/ArcGIS/rest/services/SHD_Applications/FeatureServer&source=sd
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;Yes. There is a specific boolean flag to identify HVDs and we have installed a new DCAT AP HVD profile.
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;Fathom and Tableau;Complement;Yes;Yes, we monitor the portal's traffic in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc., the tools we use are Fathom, Tableau, and PowerBI visualisation which is supported by extracts from the database. Also, Google Analytics is providing the users/page views data, and the rest of the stats are pulled from internal database tables (quantities etc.). Please see the following URL to our stats page: https://data.gov.ie/stats
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Change;Yes;Not on the CKAN API. But we do track outgoing clicks to API resources. Currently 82% of datasets are available via APIs https://data.gov.ie/stats
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;We utilise Google analytics and surveys to understand users behaviours when using the portal.We also take on board what users who submit queries to our Open Data Tracker have to say and incorporate their suggestions into the development of the portal.;Complement;;"Yes, we use Fathom to analyse which pages users come from, their flow along the portal, etc. Those analytics also include information about other pages on the portal, not just the datasets. We utilise Google analytics and surveys to understand users behaviours when using the portal.We also take on board what users who submit queries to our Open Data Tracker have to say and incorporate their suggestions into the development of the portal.
+"
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;Yes, we use the analytics tool described above and the impact of that in real terms is realised in PT28.
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;"Yes, we undertakes activities to promote our portal and attract new users and new audiences. The following is an example of the activities we perform: 
+Launching our National Open Data Strategy 2023 - 2027: The existence of our second national Open Data Strategy recommends a focus on user engagement, and shows our efforts to broaden our user base. 
+Website Features: The data.gov.ie website itself offers features that offers a better UI-UX experience, such as Easy Navigation. Categorisation of datasets by topic and functionalities like search bars showcases efforts to make data discovery user-friendly.
+Open Data Engagement Fund: The existence of this fund highlights initiatives to support promoting data use and always attracts new audiences annually. 
+News & Updates: We regular provide Updates to our users as part of our communications plan.
+Contact Information: We give an option to everyone to reach out to the Open Data Unit directly through email or phone number provided on the website.
+Supporting Data Publishers: This involves assisting government agencies in making their data publicly available in a usable format. This includes training workshops or technical guidance.
+Maintaining the Open Data Platform: We oversee the technical aspects of data.gov.ie, ensuring smooth operation and user experience.
+Engaging Open Data Users by Promoting data use, User Education, and Community Building: The Open Data Engagement Fund encourages exploration and utilisation of open data data.gov.ie and other opendata sets not available on data.gov.ie. We also host workshops and provide resources on our portal to help users understand and analyse the data effectively. We also foster communication and collaboration among data publishers and users through our annual conferences. 
+Our activities target a broad audience with a focus on:
+Public Sector: Encouraging government agencies to publish data.
+General Public: Making data accessible and user-friendly for everyone.
+Specific Sectors: Initiatives like the Open Data Engagement Fund targets businesses and researchers interested in using the data for innovation or research.
+Broad: Anyone interested in learning more about open data, and all stakeholders in the open data ecosystem.
+"
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;Yes, Fathom is used to monitor a range of analytics data. The insights from these have fed into all stages of the portal’s development, including the updated design of the UI and the user journey whilst on the site. They are also published on the Stats page of the portal.
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"Yes. CKAN has internal tracking of dataset views. We use that to feature the most popular datasets. Top 5:
+https://data.gov.ie/dataset/national-monuments-service-archaeological-survey-of-ireland_x000D_
+https://data.gov.ie/dataset/open-topographic-lidar-data_x000D_
+https://data.gov.ie/dataset/national-planning-applications_x000D_
+https://data.gov.ie/dataset/dublinbikes-api_x000D_
+https://data.gov.ie/dataset/google-airview-data-dublin-city_x000D_
+"
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;"The 'Advanced Search' feature was extended this year to include keyword search on all datasets and filters such as Publisher, License, THemes and formats.
+https://data.gov.ie/advanced_search; 
+
+A general search facility is available on the portal home page which gives easy access to the data.  It provide advanced search features to facilitate more focused searches. https://data.gov.ie/advanced_search; 
+
+The portal uses DCAT-AP metadata; Enabling tagging; 
+Allowing sorting by ‘Most Popular’ datasets https://data.gov.ie/dataset?q=&sort=views+desc; 
+Allowing users to filter by APIs https://data.gov.ie/dataset?sort=views+desc&q=&api=true; 
+Providing ‘Search Tips’ above search bar https://data.gov.ie/dataset              
+
+Main categories of data can be accessed through the large data theme icons which are featured prominantly on the home page.  
+A banner to facilitae easy acces to Covid data has been added to the home page.
+
+In general, we work on improving the metadata to make discovering relevant data more easy. Examples of this work would be manually adding tags to harvested datasets- adding further discoverability to data than the publishers have added themselves.
+
+We have 'Featured' datasets those that are kept at the top of the list because they are deemed to be important in some way. This makes discovering them much easier.   We create data collections manually. for example, the Covid banner on the front page. This effectively curates mini-collections by associating datasets together.   ";Confirm;;
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Complement;;"Yes. Machines can use the CKAN API to read metadata. (https://docs.ckan.org/en/2.9/api/)_x000D_
+Humans can access an administrators/publishers guide. (https://data.gov.ie/pages/guideforpublishers).  Further, the forms to add data have descriptive text alongside each field describing that metadata in more detail. _x000D_
+"
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;"All PSBs who release open data are connected to the portal.  PBs who wish to release data will contact the ODU in the first instance.  They will be directed to the OD technical guidance documents on the portal which set out requirements for publishing to the portal including the CC By 4.0  licence, the metadata required and the accepted open formats.
+The PB will be set up as a publisher on the national portal and supported by the ODU to publish their data.  
+Where harvesting of data can be initiated or APIs implemented the PB will liaise with the technical support supplier to the ODU to put these services in place. 
+Most public service bodies do publish their data, the few who don't may not have tha capacity to publish yet or have little data to release due to GDPR concerns.  We are actively working with them to address these issues.  
+There is a network of Open Data Liaison Officers across public service organisations- the Open Data Unit is in regular contact with this network to support them and encourage them to publish their data in open format.
+
+A new Open Data Training framework was put in place in early 2022.  The courses which this training framework provides includes a course on the Publication of open Data. So far this year in 2023 there have been multiple training days on Data Audits and Data Publication. ";Confirm;The majority of public sector data providers;"There are 145 data publishers publishing 19723 datasets to the open data portal. The open data unit organises outreach and training events to inform public servants on the Open Data Directive and the benefits and requirements of publishing open data. We offer support and guidance on the practical aspects of publishing open data and support public sector bodies in explaining the benefits of open data to their senior management. There are a number of guidance documents available on the portal (https://data.gov.ie/pages/resourcesandpublications)(https://data.gov.ie/pages/opendatalicence)(https://data.gov.ie/pages/developers) and we offer open data training to all public servants (https://data.gov.ie/blog/open-data-training-for-public-sector-employees-new-2024-dates), where necessary, we advise PSBs on how to access professional private sector support through our technical framework (https://www.gov.ie/en/ogp-frameworks/4f19c-technical-services-for-open-data-and-data-management/). In addition to this, since the end of 2023, there is a new mentoring tool available on the portal, CEIST. When a new publisher is brought on board, they are given write access to the portal and also access to CEIST (https://discourse.staging.derilinx.com/) which is a space where they can ask questions of more experienced publishers and also publishers can detail their recent projects- the benefits and challenges they have encountered. 
+ 
+"
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"Training courses have been put in place under the new Open Data Training Framework for the public service.  There have been 2 rounds of these training days so far this year-2023. These include:
+1. General Introduction to Open Data
+2. Open Data & Re-Use of Public Service Information (PSI Directive)  – Implications for public bodies
+3. Open Data Audits and Data Publication
+4. Introduction to Data Analytics and Visualisations
+5. Data Anonymisation Techniques
+6. Introduction to Linked Data 
+
+There are also a number of actions the ODU takes to assist PBs to publish data. 
+We meet these public service bodies to promote open data training, auditing and the publication of their data.  When PBs want to start pulishing data we will meet with them to guide them through the publication process and on their request they will be set up as a publisher on the national portal.
+The Data Autit Tool on the Portal provides a mechanism for organisations to identify and catalogue what datasets they hold.  The Tool enables PBs to list and describe all datasets that exist within their organisation, so that the datasets can be reviewed and those that are suitable for publication as Open Data can be selected and approved. These datasets can then be published directly on data.gov.ie.
+
+PBs are directed to the guides and documentation available on the portal that explains the steps and requirements they should complete to publish their data, such as https://data.gov.ie/docs/Open-Data-Publication-Guidelines-2021.pdf and https://data.gov.ie/uploads/page_images/2018-08-08-164247.606489Add-a-Dataset-to-Portal-Guide---August-2018.pdf
+
+Data publishers who have relatively small amounts of datasts to publish can publish directly to the portal using the ‘add a dataset’ function.
+Where PBs have large volumes of data or datasets that are updated regularly and harvesting of data can be initiated or APIs implemented the PB will liaise with the technical support supplier to the ODU to put these services in place. 
+We also hold information webinars and an annual conference to promote the publication and reuse of data.
+";Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;"Housing CKAN data portal
+Clare County Council Arcgis
+Galway City Council OpenData
+Westmeath County Council ArcGIS
+OSI Covid-19 Geohive Datahub
+Tusla
+ISDE
+Galway County Council Arcgis
+Roscommon County Council Arcgis
+data.ehealthireland.ie
+SmartDublin
+data.corkcity.ie
+CSO
+QQI
+National Transport Authority                                                                                                                                                             The Department of Agriculture";Complement;;"Department of agriculture, Food and the Marine 
+https://opendata.agriculture.gov.ie/
+Kildare County Council CKAN
+https://data.kildarecoco.ie/
+Limerick City & County Council CKAN
+https://datacatalog.limerick.ie/
+Land Development Agency ArcGIS
+https://opendata-lda-ie.hub.arcgis.com/api/feed/dcat-us/1.1.json
+Inland Fisheries Ireland ArcGIS
+https://opendata-ifigis.hub.arcgis.com/data.json
+Department of Housing, Local Government, and Heritage CKAN
+https://opendata.housing.gov.ie/
+Clare County Council ArcGIS
+https://data-clarecoco.opendata.arcgis.com/api/feed/dcat-us/1.1.json
+Galway City Council ArcGIS
+https://galway-city-council-opendata-galwaycityco.hub.arcgis.com/api/feed/dcat-us/1.1.json
+Westmeath County Council ArcGIS
+https://westmeath-county-council-open-data-westmeath.hub.arcgis.com/api/feed/dcat-us/1.1.json
+OSI Covid-19 Geohive Datahub
+http://opendata-geohive.hub.arcgis.com/api/feed/dcat-us/1.1.json
+Tusla
+https://datacatalog.tusla.ie/
+Galway County Council ArcGIS
+https://opendata-galwaycoco.hub.arcgis.com/api/feed/dcat-us/1.1.json
+Roscommon County Council ArcGIS
+http://data-roscoco.opendata.arcgis.com/api/feed/dcat-us/1.1.json
+data.ehealthireland.ie
+https://data.ehealthireland.ie/
+SmartDublin 
+https://data.smartdublin.ie/
+Data.corkcity.ie
+https://data.corkcity.ie
+OSI ArcGIS
+https://data-osi.opendata.arcgis.com/data.json
+ISDE
+http://isde.ie/geonetwork/srv/eng/csw
+"
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";all datasets;;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;"Examples of real-tiem or dynamic datasets 
+https://data.gov.ie/dataset/real-time-passenger-information-rtpi-for-dublin-bus-bus-eireann-luas-and-irish-rail?package_type=dataset
+https://data.gov.ie/dataset/dublinbikes-api?package_type=dataset
+https://data.gov.ie/dataset/sonitus?package_type=dataset
+https://opendata-geohive.hub.arcgis.com/datasets/4779c505c43c40da9101ce53f34bb923_0
+https://data.smartdublin.ie/dataset/real-time-passenger-information-rtpi-for-dublin-bus-bus-eireann-luas-and-irish-rail
+https://data.gov.ie/dataset/attractions?package_type=dataset
+https://data.gov.ie/dataset/moby-bikes?package_type=dataset
+https://usmart.io/org/dhplg/discovery/discovery-view-detail/c291e0eb-ff22-4f71-8a58-87ffeeed878f";Confirm;;
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;Yes;"Yes, data.gov.ie provides a way for non-official data, i.e. not stemming from official sources, such as community-sourced/citizen-generated data to be published. Non-official data is distinguished from official data by listing the publishers clearly where the data is presented. An example of this is our showcases section, i.e., a different section of the portal. _x000D_
+_x000D_
+An example of this is COVID-19 Statistics and Twitter Bot:_x000D_
+In addition, some public sector bodies collect data in cooperation with individuals or civic groups, such as meteorological or wildlife species location data and these data are published under their auspices onto the portal.
+https://data.gov.ie/showcase/covid-19-statistics-and-twitter-bot._x000D_
+_x000D_
+_x000D_
+This data is an unofficial but comprehensive resource for COVID-19 data in Ireland. It goes beyond official government sources by incorporating data from Google, Apple, and other reputable organisations, providing a more holistic view of the pandemic's impact. The user-friendly dashboard curates information from various sources, potentially revealing hidden connections. By leveraging Open Data, this project empowers the public to stay informed and understand the evolving situation, showcasing the value of Open Data in public health communication and crisis response._x000D_
+"
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;The Public Service Data Catalogue aims to promote openness and transparency around the data held by the public service by cataloguing and describing public Service data. It catalogues open and non open data held by the public service https://datacatalogue.gov.ie/;Confirm;;
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;"Ireland has a national Open Data Strategy outlining a multi-year plan to maintain and improve the portal. The current strategy covers 2023-2027, focusing on accessibility, mobile-friendliness, and data reusability. Our portal is a well-functioning system with ongoing maintenance and improvement efforts._x000D_
+_x000D_
+URL to this document: https://data.gov.ie/docs/Open.Data.Strategy_FINAL_ENG.pdf_x000D_
+_x000D_
+This focus on ongoing development highlights our commitment to the portal's long-term viability._x000D_
+_x000D_
+Describe the main measures to keep the portal running in the long-term and continue to serve its audience:_x000D_
+_x000D_
+Our service providers for the portal that convers maintenance and servicing our audience is Derilinx. They provide this service to us under the OGP Framework for Technical Services for Open Data and Data Management. They offer services like data audits, data maturity assessments, and maintenance of the National Open Data Portal, amongst other things. We have regular meetings with them to discuss improvements to the portal and maintenance issues. _x000D_
+"
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;Twitter account  https://twitter.com/IRLDeptPER;Complement;Yes;We are also on Twitter: https://x.com/GovDataIE
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;Portal source code is available at https://github.com/derilinx/ckanext-dgi-public;Change;Yes;"Platform Name: Github_x000D_
+URL to the Portal’s account on this Platform: https://github.com/derilinx/ckanext-dgi-public_x000D_
+https://data.gov.ie/pages/developers
+"
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;"A dashboard of  metrics displaying the charistics of the data on the portal is provided on the Stats page at https://data.gov.ie/stats . 
+The QA Validator and KPI Repots provide data publishers with the ability to view the quality of their data, identify issues such as broken links or missing metadata. https://data.gov.ie/kpi-report
+https://data.gov.ie/qa-report";Confirm;;
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;"The QA Validator and KPI Repots provide data publishers with the ability to view the quality of their data, identify issues such as broken links or missing metadata.  It provides them with the information required to address the issues identified and to then take the necessary action to resolve the issue or improve the quality of their data.  
+The QA Validator is an exception report, that is, it only lists datasets with issues or potential issues.  Datasets are checked for missing or incorrect metadata, resources that are not in the format stated, broken links, datasets not being updated according to the stated frequency.  
+The KPI Reports provides a summary of the datasets published by public bodies across the categories of data.  It provides publishes with a several views of their data including a quarterly summary of page views of their data.  It also allow them to compare how the quality of their data rates in comparision with other publishers.
+https://data.gov.ie/kpi-report
+https://data.gov.ie/qa-report";Confirm;;

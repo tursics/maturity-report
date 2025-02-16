@@ -1,0 +1,110 @@
+;Dimension 3: Open Data Quality;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;3.1 Currency and completeness;;;;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;The Irish open data portal curretly has 17 harvestersthat update the data and metadata  automatically overnight. This includes several harvesters that manage data from a number of different public bodies i.e. the ISDE, GeoHive and CSO harvesters manage data from a number of smaller organisations in addition to their own.  This ensures an extra layer of data checking and verification and that data updates are regularly made.    Smaller public bodies with fewer open datasets publish their data manually, but the upload process ensures that the metadata is required in the correct format for the process to be completed.  In addition to this, we have added a number of tools for open data owners to check and quality control their data. These are at https://data.gov.ie/kpi-report and https://data.gov.ie/qa-report and allow the data owners to have an accessible overview of their dataset.;Complement;;We have have 18 Harvesters.
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;70-89%;Approx. 81%. We have a range of different harvesters, all of which run nightly. We have harvesters based on the ckanext-harvest extension that connect to (e.g.) ArcGIS. We have customised script harvesters that connect to data providers’ custom api endpoints and we have CKAN to CKAN harvesters in the cases where government departments have their own CKAN portals under a federated model. These include all kinds of data formats including px for statistical data, geojson and other geospatial formats, and tabular data in csv format.
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;Overnight if it is changed at the source as our harvesters run overnight. On our portal it changes instantly. 
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;Yes, we consistenly review datasets to ensure the data covers the complete time series. In additon to this, we have updated metadata on each datasets to include the Date released, Date updated, Update frequency, Period of time covered (begin), Period of time covered (end), and State of the dataset. 
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;Yes, our web developers have implemented this through the search functionality and it is there an option for publishers when they are publishing HVDs. Some challenges include the option not being mandatory to include for a publisher and also it is unkown if HVDs through the harvesters are appearing as HVDs in the portal. We are liasing further with our developers to fix this issue.
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;Yes, we use standardised data formats to allow for easier integration and analysis of our data. Some examples would include CSV, JSON, and XML for tabular data, and GeoJSON or Shapefiles for geospatial data. We also have metadata specifications such as definitions, units of measurement, and reference systems. We use country codes, industry classifications etc. for harmonised vocabularies. We also encourage access to high-value datasets through APIs where possible, and bulk download services.
+;3.2 Monitoring and measures;;;;;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"A data quality report (""QA Validator"") is published at https://data.gov.ie/qa-report. Both internal monitoring using the QA Validator and the results of the EU Open Data Portal (MQA) (https://data.europa.eu/mqa/catalogues/data-gov-ie) are monitored.";Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;https://data.gov.ie/qa-report;Confirm;;
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;We have publication guidelines in place: https://data.gov.ie/pages/resourcesandpublications . We also have upgraded our portal allowing for an optimised UI-UX experience for both the user and publisher which makes the step by step process of publishing data intuitive and we also have a dedicated publishers forum where publishers can ask any questions.
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;"Ireland recommends the adoption of a standardised Metadata Schema by public bodies, Data Catalogue Vocabulary Application Profile (DCAT-AP) standards. These recommendation ensures interoperability between datasets published by public bodies. The mandatory classes include ‘catalogue’, ‘dataset’, and ‘distribution’. Metadata quality is assessed based on compliance with DCAT-AP and its derivatives, accessibility of data through URLs, machine readability of data, and use of known open-source licenses._x000D_
+_x000D_
+For more explicit details on Ireland’s implementation, you can refer to the Open Data Technical Framework on data.gov.ie:_x000D_
+https://data.gov.ie/pages/opendatatechnicalframework_x000D_
+"
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;"Yes, it is mandatory according to Circular: 20/2021 Open Data Directive with some exceptions according to S.I. No. 376 of 2021. Please refer to the following for explicit information: _x000D_
+https://data.gov.ie/uploads/page_images/2024-04-17-100657.069939Circular-202021-Open-Data-Directive.pdf_x000D_
+https://data.gov.ie/docs/ENG_SI.376_2021.pdf_x000D_
+ Please see the following for a link to the guidelines:_x000D_
+https://data.gov.ie/pages/guideforpublishers_x000D_
+_x000D_
+"
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;>10;N/A;Change;1-4;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;Yes, there is training happening every month for Irish Public Sector Staff that is comissioned by the Open Data Unit. They would include access e-learning materials. We also have 22 showcases on our portal. Data Audits are provided through our framework on request and we do hold meetings with publishers to help the ODI. We also hold an annual conferences and meeting with publishers. We also send out quartly newsletters. 
+;3.3 DCAT-AP Compliance;;;;;
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;"Data.gov.ie follows the DCAT-AP framework, this is evident from our Technical framework: https://data.gov.ie/pages/opendatatechnicalframework and also from our publishing Guidelines: https://data.gov.ie/guidelines/publish.html_x000D_
+We require that all data published on the platform must be compliant with DCAT-AP, emphasising that this an international Open Data metadata standard. We also advocate for the use of Unique Resource Identifiers (URIs) to facilitate better data discovery and interoperability. We also have an Audit Tool to validate datasets against DCAT-AP standards. This tools can check for missing mandatory properties, proper use of controlled vocabularies, and adherence to the DCAT-AP schema. We also provide training resources for data providers on how to create high-quality DCAT-AP compliant metadata. This includes best practices, examples, and tutorials._x000D_
+"
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);51-70%;;Confirm;>90%;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";no ;;Confirm;;
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;Yes;"Yes, Ireland investigates the most common causes for the lack of DCAT-AP compliance. We investigate this through various mechanisms, one of which is Data Publisher Feedback. Our portal has mechanisms in place for data providers to submit feedback on challenges they face in creating DCAT-AP compliant metadata.  We also have a Data Quality Monitoring tool, which helps uncover recurring errors or inconsistencies that suggest specific compliance challenges. Reports we receive from users are also helpful. They sometimes report issues if they encounter difficulty understanding or utilising datasets due to poor metadata quality. Analysing these reports can reveal areas where DCAT-AP compliance is lacking.
+
+The main causes for the lack of DCAT-AP compliance are Lack of Awareness and Training, Data Management Challenges, and Time and Resource Constraints.
+"
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;<10%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+;3.4 Deployment quality and linked data;;;;;
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;We produce a monthly summary of the number of datasets meeting each of the criteria on the 5-Star scale (https://data.gov.ie/stats), as well as tagging each dataset with the number of stars it has.;Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;"Open Data training courses are provided which set out how data should be published to the portal.  This includes the formats and standards required to meet the 5 star model.  
+The importance of both the 5 star rating and the FAIR principles form part of our training courses on open data for the public sector.  Data must be a minimum of 3 star rating for the open data portal.  The FAIR principles are always the objective when we consider how data on the portal can ve accessed.
+Guidance and support is provided on an individual basis to public bodies by the ODU which promotes the use of the 5 star modeland provides information on the publication of data on the Portal.
+The Publication Guidelines documents the standards and formats for publication of data including the 5 star model, license to use and acceptable formats.https://data.gov.ie/guidelines/";Confirm;;
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;>90%;N/A
+Q26;What percentage of licences are provided in a structured data format?;51-70%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;>90%;N/A;Confirm;>90%;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;>90%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;Confirm;<10%;N/A

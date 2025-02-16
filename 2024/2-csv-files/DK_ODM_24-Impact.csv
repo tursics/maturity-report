@@ -1,0 +1,265 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"As defined in the Danish Implementation of the ODD: https://www.retsinformation.dk/eli/lta/2021/1764 (§3, stk. 6 ""Videreanvendelse"")
+
+Response: On second thought, the more relevant passage is probably §7: Når dokumenter og datasamlinger stilles til rådighed for videreanvendelse, skal offentlige myndigheder og offentlige virksomheder sikre, at disse er tilgængelige i alle allerede eksisterende sprogversioner og formater, herunder i elektroniske formater. Er det muligt og hensigtsmæssigt, skal dokumenter og datasamlinger endvidere stilles til rådighed i formelle, åbne og maskinlæsbare formater sammen med dokumenters og datasamlingers metadata, medmindre det ikke kan klares ved en simpel ekspeditionssag.
+
+An unofficial translation would be: ""When documents and data collections are made available for reuse, public authorities and public companies must ensure that these are available in all already existing language versions and formats, including in electronic formats. If possible and appropriate, the documents and data collections must, moreover, be made available in formal, open and machine readable formats accompanied by metadata related to the documts and data colletions, unless this cannot be accomplished through a simple matter of form.""
+
+The last bit, ""en simpel ekspeditionssag"", is a bit hard to translate. The point is that authorities are legally required to provide data as openly as is readily possible. This legal requirement is accompanied by a strategic goal of raising this level of openness for valuable data through targeted investments. 
+
+";Change;Yes;"As defined in the Danish Implementation of the ODD: https://www.retsinformation.dk/eli/lta/2021/1764 (§7, Stk. 1, ""Betingelser for videreanvendelse""): 
+
+The passage reads: Når dokumenter og datasamlinger stilles til rådighed for videreanvendelse, skal offentlige myndigheder og offentlige virksomheder sikre, at disse er tilgængelige i alle allerede eksisterende sprogversioner og formater, herunder i elektroniske formater. Er det muligt og hensigtsmæssigt, skal dokumenter og datasamlinger endvidere stilles til rådighed i formelle, åbne og maskinlæsbare formater sammen med dokumenters og datasamlingers metadata, medmindre det ikke kan klares ved en simpel ekspeditionssag.
+
+An unofficial translation would be: ""When documents and data collections are made available for reuse, public authorities and public companies must ensure that these are available in all already existing language versions and formats, including in electronic formats. If possible and appropriate, the documents and data collections must, moreover, be made available in formal, open and machine readable formats accompanied by metadata related to the documts and data colletions, unless this cannot be accomplished through a simple matter of form.""
+
+The last bit, ""en simpel ekspeditionssag"", is a bit hard to translate. The point is that authorities are legally required to provide data as openly as is readily possible. This legal requirement is accompanied by a strategic goal of raising this level of openness for valuable data through targeted investments. 
+
+";;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;This is done by the data distribution platforms such as the data distributor and data supply (www.dataforsyningen.dk) for basic data, the statbank for statistical data, and the environmental portal for environmental data. These portals track data usage, survey users, etc.;Complement;;"This is done by the data distribution platforms such as the data distributor and data supply (www.dataforsyningen.dk) for basic data, the statbank for statistical data, and the environmental portal for environmental data. These portals track data usage, survey users, etc.
+
+See fx https://datafordeler.dk/vejledning/modernisering/ (Last part ""Om Datafordeleren"" mentioning that the Data Distributor received 1.8b API calls) and Statistics Denmark's overview of user surveys: https://www.dst.dk/da/OmDS/strategi-og-kvalitet/brugerundersoegelser";;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";yes;As there is a strong political focus on data re-use, agencies have a strong incentive to monitor and document data re-use to justify continued investment in their activities. ;Confirm;;;;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;The monitoring mentioned in I3 also applies to data that happens to be HVD. ;;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"The impact of open data is descibed in a number of socio-economic analyses; see pp. 19-20 (of the pdf): https://www.ft.dk/~/media/sites/statsrevisorerne/dokumenter/2018/beretning-12-2018-om-aabne-data.ashx?la=da - open data creates economic value as well as increased transparency in the public sector.
+The impact is defined as the value of the effect on production and efficiency in the private and in the public sector: https://sdfe.dk/media/2916777/de-frie-geodata-eftermaaling.pdf  https://kefm.dk/media/6500/erhvervslivets-brug-af-kortforsyningen.pdf";Confirm;;;;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;"This varies depending on which kind of value/impact is being analysed. For geodata, one such methodology is described in this report on the private sector's use of geodata:  https://kefm.dk/media/6500/erhvervslivets-brug-af-kortforsyningen.pdf
+
+The three key points are: 
+1. Identification of main users (companies) through logdata 
+2. Financial analysis of the companies identified in 1)
+3. Qualitative research, including interviews with users";Confirm;;;;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"o The Agency for Digital Government collaborates closely with a range of actors in the field of language technology. Open Danish language resources are made available at sprogteknologi.dk The agency co-hosts an annual conference at the University of Copenhagen with a focus on language technology: https://cst.ku.dk/kalender/sprogteknologisk-konference-2022/
+
+Open Data DK is a civil society organization that receives public funding to assist (chiefly) municipalities and regions in publishing open data. Additionally, Open Data DK receives and answers many questions from regular citizens and students looking for data - occasionally with assistance from the national portal. ";Change;Yes;"o The Agency for Digital Government collaborates closely with a range of actors in the field of language technology. Open Danish language resources are made available at sprogteknologi.dk The agency co-hosts an annual conference at the University of Copenhagen with a focus on language technology: https://cst.ku.dk/kalender/sprogteknologisk-konference-2023/
+
+Open Data DK is a civil society organization that receives public funding to assist (chiefly) municipalities and regions in publishing open data. Additionally, Open Data DK receives and answers many questions from regular citizens and students looking for data - occasionally with assistance from the national portal. 
+
+See also the D3A conference participation mentioned in PT27. ";;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;No;;;;
+I8-b;Surveys;new question;new question;Change;Yes;https://www.dst.dk/da/OmDS/strategi-og-kvalitet/brugerundersoegelser;;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;"https://digst.dk/nyheder/nyhedsarkiv/2023/september/invitation-til-workshop-om-national-3d-model/
+
+The Agency for Digital Government is also currently conducting interviews with data reusers";;;
+I8-d;Other;new question;new question;Change;No;;;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;Case interviews conducted with portal users to understand better which types of data they are interested ind, and how they wish to access it. ;;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;;;;
+I9-c;Other;new question;new question;Change;Yes;Interviews/workshops as mentioned above: https://digst.dk/nyheder/nyhedsarkiv/2023/september/invitation-til-workshop-om-national-3d-model/;;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;"Not in one way, but in many, as described elsewhere: E.g. through interviews with select re-users representing different user groups and different levels of maturity and size. Also through seminars with specific user groups, as is the case for the Environmental Portal: https://miljoeportal.dk/om-danmarks-miljoeportal/brugerseminar-i-danmarks-miljoeportal/
+
+Not all cases are presented in the same way. Some are written up as articles: https://dataforsyningen.dk/cases, others shown with short descriptions in catalogues: https://support.miljoeportal.dk/hc/da/articles/360001195017-Rotter-Slutbrugerl%C3%B8sninger, https://miljoeportal.dk/nyheder/arkiverede-nyheder/slutbrugerloesninger-til-puls/ (end user solutions for the rat database and the groundwater database, respectively), others are kept for internal use by authorities to guide their efforts. 
+ ";Confirm;;;;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";No;;Confirm;;;;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";yes;"https://sdfe.dk/media/2917052/20170317-the-impact-of-the-open-geographical-data-management-summary-version-13-pwc-qrvkvdr.pdf
+
+This point is elaborated in the much longer version of the report that's in Danish: https://sdfe.dk/media/2916777/de-frie-geodata-eftermaaling.pdf. See pt. 4.3., ""The effects of open geodata in the public sector"", fx figure 35 on p. 47 specifying the sectors of municipal administration that make use of open geodata";Confirm;;;;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Open data from past environmental assessments is used to speed up the process of performing new ones: https://eatools.miljoeportal.dk/landing. Data: https://eahub.miljoeportal.dk/home. 
+
+";;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;" Data about GPA and student well-being (among other things) is published for all schools: https://uddannelsesstatistik.dk/Pages/main.aspx
+
+Waiting lists and patient satisfaction are shown for hospital treatments: (Random example selected here) https://www.esundhed.dk/Emner/Patienter-og-sygehuse/MitSygehusvalg?treatmentId=4&organizationGroupId=1&regionId=,,3,4,5&postalFrom=5000
+
+Ministers' expenses and gifts received are recorded: https://oes.dk/oekonomi/aabenhedsordning/oversigt-alle-ministerier/
+
+The availability of open data on hospital waiting lists contribute to fact-based journalism and political attention on waiting time in the health sector, cf. this article on neurology patients: https://neurologisktidsskrift.dk/sygdomme/388-personalemangel-og-flere-patienter-giver-lange-ventetider-pa-neurologi-afdelinger.html and this plan from Danish Regions (who runs the public hospitals) to reduce waiting lists: https://www.regioner.dk/services/nyheder/2022/september/danske-regioner-lancerer-plan-for-at-bekaempe-ventelister-og-personalemangel-i-sundhedsvaesenet ";;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Yes Denmark has a long tradition for collecting data and establishing data registries. Thus, the Danish Public sector has been data-driven for many years. Since 2012 The Basic Data programme has provided the Danish Society with high quality Basic Data: 
+One example is this case from Thisted Municipality in which consulting firms leveraged free geodata to thoroughly map out an area targeted for rewilding before the project was started. This made the work much easier and saved the municipality hundreds of thousands of DKK:: https://dataforsyningen.dk/cases/2161
+
+Open data is also widely used for flooding prevention: https://dataforsyningen.dk/cases/946
+";;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"o Yes Denmark has a long tradition for collecting data and establishing data registries. Thus, the Danish Public sector has been data-driven for many years. Since 2012 The Basic Data programme has provided the Danish Society with high quality Basic Data: 
+One example is this case from Thisted Municipality in which consulting firms leveraged free geodata to thoroughly map out an area targeted for rewilding before the project was started. This made the work much easier and saved the municipality hundreds of thousands of DKK:: https://dataforsyningen.dk/cases/2161
+
+Open data is also widely used for flooding prevention: https://dataforsyningen.dk/cases/946";;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";yes;"o Hjælpemiddeldatabasen (AssistData, a database for assistive technology) supplies data to public and private suppliers of assistive products and IT solutions to support stock control, information retrieval, and case management in the field of assistive technology: https://hmi-basen.dk/en/news.asp?newsid=4325&x_newstype=29. The data helps municipalities with stock management, information search, and case handling in the field of assistive technology. 
+
+o Education statistics (Udannelsesstatistik) highlights the performance of students at a school as compared to what might be ""expected"" of them given their socioeconomic background, thus allowing for more fair comparisons between schools: https://uddannelsesstatistik.dk/Pages/main.aspx
+This benchmarking data is used to facilitate discussions on student welfare between teachers, students, and parents, cf. the examples pp. 22ff.: https://emu.dk/sites/default/files/2020-02/1.%20En%20guide%20til%20skoleledelsen.pdf
+
+Response: Researchers based at Aalborg University have conducted a number of studies especially on the impact of open data for fostering data literacy in public schools, cf. e.g. the publication list of professor Rikke Magnussen: https://vbn.aau.dk/da/persons/126546/publications/, namely articles such as: https://vbn.aau.dk/ws/portalfiles/portal/468963477/paper07.pdf and https://www.sciencedirect.com/science/article/pii/S0360131521001718?via%3Dihub
+";Confirm;;;;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The Ministry of Immigration and Integration publishes a national ""Integration barometer"": https://integrationsbarometer.dk/barometer. Here, progress is tracked for nine key indicators of integration of foreigners into Danish society - nationally and by municipality. This allows policy-makers to target those areas where progress is lacking. 
+
+o The Danish Immigration Service and The Danish Agency for International Recruitment and Integration (SIRI) maintain a site in Danish, English, and Ukrainian that collects all relevant information from Danish authorities to Ukrainian refugees: https://www.nyidanmark.dk/uk-UA/Words%20and%20Concepts%20Front%20Page/Shared/Information%20Ukraine. Moreover, the Partnership for the employment of Ukrainians, which is a collaboration between the public sector and employers' and employees' associations, has launched the website https://jobguideukraine.dk/. The site provides link to relevant resources for Ukrainian job seekers. 
+o Statistics Denmark maintains a thematic page about the war in Ukraine: https://www.dst.dk/da/Statistik/temaer/invasion-af-ukraine
+The Danish Agency for Labour Market and Recruitment tracks the employment status for Ukrainian refugees in Denmark: https://www.jobindsats.dk/rapportbank/monitorering-af-arbejdsmarkedet/monitorering-af-fordrevne-personer-fra-ukraine/. 
+";;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;Open data is used extensively in all stages of land development. Current and past local area plans dating back decades are digitized  and free to access for developers, city planners, residents, and others at: https://visplaner.plandata.dk/lokalplan?loc=665690%2C6237500%2C2. This makes the process of planning housing smoother as planners are able to easily find suitable and designated areas. See also the environmental assessment tools mentioned in I23.  ;;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"• https://www.sundhed.dk/borger/ and MinSundhed can be used by all citizens to view and access their personal medical data. You can view laboratory answers, find doctors and get an overview of prescription medicine. 
+
+o On the same platform it’s possible to access the doctor's handbook to get an overview of procdures etc. and also the patient handbook for similar overview
+
+Open health data is used to inform public debate about health-related issues, cf. this article highlighting the fact that Ozempic weight loss-medicine is disproportionately prescribed to citizens living in wealthy parts of the country: https://ugeskriftet.dk/nyhed/det-er-desvaerre-mere-okonomien-end-overvaegten-der-er-afgorende-om-patienterne-far-wegovy
+";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Statistics Denmark collaborates with and mentors university students that wish to make use of their data in theses: https://www.dst.dk/da/OmDS/Job/studerende
+Also Open Data DK and the Danish National Data Portal receive and reply to many inquiries from students looking for data for their papers.
+";;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";No;"o Climate change adaption monitors rain and seawater levels using open geodata
+https://en.klimatilpasning.dk/
+o Danish open INSPIRE data are used in a range of monitoring and eReporting at EU level. 
+A list of 44 unique reporting data sets fulfilling 49 regulatory reporting obligations coming from 20 different legal acts within the acquis of DG ENV and linked to EEA core data flows where relevant
+See https://www.eea.europa.eu/ for examples of applications and reporting based on this data. 
+
+ The Climate Atlas made by the Danish Meteorological Institute is used by municipalities, companies, and students alike: https://www.dmi.dk/klima-atlas/sadan-anvendes-klimaatlas/, https://www.dmi.dk/klimaatlas/.
+
+";Change;Yes;See the collection of research and popular publications on the impact of HIP, the Hydrological Information and Prognostication System: https://hip.dataforsyningen.dk/pages/userforum.html. These publications assess the use of HIP in climate change adaptation and suggest new pathways for further development. Cf. fx the recommendations from this paper  https://data.geus.dk/gpub-landingpage/?id=34684: (In Danish), especially the paragraph on page 53. As well as the short article on pages 39-40 in this magazine describing the use of HIP and how it can be complemented by data which is available in prototype form in SDFI Labs: https://issuu.com/ktc-teknikogmiljo/docs/teknik_milj_-_januar_februar_2023, https://dataforsyningen.dk/labs (Befæstelsesdata and LAR - data). ;;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;Yes, cf. The reuse of environmental assessments mentioned in I13. This leads to quality improvements in addition to the efficiency gains mentioned above, and more accurate environmental assessments will ultimately benefit the protection of biodiversity. ;;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;Fx through the use of open data on parking spot availability, thus reducing the amount of traffic made up by those who drive around looking for a place to park, cf. this recent article from our partner organisation OpenDataDK describing the re-use of such data from the Danish city Vejle: https://www.opendata.dk/blog/nye-aabne-live-parkeringsdata-nemmere-at-finde-ledig-parkeringsplads-og-mindre-forurening/;;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;Open weather data and flood wornings from the Danish Meteorological Insititute are combined with local warning systems to inform efforts in the case of flooding, e.g. by directing personnel towards at-risk areas, emptying reservoirs to prepare for new precipitation, etc.: https://www.klimatilpasning.dk/viden-om/teknologi/hverdagsregn-og-skybrud/varsling-overvaagning-og-styring/. A number of use cases are collected on this page on climate change adaptation (klimatilpasning). Moreover, a new and improved national flood warning system is being developed, which combines open weather and hydrology data: https://www.geus.dk/om-geus/nyheder/nyhedsarkiv/2023/maj/varsling-af-oversvoemmelser;;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;The Danish municipalities and the Agency for Data and Infrastructure have developed a data model for reporting Alternative Fuels Infrastructure to the IT system GeoFA: https://geofa-kort.geodanmark.dk/app/fkg/?config=/api/v2/configuration/fkg/configuration_fkg_udgivet_5f465f5d3181f687353260.json#Basis_kort/8/9.7545/55.8869/fkg.t_5607_ladefacilitet. Data to this system is reported by private and public actors alike and can be used by anyone: https://www.kl.dk/hoeringssvar/teknik-og-miljoe/2024/hoeringssvar-aendring-af-lov-om-infrastruktur-for-alternative-drivmidler-til-transport. This data can be used by, e.g., smartphone apps showing the availability of charging stations, as well as municipalities in deciding where to build more infrastructure.  ;;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";yes;"The ministry of digital government publishes an annual report on Denmark's Digital  Growth, partly in response to the DESI: https://digmin.dk/Media/638186177595246382/ENDELIG%20Redeg%c3%b8relse%20om%20Danmarks%20Digitale%20V%c3%a6kst%202023.pdf 
+Cf. p. 12. citing a number of studies - some of them broader analyses, others based on Danish data - showing the relation between the level of digitisation and economic growth. This can at least in part be ascribed to basic data, which functions as the basis for millions of transactions in the private and public sectors each day. 
+
+o Several reports and analyses have indicated that the value of open geodata and basic data in general ranges in billions of DKK: 
+https://gst.dk/media/2916790/de-frie-geodata-eftermaaling.pdf
+https://sdfe.dk/media/2917052/20170317-the-impact-of-the-open-geographical-data-management-summary-version-13-pwc-qrvkvdr.pdf
+https://sdfe.dk/data-skaber-vaerdi/nyheder/nyhedsarkiv/2017/mar/stor-stigning-i-vaerdien-af-de-frie-geografiske-grunddata/
+https://sdfe.dk/media/2917052/20170317-the-impact-of-the-open-geographical-data-management-summary-version-13-pwc-qrvkvdr.pdf";Complement;Yes;"The ministry of digital government publishes an annual report on Denmark's Digital  Development partly in response to the DESI: https://www.digmin.dk/Media/638503467001028518/Redeg%c3%b8relse%20om%20Danmarks%20Digitale%20Udvikling%202024%20endelig.pdf 
+Cf. p. 34. citing a number of studies - some of them broader analyses, others based on Danish data - showing the relation between the level of digitisation and economic growth. This can at least in part be ascribed to basic data, which functions as the basis for millions of transactions in the private and public sectors each day. 
+
+o Several reports and analyses have indicated that the value of open geodata and basic data in general ranges in billions of DKK: 
+https://gst.dk/media/2916790/de-frie-geodata-eftermaaling.pdf
+https://sdfe.dk/media/2917052/20170317-the-impact-of-the-open-geographical-data-management-summary-version-13-pwc-qrvkvdr.pdf
+https://sdfe.dk/data-skaber-vaerdi/nyheder/nyhedsarkiv/2017/mar/stor-stigning-i-vaerdien-af-de-frie-geografiske-grunddata/
+https://sdfe.dk/media/2917052/20170317-the-impact-of-the-open-geographical-data-management-summary-version-13-pwc-qrvkvdr.pdf";;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The Danish Agency for Labour Market and Recruitment has developed tools such as ""Vores Arbejdsmarked"" (Our Labour Market) and ""Kompetenceværktøjet"" (The Skills Tool) which uses open data from the agency's job portal JobNet to determine which types of positions and skills are in high demand in individual municipalities, which can help job seekers direct their efforts: https://jobindsats.dk/rapportbank/monitorering-af-arbejdsmarkedet/vores-arbejdsmarked/, https://jobindsats.dk/rapportbank/monitorering-af-arbejdsmarkedet/kompetencevaerktojet/, data from https://jobindsats.dk/databank/";;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"A number of Danish language resources are made available as open data on sprogteknologi.dk to aid in the development of Danish-language AI: https://sprogteknologi.dk/ 
+The project ""CoRaL"" is in the process of collecting, transscribing and publishing speech data as open data to alleviate issues of bias that otherwise arise when developing language technology for a language with limited available data. The data and models are being developed in collaboration with companies who have pledged to develop solutions on top. This does not change that all the data and models will be open for anyone to reuse. The first data was released in April: https://sprogteknologi.dk/dataset/coral-tts. 
+
+As an example of a use case, the municipality of Sønderborg has developed a tool to help aid caseworkers handle FOA requests: https://ai-aktindsigt.dk/. The models and data from the project have been shared for reuse: https://ai-aktindsigt.dk/datatilsynet-bekraefter-grundmodel-og-datasaet-kan-udstilles.html and include data scraped from other Danish municipalities’ web pages. 
+";;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Danish companies are among the most digitised in the world, owing in part to the availability of robust and connected pbulic data. Cf. this report from the association of Danish SME's: https://smvdanmark.dk/analyser/temaanalyser/produktive-danske-smver
+
+The ministry of digital government publishes an annual report on Denmark's Digital Development, partly in response to the DESI: https://www.digmin.dk/Media/638503467001028518/Redeg%c3%b8relse%20om%20Danmarks%20Digitale%20Udvikling%202024%20endelig.pdf 
+Cf. pp. 33ff. citing a number of studies - some of them broader analyses, others based on Danish data - showing the relation between the level of digitisation and economic growth. 
+
+o Several reports and analyses have in+[@[Provide updated explanation (if applicable)]]";;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Danish companies are among the most digitised in the world, owing in part to the availability of robust and connected pbulic data. Cf. Reports 
+
+The ministry of digital government publishes an annual report on Denmark's Digital Development, partly in response to the DESI: https://www.digmin.dk/Media/638503467001028518/Redeg%c3%b8relse%20om%20Danmarks%20Digitale%20Udvikling%202024%20endelig.pdf 
+Cf. pp. 33ff. citing a number of studies - some of them broader analyses, others based on Danish data - showing the relation between the level of digitisation and economic growth. 
+
+o Several reports and analyses have indicated that the value of open geodata and basic data in general ranges in billions of DKK: 
+https://gst.dk/media/2916790/de-frie-geodata-eftermaaling.pdf 
+https://sdfe.dk/media/2917052/20170317-the-impact-of-the-open-geographical-data-management-summary-version-13-pwc-qrvkvdr.pdf 
+https://sdfe.dk/data-skaber-vaerdi/nyheder/nyhedsarkiv/2017/mar/stor-stigning-i-vaerdien-af-de-frie-geografiske-grunddata/ 
+https://sdfe.dk/media/2917052/20170317-the-impact-of-the-open-geographical-data-management-summary-version-13-pwc-qrvkvdr.pdf 
+";;;

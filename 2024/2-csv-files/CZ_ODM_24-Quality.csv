@@ -1,0 +1,103 @@
+;Dimension 3: Open Data Quality;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;3.1 Currency and completeness;;;;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;"Responses to reviewer:
+
+There is no mandatory part of the metadata record that would have to be updated when the data is updated. However, the quality of all metadata records can be monitored directly on the Open Data Portal, through which the Open Data Team informs the providers of discrepancies. The information on the status of the metadata is then further compiled in the Annual Open Data Status Report (see https://data.gov.cz/p%C5%99%C3%ADlohy/v%C3%BDro%C4%8Dn%C3%AD-zpr%C3%A1vy/V%C3%BDro%C4%8Dn%C3%AD%20zpr%C3%A1va%20o%20stavu%20otev%C5%99en%C3%BDch%20dat%20v%20%C4%8Cesk%C3%A9%20republice%20za%20rok%202022.pdf), which is reported directly to government, putting pressure on providers to ensure that the quality of the data and metadata is as high as possible and regularly updated. In addition, the most important providers are part of the Open Data Working Group under the Government's Information Society Council ""RVIS"". At all meetings of the group, which are led by the national Open Data Team, they are informed of the need to regularly update metadata and the data itself (meetings are held 4 times a year, see RVIS Annual Report where the emphasis on metadata is specifically mentioned https://www.vlada.cz/assets/ppov/rvis/vyrocni_zpravy/Zprava-o-cinnosti-RVIS-od-1--1--do-31--12--2022.pdf ).";Confirm;;
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;100%;The second option for metadata registration for larger or more advanced providers is to use a local catalog. It can be implemented as any software, but the condition for its use with the national portal is compliance with DCAT-AP-CZ, which is also used by the national portal. Such a local catalog is registered only once using one data message, and then all metadata changes take place only in the local catalog. The national catalog then harvests the local catalog at regular intervals (approx. once every 24 hours) - it reads the metadata records and forms their image in the national catalog.
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;The National Catalog harvests metadata from data providers at regular intervals (approx. once every 24 hours) so every change at the source is visible on the Portal within 24 hours.
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;"The national portal enables the registration of so-called data series, which cover a larger number of data sets that are connected by connections. The context can be temporal (budget in years), spatial (lists of streets in municipalities) or thematic (data sets from one system). Examples of data series are: 
+Fiscal outlook - https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00006947%2F42e270cd87956120340801cfa2f74af9; ARES - Administrative register of economic entities - https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00006947 %2F4e7b6c4003ae1079dda2b7a56c93d248, Municipal monitoring - https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00006947% 2Fd0fdd7b50715c7963bd3777c8484fb1a."
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;There were no major challenges, the process was quite straight-forward. The only minor challenge was with the HVD category code-list which was insufficient at first and only updated in June 2024 to include everything necessary for proper HVD reporting. This has delayed us as we needed to include this information in out DCAT-AP-CZ specification.
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;The National Open Data Team in the context of HVD consulted national processes with Slovakia - in the case of INSPIRE data in November 2023 at the INSPIRUJME 
+;3.2 Monitoring and measures;;;;;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;We monitor the metadata quality on the National Open Data Portal. The mechanism of the metadata quality measurements computed using the specific data representation is described here: https://www.sciencedirect.com/science/article/abs/pii/S1570826818300532?via%3Dihu. The results of monitoring are available in detail here: https://opendata.gov.cz/statistika:datova-kvalita and in the form of dashboards here: https://data.gov.cz/datov%C3%A1-kvalita/#n%C3%A1hled-na-dashboard-nkod.;Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;The metadata quality information is displayed on the National Open Data Portal here - https://opendata.gov.cz/statistika:datova-kvalita - links to CSV files included. In addition, these metrics are included in the SPARQL endpoint of the portal and they are also part of the UI for each individual metadata record in the Portal. Moreover, both publishers and users can check the metadata quality through dashboards for better undesrtanding of potential deficiencies here: https://oha01.mvcr.gov.cz/kibana/app/dashboards#/view/43389e30-3335-11ec-aeb4-71177d02ba9a?_g=(filters:!()).;Confirm;;
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;The National Open Data Team has prepared guidelines for ensuring high-quality metadata. For example, in the form of general e-learning for cataloging and proper metadata management (https://data.gov.cz/vzdělávání/e-learning/katalogizace-otevřených-dat/), instructions for detailed metadata settings (https://opendata.gov. cz/cinnost:priprava-katalogizacniho-zaznamu?s[]=metadata), as well as instructions for determining the license, including a decision-making diagram (https://opendata.gov.cz/cinnost:stanoveni-podminek-uziti?s[]=licence ), or on form of sharing bad practices in the field of metadata (https://opendata.gov.cz/%C5%A1patn%C3%A1-praxe:start?s[]=praxe). It also regularly monitors and evaluates the quality of metadata at the working group, which motivates providers to improve the quality of metadata. At the same time, it conditions the registration of metadata itself by meeting qualitative requirements in accordance with the DCAT-AP-CZ standard, which is also mandatory by law. Providers can verify correctness with respect to the standard in the validator, which alerts them to errors and suggests a solution (https://datagov-cz.github.io/lkod-validator/).
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;The basis is the DCAT-AP-CZ standard, which all providers must comply with when cataloging open data. Selected metadata properties are defined as mandatory in the standard (name, description, provider, topic, update frequency, keywords, related geographic area, specification of terms of use, access URL). The amount of mandatory properties for HVD is extended by requirements from the implementing regulation. Metadata records that do not comply with the standard are not displayed in the national portal. The Czech open fromal standard for catalogs is here: https://ofn.gov.cz/dcat-ap-cz-rozhran%C3%AD-katalog%C5%AF-otev%C5%99en%C3%BDch-dat/2024 -05-28/.
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;Yes, it is mandatory to use CC BY 4.0 or CC0. For guidelines see https://opendata.gov.cz/cinnost:stanoveni-podminek-uziti. 
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;>10;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;Data and metadata quality monitoring takes place at regular (four times a year) meetings of the Open Data Working Group. Furthermore, monitoring is part of the annual report on the state of open data, which is publicly available. Bad practice in this area is generally written on the portal, and good practice is shared in the form of stories of selected providers as an article or interview, which are also published on the portal. Examples of good and bad practice are also presented at the annual annual conference organized by the national team. Given that the quality of open data is often related to the quality of public sector data in general, an activity aimed at improving data management and sharing was launched this year, where webinars are held every month and tutorials on how to ensure high-quality data management are also added to the portal.
+;3.3 DCAT-AP Compliance;;;;;
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;Only DCAT-AP-CZ (and threfore DCAT-AP) compliant datasets are harvested.
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);>90%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;"Yes, it can be found online here: https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/. The main reason was standardization of data opening process and support for publications of high-quality metadata and data interoperability. The main differences are:
+1. Terms of use of distributions of datasets are structured in a more complex way to be compliant with Czech legislation - see https://opendata.gov.cz/cinnost:stanoveni-podminek-uziti.
+2. EuroVoc thesauri added explicitly for theme.
+3. Czech cadastre items added explicitly for spatial coverage.";Complement;;"Yes, it can be found online here: https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/. The main reason was standardization of data opening process and support for publications of high-quality metadata and data interoperability. The main differences are:
+1. Terms of use of distributions of datasets are structured in a more complex way to be compliant with Czech legislation - see https://opendata.gov.cz/cinnost:stanoveni-podminek-uziti.
+2. EuroVoc thesauri added explicitly for theme.
+3. Czech cadastre items added explicitly for spatial coverage.
+4. For applicableLegislation, we have additional national ELIs with national meaning."
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;Yes;Considering that only DCAT-AP-CZ (and threfore DCAT-AP) compliant datasets are harvested, cases of non-compliance are reported to us by the providers themselves, or their suppliers, because the metadata is not displayed in the national portal. The most common reason is suppliers' lack of familiarity with the DCAT-AP standard, as well as the inconsistency of the cataloging of data provided under the INSPIRE directive with DCAT-AP (while some data sets are similar or identical in terms of content). To help ensure compliance, we have developed a validator - https://datagov-cz.github.io/lkod-validator/, and we provide regular consultations.
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+;3.4 Deployment quality and linked data;;;;;
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;Given a dataset, we asses wether it uses non-linked open format (CSV, XML, JSON, ...) or is linked data (RDF and outgoing links). Findability is assessed by the dataset's presence in the National Patalog. Accessibility is given by publication of the dataset on the Web and usage of open formats, interoperability is assessed by usage of DCAT-AP for metadata and open formal norms (open specifications) for data. Reusability is assessed by the quality of data documentaion and machine readable schemas.;Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;The National Open Data Team regularly organizes annual conference - several lectures was through years dedicated to linked data and higher quality data. Open data publishers can also find relevant guidelines online (https://opendata.gov.cz/standardy:technicke-standardy-pro-vytvareni-datovych-schemat-na-stupni-5?s[]=linked) or participate in the workshop (https://data.gov.cz/vzdělávání/on-line/#propojená-data). Moreover, the Open Data Team held consultations focused, among other things, on this topic. There were 27 consultations in total held in 2022.;Complement;;"Data quality monitoring takes place at regular (four times a year) meetings of the Open Data Working Group. Bad practice in this area is generally written on the portal, and good practice is shared in the form of stories of selected providers as an article or interview, which are also published on the portal. Examples of good and bad practice are also presented at the annual conference organized by the national team. Moreover, publishers cas also find relevant guidelines online (https://opendata.gov.cz/standardy:technicke-standardy-pro-vytvareni-datovych-schemat-na-stupni-5?s[]=linked or https://www.youtube.com/watch?v=L8XYAbVBH6U). 
+Given that the quality of open data is often related to the quality of public sector data in general, an activity aimed at improving data management and sharing was launched this year, where webinars are held every month and tutorials on how to ensure high-quality data management are also added to the portal (ttps://data.gov.cz/správa-dat/). "
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;>90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;>90%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;<10%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;Confirm;;N/A

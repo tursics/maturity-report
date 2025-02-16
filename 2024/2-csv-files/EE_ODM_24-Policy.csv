@@ -1,0 +1,173 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"The Open Data Directive was adopted in Estonia as a legislative act called Public Information Act (PIA) https://www.riigiteataja.ee/en/eli/ee/510122021005/consolide/current .  This piece of legislation regulates data publishing in Estonia, including regulations regarding open data publishing, re-use of open data, high-value datasets, etc; There is also the Green Paper on Machine-Readable Open Government Data, which gives guidelines on open data publishing https://www.riha.ee/api/v1/systems/eaatv/files/cdbfa8bd-2594-8ad3-6022-ff3d3dbf6781";Confirm;;;;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;Our Open Data Action Plan was recently renewed and covers actions and strategic goals for years 2023-2024. New action plan is yet to be approved by the government, so it isn't publicly available yet. The main highlights of the plan include actions and strategies in 4 dimensions (public sector, private sector, education and legislation) with a focus on upskilling public officials, publishing open data and its quality improvement, as well as open data reuse growth. The general goals (publishing public sector data as open by default) are stipulated in the Public Information Act: https://www.riigiteataja.ee/en/eli/ee/510122021005/consolide/current. (includes the goal of fostering open access to publicly funded research data among other known principals from the OD PSI Directive). Previous Open Data and Data Management action plans for 2021-2022 are available on the national open data portal https://avaandmed.eesti.ee/instructions/action-plans-for-open-data-and-data-management-2021-2022. ;Complement;;"Last year mentioned open data action plan is now available on our webpage https://www.kratid.ee/andmehalduse-tegevused. In addition, this year we are working on creation of the data white book, outlining strategic goals for the next 5 years, including open data field (e.g. enabling access to all state data through national data portal; assigning new HVD categories; assessing risks to state security, which open data can possess, etc).";;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;Digital transformation is handled on all levels. There are agencies and municipalities, which include topics related to digitalization and open data in their strategies. For example The Development Strategy Tallinn 2035 (https://strateegia.tallinn.ee/) includes goals on spatial data like making them more available. Environmental Board strategy 2022–2025 (https://keskkonnaamet.ee/en/media/3613/download) has separate chapter dedecated to open data, where they underline the importance of the freely available data high of quality and its impact on boosting innovation and making informed decisions. Similar tendecies can be notices across over agencies as well.;Confirm;;;;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;The Open Data Action plan 2023-2024 includes concrete actions divided into quarters for the next two years in a four main categories - public sector, private sector, education and legislation. Activities include, but are not limited to, upskilling public officials, further developments of the national open data portal, events, communication, support of the open data projects, support of open data publication and its reuse etc.;Complement;;Last year mentioned open data action plan is now available on our webpage https://www.kratid.ee/andmehalduse-tegevused;;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;We have activities to incentivise the publication of and access to open data (e.g. make more data colected and available via API). Recommendations for data providers on how to provide open data, including dynamic data, have been published at https://avaandmed.eesti.ee/instructions/avaandmete-loomise-juhend. In addition, the EU Structural Funds funding scheme for public sector IT developments requires open data to be provided according to user needs.;Confirm;;;;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"One of the goals of Estonia’s Digital Agenda 2030 (https://www.mkm.ee/media/6970/download) is achieving human-centric digital government. To achive that we plan to raise the awareness of people and the general public of human-centric digital government and the reliability of technology. Our Open Data Action plan includes activities on creating and keeping up-to-date e-courses including topics of open data, which describe open data concept, publication process, and reuse both for public oficials and citizens. Moreover, we constanly working on raising user-friendliness of our open data national portal and making data publishing as easy as possible.
+====
+To help boost publication to data generated by citizens we have created online courses at our government digital academy on open data and its publication (https://digiriigiakadeemia.ee/), we also carry out trainings on specific fields. We have carried out trainings on data literacy, which we plan to roll-out across the nation to raise competences and awareness. Today, this is covered in our digital-centric data governance vision and agenda. From technical means, we have created consent service, which enables citizens to share their government held data with external stakeholders. Today, over 300 000 consents have been generated to enable access to citizen data. 
+
+There are also domain specific activities to incentivse publication and access to data generated by citizens. For instance, eBiodiversity (https://elurikkus.ee/en), which operates much on citizen generated data to understand biodiversity in Estonia, nation-wide campaigns are ran to incentivse. We carried out Donate your Speech campaign to incentivise people to make their speech data available as open data (https://oecd-opsi.org/blog/estonians-donate-a-speech-preserving-language-and-driving-digital-service-delivery/). Similarly, there are other initiatives related to weather, trash, energy consumption, infrastructure which incentivise publication/access to citizen generated data.";Confirm;;;;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";yes;Yes, we plan to make mentioned data discoverable through our national portal, which is connected with data.europa.eu portal.;Confirm;;;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"New Open Data Action plan has a strong focus on open data reuse as well as raising open data quality. We plan to provide monetary support for open data projects; systematize our approach on educating and supporting public entities; initiate a few bigger open data publication and reuse projects in the near 1-2 years; conduct regular events to share knowledge and expertice in the field of data reuse and open data based projects, etc . The Green Paper on Machine-Readable Open Data includes measures such as conducting events targeted to re-users, improving data quality by ensuring that all new information systems are capable of providing at least 4-star open data, etc. (Green Paper, Annex 1: https://www.riha.ee/api/v1/systems/eaatv/files/cdbfa8bd-2594-8ad3-6022-ff3d3dbf6781) ";Confirm;;;;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"Yes, it outlines the measures together with our action plan, where have a quite strong focus on private sector. Here are some measures we are planning to implement in the two upcoming years:
+Mapping the need for open data in the private sector and making such data available;
+Carrying out a wider communication campaign to inform about open data and the ways it can be reused;
+Providing monetary support  for the development of services based on open data.";Confirm;;;;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;"The Public Information Act mandates data holders to make their data accessible through the national open data portal. Data Inventory in Estonia is called RIHA (https://www.riha.ee/Avaleht) where catalogues of information systems and databases is accessible.
+Supporting information can be found in the Public Information Act (https://www.riigiteataja.ee/en/eli/510122021005/consolide), chapter 5 (1) DATABASES.";Confirm;;;;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;A full overview of what public sector information systems and data is available on the state information system's website: https://www.riha.ee/Infosüsteemid?sort=meta.update_timestamp&dir=DESC. According  to  the Public Information Act all databases/registries that belong to the state  information system must be registred at RIHA.;Confirm;;;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;5 = works are finalised. We have provided significant funding and support to public sector organisations that are responsible for specific data that fall under high-value dataset categories. Amongst first, we made our business registry data accessible: https://avaandmed.ariregister.rik.ee/en. Similarly we are currently working on raising awareness of HVD through hackatons, planning new kaggle competitions and more.;;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;5;5;5;5;5;5;5;;;;
+P11-b;Earth observation and environment;5;5;5;5;5;5;5;;;;
+P11-c;Meteorological;5;5;5;5;5;5;5;;;;
+P11-d;Statistics;5;5;5;5;5;5;5;;;;
+P11-e;Companies and company ownership;5;5;5;5;5;5;5;;;;
+P11-f;Mobility;5;5;5;5;5;5;5;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"We have extended our national metadata standard which is based on DCAT-AP to include a separate attribute used to denote dataset as high-value dataset. Updated metadata standard is accessible here: https://www.kratid.ee/_files/ugd/980182_87343e9f929143b1a566d1c96791ec09.pdf. Using metadata standard is mandatory for all public sector organisations and basis for the open data portal. Example: high-value-dataset-category.rdf
+• georuumilised andmed;
+• maa seire ja keskkond;
+• meteoroloogiateave;
+• statistika;
+• äriühingud ja äriühingu 
+omandisuhted;
+• liikuvus.";;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"We have large network of data-related experts from the public, private sector and academia, which includes around 600 people. 
+The Ministry of Economic Affairs and Communications (MoEAC) is responsible for leading open data policy in Estonia.
+The have established public sector inter-departmental open data working group, which involves members from different interested ministries and other public sector organizations (e.g. National Audit Office, City of Tallinn). The working group meets on a regular basis (at least once a month) and participation is also open to non-members (e.g. civil society, private companies, academia). The working group aim is to share news, upcoming changes, share experiences. 
+Other stakeholders can participate in the governance process through stakeholder discussion events, such as the annual Open Data Forum or smaller workshops throughout the year devoted to specific open data issues. 
+Almost two years ago the MoEAC together with other public authorities established Data Stewards Steering Group. Data Stewards Steering Group brings together data stewards from different public authorities to ensure the sustainable and balanced development of the data field. Steering group focuses on such topics as data retrieval, data quality improvement, data re-use, data life cycle management, and data protection requirements.
+Moreover, we have our own network on place connecting more than 600+ public sector officials, which we use for information sharing, conducting surveys, promotion of events, etc.";;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";top-down;Usually the MoEAC  leads different initiatives, provides a platform for others to promote their initiatives and plays the major role in engaging others. At the same time we are very open to initiatives from other authorities and sectors and encouredge them to be an active part of open data community. ;Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;Yes, local and regional initiatives get support. MoEAC provides monetary support or helps through guiding authorities during the preparation and the implementation of their initiatives. If there is a need in sharing the information about the initiative, we are happy to help and do that through our network. ;;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";all public bodies;;Confirm;;;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";yes;Resposibilities of our team members are described on our webpage https://www.kratid.ee/kontakt . Governance structure is explained in the Open Data Action plan. Current one is still waiting to be accepted on a governmental level, so we can provide the link to the previous one https://avaandmed.eesti.ee/instructions/action-plans-for-open-data-and-data-management-2021-2022;Complement;;Last year mentioned open data action plan is now available on our webpage https://www.kratid.ee/andmehalduse-tegevused;;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;People who are maintaining the national portal  are a part of our national open data team. This year national portal was finally transfered to the Estonian Information System Authority. Product owner of a portal is a team member of the national open data team. We conduct regular weekly meetings and once a month we conduct meeting, which involves other members of a national data team to keep everyone up-to-date and exchange knowledge.;Change;Yes;We carry out bi-weekly and monthly meetings. Also as part of the development on sprint meetings.;;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;"According to the Official Statistics Act (https://www.riigiteataja.ee/en/eli/ee/517122019002/consolide/current), the national statistics agency Statistics Estonia is responsible for coordinating data governance at the central government level, while MoEAC is responsible for strategic planning. Organizations are free to either assign the role of data steward to an existing position or recruit a separate data steward.
+Previous year the MoEAC together with other public authorities established Data Stewards Steering Group. Data Stewards Steering Group brings together data stewards from different public authorities to ensure the sustainable and balanced development of the data field. Steering group focuses on such topics as data retrieval, data quality improvement, data re-use, data life cycle management, and data protection requirements.";Complement;;It has been almost two years sinse establishing Data Stewards Steering Group meeting.;;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"We have the dat working group, which meets on a regular basis (at least once a month) and participation is also open to non-members (e.g. civil society, private companies, academia). The working group aim is to share news, upcoming changes, share expiriences (some meeting recordings are made public on our youtube channel https://www.youtube.com/playlist?list=PLrWgTNfFucnldKMzbpucJ1uv5pdsCvTxR). 
+Also we have Data Stewards Steering Group brings together data stewards from different public authorities to ensure the sustainable and balanced development of the data field. Steering group focuses on such topics as data retrieval, data quality improvement, data re-use, data life cycle management, and data protection requirements.";Confirm;;;;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Other stakeholders can participate in the governance process through stakeholder discussion events, such as the annual Open Data Forum or smaller workshops throughout the year devoted to specific open data issues. Some working group meetings aim to bring together all stakeholders together, not depending on their organisation. Information about such public events we post on our webpage - https://www.kratid.ee/uritused;Confirm;;;;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"Public bodies have their own data publication plans, which they compile as part of their organizations' strategies and action plans (e.g One of the strategies of The Information Technology Centre of the Ministry of the Environment includes open data publication plans for every year from 2022-2025 https://envir.ee/media/5809/download )
+Some public organisations apply for monetary support provided by the MoEAC for carrying out their IT projects, one of the conditions for getting the support is open data publication, which would emerge during the project or be used for the project. This way open data publication plan becomes a part of the IT project plan.";Confirm;;;;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;National Open Data team  follows up on the implementation of the plans with the respective data providers and provides advice, including technical support  together with State Information System Authority and Statistics Estonia. Information on the topics we provide support with is provided on our webpage https://www.kratid.ee/tugi-andmehaldus. ;Confirm;;;;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;Our action plans cover 2-year period, which allows as to keep them up-to-date with the rapid development of technology and the level of progress public authorities make during this period.;;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;Most of the cases are found and investigated by the MoEAC, who has detailed overview of the data domain. Such cases are quite rare, so the MoEAC holds an information about most of them and with every year situation gets better.;Confirm;;;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;"1) Making publishing and (re)use of data a priority for the authorities;
+2) Increasing open data quality and availability;
+3) Tackling human resource problem.";Confirm;N/A;;;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"All mentioned problems and others are constantly addressed. The greatest potential we see in open dialogue and being open for support requests.
+1) ""Making publishing and (re)use of data a priority for the authorities"" - we underline the importance of the open data through various events and showing the real impact of open data using different reuse cases. We've created the support mechanisms like help with dataset description, meetings where we talk about open data 101, educational videos and courses about our portal and open data in general for the begginers, etc.  
+2) ""Increasing open data quality and availability"" - together with other authorities we work on creating the guidlines and instructions for data managment in general. Also, we have a regular steeward group meetings, where all data related questions are addressed and best data managment experiences get shared. From the side of the technical infrastracture, we are working daily on making national open data portal more useful, comfortable and having range of functionalities. 
+3) ""Tackling human resource problem"" - educating public sector officials is one of lines we are puting a lot of effort. We create our own e-courses, hire professionals for conducting physycal and online courses, as well as working with universities to involve more data and open data topics into all universities' programms and creating a new once.";Confirm;;;;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;National Open Data Team provides technical and non-technical support together with the State Information Authority and Statistics Estonia. Information on the provided services is made available on our webpage https://www.kratid.ee/en/tugi-andmehaldus. The list of support actions can be broadened depending on the case. In addition, we can provide monetary support, if it is required for the development of an open data field. ;;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;This year we plan to conduct around 10 trainings dedicated to topics related to data, which also contribute into open data quality and publication. In addition we plan to create 1-4 online courses, which would be available to everyone on our online learning platfrom digiriik.eesti.ee;Complement;;This year we plan to train at least 2500 data specialists during the year. We have also begun developing competence profiles for various roles. For instance we have developed competence profile for data engineer and data analysts. We are currently in midst of developing one for data steward. These are the basis for nation-wide training programs and input for higher education. From the courses and webinars which already has taken place this year, we had Open data licensing training by Creative Commons (https://www.youtube.com/watch?v=l0QsUIW-3tU&t=134s), data working group webinar dedicated to open data topics (https://www.youtube.com/watch?v=eNBX-2HaZnA), webinar where we had EU data portal and ODM representatives (https://youtu.be/yiYm8yy6Lkk), etc;;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, >9;Annualy we conduct around 10 online events (https://www.youtube.com/playlist?list=PLrWgTNfFucnldKMzbpucJ1uv5pdsCvTxR) and 2 big physical events, one of which is fully dedictaed to open data (https://www.kratid.ee/urituste-salvestused). On the online events we share policy updates, introduce new topics related to data, and provide organisations with the opportunity to speak about their work in the open data field.;Complement;;In addition to mentioned events, this year we are also launching a competition for the best scientific papers and thesises wrtitten on the open data and data management topics, competion would allow us to assign monetary awards. We are also hosting high-value dataset specific hackatons and events later in the year.;;;;;;

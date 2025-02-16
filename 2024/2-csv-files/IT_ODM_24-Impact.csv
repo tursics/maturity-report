@@ -1,0 +1,384 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"The Italian legislation expressly provides for the definition of reuse of open data in the Digital Administration Code - legislative decree 82/2005 - Article 1, paragraph n-bis), where reuse means ""use of the data referred to in Article 2(1)(e) of legislative decree no. 36 of 24 January 2006"";
+ [ https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82 ]
+The provision refers back to the definition contained in turn in Legislative Decree 36/2006 on the transposition of the PSI Directive, as subsequently amended by  the Legislative Decree 200 of 8 November 2021 transposing the Open Data Directive. Specifically:
+(e) re-use: the use by natural or legal persons of documents held by: 
+      (1) public administrations or bodies governed by public law for commercial purposes or for non-commercial purposes other than the institutional purposes for which the documents were produced, with the exception of except for the exchange of documents between public administrations or bodies governed by public law, or between administrations and bodies governed by public law, carried out exclusively within the framework of the performance of the institutional tasks of which they are holders; 
+      (2) public undertakings and private undertakings referred to in Article 1, paragraph 2-quater, for commercial purposes or for non-commercial purposes other than those relating to the provision of services of general interest general interest services for which the documents have been produced, with the exception of for the exchange of documents between public undertakings and public administrations or bodies governed by public law set up exclusively within the framework of the performance of the tasks institutional tasks of the public administrations 
+ [ https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36~art2-com1-lete  ]";Confirm;;;;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;"The processes are conducted at public body level, such as at regional level. 
+Some examples:
+The Open Data portal of the Emilia Romagna Region provides an online form to collect information about the re-use made of the data (https://dati.emilia-romagna.it/?q=contact/Segnala-un-uso-dei-dati);
+Lombardia Region collects information about the cases of re-use of the datasets published in the regional data portal (https://www.dati.lombardia.it/Government/Utilizzo-dei-dataset/m58v-fh6e/data);
+At local level, Lecce Municipality publishes a page in the open data portal with the list of apps, dashboards and viz developped by reusing the open data documented in that portal (http://dati.comune.lecce.it/blog/?page_id=165);
+The public undertaking TPER publishes a list of apps developped by reusing open data made available (https://www.tper.it/apps).
+The Istituto Nazionale di Previdenza Sociale has dedicated a page in the Open Data section of the portal ""Applications implemented"" to record all the initiatives of re-use of Open Data.  
+[ https://www.inps.it/nuovoportaleinps/default.aspx?sPathID=%3b0%3b46292%3b46305%3b&lastMenu=46305&iMenu=12&p4=2 ].
+The Institute also constantly monitors the downloads of Open Data from the Institutional portal by locating and analyzing them.  It is possible to have a summary of the downloads on a national scale on the page of the ""Open Data Inps Distribution"" portal.  
+[ https://www.inps.it/nuovoportaleinps/default.aspx?sPathID=%3b0%3b46292%3b46305%3b46294%3b&lastMenu=46294&iMenu=12&iNodo=46294&p4=2 ] ";Change;Yes;"The processes are conducted at public body level, such as at regional level. 
+Some examples:
+The Open Data portal of the Emilia Romagna Region provides an online form to collect information about the re-use made of the data (https://dati.emilia-romagna.it/?q=contact/Segnala-un-uso-dei-dati);
+Lombardia Region collects information about the cases of re-use of the datasets published in the regional data portal (https://www.dati.lombardia.it/Government/Utilizzo-dei-dataset/m58v-fh6e/data);
+The public undertaking TPER publishes a list of apps developped by reusing open data made available (https://www.tper.it/apps).
+
+On the portal dati.puglia.it there are  statistics about the datasets published, in the statistics section [most downloaded resources, most viewed resources, etc.]. Moreover, in order to monitor the level of reuse of open data, the https://odlab.regione.puglia.it/ section has been developed, which can always be accessed from the single regional open data portal dati.puglia.it, and which contains testimonials on regional open data reuse projects.
+
+The portal dati.toscana.it is monitored through the platform Web Analytics Italia with statistics on access and download.";;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";yes;"If data are made available through APIs, the public bodies and undertakings fullfilling public services are required to describe those APIs in the APIs Catalogue included in the National Digital Data Platform established by the article 50-ter of the Digital Administration Code. This article also states that through that Platform it is possible collecting and storaging information about the access and transactions carried out to data distributed through the APIs.
+https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82";Change;Yes;"The Open Data Guidelines recommend to define prioritisation and opening plan by identifying criteria and modalities for opening up. One of the criteria is a demand-driven approach that takes into account the economic and social impact as well as the level of interest and needs of users.
+The measure of the impact is also indicated with the aim of assessing the effectiveness of the openness process.
+
+https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf";;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"A specific action has been included in the latest Three-Year Plan for ICT in PA to monitor the publication of High-Value Datasets starting from December 2024.
+It is also planned to put in place a mechanism for monitoring and measuring the level of reuse of HVDs and open data, in general.
+
+";;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"A definition of 'impact of open data' is included in the Guidelines for the implementation of the Legislative Decree no. 36/2006 (as amended by Legislative Decree no. 200/2021 transposing Directive (EU) 2019/1024) - https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf. It is defined as ""The set of effects and benefits obtained directly or indirectly from the use and/or reuse of open data in specific policies, areas, or domains"". It is also suggested to consider as domains against which to measure impact those ones used in the maturity report, namely: society, government, economy and environment";Confirm;;;;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;"The use and impact of open data are included in a specific section of the annual report ""The ICT spending in the Italian PA"", see https://www.agid.gov.it/sites/default/files/repository_files/_la_spesa_ict_2021_nella_pa_italiana_-_principali_trend_e_percorsi_in_atto_final_v.02_2.pdf
+This report is also linked to the Three-Year Plan for ICT in the PA that includes specific actions on data and open data. The implementation of those actions is annually measured and monitored, see  https://monitoraggiopianotriennale.italia.it/                                                                                                                                                                                           In the first report described, regarding the impact of Open Data, the paragraph 4.3 Data Governance e Open Data describes how the availability of open data in central and local government supports web and mobile application development activities. Development activities on open format datasets are very varied. In particular, it highlights the development of vertical applications (for the management of building sites, state property, etc.), and dashboard solutions enabling the analysis of real-time data (traffic, infomobility, weather, territory and environment) and of data at regional and municipal level (labour, expenditure, health, housing market). As can be seen from the graphs, a comparison was made between the extent of the release of datasets in open format and the development of services and applications based on the released data.
+The second link indicated relates specifically to the monitoring of the objectives defined in the Three-Year Plan, and provides in open format all data related to this monitoring. The analysis of the rates of achievement of the objectives allows the comparison needed to analyse the impact of open data on digital services and any other aspect of interest.                                                                                                                       ";Complement;;The updated first link is https://www.agid.gov.it/sites/default/files/repository_files/26_07_rapporto_spesa_ict_2022.pdf;;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"A series of meetings, as part of the Forum PA's Cantieri project, involving stakeholders from both civil society and government,  addressing the issues from the point of view of reusers and public and private entities engaged in impact measurement initiatives:
+14/6/2022 – “Open data and interoperability: enhancing PA information assets to enable the once-only principle”. Full interoperability of public datasets is one of the main objectives pursued by the strategies for digital PA, including through the resources provided by the NRP. Specifically, the Plan aims to overcome vertical silos that are not interconnected through the implementation of the Digital National Data Platform (PDND) and the central catalog of APIs for accessing information held by public bodies. In this talk dedicated to the topic of data governance in the public sphere, we will delve into the challenges that await PAs as part of the path to implementing the data and interoperability measures envisaged by the NDPND, listening to the experience of some of the main administrations involved and the technology companies that are proposed as enablers of this important process. https://www.forumpa.it/manifestazioni/forum-pa-2022/dati-pubblici-e-interoperabilita-valorizzare-il-patrimonio-informativo-della-pa-per-abilitare-il-principio-once-only/ 
+
+14/6/2022 “Replicability of an Italian good practice in Europe: Open Data, Civic Monitoring and Cohesion Policies in Schools”. A Scuola di OpenCoesione (ASOC) is an innovative digital education pathway aimed at promoting and developing principles of active and aware citizenship in Italian schools through research activities and civic monitoring of European and national public funding, to answer the fundamental question, ""How is public money spent in the territories?"" ASOC makes it possible to introduce in schools the themes of civic monitoring, active citizenship, and participation, through an educational model structured by phases and moments of confrontation. A model that has become a point of reference in national and European cohesion policies, so much so that it has been successfully transferred and replicated in several EU countries, and recently put at the center of new experimentation also in the context of European Territorial Cooperation.
+https://www.forumpa.it/manifestazioni/forum-pa-2022/replicabilita-di-una-buona-pratica-italiana-in-europa-open-data-monitoraggio-civico-e-politiche-di-coesione-nelle-scuole/
+
+A tool for civic monitoring of public procurement of projects included in the National Recovery and Resilience Plan https://www.youtube.com/watch?v=SWWagTJ5nXE&t=915s
+https://www.youtube.com/watch?v=SWWagTJ5nXE&t=1911s";Change;Yes;"The co-creation process involving representatives of PAs and CSOs (civil society organizations) belonging to the OGP IT Community continues with the aim of defining the 6° National Open Government Plan (6NAP) where also activities on Open Data are included also with reference to their impact.
+https://open.gov.it/notizie/continuano-lavori-percorso-co-creazione-definire";;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;Yes;".- The Web Analytics Italia platform allows to track the users' access to the national Open Data portal and to other local Open Data portals (https://webanalytics.italia.it/ - it requires authentication);
+
+.- The Torino Municipality Open Data Portal http://aperto.comune.torino.it/dataset collects automated feedback and shows the analytics about views and downloads
+
+- In order to map which and how open data are reused, Regione Puglia has implemented an automated mechanism on the dati.puglia.it portal that keeps track, at a statistical level, of how datasets have been viewed or downloaded, along with other statistical data that are available in the statistics section.";;;
+I8-b;Surveys;new question;new question;Change;No;;;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;"An example:
+Through the territorial DataLabs of the Open Tusk project, the Puglia Region has built the set of open data (data basket), made available for public consultation on PugliaPartecipa website.
+In addition through the datalabs, the Region collected the needs on opening data coming from the territory.
+The basket and related consultation are available at the following link: https://dati.puglia.it/ckan/dataset/opentusk-regione-puglia-paniere-dataset
+
+Translated with DeepL.com (free version)";;;
+I8-d;Other;new question;new question;Change;No;;;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;The users could request specific datasets to be reused. Feedback is useful to understand needs of reusers and how to meet them.;;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;Yes;This analysis is useful in order to improve the supply of data and for anticipating the requests.;;;
+I9-c;Other;new question;new question;Change;No;;;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;"The process is conducted at public body level.
+The Open Data portal of the Emilia Romagna Region provides an online form to collect information about the re-use made of the data (https://dati.emilia-romagna.it/?q=contact/Segnala-un-uso-dei-dati);
+Lombardia Region collects information about the cases of re-use of the datasets published in the regional data portal (https://www.dati.lombardia.it/Government/Utilizzo-dei-dataset/m58v-fh6e/data);
+The Istituto Nazionale di Previdenza Sociale has dedicated a page in the Open Data section of the portal ""Applications implemented"" to record all the initiatives of re-use of Open Data.  
+[ https://www.inps.it/nuovoportaleinps/default.aspx?sPathID=%3b0%3b46292%3b46305%3b&lastMenu=46305&iMenu=12&p4=2 ].";Confirm;;;;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;"The process is conducted at public body level.
+Example:
+Lombardia Region collects information about the cases of re-use of the datasets published in the regional data portal and classifies them on base of the scope of the app or service developped, i.e. data journalism, around me (location), B2B services, B2C services, data analysis, ...  (https://www.dati.lombardia.it/Government/Utilizzo-dei-dataset/m58v-fh6e/data);";Confirm;;;;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";No;"https://open.gov.it/governo-aperto/piano-nazionale/5nap/monitoraggio
+The Fifth National Action Plan for Open Government 2022 - 2023 (5NAP https://open.gov.it/sites/default/files/media/documents/2022-09/I%20REPORT%20VALUTAZIONE%205NAP_FINALE.pdf  ) is the result of a co-creation process, carried out in line with the OGP Standards, in which different levels of government - central and regional - and organised civil society collaborated to define a few but significant commitments, in line with the recommendations of the IRM (Indipendent Reporting Mechanism) to make the implementation of open government principles more widespread and the impact of policies more impact of policies based on these principles.
+In the evaluation and monitoring section, updates are provided on the status of implementation of the actions and commitments contained in the Plan.
+The teams responsible for implementing the commitments progressively feed the monitoring system with data on the activities carried out, according to the scheduled timetable and, for each activity, provide evidence supporting the results/products achieved.
+On the basis of this monitoring, four-monthly evaluation reports are produced, which highlight the progress of the Plan as a whole and can be consulted here.
+A timeline provides monthly access to the monitoring and evaluation data and reports.
+It is also possible to find out about the progress of activities by viewing the indicators, target values and the outcome in terms of results achieved by each commitment in the Plan, as well as viewing the outputs as they are realised.                                                                                                                                                                                      
+
+Platform on the funding of the National Recovery and Resilience Plan for the digital transition: https://padigitale2026.gov.it/opendata
+
+Portal on all data and progress reports on National Recovery and Resilience Plan interventions and activities updated periodically: https://www.italiadomani.gov.it/content/sogei-ng/it/it/catalogo-open-data.html?orderby=%40jcr%3Acontent%2FobservationDateInEvidence&sort=desc
+
+
+The number of published data has been greatly increased as a result of the actions of civic monitoring included in several initiatives such as OpenPNRR (https://openpnrr.it/), PNRR - Data Common goods (https://pnrr.datibenecomune.it/) and the engagement of civic society and communities in the Fifth National Action Plan for Open Government.
+
+RESPONSE TO THE REVIEWER
+As an example, the article available here https://osservatoriocivicopnrr.it/news/34-accesso-ai-dati-del-pnrr-arriva-un-segnale-dal-governo.html  highlights how the Government has accepted the proposals coming from the civic society (working in the initiatives mentioned above) by modifying the part of the decree affecting the transparency and access to data.
+
+In addition,the civic monitoring on open data published has induced an improvement of data quality as a result of reports on malformed data and on granularity.";Change;Yes;"https://open.gov.it/governo-aperto/piano-nazionale/5nap/monitoraggio
+The Fifth National Action Plan for Open Government 2022 - 2023 (5NAP https://open.gov.it/sites/default/files/media/documents/2022-09/I%20REPORT%20VALUTAZIONE%205NAP_FINALE.pdf  ) is the result of a co-creation process, carried out in line with the OGP Standards, in which different levels of government - central and regional - and organised civil society collaborated to define a few but significant commitments, in line with the recommendations of the IRM (Indipendent Reporting Mechanism) to make the implementation of open government principles more widespread and the impact of policies more impact of policies based on these principles.
+In the evaluation and monitoring section, updates are provided on the status of implementation of the actions and commitments contained in the Plan.
+The teams responsible for implementing the commitments progressively feed the monitoring system with data on the activities carried out, according to the scheduled timetable and, for each activity, provide evidence supporting the results/products achieved.
+On the basis of this monitoring, four-monthly evaluation reports are produced, which highlight the progress of the Plan as a whole and can be consulted here.
+A timeline provides monthly access to the monitoring and evaluation data and reports.
+It is also possible to find out about the progress of activities by viewing the indicators, target values and the outcome in terms of results achieved by each commitment in the Plan, as well as viewing the outputs as they are realised.                                                                                                                                                                                      
+
+Platform on the funding of the National Recovery and Resilience Plan for the digital transition: https://padigitale2026.gov.it/opendata
+
+Portal on all data and progress reports on National Recovery and Resilience Plan interventions and activities updated periodically: https://www.italiadomani.gov.it/content/sogei-ng/it/it/catalogo-open-data.html?orderby=%40jcr%3Acontent%2FobservationDateInEvidence&sort=desc
+
+
+The number of published data has been greatly increased as a result of the actions of civic monitoring included in several initiatives such as OpenPNRR (https://openpnrr.it/), PNRR - Data Common goods (https://pnrr.datibenecomune.it/) and the engagement of civic society and communities in the Fifth National Action Plan for Open Government.
+
+RESPONSE TO THE REVIEWER
+As an example, the article available here https://osservatoriocivicopnrr.it/news/34-accesso-ai-dati-del-pnrr-arriva-un-segnale-dal-governo.html  highlights how the Government has accepted the proposals coming from the civic society (working in the initiatives mentioned above) by modifying the part of the decree affecting the transparency and access to data.
+
+In addition,the civic monitoring on open data published has induced an improvement of data quality as a result of reports on malformed data and on granularity.
+
+RESPONSE TO THE REVIEWER - 2024
+The systematic investigation of civil society (e.g. OpenPolis) on the policy and related open data about the implementation of the National Recovery and Resilience Plan created an impact on governmental challenges in terms of efficiency, transparency and progress on projects. The systematic actions carried out got the result to re-focus the targets of the Plan and make available more data on the progress of the projects (see https://www.openpolis.it/il-governo-ha-finalmente-pubblicato-i-dati-sulle-misure-del-nuovo-pnrr/ with reference to the source data published on https://www.italiadomani.gov.it/it/home.html and https://padigitale2026.gov.it/ portals).";;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Example of reuse: https://budget.g0v.it
+
+Dataset used: https://openbdap.rgs.mef.gov.it/
+
+navigation and semantic search in the more than 1.2 trillion public expenditure with interactive graphics";;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Example:
+https://osservacantieri.mit.gov.it/
+
+Datasets used: Several datasets from https://dati.mit.gov.it/catalog/dataset
+
+OpenCantieri provides users with monitoring on the progress of more than 1,500 construction sites currently open across the country
+
+";;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Example of reuse: https://opencoesione.gov.it/it/riuso/
+
+Datasets used: https://opencoesione.gov.it/it/opendata/#!progetti_section
+
+Data published by OpenCoesione represent the information base for analyses, visualisations, applications and research that start from projects and go deeper into the phenomena related to the implementation of cohesion policies and observe their impact on citizens and businesses.
+The reuse case refers to a list of infographics, in-depth documents and analysis based on OpenCoesione data
+";;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Example: https://datawrapper.dwcdn.net/K8ta7/2/ 
+https://datawrapper.dwcdn.net/mDTX4/1/
+https://datawrapper.dwcdn.net/TlWpB/2/
+https://datawrapper.dwcdn.net/zWVay/2/
+
+Datasets used: https://padigitale2026.gov.it/opendata/
+
+Maps and analysis on data about the founding of the National Recovery and Resilience Plan";;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";Yes;"RESPONSE TO THE REVIEWER
+Analysis of the phenomena and identification of measure for reducing inequalities between countries and within them (e.g. https://www.istat.it/storage/rapporti-tematici/sdgs/2022/goal10.pdf).
+
+Study on the impact of social inequalities on post-pandemic dropout:
+Students who come from disadvantaged families are the most prone to school dropout. A relationship, that between starting inequalities and school performance, whose impact also needs to be analyzed at the local level. The data analyzed are the basis for data-driven policies to address inequalities resulting from school dropout.
+https://www.openpolis.it/limpatto-delle-disuguaglianze-sociali-sulla-dispersione-dopo-la-pandemia/#12-gli-studenti-di-famiglie-svantaggiate-che-nel-2022-non-hanno-raggiunto-competenze-adeguate-il-doppio-dei-coetanei-avvantaggiati
+
+RESPONSE TO THE REVIEWER
+The study is an elaboration of OpenPolis Foundation which collect and process data to tell stories and produce original analysis, reports and surveys.
+
+A regional equity profile to assess the impact of social inequalities on determinants and health outcomes in the population residing in Sicily Region (Southern Italy). Is a descriptive study aimed to define an equity profile in Sicily by using a rich list of indicators of structure of the resident population and of distribution of determinants and health outcome, derived from the integration of available information and scientific evidence at regional level with high local detail.
+The equity profile collects available information on the health status of the population in Sicily, on the determinants, and on the use of health and social services. The characteristics of people or population groups have been explored and can produce inequalities on health which included individual and context socioeconomic status. Using available information sources and study results have explored the effects of the disadvantage on health in the region: mortality, morbidity, oncological incidence, reproductive health, and some of their determinants.
+The study highlights how from the use of available information sources and the results of regional studies that have explored the effects of health disadvantage, several health outcomes (mortality, morbidity, cancer incidence, reproductive health and some of their determinants) have been characterized from an equity perspective.
+https://epiprev.it/articoli_scientifici/un-profilo-di-equita-regionale-per-la-valutazione-dellimpatto-delle-disuguaglianze-sociali-sui-determinanti-e-sugli-esiti-di-salute-nella-popolazione-residente-in-sicilia
+
+RESPONSE TO THE REVIEWER
+In this case data is used to provide evidences and as basis to the impact assessment of social inequalities.";Change;Yes;Analysis of the phenomena and identification of measure for reducing inequalities between countries and within them (e.g. https://www.istat.it/storage/rapporti-tematici/sdgs/2023/goal10.pdf).;;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Example: https://centriditalia.it/home
+
+Datasets used: https://centriditalia.it/pages/open-data
+
+A tool for researchers, journalists and citizens, who want to know the migrants system";;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Example: https://www.istat.it/it/files//2024/02/ENG-IIQ_2023-Real-estates-loans.pdf
+
+Datasets used: 
+I.stat, the ISTAT data warehouse: http://dati.istat.it/?lang=en
+Pubblica Amministrazione.Stat: http://dati.statistiche-pa.it/Index.aspx?lang=en
+Time series: https://www.istat.it/en/products/databases/time-series
+
+";;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Example: https://www.comune.modena.it/welfare-data-lab
+
+Datasets used: several datasets from https://opendata.comune.modena.it/
+
+Sharing information and integrating data in order to build a place of knowledge and analysis useful for constructing local public welfare policies that are increasingly responsive to the complex social needs that emerge, also with a view to forecasting.";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Examples: https://www.istat.it/it/files//2024/04/Formazione-adulti-Anno2022.pdf
+
+https://datalit.pa.itd.cnr.it/it/ 
+
+Datasets used: https://www.istat.it/it/files//2024/04/Tavole-Partecipazione-adulti-attivita-formative-2022.xlsx
+
+";;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";yes;"RESPONSE TO THE REVIEWER
+Analysis of the phenomenon and identification of measure for fighting climate change and its consequences https://www.istat.it/storage/rapporti-tematici/sdgs/2022/goal13.pdf
+
+Report prepared by experts involved by the Ministry of Sustainable Infrastructure and Mobility under the ""Structure for the Green Transition of Mobility and Infrastructure"" (STEMI) established by the Minister of Sustainable Infrastructure and Mobility. The STEMI is tasked with developing guidance policy directions for the green transition of mobility and infrastructure, also in the light of the current discussion in the European Council of the Fit for 55 Package presented by the European Commission in implementation of the Green Deal strategy.
+This report represents a compilation of contributions from various experts on the areas most relevant to the decarbonization of cities, while referring for further discussion to what was previously covered in the Report ""Climate Change, Infrastructure and Sustainable Mobility,"" presented by MIMS on February 4, 2022, and the Report ""Decarbonizing Transport. Scientific Evidence and Policy Proposals,"" dated April 22, 2022, devoted to technologies useful for decarbonizing transportation. 
+The report includes a focus on the digitalization for the green transition and the role of data in the decarbonization of cities.
+https://www.mit.gov.it/nfsmitgov/files/media/notizia/2022-10/STEMI_Le%20citta%CC%80%20a%20impatto%20climatico%20zero_ITA_v1.pdf     
+
+                                                                                                                                                                                                             ";Change;Yes;"Analysis of the phenomenon and identification of measure for fighting climate change and its consequences https://www.istat.it/storage/rapporti-tematici/sdgs/2023/goal13.pdf
+
+A unified dataset for pre-processed climate indicators weighted by gridded economic activity:
+https://www.santannapisa.it/sites/default/files/2024-06/Cambiamento%20climatico%20ed%20eventi%20meteorologici.%20Disponibile%20nuovo%20strumento%20online%20per%20la%20puntuale%20valutazione%20delle%20anomalie%20climatiche%20che%20hanno%20impatto%20su%20dinamiche%20sociali%20ed%20economiche.pdf
+
+https://www.nature.com/articles/s41597-024-03304-1";;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Example: https://ambientenonsolo.com/la-depurazione-delle-acque-reflue/?fbclid=IwZXh0bgNhZW0CMTEAAR02DnjLmylp_s7raRjURtWipTxYNJKOvs7OhR-JiwaIF9SJImACKXnU0jo_aem_ZmFrZWR1bW15MTZieXRlcw
+
+Datasets used: https://www.istat.it/it/archivio/295148
+
+Ensuring good water quality in our rivers and seas depends to a large extent on our ability to provide for the purification of wastewater produced by both households and production activities. ";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Examples: https://www.kyotoclub.org/it/news/news-dal-mondo/2024/06/07/quali-prospettive-per-la-mobilita-sostenibile-a-bari/?fbclid=IwZXh0bgNhZW0CMTEAAR0vmdoUfkYx9lXiIKxtgWpZBU4h35t2-qoKP5Jod7pI-B_5S5e8BMOzGts_aem_ZmFrZWR1bW15MTZieXRlcw
+
+https://www.kyotoclub.org/it/news/news-dal-mondo/2024/06/05/aggiornati-i-dati-sulla-mobilita-condivisa-nellosservatorio-sulla-mobilita-urbana-sostenibile/?fbclid=IwZXh0bgNhZW0CMTAAAR2BseWdFqddns8f0XsR1c79tPC_Mw4jjo6hiPuWRE2U6KvVVQEkJXYFt2A_aem_ZmFrZWR1bW15MTZieXRlcw
+
+https://ambientenonsolo.com/la-mobilita-insostenibile-nelle-grandi-e-medie-citta-italiane/?fbclid=IwZXh0bgNhZW0CMTEAAR3r_G2W6i-zPRU6z6P-_R5l4Z6kTkGBoVNPUnCvFkrPuuW1WBtmvFRtEhU_aem_7s2FcUnxX4ahIUOHV_1ZTQ
+
+Datasets used: https://italy.cleancitiescampaign.org
+
+https://indicatoriambientali.isprambiente.it/it/atmosfera-0
+prospects for sustainable mobility in Bari";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Example of reuse: https://datavis.lungoleviedellacqua.it/
+
+Datasets used: https://groupware.sinanet.isprambiente.it/bigbang-data/library/bigbang_70/ascii_grid/
+
+Comprehensive overview, as detailed and up-to-date as possible, of the relationship between climate and water resources in Italy. It shows the trends of the meteorological variables crucial for understanding the climate context and the presence of phenomena linked to a shortage or overabundance of precipitation on the territory, going down to the local level. The dashboard is not limited to environmental aspects, but also considers the relationship between public water, local government policies and the role of citizens.";;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Example: https://gjrichter.github.io/pages/PUN/
+
+Datasets used: https://www.piattaformaunicanazionale.it/idr
+
+Reuse of data made available by PA.";;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";yes;"RESPONSE TO THE REVIEWER
+Analysis of the phenomenon and identification of measures to promote long lasting, inclusive and sustainable economic growth, full and productive employment and decent work for all (e.g. https://www.istat.it/storage/rapporti-tematici/sdgs/2022/goal8.pdf)
+
+Multiannual Financial Framework 2021-2027 Dataset. The Multiannual Financial Framework defined by the European Commission with the resources allocated to EU member states for the period 2021-2027, divided into expenditure headings.
+[ https://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/igrue/BancheDati/CatalogoOpenData/index.html ]
+
+Osservatori RRN Ismea: Competitiveness indicators - Socio-economic context
+This section contains the indicators that describe the socio-economic context in which Italian agriculture is set.
+In particular, the socio-economic context is described through dashboards on the territory, population, per capita GDP (at current value or purchasing power parity), employment rate (also distinguished in female and male), unemployment rate (overall and youth).
+In the economy and employment dashboard, it is possible to consult the variables employment, labour productivity and added value referring to the macro-sectors of the economy: total economy, primary, secondary and tertiary sectors; there is also a dashboard dedicated to investment (gross fixed capital formation and the ratio of investment to added value), again broken down by macro-sectors. In these last two dashboards, in addition to the data in absolute value, those on the % composition of the value of the total economy by macro-sector are available.
+Finally, information on household consumption expenditure is available in this section, both overall and for agri-food-related expenditure items: food and non-alcoholic beverages, alcoholic beverages, tobacco and narcotics, hotels and restaurants. Here too, in addition to data in absolute value, the composition of expenditure by individual item is available.
+[ https://www.ismeamercati.it/osservatori-rrn/indicatori-competitivita/contesto-socio-economico ]
+
+RESPONSE TO THE REVIEWER
+Based on the data published, it has promoted the creation of a series of Observatories on some peculiar characteristics of Italian agriculture. The Observatories were thus created with the aim of systematically collecting and cataloging data and information of a different nature that can be useful tools for understanding the various phenomena affecting the agricultural world.
+Through the website it is possible to visit the thematic Observatories on ""Youth Entrepreneurship"" and ""Female Entrepreneurship"".";Change;Yes;"Analysis of the phenomenon and identification of measures to promote long lasting, inclusive and sustainable economic growth, full and productive employment and decent work for all (e.g. https://www.istat.it/storage/rapporti-tematici/sdgs/2023/goal8.pdf)
+
+Multiannual Financial Framework 2021-2027 Dataset. The Multiannual Financial Framework defined by the European Commission with the resources allocated to EU member states for the period 2021-2027, divided into expenditure headings.
+[ https://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/igrue/BancheDati/CatalogoOpenData/index.html ]
+
+Osservatori RRN Ismea: Competitiveness indicators - Socio-economic context
+This section contains the indicators that describe the socio-economic context in which Italian agriculture is set.
+In particular, the socio-economic context is described through dashboards on the territory, population, per capita GDP (at current value or purchasing power parity), employment rate (also distinguished in female and male), unemployment rate (overall and youth).
+In the economy and employment dashboard, it is possible to consult the variables employment, labour productivity and added value referring to the macro-sectors of the economy: total economy, primary, secondary and tertiary sectors; there is also a dashboard dedicated to investment (gross fixed capital formation and the ratio of investment to added value), again broken down by macro-sectors. In these last two dashboards, in addition to the data in absolute value, those on the % composition of the value of the total economy by macro-sector are available.
+Finally, information on household consumption expenditure is available in this section, both overall and for agri-food-related expenditure items: food and non-alcoholic beverages, alcoholic beverages, tobacco and narcotics, hotels and restaurants. Here too, in addition to data in absolute value, the composition of expenditure by individual item is available.
+[ https://www.ismeamercati.it/osservatori-rrn/indicatori-competitivita/contesto-socio-economico ]
+
+Based on the data published, it has promoted the creation of a series of Observatories on some peculiar characteristics of Italian agriculture. The Observatories were thus created with the aim of systematically collecting and cataloging data and information of a different nature that can be useful tools for understanding the various phenomena affecting the agricultural world.
+Through the website it is possible to visit the thematic Observatories on ""Youth Entrepreneurship"" and ""Female Entrepreneurship"".";;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Example: https://www.lavoro.gov.it/documenti-e-norme/studi-e-statistiche/nota-co-iv-trimestre-2023.pdf
+
+The Ministry of Labor and Social Policy has prepared a report containing an analysis of data on labor relations in Italy in the fourth quarter of 2023. The data in the report is the basis for policy decisions on labor issues";;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Example of reuse: https://www.dataforgood.it/
+
+Datasets used: https://www.dataforgood.it/dati/
+
+Initiative aiming at illustrating the opportunities of data science at the service of the social sector through data, analysis, and news. The main objective is to tell how data and their analysis can contribute to a better society by contributing to the impact of social initiatives.  ";;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Example of reuse: https://public.tableau.com/app/profile/period.thinktank/viz/shared/SYZC8HQC9
+
+Datasete used: https://dati.anticorruzione.it/opendata/
+https://www.opencup.gov.it/portale/web/opencup/accesso-agli-open-data
+
+Territorial and mission-based analysis of tenders financed by NRRP (NAtional recovery and resilience Plan) funds to assess the impact of NRP funds on the employment of women and young people. ";;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Example: https://it.tradingeconomics.com/italy/industrial-production
+
+Datasets used: several datasets from https://www.istat.it/it/archivio/produzione+industriale";;;

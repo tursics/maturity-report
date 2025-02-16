@@ -1,0 +1,197 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"The law on open data gives the following definition:
+« réutilisation » : l’utilisation par des personnes physiques ou morales de documents détenus par :
+a) des organismes du secteur public, à des fins commerciales ou non commerciales autres que l’objectif initial de la mission de service public pour lequel les documents ont été produits, à l’exception de l’échange de documents entre des organismes du secteur public aux seules fins de l’exercice de leur mission de service public ; ou
+b) des entreprises publiques, à des fins commerciales ou non commerciales autres que l’objectif initial de fournir les services d’intérêt général pour lequel les documents ont été produits, à l’exception de l’échange de documents entre des entreprises publiques et des organismes du secteur public aux seules fins de l’exercice de leur mission de service public ;";Confirm;;;;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;The portal has a section which focuses on re-uses that are declared as such https://data.public.lu/en/reuses/.In reality we notice that many re-uses are detected separately, f.e. during discussions or collaborations,  and only announced and described upon our invitation.;Confirm;;;;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";yes;"The SIP open data team actively searches for visible re-use cases of opendata and encourages their description in the dedicated section of the national portal https://data.public.lu/fr/reuses/ .
+To trigger the data producers' interest in monitoring potential re-uses of their data, the open data team highlights interesting cases via articles in the open data news section, and messages in the social media, to give a positive visibility to the data producers. Example https://data.public.lu/fr/posts/stroummonitor-la-vigie-qui-na-jamais-vire-au-rouge/";Confirm;;;;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;;;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;Luxembourg's concept of open data  impact is related to effects of the availability of open data in the areas of economic growth, the digitalisation of public services, the innovation sector, the Greater Region collaboration and particularly important challenges of the local society in Luxembourg. https://data.public.lu/en/pages/impact/ ;Confirm;;;;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;"The use of the open data portal and of its data sets is monitored in detail, which allows to gain insights about re-use cases and their impact. In the portal, the internal statistic dashboard which renders key information about every dataset, is a good way to track the popularity of datasets, from the perspective of the data producers.
+We keep an eye on the exchanges between data users and providers in the corresponding portal sections, to deduce possibly interesting re-use cases, and - as far as possible with the available means - we try to know more in order  to properly document the re-use to evaluate it's impact as well as to use it as an example to trigger further visibility for open data.
+A particular case are API's where it is possible to require the use of a personal key, which obliges re-users to  be identified and the data providers to get detailed information about the uses. This is also the case of the geoportal API, which is used a lot at the national level, or the  public transport API for example.
+Currently however these insights are not yet handled in a coordinated way.";Confirm;;;;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;We definitely try to reach out beyond the public sector institutions to achieve concrete results from interesting open data. One example might be our private sector data provider myEnergy https://data.public.lu/fr/organizations/my-energy-g-i-e/, who proposes data about electric mobility, heating etc, as well as a re-use of existing open data (national person register) in form of a  subsidy calculator (https://data.public.lu/fr/reuses/base-de-calcul-pour-la-determination-de-la-subvention-variable-annuelle-liee-a-la-certification-european-energy-award/);Confirm;;;;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;Yes;"The portal API allows access to datasets, and is monitored. The analytics are presented on every dataset in the back-office to all data producers, acting as an automated feedback mechanism.
+Several important datasets are available via dedicated APIs and are also tracked by their providers. Some APIs can only be used with a (free) API key that  has to be given beforehand. This enables the data producer to monitor individual API usage.";;;
+I8-b;Surveys;new question;new question;Change;Yes;"We indeed launched a survey to gain insights about the needs of the portal users https://data.public.lu/fr/posts/your-opinion-matters/. 
+https://data.public.lu/fr/posts/beyond-satisfaction-unveiling-the-desires-of-our-users/";;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;"Preparation meetings about the data, hackathon event and a posteriori follow-ups : language data by Zentrum fir Letzebuerger Sprooch ZLS https://data.public.lu/fr/posts/a-new-range-of-ideas-to-enhance-language-tools/
+We also regularly conduct interviews with actual open data re-users and document their experience in dedicated blog articles:
+https://data.public.lu/fr/posts/lutilisation-du-sol-une-information-precieuse-pour-les-antennes-relais/
+https://data.public.lu/fr/posts/sur-la-trace-des-luxembourgeois-outre-atlantique/
+https://data.public.lu/fr/posts/bruno-rodrigues-defend-une-approche-basee-sur-la-reproductibilite-de-la-data-science-au-luxembourg/
+https://data.public.lu/fr/posts/stroummonitor-la-vigie-qui-na-jamais-vire-au-rouge/";;;
+I8-d;Other;new question;new question;Change;No;;;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Change;Yes;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;"Luxembourg's parliament (Chambre des Députés) has become an eminent partner in the open data project and is present on the portal with a growing list of datasets. They have recently conducted a survey among journalists to check their needs in terms of data and information. This initiative has led to an adapted data publication agenda and an interesting series of re-uses
+https://data.public.lu/fr/reuses/use-of-languages-in-the-34th-chamber-of-deputies-luxembourg-2018-2023/
+https://data.public.lu/fr/reuses/parlamentarische-anfragen-wieso-weshalb-warum/
+https://data.public.lu/fr/reuses/deputes-actifs-a-la-chambre-des-deputes-du-luxembourg/
+https://data.public.lu/fr/reuses/wei-gewessenhaft-ginn-dletzebuerger-deputeiert-an-dchamber/
+https://data.public.lu/fr/reuses/interventiounen-an-der-chamber-si-schwatzen-am-dacksten-clement-kartheiser-goergen/";;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;;;;
+I9-c;Other;new question;new question;Change;No;;;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;Indeed one of the main sections of our national data portal is the re-use section, which is supposed to gather and showcase real use cases of existing open data.This section is progressing well in the last time because of our systematic endeavor to identify interesting cases and to document them. [update 16/08/2023] Any citizen or administration with an account on the open data portal can publish a reuse. Moreover, the Information and press service has organised a technological watch. This watch aggregates news coming from the luxembourgish newspapers and also online media. A daily keywords based search brings all articles related to open data. The articles are then reviewed by the open data team and published as a reuse on the open data portal if relevant.  ;Confirm;;;;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;We have thematic categories and tags. [update 16/08/2023] A reuse is linked to a topic, like for example Agriculture, Economy and Finance, Environment and Climate, etc. as shown on this page https://data.public.lu/en/reuses/ Moreover, all reuses can be tagged with user-generated tags.;Confirm;;;;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";no;;Change;No;"CHD has published QP and generated good re-use figures as well as exchanges in the question section
+impact created for policy, national language use https://data.public.lu/fr/reuses/use-of-languages-in-the-34th-chamber-of-deputies-luxembourg-2018-2023/
+impact : topics aimed at by political parties";;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;API of national geoportal https://data.public.lu/fr/datasets/api-geoportail/ and the corresponding re-use of a QGIS plugin https://data.public.lu/fr/reuses/qgis-plugin-geoportail-lu/ destined to easily integrate the national land use plans https://data.public.lu/fr/datasets/?q=pag in the free software in order to create plan modifications by the engineering bureaus. These plans are of crucial importance for the  government and their management has been much improved through this new process.;;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;The national land use plans https://data.public.lu/fr/datasets/?q=pag  are provided not only as downloadable open geodata, with a nationally standardized data model, but is also re-used  for example in information systems or web pages of local municipalities lie here https://bouswaldbredimus.lu/urbanisme/pag/ . This is a very huge step for the citizens in term of transparency and accounatability of their local government.;;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;The ministry of home affairs has presented their work on the bill on land tax and the mobilisation of land and housing https://maint.gouvernement.lu/en/dossiers/2022/impot-foncier.html as a result on open data based policy making. Among others it is referred to the data provided for by the https://data.public.lu/en/organizations/ministere-du-logement-et-de-lamenagement-du-territoire-observatoire-de-lhabitat/ ;;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Example of a private firm using public sector open data on land use, provided for by the Ministry of environment,  to make strategic decisions about the position of antennae. https://data.public.lu/fr/posts/lutilisation-du-sol-une-information-precieuse-pour-les-antennes-relais/
+In the public sector : example of an administration in the agriculture domain https://ma.gouvernement.lu/fr/administrations/asta.html using public sector open geodata https://data.public.lu/en/datasets/referentiel-des-parcelles-flik/ to assess farmers' subvention rights.";;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";No;;Confirm;;;;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;As analysed and described in the following article https://accessibilite.public.lu/fr/news/2024-01-22-rapport2023.html, the publication of the audit reports on the digital accessibility of public sector websites and mobile applications https://data.public.lu/fr/datasets/?tag=accessibilite&q=accessibility has led to a significant progress in this matter which has a great impact on the minority of handicapped people. In this other article https://accessibilite.public.lu/fr/news/2024-05-14-memoire.html one of the interviewees admits being motivated because of the publicity of the report data.;;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;This is an example of a re-use of public sector open data on housing, provided by https://data.public.lu/en/organizations/ministere-du-logement-et-de-lamenagement-du-territoire-observatoire-de-lhabitat/, to allow quick value estimations of real estate : https://data.public.lu/fr/reuses/outil-destimation-indicative-de-la-valeur-dun-bien-immobilier/. In difficult times marked by a crisis in real estate sales, tools like this one are a good indicator of the relevance of data.;;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Open data on national statistics, provided by the national statistics administration STATEC (https://data.public.lu/fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-du-grand-duche-de-luxembourg/) leaves its mark in many analyses and publications like f.e. this public report on a national indicator on well-being https://statistiques.public.lu/dam-assets/catalogue-publications/analyses/2022/analyses-03-22.pdf. Another example is the impact created by our complete transparency in regard to the digital accessibility of public sector websites and apps. This triggers on the one hand a noticeable effort on the decision makers' side to improve the situation, hoping to achieve better results the next time an audit happens, and on the other hand it leads to concrete complaints  from concerned users to have specific malfunctions corrected. Here the data about the complaints https://data.public.lu/fr/datasets/historique-des-reclamations-relatives-a-laccessibilite-numerique/, and here the link to the data sets https://data.public.lu/fr/datasets/?q=accessibilit%C3%A9%20service%20information
+We also have new re-uses with dashboards informing about mortality:
+https://data.public.lu/fr/reuses/mortalite-foeto-infantile/
+https://data.public.lu/fr/reuses/dashboard-mortalite-generale/";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The professional training courses about data literacy for public servants like f.e. https://fonction-publique.public.lu/fr/formation-developpement/catalogue-formations/secteur-etatique/06compdig/06-1-digbase/et_06-1-1-161.html offers insights for participants from all horizons, and shows results visible at the level of participation and publication rate on the open data portal. Government also considers opendata as a general asset in regard of its interoperability framework (https://mindigital.gouvernement.lu/en/dossiers/2019/NIF-2019.html) and related trainings (https://fonction-publique.public.lu/fr/formation-developpement/catalogue-formations/secteur-communal/06compdig/06-1-digbase/co_06-1-2-210.html)
+Another interesting training, destined to all public, is about publishing opendata on the EU portal
+https://www.lifelong-learning.lu/formation/the-european-data-portal-how-to-provide-publish/en";;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";No;;Confirm;;;;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The AEV (Administration de l'Environnement) has currently published 7 datasets on air quality on OpenData: Air Quality Datasets. We do not know if these are also actually being used for the protection of biodiversity and thus cannot provide written proof so far.
+Regarding noise data, the data owners have already been in touch within the framework of a research group at the University of Salford to ensure that these data are used in the scope of projects about bird diversity. ";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The solar cadastre is an interesting dataset in this regard (https://data.public.lu/fr/datasets/analyse-densoleillement/) and it is used for analysis and project planning in the context of individuals as well as of collectivities, for example with the help of the geoportal functionalities (re-use of the data in the geoportal map application https://map.geoportail.lu/theme/energie?version=3&zoom=16&X=696269&Y=6379269&lang=en&rotation=0&layers=1818-1813-2537&opacities=1-1-1&time=----&bgLayer=basemap_2015_global) or other more specific re-uses. In the same context, the city of Luxembourg proposes online applications of this and correlated data (https://www.vdl.lu/fr/la-ville/engagements-de-la-ville/actions-environnementales/subventions-attribuables-en-vue-de-la-protection-du-climat/installations-pour-energies-renouvelables#cadastre-solaire), like the estimation of possible subsidies. Another interesting project is about an analysis on dangerous and inadequate pedestrian crossings https://data.public.lu/fr/organizations/zentrum-fir-urban-gerechtegkeet/, based on a re-use of open data.
+Some other, new, re-uses show a growing impact of open data in the context of more environment-friendly cities :
+https://data.public.lu/fr/reuses/energieauer-key-energy-figures-for-luxembourg/ with a dashboard provided by the national climate agency,
+https://data.public.lu/fr/reuses/whispers-of-the-wheel/ Whispers of the wheel, a dashboard about the availability of rental bikes in the city of Luxembourg
+https://data.public.lu/fr/reuses/air-quality-luxembourg/ , a dashboard about the air quality in Luxembourg";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"1.	We consider that the following study has an impact on prevention: Climate and Energy: The Climate-Ecology Situation in Luxembourg (https://data.public.lu/fr/datasets/climate-and-energy-the-climate-ecology-situation-in-luxembourg/)
+Based on this study, the municipality of Esch, for example, conducted a more detailed analysis of their terrain. Additionally, the LIST (Luxembourg Institute of Science and Technology) has started a larger-scale and more detailed analysis.
+2.	From the national emission inventories, the following datasets are currently available on OpenData: Air Quality: https://data.public.lu/fr/datasets/air-quality-spatial-emissions-mapping-of-luxembourg/ and https://data.public.lu/fr/datasets/climate-and-energy-national-emission-inventories/
+More explanations can be found on emwelt.lu: Climate and Energy - Emission Inventory (https://environnement.public.lu/fr/klima-an-energie/changement-climatique/inventaire-ges0.html)
+These data also flow into the PNEC (National Energy and Climate Plan), where most of the measures are recorded: National Energy and Climate Plan Update (https://environnement.public.lu/content/dam/environnement/actualites/2023/juillet-2023/pnec/pnec-projet-de-mise-jour-luxembourg.pdf)
+Due to the obligation of fulfilling the HVD regulation, further publications will have to be made on the nation OpenData portal.";;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;Hard to prove that there is a quantifiable impact in this domain from the re-use of open data, but we do have examples of reuses in the context of energy consumption. The first one hereafter demonstrates the different levels of energy consumption in transport, depending on the engine type https://data.public.lu/fr/reuses/comparaison-de-prix-des-carburants-par-motorisation/, which is good for the awareness of this topic. Another one (https://data.public.lu/fr/reuses/energieauer-key-energy-figures-for-luxembourg/) is about a visualisation of the key energy figures for the country. It is linked to the national energy and climate plan PNEC and aims at triggering an active participation in the energy transition.;;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";No;;Confirm;No;;;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"We have been able to detect and document reuses on this topic:
+- https://data.public.lu/fr/reuses/tableaux-interactifs-sur-les-demandeurs-demploi-inscrits-a-ladem/ These are dashboards about unemployment in Luxembourg with lots of details, and the evolution of some data is also available. They have been developed by the public sector. They show that the category ""IT systems and telecommunication"" is one of the most important categories in terms of job offers. This information helped the Education ministry to develop a new concept of professional training in this domain, with the initiative DLH (digital learning hub) which started in 2022. The goal of DLH is to assist persons in  their professional transition to software development and other IT skills. It has been a great success, and an additional training institue  ""42Luxembourg"" has been created https://42luxembourg.lu/ which is an example of PPP.
+- https://data.public.lu/fr/reuses/unemployment-luxembourg-facilitons-lemploi-chiffres-cles/ this dashboard is quite similar but maybe more synthetic and has been developed by a private sector company.
+Both reuses are based on the same datasets.
+";;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Examples: several projects aiming at implementing  AI-based technologies at governmental organisms have been relying on data available as opendata 
+https://gouvernement.lu/fr/dossiers.gouv_mindigital%2Bfr%2Bdossiers%2B2021%2BAI4Gov.html#bloub-1. Open data is also one of the key factors of interest in the recently launched  ""Data4Gov"" call series by the Ministry of digitalisation
+https://mindigital.gouvernement.lu/fr/dossiers/2023/data4gov.html";;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;;;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;;;;

@@ -1,0 +1,376 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;The article 4 of Public Information Access Act says: (3) Re-use of information of a public nature means use by natural or legal persons for gainful or non-gainful purposes except for the original purpose within the public task for which the documents were prepared. The use of information for the performance of public tasks in a body or the exchange of information between bodies for the performance of public tasks shall not be considered as re-use of information. ;Confirm;;;;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;"New monitoring frameworks are added at upgrades of the portal OPSI, the monitoring app Matomo is in the process of upgrade.
+
+As part of access to public information, we are aware that monitoring re-use by public institutions is important for raising quality. Therefore, we encourage individual data providers to monitor and measure reuse. Therefore, some public organizations, such as GURS (Surveying and Mapping Authority), have prepared an agreement on the use of access services in the form of SLA. The use of data has been monitored, systematically since 2005, also for electronic transmission and access services. Application monitoring is performed with the help of business analytics within the BI data warehouse and through web analytics at the portal level. With advanced users who have specific business requirements for the use of services and information in real time, they conclude simple mutual agreements in which mutual relations are defined. The purpose of monitoring the use and concluding agreements is to provide users with an appropriate service and a stable environment according to their needs. All information relevant to users is regularly published on the web portal. A helpdesk is also available to users. ";Confirm;;;;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";yes;For public access to data through the OPSI portal, a central web-analytics system is used, which is used by all bodies that publish data on the OPSI portal. We use Matomo software to measure web-analytics. Access to this system is internal, but we also publish annual report of re-use. Here is link to annual report: https://podatki.gov.si/sites/default/files/reports/poro%C4%8Dilo%202022.pdf;Confirm;;;;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;For public access to data through the OPSI portal, a central web-analytics system is used, which is used by all bodies that publish data on the OPSI portal. We use Matomo software to measure web-analytics.;;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"A definition is contained in the Strategic Working Plan for Open Data 2022-2023. It states that the Open Data have impacts primarily on 4 main areas: 1) transparency of the work of public institutions (anti-corruption; political impact), 2) innovative digital economy, 3) solving environment related problems (smart cities), 4) efficient functioning and data-driven decisions of the public institutions.
+Yes, this definition is still valid.
+
+Link to Strategic Working Plan for Open Data 2022-2023: https://podatki.gov.si/sites/default/files/reports/Odprti%20podatki%20JS%20-%20Strate%C5%A1ki%20delovni%20na%C4%8Drt%202022%202023_0.pdf     ";Confirm;;;;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";no;;Confirm;;;;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"We have established cooperation with several Faculties:
+- Faculty of Computer and Information Science, University of Ljubljana
+- Faculty of Electrical Engineering (FEE), University of Ljubljana
+- Faculty of Electrical Engineering and Computer Science, University of Maribor
+- Faculty of Public Administration, University of Ljubljana
+-Faculty of Law, University of Ljubljana
+
+Links to FRI collaboration with students.
+12. 1. 2021 Predstavitev seminarskih nalog na temo odprtih podatkov s področjih dela državnih organov: https://podatki.gov.si/content/predstavitev-seminarskih-nalog-%C5%A1tudentov-fri                                                                 
+
+Links of cooperation with academia:
+- https://podatki.gov.si/content/predstavitev-seminarskih-nalog-%C5%A1tudentov-fri
+- https://4pdih.com/opsi-pomoc-delavnica/
+- https://ltfe.org/blog/odprti-podatki-slovenije-delavnica-o-uporabi-portala-opsi/
+- https://dih.um.si/oglejte-si-posnetek-delavnice-opsi-hub-izkoristimo-moc-odprtih-podatkov/";Confirm;;;;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;Yes;For public access to data through the OPSI portal, a central web-analytics system is used, which is used by all bodies that publish data on the OPSI portal. We use Matomo software to measure web-analytics. And in that system is also automated feedback mechanisms tracking users´ access to datasets.;;;
+I8-b;Surveys;new question;new question;Change;No;;;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;We organized workshop with use cases.;;;
+I8-d;Other;new question;new question;Change;No;;;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Change;Yes;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;We are organizing regular events where users can share their views and give us feedback. Also inthe portal we have feedback mechanism.;;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;Yes;We have Linkedin profile, where can users also send us feedback. We also analysing feedback in our social media.;;;
+I9-c;Other;new question;new question;Change;No;;;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;On national Open Data Portal which is managed by Ministry of Public Administration (managing the editors and policy) and Ministry of digital transformation (managing the technical part of portal and also working on policy), the users are encouraged to publish their aplications reusing open data as the use case of the reuse.  The OPSI portal thus serves as the one -stop-point for showing various OD use cases.;Confirm;;;;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;"On national Open Data Portal which is managed by Ministry of Public Administration (managing the editors and policy) and Ministry of digital transformation (managing the technical part of portal and also working on policy, we have options for the users to publish their aplications where have reuse open data. During the process of publishing their application, they must describe it by filling the required fields: These are:
+- Name of application
+- Summary
+- URL
+- Name of developer
+- Publisher name
+- Publisher e-mail
+- Some images of aplications
+- Category of re-use
+So, the re-use cases, that is applications,  are classified by categories, which are the same as they are on the Open Data Portal in Slovenia, which are also similar to data.europe.com categories.";Confirm;;;;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";yes;"Please change the answer to: 
+1. The present studyis based on the results of the target research project (CRP) Design of information solutions for decision-making about CAP (ITzaCAP) based on data. The purpose of CRP ITzaSKP was to encourage the opening of public administrative (micro) data in agriculture in Slovenia for as many purposes as possible, including or above all those that were not defined when the data was created. The project took place in the context of new social expectations and needs in the field of agriculture and in related fields and in the context of the possibility of using information technology. 
+
+It was based on data science – the disciplines of social science and information science. In this way, it complemented other related projects, mostly in the field of agrarian economics, which pursued the goal of using data for a specific objective and/or in a specific area of agriculture. The project was financed by the Ministry of Agriculture, Forestry and Food (MKGP) and the Public Research Agency of the Republic of Slovenia.
+Link to study OPENING DATA IN SLOVENE AGRICULTURE FOR FACT-BASED DECISION-MAKING: https://www.fdv.uni-lj.si/docs/default-source/zalozba/acmo-22-21-12-2021.pdf?sfvrsn=2 
+
+
+2. The Slovenian case  of ERAR (a web site of the Slovenian Commission for Prevention of corruption providing for the transparency of public spending via publishing open data) has been recognised as a best practice by the EC in their 2023 Handbook of good practices in the fight against corruption. 
+
+https://home-affairs.ec.europa.eu/news/handbook-good-practices-fight-against-corruption-2023-02-15_en  
+
+See page 46: 
+
+2.2.4 Slovenia: Combining Open Data sources for public reuse - ERAR online application
+
+
+Additional clarification:
+In terms of data demand, there is a comparison with the FLINT project indicators which was focused on the FADN base, showed that it is possible in Slovenia with help of public administrative resources to provide (at least partial) microdata for as much as a third from around 30 economic ones (investments and insurance - based on measures, duration of farms, quality schemes, exposure to risks - non-agricultural activities), environmental (permanent grasslands, areas with ecological importance, potential calculations TGP with the help of standard factors) and social indicators (involvement in Education and Training).
+
+On the basis of expressed needs and assessed possibilities for data analytics, we within the  framework of the experiment, obtained data from AKTRP for farms included in the system of agricultural subsidies (approximately 57,000 farms) for the period 2015-2019 (the current CAP cycle), which include up to about 400 variables on an annual basis. From MKGP (RKG) also obtained data on land (using) surfaces. We are data combined at the KMG unit level and performed some test tasks in the freely available and open source software environment (Orange). It was not the purpose of the experiment identifying individual cause-and-effect relationships and predicting, but also showing the potential of data for various analytical tasks in a more time-efficient way and generally accessible way and evaluating data systems from the point of view of data analytics based on practical IT problems that arose during the experiment appeared.
+
+The experiment confirmed that the data has tremendous potential, but the obstacles are the knowledge of the structure of the resources and the necessary different knowledge and competences for meaningful use and interpretation. Obtaining, combining and editing data for individual purposes is due to its complex structure, fragmentation into areas and in time, lack of documentation, also in relation to quality and methods of use, various single-purpose systems, the absence of standard interfaces and others demanding in terms of time and human resources.
+Several suggestions emerge from the conducted research, which are presented in bold in more detail in the conclusions of the chapters of the monograph, and we summarize them in the following Table 1 on page 277.
+
+In the end, we can conclude that the conducted research complements existing research, which pointed out the non-targeting of measures in Slovenian agriculture and the problems access to individual data in a manner indicative of general public benefits and specific options for opening administrative data for various purposes use both in the social and technical-information sense.";Confirm;;;;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"1) https://e-uprava.gov.si/podrocja/izobrazevanje-kultura/visoka-in-visja-sola/subvencionirana-vozovnica.html_x000D_
+2) https://podatki.gov.si/dataset/register-prostorskih-enot_x000D_
+3) Reuse of open data of house address, government created this service and based on this data user can get subsidized ticket._x000D_
+Anyone who resides in the Republic of Slovenia or abroad and is not employed or does not perform an independent registered activity or is not entered in the register of unemployed persons with the competent authority or is not a managing person of a commercial company or a director of a private institute and is in education is entitled to a subsidized ticket. according to the valid education and study programs and from the records of the ministry responsible for education, it follows that you have the following status:_x000D_
+- a student simultaneously enrolled in the professional part of the secondary school education program,_x000D_
+- a student, in accordance with the regulations governing secondary education,_x000D_
+- persons who receive an extraordinary education according to a program of vocational, professional and general secondary school education and higher professional education, until the age of 26, if they do not receive education in accordance with the regulations on the regulation of the labor market,_x000D_
+- a student._x000D_
+_x000D_
+Registered athletes who are entitled to a subsidized ticket, regardless of the distance between the place of residence and the place of education, you have the right to a free ticket for the area of ";;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"1) https://proracun.gov.si/Public/BudgetVisualization_x000D_
+2) https://podatki.gov.si/dataset/proracun-republike-slovenije_x000D_
+3) Budget of the Republic of Slovenia_x000D_
+In front of you is an interactive graphic display of the data, where you can learn more about what we finance from the state budget and how much money the state allocates to individual areas each year. At the same time, you can continuously monitor how much money we have already collected in this year's budget and how much we have spent. We also make it possible to display more detailed information about projects financed from the budget._x000D_
+_x000D_
+The state budget is only one of the four public financing funds and accounts for slightly less than half of all public financial expenditures. Public financial resources also flow into the pension fund (from which, among other things, pensions and disability benefits are paid monthly), the health fund (which, among other things, covers the costs of operating medical centers, hospitals and medicines), and the municipal budgets represent the income and expenditure of all 212 municipalities (which municipalities regulated independently and only applies to residents of individual municipalities).";;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"1) https://www.geoprostor.net/piso/ewmap.asp?obcina=trzic&cx=449096&cy=138060.5&CS=D96&scale=64&catprj=piso.trzic_goso&bckcat=piso.base_tile_hv&ovllys=000000000000&defaultuser=true_x000D_
+2) https://podatki.gov.si/dataset/obmocja-belih-lis-v-obcini-trzic-goso_x000D_
+3) Areas of white spots in the municipality of Tržič (GOŠO)_x000D_
+The thematic set shows the white spot areas: these are individual households in areas where it has been established that operators do not provide broadband networks that would allow these households to access broadband electronic communications services at a speed of at least 100 Mb/s and where in the market interest testing procedures there was no expressed market interest in building such broadband networks in the next three years.";;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"1) https://geohub.gov.si/portal/apps/webappviewer/index.html?id=f89cc3835fcd48b5a980343570e0b64e_x000D_
+2) https://podatki.gov.si/dataset/vodovarstvena-obmocja_x000D_
+3) Water protection areas_x000D_
+_x000D_
+A water protection zone is an area in which a water protection regime applies in order to protect a body of water that is used for abstraction or is intended for the public supply of drinking water against pollution or other types of stress that could affect the health suitability of the water or its quantity. Due to the different level of protection, internal zones are formed in the water protection zone, namely the narrowest water protection zones with the strictest water protection regime, narrower water protection zones with a stricter protection regime and wider water protection zones with a milder water protection regime. The measures, conditions and restrictions of the water protection regime refer to the prohibition or setting of special conditions for encroachment on space, the prohibition or restriction of carrying out activities or the prohibition or restriction on the use of water in the water protection area._x000D_
+_x000D_
+In order to protect the water body, which is used for abstraction or is intended for the public supply of drinking water, against pollution or other types of stress that could affect the health suitability of the water or its quantity, but the water protection area is not defined, until the regulations come into force The governments of the Republic of Slovenia apply municipal regulations (as a rule, decrees) that define (water) protection zones, issued on the basis of the Water Act (Official Gazette of the Republic of Slovenia, No. 38/81, 29/86 and 42/89 and Official Gazette of the Republic of Slovenia, No. 15 /91-I, 32/93 - ZGJS, 29/95 - ZPDF, 52/00 and 67/02 - ZV-1)._x000D_
+_x000D_
+Water protection areas are presented in the data layer:_x000D_
+- water protection areas, determined on the basis of the regulation of the Government of the Republic of Slovenia and_x000D_
+- water protection areas, determined on the basis of municipal decrees.";;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";No;"Please change the answer to:
+1) Trends in regional development in Slovenia in the light of the goals of sustainable development (http://eurogeojournal.eu/articles/03_EJG_12_2_MALLY_036_051.pdf) 
+This study was conducted for the whole of Slovenia, i.e., for all twelve statistical regions. Of central interest was the question of whether Slovenian regions are making long-term progress towards the goals of sustainable development, or whether they may even be backsliding relative to their starting position. The relative positions of Slovenian regions were investigated at three levels. On the first level, the positions of the regions are assessed in relation to the national average, based on particular aspects of development, which are covered by the selected 32 indicators of sustainable development in the economic, social and environmental areas. 
+Social indicators: 
+- Unemployed with uncompleted or completed primary school, 2019 (%) - Share of unemployed women, 2019 (%) 
+- Population density, 2019 (people/km2) 
+- Population growth index, 2015–2019 
+- Aging index, 2019 
+- Average age at death, 2019 (years) 
+- At-risk-of-poverty or social exclusion rate, 2019 (%) - Usable floor area, 2018 (m2/capita) 
+- Registered unemployment rate, 2019 (%) 
+- Students, 2018/2019 (no. of students/1,000 people) - PC users, 2019 (% of households) 
+- College degree holders (25–64 yrs), 2019 (%)
+
+Additional clarification:
+The research presented in the article was designed with this in mind and shows that based on changes in the values of individual indicators found, there has been an improvement in most of the studied socio-economic aspects of sustainable development in Slovenia in the last decade, but at the same time a worsening in most of the environmental aspects analyzed. This is yet another indicator that the socio-economic development of the country continues to take place at the expense of the environment: depletion of its resources and pollution. This worsens the long-term development prospects of the regions; hence the country will need to systematically address the problems exposed through well-thought-out measures.
+As in previous periods, the assumption that in 2015–2019 the largest differences among the Slovenian regions are in the economic area and the smallest in the environmental area was confirmed. Compared to the period 2010–2014, the extent of interregional differences in the economic area has slightly decreased, while this cannot be quantifiably confirmed for differences in the environmental and social areas. The development divide between the more prosperous western part of the country and the lagging eastern part is also maintained; for the most part, the latter also has poorer prospects for implementing sustainable development in the future. These findings are
+therefore, unfavorable both from the standpoint of achieving more balanced regional development and from the standpoint of achieving the goals of sustainable development, both of which are among Slovenia’s strategic goals.";Change;Yes;"""Development Report 2023
+In Chapters 3.2 A healthy and active life and 3.3 A decent life for all
+https://www.umar.gov.si/fileadmin/user_upload/razvoj_slovenije/2023/slovenski/POR2023-splet.pdf
+
+Source:
+3.2 A healthy and active life: https://nijz.si/zivljenjski-slog/nekemicne-zasvojenosti/
+nekemicne-zasvojenosti/
+
+3.3 A decent life for all: https://pxweb.stat.si/SiStatData/pxweb/sl/Data/Data/0888010S.px/""";;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"""1. INTEGRATION OF IMMIGRANTS IN THE LOCAL ENVIRONMENT
+2. URL to dataset:  http://mnz.arhiv-spletisc.gov.si/si/mnz_za_vas/tujci_v_sloveniji/statistika/index.html
+3. The results of the research on the intercultural approach in the management of diversity and integration of immigrants in cities within the framework of the Intercultural Cities program, prepared by the Migration Policy Group of the Council of Europe in 2018 (Web resource 1), confirm a strong statistical connection between local intercultural policies and local prosperity. In cities with stronger intercultural policies, residents are more likely to believe that immigrants have a positive impact on city development and that local services are reliable and efficient. The strong and positive correlation shows that the public opinion of residents of cities with strong inclusive policies is favorable to immigrants. In addition, residents in cities with a strong intercultural integration policy show greater satisfaction with public services and local administration, find employment more easily and feel safer. """;;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"""1. URL: https://podcrto.si/stanovanjska-problematika-kdo-si-lahko-privosci-lasten-dom-v-ljubljani/
+2. URL: https://podatki.gov.si/dataset/surs2640010s
+3. Housing issues: Who can afford their own home in Ljubljana?
+In the first part, we analyze the needs for apartments and our collection of advertisements for the sale of new buildings in Ljubljana.""";;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"""1. INEQUALITIES IN HEALTH: THE CHALLENGE FOR THE FUTURE IN INTERSECTORAL CONNECTION
+URL: https://nijz.si/wp-content/uploads/2022/07/neenakosti_e_verzija.pdf
+2. URL: https://podat""Vir: ZRSZ (2022b) (levo) in CEDEFOP (2022) (desno).
+
+1. Chapter 2.1 Education: https://www.umar.gov.si/fileadmin/user_upload/razvoj_slovenije/2023/slovenski/POR2023-splet.pdf
+2. https://podatki.gov.si/dataset/sursh104s
+3. Knowledge and skills for quality life and work (development goal 2)
+The content of the goal is to promote quality and accessible learning for and throughout life to achieve greater
+competitiveness of the economy and social welfare. The realization of the goal will be supported by the promotion of lifelong
+learning across the population, encouraging low-educated and other disadvantaged groups of adults to engage in
+education, improving the functional literacy of young people and adults, ensuring efficiency and quality
+education, connecting the education system with the economy and skills to improve employability
+individual. Achieving the goal is important for a healthy and active life, which is addressed in the SRS in the development section
+to goal 1, for an inclusive labor market and quality jobs addressed in development goal 7, decent
+life for all, which is addressed in development goal 3, for the competitiveness and digital transformation of the economy, which
+is addressed in development goal 6, for and for sustainable development, which is addressed in development goals 8 and 9.""i.gov.si/dataset/surs0886501s
+3. Public health is a socially oriented medical profession that deals with population health. General
+public health data and information give us a basic insight into the state of health in a certain population.
+However, we perceive the real challenges of individual population subgroups only when data on the state of health and
+various circumstances that affect health are properly broken down - mainly by gender, age, region of residence, etc
+especially by education and socio-economic status. In this way, we determine which groups of residents
+they have particularly unfavorable health outcomes due to their living conditions and are compared to the general population
+in an unequal position regarding their health. We talk about health inequalities and how the country should
+or its stakeholders take action to reduce unfair inequalities (1). Inequalities in health today are
+in the center of the Sustainable Development Goals of the United Nations, where the first goal, """"Elimination of poverty"""", is also announced
+related goals: 'End hunger', 'Health and well-being', 'Quality education' and 'Gender equality'""";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"1. Chapter 2.1 Education: https://www.umar.gov.si/fileadmin/user_upload/razvoj_slovenije/2023/slovenski/POR2023-splet.pdf
+2. https://podatki.gov.si/dataset/sursh104s
+3. Knowledge and skills for quality life and work (development goal 2)
+The content of the goal is to promote quality and accessible learning for and throughout life to achieve greater
+competitiveness of the economy and social welfare. The realization of the goal will be supported by the promotion of lifelong
+learning across the population, encouraging low-educated and other disadvantaged groups of adults to engage in
+education, improving the functional literacy of young people and adults, ensuring efficiency and quality
+education, connecting the education system with the economy and skills to improve employability
+individual. Achieving the goal is important for a healthy and active life, which is addressed in the SRS in the development section
+to goal 1, for an inclusive labor market and quality jobs addressed in development goal 7, decent
+life for all, which is addressed in development goal 3, for the competitiveness and digital transformation of the economy, which
+is addressed in development goal 6, for and for sustainable development, which is addressed in development goals 8 and 9.""";;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";No;"Please change the answer to:
+1) Trends in regional development in Slovenia in the light of the goals of sustainable development (http://eurogeojournal.eu/articles/03_EJG_12_2_MALLY_036_051.pdf)
+Additional explanation for example 1. 
+This study was conducted for the whole of Slovenia, i.e., for all twelve statistical regions. Of central interest was the question of whether Slovenian regions are making long-term progress towards the goals of sustainable development, or whether they may even be backsliding relative to their starting position. The relative positions of Slovenian regions were investigated at three levels. On the first level, the positions of the regions are assessed in relation to the national average, based on particular aspects of development, which are covered by the selected 32 indicators of sustainable development in the economic, social and environmental areas. 
+They used this indicators: 
+Environmental indicators: 
+- Organically farmed land, 2020 (%) 
+- Wooded areas, 2019 (m2/capita) 
+- Road freight transport growth index, 2010–2019 
+- Intensively farmed land, 2019 (m2/capita) 
+- Households in polluted environment, 2019 (%, self-assessment) 
+- Municipal waste, 2019 (kg/capita) 
+- Natura 2000 sites, 2019 (%) 
+- Water consumption, 2019 (m3/capita) 
+- Average expenditure on environmental protection, 2017–2019 (% GDP) - Built-up areas, 2019 (%) 
+- Treated wastewater, 2019 (%) 
+- Housing with district heating in place, 2018 (%) 
+- Motorization rate, 2019 (cars/1,000 people) 
+- Livestock density index, 2016 (LSU/ha) 
+
+
+2) The influence of climate change on discharge fluctuations in Slovenian rivers (https://ojs.zrc-sazu.si/ags/article/view/9942)
+
+Additional explanation for example 2. 
+In the study, statistical trends in seasonal and annual mean, maximum, extreme and low discharge values were investigated using the Mann Kendall test. The results show a temporal and spatial variability of trends in discharge. In general, a decreasing trend in water quantities in the rivers was observed. However, results at some gauging stations indicate statistically significant increasing trends, especially formaximum and extreme discharges. Additional analyses show that the discharge trends depend on the location of the gauging station. 
+
+
+3) Green scheme of Slovenian tourism: the case of Ljubljana (http://www.cek.ef.uni-lj.si/vps_diplome/kurtovic1219.pdf) 
+
+Additional explanation for example 3. 
+The purpose of the study is to determine the advantages and disadvantages of Ljubljana in the field of sustainability with the help of the Green Destination Standard, which are used in the Green Scheme of Slovenian tourism, and to make suggestions for improving this area. For the purpose of the study, I set out to examine the Green Destination Standards, which destinations take into account when introducing sustainable tourism, and based on these to get the advantages and disadvantages of Ljubljana as a sustainable destination and thus formulate suitable proposals for improvement. 
+
+4) Opening data in Slovenian agriculture for fact-based decision-making
+https://www.fdv.uni-lj.si/docs/default-source/zalozba/acmo-22-21-12-2021.pdf?sfvrsn=2
+The present monograph is based on the results of the target research project (CRP) Design of information solutions for decision-making about CAP (ITzaCAP) based on data. The purpose of CRP ITzaSKP was to encourage the opening of public administrative (micro)data in agriculture in Slovenia for as many purposes as possible, including or especially those that were not defined when the data was created. The project took place in the context of new social expectations and needs in the field of agriculture and in related fields and in the context of the possibility of using information technology.
+
+Additional explanation for example 4.  
+The study was made on the basis of existing data, and among other things, it also prepared certain recommendations regarding the use of data for the field of nature protection as part of agricultural policy, as one of the important parts of biodiversity and solving environmental challenges. All recommendations are also based on existing open data.
+
+Additional clarification:
+1)	Trends in regional development in Slovenia in the light of the goals of sustainable development: 
+The research presented in the article was designed with this in mind and shows that based on changes in the values of individual indicators found, there has been an improvement in most of the studied socio-economic aspects of sustainable development in Slovenia in the last decade, but at the same time a worsening in most of the environmental aspects analyzed. This is yet another indicator that the socio-economic development of the country continues to take place at the expense of the environment: depletion of its resources and pollution. This worsens the long-term development prospects of the regions; hence the country will need to systematically address the problems exposed through well-thought-out measures. As in previous periods, the assumption that in 2015–2019 the largest differences among the Slovenian regions are in the economic area and the smallest in the environmental area was confirmed. Compared to the period 2010–2014, the extent of interregional differences in the economic area has slightly decreased, while this cannot be quantifiably confirmed for differences in the environmental and social areas. The development divide between the more prosperous western part of the country and the lagging eastern part is also maintained; for the most part, the latter also has poorer prospects for implementing sustainable development in the future. These findings are therefore unfavorable both from the standpoint of achieving more balanced regional development and from the standpoint of achieving the goals of sustainable development, both of which are among Slovenia’s strategic goals.
+2)	The influence of climate change on discharge fluctuations in Slovenian rivers:
+The results of the study show that climate variability during the considered period (1961–2013) influences the temporal and spatial variability of discharges and associated floods and droughts in Slovenia. In general, a decrease in water quantities in the rivers was observed. Similar conclusions were drawn also by Frantar, Kobold and Ulaga (2008) using the data for the whole observation period until 2005. Thus, it seems that similar trends continue also a decade later. Mean annual discharges are decreasing at all stations considered, statistically significant at most of them. Furthermore, the rivers of the Adriatic catchment demonstrate a statistically significant decrease in mean discharges in the summer season and the rivers of the Black Sea catchment in the summer and spring sea-sons. On the other hand, the maximum mean daily discharges do not show such uniform trends as the mean discharges as some gauging stations exhibit statistically significant trends in annual maximum dis-charge series. However, despite the fact that the results of the trends of the maximum annual discharge indicate regional differences, a predominantly decreasing trend was observed. The rivers of the Adriatic Sea catchment mostly demonstrate a statistically significant decreasing trend in the maximum discharges in the spring and summer seasons, while the rivers of the Black Sea catchment do not show uniform trends. The extreme annual discharge values also do not show a uniform trend; however, even more gauging stations show a statistically increasing trend compared to the trends in maximum discharges. Most of them are in the Ljubljanica and the Krka River catchments. Furthermore, the results of the trend analysis of low discharges demonstrate statistically significant decrease for the rivers of the Black Sea catchment, while for the rivers of the Adriatic Sea catchment some stations do not show statistically significant changes. Low discharges decrease in summer at most stations, while in some catchments they also decrease in autumn and spring. The results show that the discharge trends depend to some extent on the location of the gauging station. This was to be expected due to the great climatic and landscape diversity in Slovenia. The findings of the study related to the trends of different types of discharge data series should be taken into account in practice, e.g. for effective water management, flood protection, granting permits for water abstraction, designing of irrigation systems.
+3)	Green scheme of Slovenian tourism: the case of Ljubljana:
+In the final assignment, the aim was to determine the strengths and weaknesses of Ljubljana in the field of sustainability with the help of the Green Destination Standard, which are used in the Green Scheme of Slovenian tourism, and to make suggestions for improving this area. Therefore, the basic concepts of sustainable tourism, environmental labeling and the Green Scheme of Slovenian tourism were described in more detail in the theoretical part.
+
+Since descriptive methods were used throughout the study, the Green Destination Standard was used for the purposes of the empirical work. First, the topics, subtopics and indicators that are used in the Green Destination Standard were examined, so that the display had a better idea of which data and from which areas are needed for the analysis of Ljubljana in the field of sustainability. The open data used for each theme of the Green Destination Standard is of a secondary nature and has already been obtained. With the help of this data, Ljubljana's strengths, and weaknesses in the field of sustainability were revealed, and proposals for improvement were prepared on the basis of this.
+4)	In terms of data demand, there is a comparison with the FLINT project indicators which was focused on the FADN base, showed that it is possible in Slovenia with help of public administrative resources to provide (at least partial) microdata for as much as a third from around 30 economic ones (investments and insurance - based on measures, duration of farms, quality schemes, exposure to risks - non-agricultural activities), environmental (permanent grasslands, areas with ecological importance, potential calculations TGP with the help of standard factors) and social indicators (involvement in Education and Training). 
+
+Based on expressed needs and assessed possibilities for data analytics, we within the framework of the experiment, obtained data from AKTRP for farms included in the system of agricultural subsidies (approximately 57,000 farms) for the period 2015-2019 (the current CAP cycle), which include up to about 400 variables on an annual basis. From MKGP (RKG) also obtained data on land (using) surfaces. We are data combined at the KMG unit level and performed some test tasks in the freely available and open-source software environment (Orange). It was not the purpose of the experiment identifying individual cause-and-effect relationships and predicting, but also showing the potential of data for various analytical tasks in a more time-efficient way and generally accessible way and evaluating data systems from the point of view of data analytics based on practical IT problems that arose during the experiment appeared. 
+The experiment confirmed that the data has tremendous potential, but the obstacles are the knowledge of the structure of the resources and the necessary different knowledge and competences for meaningful use and interpretation. Obtaining, combining, and editing data for individual purposes is due to its complex structure, fragmentation into areas and in time, lack of documentation, also in relation to quality and methods of use, various single-purpose systems, the absence of standard interfaces and others demanding in terms of time and human resources. 
+Several suggestions emerge from the conducted research, which are presented in bold in more detail in the conclusions of the chapters of the monograph, and we summarize them in the following Table 1 on page 277. 
+In the end, we can conclude that the conducted research complements existing research, which pointed out the non-targeting of measures in Slovenian agriculture and the problems access to individual data in a manner indicative of public benefits and specific options for opening administrative data for various purposes use both in the social and technical-information sense.";Change;Yes;"""1. Development of an agricultural management strategy for the conservation of biodiversity in the agricultural landscape: https://repozitorij.upr.si/Dokument.php?id=28457&lang=slv
+2. https://podatki.gov.si/dataset/surs1561901s""";;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"""1. ASSESSMENT OF THE IMPACT OF AIR POLLUTION WITH PM2.5 PARTICLES
+ON MORTALITY IN PLACES WITH EXCESS
+AIR POLLUTION: https://www.nijz.si/sites/www.nijz.si/files/uploaded/porocilo_pm_2017-2019.pdf
+2. https://podatki.gov.si/dataset/podatki-o-kakovosti-zunanjega-zraka-in-padavin-pm10-o3-so2-co-nox-voc-sestava-delcev-kakovost-padavi""";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"""1. Waste logistics and its utilization: https://dk.um.si/Dokument.php?id=170060&lang=slv
+2. hhttps://podatki.gov.si/dataset/surs2779405s
+3. The thesis consists of theoretical and empirical work. In the theoretical part, we defined load-relieving logistics, presented its goals and explained the subject of load-relieving logistics. This is followed by a presentation of the types of waste and their description. The theoretical part also covers the presentation of the circular economy, its importance and advantages. In the chapter Hierarchy of waste management, we explained the priority management of waste, according to the principle of an inverted pyramid, which shows the priority management of waste, from top to bottom. In the empirical work, we analyzed the key indicators of waste generation and waste management in the European Union (hereinafter: EU) and Slovenia. This is followed by a discussion in which the conclusions reached by analyzing the indicators are given. We found that the amount of waste produced in Slovenia has not decreased since the adoption of the EU action plan for the circular economy in 2015. We also found that the rate of recycled waste did not increase during the same period, as we found a drop in growth in e-waste and construction waste. At the end, we presented the proposals and measures of the European Union, with which it aims to speed up the transition to a circular economy. We also made our own proposals for additional solutions, with which we as consumers can contribute to a more sustainable system.""";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"""""""1. Development of an agricultural management strategy for the conservation of biodiversity in the agricultural landscape: https://repozitorij.upr.si/Dokument.php?id=28457&lang=slv
+2. https://podatki.gov.si/dataset/surs1561901s
+3. In addition to cultivated areas, the agricultural landscape also consists of other agricultural elements
+landscape. These are t. i. landscape features that are important habitats for many organisms. In recent decades, the agricultural landscape in Europe and Slovenia has been changing, which leads to the loss and reduction of the quality of habitats that are important for the preservation of biodiversity. As part of the master's thesis, we wanted to gain insight into the implementation of nature conservation measures that are currently available for the preservation of landscape features or biodiversity in the agricultural landscape. With the aim of evaluating the level of knowledge and use of nature conservation measures and financial mechanisms by farmers, and with the aim of understanding the potential reasons for (non)use of financial mechanisms, we: reviewed the available measures and financial mechanisms that are currently available for the preservation of landscape features; prepared an online questionnaire using the lKA Arnes tool, which we shared with various stakeholders (farmers, agricultural associations and organizations), and carried out an in-depth analysis based on the so-called i. the Delphi method. The results of the analysis of the online questionnaire showed that the majority of farmers have a positive attitude towards biodiversity, although only a small part recognizes the benefits of preserving the great biodiversity of the agricultural landscape. The majority of farmers recognize the landscape features well, but only a small proportion apply the financial mechanisms that are currently available for conservation. The results showed the following potential reasons for not using financial mechanisms: difficult understanding of professional terminology in the documentation for obtaining financial resources; too demanding acquisition procedures; financial mechanisms are not available for all farm types. Based on the obtained results, we made t. i. a decision tree and manual that facilitates farmers' identification of landscape features, measures and financial mechanisms available for their conservation.""";;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"""1. Possibilities of using drones for food delivery: hhttps://dk.um.si/Dokument.php?id=164820&lang=slv
+2. https://podatki.gov.si/dataset/podatki-o-meritvah-na-samodejnih-meteoroloskih-postajah
+3. Recently, we have noticed changes in the eating habits of consumers. Smart solutions and digitization make it possible to order food to a selected address. Although the food delivery service has been around for a long time, it has only recently experienced a boom of global proportions. One of the potential options for food delivery is the use of drones for food delivery. In order to investigate the possibilities of unmanned food delivery, we reviewed the literature and legislation in the field of unmanned aviation and conducted a test flight in the area of ";;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";yes;"Please change the answer to:
+1) Report on the economic impact of open data in Slovenia (https://podatki.gov.si/sites/default/files/reports/Economic-social%20impact%20of%20open%20data%20in%20Slovenia.pdf) 
+
+The main objective of the report is to quantitatively estimate the economic-social impact of open data in Slovenia. Analysis is based on a direct application of Huyer & Van Knippenberg’s 2020 methodology for quantitatively estimating the economic impact of open data in all those fields, where relevant data for Slovenia is currently available. The study reveals an estimated potential of 293 million € for Slovenia’s open data market size growth until 2025 and estimated 7,441 open data employees in 2025 according to optimistic scenario forecasts. Moreover, the study estimates several potential efficiency gains and cost savings due to application of open data in Slovenia (e.g. 216 – 403 lives saved due to faster arrival of emergency services, 29 – 48 lives saved due to CPR administered by first responders, 97 thousand hours saved for train users, 885 terajoule saved in household energy consumption). At the end, two brief case studies of Slovenian organizations that have been using open data as part of their business model are presented.";Confirm;;;;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;;;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"SentinelHUB (https://www.sentinel-hub.com/about/) 
+Originally produced by a Slovenian company Sinergise (in Aug 2023 aquired by Planet). 
+
+https://www.businesswire.com/news/home/20230814730942/en/Planet-Completes-Acquisition-of-Sinergise-Set-to-Expand-Planet%E2%80%99s-Earth-Data-Platform  
+Sentinel Hub is a highly innovative engine for processing of petabytes of satellite data. It is opening the doors for machine learning and helping hundreds of application developers worldwide. It makes Sentinel, Landsat, and other Earth observation imagery easily accessible for browsing, visualization and analysis. Scale your system globally with an intuitive and user-friendly interface, without any hassle. System is using open data. 
+
+Earth observation data provided by the Sentinel satellites are revolutionizing the market of space applications. Sentinel-2A is producing thousands of high resolution scenes every day. These data are now openly accessible and Sentinel Hub service can provide you with high resolution imagery almost instantly after they are made available.  
+
+Sentinel data provided by Copernicus program and ESA is freely available to anyone. 
+
+More info: https://www.sinergise.com/en/solutions/gis-tools/satellite-imagery-archive-within-gis-cloud ";;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;;;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;No;;;;

@@ -1,0 +1,299 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";other;"Guidelines for making public data available - https://www.regjeringen.no/no/dokumenter/retningslinjer-ved-tilgjengeliggjoring-av-offentlige-data/id2536870/. Transposition of the Open Directive is still in progress: https://www.regjeringen.no/no/sub/eos-notatbasen/notatene/2018/juni/endring-viderebruksdirektivet/id2604081/
+
+The Government has trough ""Data as a resource"" (https://www.regjeringen.no/en/dokumenter/meld.-st.-22-20202021/id2841118/?ch=2) set the following principles for its data policy:
+1. Data must be as open as possible and as closed as necessary.
+2. Data should be findable, accessible, interoperable and reusable (FAIR).
+3. Data must be shared and used in ways that create value for the private sector, the public sector and society.
+4. Data must be shared and used in ways that respect fundamental rights and freedoms and preserve Norwegian social values.
+
+The Norwegian government has established a public committee to assess the appropriate implementation of the directive (https://www.regjeringen.no/no/dep/kdd/org/styrer-rad-og-utvalg/viderebruksutvalget/id2926740/). The committee's proposed regulation of the reuse of data will be based on the Public Access to Information Act with regulations and EU Directive (EU) 2019/1024 on open data and reuse of information from the public sector. The above-mentioned directive is a minimum directive, and therefore the committee is asked to consider whether Norway should go beyond the thematic categories that follow from the directive when it comes to datasets of high value, and also include other datasets than those covered by the EU's implementing act on datasets of high value.";Confirm;;;;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"Norway has several strategic documents and policies that cover data sharing (including open data), digitalisation, artificial intelligence, etc. Listed below are some relevant documents
+
+Digital agenda for Norway
+Establishes information as a key resource in the public sector. Emphasis on once-only and holistic information management.
+Establishes three main reasons why access to open public data is important for society:
+1. Streamlining and innovation
+2. Business development
+3. An open and democratic society
+
+In addition, cross-sectoral instruments have been established to promote access to and re-use of public data:
+- Dataportal (data.norge.no)
+- Dataset distribution service
+- Guidelines for re-use of public data
+- Guidance for making open data available
+- Development of a Norwegian license for public data
+The strategy also identifies important sectors with open data that are socio-economically important
+
+National strategy on access to and sharing of research data
+The strategy is part of the follow-up to Meld. St. 27 (2015–2016), Digital agenda for Norway.
+The strategy deals with increased accessibility to and reuse of publicly funded research data. It describes the state of affairs on which the policy is based and the current situation at the research institutions. Three basic principles relating to the accessibility and sharing of research data are set out:
+1. Research data must be as open as possible, as closed as necessary
+2. Research data should be managed and curated to take full advantage of their potential
+3. Decisions concerning archiving and management of ";Confirm;;;;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";not applicable;The digitalisation strategy and accompanying action plan are a collaboration between the government and The Norwegian Association of Local and Regional Authorities (KS). ;Confirm;;;;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;"Action plan for One digital public sector
+https://www.digdir.no/handlingsplanen/handlingsplan-digitalisering-av-offentlig-sektor/1229
+Excerpt from the list of specific follow-ups for the area of data sharing:
+• Establish a national center for data sharing (established)
+• Establish The Data Factory (https://datafabrikken.norge.no) as a project to facilitate G2B datasharing (completed)
+• Establish a national toolbox for data sharing (established/reassessment)
+• Investigate a legal obligation to publish open data (ongoing)
+• Develop a strategy for artificial intelligence (completed)
+• Develop a method for measuring the effects of data sharing (completed for open data from the public sector used in the private sector)
+
+Digtial Agenda specifies that it will continue with and build upon existing tools for open data and that sectoral strategies be prepared in the culture, education, transport, mapping and Government spending sectors. Open data strategies have been made for five of these sectors and can be found here. 
+•Culture https://www.regjeringen.no/no/dokumenter/kulturdepartementets-strategi-for-apne-data/id2576038/?q=strategi%20kultur
+•Geodata: https://www.geonorge.no/Geodataarbeid/nasjonal-geodatastrategi/
+•Research: https://www.forskningsradet.no/contentassets/e4cd6d2c23cf49d4989bb10c5eea087a/policy-for-apen-tilgang-til-forskningsdata.pdf
+•Transport: https://www.regjeringen.no/no/dokumenter/strategi-for-tilgjengeliggjoring-av-offentlige-data--samferdselssektoren/id2598229/
+•Education and Research: https://kunnskapsdata.no/";Confirm;;;;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"""Data as a resource"" describes dynamic/realtime data as an importent part of the future data driven economy. In the Government's follow-up points [unofficial translation]: Contribute to the development of standards for the collection and making available of real-time data, sensor data and the like from the public sector for further use.  https://www.regjeringen.no/no/dokumenter/meld.-st.-22-20202021/id2841118/?ch=5#kap5-6
+
+Sharing of industrial data (Expert group) 
+Sharing of industrial data recommends a sharper distinction between static data (datasets) and dynamic data (data streams). This is because dynamic data is more often operational than datasets, and for dynamic data there will be greater expectations of what obligations the provider of the data service has. The expert group does not explicitly differentiate between open and closed data, but instead looks closer at different usage rights (licensing) for data.";Confirm;;;;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;;;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";yes;"We don't directly foster the discoverability of the aforementioned types of data, but our national data portal and our geo data portal (https://www.geonorge.no/) are automatically published on data.europe.eu. 
+
+The Norwegian geodata strategy refers to the Inspire directive and points out that geodata should be easy to find, assess whether they are suitable for a relevant purpose and find out the conditions that apply to be able to use them.";Confirm;;;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"""Digital Agenda"" has an entire chapter of Information Management and the ‘Once Only’ Principal where reuse of data within the public sector is paramount.
+
+In ""One digital public sector"" data sharing is one of six prioritised areas. Description: the public sector shall exploit the potential of sharing and using data to create user-friendly services, and to promote value creation in the business sector
+https://www.regjeringen.no/en/dokumenter/one-digital-public-sector/id2653874/?ch=2
+
+""One digital public sector"" states that The public sector shall share data when it can and protect data when it must. Open public data shall be made available for reuse for developing new services and value creation in the business sector https://www.regjeringen.no/en/dokumenter/one-digital-public-sector/id2653874/?ch=4
+
+See question 5, or the action plan for updated status: https://www.digdir.no/handlingsplanen/samlet-oversikt-over-status-pa-handlingsplanens-tiltak/2595";Confirm;;;;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"""Data as a resource"" is largely dedicated to the subject . Chapter 5 - Public data as a resource for the business sector contains concrete measures.  https://www.regjeringen.no/no/dokumenter/meld.-st.-22-20202021/id2841118/?ch=5#kap5
+
+""One digital public sector"" states that The public sector shall share data when it can and protect data when it must. Open public data shall be made available for reuse for developing new services and value creation in the business sector https://www.regjeringen.no/en/dokumenter/one-digital-public-sector/id2653874/?ch=4
+
+""Sharing of industrial data"" Chapter 8 deals with sharing from the public sector to the private sector. Among other things, the expert group recommends a larger investigation. https://www.regjeringen.no/id2916456/?ch=8";Confirm;;;;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;"The strategy ""One digital public sector"" states that public agencies must keep track of what data they have, where they are located, and how they can be used: https://www.regjeringen.no/en/dokumenter/one-digital-public-sector/id2653874/?ch=4
+
+The Framework for Information Management specifies that each organisation should create and maintain a data inventory https://www.digdir.no/informasjonsforvaltning/rammeverk-informasjonsforvaltning/2118. Some examples of organisations with very good inventories are The Norwegian Labour and Welfare Administration, The company register, Stavanger Municipality, The tax Authorities.
+
+The national guidance for information management https://data.norge.no/guide/veileder-orden-i-eget-hus/ states:
+""Den enkelte virksomhet skal ha oversikt over hvilke data den håndterer, hva dataene betyr, hva de brukes til, hvilke prosesser de inngår i, og hvem som kan bruke dem (informasjonsforvaltning).""
+
+Unofficial translation is as follows 
+""Each organisation must have an overview over which data they manage, what the data means, what it is being used for, which processes they are involved in, and who can use them"".
+
+The digitalisation circular  https://www.regjeringen.no/id2952701/
+obliges all state enterprises to register the national data catalogue. Unofficial translation: ""The company must register data sets in the Common Data Catalog (data.norge.no). This must be done as a minimum when the company changes or establishes services, including establishing new ones, or upgrading existing professional systems or digital services.""";Confirm;;;;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;"The digitalisation circular applies to all types of data, and each public sector state organisation has to create and share its total inventory  https://www.regjeringen.no/id2952701/
+
+""Den enkelte virksomhet skal ha tilstrekkelig oversikt over hvilke data den håndterer. [...] Virksomheten skal registere datasett i Felles datakatalog(data.norge.no). [...] Virksomheter som registerer/synliggjør datasett, må klargjøre forutsetningene for å dele datasettet med andre virksomheter.""
+
+Unofficial translation is as follows 
+""The individual company (public) must have a sufficient overview of what data it handles. [...] The company must register data sets in the National Data Catalog (data.norge.no).[...] Companies that register/make data sets visible must clarify the prerequisites for sharing the data set with other companies.""
+
+The national portal:
+https://data.norge.no/datasets";Confirm;;;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Not Applicable;Norway is an EFTA country;;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-b;Earth observation and environment;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-c;Meteorological;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-d;Statistics;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-e;Companies and company ownership;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P11-f;Mobility;N/A;N/A;N/A;N/A;N/A;N/A;N/A;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;;;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"Several governance structures exist for different data sharing areas. The governance structures consist of various stakeholders from the state, local and private sector.                   To further elaborate on this we have recently published an ""Offical Norwegian Report"" which can be found here:https://www.regjeringen.no/no/dokumenter/nou-2024-14/id3046520/. In this report there has been suggested a new ""data law"". This data law would enable public sector, private sector, voluntary sector (nonprofit organizations) and research sector through a prioritisaition counsil where all of the aforementioned sector a proposed to be involved.        ";;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;We have a number of national top down initiatives such as guidelines, governance, laws etc. This is coupled with a strategy of encouraging bottom up initiatives, smart cities being a very good example here. ;Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;"Norway is a small country with a relatively small open data community in comparison with larger countries. Either we coordinate initiatives at national level or we advise. At the very least we know about the vast majority of initiatives which are happening. 
+
+We have 357 municipalities in Norway, varying in vastly in population. KS (The Norwegian Association of Local and Regional Authorities is an organisation which operates on behalf of all municipalities. In our Digitalisation strategy (2019-2025): https://www.regjeringen.no/no/tema/statlig-forvaltning/it-politikk/digitaliseringsstrategi-for-offentlig-sektor/id2612415/. we emphasize the importance of cooperation between KS and the national government.";;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";the majority of public bodies;;Confirm;;;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";no;;Confirm;;;;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"The people with data sharing as their main task and the team responsible for the portal are all employed by the same agency and have a close dialogue.
+
+To reach out to a wider network of professionals we have ""Arena for data sharing and information management"" weekly: https://www.digdir.no/informasjonsforvaltning/faglig-arena-datadeling-og-informasjonsforvaltning/2120
+We also answer questions in the online community: https://datalandsbyen.norge.no/
+Example: publisher with question on update frequency in data portal: https://datalandsbyen.norge.no/topic/192/hva-er-oppdateringsfrekvensen-for-publisering-i-fdk/4
+";Confirm;;;;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";no;;Confirm;;;;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"To reach out to a wider network of professionals we have ""Arena for data sharing and information management"" weekly: https://www.digdir.no/informasjonsforvaltning/faglig-arena-datadeling-og-informasjonsforvaltning/2120
+
+The Norwegian Digitalisation Agency is in continuous dialogue with data professionals across the private, public and civil sectors.
+One of the channels is the online forum: https://datalandsbyen.norge.no/
+
+Datajegeren (The data hunter) is a service that will help users find and get data, and contribute to the dialogue with data providers, including the dialogue with various ""open data officers"" roles
+https://datafabrikken.norge.no/finn-data/datajegeren
+https://datafabrikken.norge.no/nyheter/datafabrikken-lanserer-datajegeren-15";Confirm;;;;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Norwegian Digitalisation Agency is together with Digital Norway building the ""data factory"" to improve the private sector's access to data. Communication with reusers is a key feature of the data factory.  https://digitalnorway.com/prosjekter/datafabrikk/
+
+We have regular meatings about different aspects of datasharing
+https://www.digdir.no/digdir/arrangementsoversikt/692?field_end_date_value=2&field_global_taxonomy_target_id=293&field_course_type_target_id=All&field_start_date_value=2022
+
+Online forum launched in 2021: https://datalandsbyen.norge.no/";Confirm;;;;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"Strategic Cooperation Council for the Public Sector (SKATE), organized by the Norwegian Digitalisation Agency, has decided on the process for publication to data.norge.no and has agreed on a publication strategy https://www.digdir.no/digitalisering-og-samordning/skate/1259
+
+We have guidelines for publishing data:
+https://www.regjeringen.no/no/dokumenter/retningslinjer-ved-tilgjengeliggjoring-av-offentlige-data/id2536870/";Confirm;;;;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;"Norway has an action plan for follow-up of ""One digital public sector"" where data sharing is one of the main priorities. Re-prioritization is carried out continuously in dialogue with data owners and with data re-users. Data needs are obtained via interaction arenas (described earlier), the National Resource Center for data sharing, Datafabrikken or at direct requests from data users. In addition, public bodies at various levels have their own user groups where data needs are raised. 
+
+We have established:
+- National resource center for data sharing
+- National toolbox for data sharing
+- The Data factory
+- Community for the national portal
+
+As part of the management dialogue between the ministries and the agencies, any deviations from the allocation letter and the digitilisation circular are discussed. Deviations from the digitilisation circular shall be entered in the annual report to the agencies
+
+As part of the data portal, we have an overview of companies that have published data sets. An overview of government bodies that have not published data sets is under development. https://github.com/Informasjonsforvaltning/behov/issues/755";Confirm;;;;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;"As mentioned in questions P1 and P2, we have several strategic documents and policies. These are updated when needed to ensure success in reaching our open data policy goals. The most relevant update to mention is that we are in a process of updating our Digitalization strategy. 
+
+The process of updating is not neccessarily a clear cut correlation between data collected for monitoring and updates in the strategies and policies, but the updates on the strategies and policies relies on data and monitoring on goals set in various strategies. 
+
+One of these monitoring processes/evaluations can be found here: https://www.digdir.no/rikets-digitale-tilstand/status-pa-malene-i-digitaliseringsstrategien/3478
+
+We also have other processes such as reports from the Office of the Auditor General. They released a report on the governments enabling of sharing and reuse of data within public sector. It can be found here:  https://www.riksrevisjonen.no/rapporter-mappe/no-2023-2024/myndighetenes-tilrettelegging-for-deling-og-gjenbruk-av-data-i-forvaltningen/
+
+These evaluations and reports describe the status of digitalization i different aspects based on various data and experiences, and are key elements for updating excisting policies and strategies.  ";;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;"A study of the Norwegian data economy has been carried out over the past year. The purpose of the study has been to identify key challenges and opportunities related to the public sector's role and tasks that manage and provide public data for further use. The issue of charching for data above marignal cost are discussed, and some measures are proposed. https://www.regjeringen.no/contentassets/cb9240c57f8b4c5cb916e86ebee32ecb/rapport-utredning-av-dataokonomien-i-offentlig-sektor-ak-l80868.pdf 
+
+A public committee has been appointed and has been tasked with putting forward proposals for a more comprehensive regulation for the use of public information (data). The purpose is to ensure business, researchers and civil society access to public information in a way that allows it to be used in new contexts, create new services and provide increased value creation. Funding models for data are part of the assignment. https://www.regjeringen.no/id2926740/";Confirm;;;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;The three biggest challenges are management and organizational issues, legal issues and expertise when it comes to utilizing data.;Change;N/A;The three biggest challenges are management and organizational issues, legal issues and expertise when it comes to utilizing data.;;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";Yes;"A working group has been established to investigate where the responsibility for important data may be placed, and which overarching principles should apply so that it becomes easier to use data from the public sector. As a follw up  to the strategy ""Ine Digital Public Sector"" a national resource centre for sharing data has been established, with expertise in the relationship between law, technology, business and administrative processes as a learning environment and a knowledge repository for the entire public sector. Furthermore, we have measures that apply to offer effective legal advice for data providers, including an open online forum for guidance. We also have Datafabrikken, which is a project aimed at small and medium-sized companies, where the purpose is to help them to utilize the data.";Confirm;;;;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;"An active API working group for public sector providers to give support and share knowledge.  Norways’ API catalogue is  established. 
+A standardized way to describe APIs is in the Norwegian Digitalisation Agency's roadmap for information management.                                          A National Geodata Strategy has been established, which is supplemented by an action plan and a National Geodata Council. https://www.geonorge.no/Geodataarbeid/nasjonal-geodatastrategi/";;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;"The Norwegian Directorate for ICT and Joint Services in Higher Education & Research (unit.no) has together with Digital Norway launched a digital learning platform, which also covers data and related topics: https://digitalnorway.com/laeringsportalen-handler-om-a-fa-alle-med/
+Courses are also available on https://datafabrikken.norge.no/kurs
+
+The government also collaborates with digital norway, which has a number of courses adapted to the private sector. https://digitalnorway.com/prosjekter/eu/
+
+Some agencies have their own learning platform, for example The Norwegian Agency for Public and Financial Management (DFØ) https://laeringsplattformen.difi.no/kurs-kategori/digitalisering-og-ikt
+
+We also have a number of guides and training materials, for example:
+Guide to ""order in your own house"" https://data.norge.no/guide/veileder-orden-i-eget-hus/
+
+The municipalities have their own tools https://www.ks.no/fagomrader/digitalisering/felleslosninger/digiorden/";Confirm;;;;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, >9;"Annual hackatons, conferences etc. orcestrated from the central government has since 2017 been replaced by sectoral/local iniativs and selforganising groups. The central government gives support if needed.
+
+Examples:
+https://datalandsbyen.norge.no/topic/127/open-data-challenge-10-03-2022
+https://datalandsbyen.norge.no/topic/167/open-data-hackathon
+https://datalandsbyen.norge.no/topic/182/cassini-hackathon-for-f%C3%B8rste-gang-i-norge
+https://datalandsbyen.norge.no/topic/253/bergen-by-hack-for-studenter
+
+
+Dataforeningen BI & A.
+https://www.meetup.com/dnd-bi-analytics-oslo/
+
+Slekt og data
+https://www.slektogdata.no/nb/slektsforskerdagen-2022
+
+The Munin Conference on Scholarly Publishing
+https://site.uit.no/muninconf/
+
+Digitalisation conference https://www.digdir.no/digitaliseringskonferansen/digitaliseringskonferansen/1172
+
+Many hackathons and similar events are also listed in the calendar in the online community: 
+https://datalandsbyen.norge.no/category/3/m%C3%B8ter-og-arrangementer";Confirm;;;;;;;;

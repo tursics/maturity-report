@@ -1,0 +1,220 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;Yes. Transposition of Open Data Directive (2003, 2019)  is ensured via Law on Free Access to Information (FOA). Transposition of DIRECTIVE (EU) 2019/1024  of 20 June 2019 on open data and the re-use of public sector information is effective from 1st August 2022.;Confirm;;;;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"Yes, there is still valid Strategic Priority of Open Data that is part of the National Strategy of the informatization of the public administration 2016:
+https://www.mirri.gov.sk/wp-content/uploads/2018/10/SP_Otvorene_udaje_schvalena-2.pdf
+The aim is to:
+* incerasing the number of open datasets
+* supporting use of open data
+* increasing the open data quality (both in """"stars"""" convenience - 5stars.org and real data quality)
+*supporting data economy
+o Orientation towards better life quality services
+o Orientation towards increasing competitiveness
+o Bringing public administration closer to maximizing data usage
+o Enable the modernization and rationalization of public administration through  ICT technologies (constantly improvement of services with the use of modern technologies) Additionally, there are other opendata policies that are complementary: 1) National strategy of informatization of the public administration 2021, update of 2016 strategy https://www.mirri.gov.sk/wp-content/uploads/2021/12/Narodna-koncepcia-informatizacie-verejnej-spravy-2021.pdf  2) Open Government Partnership National Action Plan of the Slovak Republic 2020-2021 https://www.opengovpartnership.org/documents/slovakia-action-plan-2019-2021/ 3) OGP National Action Plan of the Slovak Republic 2022-2024  https://www.opengovpartnership.org/documents/slovak-republic-action-plan-2022-2024/";Change;Yes;"Yes, there is still valid Strategic Priority of Open Data that is part of the National Strategy of the informatization of the public administration 2016:
+https://www.mirri.gov.sk/wp-content/uploads/2018/10/SP_Otvorene_udaje_schvalena-2.pdf
+The aim is to:
+* incerasing the number of open datasets
+* supporting use of open data
+* increasing the open data quality (both in """"stars"""" convenience - 5stars.org and real data quality)
+*supporting data economy
+o Orientation towards better life quality services
+o Orientation towards increasing competitiveness
+o Bringing public administration closer to maximizing data usage
+o Enable the modernization and rationalization of public administration through  ICT technologies (constantly improvement of services with the use of modern technologies) Additionally, there are other opendata policies that are complementary: 1) National strategy of informatization of the public administration 2021, update of 2016 strategy https://www.mirri.gov.sk/wp-content/uploads/2021/12/Narodna-koncepcia-informatizacie-verejnej-spravy-2021.pdf  2) Open Government Partnership National Action Plan of the Slovak Republic 2022-2024 https://www.opengovpartnership.org/documents/slovak-republic-action-plan-2022-2024/ 3) open Government Partnership National Action Plan of the Slovak Republic 2024-2026  https://www.minv.sk/swift_data/source/rozvoj_obcianskej_spolocnosti/otvorene_vladnutie/2023/AP%20OGP%202024-26_web.pdf";;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;Yes, a few municipalities and self-governing region have their own (open) data policies, e.g. 1) City of Bratislava https://opendata.bratislava.sk/page/data (Directive of Data policy) 2) Self-governing region of Banská Bystrica *https://www.bbsk.sk/datova-politika-ubbsk (Strategy, Standards of dataset creation, Directive of data policy) Additionally, there are other municipalities and self-governing regions that publish open data at their portals/websites *incorrect link replaced;Confirm;;;;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;Yes. National strategy of the informatization of the public administration 2021 defines these measures in area of open data:1) To transpose into legislative framework PSI Directive 2019, 2) To ensure that public bodies will be publish information primary as open data, in open formats and register them at data.gov.sk, 3) To publish HVD via API, 4) To provide methological, technical, educational support to public bodies and make available re-usable technical solutions that will help publish data, 5) To support accessibility of research data by  FAIR principle incorporated into national measures, 6) To implement methodologies, tools, standards, principles measured within ODMI, etc. https://www.mirri.gov.sk/wp-content/uploads/2021/12/Narodna-koncepcia-informatizacie-verejnej-spravy-2021.pdf (p. 56). As mentioned above, MIRRI is currently working on the Action plan of National strategy of the informatization of the public administration with detailed description of goals, milestones, measures. Additionally, working paper Strategic priortity Management of Data is in the process too - this document will update previous Strategic priority Open Data from 2017 that is still valid.;Confirm;;;;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;Yes, based on the transposition of Open Data Directive 2019 into Law on Free Access to the information public sector bodies are obliged to make the dynamic data available for the purposes of their re-use right  after their creation, via API, if appropriate, through their download in a bulk. https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2000/211/ § 21g (3);Confirm;;;;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Change;Yes;"National strategy for open science 2021-2028 has one of strategic areas Suport of using existing open IT tools and open data, Task 6.3: Popularization and use of open open data in
+research institutions and open science. (https://www.minedu.sk/data/files/10833_narodna-strategia-pre-otvorenu-vedu-na-roky-2021--2028.pdf)";;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";yes;Yes, by implementing DCAT-AP and increasement of metadata quality. ;Confirm;;;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"Indirectly via implementing policy of Reference Registries (e.g. Register of adressess, Register of physical persons, Register of legal entities, etc.) that are considered as sources of ""ulttimate truth"" and are integrated into IT systems of responsible bodies to provide government services to the citizens in accordance with ""one time, last time"" principle. Also, multiple open calls ""Data Management of public administration"" support activities aiming to develop use cases on open data by governmental or public administration organization https://www.mirri.gov.sk/projekty/projekty-esif/operacny-program-integrovana-infrastruktura/prioritna-os-7-informacna-spolocnost/vyzvania-a-vyzvy/vyzva-c-opii-2021-7-15-dop/index.html";Confirm;;;;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"Yes, one of the main goal of the Strategic priority of open data  is to release the economic potential of open government data. It expects establishment of a strong open data industry in IT technologies, e.g. data analyses, innovative startups. https://www.mirri.gov.sk/wp-content/uploads/2018/10/SP_Otvorene_udaje_schvalena-2.pdf Measures are e.g.  focus on publishing the most requested datasets by public, ideally via API, to support re-use of open data in commercial/noncommercial solutions, to increase quality of open data, publication of open data via API, accessibility of open data in english language. Additionally, since 2020, Governmental organization and public administration has an access to financial resources within Operational Program Integrated Infrastructure that provides founding for individual IT projects that aim to accomplish strategic goals of the government in the IT segment. Multiple open calls ""Data Management of public administration"" aim to support accessibility of open data , ***HVD, the most requested datasets by public*** that are considered as datasets with high potential to be re-used. https://www.mirri.gov.sk/projekty/projekty-esif/operacny-program-integrovana-infrastruktura/prioritna-os-7-informacna-spolocnost/vyzvania-a-vyzvy/vyzva-c-opii-2021-7-15-dop/index.html";Confirm;;;;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;"Yes, Obligation to create, maintance and publish data inventory is based on the Resolution of the Slovak government no. 347/2017, more information available here https://datalab.digital/verejna-sprava/otvorene-udaje-verejnej-spravy/informacia-k-plneniu-ulohy-b18/ ; htps://www.slovensko.sk/_img/CMS4/strategia_otvorene_udaje.pdf Responsible bodies are organization of the central government. ";Confirm;;;;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;"Data inventory has to contain also records on datasets that cannot be published with the reason why (e.g. Privacy and personal data protection, Commercial confidentiality; 
+Statistical confidentiality; National security, defence, and public security; Intellectual property. ) Data Unit at MIRRI has created a model structure of data inventory and published it online https://datalab.digital/wp-content/uploads/Inventar_otvorenych_udajov.ods with additional description https://datalab.digital/verejna-sprava/otvorene-udaje-verejnej-spravy/informacia-k-plneniu-ulohy-b18/  Methodology for data inventories https://www.mirri.gov.sk/wp-content/uploads/2018/10/Dodatok-c.-1-k-Metodickemu-pokynu-k-Vynosu-o-standardoch-552014-ilovepdf-compressed.pdf
+";Confirm;;;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;"We prepared DCAT_AP_SK standard which is in accordance with DCAT_HVD. 
+https://htmlpreview.github.io/?https://github.com/slovak-egov/centralny-model-udajov/blob/develop/tbox/national/dcat-ap-sk/index.html 
+Our central portal data.slovensko.sk use SparqlEndPoint for harvesting  a local portal. We provide information regarding HVD datasets on our methology portal. https://wiki.vicepremier.gov.sk/display/opendata/7.+HVD+-+Datasety+s+vysokou+hodnotou
+";;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;4;4;4;4;4;4;4;;;;
+P11-b;Earth observation and environment;4;4;4;4;4;4;4;;;;
+P11-c;Meteorological;3;3;3;3;3;3;3;;;;
+P11-d;Statistics;4;4;4;4;4;4;4;;;;
+P11-e;Companies and company ownership;4;4;4;4;4;4;4;;;;
+P11-f;Mobility;3;3;3;3;3;3;3;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;National portal has a funkcionality to denote a HVD datasets.;;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;yes, Data unit at Ministry of investments, regional development and infomatization of Slovak republic holds regural working group https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101824241 Members of working group are national open data team, data stewards or officers from public offices (including local self governments) and experts (including NGO). Memebers are not officially appointed but rather added to mailing list.  All working groups meetings are online and recordings are published on Youtube. It is not determined how often should meetings occur, typically there are at least 3 meetings per year. Agenda is set by the national open data team. This working group also provides feedback to important documents (methodologies, analyses, call for proposals);;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;There are inititives from providers, local municipalities, NGOs and also from national open data team.;Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;Local data stewards and officers are members of working group mentioned in P13. They can create local catalogs, which can be harvested on national open data portal (https://data.slovensko.sk/lokalne-katalogy). They can also use funds from Data Management proposals for financing their open data publication (https://mirri.gov.sk/projekty/projekty-esif/operacny-program-integrovana-infrastruktura/prioritna-os-7-informacna-spolocnost/vyzvania-a-vyzvy/vyzva-c-opii-2021-7-15-dop/). We also help them with our Publication Minimum initiative (set of recommended datasets which they can publish with defined structures) https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=67152323. They can also use fast grants (Recovery plan) to organize hackathons  (https://www.planobnovy.sk/aktuality/mirri-zverejnilo-novu-vyzvu-na-hackathony/).;;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";Approximately half of the public bodies;"Following self-governing regions and municipalities are providing open data: 
+Bratislava,https://opendata.bratislava.sk/ 
+Prešovský samosprávny kraj,https://www.po-kraj.sk/sk/open-data/; https://geopresovregion.sk/
+Košický samosprávny kraj,https://www.geoportalksk.sk/
+Prešov,https://egov.presov.sk/
+Žilina,https://egov.zilina.sk/ 
+Košice,https://opendata.kosice.sk/ 
+Malacky,https://egov.malacky.sk/
+Hlohovec,https://egov.hlohovec.sk/ 
+Trnava,https://egov.trnava.sk/ 
+Skalica,https://klient.skalica.sk/
+Nitra,https://klient.nitra.sk/
+Banská Bystrica,https://egov.banskabystrica.sk/ 
+Trenčín,https://trencin.sk/samosprava/transparentny-trencin/opendata-trencin/ 
+Humenné,https://egov.humenne.sk
+Jaslovské Bohunice,https://smart.jaslovske-bohunice.sk/ 
+Levice,https://egov.levice.sk/ 
+Modra,https://egov.modra.sk/ 
+Martin,https://egov.martin.sk/
+Rožňava,https://egov.roznava.sk/
+Pezinok,https://egov.pezinok.sk/ 
+Kežmarok,https://egov.kezmarok.sk/ 
+Bratislavský samosprávny kraj,https://bratislavskykraj.sk/opendata/
+Poprad,https://egov.poprad.sk/
+Nitriansky samosprávny kraj,https://data.gov.sk/en/organization/1019b3a2-3a12-4b4e-9f5d-46df67a0080d There are approx. 3000 regional public bodies in Slovakia (vast majority are small villages) From cities, approx. half of public bodies publish open data: https://www.alvaria.sk/hodnotenie-mestskych-otvorenych-dat/";Change;Approximately half of the public bodies;"Following self-governing regions and municipalities are providing open data: 
+Bratislava,https://opendata.bratislava.sk/ 
+Prešovský samosprávny kraj,https://www.po-kraj.sk/sk/open-data/; https://geopresovregion.sk/
+Košický samosprávny kraj,https://www.geoportalksk.sk/
+Prešov,https://egov.presov.sk/
+Žilina,https://egov.zilina.sk/ 
+Košice,https://opendata.kosice.sk/ 
+Malacky,https://egov.malacky.sk/
+Hlohovec,https://egov.hlohovec.sk/ 
+Trnava,https://egov.trnava.sk/ 
+Skalica,https://klient.skalica.sk/
+Nitra,https://klient.nitra.sk/
+Banská Bystrica,https://egov.banskabystrica.sk/ 
+Trenčín,https://trencin.sk/samosprava/transparentny-trencin/opendata-trencin/ 
+Humenné,https://egov.humenne.sk
+Jaslovské Bohunice,https://smart.jaslovske-bohunice.sk/ 
+Levice,https://egov.levice.sk/ 
+Modra,https://egov.modra.sk/ 
+Martin,https://egov.martin.sk/
+Rožňava,https://egov.roznava.sk/
+Pezinok,https://egov.pezinok.sk/ 
+Kežmarok,https://egov.kezmarok.sk/ 
+Bratislavský samosprávny kraj,https://bratislavskykraj.sk/opendata/
+Poprad,https://egov.poprad.sk/
+Nitriansky samosprávny kraj,https://data.gov.sk/en/organization/1019b3a2-3a12-4b4e-9f5d-46df67a0080d There are approx. 3000 regional public bodies in Slovakia (vast majority are small villages) From cities, approx. half of public bodies publish open data: https://www.alvaria.sk/hodnotenie-mestskych-otvorenych-dat/";;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";yes;https://datalab.digital/legislativa/pravna-uprava-postavenia-datoveho-kuratora/;Confirm;;;;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Responsible for maintaing the national portal is National Agency for Net an Electronic Services (NASES) which participates on Better data - Open Data working group meetins. There is also cooperation connected to building new national open data portal which should be launched by the end of 2023. https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=82019424;Change;Yes;Since January 2024, national open data team (MIRRI) is responsible for maintaining and development of national open data portal. This may change in the future.;;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;Resolution of the Government of the Slovak republic no. 346/2017 defined obligation for the ministries to appoint the position of Data stewards (curator) in organizations. Actual list of data stewards is available at data.gov.sk as open data https://data.gov.sk/dataset/datovi-kuratori-2022-11-02 . Within mentioned Resolution, recommended job description for data stewards has been introduced and its publicly available here https://datalab.digital/dq/datovi-kuratori/  Additionally, data Unit is currently working on the Act on data that defines (updates, extent) role and obligations of Data stewards. Draft of Act on data is still in legislation process. Data stewards are met on a regular bases within dedicated working group and are in touch with open data team to resolve ad hoc issues. https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101824241 They keep track of the obligations in area of open data and are guided how to accomplished them. ;Change;Yes;Resolution of the Government of the Slovak republic no. 346/2017 defined obligation for the ministries to appoint the position of Data stewards (curator) in organizations. Actual list of data stewards is available at data.gov.sk as open data https://data.gov.sk/dataset/datovi-kuratori-2022-11-02 . Within mentioned Resolution, recommended job description for data stewards has been introduced and its publicly available here https://datalab.digital/dq/datovi-kuratori/  Additionally Data stewards are met on a regular bases within dedicated working group and are in touch with open data team to resolve ad hoc issues. https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101824241 They keep track of the obligations in area of open data and are guided how to accomplished them. ;;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Data stewards are met with open data team and the chief data officier on a regular bases within dedicated working group ""Open Data Stewards"" and are in touch with open data team to resolve ad hoc issues. Records from the working groups here https://www.youtube.com/watch?v=ZEWAidS9d98&list=PL-gI2XViBFbme-xS0l4HmCWkGi9mrEbvP";Confirm;;;;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Yes, there are few mixed working groups dedicated to regular knowledge exchange: Official - Better Data, Municipalities; Unofficial - Open data, Data Stewards. In general, there are even more working groups at MIRRI in IT segment. ";Change;Yes;In October and November 2023, national open data team distributed questionairre on open data impact and use to reusers - NGO,academia, businesses. Their answers are used in Open Data impact report (2024).;;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;Resolution of the Government of the Slovak republic no. 346/2017 defined obligation for the ministries to create their open data publication plans https://www.slovensko.sk/_img/CMS4/strategia_otvorene_udaje.pdf (see p. 48, 17-19);Confirm;;;;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;Regular monitoring via working groups. Some of the open data policies/strategies set up KPIs to enable monitoring (e.g. Strategic priority of Open data);Confirm;;;;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;"yes, there are updates every few years, 2016, 2021, ...    On the basis of § 9 par. 1 letter a) Act 95/2019 on information technologies in public administration is the Ministry of investments, reg. development and informatization obligate to update and submit National Strategy of the informatization of the public administration to Government of Slovakia. The material is commented by professional working groups and in the interdepartmental comment procedure. Inputs to the strategy are generated by state administration bodies, local governments, the third sector, and an important input are planned international strategies and projects.
+";;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;According to Freedom of Information Act (https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2000/211/ § 21) all information shall be available free of charge, only marginal cost can be charged (such as cost of copying, cost of technical mediums or postal costs). Every public body shall have its own directive on providing information according to act and on charged fees. (f.e. Ministry of Finance - https://www.mfsr.sk/sk/verejnost/informacny-servis/poskytovanie-informacii/smernica-zabezpeceni-slobodneho-pristupu-k-informaciam-podmienkach-mf-sr/, https://www.mfsr.sk/sk/verejnost/informacny-servis/poskytovanie-informacii/sadzobnik-spravnych-poplatkov/, marginal cost are not charged if less than 6,64 EUR). If any unjustified fees are charged, these requirements can be reviewed by a court.;Confirm;;;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;1) The lack of human resources and capacities to publish data 2) the low level of impact (or lack of evidence on impact), 3) outdated open data portal that does not meet actual technical requirements.;Change;N/A;1) The lack of human resources and capacities to publish data 2) the low level of impact (or lack of evidence on impact), 3) low flexibility of government sector;;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"1) Strategy of informatization of the public administration 2021 contains a commitment to provide methological, technical, educational support to public bodies and make available re-usable technical solutions that will help them to publish data (e.g. OSS tools); 2) National OGP Action plan 2022-23 contains commitment for MIRRI and Plenipotentiary for development of the civil society to propose methodology how to measure and map impact of releasing/re-using open data on different segment of society (economy, political environment, inclusion of marginalized groups, environment, etc.) and to provide pilot impact mapping/measuring This activities already strarted in late 2022, there are workshops with data experts and data stewards on different topics connected with open data impact. https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101829238  3) MIRRI is currenly implemention national IT project financed by ESIF called ""Open Data 2.0"" with the aim to develop new open data portal that fullfil actual technical requirements (DCAT-AP, automatized measuring of metadata quality, interactiv tools for users, metadata validation, harvesting, etc.) ";Complement;Yes;"1) Strategy of informatization of the public administration 2021 contains a commitment to provide methological, technical, educational support to public bodies and make available re-usable technical solutions that will help them to publish data (e.g. OSS tools); 2) We created Impact methodlogy, Open Data impact report, we communicate with reusers, national portal contains new tools to share application, give request, comment and like datasets 3) This is very hard to change, it requires new generation of public service";;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;trainings (https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101822636, last training was focused on interoperability - knowledge graphs, semantic interoperability), working groups (P13), methodology portal (https://wiki.vicepremier.gov.sk/display/opendata), individual meetings with open data stewards and officers, there are mainly focused on quality of published datasets (https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101838399, last meeting was with Ministry of Economy);;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;There is series of trainings for public servants available on Youtube: https://www.youtube.com/@datovakancelaria7258 Last trainings are: How use SPARQL endpoint, Publishing minimum for central government bodies, Data quality, Training for administrators of national open data portal. Some of the trainings are in the process: https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101822636;Change;Yes;There is series of trainings for public servants available on Youtube: https://www.youtube.com/@datovakancelaria7258 Since May 2023, there was 7 trainings organized.;;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, 6-9;MIRRI organized 2 hackathons focused on Senior citizens and Fight against disinformation: https://www.hacknime.to/ City of Košice organized 3 hackathons focused on Help for ukrainian refugees, Improving quality of life and Mobility&Housing https://kosice2.sk/novinky/category/hackathony/ DEKK Institute organized hackathon focused on citizens values: https://dekk.sk/sk/hackathon/ Conference Open Data in Czechoslovakia: https://www.youtube.com/watch?v=OKtEoR1vg_4;Change;Yes, >9;Trnava self governing region organised training for its around 300 employees, Ministry of environment organised 1 conference (https://inspire.gov.sk/podujatia/historia#Konferencie)  a 1 workshop (https://inspire.gov.sk/podujatia/historia#Workshopy), City of Prešov with MIRRI organised Digital twin hackathon (https://www.hacknime.to/digitalne-dvojca-mesta-presov/), Košice self governing region organised conference EastGIS (https://www.geoportalksk.sk/home/konferencia-eastgis-2023-potencial-vyuzitia-gis-pre-regionalny-rozvoj/), The Office of the Plenipotentiary for the Development of the Civil Society with MIRRI organized workshop collecting reuqests for open data (https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=134160141) NGO Alvaria organized 12 workshop for high school students on open data and visualisation (https://www.alvaria.sk/realizovali-sme-projekt-spoznaj-otvorene-data-urceny-pre-stredne-skoly/);;;;;;

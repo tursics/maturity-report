@@ -1,0 +1,203 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;According to L. 4272/2020;Confirm;;;;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";I don't know;;Change;Yes;"In data set we have an index for potential visits and downloads. We also request good practice of reuse and we organise hackathons for reuse.
+Example:
+https://data.gov.gr/datasets/oasa_ridership/
+https://crowdhackathon.com/open-data/en/ ";;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";I don't know;;Change;Yes;"Awards for good practices to public servants:
+https://digitalawards.gov.gr/ ";;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"The same as the typical dataset. Example: https://data.gov.gr/datasets/apdkriti-meteo/
+
+RtR: The same process as ""normal"" datasets is used and applied totally at all datasets that include possible high value ones when published.
+
+The challenge is to denote datasets as high value which is currently work in progress.";;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";no;;Change;Yes;The training courses in teh national School Of public sdrministration The training courses in the National Center of Public Administration and Local Government have analytic strategic documents regarding the reuse and the benefits of open data. As an example see:  https://elearning.ekdd.gr/pluginfile.php/20209/mod_resource/content/7/%CE%9F%20%CF%81%CF%8C%CE%BB%CE%BF%CF%82%20%CF%84%CF%89%CE%BD%20%CE%91%CE%BD%CE%BF%CE%B9%CE%BA%CF%84%CF%8E%CE%BD%20%CE%94%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD%20%CF%83%CF%84%CE%B7%CE%BD%20%CE%91%CE%BD%CE%BF%CE%B9%CE%BA%CF%84%CE%AE%20%CE%94%CE%B9%CE%B1%CE%BA%CF%85%CE%B2%CE%AD%CF%81%CE%BD%CE%B7%CF%83%CE%B7.pdf ;;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";no;;Change;Yes;"Recommendations for presenting important reuse examples and ideas in the data.gov.gr portal:
+Example: https://repository.data.gov.gr/related ";;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"Looking for a uniform and concrete way to measure and provide the necessary information for decision making
+
+Response to reviewer, e.g.:
+https://stirdata.eu/
+https://opendata.ellak.gr/2023/09/21/ekdilosi-know-your-data-xeklidonontas-tin-axia-ton-dedomenon-triti-26-septemvriou-2023-1100/";Complement;;"New memorandum of understanding among academia and the government:
+https://opendata.ellak.gr/2024/05/15/mninonio-eellak-mindig/";;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";I don't know;N/A;Change;Yes;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;Yes;See data.gov.gr portal that automatically registers the use of each dataset.;;;
+I8-b;Surveys;new question;new question;Change;Yes;"In the context of academic and universities studies e.g. http://ikee.lib.auth.gr/record/298019/files/GRI-2018-21665.pdf
+https://polynoe.lib.uniwa.gr/xmlui/handle/11400/3940";;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;See the relevant workshops form the National center of public administration and local government. https://www.ekdd.gr/images/ektheseis_politikis/ekthesi_anoikta_dedomena.pdf;;;
+I8-d;Other;new question;new question;Change;No;;;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";I don't know;N/A;Change;No;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;No;;;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;;;;
+I9-c;Other;new question;new question;Change;No;;;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";I don't know;;Change;Yes;Through the data thon and hackathon events that have already been mentioned a structured evaluation approach is taking place.;;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";I don't know;;Change;Yes;"See the categories used in https://repository.data.gov.gr/related
+and
+ ";;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";No;"- All government decisions have to be uploaded to the ""Diavgeia"" Portal in order to be publicly available. If not uploaded, the decisions are not valid: https://diavgeia.gov.gr/ 
+- All public funded NGOs, associations etc. have to upload to ""Diavgeia MEF"" Portal their public funding and expenditures otherwise they are banned from any further funding: https://mef.diavgeia.gov.gr/ 
+- All legislative drafts have to be uploaded for open deliberation: http://www.opengov.gr/home/ 
+
+Response to reviewer:
+All the aforementioned cases besides being most oftenly used by newspapers and magazines for articles, are used for many years as filtered and/or consolidated data and sold to interested parties (eg. for procurement opportunities, research etc).";Change;I don't know;"See the services that provides open info regarding the status of a vehicles that simplifies that questions to the public agencies and insurance companies.  https://www.gov.gr/arxes/anexartete-arkhe-demosion-esodon-aade/anexartete-arkhe-demosion-esodon-aade/opencar 
+RtR: Please change answer to ""I don't know""";;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;"An example is the prices in retails for consumers that can increase competition https://e-katanalotis.gov.gr/useful
+RtR: Please change answer to ""I don't know""";;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;"Yes, see the transparency portal https://diavgeia.gov.gr/api/help
+RtR: Please change answer to ""I don't know""";;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;;;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;;;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";I don't know;"- http://repository.data.gov.gr/dataset/8eseis-sta8meyshs-amea → https://www.chania.gr/chrisima/theseis-ameam/theseis-amea.html 
+- http://repository.data.gov.gr/dataset/dhmosies-8eseis-sta8meyshs-amea-toy-dhmoy-hrakleioy → https://www.heraklion.gr/visitor/parking/parkingareas.html 
+- http://repository.data.gov.gr/dataset/ath-ena-card-gia-anergoys-kai-amea  → https://www.idika.gr/athenacard/   
+- http://repository.data.gov.gr/dataset/theseis-amea  → https://thessaloniki.gr/%CE%B3%CE%B5%CE%BD%CE%B9%CE%BA%CE%AD%CF%82-%CE%B8%CE%AD%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%84%CE%AC%CE%B8%CE%BC%CE%B5%CF%85%CF%83%CE%B7%CF%82-%CE%B1%CE%BC%CE%B5%CE%B1/  
+
+Response to reviewer: we have no knowledge of relative data";Change;I don't know;"Additional examples as the ones that already have been presented.   e.g. https://data.gov.gr/datasets/prisons-occupancy/ 
+RtR: Please change answer to ""I don't know""";;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;"See the example for the labour market https://mdaae.gr/data_type/taseis-tis-agoras-ergasias/ 
+RtR: Please change answer to ""I don't know""";;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;"Appartment prices from the Central Bank of Greece. https://opendata.bankofgreece.gr/el/dataset/4
+RtR: Please change answer to ""I don't know""";;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;"Payments data from the bank of Greece that is an indicator for the status of consumers https://opendata.bankofgreece.gr/el/dataset/53
+Acomodations for tourism purposes e.g.
+https://opendata.bankofgreece.gr/el/dataset/39
+RtR: Please change answer to ""I don't know""";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;"See the example for the labour market https://mdaae.gr/data_type/taseis-tis-agoras-ergasias/ 
+RtR: Please change answer to ""I don't know""";;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";I don't know;"- https://data.gov.gr/datasets/admie_realtimescadares/ 
+- https://data.gov.gr/datasets/admie_dailyenergybalanceanalysis/ 
+- https://data.gov.gr/datasets/electricity_consumption/ 
+- https://data.gov.gr/datasets/mcp_forest_fires/ 
+
+Response to reviewer: we have no knowledge of relative data";Confirm;;;;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;"See the example of water quality in Crete. https://data.gov.gr/datasets/apdkriti-swimwater/ 
+RtR: Please change answer to ""I don't know""";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;"See the example of the use of public transportation https://data.gov.gr/datasets/oasa_ridership/
+RtR: Please change answer to ""I don't know""";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;"See the example of https://sdi.civilpro.io/ that has information for civil protection, earthquakes etc
+RtR: Please change answer to ""I don't know""";;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;"See the https://www.enexgroup.gr/el/home for the production of electricity and the renewable energy sources, natural gas etc
+RtR: Please change answer to ""I don't know""";;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";I don't know;;Confirm;;;;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;"See the mechanism for the diagnosis of the labour market  https://mdaae.gr/data_type/taseis-tis-agoras-ergasias/ that leads the training policy of the Public Employment Service https://www.dypa.gov.gr/en/
+RtR: Please change answer to ""I don't know""";;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;"See examples of data provided by the National Documentation Centre for the Research and innovation https://data.gov.gr/datasets/ekt-expenses-source/, https://data.gov.gr/datasets/ekt-rd-personnel-sector/
+RtR: Please change answer to ""I don't know""";;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;"Yes, see https://mdaae.gr/data/dinamismos-kladon-ana-fylo/
+RtR: Please change answer to ""I don't know""";;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;I don't know;;;;

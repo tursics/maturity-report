@@ -1,0 +1,225 @@
+;Dimension 2: Open Data Portal ;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;2.1 Portal features;;;;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;https://podatki.gov.si;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;Yes;we use CKAN
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;https://podatki.gov.si/api/view/store/
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;No;
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://podatki.gov.si/kontakt;Confirm;;
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"We have both, a feedback button on a dataset level and a comment section under all datasets. 
+https://podatki.gov.si/dataset/report_opsi_issue/prvic-registrirana-vozila-po-mesecih
+ https://podatki.gov.si/dataset/prvic-registrirana-vozila-po-mesecih";Complement;;"the feedback given via the ""Piši uredniku"" button goes directly to the editor of the dataset."
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;every dataset has a like button https://podatki.gov.si/dataset/prvic-registrirana-vozila-po-mesecih;Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://podatki.gov.si/knjiznica/novice;Confirm;;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no ;;Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://pops-test.xlab.si/datarequest;Change;Yes;"URL: https://podatki.gov.si/datarequest 
+there was a problem on our end, it should be working now"
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://pops-test.xlab.si/datarequest;Change;Yes;"URL: https://podatki.gov.si/datarequest 
+there was a problem on our end, it should be working now"
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;Open Data team are the ones who approve every new dataset and we monitor the responsiveness of the organs.;Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;Each dataset has a comments section, example: https://podatki.gov.si/dataset/spremljanje-covid-19-v-bolnisnicah-episari, Disscussion forum is at the bottom of the page.;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://podatki.gov.si/aplikacije/vse;Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;Every use case has a feild Used datasets example: https://podatki.gov.si/aplikacije/avtolog  ;Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://podatki.gov.si/aplikacije/dodaj;Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://podatki.gov.si/dataset/stevilo-zaposlenih-na-podlagi-opravljenih-ur/resource/45acd4e2-1bda-478e-a57a-b387fcff964e;Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://podatki.gov.si/dataset/urejene-kolesarske-poti-v-mestni-obcini-koper/resource/fe4cfd84-6a56-44fe-9c9f-2adaf6d987c9;Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"We added a filter for HVD 
+"
+;2.2 Portal usage;;;;;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;Matomo;Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Confirm;;
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;"Please change the answer to:
+We gained information about which datasets were popular amongst users. With the information about which datasets are popular we could make sure those datasets are always up to date.  
+They are under the microscope for quality and timely refreshing.
+
+We gather web analytics with Matomo. And based on this data we prepare some activities to promote different datasets and change data format if this is user demand.";Change;Yes;"We also regularly monitor social media networks and news in the media.
+Based on these activities, we then take a proactive approach to addressing the challenges highlighted."
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;Based on regular analyses of the use of the portal, we have added new functionalities, such as an additional request to publish new data, additional filters to make it easier to search the HVDs datasets and local community data.
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;We take part in different promotional activities, such as hackathons, lectures at universities, organize different events for businesses and public sector..
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;We do so using Matomo. We make sure that proper datasets are aquipt with the right keywords.
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"We use matomo to see which dataset is the most visited. With the information about which datasets are popular we could make sure those datasets are always up to date.  They are under the microscope for quality and timely refreshing.
+1. https://podatki.gov.si/dataset/prvic-registrirana-vozila-po-mesecih
+2. https://podatki.gov.si/dataset/evidenca-registriranih-vozil-presek-stanja
+3. https://podatki.gov.si/dataset/surs0400605s
+4. https://podatki.gov.si/dataset/stevilo-zaposlenih-na-podlagi-opravljenih-ur
+5. https://podatki.gov.si/dataset/najvisja-izplacila-v-javnem-sektorju-po-mesecih"
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;We add searched words to appropriate datasets as keywords;Confirm;;
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Complement;;https://podatki.gov.si/dataset/poslovni-register-slovenije
+;2.3 Data provision;;;;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";all public sector data providers;We have two approaches to publishing datasets on the portal. The first is by harvesting the datasets from data provider’s servers or services (Statistical Office, Bank of Slovenia, Ministry of Foreign Affairs,.. ). The second method is were data providers publish datasets manually. They can appoint one editor to collect all of their metadata and datasets and then he/she publishes it on the national portal. Or they mandate that each editor must publish their own metadata and datasets.  ;Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"We have 2-way approach.
+One is through chambers or other organisational structure of such is Community of the municipalities of Slovenia.
+Second is meetings with every state body individually to assess what would be the best approach to publishing for them, either harvesting or for the editors to manually publish the data. If publishers had problems we helped them step-by-step. ";Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;https://mol-ljubljana.hub.arcgis.com/;Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";not applicable;"There are no regional bodies as there are no regions. But open data obligations under the law apply eqally to the state bodies, local administrations and other public bodies. 
+Since we have a lot of small municipalities there in no economic reason to have local open data portals, since they publish their data on national open data portal. Only one exception is for the capital of Ljubljana.";Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;"The dataset Data on the quality of ambient air and precipitation features real time data (https://podatki.gov.si/dataset/podatki-o-kakovosti-zunanjega-zraka-in-padavin-pm10-o3-so2-co-nox-voc-sestava-delcev-kakovost-padavi).
+Application made with dynamic data for traffic closed roads and traffic density (https://podatki.gov.si/aplikacije/cestne-kamere).";Confirm;;
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;No;
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;Here is the link to all datasets which are comply with EU Data Governance Act: https://podatki.gov.si/data/search . From this list, we have a filter for datasets which are published as open data. Here is the link to open data: https://podatki.gov.si/data/search?open_data=True;Confirm;;
+;2.4 Portal sustainability;;;;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;"We have updated this in new Strategic Work Plan for Open Data 2022-2023.
+
+Link to Strategic Working Plan for Open Data 2022-2023: https://podatki.gov.si/sites/default/files/reports/Odprti%20podatki%20JS%20-%20Strate%C5%A1ki%20delovni%20na%C4%8Drt%202022%202023_0.pdf"
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"https://twitter.com/mju_RS 
+https://www.facebook.com/MinistrstvoZaJavnoUpravo/ 
+https://www.instagram.com/mju_RS";Complement;;"As of April 2023 the team is divided between two ministries, therefore the posts are also on social media of Ministry of Digital Transformation
+https://www.facebook.com/digitalSLO
+https://www.linkedin.com/company/digitalslo
+https://twitter.com/digitalSLO
+https://www.instagram.com/digitalslo"
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.  ";yes;"https://podatki.gov.si/assets/PortalOPSI.zip
+
+Additional clarification:
+For now, the source code is made available on the actual portal in a zip file, due to our internal security measures. ";Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;"Please change the answer to:
+Every year we publish an annual report with statistics regarding openness, distribution across categories. There is also a chapter where we compare the changes through time. 
+https://podatki.gov.si/sites/default/files/reports/poro%C4%8Dilo%202022.pdf
+
+Distribution across categories is also visible on the first page of the portal.";Complement;;new report https://podatki.gov.si/sites/default/files/reports/poro%C4%8Dilo%202023.pdf
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature. ";yes;"Please change the answer to:
+They can see the number of visitors of every dataset and the annual reports are publicly available. 
+https://podatki.gov.si/sites/default/files/reports/poro%C4%8Dilo%202022.pdf
+
+We see what dataset is in demand and make sure it is up to date. The publishers who see their datasets are frequently visited also have more incentive to update the dataset more often. ";Complement;;new report https://podatki.gov.si/sites/default/files/reports/poro%C4%8Dilo%202023.pdf

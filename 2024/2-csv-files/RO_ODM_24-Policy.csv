@@ -1,0 +1,171 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;Law 179/2022 on open data and public sector information re-use (transposing Directive 2019/1024) https://legislatie.just.ro/Public/DetaliiDocument/256414;Confirm;;;;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";no;;Confirm;No;"The Secretariat-General of the Government has started the development of the first National Open Data Strategy. We are now in the analysis and pre-consultation phase, also working on an initial draft with a series of institutions (https://data.gov.ro/pages/cadrul-strategic; https://data.gov.ro/blog/rezumatul-intalnirii-prima-strategie-nationala-privind-datele-deschise).";;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";Yes;(Review 1: Answer revised to yes) Timisoara OGP Local Action Plan includes a commitment on open data: https://www.opengovpartnership.org/members/timisoara-romania/commitments/ROTMR0003/.  The commitment is aimed at increasing the quality and quantity of available open data. Proposed actions include peer exchanges, census of public data held by public institutions and other relevant stakeholders, publication of 10 high value open data sets and standardization of their structure, guidelines for periodic identification of high value data, publication and maintenance of the published data, engage re-users etc.;Confirm;;;;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";no ;;Confirm;No;The legal framework for the development of any national and sectorial strategy mandates that the strategy must have an action plan with the respective actions, milestones, responsibile institutions and monitoring indicators in place. As such, along with the development of the strategy we are also working on the Action Plan, starting from the main pillars (objectives) of the Strategy.;;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"The Law transposing the Open Data Directive includes provisions on the obligation to publish real-time data. 
+Review 1 - Clarification: the Law does not go in detail: art.8 (6) Public entities shall make the dynamic data they hold available to potential users for re-use, immediately after collection, through appropriate APIs and, where appropriate, by mass download. 
+The implementing norms will go into further detail.";Complement;;More detailed provisions are included in the draft secondary legislation and further actions will be included in the Strategy under the ”HVDs Publication and Improved Data Quality” pillar/Strategic Objective;;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Complement;;This aspect will be considered for inclusion following the analysis for the update of the portal and for the development of the Strategy. The results of the ongoing Survey we are running on the portal clearly shows that this is one of the most requested new features for the portal;;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";yes;The law states that the data should be available / discoverable on the national open data portal, hence on data.europa.eu as well.;Confirm;;;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";Yes;(Review 1: Answer revised to yes) The law includes measures to ensure data requests are processed correctly (including sanctions on non abiding institutions), data is published in open formats with metadata and using open standards, it also recommends the CC licences for published data. In addition, the aplication norms, now under development, focus on the importance of maintaining a permanent dialogue with re-users, especially in prioritising data sets for publication, to align to their needs in terms of frequency, format, availability etc.;Complement;;"The Strategy under development will include actions to foster the development of business models for the re-use of open data by the public sector (under the Encouraging Open Data Re-use pillar/Strategic Objective).
+In addition, the Ministry for Research, Innovation and Digitalization, the Authority for the Digitalization of Romania and the Secretariat-General of the Government have initiated the approval through Government Memorandum of a document on Guidelines for the digitialisation of public services that includes recommendations for public authorities to re-use availble open data in the design and implementation of their new/re-designed digital services. The Memorandum is pending approval in the government meeting.";;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;The law includes clear measures for data requests, redress cases and the implementing act (under consultation) includes provisions on prioritisation of publication and collaboration with re-users, so as to reflect their needs.;Complement;;"More detailed provisions are included in the draft secondary legislation and further actions will be included in the Strategy under the Encouraging Open Data Re-use pillar/Strategic Objective (https://data.gov.ro/uploads/page_images/2024-06-07-105250.761843Strategie-date-deschisepropuneri-directii-strategice29mai24.docx; https://data.gov.ro/pages/cadrul-strategic)";;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;Public bodies must publish and regularly update data inventories and publishing plans.;Complement;;The draft secondary legislation (implementing norms for the Law 179/2022 on open data) include a standardised template and guidelines on filling these inventories. It also includes the provision for public entities to make these inventories available on their websites.;;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;the implementing act (under public consultation - https://data.gov.ro/blog/intalnire-de-lucru-elaborare-norme-de-aplicare-legea-nr-179-2022) reiterates the importance that these inventories should include all data held by the public entity.;Complement;;The draft secondary legislation (implementing norms for the Law 179/2022 on open data) includes guidelines on filling these inventories for all collected/produced/held data (https://e-consultare.gov.ro/w/wp-content/plugins/download-attachments/includes/download.php?id=50042).;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;"There are a series of measures taken, such as:
+- SGG has requested the institutions under the scope of the regulation to designate stewards for the implementation (partially appointed);
+- SGG has started working groups with the appointed stewards to work on the mapping of datasets and identify the measured needed for implementation (cadastre, meteorological, statistics etc.);
+- the appointed stewards are kept updated on implementation and monitoring news from EU level;
+- the SGG has participated in the high-level meetings of the Inspire Implementation National Council to inform and foster on the additional measures required for HVDs Regulation in relation to INSPIRE;
+- some of the institutions under the scope of the Regulation have initiated impact studies and procedures for the implementation (National Meteorological Authority; National Cadastre Agency);
+- Specific measures are to be included in t";;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;2;1;4;2;2;3;3;;;;
+P11-b;Earth observation and environment;2;2;3;2;2;3;3;;;;
+P11-c;Meteorological;4;3;4;3;3;4;4;;;;
+P11-d;Statistics;2;2;2;2;2;3;2;;;;
+P11-e;Companies and company ownership;3;3;3;3;2;3;2;;;;
+P11-f;Mobility;2;2;2;2;2;2;2;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;;;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;" The governance structure is composed of the team within the Secretariat-General of the Government (that holds most attributions in the coordination of the open data inititative) and the Authority for the Digitalization of Romania (transposition mainly attributions).  The SGG activities are conducted with the participation /inclusion of stakeholders (data stewards from the central/local administration, re-users, academia, civil society), as reflected in the implementation of the open data commitments in the OGP National Action Plans developed, implemented and monitored in collaboration with civil society) or the active participation of stakeholders in open data meetings and debates on various issues (https://data.gov.ro/blog).
+In addition to the previous arrangements, this year there have been established two new data governance bodies: 
+- a National Coordination Committee on data, digital services and AI (bringing together the institutions with attributions on govt data);
+- a technical group of the Committee for e-government and red tape reduction on the ”Development of a Data-Driven Public Sector” - the working groups of this Committee also work with stakeholders from outside government (civil society etc), according to its functioning regulations.";;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;The approach is mainly top-down in terms of legislative framework, dissemination of knowledge and good practices, coordination etc. However, as there are starting to be local open data initiatives, we are now supporting them from the central level, and they are also working together to promote their good practices to peers from other municipalities.;Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;"The network of open data stewards covers the local level as well and the SGG ensures any communication, information session or support activities also reach the local authorrities. Any local initiatives that have focused on open data have also been supported and promoted by the SGG (Timișoara: https://data.gov.ro/blog/planul-local-de-actiune-ogp-2022-2024-timisoara; Alba Iulia - ongoing talks with the representatives of developers, civil society and city hall to promote open data at local level - event in June 2024)";;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";few public bodies;As stated above, for the local initiatives, there are two approaches: some chose to upload directly on the national portal and some cities prefer to develop their own portals. This second approach usually is more cumbersome and it was only finalised so far for Timisoara (data.primariatm.ro). ;Confirm;;;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";yes;The information can be found in the respective legislation available at: https://data.gov.ro/pages/resources;Confirm;;;;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;The teams are part of the same office (Secretariat General of the Government), working in collaboration with the Authority for the Digitalisation of Romania that transposes the EU legislation in the field. The collaboration is permanent.  the national open data team is the composed of the Secretariat General of the Government, that manages the national portal but also has broader coordination attributions and contributes to the legislative process on open data, and the Authority for the Digitalisation of Romania, that is in charge mainly with transposing EU legislation and limited open data attributions otherwise. The collaboration is constant but it is mainly on an inter-institutional level (online, offline, official and informal communication). For example, the law transposing the Directive was initiated and developed by both ADR and SGG. It also translates in partnership between the SGG and ADR in organising public meetings and debates (ex. https://data.gov.ro/blog/grup-de-lucru-date-deschise-pna-2022-2024) or in project implementation (ex. OECD Digital Government Review, including open data: https://sgg.gov.ro/1/wp-content/uploads/2021/12/PNP-003-anunt-website.pdf);Complement;;"Further collaboration between SGG and ADR:
+https://data.gov.ro/blog/rezumatul-intalnirii-prima-strategie-nationala-privind-datele-deschise
+https://data.gov.ro/blog/rezumatul-dezbaterii-publice-de-la-date-deschise-la-guvernanta-datelor
+https://data.gov.ro/blog/consultare-publica-hg-normelor-metodologice-ddate-deschise";;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;Law 179/2022 states that each public entity should have an appointed data officer. Each ministry has an appointed data steward (permanently updated) and we are in a continuous process of extending this to all agencies from the central level. While the responsibilities of the data steward were imposed from the top, it was upon each ministry to decide on who to appoint, due to the differences in their internal procedures. The role of the data steward /dedicated department is further detailed in the implementing act of the Law 179/2022 (under consultation).;Complement;;Further details on the roles of the open data stewards in https://e-consultare.gov.ro/w/hotarare-a-guvernului-pentru-aprobarea-normelor-metodologice-de-aplicare-a-legii-nr-179-2022-privind-datele-deschise-si-reutilizarea-informatiilor-din-sectorul-public/;;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;The national open data team maintains both direct dialogue with the open data officers or organises webinars, working groups, information sessions: https://data.gov.ro/blog;Complement;;"Regular meetings and consultations held:
+https://data.gov.ro/blog/rezumatul-intalnirii-prima-strategie-nationala-privind-datele-deschise
+https://data.gov.ro/blog/rezumatul-dezbaterii-publice-de-la-date-deschise-la-guvernanta-datelor
+https://data.gov.ro/blog/consultare-publica-hg-normelor-metodologice-ddate-deschise
+The SGG has also initiated a dedicated questionaire (May 2024) for open data stewards to better assess their challenges and identify best practices (the results are not public yet).";;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;The exchange take place both at specific levels (the open data team facilitates interactions between re-users and the data providers) or through public meetings (webinars, working groups promoting dialogue, re-use examples etc.): https://data.gov.ro/blog. The implementing act focuses more on specific recommendations for this type exchange.;Complement;;Further guidelines for engagement between providers and re-users can be found in the secondary legislation> https://e-consultare.gov.ro/w/hotarare-a-guvernului-pentru-aprobarea-normelor-metodologice-de-aplicare-a-legii-nr-179-2022-privind-datele-deschise-si-reutilizarea-informatiilor-din-sectorul-public/;;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"Some public bodies do have data publication plans, although this is not true for all (ex.https://data.gov.ro/dataset/inventar-seturi-date-deschise-mdlpa-aprilie-2023; https://data.gov.ro/dataset/planul-de-publicare-a-datelor-deschise-consiliul-judetean-tulcea-2023). The law does require for all entities to have such publication plans.";Complement;;"The draft secondary legislation offers a standardised template for the publication plans, and once adopted, we will also be able to monitor compliance with these plans.
+";;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;The implementing act does have a yearly reporting requirement.Reporting will start from the end of 2023.;Complement;;Reporting will start after the adoption of the secondary legislation. The draft has a reporting template available.;;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;The Law transposing the Directive has provisions to ensure updates can be done to the list of national HVDs. The strategy will also follow the available guidelines that require regular(annual) assessment of the strategies and updates if needed. No updates have been made so far.  September  24 Update: The Government Decision no.379/2022 for the approval of the Methodology to develop, implement, monitor and update strategies includes provision on the monitoring and updating of strategies (Chapter IV):https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://legislatie.just.ro/Public/DetaliiDocument/253158&ved=2ahUKEwj53Mi6rLqIAxU__7sIHXMwJFQQFnoECBQQAQ&usg=AOvVaw1bgnY9CMSYbRKwHSFnV5_d ;;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";no;;Change;Yes;The list of public sector bodies that can charge above the marginal cost due to their financing model is available on the portal and is regularly updated by the Ministry of Finance: https://data.gov.ro/blog/lista-organismelor-din-sectorul-public-cu-autofinantare;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;lack of allocated resources (both human and financial), lack of standardisation in the collection and managament of data, lack of coherent data governance (including at public sector body level).;Confirm;N/A;;;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;There are activities at national level that address these issues, including the implementation of new legislation on interoperability and government cloud, improved focus on developing digital skills (and open data knowledge in particular), requirements for the open by design for new IT systems  etc.;Complement;;Adding to the activities already mentioned, there are also provisions on the draft secondary legislation to ensure better resource allocation and improved data governance at institutional level (roles/workflows etc.). ;;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;"Guidelines are available on the portal: https://data.gov.ro/pages/publish. Permanent assistance is ensured to all open data stewards and not only to help with process.
+Starting 2024, the National Institute for Administration offers public servants a dedicated course on Open Data: https://ina.gov.ro/cursuri/programe-de-perfectionare/comunicare-publica-informare-promovare-si-transparenta-decizionala/date-deschise-in-administratia-publica
+The draft secodary legislation mentioned above also includes numerous guidlines on how to approach the different phases of the opening process";;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;The National Institute for Administration (INA) has included open data in its training program for public servants: https://ina.gov.ro/comunicare-informare-promovare-transparenta/;Complement;;Starting 2024, the National Institute for Administration offers public servants a dedicated course on Open Data: https://ina.gov.ro/cursuri/programe-de-perfectionare/comunicare-publica-informare-promovare-si-transparenta-decizionala/date-deschise-in-administratia-publica;;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";no;;Change;Yes, 3-5;"Public events or information sessions are held regularly on: 
+Open Data Day (week): Opening up Geospatial Data - https://data.gov.ro/blog/rezumatul-intalnirii-publice-ziua-datelor-deschise-deschiderea-datelor-geospatiale;
+Open Government Week: https://data.gov.ro/blog/rezumatul-intalnirii-prima-strategie-nationala-privind-datele-deschise;
+https://data.gov.ro/blog/saptamana-guvernarii-deschise-un-univers-de-date-utile-ins (information session with students on open data and statistical data);
+Regular meetings on geo-spatial Data: https://geo-spatial.org/proiecte/seminarii/cluj2024/";;;;;;

@@ -1,0 +1,255 @@
+;Dimension 1: Open Data Policy;;;;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;;;;
+;1.1 Policy framework;;;;;;;;;;;
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"Yes, there is a data strategy in Sweden since October 2021, and in chapter 4 about ""Styrning, reglering och uppföljning"" (in eng. governance, regulations, and follow-ups) the transposition of the open data directive into national law is specifically outlined as a strategically important area. 
+LINK: https://www.regeringen.se/informationsmaterial/2021/10/data--en-underutnyttjad-resurs-for-sverige/
+
+However, the actual investigation preseeding the national law was handled as a separate process, so the data strategy could be said to point to that work in a supportive manner, rather than investigation being a part of the data strategy. 
+LINK to the government investigation: https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2020/09/sou-202055/
+
+2022 (vi kan ta bort detta tycker jag):
+Since 1th of August 2022, there is a new law in Sweden that fullfills the requirements layed out in the open data directive.
+The government is proposing a new law on making data from the the public sector available. The amendments to the law are proposed to enter into force on 1 August 2022  (https://www.regeringen.se/rattsliga-dokument/proposition/2022/04/prop.-202122225/)  The Swedish Government outlined  a broader national digitalisation strategy already 2017 (https://www.regeringen.se/regeringens-politik/digitaliseringsstrategin/) how the digitization policy should contribute to competitiveness, full employment and economic, social and environmentally sustainable development. The strategy outlines the importance of public sector information and open data as a fuel for digital innovation and new services, improved efficiencies and for our democratic and transparent society in Sweden. The information produced or collected in the public sector is an asset that is common to state and municipal authorities and society in general. By refining, compiling and using information in other ways, different actors can create new commercial and non-profit services and thereby provide the conditions for society to take advantage of the value that the information can have when used for purposes other than the authorities' own activities. Operators who want to re-use public information should, as far as possible, access data. The Government believes that it should be as simple as possible for as many people as possible to assimilate the value of this information collection. Authorities should actively strive to enable efficient re-use of public information to facilitate the emergence of an information market.
+
+To implement the  this strategy the Agency for Digital Government (DIGG) was established in September 2018 with the purpose to support digitalisation in public administration with infrastructure and shared digital services. DIGG are mandated to promote open and datadriven innovation, the re-use of public information. 
+
+Efforts supporting the strategy
+- DIGG is responsible for the national framework of Europeean Interoperability Framework (EIF) where ""open by default"" is one pillar, see q1. https://www.digg.se/utveckling-av-digital-forvaltning/svenskt-ramverk-for-digital-samverkan. 
+- DIGG is responsible for the national open data portal and the open data strategy with guidelines and recommendations incl API strategy and access and quality of standardised basic data, methodological support and guidelines.";Complement;Yes;"Yes, there is a data strategy in Sweden since October 2021, and in chapter 4 about ""Styrning, reglering och uppföljning"" (in eng. governance, regulations, and follow-ups) the transposition of the open data directive into national law is specifically outlined as a strategically important area. 
+LINK: https://www.regeringen.se/informationsmaterial/2021/10/data--en-underutnyttjad-resurs-for-sverige/ 
+However, the actual investigation preseeding the national law was handled as a separate process, so the data strategy could be said to point to that work in a supportive manner, rather than investigation being a part of the data strategy. 
+LINK to the government investigation ahead of the national law: https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2020/09/sou-202055/ 
+LINK to the national law: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022818-om-den-offentliga-sektorns_sfs-2022-818/  ";;;;;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"Yes, the national data strategy is called (translated to english) ""Data - an underutilized resource for Sweden: A strategy for increased access to data for e.g. artificial intelligence and digital innovation.
+
+Following the digitalization strategy from 2017  (https://www.regeringen.se/regeringens-politik/digitaliseringsstrategin/) there was a national data strategy published 2021 to increase the amount of data being published and used for innovation, AI-analyses etc. The aim of the data strategy is  strengthening welfare, competitiveness and a sustainable society. The strategy contains goals with timelines as: 1) All state administrative authorities that can streamline operations and simplify for companies and citizens with the help of shared data, AI and data-driven analysis must have started this work by 2025 at the latest. 2) Publicly funded research data must, where appropriate, be open and accessible by 2026 and 3)  Swedish companies should be leading players in the internal market for data in 2030. 
+LINK: https://www.regeringen.se/informationsmaterial/2021/10/data--en-underutnyttjad-resurs-for-sverige/";Complement;Yes;"Yes, the national data strategy is called (translated to english) ""Data - an underutilized resource for Sweden: A strategy for increased access to data for e.g., artificial intelligence and digital innovation.
+Following the digitalization strategy from 2017 there was a national data strategy published 2021 to increase the amount of data being published and used for innovation, AI-analyses etc. The aim of the data strategy is strengthening welfare, competitiveness and a sustainable society. The strategy contains goals with timelines as: 1) All state administrative authorities that can streamline operations and simplify for companies and citizens with the help of shared data, AI and data-driven analysis must have started this work by 2025 at the latest. 2) Publicly funded research data must, where appropriate, be open and accessible by 2026 and 3) Swedish companies should be leading players in the internal market for data in 2030. 
+LINK: https://www.regeringen.se/informationsmaterial/2021/10/data--en-underutnyttjad-resurs-for-sverige/  ";;;;;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;"Yes, there are also other open data policies, for example the following:
+
+# The Swedish Environmental Protection Agency has a policy for ""smart environmental  information"" that includes strategies  for open data, see: https://www.naturvardsverket.se/om-miljoarbetet/smart-miljoinformation/strategi-for-miljodatahantering
+
+# The Land Survey agency is responsible for a strategy about geografical data which includes strategies for open data: https://www.lantmateriet.se/sv/webb/nationell-geodatastrategi/
+
+# The Sundsvall municipality has a digitalisation strategy that includes sections for open data and data as a strategic resource: https://utveckling.sundsvall.se/malbild-och-strategi/strategiska-omraden-for-att-lyckas-med-digitalisering
+
+# The Region Västra Götaland has a regional development strategy, and in the focal area ""Digitalisation"" (page 18), the importance of access to digital information that can be used freely is highlighted: https://www.vgregion.se/regional-utveckling/regional-utvecklingsstrategi/regional-utvecklingsstrategi/";Confirm;;;;;;;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;"Yes, the national datastrategy outlines six strategic areas, and in each strategic area there are a number of strategic efforts/action plan described. The national datastrategy has goals including the open data field for 2023-2025. These can be for example specific goverment assignments or other types of actions and described goals. In particular the following strategic sections are related to open data: ""Insatsområde 1: Ökad tillgång till data"" (in eng. Increased access to data), ""Insatsområde 2: Öppen och kontrollerad datadelning"" (in eng. Open and controlled data sharing), ""Insatsområde 3: Samverkan och kultur (in eng. Cooperation and culture), and ""Insatsområde 4: Styrning, reglering och uppföljning"" (in eng. Governance, regulations and follow-up).
+
+There are also policy documents from the Agency for Digital Government for example: https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/nationella-principer-for-att-tillgangliggora-information.";Confirm;;;;;;;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";No;UPDATED ANSWER:The values of dynamic data  and real time data are described in the datastrategy and the strategy outlines that the Agency for digital government shall outline measures. But the Agency of digital government has not received a governmental mission to actually follow up on the strategy or to outline measures based on the strategy. ;Confirm;;;;;;;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;;;;;;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";yes;Yes, the national datastrategy states that metadata about datasets are to be shared through Sveriges dataportal which is shown on data.europa.eu.;Confirm;;;;;;;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"This is the goal of both the national strategy and the new datalaw implementing the Open data directive in Sweden. For example by increasing the amount of data. This will be measured in an annual  follow-up.There are also principles and guidelines from the Agency for Digital Government which include recommendations for increased interoperability etc which could be used for the follow-up, see:
+
+# https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/nationella-principer-for-att-tillgangliggora-information 
+# https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information ";Confirm;;;;;;;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"For example in the the goal for ""Increased access to data"" in the National data strategy:
+Goal: Access to data shared openly or controlled to increase continuously.
+In 2023, there must be shared data to meet prioritized societal challenges
+as well as within a majority of data areas defined in the EU's data strategy.
+The following areas are prioritized: priority societal challenges, European
+common data areas, areas with identified valuable data sets
+as well as areas where data is requested by e.g. business.";Complement;;The measures mentioned has not been followed up, see also P5.;;;;;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;Yes, but indirectly since the data strategy points out the new open data law as an important step for achieving increased data sharing and data use, and the requirements related to maintaining a data inventory is regulated in that law. The Agency for digital government (digg.se) is responsible for holding the national open data inventory via the national dataportal (dataportal.se).;Confirm;;;;;;;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;The Swedish data portal (the national data inventory) is for both open data and for shared data.;Complement;;The Swedish agency for digital government is expecting a mission from the government to deliver data according to DGA this autumn.;;;;;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;Yes, the Agency for digital government is providing support at the Swedish data portal and information on Digg.se. The implementation itself is up to each sector and each organisation. https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vardefulla-datamangder https://docs.dataportal.se/dcat/docs/recommendations/#14-vardefulla-datamangder;;;;;;
+;Categories of high-value datasets;Answers  2024;;Degree of progress (from 1 to 5);;;;;;;;
+;;Organisational progress;Legal progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;Technical progress ;;;;
+;;Setting up new roles and workflows;Addressing legal barriers;Identification and inventory of high-value datasets;Publication of high-value datasets in machine-readable formats via APIs;Publication of high-value datasets as bulk download, where relevant;Standardised means to structure, describe, access high-value datasets;Ensuring metadata availability and quality;;;;
+P11-a;Geospatial;3;3;3;3;3;3;3;;;;
+P11-b;Earth observation and environment;3;3;3;3;3;3;3;;;;
+P11-c;Meteorological;3;3;3;3;3;3;3;;;;
+P11-d;Statistics;3;3;3;3;3;3;3;;;;
+P11-e;Companies and company ownership;3;3;3;3;3;3;3;;;;
+P11-f;Mobility;3;3;3;3;3;3;3;;;;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;The possibility to denote and follow up is there in the Swedish data portal, but all relevant datasets have not been denoted yet. This is up to each data producer.;;;;;;
+;1.2 Governance of open data;;;;;;;;;;;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"Yes, in the Open government partnership, see https://www.regeringen.se/rapporter/2023/05/sveriges-handlingsplan-for-open-government-partnership-20232025/ 
+For the process, see https://www.opengovpartnership.org/wp-content/uploads/2023/04/Sweden_Action-Plan_2023-2025_June_EN.pdf 
+Digg is the operating agency for implementing support for the open data charter and involves various open data stakholders by providing a community and possibilities to share good exemples, tools and information on data-cooperation on the Swedish dataportal as well as education, information and assessment. https://www.dataportal.se/
+Improvement suggestions from users are saved in the Jira-board of the national data portal managed by Digg, for further elaboration and prioritisation.";;;;;;
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;"The Swedish model is decentralised with government agencies, regional authorities and local municipalites. The federal government cannot give special assignments to municipalites so the model has taken into account for this, to rather use external government funding and incentives for the local/regional level.
+
+#The ministry assigns centrally funded projects and initiatives to speed up progress in selected areas/domains/sectors. 
+#Innovation agency funds and incentivives local and regional, and domain specific labs through government funding. 
+#However, since our open by default policy and there are many initiatives that are developed and pursued at local level with no central guidance, or as a part of business development. 
+
+We encourage local and sector-specific projects, however it is a challenge to coordinate all and drive them to publish the data so that it is visible through the national open data portal. To further incentivavives open data and data for innovation and AI development, Innovation agency Vinnova funds projects. Vinnova, The National Innovation Agency are financing and incentivising initiatives for open and datadriven innvotion incl establishment of open data labs, cubs and factories in each sector. Vinnova also promotes and finance civic-tech iniitatives for open data re-use and open innovation with open data. ";Confirm;;;;;;;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;"Yes, partly, we provide a digital arena for data producers and data consumers at the Swedish data portal. This includes an area for data sharing initiatives, an area for good examples etcetera. The national level also provides a shared metadata catalogue for smaller data producers. 
+https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-om-oppna-datalagen/lamna-metadata-till-sveriges-dataportal#h-Treolikasattattlamnametadata
+
+Also, the Swedish Association of Local Authorities and Regions has started a new network for supporting employees in municipalities and regions that work with open data. This network provides the members with contextualized information e.g. seminars that deals with how the open data law specifically applies to municipalities and regions, as well as promotes data interoperability.  
+https://skr.se/skr/naringslivarbetedigitalisering/digitalisering/datadrivenutveckling/oppnadatastod/oppnadataprofessionsnatverk.80015.html";;;;;;
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";approximately half of the public bodies;"There are some bigger initiatives, as for example: 
+
+# https://www.vgregion.se/ov/dataverkstad/
+# https://www.ri.se/sv/vad-vi-gor/projekt/smart-city-lab-kommunernas-stodfunktion-for-datadriven-utveckling
+# https://www.vinnova.se/p/databeredskapsverkstad/";Confirm;;;;;;;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";no;;Confirm;;;;;;;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Yes, the two teams (Government offices of Sweden and Agency for digital government) are working together both regarding more strategic questions e.g. having a dialogue about future government assignments or handling questions related to making prioritisations during on-going government assignments. Also, the two teams are co-hosting seminars, e.g. with civil society organisations. Moreover, the government team have been participating in the creation of digital educations that Digg (Agency for digital development) is responsible for, e.g. by recording videos about the national datastrategy and high-value datasets. ;Confirm;;;;;;;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;"There are no requirements outlined at a national level for the appointment of e.g. open data officers, but the National Agency for digital government (Digg) recommends the appointment of a person per organisation that is responible for the coordination and organisational specific strategies related to open data. See https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-att-tillgangliggora-information#h-Organiseraarbetetmedtillgangliggorande
+
+Information and data stewards for data are mandatory according to legislation but this is primarly from a GDPR perspective. See https://www.imy.se/verksamhet/dataskydd/ ";Confirm;;;;;;;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Yes there is, although the ways in which is done varies depending on what government assignments are running or which networks or projects exists. At regular basis, knowledge exchange is carried out at public seminars such as ""Digg Forum"" (https://www.digg.se/kunskap-och-stod/evenemang/digg-forum), the seminars provided by NOSAD (https://nosad.se/workshops), and by discussions at the open community connected to the national dataportal (https://community.dataportal.se/).
+
+At the moment there is active and regular exchange of knowledge between the open data team at Digg and ""open data officers"" in e.g. the following projects/government assignments: 
+
+# A government assignment that relates to ""SKILLS"" actors and aims to increase the amount of open data from this sector.
+See https://www.regeringen.se/regeringsuppdrag/2021/06/uppdrag-att-utveckla-en-sammanhallen-datainfrastruktur-for-kompetensforsorjning-och-livslangt-larande/
+
+# The project ""National dataverkstad"" which is a stately funded project aiming to support regions and municipalities in open data sharing and use. This project is often used for proof-of-concepts related to Diggs development of recommendations, educations and other types of support, but also for identifying specific needs at local level. See https://www.vgregion.se/ov/dataverkstad/.
+
+# The project ""Smart city lab"" which is a statly funded project driven by the research institute RISE, and which aims to support municipalities in progressing IoT use, including data sharing. This has led to the co-creation of support related to MIMs. See https://www.ri.se/sv/vad-vi-gor/projekt/smart-city-lab-kommunernas-stodfunktion-for-datadriven-utveckling";Confirm;;;;;;;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Yes, in multiple ways : 
+
+# At the national data portals open community there is continuous and on-going discussions between open data users and open data providers. See: https://community.dataportal.se/
+
+# NOSAD; a network established bty The employment ageny, Agency for digital government,  The Internet foundation invites to knowledge exchange through seminars, discussion forums etc.  See: https://www.nosad.se/
+
+#Within geodata- domain we have Geodata counsil and Geodata forum for the geodata community, stakeholder that hold the regular events for access and quality to geodata  https://geoforum.se/tidigare-motesplatser 
+https://www.geodata.se/om/geodataradet/
+
+#Vinnova community for datalabs and data factories: regular networking and meetinge for knowledge exchange https://blogg.vinnova.se/
+
+#Within Satellite data domain we have Copernicis-space data network to discuss access and re-use.  ";Complement;;"The new version of the Swedish data portal facilitates exchange of knowledge and experiences under for examle ""Data cooperation"" and ""Good examples""as well as in the discussion forum ""Community"".";;;;;;
+;1.3 Open data implementation;;;;;;;;;;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"Yes, but depending on the open data maturity of the organisation, these publication plans can differ in extent and level of detail. Our assessment is that the municipalities (290 in Sweden), since many of them are rather small and lack resources, are those with the biggest challenges to come up with a data publication plan. We know that many organisation do have some sort of plan, however, not available online. 
+
+The project ""Nationell dataverkstad"" (in eng. National data workshop) helps Regions and municipalities with the on-boarding process, which includes coming up with a plan for publishing data as open data. At the moment, 10 regions (including many of their municipalities) have joined the project. In Sweden we have 21 regions, so the aim of the project is to get the 11 other regions to joins during 2023. 
+Link: https://www.vgregion.se/ov/dataverkstad/
+
+For the research community, the Swedish Research Council has a data publication plan online: https://www.vr.se/uppdrag/oppen-vetenskap/oppen-tillgang-till-forskningsdata/datahanteringsplaner.html";Confirm;;;;;;;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";Yes;"UPDATED ANSWER:
+This part is still valid:
+""There is a structured way of monitoring the digitalisation strategy, see https://www.digg.se/analys-och-uppfoljning/publikationer/publikationer/2022-09-22-uppfoljning-av-statliga-myndigheters-digitalisering-2021 Regarding the data strategy from 2021, the Agency for digital governement is monitoring this  in connection with  supporting public organisations in their work of implementing the strategiy and in connection with the work with for example national base-data https://www.digg.se/ledning-och-samordning/ena---sveriges-digitala-infrastruktur/nationella-grunddata.""                    
+
+The onfollowing part (se below) is, sorry to say, not relevant since Digg never recieved an assignment from the government office to deliver the action plan mentioned in the national data strategy,: ""With the new action plan 2023 this will be taken further into a structured plan and there will also be indicators for these areas which may be included in the digitalisation report.""";Complement;;"The new Swedish data portal is also monotoring metadata quality, the five star open datamodel and the Agency for digital government is also working on more visualisations of results.
+https://www.dataportal.se/metadatakvalitet";;;;;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;No;"No, but the government is working on a new digitalisation strategy (Q1 2025) with a yearly activity plan and measurements which presumably will include the open data strategy.
+The agency for digital government, which is responsible for the Swedish data portal is not responsible for the development of the new strategi. But when that strategy is launched we will know more about the activity plan and how it can be monitored. 
+
+Update sept: The digitalisation strategy is currently under development and the Agency  of digital government (Digg) has supported the Government office with workshops with different stakholders but is not involved in the actual process. So, Digg cannot elaborate on the yearly activity plan.";;;;;;
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";no;;Complement;;No, but the Agency for digital government is working on a register of organisations charging  for data which will make it easier to assess charges.;;;;;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;"1. Finance. There are still several Agencys in Sweden charging for datasets (this is included in their instruction). Hopefully the implementation of HVD will change this. 
+2. Organisation. Sweden is very decentralised organisationally and this is complicated when it comes to responsibility for datasets. 
+3. Prioritisation. How to make the organisations prioritize publication of open data when the policies are mostly recommendations and not ""must-do-laws"".";Confirm;N/A;;;;;;;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"2022:
+1. Connected to the implementation of HVD. 
+2,3. The Agency for Digital Government is working with different activities to address these challenges for example working with one of the regions in a project on datasharing https://www.vgregion.se/dataverkstad  and collecting good examples to be published at Sveriges dataportal.
+3. The Agency for Digital Government is working with a data ambassador program to raise awareness about data sharing.";Complement;;The Agency for digital government is also working on a concept for leaders to raise their awareness of data as a strategic resource and maturity as data producers. ;;;;;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;Yes, the Agency for digital government provides for example a shared metadata catalogue for smaller data producers and help on the Swedish data producers on how to get started, a Data ambassodors program (to train trainers in different organisations), good examples, a community etcetera;;;;;;
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;"# The Agency for digital government (Digg) launced a new education program called ""Data ambassadors"" in feb 2023, aiming to provide a basic education on open data and the process for releasing data. At the moment we have about 120 registrered participants from a broad range of different public actors, e.g. municipalities, county regions, public agencies and bigger organisations that work for the public sector.
+See https://www.digg.se/om-oss/nyheter/nyheter/2023-02-21-digg-lanserar-dataambassadorsprogram-for-att-stodja-arbetet-med-oppna-data
+
+# The Swedish Authority for Privacy Protection (IMY) provides two basic courses about GDPR. In 2023 these courses are planned to run in the autumn. This year they also arranges a conference called ""Dataskyddet 50 år"" (in eng. Data protection 50 years). For both, see https://www.imy.se/om-oss/utbildningar-och-konferenser/ 
+
+# The Swedish Civil and Contingencies Agency (MSB) provides a range of educations related to information security, among them a basic course in digital information security called DISA. See all courses in information security: https://www.msb.se/sv/utbildning--ovning/alla-utbildningar/?subject=132&sortOrder=Alphabetic
+
+# The Agency for digital government (Digg) regularly provids information about the work and support for the digitalisation of public sector at a monthly forum called Digg Forum, e.g. information about the progress of high-value datasets and information about new guidelines related to procurement of data (see also link in question 25a). The information is recorded and can be accessed at https://www.digg.se/kunskap-och-stod/digg-play.";Confirm;;;;;;;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, >9;"Yes, there are events arranged by the Agency for Digital Government (Digg), as for example information about the new datalaw https://www.dataportal.se/sv/nyheter/15/digg-bjuder-in-till-informationstraffar-om-den-foreslagna-datalagen and events arranged by Network Open Sourcce and Data https://nosad.se/ 
+
+Since Feb 2023, we also have a new education programme for employees within public sector called ""Dataambassadörsprogrammet"" (in eng. Programme for data ambassadors) that teaches the basics of open data, the most important aspect of the new open data law, as well as important aspects of the benefits of open data use. As a participant, you also gain access to educational material that can be used by the participants in their own work with spreading the word of open data in their own organisation. At the moment we have about 120 registrered participants from a broad range of different public actors, e.g. municipalities, county regions, public agencies and bigger organisations that work for the public sector. See https://www.digg.se/om-oss/nyheter/nyheter/2023-02-21-digg-lanserar-dataambassadorsprogram-for-att-stodja-arbetet-med-oppna-data";Complement;Yes, >9;"Yes there are events arranged by the Agency for digital government. They can for example be found on Digg play: https://www.digg.se/kunskap-och-stod/digg-play/arkiv-digg-play#/?
+
+Since Feb 2023, we also have a new education programme for employees within public sector called ""Dataambassadörsprogrammet"" (in eng. Programme for data ambassadors) that teaches the basics of open data, the most important aspect of the new open data law, as well as important aspects of the benefits of open data use. As a participant, you also gain access to educational material that can be used by the participants in their own work with spreading the word of open data in their own organisation. At the moment we have about 120 registrered participants from a broad range of different public actors, e.g. municipalities, county regions, public agencies and bigger organisations that work for the public sector. See https://www.digg.se/om-oss/nyheter/nyheter/2023-02-21-digg-lanserar-dataambassadorsprogram-for-att-stodja-arbetet-med-oppna-data";;;;;;

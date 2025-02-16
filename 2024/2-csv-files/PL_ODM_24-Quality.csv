@@ -1,0 +1,176 @@
+;Dimension 3: Open Data Quality;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+;3.1 Currency and completeness;;;;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;"Each modification of data is related to the automatic update of metadata.
+
+Since 2020, part of the data is collected (harvested) automatically from suppliers. Their metadata is updated automatically with a frequency specified by the portal administrator for each of the data sources (at the moment most of data downloaded automatically is updated daily).";Confirm;;
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;100%;Portal's functionality allows metadata of data sets and resources to be updated automatically when data sets and resources are uploaded to the portal. This mechanism includes all data sets and resources.
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;Automatic daily updating of metadata is recommended
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;Open data team contacts data publishers on regular basis. To ensure that they provide data without interruption in the time series, a letter has been sent to all central and local government administration providers for this purpose. Such information has also been posted on the Forum for Open Data Officers
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;Due to the relatively recent publication of the standard, it has not yet been implemented
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"The Open Data Team has undertaken information activities on the portal, including in the Guide for Data Providers (pages 11, 30): https://dane.gov.pl/pl/knowledgebase/useful-materials/nowy-przewodnik-dla-dostawcow-danych and on the website in the Knowledge Base: https://dane.gov.pl/en/knowledgebase/useful-materials/dane-o-wysokiej-wartosci-hvd. These activities are intended to provide information on what HVD is, along with instructions for providers to mark the metadata ""Contains high-value data"" when uploading data on the portal. Thanks to this, foreign providers can more easily identify HVD.
+An example of interoperability of HVD datasets on the portal are visits from other countries proven by the following statistics:
+1. Companies’ registration data: https://dane.gov.pl/pl/dataset/265,wyszukiwarka-krs (United States, Great Britain, Turkey, Ukraine, Germany, Czech Republic, Russia),
+2. Air traffic in Poland: https://dane.gov.pl/pl/dataset/3374,ruch-lotniczy-w-polsce-przewozy-pasazerskie-operac (United States, Russia, Great Britain),
+3. Air quality: https://dane.gov.pl/pl/dataset/2913,dane-pomiarowe-esa-edukacyjna-siec-antysmogowa (Australia, France, Russia, United States, Great Britain),
+4. Data on bussinesses: https://dane.gov.pl/pl/dataset?page=1&per_page=20&q=ceidg&sort=relevance&has_high_value_data%5Bterm%5D=true&model%5Bterms%5D=dataset (United States, Germany, Italy, Ireland)
+Additionally, internal work at the MDA regarding general interoperability of public IT systems and data has a significant impact on the HVD transborder interoperability as they are part of this wider framework.
+Ongoing amendment of the Act on computerization of the activities of entities performing public tasks includes:
+- legal obligation to maintain public registers only using IT systems,
+- imposition of a requirement to make data from public IT systems available via standardized API,
+- development of the public IT systems API catalogue, as well as information on the structure and meaning of data stored in all public registers, expanded to include information on dictionaries, classification schemes, taxonomies and code lists in public registers.
+Therefore interoperability of public registers or public IT systems containing HVD will be increased by providing machine-to-machine interfaces to such a data."
+;3.2 Monitoring and measures;;;;;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"Metadata is monitored by administrator and relevant data providers. Regulation of the Council of Ministers of 21 November 2022 on the data portal defines mandatory metadata for data on the national data portal. The functionalities of the data portal verify the completeness of the metadata entered by the data providers.
+In addition, information from portal users is used, transmitted via ""Send feedback"" button.
+";Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;"https://dane.gov.pl/pl/dataset/971,lista-zasobow-udostepnionych-w-centralnym-repozytorium-informacji-publicznej
+https://api.dane.gov.pl/1.4/datasets/resources/metadata.csv ";Confirm;;
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;yes;"Guidance for providers on publishing high-quality metadata can be found in:
+- Manual for data providers - https://dane.gov.pl/pl/knowledgebase/useful-materials/nowy-przewodnik-dla-dostawcow-anych
+The manual provides instructions for publishing data on the data portal.
+- Open Data Programme for years 2021-2027 and Annex No. 2 (Technical Standard) - https://monitorpolski.gov.pl/M2021000029001.pdf
+The document defines a set of minimum technical requirements that data must meet.
+- Open Data Programme for years 2021-2027 - the document provide 
+- multimedia materials: https://dane.gov.pl/en/knowledgebase/multimedia-training
+Tool: Data validator and data quality verifier - these tools ensure monitoring of metadata quality"
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;"The minimum requirements for metadata are described in the Regulation of the Council of Ministers of November 21, 2022 on the data portal (Journal of Laws of 2022, item 2415): https://dziennikustaw.gov.pl/D2022000241501.pdf
+Metadata include: title, keywords, description, update frequency, category, data language
+"
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;"The Act on open data and re-use of public sector information recommends the use of open licenses,
+License recommendations can be found in the guide for data providers: https://dane.gov.pl/pl/knowledgebase/useful-materials/nowy-przewodnik-dla-dostawcow-anych"
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;1-4;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;"Open data team from the MDA constantly and regularly offers legal and technical support to data provides through Open Data Officers that supperives and coordinte opening processes in their respective offices:
+URL: 1. https://m.facebook.com/story.php?story_fbid=pfbid02E3XzCQ2qoEdY7XF1nbEvsWG2MZPjH5Ua6BGUuz5Rmzsk23wPG8ajpfEpGdPsuhM2l&id=107789623943313
+2. https://m.facebook.com/story.php?story_fbid=pfbid032tMYEAaErDmhxBbLQ1CdaRzcy2FccGpg6AmLt3CGiQMQiaxcNrgmN1Y1aLrZ8BLul&id=107789623943313
+3. https://dane.gov.pl/pl/article/spotkanie-z-penomocnikami-ds-otwartosci-danych
+4. https://www.facebook.com/danegovpl/posts/pfbid0nQrauxLs7Fwgs17kzxu4CuzxvMEoHs7fwLWKG1rKncwawrqNMGapyZ6HxmgvgM7Rl
+5. https://www.facebook.com/danegovpl/posts/pfbid02KFVtVFPhwpy9yeNWJ4YxsU1R3LpcvfEAS1oFzEyxyZsXFqTZuSeCChpsuDtzuxLVl
+6. https://www.facebook.com/danegovpl/posts/pfbid0325q3zJaGZxk5X1C3Sa4htgQavJqNZazkGA7VAJhFkMJT9Pe6ka6LskLpha51sMiYl
+7. https://dane.gov.pl/pl/article/rozmowy-w-ansku-o-perspektywach-otwierania-danych-w-polsce
+8. https://www.gov.pl/web/cyfryzacja/pelnomocnicy-ds-otwartosci-danych
+9. https://dane.gov.pl/pl/knowledgebase/useful-materials/program-otwierania-danych-na-lata-2021-2027
+Additionally:
+• When adding a file to the portal or saving an external link, the validation process is carried out, which consists of three steps:
+o link validation - it consists in checking whether the resource can be downloaded (for a file) or make a connection (for API or web pages),
+o file validation - consists in determining the file format,
+o data validation - it consists in checking whether the structure and quality of data allow to create a tabular view (eg whether cells are merged or the date format is correct).
+• Additional data quality validators in the file have been implemented with the selected technical standard rules (eg compliance of telephone number, PNA code, KRS number)
+• Portal implemented the functionality of automatic notifications for editors about the need to update data.
+• Dane.gov.pl has been adapted to the DCAT-AP standard.
+• An evaluation of the technical and API standard of data openness was publised
+https://dane.gov.pl/pl/knowledgebase/useful-materials/standardy-otwartosci-danych
+• systematic training and tailored workshops addressed to data providers are carried out
+• Portal functionality enables automatic conversion of xls / xlsx files to csv and json-ld
+• The Guide for Data Providers is regularly updated https://dane.gov.pl/pl/knowledgebase/useful-materials/nowy-przewodnik-dla-dostawcow-danych
+• The website includes multimedia training on open data and preparation of data in open formats https://dane.gov.pl/knowledgebase/multimedia-training
+• The Open Data Laboratory raports are available to help data providers with knowledge on the legal, technical and security apects of opening public sector information for reuse https://dane.gov.pl/pl/knowledgebase/useful-materials/raporty-laboratorium-otwartych-danych"
+;3.3 DCAT-AP Compliance;;;;;
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;"Portal is compliant with DCAT-AP framework: https://api.dane.gov.pl/doc?urls.primaryName=DANE.GOV.PL%20RDF%20API%20(DCAT-AP)
+Additional answer:
+Our preparation to DCAT-AP compliance included commissioning the preparation of an expert opinion. It can be found on our portal: https://dane.gov.pl/pl/knowledgebase/useful-materials/ekspertyza-dotyczaca-okreslenia-zasad-opisujacych-zbiory-danych-publicznych-zgodnych-z-dcat-ap
+In Data Opening Programme (https://cms.dane.gov.pl/documents/29/POD_M.P._290.pdf) in 5.2.4 section: Interoperability of data exchange between European, national and local
+open data systems, a diagnosis of the need to ensure interoperability was described. The tasks related to DCAT-AP were defined as:
+- adapting the descriptions of resources available on the dane.gov.pl portal to the DCAT-AP standard,
+- recommending the implementation of the DCAT-AP standard in local open data portals (by conducting informational and educational activities).
+In addition, in Annex No. 2 to the document - Technical Standard - DCAT-AP was indicated as recommended for use when describing public sector data sets to enable the exchange of data set descriptions between the dane.gov.pl portal and other national and European portals providing public data.
+
+
+
+
+
+"
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);>90%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;"DCAT_AP_PL contains additional metadata specific to data in our country
+https://dane.gov.pl/dcat-ap-pl/
+
+ANSWER TO REVIEWER 1 COMMENTS:
+(1) in Polish specificity, 5 new extensions have an additional informative value. Polish version of the DCAT-AP standard was introduced because the specificity of metadata for resources that are held by some Polish entities required it. Also, some regulations on obtaining European funds indicated the need to use the Polish version of DCAT-AP,
+(2) Polish DCAT-AP-PL version (2.1.0) is compatibile with EU Portal DCAT-AP version; the difference isin the application of some additional extensions which are described here: https://dane.gov.pl/dcat-ap-pl/appendix/#comparison-to-dcat-ap-210";Confirm;;
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;Yes;"Data on Portal are compliant with DCAT-AP
+MDA monitors the national portal's compliance with the guidelines. At the same time, we encourage regional portals to implement the recommendations; The reasons for any lack of compliance in regional portals may be financial and organizational issues"
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+;3.4 Deployment quality and linked data;;;;;
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;We use 5-Star Open Data to assess the quality . Dane.gov.pl portal has a functionality that automatically adds levels of openness to data added by data providers.;Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;"The 5-Star Open Data was a part of carriculum of Open Data Academy as well as e-learning tutorials at https://dane.gov.pl/en/knowledgebase/multimedia-training such as: Open data scheme; The highest levels of openness. The tutorials have been promoted on https://www.facebook.com/danegovpl
+
+In addition, we analyze the quality of data made available on the portal during meetings with Open Data Officers. The task of the officers is to monitor data quality and to promote the topic in their institutions and among subordinate and supervised units (the tasks of the open data officers have been defined in the Open Data Act). Additionally, Open Data Officers monitor timely publication of public data on portal dane.gov.pl according to a defined roadmap  and quality of data. Schedules are published on dane.gov.pl. 
+https://dane.gov.pl/pl/knowledgebase/useful-materials/harmonogramy-udostepniania-danych
+
+
+In 2023, CMP published new guide to support offices in opening data “Data opening. Good Practice Handbook” https://cms.dane.gov.pl/documents/121/otwieranie_danych_praktyczny_poradnik.pdf . We explain the concept of 5-Star Open Data in the manual  Previous guides are available in the knowledge base of the dane.gov.pl portal https://dane.gov.pl/pl/knowledgebase/useful-materials/podreczniki-dot-otwartosci-danych
+";Complement;;"The 5-Star Open Data was a part of curriculum of Open Data Academy as well as e-learning tutorials at https://dane.gov.pl/en/knowledgebase/multimedia-training such as: Open data scheme; The highest levels of openness. The tutorials have been promoted on https://www.facebook.com/danegovpl
+
+In addition, we analyze the quality of data made available on the portal during meetings with Open Data Officers. The task of the officers is to monitor data quality and to promote the topic in their institutions and among subordinate and supervised units (the tasks of the open data officers have been defined in the Open Data Act). Additionally, Open Data Officers monitor timely publication of public data on portal dane.gov.pl according to a defined roadmap and quality of data. Schedules are published on dane.gov.pl. 
+https://dane.gov.pl/pl/knowledgebase/useful-materials/harmonogramy-udostepniania-danych
+
+In 2023, MDA published updated previously published guide to support offices in opening data “Data opening. Good Practice Handbook” https://cms.dane.gov.pl/documents/127/Praktyczny_poradnik._Otwieranie_danych_.pdf. We explain the concept of 5-Star Open Data in the manual. Previous guides are available in the knowledge base of the dane.gov.pl portal https://dane.gov.pl/pl/knowledgebase/useful-materials/podreczniki-dot-otwartosci-danych
+MDA keeps suppliers informed about data quality,
+Other activities - see answer to Q14
+"
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;>90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;71-90%;N/A;Change;>90%;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;31-50%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;Confirm;;N/A

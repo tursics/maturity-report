@@ -1,0 +1,359 @@
+;Dimension 4: Open Data Impact;;;;;;;;
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable);;;
+;4.1. Strategic awareness;;;;;;;;
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"The definitions is outlined in the CY Open Data Strategy Document.
+""The concept of ""re-use of public information"" refers to the right of persons or legal entities to obtain information from public bodies and (re)use it for commercial or non-commercial purposes""";Confirm;;;;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;"There is a combination of processes for estimate the level of re-use in Cyprus. These include:
+a. WebAnalytics of Traffic on the national portal: URL: https://bit.ly/2TjEk7f
+b. Catalogues of Apps that use data URL: https://www.data.gov.cy/application-showcases
+c. Surveys: https://www.data.gov.cy/Studies-Publications_EL
+d. Meet ups and events that engage the ecosystem of open data";Change;Yes;"There is a combination of processes for estimate the level of re-use in Cyprus. These include:
+
+a. WebAnalytics of Traffic on the national portal
+URL: https://www.data.gov.cy/el/dataset/statistika-episkepsimotitas-ethnikis-diadiktyakis-pylis-anoikton-dedomenon
+
+b. Catalogues of Apps that use data
+URL: https://www.data.gov.cy/index.php/en/studies-publications
+
+c. Surveys:
+URL: https://www.data.gov.cy/index.php/en/showcases
+
+d. Meet ups and events that engage the ecosystem of open data
+URL: https://www.data.gov.cy/el/node/68";;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer. ";yes;"(i) The structured training programme offered to all PSI Liaison Officers includes a module dedicated to open data impact (creating tools to monitor/measure). The aim of this particular module is to create awareness of open data impact and how the presence of such impact can help the organisations to make the case for securing additional resources for making more data available.
+URL: https://t.ly/OPgT
+(ii) The Open Data Team encourages and support events aimed to present use cases of Government to Government (G2G) re-use. These events bring together PSBs as publishers and re-users together, something that creates awareness of the impact of re-use of a PSB's data by other PSBs. Examples of such events are: GIS Open Day ( https://bit.ly/3zikDzF ), GVFM System Open Days ( https://t.ly/wuB4 ).
+(iii) Further, the National Open Data Portal has a dedicated section for Open Data Impact where PSBs can find some guidelines on how they can measure the level and impact of the re-use of their data.
+URL: https://www.data.gov.cy/open_data_impact, https://www.data.gov.cy/Studies-Publications_EL";Change;Yes;"(i) The structured training programme offered to all PSI Liaison Officers includes a module dedicated to open data impact (creating tools to monitor/measure). The aim of this particular module is to create awareness of open data impact and how the presence of such impact can help the organisations to make the case for securing additional resources for making more data available.
+URL: https://www.data.gov.cy/en/supportive-material
+
+(ii) The Open Data Team encourages and support events aimed to present use cases of Government to Government (G2G) re-use. These events bring together PSBs as publishers and re-users together, something that creates awareness of the impact of re-use of a PSB's data by other PSBs. 
+Examples of such events are: 
+- GIS Open Day (https://www.kios.ucy.ac.cy/5th-kios-gis-day-mapping-everything/)
+- GVFM System Open Days ( https://www.data.gov.cy/el/node/76).
+
+(iii) Further, the National Open Data Portal has a dedicated section for Open Data Impact where PSBs can find some guidelines on how they can measure the level and impact of the re-use of their data.
+URL: https://www.data.gov.cy/index.php/en/studies-publications.";;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"By monitoring statistics (downloads, apps created, use cases, etc).
+(i) The dataset contains the above statistical data about the open data website. URL: https://www.data.gov.cy/el/dataset/statistika-episkepsimotitas-ethnikis-diadiktyakis-pylis-anoikton-dedomenon
+(ii) Statistics (need log in)URL: https://www.data.gov.cy/el/ekan/statistics/dashboard";;;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"The official definition of Open Data Impact in Cyprus is outlined in section ""Open Data Impact"" (page 16) of the Open Data Strategy 2023-2027 document.
+URL: https://bit.ly/3Iee1Gk
+Translation:  By ""open data impact"" we mean all those changes, improvements, opportunities, direct and indirect, which occur through the re-use of open data. This impact is not limited to a single area and can take many forms: economic, social, political, environmental, etc.
+";Change;Yes;"The official definition of Open Data Impact in Cyprus is outlined in section """"Open Data Impact"""" (page 16) of the Open Data Strategy 2023-2027 document.
+
+Translation:  By """"open data impact"""" we mean all those changes, improvements, opportunities, direct and indirect, which occur through the re-use of open data. This impact is not limited to a single area and can take many forms: economic, social, political, environmental, etc.
+
+Open Data National Strategy 2023-2027
+New URL:
+https://www.data.gov.cy/sites/default/files/%CE%91%CE%94%CE%94%20-%20%CE%A3%CF%84%CF%81%CE%B1%CF%84%CE%B7%CE%B3%CE%B9%CE%BA%CE%AE%20%CE%91%CE%BD%CE%BF%CE%B9%CE%BA%CF%84%CF%8E%CE%BD%20%CE%94%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD%202023-2027.pdf";;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;"The methodology includes a number of actions / mechanisms such as:
+(i) Desktop Research: Carried desktop research in order to identify new re-use cases in the form of applications and websites developed with the re-use of open data. The identified re-use cases are then published with the consent of the developer on the National Open Data Portal, in the section “Showcases”.     
+URL: https://www.data.gov.cy/application-showcases 
+(ii) Open Data Portal Satisfaction Surveys: We have included a couple of questions on reasons of re-use in the 2018 Survey. We plan to incorporate additional questions in the next survey.
+(iii) Monitoring the performance portal's indexes such as number of visitors, datasets' downloads, traffic through APIs and how these changed over time gives a proxy on the extend of re-use, especially in those areas where re-use does not take the form of applications.
+(iv) Interaction and interviews of re-users of open data. 
+(v) Commissioning Impact Studies at regular intervals in order to record visible and non-visible re-use cases and their impact. URL: https://www.data.gov.cy/Studies-Publications_EL";Change;Yes;"The methodology includes a number of actions such as:
+(i) Desktop Research: Carried desktop research in order to identify new re-use cases in the form of applications and websites developed with the re-use of open data. The identified re-use cases are then published with the consent of the developer on the National Open Data Portal, in the section “Showcases”.     
+URL: https://www.data.gov.cy/en/showcases
+
+(ii) Open Data Portal Satisfaction Surveys: We have included a couple of questions on reasons of re-use in the 2018 Survey. We plan to incorporate additional questions in the next survey.
+
+(iii) Monitoring the performance portal's indexes such as number of visitors, datasets' downloads, traffic through APIs and how these changed over time gives a proxy on the extend of re-use, especially in those areas where re-use does not take the form of applications.
+
+(iv) Interaction and interviews of re-users of open data. 
+
+(v) Commissioning Impact Studies at regular intervals in order to record visible and non-visible re-use cases and their impact.
+URL: https://www.data.gov.cy/index.php/en/studies-publications";;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"During the past years we have seen a trend for closer collaboration between the government and the academic/research sector to create impact through open data. There are a number of very successful projects, some of which are :
+a. The National Open Data Portal itself is a product of collaboration between the Public Administration and Personnel Department of the Ministry of Finance and the Open University of Cyprus which hosts and provides technical support for the portal. URL: data.gov.cy 
+b. The GNOSIS project which resulted to the developmen of the ""GNOSIS"" platform aims to create impact on road safety through the provision an integrated GIS system that that collects and store and presents the much needed data that enable better decision making by the road network authority. The GNOSIS platform utilises open data from the Lands and Surveys Department and the Department of Public Works. URL: https://bit.ly/3tAH13A";Confirm;;;;;
+;4.2 Measuring reuse;;;;;;;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;Yes;The National Portal's dashboard offers inside about the most and least popular datasets of the national catalogue and other insides about portal traffic;;;
+I8-b;Surveys;new question;new question;Change;Yes;The Public Administration and Personnel Department conducts at regular intervals user satisfaction studies and Impact Studies in order to analyse the impact of data.;;;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;Several departments liaise with their re-users in order to understand their needs and how best to meet them. For example the Ministry of Transport meets regularly with re-users and researchers of their data and have formed partnerships with certain research centres. The Ministry also organises an annual conference on stainable mobility.Similar activities are carried out by the Met Department;;;
+I8-d;Other;new question;new question;Change;Yes;The Open Data Team utilises and shares data from the portal Log System and Matomo Analytics with PSBs that wish to analyse the profile of their users and the usage of their datasets (visits / downloads) Similar work is carried out by several departments that maintain their dedicated portals, such as the Department of Lands and Surveys, the Department of Statistics, etc.;;;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A;;;
+;Type of activity;Answer 2023;Explanation 2023;Confirm, change or complement answer/explanation from 2023;New answer (optional);New explanation (optional);;;
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;Several departments liaise with their re-users in order to understand their needs and how best to meet them. For example the Ministry of Transport meets regularly with re-users and researchers of their data and have formed partnerships with certain research centres. Similar activities are carried out by the Labour Inspection Department, the Met Department, DLS,  the Water Development Department, the Nicosia Municipality, etc.;;;
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;;;;
+I9-c;Other;new question;new question;Change;Yes;Data requests offer the opportunity for departments to link with their re-users and better understand their needs. Large providers utilise this opportunity to talk and better understand their customers.;;;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;"The mechanism is oulined in the latest Impact Survey conducted in 2021 and inlcudes a number of activities that aim to identify and gather re-use cases:
+(a) Annual Desktop Study to identify re-use cases
+(b) Form to Submit apps and re-use cases in order to showcase on data portals
+(c) Interviews with main re-users
+(d) Social Media Groups that encourage the showcasing of re-use cases";Confirm;;;;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;"Different Public Bodies may classify re-use cases using different methods. The ""official"" suggested way of classifying re-use cases (outlined in the ""Open Data Impact Assessment Methodology Handbook"") is by field of impact (ie.Political, Enviromental, Social, Economic)
+https://bit.ly/39nOBYG";Confirm;;;;;
+;4.3 Created impact;;;;;;;;
+;4.3a Governmental impact;;;;;;;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";yes;"The latest Cyprus Open Data Impact Study has found that:
+(a) 79% of organisations and companies that took part in the study stated that open data have a very possitive or possitive impact on the quality of services offered by the state
+(b) 70% of organisations and companies that took part in the study stated that open data have a very possitive or possitive impact on the interaction between the state and the citizens 
+(c) 53% of organisations and companies that took part in the study stated that open data have a very possitive or possitive impact on the efficienct of the public sector
+(d) 89% of organisations and companies that took part in the study stated that open data have a very possitive or possitive on the trasparecy of the public sector
+(e) 46% of organisations and companies that took part in the study stated that open data have a positive or very possitive impact on the goverment decision-making capacity
+
+https://bit.ly/3QjyTOM (see chapter 5)";Change;Yes;"The latest Cyprus Open Data Impact Study has found that:
+(a) 79% of organisations and companies that took part in the study stated that open data have a very possitive or possitive impact on the quality of services offered by the state
+(b) 70% of organisations and companies that took part in the study stated that open data have a very possitive or possitive impact on the interaction between the state and the citizens 
+(c) 53% of organisations and companies that took part in the study stated that open data have a very possitive or possitive impact on the efficienct of the public sector
+(d) 89% of organisations and companies that took part in the study stated that open data have a very possitive or possitive on the trasparecy of the public sector
+(e) 46% of organisations and companies that took part in the study stated that open data have a positive or very possitive impact on the goverment decision-making capacity
+
+(see chapter 5)
+URL: https://www.data.gov.cy/sites/default/files/PAPD_Impact%20Study%20(GR)_v.4_FINAL.pdf";;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The latest Open Data Impact Study, has found that open data has an """"Exceptionally Positive"""" impact on the quality of services offered by the state, while the the impact on the areas of efficiency and effectiveness of government was assessed as """"Positive"""".  79% of organisations and companies that took part in the study (N=80) stated that open data have a very possitive or possitive impact on the quality of services offered by the state. At the same time 53% of organisations and companies that took part in the study stated that open data have a very possitive or possitive impact on the efficienct of the public sector.
+(see chapter 5)
+URL: https://www.data.gov.cy/sites/default/files/PAPD_Impact%20Study%20(GR)_v.4_FINAL.pdf
+
+(1) Reuse case URL: https://www.publictransport.com.cy/cms/page/mobile-app-information
+(2) Dataset URL:  https://www.data.gov.cy/el/dataset/dedomena-dimosion-metaforon-se-pragmatiko-hrono-real-time-passenger-information
+(3)Pame App: The Pame App allows bus passengers to plan their journeys when using Cyprus Public Transport. The app gives passengers real time information on buses and their arrival at each bus stop. Passengers can also browse an interactive bus map, access route information, route maps and other information.
+";;;
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The latest Open Data Impact Study, has found that open data has a ""Positive"" impact on transparency and accountability of public administrators.
+
+(1) Reuse case URL: https://bit.ly/3OfjMEk
+(2) Dataset URL: https://www.data.gov.cy/el/dataset/proypologismos-2021-kai-mesoprothesmo-dimosionomiko-plaisio-2021-23
+(3)The Cyprus Recovery Resilience Plan 2021-2026 is a horizontal Public Policy Reform Plan that covers the period 2021-2026. The plan makes extensive use of open statistical data on economy, education, etc. as an evidence base for the formulation of reform policies and for the prioritisation of reform measures. URL: https://bit.ly/3OfjMEk";;;
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The Strategic Plan of the Ministry of Labour 2023-2025 utilises labour marker data as its evidence base in order to formulate its policies on labour issues. 
+
+(1) Reuse case https://bit.ly/44nItY9
+(2) Dataset URL: https://www.data.gov.cy/el/dataset/arithmos-atomon-poy-apotathikan-gia-epidoma-anergias-kata-oikonomiki-drastiriotita-kai-mina
+(3) In that case government open data in used by Ministry of Labour as evidence base that informs and guides their policy formulation process. This resulted in better decision making and policy formulation that was easier to pass through the parliament.";;;
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The latest Open Data Impact Study, has found that open data has a ""Positive"" impact on decision-making processes.
+
+(1) Reuse case URL: https://www.pio.gov.cy/coronavirus/
+(2) Dataset URL: https://data.gov.cy/index.php/el/dataset/imerisia-statistika-diasporas-tis-nosoy-covid-19-stin-kypro
+(3) The Ministry of Health management of the Covid-19 pandemic was massively based on data regarding new cases, deaths, hospilsations and ICU capity, collected by the Epidemiological Surveilance Unit";;;
+;4.3b Social impact;;;;;;;;
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.
+
+";yes;"The latest Cyprus Open Data Impact Study has found that 46% of organisations and companies that took part in the study (80% of those that answered the question) stated that open data have a possitive impact on the inclusion of marginalised social groups.
+The results conserning the various groups were slightly higher for the inclusion of the elderly and immigrants.
+
+https://bit.ly/3QjyTOM (see chapter 6)
+";Change;Yes;"The latest Cyprus Open Data Impact Study has found that 46% of organisations and companies that took part in the study (80% of those that answered the question) stated that open data have a possitive impact on the inclusion of marginalised social groups.
+The results conserning the various groups were slightly higher for the inclusion of the elderly and immigrants.
+
+(see chapter 6)
+URL: https://www.data.gov.cy/sites/default/files/PAPD_Impact%20Study%20(GR)_v.4_FINAL.pdf";;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The latest Cyprus Open Data Impact Study has found that 46% of organisations and companies that took part in the study (80% of those that answered the question) stated that open data have a possitive impact on the inclusion of marginalised social groups. The results conserning the various groups were slightly higher for the inclusion of the elderly and immigrants.
+Open Data Impact Study URL: https://www.data.gov.cy/sites/default/files/PAPD_Impact%20Study%20(GR)_v.4_FINAL.pdf
+
+Cyprus Guide App
+(1) Reuse Case URL: https://apps.apple.com/us/app/cyprus-information-guide/id1287967597
+(2) Open Dataset URL: https://www.data.gov.cy/el/dataset/katalogos-kentron-exypiretisis-toy-politi
+(3) Cyprus Guide application developed by Innovade and Cardet and co-funded by the Asylum, Migration and Integration Fund and the Republic of Cyprus and aims to provide basic essential information to refugees and asylum applicants about services and daily life on the island. The application utilises open data form various government departments including information and location of hospitals, citizen service centres, education, POIs, etc.
+URL: https://apps.apple.com/us/app/cyprus-information-guide/id1287967597";;;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The latest Cyprus Open Data Impact Study has found that 58% of organisations and companies that took part in the study stated that open data have a possitive impact on the level of awareness about the housing market.
+Open Data Impact Study URL: https://www.data.gov.cy/sites/default/files/PAPD_Impact%20Study%20(GR)_v.4_FINAL.pdf
+
+(1) Reuse Case URL: https://www.pwc.com.cy/en/industries/real-estate-assets/real-estate-market-year-review-2022.pdf
+(2) Open Dataset URL: https://www.data.gov.cy/el/dataset/statistika-politirion-eggrafon-akiniton
+(3) Open data that relates to the housing market is used extensively by the Real Estate Sector, either for valuation purposes or for reporting on the prospects of the housing market. An example of such a re-use if the PWC Annual Report on Housing Market that utilise open data mainly from the Department of Land and Surveys and CyStat, both Public Bodies.";;;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Air Quality Cyprus App
+(1) UseCase URL: https://www.airquality.dli.mlsi.gov.cy/
+(2) Open Dataset URL: https://www.data.gov.cy/el/dataset/trehoyses-metriseis-atmosfairikon-rypon-api
+(3) Air Quality Cyprus App is an app that uses data to inform the public regarding the quality of air. Quality of air is measured by the amount of dust and dust particles that exist, at any given time, in the atmosphere. The app is widely used by the public, especially during the spring months where harmful high dust concentrations in the atmosphere are common. The app notifies the user about the air quality in his area and is particurly useful for people with respiratory problems and those that work outdoors. The app has 10k+ downloads and has contruted to the raising of awareness about the health issues associated with bad air quality.";;;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"There is limited evidence about some impact on education and skills.The use-cases come in the form private initiatives such as that of the QGIS community and the public service data liaison officers growing group. Further to these two use cases describes below, there are cases where the IT departments of universities utilise the open data portal for student projects.
+
+QGIS Cyprus
+(1) Reuse Case https://qgiscyprus.wordpress.com/
+(2) Open Dataset URL: https://www.data.gov.cy/el/dataset/fylla-shedia-ltm-15000-ktimatikos-horometrikos-hartis
+(3) QGIS Cyprus is a newly established community with the aim  to gather the Cypriot QGIS community of Users and Developers and spread the knowledge in QGIS, through events, meetups, hack-days, workshops and seminars.The community aims assist young developers to the use of GIS technologies and it very oftens uses open data from data.gov.cy to present the use of QGIS.";;;
+;4.3c Environmental impact;;;;;;;;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.
+";yes;"The latest Cyprus Open Data Impact Study has found that:
+(a) 82% of organisations and companies that took part in the study stated that open data have a possitive impact on the citizens' awareness about air and water quality
+(b) 78% of organisations and companies that took part in the study stated that open data have a possitive impact on citizen's awareness about the various forms of pollution
+(c) 68% of organisations and companies that took part in the study stated that open data have a possitive impact on the promotion of environment friendly transport
+(d) 64% of organisations and companies that took part in the study stated that open data have a possitive on the management of waste
+(e) 66% of organisations and companies that took part in the study stated that open data have a possitive impact on the use of renewable energy
+
+https://bit.ly/3QjyTOM (see chapter 7)";Change;Yes;"The latest Cyprus Open Data Impact Study has found that:
+(a) 82% of organisations and companies that took part in the study stated that open data have a possitive impact on the citizens' awareness about air and water quality
+(b) 78% of organisations and companies that took part in the study stated that open data have a possitive impact on citizen's awareness about the various forms of pollution
+(c) 68% of organisations and companies that took part in the study stated that open data have a possitive impact on the promotion of environment friendly transport
+(d) 64% of organisations and companies that took part in the study stated that open data have a possitive on the management of waste
+(e) 66% of organisations and companies that took part in the study stated that open data have a possitive impact on the use of renewable energy
+
+(see chapter 7)
+URL: https://www.data.gov.cy/sites/default/files/PAPD_Impact%20Study%20(GR)_v.4_FINAL.pdf";;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Air Quality Cyprus App
+(1) UseCase URL: https://www.airquality.dli.mlsi.gov.cy/
+(2) Open Dataset URL: https://www.data.gov.cy/el/dataset/trehoyses-metriseis-atmosfairikon-rypon-api
+(3) Air Quality Cyprus App is an app that uses data to inform the public regarding the quality of air. Quality of air is measured by the amount of dust and dust particles that exist, at any given time, in the atmosphere. The app is widely used by the public, especially during the spring months where harmful high dust concentrations in the atmosphere are common. The app notifies the user about the air quality in his area and is particurly useful for people with respiratory problems and those that work outdoors. The app has 10k+ downloads and has contruted to the raising of awareness about the health issues associated with bad air quality.";;;
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"CY Charge App
+(1) Reuse Case URL: https://play.google.com/store/apps/details?id=greenbits.evcy&hl=en&gl=US
+(2) https://www.data.gov.cy/el/dataset/stathmoi-fortisis-ilektrikon-aytokiniton-e-charging
+(3) CY Charge App is a mobile app that provides information about e-car charging locations and provides navifation to the closest charging station.";;;
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Flooding Danger Web App
+(1) Reuse Case URL: https://wdd.maps.arcgis.com/apps/webappviewer/index.html?id=479ed86d25ed4e0aaa58875111e3397f
+(2) Open Dataset URL: https://www.data.gov.cy/el/dataset/hartes-epikindynotitas-plimmyras-kai-hartes-kindynon-plimmyras
+(3) Flooding Danger Web App is a web based application that offers information about the danger of flooding in the users area of living.";;;
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"Electromaps Cy App
+(1) Reuse Case URL: https://apps.apple.com/us/app/electromaps-charging-stations/id606186464
+(2) Open Dataset URL: https://www.data.gov.cy/el/dataset/stathmoi-fortisis-ilektrikon-aytokiniton-e-charging
+(3) Electromaps Cy app is a mobile phone application aimed to promote, among others, the use of electric cars. The application offers a navication map to the nearest e-charging point.";;;
+;4.3d Economic impact;;;;;;;;
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";yes;"The latest Cyprus Open Data Impact Study has found that:
+(a) the total size of the open data market in Cyprus is estimated at 1.19% of GDP
+(b) the direct size of the open data market in Cyprus is estimated at 0.44% of GDP
+(c) in 2020 there were 362 jobs directly related to open data
+(d) 15% of the organisations/companies that participated in the study (N = 80) stated that todate they have created at least one open data related position
+(e) 11% of the organisations/companies that participated in the study stated that expect to create at least one new open data related position in the near future
+(g) 45%  of the organisations/companies that participated in the study stated that the availability of open data affects their turnover
+(h) 33% of participants (N = 80) estimate that up to 1% -20% of their turnover is directly related to the reuse of open data, while 30% indicates that their respective share of turnover is indirectly related to the reuse of open data.
+
+
+
+https://bit.ly/3QjyTOM (see chapter 4)
+";Change;Yes;"The latest Cyprus Open Data Impact Study has found that:
+(a) the total size of the open data market in Cyprus is estimated at 1.19% of GDP
+(b) the direct size of the open data market in Cyprus is estimated at 0.44% of GDP
+(c) in 2020 there were 362 jobs directly related to open data
+(d) 15% of the organisations/companies that participated in the study (N = 80) stated that todate they have created at least one open data related position
+(e) 11% of the organisations/companies that participated in the study stated that expect to create at least one new open data related position in the near future
+(g) 45%  of the organisations/companies that participated in the study stated that the availability of open data affects their turnover
+(h) 33% of participants (N = 80) estimate that up to 1% -20% of their turnover is directly related to the reuse of open data, while 30% indicates that their respective share of turnover is indirectly related to the reuse of open data.
+
+(see chapter 4)
+URL: https://www.data.gov.cy/sites/default/files/PAPD_Impact%20Study%20(GR)_v.4_FINAL.pdf
+";;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The latest Cyprus Open Data Impact Study has found that, in 2020 there were 362 jobs directly related to open data. A 15% of the organisations/companies that participated in the study (N = 80) stated that todate they have created at least one open data related position. A 11% of the organisations/companies that participated in the study stated that expect to create at least one new open data related position in the near future
+Open Data Impact Study URL: https://www.data.gov.cy/sites/default/files/PAPD_Impact%20Study%20(GR)_v.4_FINAL.pdf
+
+Leginet
+(1) Reuse Case URL: http://www.leginet.eu/index.php?lang=en
+(2) Open Dataset URL: https://www.data.gov.cy/el/dataset/mitroo-eggegrammenon-etaireion-emporikon-eponymion-kai-synetairismon-stin-kypro
+(3) Leginet is a local company which offers online access and searches to Cypriot and international sources of law. It utilises government open data (legislation, court decisions, company registry data) which are organised in a number of searchable online databases. Leginet is widely used by PSBs when dealing with legal issues or need to search for court decisions. ";;;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The latest Cyprus Open Data Impact Study has found that open data has an exceptionally positive impact on the promotion of reseach, innovation and growth. Further, the study indicates that 71% of the organisations/companies that participated inthe study believe that open data enable and support innovation and research.
+Open Data Impact Study URL: https://www.data.gov.cy/sites/default/files/PAPD_Impact%20Study%20(GR)_v.4_FINAL.pdf
+
+SmartGrid
+(1) Reuse Case URL: https://www.data.gov.cy/sites/default/files/SMART%20GRID%20-%CE%91%CE%97%CE%9A.pdf
+(2) Open Dataset URL: https://www.data.gov.cy/el/dataset/diktya-metaforon-inspire
+(3) Smart Grid is a research collaboration between the research center of the University of Cyprus and the Cyprus Electricity Authority (EAC), aims to transformation of the existing energy network into a smart grid, with small-scale pilot application. For this purpose, the Geographic Information Systems (GIS) have been used as a decision tool on how to use it existing network for interconnecting the systems of a smart network.The methodological approach of the research is divided into the following sections: (a) Collection data regarding the existing network and featuresfrom the EAC, but also open data from geo-portal ""INSPIRE"" for the creation of a cartographic background, (b) Development of the methodology in a GIS environment, data reliability testing and application of algorithms for network connection and (c) Extraction of optimal results on interconnection routes of ground substations and creation thematic maps.";;;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The latest Cyprus Open Data Impact Study has found that open data has an exceptionally positive impact on the promotion of reseach, innovation and growth. Further, the study indicates that 44% of the organisations/companies that participated inthe study believe that open data has a positive impact on the level of entrepreneurship and start-ups.
+
+Open Data Impact Study URL: https://www.data.gov.cy/sites/default/files/PAPD_Impact%20Study%20(GR)_v.4_FINAL.pdf
+
+Politica
+(1) Reuse Case URL: https://politica.io/
+(2) Open Dataset URL: https://www.data.gov.cy/el/dataset/episima-apotelesmata-proedrikon-eklogon-2023-gyros
+(3) Politica.io: is an innovative political analysis tool and interactive application developed by a Cyprus based start-up using open data. The application is tailored for Web, Mobile and TV and utilised open data from the Lands Surveys Department and the Elections Service to enable graphic visualisation of election results. Politica used open data and added value to it by either creating visualisations or tools that easily provide a better understanding to the everyday people. Also, it promotes  transparency of government decsions ,legislative framework and election resullts.";;;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain. ";new question;new question;Change;Yes;"The latest Cyprus Open Data Impact Study has found that open data has an exceptionally positive impact on the productivity of the public sector. Further, the study indicates that 53% of organizations/companies that participated in the research consider that the availability of open data for further use has contributed to the reduction of the operating costs of the public sector. Also, 51% of organizations/enterprises reported a significant or very significant impact on reducing public sector operating costs
+Open Data Impact Study URL: https://www.data.gov.cy/sites/default/files/PAPD_Impact%20Study%20(GR)_v.4_FINAL.pdf
+
+(1) Reuse Case URL:
+(2) Open Dataset URL: https://www.data.gov.cy/el/dataset/etisies-statistikes-paragogikotitas-ergasias
+(3) Annual Labor Productivity Statistics by Productivity Centre (Public Body). Is a collection of statistical data concerning labor productivity in Cyprus. The data are on an annual basis and refer to the period 1995 and onwards. The collection includes the following Tables:
+(a) Size index by sector of economic activity NACE Rev.2
+(b) Percentage change in size index by NACE Rev.2 economic activity
+(c) Average annual change in employment and labor productivity by economic activity sector
+(d) Productivity statistics by year and by economic activity NACE Rev.2";;;

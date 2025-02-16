@@ -1,0 +1,672 @@
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;Yes. Transposition of Open Data Directive (2003, 2019)  is ensured via Law on Free Access to Information (FOA). Transposition of DIRECTIVE (EU) 2019/1024  of 20 June 2019 on open data and the re-use of public sector information is effective from 1st August 2022.;Confirm;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"Yes, there is still valid Strategic Priority of Open Data that is part of the National Strategy of the informatization of the public administration 2016:
+https://www.mirri.gov.sk/wp-content/uploads/2018/10/SP_Otvorene_udaje_schvalena-2.pdf
+The aim is to:
+* incerasing the number of open datasets
+* supporting use of open data
+* increasing the open data quality (both in """"stars"""" convenience - 5stars.org and real data quality)
+*supporting data economy
+o Orientation towards better life quality services
+o Orientation towards increasing competitiveness
+o Bringing public administration closer to maximizing data usage
+o Enable the modernization and rationalization of public administration through  ICT technologies (constantly improvement of services with the use of modern technologies) Additionally, there are other opendata policies that are complementary: 1) National strategy of informatization of the public administration 2021, update of 2016 strategy https://www.mirri.gov.sk/wp-content/uploads/2021/12/Narodna-koncepcia-informatizacie-verejnej-spravy-2021.pdf  2) Open Government Partnership National Action Plan of the Slovak Republic 2020-2021 https://www.opengovpartnership.org/documents/slovakia-action-plan-2019-2021/ 3) OGP National Action Plan of the Slovak Republic 2022-2024  https://www.opengovpartnership.org/documents/slovak-republic-action-plan-2022-2024/";Change;Yes;"Yes, there is still valid Strategic Priority of Open Data that is part of the National Strategy of the informatization of the public administration 2016:
+https://www.mirri.gov.sk/wp-content/uploads/2018/10/SP_Otvorene_udaje_schvalena-2.pdf
+The aim is to:
+* incerasing the number of open datasets
+* supporting use of open data
+* increasing the open data quality (both in """"stars"""" convenience - 5stars.org and real data quality)
+*supporting data economy
+o Orientation towards better life quality services
+o Orientation towards increasing competitiveness
+o Bringing public administration closer to maximizing data usage
+o Enable the modernization and rationalization of public administration through  ICT technologies (constantly improvement of services with the use of modern technologies) Additionally, there are other opendata policies that are complementary: 1) National strategy of informatization of the public administration 2021, update of 2016 strategy https://www.mirri.gov.sk/wp-content/uploads/2021/12/Narodna-koncepcia-informatizacie-verejnej-spravy-2021.pdf  2) Open Government Partnership National Action Plan of the Slovak Republic 2022-2024 https://www.opengovpartnership.org/documents/slovak-republic-action-plan-2022-2024/ 3) open Government Partnership National Action Plan of the Slovak Republic 2024-2026  https://www.minv.sk/swift_data/source/rozvoj_obcianskej_spolocnosti/otvorene_vladnutie/2023/AP%20OGP%202024-26_web.pdf"
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;Yes, a few municipalities and self-governing region have their own (open) data policies, e.g. 1) City of Bratislava https://opendata.bratislava.sk/page/data (Directive of Data policy) 2) Self-governing region of Banská Bystrica *https://www.bbsk.sk/datova-politika-ubbsk (Strategy, Standards of dataset creation, Directive of data policy) Additionally, there are other municipalities and self-governing regions that publish open data at their portals/websites *incorrect link replaced;Confirm;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;Yes. National strategy of the informatization of the public administration 2021 defines these measures in area of open data:1) To transpose into legislative framework PSI Directive 2019, 2) To ensure that public bodies will be publish information primary as open data, in open formats and register them at data.gov.sk, 3) To publish HVD via API, 4) To provide methological, technical, educational support to public bodies and make available re-usable technical solutions that will help publish data, 5) To support accessibility of research data by  FAIR principle incorporated into national measures, 6) To implement methodologies, tools, standards, principles measured within ODMI, etc. https://www.mirri.gov.sk/wp-content/uploads/2021/12/Narodna-koncepcia-informatizacie-verejnej-spravy-2021.pdf (p. 56). As mentioned above, MIRRI is currently working on the Action plan of National strategy of the informatization of the public administration with detailed description of goals, milestones, measures. Additionally, working paper Strategic priortity Management of Data is in the process too - this document will update previous Strategic priority Open Data from 2017 that is still valid.;Confirm;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;Yes, based on the transposition of Open Data Directive 2019 into Law on Free Access to the information public sector bodies are obliged to make the dynamic data available for the purposes of their re-use right  after their creation, via API, if appropriate, through their download in a bulk. https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2000/211/ § 21g (3);Confirm;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Change;Yes;"National strategy for open science 2021-2028 has one of strategic areas Suport of using existing open IT tools and open data, Task 6.3: Popularization and use of open open data in
+research institutions and open science. (https://www.minedu.sk/data/files/10833_narodna-strategia-pre-otvorenu-vedu-na-roky-2021--2028.pdf)"
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";yes;Yes, by implementing DCAT-AP and increasement of metadata quality. ;Confirm;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"Indirectly via implementing policy of Reference Registries (e.g. Register of adressess, Register of physical persons, Register of legal entities, etc.) that are considered as sources of ""ulttimate truth"" and are integrated into IT systems of responsible bodies to provide government services to the citizens in accordance with ""one time, last time"" principle. Also, multiple open calls ""Data Management of public administration"" support activities aiming to develop use cases on open data by governmental or public administration organization https://www.mirri.gov.sk/projekty/projekty-esif/operacny-program-integrovana-infrastruktura/prioritna-os-7-informacna-spolocnost/vyzvania-a-vyzvy/vyzva-c-opii-2021-7-15-dop/index.html";Confirm;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"Yes, one of the main goal of the Strategic priority of open data  is to release the economic potential of open government data. It expects establishment of a strong open data industry in IT technologies, e.g. data analyses, innovative startups. https://www.mirri.gov.sk/wp-content/uploads/2018/10/SP_Otvorene_udaje_schvalena-2.pdf Measures are e.g.  focus on publishing the most requested datasets by public, ideally via API, to support re-use of open data in commercial/noncommercial solutions, to increase quality of open data, publication of open data via API, accessibility of open data in english language. Additionally, since 2020, Governmental organization and public administration has an access to financial resources within Operational Program Integrated Infrastructure that provides founding for individual IT projects that aim to accomplish strategic goals of the government in the IT segment. Multiple open calls ""Data Management of public administration"" aim to support accessibility of open data , ***HVD, the most requested datasets by public*** that are considered as datasets with high potential to be re-used. https://www.mirri.gov.sk/projekty/projekty-esif/operacny-program-integrovana-infrastruktura/prioritna-os-7-informacna-spolocnost/vyzvania-a-vyzvy/vyzva-c-opii-2021-7-15-dop/index.html";Confirm;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;"Yes, Obligation to create, maintance and publish data inventory is based on the Resolution of the Slovak government no. 347/2017, more information available here https://datalab.digital/verejna-sprava/otvorene-udaje-verejnej-spravy/informacia-k-plneniu-ulohy-b18/ ; htps://www.slovensko.sk/_img/CMS4/strategia_otvorene_udaje.pdf Responsible bodies are organization of the central government.";Confirm;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;"Data inventory has to contain also records on datasets that cannot be published with the reason why (e.g. Privacy and personal data protection, Commercial confidentiality; 
+Statistical confidentiality; National security, defence, and public security; Intellectual property. ) Data Unit at MIRRI has created a model structure of data inventory and published it online https://datalab.digital/wp-content/uploads/Inventar_otvorenych_udajov.ods with additional description https://datalab.digital/verejna-sprava/otvorene-udaje-verejnej-spravy/informacia-k-plneniu-ulohy-b18/  Methodology for data inventories https://www.mirri.gov.sk/wp-content/uploads/2018/10/Dodatok-c.-1-k-Metodickemu-pokynu-k-Vynosu-o-standardoch-552014-ilovepdf-compressed.pdf";Confirm;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;"We prepared DCAT_AP_SK standard which is in accordance with DCAT_HVD. 
+https://htmlpreview.github.io/?https://github.com/slovak-egov/centralny-model-udajov/blob/develop/tbox/national/dcat-ap-sk/index.html 
+Our central portal data.slovensko.sk use SparqlEndPoint for harvesting  a local portal. We provide information regarding HVD datasets on our methology portal. https://wiki.vicepremier.gov.sk/display/opendata/7.+HVD+-+Datasety+s+vysokou+hodnotou"
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;National portal has a funkcionality to denote a HVD datasets.
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;yes, Data unit at Ministry of investments, regional development and infomatization of Slovak republic holds regural working group https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101824241 Members of working group are national open data team, data stewards or officers from public offices (including local self governments) and experts (including NGO). Memebers are not officially appointed but rather added to mailing list.  All working groups meetings are online and recordings are published on Youtube. It is not determined how often should meetings occur, typically there are at least 3 meetings per year. Agenda is set by the national open data team. This working group also provides feedback to important documents (methodologies, analyses, call for proposals)
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;There are inititives from providers, local municipalities, NGOs and also from national open data team.;Confirm;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;Local data stewards and officers are members of working group mentioned in P13. They can create local catalogs, which can be harvested on national open data portal (https://data.slovensko.sk/lokalne-katalogy). They can also use funds from Data Management proposals for financing their open data publication (https://mirri.gov.sk/projekty/projekty-esif/operacny-program-integrovana-infrastruktura/prioritna-os-7-informacna-spolocnost/vyzvania-a-vyzvy/vyzva-c-opii-2021-7-15-dop/). We also help them with our Publication Minimum initiative (set of recommended datasets which they can publish with defined structures) https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=67152323. They can also use fast grants (Recovery plan) to organize hackathons  (https://www.planobnovy.sk/aktuality/mirri-zverejnilo-novu-vyzvu-na-hackathony/).
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";Approximately half of the public bodies;"Following self-governing regions and municipalities are providing open data: 
+Bratislava,https://opendata.bratislava.sk/ 
+Prešovský samosprávny kraj,https://www.po-kraj.sk/sk/open-data/; https://geopresovregion.sk/
+Košický samosprávny kraj,https://www.geoportalksk.sk/
+Prešov,https://egov.presov.sk/
+Žilina,https://egov.zilina.sk/ 
+Košice,https://opendata.kosice.sk/ 
+Malacky,https://egov.malacky.sk/
+Hlohovec,https://egov.hlohovec.sk/ 
+Trnava,https://egov.trnava.sk/ 
+Skalica,https://klient.skalica.sk/
+Nitra,https://klient.nitra.sk/
+Banská Bystrica,https://egov.banskabystrica.sk/ 
+Trenčín,https://trencin.sk/samosprava/transparentny-trencin/opendata-trencin/ 
+Humenné,https://egov.humenne.sk
+Jaslovské Bohunice,https://smart.jaslovske-bohunice.sk/ 
+Levice,https://egov.levice.sk/ 
+Modra,https://egov.modra.sk/ 
+Martin,https://egov.martin.sk/
+Rožňava,https://egov.roznava.sk/
+Pezinok,https://egov.pezinok.sk/ 
+Kežmarok,https://egov.kezmarok.sk/ 
+Bratislavský samosprávny kraj,https://bratislavskykraj.sk/opendata/
+Poprad,https://egov.poprad.sk/
+Nitriansky samosprávny kraj,https://data.gov.sk/en/organization/1019b3a2-3a12-4b4e-9f5d-46df67a0080d There are approx. 3000 regional public bodies in Slovakia (vast majority are small villages) From cities, approx. half of public bodies publish open data: https://www.alvaria.sk/hodnotenie-mestskych-otvorenych-dat/";Change;Approximately half of the public bodies;"Following self-governing regions and municipalities are providing open data: 
+Bratislava,https://opendata.bratislava.sk/ 
+Prešovský samosprávny kraj,https://www.po-kraj.sk/sk/open-data/; https://geopresovregion.sk/
+Košický samosprávny kraj,https://www.geoportalksk.sk/
+Prešov,https://egov.presov.sk/
+Žilina,https://egov.zilina.sk/ 
+Košice,https://opendata.kosice.sk/ 
+Malacky,https://egov.malacky.sk/
+Hlohovec,https://egov.hlohovec.sk/ 
+Trnava,https://egov.trnava.sk/ 
+Skalica,https://klient.skalica.sk/
+Nitra,https://klient.nitra.sk/
+Banská Bystrica,https://egov.banskabystrica.sk/ 
+Trenčín,https://trencin.sk/samosprava/transparentny-trencin/opendata-trencin/ 
+Humenné,https://egov.humenne.sk
+Jaslovské Bohunice,https://smart.jaslovske-bohunice.sk/ 
+Levice,https://egov.levice.sk/ 
+Modra,https://egov.modra.sk/ 
+Martin,https://egov.martin.sk/
+Rožňava,https://egov.roznava.sk/
+Pezinok,https://egov.pezinok.sk/ 
+Kežmarok,https://egov.kezmarok.sk/ 
+Bratislavský samosprávny kraj,https://bratislavskykraj.sk/opendata/
+Poprad,https://egov.poprad.sk/
+Nitriansky samosprávny kraj,https://data.gov.sk/en/organization/1019b3a2-3a12-4b4e-9f5d-46df67a0080d There are approx. 3000 regional public bodies in Slovakia (vast majority are small villages) From cities, approx. half of public bodies publish open data: https://www.alvaria.sk/hodnotenie-mestskych-otvorenych-dat/"
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";yes;https://datalab.digital/legislativa/pravna-uprava-postavenia-datoveho-kuratora/;Confirm;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Responsible for maintaing the national portal is National Agency for Net an Electronic Services (NASES) which participates on Better data - Open Data working group meetins. There is also cooperation connected to building new national open data portal which should be launched by the end of 2023. https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=82019424;Change;Yes;Since January 2024, national open data team (MIRRI) is responsible for maintaining and development of national open data portal. This may change in the future.
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;Resolution of the Government of the Slovak republic no. 346/2017 defined obligation for the ministries to appoint the position of Data stewards (curator) in organizations. Actual list of data stewards is available at data.gov.sk as open data https://data.gov.sk/dataset/datovi-kuratori-2022-11-02 . Within mentioned Resolution, recommended job description for data stewards has been introduced and its publicly available here https://datalab.digital/dq/datovi-kuratori/  Additionally, data Unit is currently working on the Act on data that defines (updates, extent) role and obligations of Data stewards. Draft of Act on data is still in legislation process. Data stewards are met on a regular bases within dedicated working group and are in touch with open data team to resolve ad hoc issues. https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101824241 They keep track of the obligations in area of open data and are guided how to accomplished them.;Change;Yes;Resolution of the Government of the Slovak republic no. 346/2017 defined obligation for the ministries to appoint the position of Data stewards (curator) in organizations. Actual list of data stewards is available at data.gov.sk as open data https://data.gov.sk/dataset/datovi-kuratori-2022-11-02 . Within mentioned Resolution, recommended job description for data stewards has been introduced and its publicly available here https://datalab.digital/dq/datovi-kuratori/  Additionally Data stewards are met on a regular bases within dedicated working group and are in touch with open data team to resolve ad hoc issues. https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101824241 They keep track of the obligations in area of open data and are guided how to accomplished them.
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Data stewards are met with open data team and the chief data officier on a regular bases within dedicated working group ""Open Data Stewards"" and are in touch with open data team to resolve ad hoc issues. Records from the working groups here https://www.youtube.com/watch?v=ZEWAidS9d98&list=PL-gI2XViBFbme-xS0l4HmCWkGi9mrEbvP";Confirm;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Yes, there are few mixed working groups dedicated to regular knowledge exchange: Official - Better Data, Municipalities; Unofficial - Open data, Data Stewards. In general, there are even more working groups at MIRRI in IT segment. ";Change;Yes;In October and November 2023, national open data team distributed questionairre on open data impact and use to reusers - NGO,academia, businesses. Their answers are used in Open Data impact report (2024).
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;Resolution of the Government of the Slovak republic no. 346/2017 defined obligation for the ministries to create their open data publication plans https://www.slovensko.sk/_img/CMS4/strategia_otvorene_udaje.pdf (see p. 48, 17-19);Confirm;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;Regular monitoring via working groups. Some of the open data policies/strategies set up KPIs to enable monitoring (e.g. Strategic priority of Open data);Confirm;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;yes, there are updates every few years, 2016, 2021, ...    On the basis of § 9 par. 1 letter a) Act 95/2019 on information technologies in public administration is the Ministry of investments, reg. development and informatization obligate to update and submit National Strategy of the informatization of the public administration to Government of Slovakia. The material is commented by professional working groups and in the interdepartmental comment procedure. Inputs to the strategy are generated by state administration bodies, local governments, the third sector, and an important input are planned international strategies and projects.
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;According to Freedom of Information Act (https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2000/211/ § 21) all information shall be available free of charge, only marginal cost can be charged (such as cost of copying, cost of technical mediums or postal costs). Every public body shall have its own directive on providing information according to act and on charged fees. (f.e. Ministry of Finance - https://www.mfsr.sk/sk/verejnost/informacny-servis/poskytovanie-informacii/smernica-zabezpeceni-slobodneho-pristupu-k-informaciam-podmienkach-mf-sr/, https://www.mfsr.sk/sk/verejnost/informacny-servis/poskytovanie-informacii/sadzobnik-spravnych-poplatkov/, marginal cost are not charged if less than 6,64 EUR). If any unjustified fees are charged, these requirements can be reviewed by a court.;Confirm;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;1) The lack of human resources and capacities to publish data 2) the low level of impact (or lack of evidence on impact), 3) outdated open data portal that does not meet actual technical requirements.;Change;N/A;1) The lack of human resources and capacities to publish data 2) the low level of impact (or lack of evidence on impact), 3) low flexibility of government sector
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"1) Strategy of informatization of the public administration 2021 contains a commitment to provide methological, technical, educational support to public bodies and make available re-usable technical solutions that will help them to publish data (e.g. OSS tools); 2) National OGP Action plan 2022-23 contains commitment for MIRRI and Plenipotentiary for development of the civil society to propose methodology how to measure and map impact of releasing/re-using open data on different segment of society (economy, political environment, inclusion of marginalized groups, environment, etc.) and to provide pilot impact mapping/measuring This activities already strarted in late 2022, there are workshops with data experts and data stewards on different topics connected with open data impact. https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101829238  3) MIRRI is currenly implemention national IT project financed by ESIF called ""Open Data 2.0"" with the aim to develop new open data portal that fullfil actual technical requirements (DCAT-AP, automatized measuring of metadata quality, interactiv tools for users, metadata validation, harvesting, etc.)";Complement;Yes;"1) Strategy of informatization of the public administration 2021 contains a commitment to provide methological, technical, educational support to public bodies and make available re-usable technical solutions that will help them to publish data (e.g. OSS tools); 2) We created Impact methodlogy, Open Data impact report, we communicate with reusers, national portal contains new tools to share application, give request, comment and like datasets 3) This is very hard to change, it requires new generation of public service"
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;trainings (https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101822636, last training was focused on interoperability - knowledge graphs, semantic interoperability), working groups (P13), methodology portal (https://wiki.vicepremier.gov.sk/display/opendata), individual meetings with open data stewards and officers, there are mainly focused on quality of published datasets (https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101838399, last meeting was with Ministry of Economy)
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;There is series of trainings for public servants available on Youtube: https://www.youtube.com/@datovakancelaria7258 Last trainings are: How use SPARQL endpoint, Publishing minimum for central government bodies, Data quality, Training for administrators of national open data portal. Some of the trainings are in the process: https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101822636;Change;Yes;There is series of trainings for public servants available on Youtube: https://www.youtube.com/@datovakancelaria7258 Since May 2023, there was 7 trainings organized.
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, 6-9;MIRRI organized 2 hackathons focused on Senior citizens and Fight against disinformation: https://www.hacknime.to/ City of Košice organized 3 hackathons focused on Help for ukrainian refugees, Improving quality of life and Mobility&Housing https://kosice2.sk/novinky/category/hackathony/ DEKK Institute organized hackathon focused on citizens values: https://dekk.sk/sk/hackathon/ Conference Open Data in Czechoslovakia: https://www.youtube.com/watch?v=OKtEoR1vg_4;Change;Yes, >9;Trnava self governing region organised training for its around 300 employees, Ministry of environment organised 1 conference (https://inspire.gov.sk/podujatia/historia#Konferencie)  a 1 workshop (https://inspire.gov.sk/podujatia/historia#Workshopy), City of Prešov with MIRRI organised Digital twin hackathon (https://www.hacknime.to/digitalne-dvojca-mesta-presov/), Košice self governing region organised conference EastGIS (https://www.geoportalksk.sk/home/konferencia-eastgis-2023-potencial-vyuzitia-gis-pre-regionalny-rozvoj/), The Office of the Plenipotentiary for the Development of the Civil Society with MIRRI organized workshop collecting reuqests for open data (https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=134160141) NGO Alvaria organized 12 workshop for high school students on open data and visualisation (https://www.alvaria.sk/realizovali-sme-projekt-spoznaj-otvorene-data-urceny-pre-stredne-skoly/)
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;data.gov.sk;Change;Yes;yes, data.slovensko.sk
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;N/A;DCAT, SPARQL, Linked Pipes
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;https://data.slovensko.sk/api/sparql?query= API is provided via SPARQL request, no additional API is available.
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;yes, data.slovensko.sk/sparql
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;Technical support on the main page, https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=155320435
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;Technical support on the main page, https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=155320433
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.";new question;new question;Change;Yes;Any organization with eID can register on national open data portal as publisher. This includes NGOs, companies, universities, etc. There are 2 ways of registration new publisher - statutary officer can registrate new publisher via simple form or administrators of national open data portal. Users can be invited by administrator of publisher or administrators of national open data portal. Users need eID to login into portal.
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;After login, user can like or subscribe dataset. https://data.gov.sk/dataset/register-adries-register-budov - subscribed by 2 users* *updated;Change;Yes;Technical support on the main page, e-mail contact opendata@mirri.gov.sk
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;After login, datasets can be rated by stars (1 to 5).;Change;Yes;yes, comments are available for registered users, https://data.slovensko.sk/datasety/5f06473c-f69f-4ad1-ad55-34a13d96e9c6/komentare
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;After login, datasets can be rated by stars (1 to 5).;Change;Yes;yes, registered users can like dataset https://data.slovensko.sk/datasety
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no;;Change;Yes;news are available on methodology portal - activity tracking https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=67152309
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://data.gov.sk/feeds/dataset.atom;Change;Yes;no
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"""Návrh na zverejnenie údajov na Portáli otvorených dát"" on main page https://schranka.slovensko.sk/FormConstructor/Default.aspx?IdService=214550 - available for logged users* *updated";Change;Yes;https://data.slovensko.sk/podnet
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://open.slovensko.sk/DataRequest/Search;Change;Yes;"https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=146573741 - this was ""old"" list of requests, requests have been moved to second link - https://data.slovensko.sk/podnet"
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;"https://open.slovensko.sk/DataRequest/Search Requests are marked as ""accomplished"" = ""vybavené""";Change;Yes;yes, it is evaluated in Open Data impact report https://wiki.vicepremier.gov.sk/download/attachments/155321117/report_2024.docx?version=2&modificationDate=1717071179307&api=v2 page 15
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;There is posibility of discusion and comments on methodology portal https://wiki.vicepremier.gov.sk/display/opendata.;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://data.gov.sk/apps;Change;Yes;https://data.slovensko.sk/aplikacia
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;https://data.gov.sk/apps/detail?id=fd09f98e-fa78-4d59-938b-cd9c3236af72;Change;Yes;"https://data.slovensko.sk/aplikacia/9e6007ea-bcec-474a-be3c-9bfd265f0f15 ""Používaný dataset"""
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;"""Žiadosť o registráciu aplikácie na Portáli otvorených dát"" on main page https://data.gov.sk/apps/new - available for logged users* *updated";Change;Yes;yes, registered users can submit reuse cases 
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://data.gov.sk/dataset/datovi-kuratori-2022-05-26/resource/85668835-a752-46e9-b594-a160c910ea7f;Change;No;no
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";no;;Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;HVD datasets are easy to find with filtering dataset type: Dataset s vysokou hodnotou (HVD)
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;Google Analytics and Bash script;Change;Yes;Google Analytics until 2024, then Matomo
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";no ;N/A;Change;Yes;National open data portal does not run analytics on API usage, but open data portals of other public bodies does. https://opendata.financnasprava.sk/opendata/category/170-statistiky-opendatafs (Financial Administration) We use this data in 1st report on Open Data Impact (https://wiki.vicepremier.gov.sk/download/attachments/155321117/report_2024_final.pdf?version=1&modificationDate=1721392976577&api=v2, page 9,10)
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;Methodology for measure of open data impact and reuse is in draft version, to be complete in June 2023. Methodology implement several activities which will take place in late 2023, including interviews with online form for portal users. Activities include: analysis of web analytics, surveys (for data stewards, data users, one survey for companies, NGO and academia focused on impact). Survey for data users will ask on users satisfaction with portal and data quality. Methodology implements metrics for user requests satisfaction (on quality of data request or to publish new data request) and if most requested data (discovered by separate survey - Q38) are published.* *updated;Change;Yes;Questionairre for selected academia, NGOs and companies as part of Open Data impact report. There was question what might help them when working with open data.
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;Annual report on portals usage is published by the Office of the Government Plenipotentiary for development of the civil society https://www.minv.sk/?ros_vsetky-spravy&sprava=na-pripomienkovanie-analyza-zverejnenych-datasetov-ustrednych-organov-statnej-spravy-za-rok-2023 It adresses the main issues of portal and recommendations from external point of view. This report is released anually.
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;Trainings (https://www.youtube.com/@datovakancelaria7258), publishing information, activity on Facebook in users group OpenData.sk (https://www.facebook.com/groups/180824635305518/)
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;no
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;via Matomo nad Google analytics 1)https://data.slovensko.sk/datasety/db1e7bd7-a7d4-4eac-8e5e-0c843b9dc7d5 2)https://data.slovensko.sk/datasety/c0e92f70-8afb-4f0a-a967-7956436b0548 3)https://data.slovensko.sk/datasety/d20ddbd5-7dcc-4a30-a540-9514a39fb541 4)https://data.slovensko.sk/datasety/fadf4738-4fb2-93ab-c6d6-34514a2c8a7d 5) https://data.slovensko.sk/datasety/bfdb5659-887e-4123-9c7f-593fd6dc76ae We work with this data when solving issues, if some dataset is widely used, then is it our priority.
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;New portal is being build based on best practices of advanced portals (UK, CZ, DE). We used range of requirments for new portal including seo and search keywords optimalisation. https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-dokumentov/detail/3260979?cHash=907a90e49c7380749c54dd06ab52bb6f;Change;Yes;New portal was build based on best practices of advanced portals (UK, CZ, DE). We used range of requirments for new portal including seo and search keywords optimalisation. https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-dokumentov/detail/3260979?cHash=907a90e49c7380749c54dd06ab52bb6f
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;For humans, there is page with metadata for each dataset https://data.gov.sk/dataset/objednavky-tovarov-a-sluzieb-ruvz-svidnik/resource/e498fb89-a096-4795-bf03-2a027ce0a762 For machines there is SPARQL Endpoint: https://opendata.mirri.tech/;Change;Yes;For humans, there is page with metadata for each dataset https://data.slovensko.sk/datasety/6949993a-1216-414d-a6ba-432c1b9afa28 For machines there is SPARQL Endpoint: data.slovensko.sk/sparql
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;There are 95 data providers on portal which are mainly public bodies on national level. Regional providers are not required to publish open data, it is only optional. Around 30 regional bodies publishes open data. Harvesting this data on national open data is still problem, national open data team is working on technical solutions to help harvest all regional dataset on national portal.;Change;The majority of public sector data providers;There are 117 data providers on portal which are mainly public bodies on national level. All important public bodies on national level publishes data on national portal. About half of 100 biggest municipalities publish open data, hovewer not all local portals are yet harvested on national open data portal.
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;Publication minimum - set of recommended datasets for data providers to publish, there are also recommended data structures https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=67152323;Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;"Bratislava,https://opendata.bratislava.sk/ 
+Prešovský samosprávny kraj,https://www.po-kraj.sk/sk/open-data/; https://geopresovregion.sk/
+Košický samosprávny kraj,https://www.geoportalksk.sk/
+Prešov,https://egov.presov.sk/
+Žilina,https://egov.zilina.sk/ 
+Košice,https://opendata.kosice.sk/ 
+Malacky,https://egov.malacky.sk/
+Hlohovec,https://egov.hlohovec.sk/ 
+Trnava,https://egov.trnava.sk/ 
+Skalica,https://klient.skalica.sk/
+Nitra,https://klient.nitra.sk/
+Banská Bystrica,https://egov.banskabystrica.sk/ 
+Trenčín,https://trencin.sk/samosprava/transparentny-trencin/opendata-trencin/ 
+Humenné,https://egov.humenne.sk
+Jaslovské Bohunice,https://smart.jaslovske-bohunice.sk/ 
+Levice,https://egov.levice.sk/ 
+Modra,https://egov.modra.sk/ 
+Martin,https://egov.martin.sk/
+Rožňava,https://egov.roznava.sk/
+Pezinok,https://egov.pezinok.sk/ 
+Kežmarok,https://egov.kezmarok.sk/ 
+Bratislavský samosprávny kraj,https://bratislavskykraj.sk/opendata/
+Poprad,https://egov.poprad.sk/";Change;Yes;"Bratislava,https://opendata.bratislava.sk/ 
+Prešovský samosprávny kraj,https://www.po-kraj.sk/sk/open-data/; https://geopresovregion.sk/
+Košický samosprávny kraj,https://www.geoportalksk.sk/
+Prešov,https://egov.presov.sk/
+Žilina,https://egov.zilina.sk/ 
+Košice,https://opendata.kosice.sk/ 
+Malacky,https://egov.malacky.sk/
+Hlohovec,https://egov.hlohovec.sk/ 
+Trnava,https://egov.trnava.sk/ 
+Skalica,https://klient.skalica.sk/
+Nitra,https://klient.nitra.sk/
+Banská Bystrica,https://egov.banskabystrica.sk/ 
+Trenčín,https://trencin.sk/samosprava/transparentny-trencin/opendata-trencin/ 
+Humenné,https://egov.humenne.sk
+Jaslovské Bohunice,https://smart.jaslovske-bohunice.sk/ 
+Levice,https://egov.levice.sk/ 
+Modra,https://egov.modra.sk/ 
+Martin,https://egov.martin.sk/
+Rožňava,https://egov.roznava.sk/
+Pezinok,https://egov.pezinok.sk/ 
+Kežmarok,https://egov.kezmarok.sk/ 
+Bratislavský samosprávny kraj,https://bratislavskykraj.sk/opendata/
+Poprad,https://egov.poprad.sk/ Trnavský samosprávny kraj, https://opendata.trnava-vuc.sk/, Banskobystrický samosprávny kraj, https://opendata.bbsk.sk/ Skalica, https://klient.skalica.sk, Humenné, https://egov.humenne.sk, Brezno, https://egov.brezno.sk, Poprad, https://egov.poprad.sk/"
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";no;Majority is not discoverable, however new portal is built with functions for providers to easily integrate into national data portal.;Change;Yes;Yes, some of them. There are 12 local portals harvested automatically (data.slovensko.sk/lokalne-katalogy)
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";few datasets;"There are few examples such as Ministry of Finance Open data portal (https://opendata.mfsr.sk/) and The Ministry of Foreign and European Affairs (https://www.mzv.sk/sluzby/otvorene-data) which is harvested automatically. https://platforma.slovensko.digital/t/publikacny-profil-dcat-ap-sk/4570/7 Response to reviewer: ""Old"" portal was not built with the feature for automatic harevstation. New portal (should be launched by the end of the year) is built with this feature. We want to increase number of harvested portals with finanancial scheme for open data development, which will include activities such as publishing open data, creating local portals and local SPARQL endpoints.";Change;Few datasets;There are 12 local portals harvested automatically (data.slovensko.sk/lokalne-katalogy)
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;For example ITMS Open API - data on eurofunds projects https://data.gov.sk/dataset?tags=ITMS2014&q=itms and Budget Open API - data on state budget and budgets of public bodies https://data.gov.sk/dataset/priebezne-plnenie-rozpoctu https://rozpocet.sk/web/#/cms/clanok/61/SK/rozpocet-sk-dokumentacia-open-api;Change;Yes;Yes, for example ITMS 2014+ Open API - data on eurofunds projects, Rest API Registry of companies and public bodies https://data.slovensko.sk/datasety/9dfdae7f-1d0f-45ec-8cd1-38df14dc2ebe
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;Yes;"Any organization with eID can register on national open data portal as publisher. This includes NGOs, companies, universities, etc. All new publishers are reviewed by administrator of portal and can be deleted if they break laws or publish false information. https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=67152353 - support page for different providers (public sector, private sector, NGO). ""Register"" button on main page data.slovensko.sk, then click on ""slovensko.sk"" button - requires eID authentification"
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;"Data inventory of the ministries and central gov bodies are published at data.gov.sk. Data inventory has to contain also records on datasets that cannot be published with the reason why (e.g. Privacy and personal data protection, Commercial confidentiality; Statistical confidentiality; National security, defence, and public security; Intellectual property. ) The example of data inventory with reason why particular dataset cannot be publish: https://data.gov.sk/dataset/datovy-inventar-rezortu-podohospodarstva-a-rozvoja-vidieka ";Confirm;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;yes, https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=77332860
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;It does not have separate account on social media but open data team members are frequently posting in Open Data Group (https://www.facebook.com/groups/180824635305518);Confirm;;
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.";yes;"https://github.com/orgs/datova-kancelaria/repositories - ""new"" portal should be finalised by the end of 2023 ;https://github.com/nases-sk/eDemokracia-MOD - ""old"" portal";Change;Yes;https://github.com/slovak-egov/nkod-portal, data processing - https://github.com/datova-kancelaria/nkod-pipeline
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";no;We plan dashboard along with new portal launch by the end of 2023.;Change;Yes;SPARQL endpoint provides this information with predefined queries. data.slovensko.sk/sparql
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature.";yes;SPARQL endpont with predefined queries is available for providers, where they can track quality of their metadata, formats used and compare with other providers. https://opendata.mirri.tech/;Change;Yes;SPARQL endpont with predefined queries is available for providers, where they can track quality of their metadata, formats used and compare with other providers. There is also page Quality of metadata with some basic statistics data.slovensko.sk/kvalita-metadat
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;Part of the new poral ifrastructure is automated check of quality of data. This will be fully implementedy with new portal launch by the end of 2023.  SPARQL Endpoint enables data stewards to track quality of metadata by predefined or custom queries (https://opendata.mirri.tech/)* *updated;Complement;Yes;Portal has automated check of quality of metadata. Reports are made every 24 hours. Reports can be downloaded here: https://github.com/datova-kancelaria/nkod-dokumentacia/blob/main/pouz%CC%8Ci%CC%81vatel%CC%8Cska%CC%81%20pri%CC%81ruc%CC%8Cka.md#soubory-s-csv-reporty-v%C3%BDsledk%C5%AF-m%C4%9B%C5%99en%C3%AD-kvality-a-dostupnosti
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;<30%;aprox 18%.  Metadata are harvested from registered local catalogs: https://data.slovensko.sk/lokalne-katalogy. Publisher can register local catalog when logged in with eID. We support 3 types of local catalogs - SPARQL, CKAN, DCAT-AP Dokumenty. Harvesting is done every night with LinkedPipes technology (same as czech portal) - data are stored in RDF database. All metadata are harvested which are compatible with DCAT-AP-SK 2.
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;Metadata are harvested every day. 
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;We implemented dcat:temporal and data series type of dataset in our DCAT-AP. This helps providers and us to analyze metadata more efficiently and spot if some data seems to be missing. We also promote local catalogs with automated processing from providers information systems, this ensures no data is missing.
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;yes, https://htmlpreview.github.io/?https://github.com/slovak-egov/centralny-model-udajov/blob/develop/tbox/national/dcat-ap-sk/index.html#d%C3%A1tov%C3%A1-slu%C5%BEba-pr%C3%ADstupov%C3%BD-bod
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;We implemented a new standard DCAT_AP_SK which includes standard DCAT_HVD
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;Monitoring is automated and launched daily.  Acces is possible via SPARQL endpoint (in future with dashboard) with predefined queries.https://opendata.mirri.tech/;Change;Yes;There are detailed reports available (see Q1), there is also Metadata quality page which lists some of the most important reports data.slovensko.sk/kvalita-metadat
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;"Yes, via SPARQL endpoint (DCAT-AP-SK definds quality). https://opendata.mirri.tech/ Annual report is carried out on publishing datasets and quality of datasets and metadata on national open data portal. Reports are constantly improving, this year we dive deeper into metadata quality. The latest report is published here:
+https://www.minv.sk/?ros_vsetky-spravy&sprava=analyza-zverejnenych-datasetov-ustrednych-organov-statnej-spravy-za-rok-2022-dostupna-na-pripomienkovanie";Change;Yes;Metadata quality page data.slovensko.sk/kvalita-metadat
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;1) Information on data quality are available on methodology portal: https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=77338628 2) Methodology for data quality reporting: https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101838501
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;Some of the metadata are required, see DCAT-AP-SK 2.0.1 (Q19) When uploading datasets on portal directly, some of the metadata are prefilled.
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;yes, using CC BY and CC0 is highly recommended: https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101822628 When meeting with providers, we recommend using CC BY or CC0 or provider should have compelling justification for choosing another licence (see Q24, 3)
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Confirm;>90%;0,902
+Q13;How many different licences are used on your portal?;5-10;N/A;Confirm;5-10;6 licences
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;"We organized training and working groups and we provide a methology portal with information regarding HVD.
+https://wiki.vicepremier.gov.sk/display/opendata/7.+HVD+-+Datasety+s+vysokou+hodnotou
+https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=155322398
+https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=155320440"
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;yes, national portal follows DCAT-AP, we use our national extension DCAT-AP-SK 2.0.1. which is regularly updated (there is 3.0 version in final development)
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);>90%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;https://datova-kancelaria.github.io/dcat-ap-sk-2.0/ Response to reviewer: The main difference is more detailed metadata for licences (the Slovakian version of DCAT is very similar to the Czech).;Confirm;;
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;Yes;Yes, most common lack of compliance is caused by lack of training for public officers or lack of time to dive deeper into data quality issues.
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;"Decree of the Office of the Deputy Prime Minister of the SR for Investment and Informatization on standards for public administration information technologies defines 5 level quality of datasets: 
+ https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2020/78/20200501""";Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;We realize a methological activities to increase a quality of published data – we publish methology at the portal https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=77338628 and we organize working groups and made online presentation from the working groups which is published here https://www.youtube.com/channel/UCF-rmyKJ9pE49CP8-rUi4mQ;Complement;Yes;Working groups and trainings, recordings are publicly available: https://www.youtube.com/channel/UCF-rmyKJ9pE49CP8-rUi4mQ 3) Regular meetings with providers on open data quality with reports published: https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101838399
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;>90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;71-90%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;<10%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;>90%;N/A;Confirm;;N/A
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"There is not the one and strict definition of the term ""open data re-use"" but  re-use is mentioned in each strategic document in area of open data. Mostly, it refers to the activities when open data are creatively used by NGO, private sector, universities to create innovatiove solutions (app, analysis, software) for citizens that generate addtional value on sector data. Re-use is also connected with benefits such as transparency, efficiency and innovations.   https://www.mirri.gov.sk/wp-content/uploads/2018/10/SP_Otvorene_udaje_schvalena-2.pdf";Confirm;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;Registration of open data use cases at https://data.gov.sk/apps, workshops mentioned in Q.29.;Change;Yes;Open Data Team monitors reuse cases regularly, list of reuses is available on portal as dataset: https://data.slovensko.sk/datasety/6d11c01d-e7ef-4c2e-bb39-e78ac1fe8d4c There is a new functionality added on portal where members of open data comunity can add their reuse cases (https://data.slovensko.sk/aplikacia)
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer.";yes;Workshops mentioned in Q.29 - data stewards are consulted before workshop to identify open data reuse in their area of interest. New methodology on open data impact also counts with data stewards on public bodies as source of information and monitoring on open data reuse.;Change;Yes;We ask data stewards if they identify reuse cases. This was done by questionaire in October and November 2023 as input in Open data impact report.
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;Methodology for measure of open data impact and reuse (https://mirri.gov.sk/wp-content/uploads/2023/09/metodika_dopad_otvorenych_dat_final.pdf) contain indicators: Number of dataset downloads and API acces to HVD datasets, Ratio of users, who use HVD datasets, New use cases which use HVD dataset This was materialized in Open Data impact report: https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=155321117
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;Methodology for measure of open data impact and reuse was published in August 2023 (https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101829221&preview=/101829221/134155049/metodika_dopad_otvorenych_dat_final.docx)*. Methodology implement several activities, including interviews with data reusers, systematic way of collecting reuse cases, etc. Methodology of open data impact contains this definition: Based on these analyses, under the impact of open data we understand the positive impacts on various areas of society, which are associated with the processing of open data in the form of analyses, applications, dashboards, maps, visualizations and other products that have a positive impact on society, e.g. by increasing awareness and information about important topics, positive economic effects, increasing efficiency, transparency, accountability, etc. *updated;Change;Yes;"Methodology for measure of open data impact and reuse was published in August 2023 (https://mirri.gov.sk/wp-content/uploads/2023/09/metodika_dopad_otvorenych_dat_final.pdf) Methodology implement several activities, including interviews with data reusers, systematic way of collecting reuse cases, etc. Methodology of open data impact contains this definition: ""Based on these analyses, under the impact of open data we understand the positive impacts on various areas of society, which are associated with the processing of open data in the form of analyses, applications, dashboards, maps, visualizations and other products that have a positive impact on society, e.g. by increasing awareness and information about important topics, positive economic effects, increasing efficiency, transparency, accountability, etc."
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;Methodology for measure of open data impact and reuse was published in August 2023 (https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101829221&preview=/101829221/134155049/metodika_dopad_otvorenych_dat_final.docx)*. Methodology implement several activities, including interviews with data reusers, systematic way of collecting reuse cases, etc. *updated;Change;Yes;Methodology for measure of open data impact and reuse was published in August 2023 (https://mirri.gov.sk/wp-content/uploads/2023/09/metodika_dopad_otvorenych_dat_final.pdf). Methodology implement several activities, including interviews with data reusers, systematic way of collecting reuse cases, etc.
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;NGO Alvaria focus is on creating impact (via projects on universities, schools, creating use cases, newsletters, meetings of Open Data Sieť), MIRRI participates in this activities. MIRRI and Alvaria are also connected via contracting employee of Alvaria for MIRRI. NGO Slovensko.Digital runs forum where everyone can ask community for open data, inform on use cases or ask questions how to get data for their project. https://platforma.slovensko.digital/ National Open Data team members are also present on this forum.;Change;Yes;"NGO Alvaria focus is on creating impact (via projects on universities, schools, creating use cases, newsletters for members of ""Open data net""), MIRRI participates in this activities. NGO Slovensko.Digital runs forum where everyone can ask community for open data, inform on use cases or ask questions how to get data for their project. https://platforma.slovensko.digital/ National Open Data team members are also present on this forum."
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Change;Yes;N/A
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;No;
+I8-b;Surveys;new question;new question;Change;Yes;Surveys for data stewards, NGOs, academia, companies are used as source for Open data impact report.
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;NGO Alvaria interviewed local municipalities to find out if their open data activities are sustainable. https://www.alvaria.sk/udrzatelnost-samospravnych-portalov-otvorenych-dat-analyza/
+I8-d;Other;new question;new question;Change;Yes;Open data impact report (first)
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";Yes;N/A;Confirm;;N/A
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;Geodesy, Cartography and Cadastre Authority of the Slovak Republic had communication with open data users via consultations (NGO Slovensko.Digital, archeology – using air laser scanning data). 
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;
+I9-c;Other;new question;new question;Change;Yes;Industrial property office published poll on website regarding most requested datasets (https://www.indprop.gov.sk/dotaznik-spokojnosti/Vyhodnotenie-ankiet)
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";Yes;Reuse cases is gathered throught national open data portal (data.gov.sk) and workshops on open data impact (see Q.29).;Change;Yes;Gathering happens via searching web and local websites, questionaire for data stewards of public bodies (including some municipal), national open data portal - eveyone can register reuse case
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";No;;Change;Yes;We classify them to categories (agriulture, health, education,...) and types (aplication, website, visualisation, analysis ...), we also distinguish who is author (NGO, public office, company, ...)
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.";yes;Impact will by monitored in accordance wih Methodology for measure of open data impact and reuse which has tools for mapping and measuring impact (interviews, gathering reuses, metrics, etc.). Methodology for measure of open data impact and reuse was published in August 2023 (https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101829221&preview=/101829221/134155049/metodika_dopad_otvorenych_dat_final.docx)*. Some inputs are available from series of workshops on open data impact (via Jamboard and discussion) Workshop n. 4 https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101829238. Information on impact are available from presentations of data reusers (https://wiki.vicepremier.gov.sk/download/attachments/101829238/PPT_TIS%5B22739%5D.pptx?version=1&modificationDate=1683275779177&api=v2 - slides 7,9,11,12, https://wiki.vicepremier.gov.sk/download/attachments/101829238/uvostat.pptx?version=1&modificationDate=1683275741427&api=v2 - slides 6-13)* *updated Response to reviewer: Public office tend to copy NGO data project, because it is well designed (judical decisions). Data are used by academy, students, attorneys, journalists, public. There are 100 different referers who refer to public procurement data (UVOSTAT): media, public offices, NGOs, cities, self-governing regions, private companies;Change;Yes;Information on impact are available from presentations of data reusers (https://wiki.vicepremier.gov.sk/download/attachments/101829238/PPT_TIS%5B22739%5D.pptx?version=1&modificationDate=1683275779177&api=v2 - slides 7,9,11,12, https://wiki.vicepremier.gov.sk/download/attachments/101829238/uvostat.pptx?version=1&modificationDate=1683275741427&api=v2 - slides 6-13) Public office tend to copy NGO data project, because it is well designed (judical decisions). Data are used by academy, students, attorneys, journalists, public. There are 100 different referers who refer to public procurement data (UVOSTAT): media, public offices, NGOs, cities, self-governing regions, private companies
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"1) Uvostat.sk - portal that analyses open data on public procurement of the central government bodies, government companies and institution. By analysing and visualisation of data, public purchases are more transparent and understandable (the most successful companies, contractors), the ""biggest"" government buyers and the scope of missbehavior is limited.  https://uvostat.sk/topstatistiky Uvostat makes also various type of analyses about efficiency of public spending/ or potential biases based on the data on public procurements https://uvostat.sk/blog Project led by volunteer, programator and activist Miroslav Babič. Datasets: https://data.slovensko.sk/datasety?publisher=https%3A%2F%2Fdata.gov.sk%2Fid%2Flegal-subject%2F31797903
+2) www.Zindex.sk is a tool for analysing public procurement  data. Based on data, it measures how transparently and efficient  particular contracting authority has acted. Zindex compares individual contracting authority and gives them feedback - where they thrive and where they have reserves. It analyses public procurements of contral government organizations, self-governing regions and other public administration bodies. Based on evaluation, it creates various rankings https://www.zindex.sk/category/detail/KRAJ/11/ Datasets are same as for Uvostat.sk"
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"1) The project otvorenesudy.sk (The open courts) by Transparency international Slovakia. The Open Courts project is a contribution to improving the debate on the Slovak judiciary in three ways: improves the availability of data on the activities and performance of courts and judges, interconnects this data and allows comparison, it does so in an targeted manner - at the level of individual judges and courts."" Via analyses of open data, Transparency was able to identify family connection among juries (possible conflict of interest) , quality of judicial decisions by appeal, speed, etc. Project contributes to the ongoing judicial reform. Datasets: https://data.slovensko.sk/datasety/7bc5153f-1d83-446d-b69f-70d4e8becce1 2) Uvostat - see above, 3) Zindex - see above."
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;Banská Bystrica self governing region used open data widely in analysis and data bases for Plan of economic and social developent for 2022-2030 https://www.bbsk.sk/phsr-bbsk-2022-2030 Data base: https://old.bbsk.sk/%C3%9Arad/Organiza%C4%8Dn%C3%A9jednotky%C3%9AraduBBSK/Oddeleniestrat%C3%A9gi%C3%ADaanal%C3%BDz/Integrovan%C3%A1%C3%BAzemn%C3%A1strat%C3%A9giaBBSKnaroky2021-2027/D%C3%A1tov%C3%A9podklady.aspx They use various source datasets from Statistical office of SR: https://data.slovensko.sk/datasety?publisher=https%3A%2F%2Fdata.gov.sk%2Fid%2Flegal-subject%2F00166197
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;According to information gathered from Finstat, several tens of public bodies use Finstat (www.finstat.sk) services for its daily operations and decision-making (checking supliers, gathering informations on companies, market research, financial data from financial statements processing etc.).
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.";yes;Impact will by monitored in accordance wih Methodology for measure of open data impact and reuse which has tools for mapping and measuring impact (interviews, gathering reuses, metrics, etc.). Methodology for measure of open data impact and reuse was published in August 2023 (https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101829221&preview=/101829221/134155049/metodika_dopad_otvorenych_dat_final.docx).* Some inputs are available from series of workshops on open data impact (via Jamboard and discussion). Workshop n. 3 https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101829238 Information on impact are available from presentation of Roma Atlas: https://wiki.vicepremier.gov.sk/download/attachments/101829238/Atlas_prezentacia.pptx?version=1&modificationDate=1678799380283&api=v2 - slides 12-13* *updated Response to reviewer: Data from Atlas are used for different purposes: setting national policies, using european funds, evaluation of the impact of policies;Change;Yes;Information on impact are available from presentation of Roma Atlas: https://wiki.vicepremier.gov.sk/download/attachments/101829238/Atlas_prezentacia.pptx?version=1&modificationDate=1678799380283&api=v2 - slides 12-13  Data from Atlas are used for different purposes: setting national policies, using european funds, evaluation of the impact of policies
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"1) Some of the municipalities and self-governing regions re-use data of Roma Atlas https://www.minv.sk/?atlas-romskych-komunit-2019 that map number of Roma people, their living conditions and distribution in regions in Slovakia. The author of Roma Atlas is Pleninpotentiary of Roma communities. Self-governing regions - Prešov, Košice, visualise data from Roma Atlas in map in order to understand how is status changed over the years and use map outputs to design measures at regional level. Reuse cases: https://geopresovregion.sk/web/web_mrk/#9/49.1000/21.3000 ;  https://www.geoportalksk.sk/web/romske_komunity_v_ksk/#9/48.6778/21.2700  Dataset: https://data.slovensko.sk/datasety/51dfd32f-d912-4e12-a45c-c4d41a03da08"
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;1) City of Košice created visualisations containg useful information on wellbeing of citizens - Quality of air https://opendata.kosice.sk/pages/763f91fbc8844649b940302b3447825b Dataset:https://opendata.kosice.sk/datasets/fe706bd590aa49a6bb7abd0a96f4b17f_0/explore 2) NGO Alvaria created dashboard on kindergartens from open data sources - dashboard enables local municipalities to compare demographic trends and available capacity https://www.alvaria.sk/vizualizovali-sme-oficialne-udaje-o-skolkach/ Dataset: various datasets are used, f.e. https://data.slovensko.sk/datasety/5f06473c-f69f-4ad1-ad55-34a13d96e9c6
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;1) City of Košice created visualisations containg useful information on wellbeing of citizens - Schools https://opendata.kosice.sk/pages/677752b2747447f0be5b327047ba9e00 Dataset: https://opendata.kosice.sk/datasets/52248c5a80b5437bbcbea3d955c77e78_0/explore Criminal offences https://opendata.kosice.sk/pages/9bcfaab7a37e4501995f7bc1e265d1b3 Dataset: https://opendata.kosice.sk/datasets/bb74db8fe2de4cc3ac919b9c16cc6a70_0/explore 2) Banská Bystrica self governing region created dashboard story containing informaion on demographic change between 2011 and 2021: https://opendata.bbsk.sk/apps/b63b7c3a9bad4cc28017ce38fb569995/explore Datasets: https://opendata.bbsk.sk/search?categories=%252Fcategories%252Fdemografia&collection=dataset
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;In 2022-23, NGO Alvaria organized a training program Spoznaj otvorené dáta - on 5 high schools, series of 2 workshops were organized, learning young people what are open data, how can they be used and visualised via free tools. https://www.alvaria.sk/realizovali-sme-projekt-spoznaj-otvorene-data-urceny-pre-stredne-skoly/ E-learning was created for other schools, training materials from project are included. https://www.alvaria.sk/kurz/spoznaj-otvorene-data-kurz-pre-stredne-skoly/
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.";yes;"Impact will by monitored in accordance wih Methodology for measure of open data impact and reuse which has tools for mapping and measuring impact (interviews, gathering reuses, metrics, etc.). Methodology for measure of open data impact and reuse was published in August 2023 (https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101829221&preview=/101829221/134155049/metodika_dopad_otvorenych_dat_final.docx).* Some inputs are available from series of workshops on open data impact (via Jamboard and discussion). https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101829238 There has been organised set of events aiming to stimulate the development of new added value on top of open data in the field of enviroment:
+https://inovacie.bratislava.sk/climathon/ 
+https://www.citython.sk/2022kosice/ 
+https://www.citython.sk/2022zilina/ 
+Information on impact are available from presentation of project Dnes dycham - open data reuser https://wiki.vicepremier.gov.sk/download/attachments/101829238/Dnesdycham_SAZP.PPTX?version=1&modificationDate=1684749577723&api=v2 - slides 8,9* *updated
+Response to reviewer: App has collected in few months 62 users comments and 1 000+ downloads.";Change;Yes;"There has been organised set of events aiming to stimulate the development of new added value on top of open data in the field of enviroment:
+https://inovacie.bratislava.sk/climathon/ 
+https://www.citython.sk/2022kosice/ 
+https://www.citython.sk/2022zilina/ 
+Information on impact are available from presentation of project Dnes dycham - open data reuser https://wiki.vicepremier.gov.sk/download/attachments/101829238/Dnesdycham_SAZP.PPTX?version=1&modificationDate=1684749577723&api=v2 - slides 8,9
+Response to reviewer: App has collected in few months 62 users comments and 1 000+ downloads."
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;1) National forests of Slovakia published created project Otvorenelesy, that publishes data on wood harvesting, transport and selling. Data can be viewed on map, charts or downloaded via OpenAPI. It is possible to search in records. https://otvorene.lesy.sk/drevo 2) Dnes dýcham - webapp and android app shows realtime information on quality of air from official sources, it supports schools to teach pupils on enviromental problems via setting up their own air quality monitoring with donated sensors https://dnesdycham.populair.sk/
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;Najdispoj.sk - project created by university student use open data on train and bus timetables to search journey from point A to point B using public transport. Application can search fastest journey or journey with fewest changes. Journey is displayed on map with details (times, number of line, etc.)  Data sources are described in this article: https://www.alvaria.sk/najdispoj-sk-uzitocny-vyhladavac-spojov-verejnej-dopravy/ 2)Analysis on how to decrease emissions in road transport (https://www.minzp.sk/files/iep/analyzy/iep_cisto_a_zbesilo.pdf)
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;1) Košice self governing region created interactive map on climate change and its consecvences - it shows data on vulnerabiliy of municipalies to climate change, change of temperature, adaptive capacity, etc. https://www.geoportalksk.sk/mapstore/#/viewer/openlayers/3171 Dataset: https://www.geoportalksk.sk/geonetwork/srv/slo/catalog.search#/metadata/6623428f-6d5c-4c2c-896f-57099178831c 2) Evaluation of environmental performance Institute of environmental analysis with OECD https://www.minzp.sk/iep/publikacie/ekonomicke-analyzy/hodnotenie-environmentalnej-vykonnosti-sr/ 3) Trnava self governing region visualised environmental burdens in region https://opendata.trnava-vuc.sk/maps/53c0782093ba4c54822f88d09847ba02/explore?location=48.354516%2C17.536159%2C9.02 Dataset:https://opendata.trnava-vuc.sk/maps/opendata-ttsk::environmentalne-zataze-na-uzemi-ttsk/about
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;1) Project Fakty o klíme - shows varius information on climate change in beautiful, sharable way, including information on CO2 created by varius sources of energy: https://faktyoklime.sk/infografiky/elektrina-sr
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";yes;Impact will by monitored in accordance wih Methodology for measure of open data impact and reuse which has tools for mapping and measuring impact (interviews, gathering reuses, metrics, etc.). Methodology for measure of open data impact and reuse was published in August 2023 (https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101829221&preview=/101829221/134155049/metodika_dopad_otvorenych_dat_final.docx).*  Some inputs are available from series of workshops on open data impact (via Jamboard and discussion). https://wiki.vicepremier.gov.sk/pages/viewpage.action?pageId=101829238  Information on impact are available from presentation of data reuser No limit developers (https://wiki.vicepremier.gov.sk/download/attachments/101829238/nolimit_mhd_presov.pptx?version=1&modificationDate=1690875993537&api=v2 - slides 4-6)* *updated Response to reviewer: App has 45 000+ downloads in single city (Prešov). It is one of most successful transport apps in Slovakia.;Change;Yes;Information on impact are available from presentation of data reuser No limit developers (https://wiki.vicepremier.gov.sk/download/attachments/101829238/nolimit_mhd_presov.pptx?version=1&modificationDate=1690875993537&api=v2 - slides 4-6)  App has 45 000+ downloads in single city (Prešov). It is one of most successful transport apps in Slovakia.
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"1) Finstat.sk - portal of the commercial company that analyses open data from the central governmen related to the credibility and trustwortines of slovak companies. It integrates more than 20 data sources from the central government: Company register, Register of financial statements, Beneficial ownership register, Judicial Desicions, etc. In 2021, company Finstat gained sales in 2,1 mil. EUR and have aproimately 30 employees. https://finstat.sk/o-finstate ; https://finstat.sk/47165367 Finstat uses many source datasets and APIs: https://finstat.sk/premium
+2) GrantExpert - private company that build business model on  open data around ESIF. Portal www.itms2014.sk is a central information system that serves for registration and subsequent processing, export and monitoring of data on programming, project and financial management, control and audit for the programming period 2014-2020. It provides also open data via API  https://opendata.itms2014.sk/swagger/?url=/v2/swagger.json#/projekt/projektVRealizacii_show Company GrantExpert is a consument of ITMS open data - Among the other services,  it provides automatized monitoring of open grants based to the criteria to clients, sale on demand Power BI dasboards to clients for better management of his/her approved ESIF projects https://www.grantexpert.sk/  In 2021, GrantExpert gained more than 80.000 € in sales and has at least 3 employees. 
+3) Ekosystem.slovensko.digital - Company ""Slovensko.Digital Services"" provides to customers products driven by open data. E.g. Autoform that can be integrated to the clients system for autofilling contact and invoicing data about companies and self-employed. It uses open data from Registry of  legal entities and the list of activated mailboxes via www.slovensko.sk (gov service) https://ekosystem.slovensko.digital/sluzby/autoform In 2020, Slovensko.Digital Services has almost 60.000 € in sales and employed 2-4 employees. 
+4) KPMG estimates that in 2023 there are 7 185 employed people directly or indirectly connected with open data, this figure is expected to rise to 9 510 by 2025."
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;1) Finstat is providing innovative commercial services based on machine learning algoritms (crawling web pages of companies to find out information). https://news.finstat.sk/clanky/finstat-skore/ 2) No Limit (MHD Prešov) and specially project Najdispoj.sk are building applications to find routes using open data timetables and vehicle position information.  Dataset: https://egov.presov.sk/geodatakatalog/dpmp.csv:
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;Yes, majority of open data projects are small and medium businesses, startups and nonprofits. 
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;In questionnaire for municipalities in 2023, most municipalities stated: open data created opportunities for cooperation with partners from the public sector, improvements have been made at the office or for its residents, citizens participate more in the discussions on local government topics (http://www.alvaria.sk/wp-content/uploads/2023/08/Report_prieskum_udrzatelnost_open_data_samospravy.docx, Q9), see I18-c

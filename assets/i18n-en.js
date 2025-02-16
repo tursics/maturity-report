@@ -5,6 +5,8 @@ i18n['en'] = {
     'countriesNone': 'Show none',
     'country-de': 'Germany',
     'country-fr': 'France',
+    'country-pl': 'Poland',
+    'country-ua': 'Ukraine',
     'D0': 'Dimension 0: Information',
     'debug': 'Debug',
     'empty': 'Please choose a country',

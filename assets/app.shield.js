@@ -60,8 +60,8 @@ class Shield {
             var newValue = item['Provide updated answer (if applicable)'].toLowerCase();
             var value = '';
 
-            oldValue = oldValue.replace(' ', ' ');
-            newValue = newValue.replace(' ', ' ');
+            oldValue = oldValue.replace(' ', ' ').trim();
+            newValue = newValue.replace(' ', ' ').trim();
 
             if ('Confirm' === status) {
                 value = oldValue;
@@ -83,7 +83,19 @@ class Shield {
                 if (v && (v === value)) {
                     score = s && s ? parseInt(s, 10) : NaN;
                 } else {
-                    console.error(scoreItem.ID, value);
+                    v = scoreItem && scoreItem.value3;
+                    s = scoreItem && scoreItem.score3;
+                    if (v && (v === value)) {
+                        score = s && s ? parseInt(s, 10) : NaN;
+                    } else {
+                        v = scoreItem && scoreItem.value4;
+                        s = scoreItem && scoreItem.score4;
+                        if (v && (v === value)) {
+                            score = s && s ? parseInt(s, 10) : NaN;
+                        } else {
+                            console.error(scoreItem.ID, value);
+                        }
+                    }
                 }
             }
         }

@@ -93,7 +93,13 @@ class Shield {
                         if (v && (v === value)) {
                             score = s && s ? parseInt(s, 10) : NaN;
                         } else {
-                            console.error(scoreItem.ID, value);
+                            v = scoreItem && scoreItem.value5;
+                            s = scoreItem && scoreItem.score5;
+                            if (v && (v === value)) {
+                                score = s && s ? parseInt(s, 10) : NaN;
+                            } else {
+                                console.error(scoreItem.ID, value);
+                            }
                         }
                     }
                 }

@@ -135,10 +135,14 @@ var _ = (function () {
                 value = translation.Answer;
             } else if (translation['Answer from 2023']) {
                 // 2024
+                var status = translation['Confirm, change or complement answer/explanation from 2023'];
                 var newValue = translation['Provide updated answer (if applicable)'];
                 value = translation['Answer from 2023'];
 
                 if (newValue !== '') {
+                    if ('Confirm' === status) {
+                        console.error('Country: ' + country + "\nQuestion: " + translation.ID + "\nYear: " + year + "\n> Unchanged value has changes\nOld value: "+ value + "\nNew value: " + newValue);
+                    }
                     if (newValue.toLowerCase() !== value.toLowerCase()) {
                         value = newValue + '<br><span style="color:goldenrod;font-size:.8em">2023: ' + value + '</span>';
                     } else {
@@ -173,8 +177,8 @@ var _ = (function () {
                 value = translation['Explanation from 2023'];
 
                 if ('Confirm' === status) {
-                    if (newValue !== '') {
-                        console.error(country + ' ' + year + ' unchanged value has changes');
+                    if ((newValue !== '') && (newValue !== value)) {
+                        console.error('Country: ' + country + "\nQuestion: " + translation.ID + "\nYear: " + year + "\n> Unchanged explanation has changes\nOld value: "+ value + "\nNew value: " + newValue);
                     }
                 } else if ('Change' === status) {
                     value = newValue + '<br><br><span style="color:goldenrod;font-size:.8em">Former value from 2023<br>' + value + '</span>';

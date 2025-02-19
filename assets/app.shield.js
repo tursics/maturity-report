@@ -98,7 +98,13 @@ class Shield {
                             if (v && (v === value)) {
                                 score = s && s ? parseInt(s, 10) : NaN;
                             } else {
-                                console.error(scoreItem.ID, value);
+                                v = scoreItem && scoreItem.value6;
+                                s = scoreItem && scoreItem.score6;
+                                if (v && (v === value)) {
+                                    score = s && s ? parseInt(s, 10) : NaN;
+                                } else {
+                                    console.error(scoreItem.ID, value);
+                                }
                             }
                         }
                     }
@@ -300,6 +306,7 @@ class Shield {
                     dimensions.push({
                         color: child.color,
                         id: child.id[this.year],
+                        score,
                         percentage
                     });
                 } else {
@@ -338,7 +345,7 @@ class Shield {
                     }
 
                     str += '<div onclick="goto(\'' + dimension.id + '\',null,' + this.year + ')" class="score-barchart" style="left: ' + (x + .5) + 'em;background: repeating-linear-gradient(0,' + color + ',' + color + ' ' + value + ',#555 0,#555 100%);"></div>';
-                    str += '<div onclick="goto(\'' + dimension.id + '\',null,' + this.year + ')" class="score-barchart-label" style="left: ' + x + 'em;">' + label + '</div>';
+                    str += '<div onclick="goto(\'' + dimension.id + '\',null,' + this.year + ')" class="score-barchart-label" style="left: ' + x + 'em;" title="' + dimension.score + '">' + label + '</div>';
 
                     x += 3;
                 }

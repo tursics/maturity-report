@@ -1,0 +1,808 @@
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"The Act Amending the Law on the Reuse of Public Sector Information of 10 May 2021 (PSI-loven) implements the Open Data Directive 2019/1024 of 20 June 2019. As a result, Denmark notified the Commission the full transposition of the Directive. 
+
+Response: https://www.retsinformation.dk/eli/lta/2021/1764";Complement;Yes;"The Act Amending the Law on the Reuse of Public Sector Information of 10 May 2021 (PSI-loven) implements the Open Data Directive 2019/1024 of 20 June 2019. As a result, Denmark notified the Commission the full transposition of the Directive. 
+
+Link: https://www.retsinformation.dk/eli/lta/2021/1764"
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"o The national strategy for digitisation (2022-2026) is based on 9 visions for the digital development of Denmark, the 7th being ""A strong, ethical, and responsible digital foundation"", which includes improved access to data: https://fm.dk/media/25845/danmarks-digitaliseringsstrategi-sammen-om-den-digitale-udvikling_web.pdf, p. 45ff. An (unofficial) translation of the relevant passage would be: ""The Danish government aims to ensure that public data is usable and shareable across Danish society in ways that are effective, standardised, and data-ethically responsible. [...] The first step towards this goal is making it easy for users to find public data, and for them to evaluate what this data can and may be used for."" 
+In line with this, one of the initiatives of the strategy is the development of a national metadata portal. (no. 44). Moreover, a number of the initiatives in the strategy will make more and better data available (see Q3). 
+
+o In general, publication of Danish public sector data follows a ""publish with purpose"" principle (see the recitals to the Danish implementation of the Open Data Directive: https://www.folketingstidende.dk/samling/20201/lovforslag/L160/20201_L160_som_fremsat.pdf, 3.3.2. and the national audit authority (Rigsrevisionen's) report on open data in the public sector: https://rigsrevisionen.dk/Media/637684152375842683/309-21.pdf, p. 1)
+
+o Public authorities are encouraged to publish any data that is not confidential or otherwise protected. A technical guide has been developed to support this effort: https://arkitektur.digst.dk/metoder/begrebs-og-datametoder/teknisk-vejledning-til-udstilling-af-offentlige-data/teknisk as well as a reference architecture for the disclosure of data by transmission: https://arkitektur.digst.dk/node/1097";Complement;Yes;"o The national strategy for digitisation (2024-2027) is based on 7 themes for the digital development of Denmark, the 5th being ""A strong, ethical, and responsible digital foundation"", which includes improved access to data: https://www.digmin.dk/Media/638357207253210400/SVM%20regeringen_Danmarks%20digitaliseringsstrategi_2023_V9_Online_Final%20(1)-a.pdf, p. 22ff. The strategy was confirmed in early 2024 through a political agreement between the government and all of the parties in parliament: https://www.regeringen.dk/nyheder/2023/politisk-aftale-paa-plads-om-danmarks-nye-digitaliseringsstrategi/. The strategy contains around 30 initiatives aimed at digitization, many of these dealing with increased access to open (and non-open) public data. The total funding for the strategy is around 100m  Euro over the next four years. 
+
+o In general, publication of Danish public sector data follows a ""publish with purpose"" principle (see the recitals to the Danish implementation of the Open Data Directive: https://www.folketingstidende.dk/samling/20201/lovforslag/L160/20201_L160_som_fremsat.pdf, 3.3.2. and the national audit authority (Rigsrevisionen's) report on open data in the public sector: https://rigsrevisionen.dk/Media/637684152375842683/309-21.pdf, p. 1)
+
+o Public authorities are encouraged to publish any data that is not confidential or otherwise protected. A technical guide has been developed to support this effort: https://arkitektur.digst.dk/metoder/begrebs-og-datametoder/teknisk-vejledning-til-udstilling-af-offentlige-data/teknisk as well as a reference architecture for the disclosure of data by transmission: https://arkitektur.digst.dk/node/1097"
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;"o The national strategy mentioned above is complemented by a joint public sector strategy which is a collbaration between the three levels of government: https://fm.dk/media/26022/digitalisering-der-loefter-samfundet_den-faellesoffentlige-digitaliseringsstrategi-2022-2025_web.pdf, https://fm.dk/nyheder/nyhedsarkiv/2022/juni/regeringen-kl-og-danske-regioner-enige-om-ny-faellesoffentlig-digitaliseringsstrategi/
+
+In addition to this, the association of Danish municipalities published its data strategy for local governments in 2022: https://www.kl.dk/media/48578/kommunernes-datastrategi.pdf. One of the principles of the strategy is that ""Municipalities [should] make standardized data available to other [users]."" (p. 11)";Confirm;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;Please refer to the initiatives from the strategies mentioned in Q2-Q4. The strategies are made up of overall visions as well as concrete initiatives to be implemented in the coming years.;Complement;Yes;Please refer to the initiatives from the strategies mentioned in P2-P3. The strategies are made up of overall visions as well as concrete initiatives to be implemented in the coming years.
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"o The PSI law, the Danish implementation of the ODD, requires that dynamic data, when made available, is done so through API access, and if relevant, mass download: https://www.retsinformation.dk/eli/lta/2021/176, kap. 4, §7, stk. 3
+o Among other things, the strategy includes a national plan for mobility data (18) and a test of intelligent transport systems (40). These will increase the access to and usability of real time data about traffic.";Complement;Yes;"o The PSI law, the Danish implementation of the ODD, requires that dynamic data, when made available, is done so through API access, and if relevant, mass download: https://www.retsinformation.dk/eli/lta/2021/176, kap. 4, §7, stk. 3
+o Among other things, the strategy includes a national program for improved access to data from the utilities sector (electricity, water, and heating, cf. initiative 3.1) and from car charging stations (initiative 3.3). https://via.ritzau.dk/files/13560322/13781061/68941/da"
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"o The strategy includes initiatives that make it easier for citizens to grant and withdraw consent or authorisation to the authorities to process and/or share their data (initiatives 8 and 9). One possible use case is the sharing of citizen-generated data. In addition to this, initiative 30 contains the plan to develop a strategy for the handling of ""self-reported"" data in the health sector.
+
+A concrete example of this is the ""DataDonor"" initiative from the Region of Southern Denmark: https://syddansksundhedsinnovation.dk/projekter/datadonor-platformen";Complement;Yes;"In a Danish context, citizen-generated data is especially prevalent and relevant in the health sector. The effort to increase access to these data - when ethically and legally permissible and possible to do so - is supported by the Danish Life Science Strategy: https://www.em.dk/Media/638380759704342521/Agreement%20on%20a%20strategy%20for%20life%20science.pdf, more specifically the Danish Life Science Cluster: https://www.danishlifesciencecluster.dk/ and its national network for citizen-generated data: https://www.danishlifesciencecluster.dk/netvaerksgrupper/nationalt-netvaerk-om-borgerskabte-data/ which tackles ethical, technical, and organisational challenges in this area. 
+
+A new life science is expected to be launched in 2024: https://www.em.dk/aktuelt/temaer/life-science"
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";yes;o The national metadata portal is being developed to allow for easy harvesting of metadata to data.europa.eu, e.g. by using the DCAT metadata standard. ;Confirm;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"o The strategy carries on and develops the work done in previous strategies with regard to data sharing across public authorities through the promulgation of common architectural principles and standards (initiative 49). The website for the common digital architecture (FDA) was recently overhauled with a focus on increased faciliation of the re-use of data and digital building blocks: https://arkitektur.digst.dk/
+o Moreover, the national metadata portal (initaitive 44) also supports the re-use of open data by the public sector.";Complement;Yes;"o The strategy carries on and develops the work done in previous strategies with regard to data sharing across public authorities through the promulgation of common architectural principles and standards. 
+
+c The strategy also supports the modernization of the Danish basic data registries (cf. iniatitive 5.1 https://via.ritzau.dk/files/13560322/13781061/68941/da), the Danish groundwater database (cf. 3.2) as well as the digitization of the geographical aspects of legislation, which will make it easier to reuse geodata in legal contexts (cf. 5.3)
+
+c Moreover, the strategy includes initiatives to increase data sharing within the public sector to decrease the burden of reporting on private companies (cf. initiatives 4.2 and 4.5)."
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;o The national data portal is being built with private sector users of open data in mind. The same goes for many of, if not all the initiatives mentioned in 3). The portal was built in collaboration between Government and the Danish Business Authority and has conducted several user tests with private sector representatives.;Complement;Yes;In addition to the data improvements mentioned in P8 (all of which will also benefit the private sector), the strategy includes an initiative to increase Danish participation in the European digital economy, e.g. through an increased focus on and funding of Danish and European data spaces, which will improve data access for private parties (cf. initiative 7.1). The program on utilities data (initiative 3.1) can be seen as a sector-specific example of one such data space effort in which public and private sector parties collaborate on standards and agreement for the sharing of data in this field.
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;"From §11 of the Danish implementation of the Open Data Directive: ""Den offentlige myndighed og offentlige virksomhed offentliggør en oversigt over dokumenter og datasamlinger, der stilles til rådighed for videreanvendelse efter denne lov."" English: ""The public sector body and public undertaking [must] publish an overview of the data that is being made available according to this law.""  https://www.retsinformation.dk/eli/lta/2021/1764
+
+The national data portal is meant to support this effort by giving a central overview of all the data made available by public sector bodies.";Confirm;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;"Data inventories will also be maintained for health and demographic data; data which is usually not open at the individual level, but which e.g. reasearchers can gain access to - including as mandated by the DGA. ";Confirm;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;The Danish Agency for Digital Government and the authorities with whom we collaborate are close to having identified what Danish datasets are considered HVD. All the data that might fall into this category is already publically available for free through the required means of access. What remains is to denote the data as such. In this regard, The Danish Agency for Digital Government is awaiting an authoritative decision on how to denote HVD status for INSPIRE metadata, and how to map this to DCAT-AP. 
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;Since there is  as of yet no EU consensus on how to map HVD information from INSPIRE to DCAT-AP, this is not currently possible for a large number of the datasets in question. This is currently the main challenge for the implementation. 
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"o 1. Basic Data is governed by the Steering Group for Basic Data and a number of sub-groups/forums: https://datafordeler.dk/vejledning/grunddata/  
+2. Wrt. geographic data/INSPIRE-data, The Agency for Data Supply and Infrastructure runs The Coordination Committee (""Samordningsudvalget""): https://inspire-danmark.dk/english/inspire-denmark/the-coordination-committee-for-infrastructure-for-digital-spatial-information
+The committee acts as a channel for discussing political and strategic aspects of the spatial information infrastructure and government policies and management areas with geodata angles. In recent years, the Committee has, among other things, dealt with data quality in geo-referenced legislation, the interaction between new technologies and the geographical infrastructure, the quality of metadata, and the use of geodata for differentiated and automated regulation.
+3. The Agency for Digital Government is responsible for two cross-government forums that deal with (open) data issues more broadly: One with representatives from upper management, another with technical personnel. 
+
+The first is the Steering group for digital innovation and the green transition (Styregruppen for digital innovation og grøn omstilling, DIGO): https://digst.dk/strategier/den-faellesoffentlige-digitaliseringsstrategi/organisering-af-samarbejdet-om-den-faellesoffentlige-digitaliseringsstrategi/ 
+The second is the Forum for data distributors (which does not have an associated website)
+User feedback from stakeholders external to the public sector is provided to these groups either directly to the participating authorities, or through the National Data Portal service organisation."
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;"o According to the Danish Constitution, municipalities have a right to self-government, and the state has a right to oversee this. The Basic Data Programme is governed by all three levels of government (local, regional, and national) in cooperation.
+
+Within national government, data governance is similarly decentralised. I.e., each agency is largely responsible for deciding which data to make available as open data (with exceptions such as HVD). When they choose to do so, however, they must live up to the provisions of the PSI law. ";Confirm;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;The three levels of Danish government (national, regional, and local) coordinate a number of initaitives through the governance for the goint government digitisation strategy: https://digst.dk/strategier/den-faellesoffentlige-digitaliseringsstrategi/. This includes reviews of initiatives run by lcoal government to ensure compatability with national standards and building blocks, including reuse of public data. 
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";all public bodies;o For example, all Danish municipalities are members of GeoDanmark, an organisation that works to maintain the open Danish geodata that are part of the Danish basic data: https://www.geodanmark.dk/om-geodanmark/ - cf. answer 14 above;Confirm;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";no;The Agency for Digital Government is responsible for the implementation of the Open Data Directive through the Danish PSI Law (mentioned above). The agency assists other public sector organisations in their work with open data, but these organisations are themselves responsible for which data they choose to publish (unless where mandated by law), and which metadata to provide. There is no single document describing this practice. ;Confirm;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"o Yes, as they are part of the same office at the Agency for Digital Government. The agency facilitates regular meetings in the so-called ""Forum for data distributors"", which includes the main distributors of open public data in Denmark. Every meeting, the most recent one having been held in March 2023, includes a presentation of the current status for the national metadata portal (""Datavejviseren""), to which many of the data owners represented in the forum provide metadata.";Change;Yes;"o Yes, as they are part of the same office at the Agency for Digital Government. The agency facilitates regular meetings in the so-called ""Forum for data distributors"", which includes the main distributors of open public data in Denmark. Every meeting, the most recent one having been held in April 2024, includes a presentation of the current status for the national metadata portal (""Datavejviseren""), to which many of the data owners represented in the forum provide metadata."
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";no;;Confirm;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;o See the answer to Q17 above. Although these people do not carry an official title of data officer or steward, they function as such in practice.;Change;Yes;o See the answer to P18 above. Although these people do not carry an official title of data officer or steward, they function as such in practice.
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Yes, e.g. at conferences, through interviews, presentations etc. 
+
+Examples of forums/conferences held in the past year with private and public sector participants: https://www.dafago.dk/ DAFAGO (Danish Forum for the Use of Basic Data and other Public Data) 
+https://itb.dk/event/danmarks-data/ Denmark's Data
+https://offdig.dit.dk/English
+https://digitallead.dk/kalender/2023/kmd-insight-23-fremtidens-organisation-er-ikke-bare-digital-den-er-datadrevet/ KMD Insight
+
+The national data portal service organisation regularly meets with individual reusers such as universities (University of Copenhagen, IT University of Copenhagen), large and small businesses, and citizens. See fx the invitiation to a recent event on transportation data: https://digst.dk/nyheder/nyhedsarkiv/2023/februar/invitation-til-dialogmoede-om-rejsekortdata/. A similar event on energy data will be held later this year.";Change;Yes;"Yes, e.g. at conferences, through interviews, presentations etc. 
+
+Examples of forums/conferences held in the past year with private and public sector participants: https://www.dafago.dk/ DAFAGO (Danish Forum for the Use of Basic Data and other Public Data) 
+https://itb.dk/event/danmarks-data/ Denmark's Data
+https://offdig.dit.dk/English
+https://computerworldevents.dk/1413/datadrevet_forretning_maj24
+
+The national data portal service organisation regularly meets with individual reusers such as universities (University of Copenhagen, IT University of Copenhagen), large and small businesses, and citizens. See fx the invitiation to an event in the Fall of 2023 on improved access to 3D model data: https://digst.dk/nyheder/nyhedsarkiv/2023/september/invitation-til-workshop-om-national-3d-model/"
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"Statistical datasets, produced by Statistics Denmark, all follow a release calendar (https://www.dst.dk/en/Statistik/planlagte). Dates for each dataset is announced at least one year before publication, and the process and workflows are described in the statistical documentation, that is available for each dataset (https://www.dst.dk/en/Statistik/dokumentation/documentationofstatistics)
+
+Basic data: Descriptions of new releases, planned changes to services, documentation, etc. are publically available at https://datafordeler.dk/drift/meddelelser
+";Complement;Yes;"Statistical datasets, produced by Statistics Denmark, all follow a release calendar (https://www.dst.dk/en/Statistik/planlagte). Dates for each dataset is announced at least one year before publication, and the process and workflows are described in the statistical documentation, that is available for each dataset (https://www.dst.dk/en/Statistik/dokumentation/documentationofstatistics)
+
+Basic data: Descriptions of new releases, planned changes to services, documentation, etc. are publically available at https://datafordeler.dk/drift/meddelelser
+
+At a more general level, the Danish Agency for Digital Government has published a reference architecture for the sharing of data and documents: https://arkitektur.digst.dk/referencearkitekturer/deling-af-data-og-dokumenter/referencearkitektur-deling-af-data-og-dokumenter as well as a technical guideline for sharing of public data: https://arkitektur.digst.dk/metoder/begrebs-og-datametoder/teknisk-vejledning-til-udstilling-af-offentlige-data/teknisk. Data publishers can draw on these when designing their own specific publication plans.  "
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;"o The national metadata portal is a measure to ensure that open data is in fact being made available publically in line with the strategy.The team behind the portal monitors which data has been made available. 
+o As for the implementation of the ODD, the Agency for Digital Government maintains a list of the public sector bodies that hav emade use of the exclusion clause and are allowed to charge beyond marginal costs for data: https://digst.dk/data/videreanvendelse-af-offentlige-data/betaling-for-data/";Complement;Yes;"o The national metadata portal is a measure to ensure that open data is in fact being made available publically in line with the strategy.The team behind the portal monitors which data has been made available. 
+o As for the implementation of the ODD, the Agency for Digital Government maintains a list of the public sector bodies that have made use of the exclusion clause and are allowed to charge beyond marginal costs for data: https://digst.dk/data/videreanvendelse-af-offentlige-data/betaling-for-data/"
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;"The team working on the portal continuously works on how to improve the implementation of the open data policy at an operational, strategic, and international level, e.g. by finding new ways of going about onboarding authorities, using new political agendas to leverage existing solutions, and working for greater EU standardisation of solutions, for example in relation to mapping between different metadata standards and ensuring uniform interpretation of legal demands. 
+
+The overall political and legal strategy for the portal is set at, broadly speaking, two levels: The national and the joint governement level. At the national level, EU legislation is transposed to Danish law (in the case of directives) or applies directly (in the case of regulations). Here, the implementation strategy for cross-cutting is decided, e.g. in terms of deciding to re-use the national data portal as the NSIP for DGA purposes rather than building a new one.
+
+Moreover, funding and political backing for the open data portal stem from national strategies for digital government (such as the current one running 2024-2027 https://digst.dk/nyheder/nyhedsarkiv/2023/november/ny-digitaliseringsstrategi-for-2024-2027/) or the yearly state budget negotiations (with funding running for a set period or indefinitely). 
+
+At the joint government level, municipalities, regions, and national government agree to 4 year joint government strategies for digital government. The current one runs through 2025. The negotiations for the strategies mentioned above provide opportunities for re-tooling or re-orienting the approach to open data in light of new legislation, new political priorities, new technologies, lessons learned, etc."
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;The Agency for Digital Government maintains a list of public sector bodies that do this: https://digst.dk/data/videreanvendelse-af-offentlige-data/betaling-for-data/. ;Confirm;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;"Describing use conditions for non-open data 
+Mapping between INSPIRE and DCAT metadata";Confirm;N/A;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;We follow a number of European initiatives closely, i.e. SEMIC, Data Spaces, data.europa.eu etc.;Confirm;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;The national open data team offers different forms of assistance to data-publishing authorities. E.g. in the shape of financing pilot projects or API development, providing guidance in how to comply with national standards or recommendations, and feedback on concrete projects. 
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;The Agency for Digital Government organizes a number of training programs for civil servants, including one on data governance: https://digst.dk/styring/statens-digitaliseringsakademi/kursuskatalog-for-medarbejdere/;Confirm;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, >9;"o An annual conference is held to share knowledge about the Common Public-Sector Digital Architecture. The common architecture ensures secure cross-organisational processes and efficient sharing of data across the public sector and between the public and private sector, and the conference brings together hundreds of stakeholders from both sectors. The 2023 version will be held in September.
+
+Cf. also the events mentioned in 20.";Change;Yes, >9;"o An annual conference is held to share knowledge about the Common Public-Sector Digital Architecture. The common architecture ensures secure cross-organisational processes and efficient sharing of data across the public sector and between the public and private sector, and the conference brings together hundreds of stakeholders from both sectors. The 2024 version will be held in September: https://arkitektur.digst.dk/kom-i-gang/kompetencer/faellesoffentlig-digital-arkitektur-konference-2024
+
+In May 2024, the associations Open Data DK and OS2 (which works to increase the use of Open Source solutions in the public sector) held a joint, open annual meeting to promote open data and open source initiatives: https://www.os2.eu/arsmode-2024-os2-x-open-data-dk 
+
+Many universities and university libraries also hold events to help their users (usually students) find and interpret open data relevant to them: https://kub.kb.dk/datalab"
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;www.datavejviser.dk;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;Yes;Based on a CKAN backend with a DCAT plugin and a frontend designed with React. Metadata is harvested through DCAT endpoints, through INSPIRE CSW endpoints that are mapped through GeoDCAT-AP, or through our data entry SaaS for data publishers - also with a DCAT endpoint. 
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;Fx through the DCAT endpoint in different serialisations of RDF: https://datavejviser.dk/katalog.xml?fq=publisher_name:%22Styrelsen%20for%20Dataforsyning%20og%20Infrastruktur%22. Or through the standard CKAN API.
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;No;
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"https://datavejviser.dk/om-datavejviser section on ""Datastandard og tekniske snitflader"""
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.";new question;new question;Change;Yes;Platforms such as Rigsarkivet (The National Archive) and Open Data DK allow users to add data that is enriched or improved versions of national datasets, the metadata for which can then flow into the national portal. In the case of the National Archive,  this will usually be scientists ocntributing studies made with census data. In the case of Open Data DK, this could be a municipality uploading a geodata layer showing commerical lots for sale: https://www.opendata.dk/city-of-vejle/erhvervsgrunde-salg
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://datavejviser.dk/kontakt / kontakt@datavejviser.dk;Confirm;;
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"For each dataset, contact information to the relevant party is provided (in some cases individual data stewards, in other cases service desks)
+
+Response: Contact information is provided to provide users the ability to provide feedback about data directly to the data providers. But there is not an option to, e.g., place such comments in a feed below the dataset, if that is what you are asking. ";Confirm;;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;This data is available through the relevant domain portals, such as https://www.miljoeportal.dk/ or https://www.opendata.dk/, which each dataset from these providers links to;Confirm;;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"This is possible from the places from where data is distributed: 
+
+Basic data: https://datafordeler.dk/vejledning/den-daglige-drift/
+Cadastral data: https://dataforsyningen.dk/asset/PDF/vejledninger/Atomfeeds_for_Matrikelkortet.pdf
+INSPIRE data: https://www.geodata-info.dk/srv/dan/catalog.search;jsessionid=C37FE5E0D64CF4E638631C712351B45A#/search?resultType=details&any=atom%20feed&fast=index&_content_type=json&from=1&to=20&sortBy=relevance
+Any specific query made through www.statbank.dk can be e-mailed (called “Datashooting”) if the users enable it. The procedure is described here (in Danish):
+https://www.dst.dk/da/Statistik/brug-statistikken/muligheder-i-statistikbanken
+All data releases (including Statbank) can also be followed using RSS:
+https://www.dst.dk/da/Statistik/brug-statistikken/RSS
+Or by subject based email notification service:
+https://www.dst.dk/da/OmDS/nyhedsbrev";Change;Yes;"This is possible from the places from where data is distributed: 
+
+Basic data: https://datafordeler.dk/vejledning/den-daglige-drift/
+Cadastral data: https://dataforsyningen.dk/asset/PDF/vejledninger/Atomfeeds_for_Matrikelkortet.pdf
+INSPIRE data: https://geodata-info.dk/srv/dan/catalog.search#/metadata/274da58d-1535-4309-a448-40ef9e0711cbAny specific query made through www.statbank.dk can be e-mailed (called “Datashooting”) if the users enable it. The procedure is described here (in Danish):
+https://www.dst.dk/da/Statistik/brug-statistikken/muligheder-i-statistikbanken
+All data releases (including Statbank) can also be followed using RSS:
+https://www.dst.dk/da/Statistik/brug-statistikken/RSS
+Or by subject based email notification service:
+https://www.dst.dk/da/OmDS/nyhedsbrev"
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"Through the contact options mentioned in 66a and 66b.
+
+Response: That depends on what support setup the individual data providers have. In any case, we trust our users to be able to send an email and do not see why an online form is a superior means of communcation.";Change;Yes;We often receive emails from users asking for specifc data (either data that is available, but which they have not been able to locate, or data which is not). We do not have the impression that is an impediment that they have to write us an email rather than click a button on our web page. 
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no;;Confirm;;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;In a pretty simple manner in an excel sheet. With regard to 70b: We do not believe this should be scored, as there can many legitimate reasons not to publish data on the basis of a request.;Change;Yes;Requests for new data to be made available is discussed within the team and registered in our internal tracking document for the publisher who would be able to fulfil such a request.
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;"There is no such function on the website; However, as described elsewhere, part of the function of the service organisation is to facilitate meetings and dialogue between data users and data providers.";Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;"We believe this is best handled by the relevant domain portals:
+
+o Geodata: https://dataforsyningen.dk/cases
+o Statistics Denmark publishes news articles and analyses that make use of their data: https://www.dst.dk/da/Statistik/nyheder-analyser-publ";Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";No;"o https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=38354 (Notice ""kilde"" (""source"") below each illustration
+
+o https://dataforsyningen.dk/cases/2155 ""Skærmkortet"", the map in question, is referenced throughout
+
+Response: Currently, no, not at the national portal";Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";no;;Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;"This is possible at the domain portals where relevant
+
+o Statistics Denmark: All datasets can be previewed and downloaded, using a filtering process. An example of the filtering process is:
+https://www.statbank.dk/pris6
+A preview result from this datasets could be:
+https://www.statbank.dk/pxs/85858";Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;"Cf. 75
+
+o All datasets with a geographical dimension can be previewed on maps, e.g.:
+https://www.statbank.dk/statbank5a/Graphics/mapanalyser.asp?maintable=FOLK1C&lang=1";Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;Users are able to query HVD datasets through the DCAT endpoint for the catalogue. Depending on the implementation (also in terms of INSPIRE to DCAT mapping), such a filter might also be worked into the front end, e.g. if HVD category doubles as a dcat:theme (and thus not just as :applicableLegislation)
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;Matomo;Complement;Yes;Matomo. We also track how many exposures each individual dataset has got through Google searches, as our metada is indexed by Google (also for Google Dataset Search) by virtue of it being compatible with schema.org standards. 
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";no ;N/A;Change;Yes;The authorities in charge of the actual data distribution channels (The Data Distributor, Statistikbanken, etc.) do so in order to assess the need for capacity, which service types are most popular, etc. These insights inform the continued development of data distribution, e.g. the modernisation of the Data Distributor: https://datafordeler.dk/vejledning/modernisering/
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;We conduct in-depth interviews with data users to better understand their needs;Confirm;;
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;"User input is used to prioritise what we ask our developers to work on and implement. 
+
+Most of the improvements deal with the underlying metadata and onboarding new authorities according to sought-after data. In terms of front end features we have recently implemented: 
+
+Display of Data Services, which is in high demand from advanced users. See this dataset as an example: https://datavejviser.dk/katalog/energinet/eeba34ba-6d9b-40c9-8aa1-9582741887f9 (""Datatjenester"" section""). 
+
+Additional roles in terms of the provenance of the dataset (as qualified attribution) such as Originator/Ophavsmand on this dataset: https://datavejviser.dk/katalog/rigsarkivet/96d391a9-ad7f-4e38-8329-4308416de3fd"
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;"We often participate in conferences. We are especially interested in reaching users in academia, the private sector, and local/regional government. 
+
+We engaged with the two first groups in particular with a poster at Denmark's leading data science conference in February 2024: https://d3aconference.dk/poster-session/ (cf. entry P11). Also at the events mentioned in P21. 
+
+Municipalities and regions we especially reach through collaboration with Open Data DK (a partner organisation working with these authorities), cf. the events on this page that mention Datavejviser: https://www.opendata.dk/blog?category=Events."
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;Yes, through Matomo as mentioned in PT23. This is either used to target which new organisations to onboard, or to increase the findability of metadata that is already on our site, but which the user was not able to locate for one reason or another. Improvements can then happen at either the metadata level (e.g. better descriptions, additional keywords) or at the level of the search algorithm implemented on the portal.
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"Through Matomo as described above. This is used for several purposes: 
+
+To identify for which pages it is especially important to keep metadata up to date
+To identify popular data types, which directs our onboarding efforts
+To identify overlooked data that we might want to find ways to promote 
+
+Five most popular datasets: 
+
+https://datavejviser.dk/katalog/styrelsen-for-dataforsyning-og-infrastruktur/69dabd49-2c77-4222-baf4-4525272cb756 (Højdekurver/Elevation Curves)
+
+https://datavejviser.dk/katalog/styrelsen-for-dataforsyning-og-infrastruktur/ca2cd0f1-fc15-47b7-8566-d59ab2268b5b (Skråfoto/Diagonal air photos)
+
+https://datavejviser.dk/katalog/aarhus-kommune/cc8256db-9131-4fb5-a5b6-0c0afe687dc3 (Realtids trafikdata/Real-time traffic data)
+
+https://datavejviser.dk/katalog/danmarks-statistik/924757b1-6d3f-4d49-9bfe-3e84342aa0ad (Priser for landbrugsjord/Soil prices)
+
+https://datavejviser.dk/katalog/erhvervsstyrelsen/c049316f-e1c2-4dd7-8795-636f0def106f (CVR/Central Business Registry)"
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;Cf. 80a;Change;Yes;Cf. PT28
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;To support several types of users;Change;Yes;"Example with metadata in English: https://datavejviser.dk/katalog/energinet/0cda30fa-7e0b-40e5-a10a-30a138be72e0
+
+And in Danish (different dataset): https://datavejviser.dk/katalog/danmarks-miljoeportal/1c9f0d9f-cfe4-492a-843b-ba2e71c46b0b"
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;The agreed approach is a publish with purpose principle, both in terms of data in general and metadata on the portal;Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;We offer funding and/or advice in all steps of the process: Choice of metadata standard, what information to provide, how to deliver metadata to the portal ;Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;Opendata.dk - primarily municipal and regional data;Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";not applicable;For a number of reasons, not all metadata on the local/regional portal is suitable for display on the national portal. Thus, we harvest only what we agree with the local/regional portal should be harvested.  ;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;The base registries are updated several thousand times daily: https://datavejviser.dk/dataset/4425c8dd-2803-49ec-8be5-95215d811307, https://datavejviser.dk/dataset/faac809c-3547-446f-aad1-fd89db1ab1b4, https://datavejviser.dk/dataset/cfc0e09f-512b-44aa-8611-9fea3c16490c;Change;Yes;"Much of the data on energy prices and storage capacity has this quality, cf.: https://datavejviser.dk/katalog/energinet/577c7c62-e2e1-4029-8b78-1a5e7f81d903.
+
+The same goes for weather data: https://datavejviser.dk/katalog/danmarks-meteorologiske-institut/2502abc5-cf76-413e-9e71-7bda9856e242"
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;No;
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;"The portal includes non-open data such as CPR (the civil registration system): https://datavejviser.dk/dataset/4425c8dd-2803-49ec-8be5-95215d811307 and plans to include more of this sort in the future; The focus so far has been on open data, however.";Change;Yes;"The portal includes metadata for non-open data such as CPR (the civil registration system) and data on taxation, pension rights, VAT declarations, and so on, which individuals or companies can gain access to:
+https://datavejviser.dk/katalog/udviklings-og-forenklingsstyrelsen. There are plans to add more metadata on non-open data in the future, especially health and utilities data. "
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;Sustainability is the main driver for many of the architectural and organisational choices made wrt. The national data portal. E.g. in terms of basing the portal on open source CKAN software and interoperable European standards to minimize vendor dependency. Also the decision to harvest metadata from endpoints at the data publishers so that the CKAN could be exhanged for a different data management system, should the need arise. 
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"The portal does not have its own account, but shares content through the Agency's official LinkedIn account: https://www.linkedin.com/posts/digitaliseringsstyrelsen_skab-mere-v%C3%A6rdi-med-offentlige-data-i-denne-activity-7022101316420173824-VaUN?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/digitaliseringsstyrelsen_datavejviserdk-er-i-luften-digitaliseringsstyrelsen-activity-6978987005846114305-uCVc?utm_source=share&utm_medium=member_desktop";Complement;Yes;"The portal does not have its own account, but shares content through the Agency's official LinkedIn account: https://www.linkedin.com/posts/digitaliseringsstyrelsen_skab-mere-v%C3%A6rdi-med-offentlige-data-i-denne-activity-7022101316420173824-VaUN?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/digitaliseringsstyrelsen_datavejviserdk-er-i-luften-digitaliseringsstyrelsen-activity-6978987005846114305-uCVc?utm_source=share&utm_medium=member_desktop
+
+The municipal/regional partner organisation, Open Data DK, also frequently shares information on open data topics: https://www.linkedin.com/company/open-data-dk/
+
+The portal also curates a newsletter on open data topics sent out to interested parties."
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.";yes;"The portal is based on OS CKAN software.
+
+Response: Yes, at: https://git.govcloud.dk/CTD/ckanext-datavejviser  ";Change;Yes;Yes, at: https://git.govcloud.dk/CTD/ckanext-datavejviser  
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";no;Not via a dashboard, no, but cf. 111a we monitor the characteristics and quality of metadata on the portal.;Change;Yes;"In prioritizing which authorities to onboard to the portal, the most important criterion is the general and specific demand for the data, and the immediate reusability of data (e.g. machine-readable data which is already broadly in use). But to supplement this approach, we also look at which areas of the public sector might not be the most highly profiled, but are nonetheless important to highlight to a broader audience. This has resulted in the recent additions of metadata on data about sports facilities (https://datavejviser.dk/katalog/idraettens-analyseinstitut/05ca477a-8c44-44bc-b336-4bb41e46a825), recommendations from the Danish Council on Climate Change (https://datavejviser.dk/katalog/klimaraadet/99b6a7b5-fdde-4b6c-bf5e-5882a837d327), and, before long, 
+The Royal Danish Theatre.
+
+If the question is referring to metadata, then yes, we do summary and specific statistics on the metadata to monitor which datasets are missing certain DCAT-AP attributes."
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature.";yes;Cf. 111a;Change;Yes;Cf. PT44
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;Metadata from major data distributors is harvested automatically to ensure that metadata is up-to-date. For smaller data distributors who have maybe only dataset, for which the metadata does not change very often, if at all, manual processes are usually the best solution. ;Confirm;;
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;90-99%;Dedicated endpoints maintained by the publisher or my metadata brokers such as the Danish Geoportal. 
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one week;Daily is very rarely necessary or worth it compared to the work and/or compute needed. We decide on a publisher-to-publisher basis what the best interval is. 
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;E.g. by recommending that publishers use the dcat:temporal attribute. In the rare case that a dataset is split into two or otherwise discontinued, it usually has to do with a change in the methodology for gathering said data. But most publishers publish all the data they have collected for a given dataset. 
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;Main challenge: Clarity on how to map from INSPIRE metadata to DCAT-HVD. 
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;The Agency for Digital Government recommends that public authorities use CC licenses (especially CC-BY and CC0) for open data. The implementing regulation for HVD works as a lever to increase uptake of this recommendation, including for non-HVD data.
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;Many improvements to metadata quality are made when data distributors are first onboarded to the portal. Subsequently, the open data team performs spot checking of metadata quality, in addition to automated checks to see if links are working. ;Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";no;;Change;No;"Such information is available thorugh the DEU MQA tool: https://data.europa.eu/mqa/catalogues/datavejviser/?locale=en
+
+Revision update: We do not currently link from the portal to the MQA. "
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;"This is done in different ways: 
+
+Recommendation on use of cc licenses, including guidance on how to apply them and the implications of doing so. 
+
+Danish DCAT-AP documentation: https://digst.github.io/DCAT-AP-DK/releases/v.2.0/docs/, https://arkitektur.digst.dk/specifikationer/datasaet/dcat-ap-dk
+
+Also, The national portal has just implemented a metadata entry SaaS for small publishers for whom it does not make sense to maintain a dedicated DCAT endpoint. This system provides ample guidance on how to fill in the different DCAT-AP attributes."
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;"The following information (some of which can fit into more than one DCAT attribute depending on what is more appropriate) are the baseline when onboarding publishers to the portal: 
+
+Title
+Description
+Publisher
+Access/download information
+Access/use conditions
+Data format
+One or more themes
+Contact information"
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;Recommendation, cf. https://digst.dk/data/videreanvendelse-af-offentlige-data/licens-og-brugsvilkaar-for-offentlige-data/
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;1-4;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;This is done regularly by our metadata brokers directly to their users, which leads to higher data quality downstream. Cf. These seminars held by the Environmental Portal: https://miljoeportal.dk/nyheder/2024/kom-til-webinar-i-arealeditering/, https://miljoeportal.dk/nyheder/2024/webinar-om-rottehullet-se-den-nye-brugergraenseflade/
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;We only harvest and export DCAT-AP metadata (including, on the input side, INSPIRE metadata mapped to GeoDCAT-AP). 
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;All datasets have distributions and categories, and most have license documentation;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);71-90%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;"https://arkitektur.digst.dk/specifikationer/datasaet/dcat-ap-dk
+Some minor additions have been made to account for the characteristics of the Danish public sector";Confirm;;
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;Yes;INSPIRE to DCAT mapping challenges. 
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;"The Agency for Digital Government maintains the ""Common language for data quality"" https://arkitektur.digst.dk/faelles-sprog-datakvalitet. The language is not used to formally score or assess the quality of public data, but is useful as a common frame of reference when discussing issues of data quality. ";Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;Yes, cf. 118 and 126;Change;Yes;Cf. Q14. Moreover, the Agency for Digital Government provides guidance on the publication of public data: https://arkitektur.digst.dk/metoder/begrebs-og-datametoder/teknisk-vejledning-til-udstilling-af-offentlige-data/teknisk as well as a common terminology of how to describe data quality: https://arkitektur.digst.dk/metoder/begrebs-og-datametoder/faelles-sprog-datakvalitet
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;>90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;>90%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;>90%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;>90%;N/A;Confirm;;N/A
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"As defined in the Danish Implementation of the ODD: https://www.retsinformation.dk/eli/lta/2021/1764 (§3, stk. 6 ""Videreanvendelse"")
+
+Response: On second thought, the more relevant passage is probably §7: Når dokumenter og datasamlinger stilles til rådighed for videreanvendelse, skal offentlige myndigheder og offentlige virksomheder sikre, at disse er tilgængelige i alle allerede eksisterende sprogversioner og formater, herunder i elektroniske formater. Er det muligt og hensigtsmæssigt, skal dokumenter og datasamlinger endvidere stilles til rådighed i formelle, åbne og maskinlæsbare formater sammen med dokumenters og datasamlingers metadata, medmindre det ikke kan klares ved en simpel ekspeditionssag.
+
+An unofficial translation would be: ""When documents and data collections are made available for reuse, public authorities and public companies must ensure that these are available in all already existing language versions and formats, including in electronic formats. If possible and appropriate, the documents and data collections must, moreover, be made available in formal, open and machine readable formats accompanied by metadata related to the documts and data colletions, unless this cannot be accomplished through a simple matter of form.""
+
+The last bit, ""en simpel ekspeditionssag"", is a bit hard to translate. The point is that authorities are legally required to provide data as openly as is readily possible. This legal requirement is accompanied by a strategic goal of raising this level of openness for valuable data through targeted investments.";Change;Yes;"As defined in the Danish Implementation of the ODD: https://www.retsinformation.dk/eli/lta/2021/1764 (§7, Stk. 1, ""Betingelser for videreanvendelse""): 
+
+The passage reads: Når dokumenter og datasamlinger stilles til rådighed for videreanvendelse, skal offentlige myndigheder og offentlige virksomheder sikre, at disse er tilgængelige i alle allerede eksisterende sprogversioner og formater, herunder i elektroniske formater. Er det muligt og hensigtsmæssigt, skal dokumenter og datasamlinger endvidere stilles til rådighed i formelle, åbne og maskinlæsbare formater sammen med dokumenters og datasamlingers metadata, medmindre det ikke kan klares ved en simpel ekspeditionssag.
+
+An unofficial translation would be: ""When documents and data collections are made available for reuse, public authorities and public companies must ensure that these are available in all already existing language versions and formats, including in electronic formats. If possible and appropriate, the documents and data collections must, moreover, be made available in formal, open and machine readable formats accompanied by metadata related to the documts and data colletions, unless this cannot be accomplished through a simple matter of form.""
+
+The last bit, ""en simpel ekspeditionssag"", is a bit hard to translate. The point is that authorities are legally required to provide data as openly as is readily possible. This legal requirement is accompanied by a strategic goal of raising this level of openness for valuable data through targeted investments."
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;This is done by the data distribution platforms such as the data distributor and data supply (www.dataforsyningen.dk) for basic data, the statbank for statistical data, and the environmental portal for environmental data. These portals track data usage, survey users, etc.;Complement;;"This is done by the data distribution platforms such as the data distributor and data supply (www.dataforsyningen.dk) for basic data, the statbank for statistical data, and the environmental portal for environmental data. These portals track data usage, survey users, etc.
+
+See fx https://datafordeler.dk/vejledning/modernisering/ (Last part ""Om Datafordeleren"" mentioning that the Data Distributor received 1.8b API calls) and Statistics Denmark's overview of user surveys: https://www.dst.dk/da/OmDS/strategi-og-kvalitet/brugerundersoegelser"
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer.";yes;As there is a strong political focus on data re-use, agencies have a strong incentive to monitor and document data re-use to justify continued investment in their activities. ;Confirm;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;The monitoring mentioned in I3 also applies to data that happens to be HVD.
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"The impact of open data is descibed in a number of socio-economic analyses; see pp. 19-20 (of the pdf): https://www.ft.dk/~/media/sites/statsrevisorerne/dokumenter/2018/beretning-12-2018-om-aabne-data.ashx?la=da - open data creates economic value as well as increased transparency in the public sector.
+The impact is defined as the value of the effect on production and efficiency in the private and in the public sector: https://sdfe.dk/media/2916777/de-frie-geodata-eftermaaling.pdf  https://kefm.dk/media/6500/erhvervslivets-brug-af-kortforsyningen.pdf";Confirm;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;"This varies depending on which kind of value/impact is being analysed. For geodata, one such methodology is described in this report on the private sector's use of geodata:  https://kefm.dk/media/6500/erhvervslivets-brug-af-kortforsyningen.pdf
+
+The three key points are: 
+1. Identification of main users (companies) through logdata 
+2. Financial analysis of the companies identified in 1)
+3. Qualitative research, including interviews with users";Confirm;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"o The Agency for Digital Government collaborates closely with a range of actors in the field of language technology. Open Danish language resources are made available at sprogteknologi.dk The agency co-hosts an annual conference at the University of Copenhagen with a focus on language technology: https://cst.ku.dk/kalender/sprogteknologisk-konference-2022/
+
+Open Data DK is a civil society organization that receives public funding to assist (chiefly) municipalities and regions in publishing open data. Additionally, Open Data DK receives and answers many questions from regular citizens and students looking for data - occasionally with assistance from the national portal.";Change;Yes;"o The Agency for Digital Government collaborates closely with a range of actors in the field of language technology. Open Danish language resources are made available at sprogteknologi.dk The agency co-hosts an annual conference at the University of Copenhagen with a focus on language technology: https://cst.ku.dk/kalender/sprogteknologisk-konference-2023/
+
+Open Data DK is a civil society organization that receives public funding to assist (chiefly) municipalities and regions in publishing open data. Additionally, Open Data DK receives and answers many questions from regular citizens and students looking for data - occasionally with assistance from the national portal. 
+
+See also the D3A conference participation mentioned in PT27."
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;No;
+I8-b;Surveys;new question;new question;Change;Yes;https://www.dst.dk/da/OmDS/strategi-og-kvalitet/brugerundersoegelser
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;"https://digst.dk/nyheder/nyhedsarkiv/2023/september/invitation-til-workshop-om-national-3d-model/
+
+The Agency for Digital Government is also currently conducting interviews with data reusers"
+I8-d;Other;new question;new question;Change;No;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;Case interviews conducted with portal users to understand better which types of data they are interested ind, and how they wish to access it. 
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;
+I9-c;Other;new question;new question;Change;Yes;Interviews/workshops as mentioned above: https://digst.dk/nyheder/nyhedsarkiv/2023/september/invitation-til-workshop-om-national-3d-model/
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;"Not in one way, but in many, as described elsewhere: E.g. through interviews with select re-users representing different user groups and different levels of maturity and size. Also through seminars with specific user groups, as is the case for the Environmental Portal: https://miljoeportal.dk/om-danmarks-miljoeportal/brugerseminar-i-danmarks-miljoeportal/
+
+Not all cases are presented in the same way. Some are written up as articles: https://dataforsyningen.dk/cases, others shown with short descriptions in catalogues: https://support.miljoeportal.dk/hc/da/articles/360001195017-Rotter-Slutbrugerl%C3%B8sninger, https://miljoeportal.dk/nyheder/arkiverede-nyheder/slutbrugerloesninger-til-puls/ (end user solutions for the rat database and the groundwater database, respectively), others are kept for internal use by authorities to guide their efforts.";Confirm;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";No;;Confirm;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.";yes;"https://sdfe.dk/media/2917052/20170317-the-impact-of-the-open-geographical-data-management-summary-version-13-pwc-qrvkvdr.pdf
+
+This point is elaborated in the much longer version of the report that's in Danish: https://sdfe.dk/media/2916777/de-frie-geodata-eftermaaling.pdf. See pt. 4.3., ""The effects of open geodata in the public sector"", fx figure 35 on p. 47 specifying the sectors of municipal administration that make use of open geodata";Confirm;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Open data from past environmental assessments is used to speed up the process of performing new ones: https://eatools.miljoeportal.dk/landing. Data: https://eahub.miljoeportal.dk/home. 
+
+"
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Data about GPA and student well-being (among other things) is published for all schools: https://uddannelsesstatistik.dk/Pages/main.aspx
+
+Waiting lists and patient satisfaction are shown for hospital treatments: (Random example selected here) https://www.esundhed.dk/Emner/Patienter-og-sygehuse/MitSygehusvalg?treatmentId=4&organizationGroupId=1&regionId=,,3,4,5&postalFrom=5000
+
+Ministers' expenses and gifts received are recorded: https://oes.dk/oekonomi/aabenhedsordning/oversigt-alle-ministerier/
+
+The availability of open data on hospital waiting lists contribute to fact-based journalism and political attention on waiting time in the health sector, cf. this article on neurology patients: https://neurologisktidsskrift.dk/sygdomme/388-personalemangel-og-flere-patienter-giver-lange-ventetider-pa-neurologi-afdelinger.html and this plan from Danish Regions (who runs the public hospitals) to reduce waiting lists: https://www.regioner.dk/services/nyheder/2022/september/danske-regioner-lancerer-plan-for-at-bekaempe-ventelister-og-personalemangel-i-sundhedsvaesenet"
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Yes Denmark has a long tradition for collecting data and establishing data registries. Thus, the Danish Public sector has been data-driven for many years. Since 2012 The Basic Data programme has provided the Danish Society with high quality Basic Data: 
+One example is this case from Thisted Municipality in which consulting firms leveraged free geodata to thoroughly map out an area targeted for rewilding before the project was started. This made the work much easier and saved the municipality hundreds of thousands of DKK:: https://dataforsyningen.dk/cases/2161
+
+Open data is also widely used for flooding prevention: https://dataforsyningen.dk/cases/946"
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"o Yes Denmark has a long tradition for collecting data and establishing data registries. Thus, the Danish Public sector has been data-driven for many years. Since 2012 The Basic Data programme has provided the Danish Society with high quality Basic Data: 
+One example is this case from Thisted Municipality in which consulting firms leveraged free geodata to thoroughly map out an area targeted for rewilding before the project was started. This made the work much easier and saved the municipality hundreds of thousands of DKK:: https://dataforsyningen.dk/cases/2161
+
+Open data is also widely used for flooding prevention: https://dataforsyningen.dk/cases/946"
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.";yes;"o Hjælpemiddeldatabasen (AssistData, a database for assistive technology) supplies data to public and private suppliers of assistive products and IT solutions to support stock control, information retrieval, and case management in the field of assistive technology: https://hmi-basen.dk/en/news.asp?newsid=4325&x_newstype=29. The data helps municipalities with stock management, information search, and case handling in the field of assistive technology. 
+
+o Education statistics (Udannelsesstatistik) highlights the performance of students at a school as compared to what might be ""expected"" of them given their socioeconomic background, thus allowing for more fair comparisons between schools: https://uddannelsesstatistik.dk/Pages/main.aspx
+This benchmarking data is used to facilitate discussions on student welfare between teachers, students, and parents, cf. the examples pp. 22ff.: https://emu.dk/sites/default/files/2020-02/1.%20En%20guide%20til%20skoleledelsen.pdf
+
+Response: Researchers based at Aalborg University have conducted a number of studies especially on the impact of open data for fostering data literacy in public schools, cf. e.g. the publication list of professor Rikke Magnussen: https://vbn.aau.dk/da/persons/126546/publications/, namely articles such as: https://vbn.aau.dk/ws/portalfiles/portal/468963477/paper07.pdf and https://www.sciencedirect.com/science/article/pii/S0360131521001718?via%3Dihub";Confirm;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"The Ministry of Immigration and Integration publishes a national ""Integration barometer"": https://integrationsbarometer.dk/barometer. Here, progress is tracked for nine key indicators of integration of foreigners into Danish society - nationally and by municipality. This allows policy-makers to target those areas where progress is lacking. 
+
+o The Danish Immigration Service and The Danish Agency for International Recruitment and Integration (SIRI) maintain a site in Danish, English, and Ukrainian that collects all relevant information from Danish authorities to Ukrainian refugees: https://www.nyidanmark.dk/uk-UA/Words%20and%20Concepts%20Front%20Page/Shared/Information%20Ukraine. Moreover, the Partnership for the employment of Ukrainians, which is a collaboration between the public sector and employers' and employees' associations, has launched the website https://jobguideukraine.dk/. The site provides link to relevant resources for Ukrainian job seekers. 
+o Statistics Denmark maintains a thematic page about the war in Ukraine: https://www.dst.dk/da/Statistik/temaer/invasion-af-ukraine
+The Danish Agency for Labour Market and Recruitment tracks the employment status for Ukrainian refugees in Denmark: https://www.jobindsats.dk/rapportbank/monitorering-af-arbejdsmarkedet/monitorering-af-fordrevne-personer-fra-ukraine/."
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;Open data is used extensively in all stages of land development. Current and past local area plans dating back decades are digitized  and free to access for developers, city planners, residents, and others at: https://visplaner.plandata.dk/lokalplan?loc=665690%2C6237500%2C2. This makes the process of planning housing smoother as planners are able to easily find suitable and designated areas. See also the environmental assessment tools mentioned in I23.
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"• https://www.sundhed.dk/borger/ and MinSundhed can be used by all citizens to view and access their personal medical data. You can view laboratory answers, find doctors and get an overview of prescription medicine. 
+
+o On the same platform it’s possible to access the doctor's handbook to get an overview of procdures etc. and also the patient handbook for similar overview
+
+Open health data is used to inform public debate about health-related issues, cf. this article highlighting the fact that Ozempic weight loss-medicine is disproportionately prescribed to citizens living in wealthy parts of the country: https://ugeskriftet.dk/nyhed/det-er-desvaerre-mere-okonomien-end-overvaegten-der-er-afgorende-om-patienterne-far-wegovy
+"
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Statistics Denmark collaborates with and mentors university students that wish to make use of their data in theses: https://www.dst.dk/da/OmDS/Job/studerende
+Also Open Data DK and the Danish National Data Portal receive and reply to many inquiries from students looking for data for their papers.
+"
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.";No;"o Climate change adaption monitors rain and seawater levels using open geodata
+https://en.klimatilpasning.dk/
+o Danish open INSPIRE data are used in a range of monitoring and eReporting at EU level. 
+A list of 44 unique reporting data sets fulfilling 49 regulatory reporting obligations coming from 20 different legal acts within the acquis of DG ENV and linked to EEA core data flows where relevant
+See https://www.eea.europa.eu/ for examples of applications and reporting based on this data. 
+
+ The Climate Atlas made by the Danish Meteorological Institute is used by municipalities, companies, and students alike: https://www.dmi.dk/klima-atlas/sadan-anvendes-klimaatlas/, https://www.dmi.dk/klimaatlas/.";Change;Yes;See the collection of research and popular publications on the impact of HIP, the Hydrological Information and Prognostication System: https://hip.dataforsyningen.dk/pages/userforum.html. These publications assess the use of HIP in climate change adaptation and suggest new pathways for further development. Cf. fx the recommendations from this paper  https://data.geus.dk/gpub-landingpage/?id=34684: (In Danish), especially the paragraph on page 53. As well as the short article on pages 39-40 in this magazine describing the use of HIP and how it can be complemented by data which is available in prototype form in SDFI Labs: https://issuu.com/ktc-teknikogmiljo/docs/teknik_milj_-_januar_februar_2023, https://dataforsyningen.dk/labs (Befæstelsesdata and LAR - data).
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;Yes, cf. The reuse of environmental assessments mentioned in I13. This leads to quality improvements in addition to the efficiency gains mentioned above, and more accurate environmental assessments will ultimately benefit the protection of biodiversity.
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;Fx through the use of open data on parking spot availability, thus reducing the amount of traffic made up by those who drive around looking for a place to park, cf. this recent article from our partner organisation OpenDataDK describing the re-use of such data from the Danish city Vejle: https://www.opendata.dk/blog/nye-aabne-live-parkeringsdata-nemmere-at-finde-ledig-parkeringsplads-og-mindre-forurening/
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;Open weather data and flood wornings from the Danish Meteorological Insititute are combined with local warning systems to inform efforts in the case of flooding, e.g. by directing personnel towards at-risk areas, emptying reservoirs to prepare for new precipitation, etc.: https://www.klimatilpasning.dk/viden-om/teknologi/hverdagsregn-og-skybrud/varsling-overvaagning-og-styring/. A number of use cases are collected on this page on climate change adaptation (klimatilpasning). Moreover, a new and improved national flood warning system is being developed, which combines open weather and hydrology data: https://www.geus.dk/om-geus/nyheder/nyhedsarkiv/2023/maj/varsling-af-oversvoemmelser
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;The Danish municipalities and the Agency for Data and Infrastructure have developed a data model for reporting Alternative Fuels Infrastructure to the IT system GeoFA: https://geofa-kort.geodanmark.dk/app/fkg/?config=/api/v2/configuration/fkg/configuration_fkg_udgivet_5f465f5d3181f687353260.json#Basis_kort/8/9.7545/55.8869/fkg.t_5607_ladefacilitet. Data to this system is reported by private and public actors alike and can be used by anyone: https://www.kl.dk/hoeringssvar/teknik-og-miljoe/2024/hoeringssvar-aendring-af-lov-om-infrastruktur-for-alternative-drivmidler-til-transport. This data can be used by, e.g., smartphone apps showing the availability of charging stations, as well as municipalities in deciding where to build more infrastructure.
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";yes;"The ministry of digital government publishes an annual report on Denmark's Digital  Growth, partly in response to the DESI: https://digmin.dk/Media/638186177595246382/ENDELIG%20Redeg%c3%b8relse%20om%20Danmarks%20Digitale%20V%c3%a6kst%202023.pdf 
+Cf. p. 12. citing a number of studies - some of them broader analyses, others based on Danish data - showing the relation between the level of digitisation and economic growth. This can at least in part be ascribed to basic data, which functions as the basis for millions of transactions in the private and public sectors each day. 
+
+o Several reports and analyses have indicated that the value of open geodata and basic data in general ranges in billions of DKK: 
+https://gst.dk/media/2916790/de-frie-geodata-eftermaaling.pdf
+https://sdfe.dk/media/2917052/20170317-the-impact-of-the-open-geographical-data-management-summary-version-13-pwc-qrvkvdr.pdf
+https://sdfe.dk/data-skaber-vaerdi/nyheder/nyhedsarkiv/2017/mar/stor-stigning-i-vaerdien-af-de-frie-geografiske-grunddata/
+https://sdfe.dk/media/2917052/20170317-the-impact-of-the-open-geographical-data-management-summary-version-13-pwc-qrvkvdr.pdf";Complement;Yes;"The ministry of digital government publishes an annual report on Denmark's Digital  Development partly in response to the DESI: https://www.digmin.dk/Media/638503467001028518/Redeg%c3%b8relse%20om%20Danmarks%20Digitale%20Udvikling%202024%20endelig.pdf 
+Cf. p. 34. citing a number of studies - some of them broader analyses, others based on Danish data - showing the relation between the level of digitisation and economic growth. This can at least in part be ascribed to basic data, which functions as the basis for millions of transactions in the private and public sectors each day. 
+
+o Several reports and analyses have indicated that the value of open geodata and basic data in general ranges in billions of DKK: 
+https://gst.dk/media/2916790/de-frie-geodata-eftermaaling.pdf
+https://sdfe.dk/media/2917052/20170317-the-impact-of-the-open-geographical-data-management-summary-version-13-pwc-qrvkvdr.pdf
+https://sdfe.dk/data-skaber-vaerdi/nyheder/nyhedsarkiv/2017/mar/stor-stigning-i-vaerdien-af-de-frie-geografiske-grunddata/
+https://sdfe.dk/media/2917052/20170317-the-impact-of-the-open-geographical-data-management-summary-version-13-pwc-qrvkvdr.pdf"
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"The Danish Agency for Labour Market and Recruitment has developed tools such as ""Vores Arbejdsmarked"" (Our Labour Market) and ""Kompetenceværktøjet"" (The Skills Tool) which uses open data from the agency's job portal JobNet to determine which types of positions and skills are in high demand in individual municipalities, which can help job seekers direct their efforts: https://jobindsats.dk/rapportbank/monitorering-af-arbejdsmarkedet/vores-arbejdsmarked/, https://jobindsats.dk/rapportbank/monitorering-af-arbejdsmarkedet/kompetencevaerktojet/, data from https://jobindsats.dk/databank/"
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"A number of Danish language resources are made available as open data on sprogteknologi.dk to aid in the development of Danish-language AI: https://sprogteknologi.dk/ 
+The project ""CoRaL"" is in the process of collecting, transscribing and publishing speech data as open data to alleviate issues of bias that otherwise arise when developing language technology for a language with limited available data. The data and models are being developed in collaboration with companies who have pledged to develop solutions on top. This does not change that all the data and models will be open for anyone to reuse. The first data was released in April: https://sprogteknologi.dk/dataset/coral-tts. 
+
+As an example of a use case, the municipality of Sønderborg has developed a tool to help aid caseworkers handle FOA requests: https://ai-aktindsigt.dk/. The models and data from the project have been shared for reuse: https://ai-aktindsigt.dk/datatilsynet-bekraefter-grundmodel-og-datasaet-kan-udstilles.html and include data scraped from other Danish municipalities’ web pages. 
+"
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Danish companies are among the most digitised in the world, owing in part to the availability of robust and connected pbulic data. Cf. this report from the association of Danish SME's: https://smvdanmark.dk/analyser/temaanalyser/produktive-danske-smver
+
+The ministry of digital government publishes an annual report on Denmark's Digital Development, partly in response to the DESI: https://www.digmin.dk/Media/638503467001028518/Redeg%c3%b8relse%20om%20Danmarks%20Digitale%20Udvikling%202024%20endelig.pdf 
+Cf. pp. 33ff. citing a number of studies - some of them broader analyses, others based on Danish data - showing the relation between the level of digitisation and economic growth. 
+
+o Several reports and analyses have in+[@[Provide updated explanation (if applicable)]]"
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Danish companies are among the most digitised in the world, owing in part to the availability of robust and connected pbulic data. Cf. Reports 
+
+The ministry of digital government publishes an annual report on Denmark's Digital Development, partly in response to the DESI: https://www.digmin.dk/Media/638503467001028518/Redeg%c3%b8relse%20om%20Danmarks%20Digitale%20Udvikling%202024%20endelig.pdf 
+Cf. pp. 33ff. citing a number of studies - some of them broader analyses, others based on Danish data - showing the relation between the level of digitisation and economic growth. 
+
+o Several reports and analyses have indicated that the value of open geodata and basic data in general ranges in billions of DKK: 
+https://gst.dk/media/2916790/de-frie-geodata-eftermaaling.pdf 
+https://sdfe.dk/media/2917052/20170317-the-impact-of-the-open-geographical-data-management-summary-version-13-pwc-qrvkvdr.pdf 
+https://sdfe.dk/data-skaber-vaerdi/nyheder/nyhedsarkiv/2017/mar/stor-stigning-i-vaerdien-af-de-frie-geografiske-grunddata/ 
+https://sdfe.dk/media/2917052/20170317-the-impact-of-the-open-geographical-data-management-summary-version-13-pwc-qrvkvdr.pdf"

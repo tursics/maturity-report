@@ -1,0 +1,697 @@
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";other;"Federal ICT Strategy 2020-2023, Implementation: Master plan (document only available in german: Anhang B: Masterplan - Ausgabe 2020) point 3.3 ""Strategische Initiative SI-3 «Once-Only Prinzip», Kern-Initiative"" (SI 3.3): https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/strategie-planung/ikt-strategie_bund_2020-2023.html";Change;Yes;"(1) https://www.fedlex.admin.ch/eli/cc/2023/682/fr#art_10
+(2) Loi fédérale sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités (LMETA), Art. 10 Données ouvertes
+(3) With the entry into force of the EMOTA, the open by default principle, which is part of the 2019-2023 Open Government Data strategy (OGD Strategy), will be enshrined in law. The federal administration will be obliged to publish its data in the form of OGD by default, within three years of the new law coming into force, scheduled for early 2024."
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"https://www.fedlex.admin.ch/eli/fga/2019/125/de, also available in English: https://www.bfs.admin.ch/bfs/en/home/services/ogd/documentation.assetdetail.16164831.html
+You'll find the highlights here: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/strategie.html";Complement;;"(1) https://www.bfs.admin.ch/bfs/fr/home/services/ogd/masterplan.assetdetail.28425806.html
+(2) Masterplan Open Government Data 2024-2027: The OGD strategy will thus be pursued by a plan of measures (Masterplan OGD 2024-2027), aimed at supporting the federal administration in implementing Art. 10 of the EMOTA concerning open government data, and with the goal of continuing the initiatives of the OGD strategy. The OGD master plan sets out the principles, goals and measures for open government data and defines implementation priorities for the federal administration. The publication and use of OGD give rise to new questions relating to law, ethics, governance and others, as well as new responsibilities. The measures in the OGD master plan will help to clarify these. The OGD office is also strengthening its role as an information centre for open access government data. It supports the use and publication of open data, as well as automatic information processing tools. The OGD master plan is also an important reference document for the cantons, communes and parastate enterprises, which are encouraged to promote the open access publication of government data.
+
+To support the administrative units in implementing Art. 10 of the EMOTA, five principles have been defined, each with its corresponding measures. These principles should help stakeholders to become familiar with the main principles of OGD, such as open by default and open by design, and to promote collaboration, exchanges and networking within the OGD community, so that the full potential of open government data can be exploited within the framework of legal, organisational, technical and semantic requirements. Emphasis has been placed on developing synergies with research and data science. The implementation of this law is  also intended to ensure that Switzerland remains both compatible and competitive at international level with regards to open government data."
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;"For example: City of Lucerne has an ""OGD-Strategiehaus"": https://www.stadtluzern.ch/opengovernmentdata; City of Zurich has a strategy OGD 2030; The canton of Zug has a joint strategy for open government data: https://zg.ch/de/news/news~_2022_9_Gemeinsame-Strategie-fuer-offene-Verwaltungsdaten-im-Kanton-Zug~; Strategy for Geodata: https://www.geo.admin.ch/fr/news-13012023-le-plan-action-sgs-2023-est-arrive";Complement;Yes;"Switzerland is a federal state. There are many strategies at regional and local level. Here are a few examples. 
+OGD strategy canton berne: https://www.kaio.fin.be.ch/de/start/themen/rechtliche-grundlagen/open-government-data.html
+Geneva city: https://www.geneve.ch/publication/politique-donneees-2024-ville-geneve
+Open Data Basel Stadt: https://www.statistik.bs.ch/ueber-uns/rechtliche-grundlagen/fachstelle-ogd.html
+Kanton Aargau: https://www.smartservicesaargau.ch/#grundlagen
+Kanton Zug: https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/fachstelle/open-government-data-1/downloads/ogd-strategie/download
+Stadt Zürich: https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat/geschaefte-des-stadtrates/stadtratsbeschluesse/2021/Jul/StZH_STRB_2021_0743.html"
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;"The Appendix of the Strategy for open government data in Switzerland 2019-2023 is an action plan, its structure follows the 5 defined objectives:
+Promote coordinated data publication
+Data and data description: Quality
+The central portal opendata.swiss
+Administrative data overview
+Promotion of data use
+https://www.bfs.admin.ch/bfs/en/home/services/ogd/documentation.assetdetail.16164831.html";Complement;Yes;"The Masterplan OGD 2024-2027 contains 5 directions and 10 objectives: 
+1. Availability: Obj. 1 - Open access data are published in a coordinated manner in accordance with the LMETA.
+2. Quality of (meta)data: Obj. 2 - OGDs can be easily reused; Obj. 3 - OGDs have a high quality of (meta)data.
+3. Infrastructure: Obj. 4 - A central source of information on the publication of OGDs exists and is known; Obj. 5 - Users can easily find available OGDs.
+4. Synergies: Obj. 6 - The OGDs are integrated into the Swiss data ecosystem; Obj. 7 - The processes for the OGDs are established in the federal administration.
+5. Exchanges: Obj. 8 - An open data culture is established within the administration; Obj. 9 - The needs of OGD users are taken into account and integrated; Obj. 10 - The impact of OGD is regularly measured and communicated."
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Change;Yes;"It is not an incentive, but the EMBAG regulation states that OGD data must be published in accordance with the OGD principles, one of which is to publish as soon as possible, if possible even in real-time (see p. 8).
+This is particularly important for dynamic data (including environmental data, traffic data, satellite data, meteorological data and data generated by sensors), which are constantly changing and whose economic value depends on their availability without delay and with regular updates. Dynamic data should be made available through an application programming interface (""API"") immediately after acquisition or creation or, in the case of a manual update, immediately after the dataset has been modified, in order to facilitate the development of Internet, mobile and cloud applications based on such data. 
+URL: https://www.newsd.admin.ch/newsd/message/attachments/84343.pdf"
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";no;;Confirm;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;Support and encourage the re-use of data is the 5th objective of the strategy. Different measures are defined, which particulary aim at the improvement of data competences and at supporting the network between data users and providers.;Complement;Yes;"Direction 5 Objectives 8  (p. 19, OGD masterplan 2024-2027): Strengthen competencies and expand networking in the OGD area (exchange). 
+Measures include the following
+- Interdisciplinary exchange in the OGD area is facilitated and actively promoted.
+- The creation and dissemination of communities of practice will be promoted.
+- A program of training courses for public administration will be created to strengthen skills"
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;Creation of community events to encourage the dialogue publishers-users, creation of supporting tools and guidelines, measures to support the development of data literacy.;Confirm;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;The creation of overview is an explicit objective of the OGD-Strategy.;Complement;Yes;"LMETA, Art. 14 Plateforme d’interopérabilité
+https://www.fedlex.admin.ch/eli/oc/2023/682/fr#art_14
+The inventory can be carried out directly on the interoperability platform www.i14y.admin.ch"
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;The aim of the I14Y-Platform is that all of the Federal Administration's data collections are described here in a form that provides information on the existence and quality of the data held. More Information: www.i14y.admin.ch;Complement;Yes;[mro] The inventory can be carried out for all data (open, closed and shared) on the interoperability platform
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Not Applicable;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"The activities to support open government data (OGD) in Switzerland are organised by various bodies, including the specialist body for data management and interoperability, the OGD forum and two operational working groups (legal and portal).
+
+The specialist body for data management and interoperability is responsible for coordinating data management and interoperability throughout the Federal Administration. It also coordinates open government data and OGD activities.
+
+The main function of the OGD forum is to facilitate the sharing of expertise on open data and support stakeholder debate on this topic in Switzerland. It also provides support for the implementation of the OGD activities set out in the 2024‒2027 OGD master plan. To this end, it sets out recommendations for the development of OGD in Switzerland, supports the coordinated implementation of OGD throughout Switzerland and raises awareness throughout the Federal Administration of the OGD principles in accordance with the federal act (EMOTA). Additionally, it encourages multistakeholder participation and debate on OGD matters at every level of the Swiss federal system. The members of the OGD forum have the power to set up independent working groups.
+
+Two working groups have been set up to support delivery of the OGD master plan. The portal working group oversees the operation and development of the opendata.swiss portal. This group is open to all opendata.swiss contributors. The legal working group ensures that OGD activities have a solid legal basis and that conditions for the use of OGD keep pace with new developments."
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;At a federal level it works more top-down, whereas at national level it follows more a concept of cooperation;Confirm;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Not Applicable;The administrative structure at federal level is supported by a law (EMBAG). This law does not apply to the cantons and municipalities, but serves as a guide for them. In principle, however, a regulated governance structure at federal level should also facilitate initiatives at regional level.   
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";approximately half of the public bodies;;Change;The majority of public bodies;There are very few public bodies that don't have open data initiatives.  
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";yes;https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/aktivitaeten.html;Complement;Yes;Organisation of open government data activities under the 2024–2027 master plan: https://www.bfs.admin.ch/bfs/en/home/services/ogd/activities.html
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"It's the same team; OGD office: https://www.bfs.admin.ch/bfs/en/home/services/ogd.html";Complement;Yes;This is the same team. The OGD office maintain the national portal and is also in charge of the cross-cutting OGD theme at the national level (open data team).
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;Various dedicated posts for dedicated open data officers have been created on the federal level (OGD Office) but also at the cantonal level (OGD Basel, OGD Zürich);Complement;Yes;"OGD data stewards from the departments will be appointed at federal level this year. 
+Task: 
+- Maintenance of metadata and data of the organizational unit
+-Harmonization according to the semantic standards (metadata) defined in a specific subject area
+-Correct and complete maintenance of metadata, including the preparation and publication of Open Government Data (OGD)
+- Responsibility for maintaining the quality of data content and structures within the organizational unit "
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"OGDDACHLI: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/dachli.html, Forum OGD: https://twitter.com/opendataswiss/status/1651813602733555714; Linked Data Day: https://lindas.admin.ch/linked-data-day/?lang=en";Complement;Yes;"We have regular meetings in the OGD working group of KORSTAT. OGD representatives from the Swiss cantons, municipalities and cities as well as the OGD office meet here to share their knowledge and experience. See Attachement AGO OGD Korstat 
+Open Government Data Forum : https://www.bfs.admin.ch/bfs/en/home/services/ogd/activities.html "
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Open Data Beer, for example last november organized by OGD Office and Liip AG: https://opendatabeer.ch/impressionen/open-data-beer-nr-20-29-11-2022/;Complement;Yes;"Opendata.ch/Forum: https://opendata.ch/de/events/opendata-ch-2024-forum/
+Open Data Beer: https://opendatabeer.ch/
+Linked Data Meetup: https://www.bfh.ch/de/aktuell/fachveranstaltungen/linked-data-meetup-1-24/
+Hackathons: https://www.bk.admin.ch/bk/en/home/digitale-transformation-ikt-lenkung/bundesarchitektur/api-architektur-bund/govtech-hackathon24.html"
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"There are overarching initiatives and handbooks and many organizations are better defining their internal process. Geodata is particularly well managed. https://www.geo.admin.ch/en/base-geodata and for geometadata: https://www.geocat.admin.ch/en/documentation/application.html
+On cantonal level: guidelines from canton zurich: https://www.zh.ch/de/politik-staat/opendata/leitlinien.html";Confirm;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;"Monitoring and ""Controlling"" are generally an important task of the open government data office. The OGD office is obligated to deliver a yearly progress report to the government.";Complement;Yes;"OGD-Masterplan 2024 - 2027 p. 13 chapter 5: In cooperation with the various stakeholders, the OGD office coordinates the evaluation of the implementation of operational informal consultations to evaluate the implementation of the operational objectives (section 5). It monitors the status of implementation of the action plan and prepares information for the management level in order to facilitate decision-making 
+with a view to updating this master plan. The evaluation takes the following dimensions into account into account:
+- Evaluation of the implementation of the operational objectives: Overview of the status of implementation of the measures using the indicators proposed in Chapter 6;
+- Evaluation of the OGD offering: status of the OGD offering in comparison with the objectives set (including FSO performance indicators);
+- Monitoring the implementation of OGD at cantonal level;
+- International comparison: Switzerland in international comparison in the OGD area"
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;"Yes, the master plan OGD (2024-2027) is based on the results of a user survey. At the same time, workshops were held with participants from the federal government, cantons and municipalities, academia and civil society. In order to define the master plan according to the different needs of the participants, within the framework of the EMBAG regulations. The previous strategy (2019-2023) was also evaluated and its results taken into account: https://www.efk.admin.ch/en/audit/implementation-of-key-recommendations-general-secretariat-of-the-federal-department-of-home-affairs-and-federal-statistical-office/. 
+
+The master plan is updated every 4 years, corresponding to the duration of the legislature. The new proposal is submitted to the Federal Council, which decides the measures to be taken in the OGD field."
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";I don't know;;Change;No;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;"1) Missing clear legal base for OGD publications
+2) Lack of understanding from the federal offices (both at the management level and the base, even if there are of course many good exceptions) about the importance of OGD
+3) somewhat a lack of gouvernance in data management";Change;N/A;"1) Lack of understanding of the importance of OGD by some federal agencies (both at the management level and at the grassroots level, although there are many good exceptions).
+2) A certain lack of governance in data management also because of federalism. Should be resolved with EMBAG and the NaDB program.
+3) Lack of financial and human resources"
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"OGD will be anchored in a federal law as of 01.01.2024: https://www.parlament.ch/en/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20220022; Awareness is growing thanks to multiple initiatives both internal (more and better publications) and from the user side (interesting and innovative use of OGD awakens the interest of federal bodies to publish). Implementation (fourth realisation in August 2023) of the Data Management and Open Government Data training module: https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-und-open-government-data-2023/
+The national data management programme puts in place a governance model for data management at national level: https://www.bfs.admin.ch/bfs/en/home/nadb/nadb.html";Complement;Yes;"""-LMETA: https://www.fedlex.admin.ch/eli/cc/2023/682/fr#art_10 
+-Masterplan OGD 2024-27 : https://www.bfs.admin.ch/bfs/en/home/services/ogd/masterplan.html
+-National data management program (NaDB) : https://www.bfs.admin.ch/bfs/en/home/nadb/nadb.html 
+-various other programs"""
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;"The OGD Office
+ - Supporting administrative units and data providers in referencing open datasets on opendata.swiss
+- Promotion of (OGD) data competence through theoretical and practical training in the management of (meta)data within and outside the federal administration.
+URL: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/geschaeftsstelle.html
+Handbook: https://handbook.opendata.swiss/fr/"
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;"There are different activites in place. In particular we organise an official course on the topic ""open data & data management""";Complement;Yes;https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, >9;https://opendata.ch/events, opendatabeer.ch, ;Complement;Yes, >9;"Hackathons: https://opendata.ch/projects/hackathons/ ; https://www.bk.admin.ch/bk/en/home/digitale-transformation-ikt-lenkung/bundesarchitektur/api-architektur-bund/govtech-hackathon24.html
+Lecture: https://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/fruehjahrssemester_2024/index_ger.html"
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;https://opendata.swiss/en/;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Complement;N/A;it is based on CKAN
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;"On the front page of https://opendata.swiss/en, below the search box, you will find the ""Access the data catalog using the API"" link, which will take you to this page: https://handbook.opendata.swiss/fr/content/nutzen/api-nutzen.html"
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;No;
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;https://handbook.opendata.swiss/fr/content/nutzen/api-nutzen.html
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.";new question;new question;Change;No;
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Change;Yes;https://opendata.swiss/de/contact
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;Link to Twitter @opendataswiss and the Open Government Data NewsMail, see: Get involved on https://opendata.swiss/;Complement;Yes;"LinkedIn: https://www.linkedin.com/showcase/opendata-swiss/
+Instagram: https://www.instagram.com/opendata.swiss/"
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"see Button ""Subscribe on dataset level, for example: https://opendata.swiss/en/dataset/covid-19-schweiz";Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no;;Confirm;;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";no;;Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://opendata.swiss/en/showcase/ ;Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;"Under ""Datasets in Showcase"" you can find the referenced datasets, for example: https://opendata.swiss/en/showcase/geoml-machine-learning-im-einsatz-mit-open-data-aus-dem-strassenverkehr";Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;"With a webform (see Button ""Submit showcase"") https://opendata.swiss/en/showcase";Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;see Preview for example: https://opendata.swiss/de/dataset/grossratswahlen-2004-kandidatenstimmen-nach-herkunft-der-stimmen-panaschierstatistik-bezirk-fra/resource/c3ca0ae4-0529-46c8-9f16-9dc961596704;Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;https://opendata.swiss/de/dataset/amtliches-ortschaftenverzeichnis-mit-postleitzahl-und-perimeter;Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;Matomo Webanalytics;Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";no ;N/A;Confirm;;
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;We did a survey last year: https://www.bfs.admin.ch/bfs/en/home/services/ogd/documentation.assetdetail.23445843.html and we regularly check twitter statistics;Complement;Yes;We did a survey in 2022: https://www.bfs.admin.ch/bfs/en/home/services/ogd/documentation.assetdetail.23445843.html. This helped us to better understand the needs and expectations of users and providers of open government data in Switzerland. The results were incorporated into the development of the OGD masterplan 2024-2027. The masterplan was developed last year in a participatory manner (workshop), incorporating the needs of users. We regularly check twitter statistics and LinkedIn statistics.
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;"One of the most common user feedback was that open and machine-readable formats should be used. Since then, we have been trying to raise awareness among data publishers. In addition, we are now trying to provide aids and tools to support data quality. 
+The results of the above-mentioned survey (PT25)are also being incorporated into our opendata.swiss next project."
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;We participate in many events. For example in the Govtech Hackathon 2023 and 2024. With a challenge, we can present the portal to a wider audience (academia, business, public sector). In addition, different people can contribute to the improvement of our portal and get to know it from a different perspective. We also make presentations and contributions to various areas of the public sector and academia. We also promote it a lot on social media (LinkedIn, Instagram, X) and through our newsletter.
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;We monitoring keywords with matomo. The results give us a better understanding of how and what people search on opendata.swiss. These insights into search terms help us, among other factors, to improve the search function on opendata.swiss so that datasets can be found more easily. They also provide information on which topics are relevant for the user in a given time frame.
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"Yes, we use Matomo. There we have custom properties (e.g. dataset, organization) and you can see which pages are the most/least visited in a time frame. But you can also see which organization is the most/least visited and within an organization which page is the most/least visited. Publishers may need this information to improve their offerings (e.g. dataset and which distribution is high in demand) or to promote datasets that are not in high demand.
+ Our five most popular datasets on the portal are:   
+1. https://opendata.swiss/de/dataset/referenz-marktpreise-gemass-art-15-enfv
+2. https://opendata.swiss/de/dataset/echtzeitdaten-am-abstimmungstag-zu-eidgenoessischen-abstimmungsvorlagen
+3. https://opendata.swiss/de/dataset/mep401-chnr-actors
+4. https://opendata.swiss/de/dataset/amtliches-ortschaftenverzeichnis-mit-postleitzahl-und-perimeter
+5. https://opendata.swiss/fr/dataset/landeskarte-1-25000"
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;We feed the datasets into a search engine to faciltate discoverablity. We also add structure data via schema.org to the dataset templates to facilitate discoverablity by search engines.;Confirm;;
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Confirm;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";approximately half of the public sector data providers;"Today, participation is encouraged by the different OGD strategies. A law regulating the provision of OGD at federal level will come into force on 1 January 2024. Within the next 4 years, we aim to have all providers at the federal level. For the cantonal and communal level, the law is only valid for guidance; here we are aiming for the majority.";Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;Yes, representatives of each department have been shown how in one department, for example, a new tool is being tried out to support offices that have little affinity for data. The data are then modeled in this specific tool and made available on the various platforms, e.g. opendata.swiss. ;Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;"https://data.bs.ch/pages/home/
+https://www.lustat.ch/daten
+https://data.stadt-zuerich.ch/
+https://www.tourismdata.ch/traffic-and-mobility-data/
+https://geo.fr.ch/portal/apps/sites/#/geoportal
+https://zt.zuerich.com/de/open-data
+https://daten.sg.ch/pages/home0/
+https://www.ag.ch/de/themen/datenportal#/
+https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html?keywords=ogd#/
+https://data.tg.ch/pages/start/
+https://www.bern.ch/open-government-data-ogd
+https://lindas.admin.ch/
+https://www.geo.admin.ch/de/geo-dienstleistungen/geodienste/linkeddata.html
+https://www.i14y.admin.ch/en/home
+https://opentransportdata.swiss/de/
+https://data.sbb.ch/pages/home/
+https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/home
+https://swisspost.opendatasoft.com/pages/home/
+https://envidat.ch/#/
+https://opendata.cern.ch/
+https://data.snb.ch/
+https://data.swisscom.com/explore/?sort=modified
+https://data.sz.ch/explore/?sort=modified
+https://data.bl.ch/explore/?sort=title";Complement;Yes;Here is a curated list of all OGD portals (national, cantonal, city-level etc. in Switzerland: : https://opendata.swiss/de/showcase/awesome-ogd-switzerland-kuratierte-liste-aller-wichtigen-links-rund-um-das-open-data-angebot-in
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";the majority of datasets;;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;"https://opendata.swiss/de/dataset/echtzeitdaten-am-abstimmungstag-zu-kantonalen-abstimmungsvorlagen
+https://opendata.swiss/de/dataset/echtzeitdaten-am-abstimmungstag-zu-eidgenoessischen-abstimmungsvorlagen
+https://opendata.swiss/de/dataset/verkehrszahldaten-motorisierter-individualverkehr-miv-im-kanton-zurich
+https://opendata.swiss/en/dataset/verkehrszahler-strassenverkehr-echtzeit";Confirm;;
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;No;
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;Yes or no: not on the OGD-portal, but the goal of the plattform I14Y is to show all metadata from open, shared and closed public datasets: https://www.i14y.admin.ch/en/home.;Confirm;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;"In the OGD-Masterplan: https://www.bfs.admin.ch/bfs/fr/home/services/ogd/masterplan.html
+Direction 3 Objective 7.3 (page 17) Sustainably strengthen the opendata.swiss platform and the corresponding metadata catalog  (infrastructure)"
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;Twitter: https://twitter.com/opendataswiss, LinkedIn: https://www.linkedin.com/showcase/92970995/admin/;Complement;Yes;"LinkedIn: https://www.linkedin.com/showcase/92970995/
+X: https://twitter.com/opendataswiss
+since 2024 on Instagram: https://www.instagram.com/opendata.swiss/
+and facebook https://www.facebook.com/opendata.swiss/"
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.";yes;https://github.com/opendata-swiss;Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";no;;Confirm;;
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature.";no;;Confirm;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;Data publishers (for example public administrative offices) are directly responsible for it;Confirm;;
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;90-99%;"We have two harvesters: one for DCAT datasets (ckanext-dcatapchharvest) and one for geometadata from the national geometadata portal geocat.ch (ckanext-geocat). For the latter, we need a special mapping from the geometadata standard to the DCAT-AP CH. 
+To install the harvester, we need a harvester endpoint from the publisher, who decides how often his catalog should be harvested from the national portal (daily, weekly, monthly, etc.).  "
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;Once the harvester is finished, the metadata is updated. We have fixed cronjobs installed for each harvester (e.g. every day at 1 am). But you can also update the harvester manually by starting a reharvest.
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;No;We only have the modified date to show that something has changed in the dataset. But no versioning at the moment. 
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;But we are following DCAT-AP HVD and will decide later if and how to use it in Switzerland. 
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;Part of the publication process is a review, carried out from OGD Office check. We also perform an monthly automatic validation of metadata, which checks the conformity of the dataset to the DCAT-AP CH standard. We plan to make this validation more and more rigorous, to increase the metadata quality. Furthermore a link checker runs and data publishers are informed once a month. ;Complement;Yes;"Part of the publication process is a review carried out by the OGD office. We also perform a monthly automatic validation of the metadata, which checks the conformity of the dataset with the DCAT-AP CH standard (SHACL-Checker). We plan to make this validation more and more rigorous in order to increase the quality of the metadata. In addition, a link checker runs and data publishers are informed once a month. URL to OGDCH-Checker: https://github.com/opendata-swiss/ogdch_checker 
+URL: https://github.com/opendata-swiss/ogdch_checker"
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";no;;Complement;No;But we're in the process of setting up a dashboard for metadata quality, like the one on data.europa.eu. Publication of the dashboard scheduled for December 2024
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;"OGD-guidelines: https://handbook.opendata.swiss/fr/content/glossar/bibliothek/ogd-richtlinien.html
+"
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;Here in this overview table you can see which fields from the DCAT-AP CH are mandatory, conditional or optional on opendata.swiss: https://handbook.opendata.swiss/fr/content/glossar/bibliothek/dcat-ap-ch.html#overview
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;"On the portal, we need terms of use derived from the CC licenses. But the publisher can also use the CC-Licence, but only for their own catalog and for data.europa.eu. The terms of use are mandatory on the portal. 
+URL: https://handbook.opendata.swiss/fr/content/glossar/bibliothek/dcat-ap-ch.html#dcat-distribution-license, https://opendata.swiss/en/terms-of-use, https://www.dcat-ap.ch/vocabulary/licenses/20210623.html"
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;1-4;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;The OGD Office offers training courses for data publishers on OGD and data management, where the topics of metadata and data quality are also addressed (https://www.bfh.ch/ogd-weiterbildung). It also organizes the OGD Forum twice a year, where various publishers present their processes and discuss topics such as (meta)data quality. The OGD working group KORSTAT is a forum for the exchange of experiences in the field of data publication. This is particularly helpful for cantons that are at the beginning of the process and can therefore benefit from the experience of early adopters
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;DCAT-AP CH is intended to ensure compatibility with the Application Profile for Data Portals in Europe (DCAT-AP). As this was no longer the case with version 1, the eCH Open Government Data Working Group defined the current version 2, which ensures the highest possible compatibility with DCAT-AP version 2.1.0). In May 2024, the eCH Open Government Data Working Group started the process to ensure that DCAT-AP CH is compatible with the current DCAT-AP version 3.0.0.
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;>90%;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;;Confirm;>90%;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);51-70%;we use frequency, though it is called accrual_periodicity, see here: https://ckan.opendata.swiss/api/3/action/package_search?fq=accrual_periodicity:*;Confirm;51-70%;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;We have DCAT-AP CH in version 1, which was created in 2018 and builds on DCAT-AP version 1. Version 2.0.0 has recently been approved by eCH. The definition area is https://dcat-ap.ch/. There you will find both versions of the DCAT-AP CH. The portal is mainly based on the DCAT-AP conformance, but also on the version 1 of the DCAT-AP CH, as it contains some Swiss fields used by the community. The decision to create a version 2 of DCAT-AP CH and to keep a national application profile was a difficult one. We decided to keep it because there are particularities in the use of the standard, there are properties such as distribution coverage that the Swiss community relies on and that can't be found in DCAT-AP. The vocabulary also needs Swiss adaptations. Licences are used in a different way than in DCAT-AP. We felt that it would better support the Swiss community if Switzerland maintained its own profile and explained how classes and properties are adapted to the Swiss context. While version 1 of DCAT-AP CH was not DCAT-AP compatible with version 2.0.1 of DCAT-AP. DCAT-AP CH V2 is now compatible with DCAT-AP.;Complement;Yes;We have DCAT-AP CH in version 1, which was created in 2018 and builds on DCAT-AP version 1. Version 2.0.0 has recently been approved by eCH. The definition area is https://dcat-ap.ch/. There you will find both versions of the DCAT-AP CH. The portal is mainly based on the DCAT-AP conformance, but also on the version 1 of the DCAT-AP CH, as it contains some Swiss fields used by the community. The decision to create a version 2 of DCAT-AP CH and to keep a national application profile was a difficult one. We decided to keep it because there are particularities in the use of the standard, there are properties such as distribution coverage that the Swiss community relies on and that can't be found in DCAT-AP. The vocabulary also needs Swiss adaptations. Licences are used in a different way than in DCAT-AP. We felt that it would better support the Swiss community if Switzerland maintained its own profile and explained how classes and properties are adapted to the Swiss context. While version 1 of DCAT-AP CH was not DCAT-AP compatible with version 2.0.1 of DCAT-AP. DCAT-AP CH V2 is now compatible with DCAT-AP v2.0.1. In May 2024, the eCH Open Government Data Working Group started the process to ensure that DCAT-AP CH is compatible with the current DCAT-AP version 3.0.0.
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;Yes;The main reasons for the lack of conformity with the DCAT-AP are specific features in the Swiss context. For example, the coverage of distribution, which the Swiss community relies on and which cannot be found in DCAT-AP. The vocabulary also requires Swiss adaptations. Licenses are used differently than in DCAT-AP. 
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;Change;71-90%;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Change;>90%;N/A
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;We use the 5-Star Open Data;Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;In our OGD-guideline we promote the 5-Star Open Data model. We do reviews.;Complement;Yes;In our OGD-guideline we promote the 5-Star Open Data model. We do reviews. Within the eCH working group OGD, we have recently started to create aids and tools for metadata quality and data quality.
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;>90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;51-70%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;10-30%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;Change;10-30%;N/A
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";no;;Confirm;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";no;;Change;Yes;"The Open Government Data Masterplan 2024 - 2027 contains Principle 5 with the goal 10 “The impact of OGD is regularly measured and communicated”. The following indicators are used.
+- Number of datasets, showcases and data stories by theme;
+- Portal usage statistics (e.g. via Matomo Analytics);
+- Impact monitoring using the method recommended by data.europe.eu (KPI).
+URL: https://www.bfs.admin.ch/bfs/fr/home/services/ogd/masterplan.html"
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer.";yes;"Part of the data management and OGD training covers ""Measuring and promoting data re-use"", see content:  ""https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-und-open-government-data-2023/
+response to reviewers: This training is free of charge for administrative employees. The content of the training in this area is Knowledge transfer on the impact of OGD. What we can achieve with OGD. Highlighting international examples of OGD-impact.  Impact measurement concepts and difficulties. Presentation of impact areas with reference to the Open Data Maturity Report 2022. Benefits of OGD intermediaries. The focus of this training is not only on the impact, but it is also a part of it.";Complement;Yes;"In addition to the mentioned training, an event on the impact of OGD was organized last year by the association opendata.ch. Together with opendata.ch, the OGD Office organized a workshop on the topic of impact and how to measure it with the title ""Mapping the Impact of Open Government Data – OGD Masterplan"".
+URL: https://opendata.ch/events/opendata-ch-2023-forum/
+Slides: https://opendata.ch/wordpress/files/2023/07/20230616_forum_opendata_extern.pdf"
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"In a published study on the economic impact of Open Government Data (https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/dokumentation.assetdetail.11147089.html) the economic impact of OGD ist defined as follows ""The economic impact of OGD is defined as the benefits accruing to suppliers, us-ers and re-users of data and information in terms of profits generated, jobs created and supported as well as the wider benefits to society from it.""";Confirm;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;"The Impact Monitoring Framework: https://boris.unibe.ch/75031/1/CeDEM2016%20-%20Impact%20Monitoring%20Framework%20V06.pdf
+- it is based on a structured and consistent list of criteria. 
+- method to measure the value of OGD initiatives and projects.
+- it used  the Social Return on Investment (SROI) approach to measure the impact
+- it proposes as a possible source for the selection of data catagories the classification according to G8 summit in 2013";Confirm;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"https://opendata.ch/events/, https://prototypefund.opendata.ch/; https://www.bk.admin.ch/bk/en/home/digitale-transformation-ikt-lenkung/bundesarchitektur/api-architektur-bund/govtech-hackathon.html";Confirm;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;Yes;N/A
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;No;
+I8-b;Surveys;new question;new question;Change;Yes;"Swisstopo has conducted a survey to find out if and how its open geodata are used professionally?
+URL: https://www.linkedin.com/posts/swisstopo_swissgeodevelopment-swisstopo-ogd-activity-7109823539557355520-B8S3?utm_source=share&utm_medium=member_desktop"
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;Open data users are regulary invited to events, forums or workshops to share their use cases and experience
+I8-d;Other;new question;new question;Change;No;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;We have created a working group where data publishers can provide feedback and suggest improvements on the portal
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;
+I9-c;Other;new question;new question;Change;No;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;"Response to reviewers: Since automn 2022, the portal opendata.swiss has a showcase form for data users to easily submit their showcases, see button ""Submit showcase"" on the showcases page: https://opendata.swiss/en/showcase. The process of collecting and reviewing showcases is now much easier. The OGD Office encourages at every opportunity (e.g. events, Twitter, LinkedIn) to upload showcases. Another way to collect reuse cases is the example of the open data portal of the city of Bern: they have formulated potential ideas and questions for the reuse of their open data and added links to corresponding datasets, see: https://www.bern.ch/open-government-data-ogd/ideen-fuer-dienstleistungen.
+Another way is to bring together students and data publishers. An example is that of the Bern University of
+of Applied Sciences: https://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/fruehjahrssemester_2023/index_ger.html. It encourages the collaboration between public bodies and students. They are looking for data coaches every year. The students reuse open data from different public bodies, one example is from the canton of Thurgau: https://ogd.tg.ch/anwendungen/open-data-vorlesung-2022.html/14316. Some public bodies are very involved here, for example https://www.opendata.bs.ch/neu/aktivitaeten.html (Open Data Veranstaltung 2023: Speed Dating am 23.03.2022).";Confirm;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;On opendata.swiss they are classified according to categories and type of content: https://opendata.swiss/showcase;Complement;Yes;"The open data portal of the canton of Basel categorizes its use cases into three categories: ""data visualizations"", ""data journalism"" and ""applications and apps"".
+URL: https://www.opendata.bs.ch/anwendungen.html
+city of zurich categorizes its use cases after year: https://www.stadt-zuerich.ch/portal/de/index/ogd/anwendungen.html"
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.";I don't know;"There is a study from 2019 about how the concept ""open data"" and ""transparency"" are related and perceived in public administration in Switzerland: https://www.tandfonline.com/doi/full/10.1080/15309576.2019.1657914 
+""The impact of open data on the perception of transparency does not seem to be significant. Our findings show that open data does not increase the transparency of public administrations, which is understood as a continuous process that goes beyond simple data provision. This perception is certainly motivated by the fact that the random release of datasets does not always make them useful or valuable for users (Susha et al., Citation2015). In this sense, it appears crucial to note that open data, if it is to serve the purpose of greater administrative transparency, should be developed in a way that guarantees possible reuse by and empowerment of citizens.""";Confirm;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Use Case 1: The publication of the IATI activity and organisation files improves the transparency of SDC activities and financing. The data is re-used by several publication tools on Internet, such as d-portal.org. The data is used to provide a general overview of international cooperation activities from different kinds of actors (bilateral agencies, development banks, NGO, private sector, etc.) so that both the providers and the beneficiaries know what is done where.
+Dataset: https://opendata.swiss/en/dataset?q=sdc
+Reuse case: https://d-portal.org/
+Use Case 2: Using registers such as https://schema.ld.admin.ch/PoliticalMunicipality - Reuse Cases are all cases that also use the FSO commune number (instead of listing the commune name alone in the data)."
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"1)Water suppliers from canton zurich must provide their customers with comprehensive information about the quality of their drinking water at least once a year. To support water suppliers in implementing their duty to inform consumers, the cantonal laboratory visualizes data from drinking water tests in the ""Züri Trinkwasser Map"".
+https://www.zh.ch/de/gesundheit/lebensmittel-gebrauchsgegenstaende/lebensmittel/trinkwasser.html
+Dataset: https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1362@gesundheitsdirektion-kanton-zuerich
+2)
+1 - https://data.bs.ch/pages/gsv-dashboard-spitaeler/
+2 - https://data.bs.ch/explore/dataset/100320/
+3 - An interactive dashboard was created to move away from a PDF report. The annual PDF report on hospital numbers required resources – thanks to the dashboard, time and money can be saved."
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Together with other administrative bodies and partners, the Zurich Statistical Office is providing publicly accessible data to show how the coronavirus crisis is affecting society. The monitoring bundles daily updated data series, which are intended to shed light on the developments triggered by the coronavirus crisis in all areas of life.
+Dataset: https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/740@statistisches-amt-kanton-zuerich
+Visualization: https://www.web.statistik.zh.ch/cms_vis/covid19_indikatoren/"
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Digital Twin Zurich: https://www.stadt-zuerich.ch/content/ted/de/index/geoz/plan-und-datenbezug/3d-stadtmodell.html
+The Digital Twin is an important data basis for decision-making processes: https://link.springer.com/article/10.1007/s41064-020-00092-2"
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.";I don't know;;Confirm;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;I don't know;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"1) Dataset: https://opendata.swiss/de/dataset/statistik-der-schweizer-stadte-2024
+5 Insights about housing developments in a media article from SRF: https://www.srf.ch/news/schweiz/bevoelkerung-religion-politik-so-entwickeln-sich-die-schweizer-staedte
+2) article about empty dwellings with data from OFS: https://tageswoche.ch/gesellschaft/interaktive-grafik-in-den-beiden-basel-stehen-schweizweit-am-wenigsten-wohnungen-leer/
+3) Using data to correct wrong assumptions: https://tageswoche.ch/politik/bei-der-bodeninitiative-gehts-um-40-prozent-der-kantonsflaeche-falsch/"
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Raising awareness of bicycle accidents in cities
+Dataset: https://www.stadt-zuerich.ch/portal/de/index/ogd/anwendungen/2023/velounfallrechner.html
+Reuse: https://www.nzz.ch/zuerich/so-gefaehrlich-ist-ihre-zuercher-veloroute-ld.1821947"
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Platform sCHoolmaps https://www.schoolmaps.ch/
+Open geospatial data for education: https://www.zebis.ch/unterrichtsmaterial/schoolmaps-bringt-geodaten-den-unterricht
+On sCHoolmaps.ch, teachers can find numerous ideas and materials for using geodata in their lessons. In working with digital data and tools, students will develop important skills from the Media and Computer Science module related to presenting, structuring, and evaluating
+data.
+Potential of this platform: https://lernetz.schule/schoolmaps-daten-zur-schweiz-fuer-den-unterricht/"
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.";I don't know;;Confirm;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Reuse: https://rues.data-bs.ch/onlinedaten/onlinedaten.html
+The visualization shows the online data of the Rhine monitoring station as follows: 1.1.2002 to 31.12.2017 hourly, thereafter raw data every quarter of an hour.
+https://www.aue.bs.ch/nm/2023-rheinwasserqualitaet-aus-schwimmperspektive-wsu.html"
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Digital Twin Zurich: https://www.stadt-zuerich.ch/content/ted/de/index/geoz/plan-und-datenbezug/3d-stadtmodell.html
+-To enable the use of the digital twin, open governmental data is being utilized in order to facilitate contributions from the different stakeholders and their accessibility to the city data, see 2.3. The Digital Twin of the City of Zurich: https://www.mdpi.com/2071-1050/13/6/3386 
+-According to this blog entry, this digital twin is very good for sustainable urban planning: ""Utilizing digital twins, Zurich has crafted a digital sandbox of the city, enabling planners to experiment with various development strategies. This digital foresight ensures that each infrastructural evolution aligns seamlessly with sustainability objectives, allowing the city to flourish without compromising its ecological integrity."" According to this blog entry, this digital twin is very good for sustainable urban planning."" https://www.toobler.com/blog/digital-twin-and-sustainability"
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;https://www.meteoswiss.admin.ch/climate/climate-change/changes-in-temperature-precipitation-and-sunshine/climate-monitor.html
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"use case: https://www.energieschweiz.ch/tools/energiereporter/
+Dataset: https://opendata.swiss/en/dataset/energie-reporter
+The Energy Reporter observes the development of the energy future in the municipalities. Where do Switzerland's municipalities stand when it comes to electric cars, renewable heating, solar power and electricity consumption.
+The EnergyReporter has met with a great response. The media and municipalities use it. The dataset is used by the SRF Climate Monitor and My Blue Planet. 
+"
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";I don't know;response to reviewers: unfortunately not;Change;I don't know;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;I don't know;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Predikon is a website born out of an academic project by the Information and Network Dynamics Laboratory (INDY Lab) at the Swiss Federal Institute for Technology in Lausanne (EPFL). Its main goal is to provide predictions about votes in Switzerland, as soon as municipal results are published by Swiss cantons starting at 12:00pm on the day of a vote.
+Dataset: https://opendata.swiss/en/dataset/echtzeitdaten-am-abstimmungstag-zu-eidgenoessischen-abstimmungsvorlagen
+Predikon x DemoSquare Predikon is now operated by DemoSquare, a startup of EPFL and INDY Lab launched by the creators of Predikon. Their predictions are being used by Swiss media Le Temps and NZZ.
+Start-up: https://demosquare.ch/landing/
+Monitor and analyze political and regulatory activities with artificial intelligence."
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"One example of a company start-up is geoimpact AG: it enables sustainable decisions with information technology
+https://www.geoimpact.ch/"
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;I don't know;

@@ -103,7 +103,10 @@ class Shield {
                                 if (v && (v === value)) {
                                     score = s && s ? parseInt(s, 10) : NaN;
                                 } else {
-                                    console.error(scoreItem.ID, value);
+                                    var maxScore = this.getMaxScore(obj);
+                                    if (maxScore > 0) {
+                                        console.error(scoreItem.ID, value);
+                                    }
                                 }
                             }
                         }

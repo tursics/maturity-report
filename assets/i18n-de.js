@@ -10,6 +10,8 @@ i18n['de'] = {
     'country-es': 'Spanien',
     'country-fr': 'Frankreich',
     'country-ie': 'Irland',
+    'country-it': 'Italien',
+    'country-lt': 'Litauen',
     'country-pl': 'Polen',
     'country-sk': 'Slowakei',
     'country-ua': 'Ukraine',

@@ -1,0 +1,917 @@
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"A Law was approved and published in August 2021 (Law No. 68/2021) that transposes Directive 1024/2019. URL: https://dre.pt/dre/detalhe/lei/68-2021-170221042. Among several topics, this Law focuses on catalogs and inventories of documents and data available for reuse, including dynamic data, real-time data; with special importance for high-value datasets, (made available using API, with accessible quality metadata). This Law reinforces  formally, the central open data portal (dados.gov) as the national repository for the open datasets from the PA - Public Administration. Other aspects in line with the national policy for open data: 
+1 - Resolution of the Council of Ministers (RCM) No. 30/2020, Measure 12 - ""Circular Data Economy"", that approves the Action Plan for the Digital Transition,""RCM No. 30 2020"";
+2 - Law No. 26/2016, Article 10º |3, Article 19º |6 , that regulates access to administrative and environmental information and the reuse of administrative documents. One of its highlights it’s the implementation of the principle of active dissemination of information, on which the entities subject to this Law should make available a set of updated information on their websites, without the citizen having to ask for it; ""Law 26_2016"";
+3 - Commission for Access to Administrative Documents (CADA), an independent administrative entity that works with the Assembly of the Republic and aims to ensure compliance with legal provisions regarding access to administrative information, in particular, Law No. 26/2016;
+4 - RCM No. 91/2012, which Approves the National Digital Interoperability Regulation; ""RCM No. 91 2012"".
+5 - Decree-Law No. 149/2015, CHAPTER IV, Article 28º |2, that establishes the legal regime for safeguarding intangible cultural heritage, ""Decree-Law No. 149/2015"";
+6 - Decree-Law No. 47/2020. Article 6 |5, which designates entities to ensure the registration and processing of data in the National Register of Animals Used in Circuses, ""Decree-Law No. 47/2020"";
+7 - Decree-Law No. 156/2019, CHAPTER III, Article 13 | 3, which regulates the creation and maintenance of a system for the collection, registration, and analysis of data on science and technology, ""Decree-Law No. 156/2019"";
+8 - National Geographic Information System (SNIG) https://snig.dgterritorio.gov.pt/saber-mais/legislacao.";Confirm;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";not applicable;"Does not exist a formal National Open Data Strategy published yet. Since 2021, a project is underway for the National Data Strategy, (URL: https://portugaldigital.gov.pt/en/accelerating-digital-transition-in-portugal/get-to-know-the-digital-transition-strategies/national-data-strategy/). The document should be finshed until the end of 2022 but to our knowledge that was not accomplished.
+Another project coordenated by the AMA (Administrative Modernization Agency) is in execution since August 2022 for the definition if the Data Strategy in the Public Administration (URL: not available); Both projects addresses open data as well. 
+Other relevant informations are:
+The Recovery and Resilience Plan (PRR) has a mission framework that also defines strategic objectives for open data. (URL: https://recuperarportugal.gov.pt/wp-content/uploads/2021/10/PRR.pdf). In addition to these references, there are others; that are also related to open data: 1 - In regards to public open data, the strategy is embedded in our ICT government strategy, as an enabler of innovation and competitiveness, with measures including: the extension of the open data disclosure and use via the national data portal; the disclosure of execution indicators and benefits accomplished by executing public administration policies, initiatives and projects; and, the provision of instruments that facilitate the participation of citizen in public decision processes. 2 - It is part of the National Strategy for AI to guarantee an ethical-by-design AI, where open data plays a relevant role. Please see URL: https://tic.gov.pt/pt/web/tic/guia .
+View ""AI strategy"" on https://www.incode2030.gov.pt/sites/default/files/julho_incode_brochura.pdf. 3 - It is part of the INCoDE.2030's competencies to elaborate the ""National Open Data Strategy"" view more on this link https://www.incode2030.gov.pt/sites/default/files/portugal_incode_en_web_single_0.pdf. There is currently a preliminary report. See appendix ""preliminary-report"". Also within INCoDE.2030 there is a plan on data life cycle management in the Public Administration, which includes an extensive re-qualification of Public Administration agents and a training program for Chief Data Officers. INCoDE.2030 is an integrated public policy initiative dedicated to strengthening digital skills. 4 - The Portuguese simplification programme - SIMPLEX, which acts as a general purpose action plan for the modernization of the public administration, has measures related to open data. https://www.simplex.gov.pt/medidas. 5 - There are strategies for open data portals, sectoral or local, as an example: Lisbon City Council specific strategy http://lisboaaberta.cm-lisboa.pt/index.php/pt/estrategia-de-dados-abertos . 6 - A project is being executed at present time named ""Public Administration's Data National Strategy and Action Plan"" (""Estratégia Nacional de Dados na AP e respetivo Plano de Ação"") in which are included measures for the public administration's open data. Information about this project can be found in the transparency portal, URL: https://www.base.gov.pt/Base4/pt/detalhe/?type=contratos&id=9502376.";Change;Yes;"The National Data Strategy is a finalized document that was supposed to be published by the end of 2023. However, due to political changes, the caretaker government postponed its publication. The new executive is expected to publish it within the next few months. This strategy (document attached to the survey with the name ""Estratégia Nacional de Dados_20231219_v1.0.pdf"") aims to ensure that Portugal is one of the pioneering countries participating in the European data ecosystem, thus enhancing its value, creating new services and products both in Portugal and beyond its borders.
+The National Data Strategy provides continuity and strengthen national open data initiatives and the re-use of public sector information, whose general principles are approved in Law No. 68/2021 (already rectified by Rectification Declaration No. 31/2021), which in turn transposes into national law Directive (EU) 2019/1024 of 20 June 2019. This aspect of the strategy has been embodied by the open data initiative promoted by the Agency for Administrative Modernization, IP (AMA), through the dados.gov portal that already provides a wide range of data from various public agencies that can be openly accessed, with a clear aim to be an engine for economic, societal and environmental development.
+The National Data Strategy, covers the national open data initiatives and the re-use of public sector information, whose general principles are approved in Law No. 68/2021 (already rectified by Rectification Declaration No. 31/2021), which in turn transposes into national law Directive (EU) 2019/1024 of 20 June 2019. 
+
+Other relevant informations are:
+The Recovery and Resilience Plan (PRR) has a mission framework that also defines strategic objectives for open data. (URL: https://recuperarportugal.gov.pt/wp-content/uploads/2021/10/PRR.pdf). In addition to these references, there are others that are also related to open data: 1 - In regards to public open data, the strategy is embedded in our ICT government strategy, as an enabler of innovation and competitiveness, with measures including: the extension of the open data disclosure and use via the national data portal; the disclosure of execution indicators and benefits accomplished by executing public administration policies, initiatives and projects; and the provision of instruments that facilitate the participation of citizen in public decision processes. 2 - It is part of the National Strategy for AI to guarantee an ethical-by-design AI, where open data plays a relevant role. Please see URL: https://tic.gov.pt/pt/web/tic/guia .
+View ""AI strategy"" on https://www.incode2030.gov.pt/sites/default/files/julho_incode_brochura.pdf. 3 - It is part of the INCoDE.2030's competencies to elaborate the ""National Open Data Strategy"" view more on this link https://www.incode2030.gov.pt/sites/default/files/portugal_incode_en_web_single_0.pdf. There is currently a preliminary report. See appendix ""preliminary-report"". Also within INCoDE.2030 there is a plan on data life cycle management in the Public Administration, which includes an extensive re-qualification of Public Administration agents and a training program for Chief Data Officers. INCoDE.2030 is an integrated public policy initiative dedicated to strengthening digital skills. 4 - The Portuguese simplification programme - SIMPLEX, which acts as a general purpose action plan for the modernization of the public administration, has measures related to open data. https://www.simplex.gov.pt/medidas. 5 - There are strategies for open data portals, sectoral or local, as an example: Lisbon City Council specific strategy http://lisboaaberta.cm-lisboa.pt/index.php/pt/estrategia-de-dados-abertos . 6 - A project is being executed at present time named ""Public Administration's Data National Strategy and Action Plan"" (""Estratégia Nacional de Dados na AP e respetivo Plano de Ação"") in which are included measures for the public administration's open data. Information about this project can be found in the transparency portal, URL: https://www.base.gov.pt/Base4/pt/detalhe/?type=contratos&id=9502376."
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;"It exists at the level of some municipal councils. Example 1: Lisbon City Council (Lisboa Aberta, URL: https://lisboaaberta.cm-lisboa.pt/index.php/pt/estrategia-de-dados-abertos). Example 2: Cascais City Council (URL: https://data.cascais.pt/pt-pt/node/253). Example 3: Porto City Council (URL:https://www.portodigital.pt/wp-content/uploads/2021/03/Plano-de-Gestão-e-Valorização-de-Dados-do-Município-do-Porto-_VFinal.pdf); etc.";Complement;Yes;Ex 4: Intermunicipal  Community (CIM) Viseu Dão Lafões has launched its own open data portal (https://www.cimvdl.pt/cim-lanca-portal-dos-dados-abertos/). Ex 5: The Autonomous regions of Azores and Madeiras have also launched their open data portals - https://dadosabertos.madeira.gov.pt/ and https://dados.azores.gov.pt/
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;"By the Law No. 68/2021. Examples: The entities covered must ensure the publication of available documents and data, inventories of accessible documents and related metadata, as well as search possibilities, under the terms of the regime of access to administrative and environmental information and the reuse of administrative documents. The data.gov portal is the central catalog of open data in Portugal, with the function of aggregating, referencing, publishing and hosting open data from different bodies and sectors of Central, Regional and Local Public Administration, also functioning as an indexing portal, of content hosted on other open, sectoral or decentralized data portals or catalogs:
+• The open data made available therein must maintain levels of updating and permanent quality, so that they can be reliably reused by other computer applications;
+• If the entity producing the open data does not make them accessible from its own systems, it must make them available on the data.gov portal, and must also ensure that they are always updated there. The related metadata must always be made available in an updated form to the data.gov portal, in order to facilitate their search and location as open data, including in cases where the entity producing the open data makes them accessible from of own systems; etc.
+The  concrete action/measures planned for the fulfilling of those obligation are laid down in the document ""Plano de Ação Transversal para a Transformação Digital da AP 2021-2023""  (https://tic.gov.pt/documentos/plano-de-acao-para-a-transformacao-digital-da-ap-2021-2023), which corresponds to the Action Plan for ""Estratégia de Transformação Digital da AP 2021-2023"" (https://tic.gov.pt/estrategias/estrategia-2021-2026), Action 2 comprehends several measures relating to the open data filed.";Complement;;The National Data Strategy provides continuity and strengthen national open data initiatives and the re-use of public sector information, whose general principles are approved in Law No. 68/2021 (already rectified by Rectification Declaration No. 31/2021), which in turn transposes into national law Directive (EU) 2019/1024 of 20 June 2019. This aspect of the strategy has been embodied by the open data initiative promoted by the Agency for Administrative Modernization, IP (AMA), through the data.gov portal that already provides a wide range of data from various public agencies that can be openly accessed, with a clear aim to be an engine for economic, societal and environmental development.
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"Of common scope to some of the strategies/policies, it is referred: The creation of infrastructures to support the consumption of data in real-time on the open data national portal; The identification of services that produce and optimize the consumption of data in real-time; The increase of real-time datasets on the national open data portal. One of ""CTIC TIC 2021-2023-2026 Strategy"" key goals is a single, integrated system allowing to enrich operational databases with geolocation, cartographic, socio-economic, populational, meteorological information, and points of interest. Real-time updates with smart business information and analysis tools. In the Simplex program, it is referred the following measures that feature real-time data: Measure # 119 Work Suitability Form with a model that will allow obtaining statistical indicators, in real-time, of anonymized (aggregated) data on work capacity by sector of activity, profession, geographic area, gender, among others; Measure # 144 Single Agriculture Portal that aims to promote the simplification and streamlining of the relationship with farmers, citizens, companies and other economic agents, functioning as an online service point, with progressive availability of all information and services provided by the bodies of the Governmental Area of";Complement;;"The National Data Strategy envisages a governance model that includes the development of a collaborative and dynamic ecosystem that enhances data altruism and the creation of value synergies between the various stakeholders. In this sense, the strategic pillar “Governance” materializes in a set of three strategic objectives: 1) the establishment of solid guidelines for the ethical and efficient management of data, promoting their reliability and security throughout their life cycle; 2)effective collaboration between stakeholders, encouraging the exchange of data and resources in a mutually beneficial way to drive innovation and value creation; 3)continuous monitoring and monitoring of the progress of data-related actions, using models to assess the impact that the initiatives proposed in the strategy have on society and the economy."
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Change;Yes;"Law 68/2021 , which replaces law 26/2016, approves the general principles on open data and transposes Directive (EU) 2019/1024 of the European Parliament and of the Council, of 20 June 2019, on open data and the reuse of public sector information and states that any singular person who possesses information can publish and access data via the national open data portal. 
+Also, one of the 4 pillars of its first Open Administration National Action Plan (URL: https://ogp.eportugal.gov.pt/monitorizacao) is precisely open data. OGP Portugal aims to guarantee concrete commitments from governments to promote transparency, encourage public participation, fight corruption, and use new technologies to strengthen participatory democracy - https://ogp.eportugal.gov.pt/inicio. 
+In December of 2022, following the pillars of the second Open Administration National Action Plan 2022 (URL: https://ogp.eportugal.gov.pt/ii-panaa), AMA launched the Mosaico platform (URL: https://mosaico.gov.pt/), which promotes universal access to information between the state and the citizen. 
+The third Open Administration National Action Plan (2024-27) is now underway (URL: https://ogp.eportugal.gov.pt/iii-panna)
+
+Besides OGP, other examples are:
+Despite the fact that there is not yet a formally approved strategy for open data (https://portugaldigital.gov.pt/en/accelerating-digital-transition-in-portugal/get-to-know-the-digital-transition-strategies/national-data-strategy/; https://www.incode2030.gov.pt/dados-abertos/), open data and data reuse are set as priorities for Portugal. In the Transversal Action Plan for Public Administration Digital Transformation (which contains transversal actions contributing for the implementation of the Strategy for Public Administration Digital Transformation 2021-2026), it is set up as transversal measure (https://tic.gov.pt/estrategias/plano-de-acao-transversal/valorizacao-dados-acao-transversal). It is emphasized that data literacy capacity building is crucial, as well as a great focus on inclusion and digital literacy. This is consistent with the Open Data Guide, in which there is a clear outline of the advantages for open data for different users and the emphasis on the importance of establishing an open data ecosystem that involves various stakeholders (examples below) in the process of open data and reuse (https://www.ama.gov.pt/documents/24077/24804/guia_dados_abertos_ama.pdf/aa97d8e8-c5fe-47ab-9500-734948c02b19, especially pages 7-8 and 23).
+An important example of establishing an open data ecosystem that involves various stakeholders, namely citizens, is citizen science projects. Several entities foster these data ecosystems to provide services to the community and contribute to science. Examples of such projects are: IPMA (https://www.ipma.pt/) and CIIMAR (https://www.ciimar.up.pt/), which have a project for monitoring jellyfish on the Portuguese coast, GelAvista (https://www.cienciacidada.pt/project/15); the RadAR project (https://eu-citizen.science/project/467), in which three Portuguese schools participate in an international effort to reduce indoor radon exposure; and CCMAR (https://ccmar.ualg.pt/en/our-strategy), which has several projects for citizen data sharing related to the marine environment (https://ccmar.ualg.pt/en/citizen-science). Several others can be found on this site: https://www.cienciacidada.pt/projects.
+1) Arquivo.pt, which promotes an annual contest for innovative works based on open data (preserved by Arquivo.pt). Arquivo.pt is developed by the Scientific Computing Unit of FCT - Foundation for Science and Technology - https://sobre.arquivo.pt/pt/colabore/premios-arquivo-pt/premio-arquivo-pt-2024/. 
+2) The Urban Co-Creation Data Lab project aims to support decision-making at the city level regarding high-quality services for citizens. The project is a collaboration between the Portuguese government (AMA) and NOVA IMS University. The project supports new planning and management approaches with new tools to evaluate the impact and predict various service demands (URL: https://www.urbandatalab.pt/). 
+3) The DSPA represents the Data Science sector and promotes data science in Portugal and internationally. The association also promotes regulation, ethics, and security in the field of data science. It shares experiences, innovations, case-studies, and success stories and promotes innovation and entrepreneurship of Portuguese companies (URL: https://dspa.pt/)
+
+#Reply following questions form the research team:
+Despite the fact that there is not yet a formally approved strategy for open data (https://portugaldigital.gov.pt/en/accelerating-digital-transition-in-portugal/get-to-know-the-digital-transition-strategies/national-data-strategy/; https://www.incode2030.gov.pt/dados-abertos/), open data and data reuse are set as priorities for Portugal. In the Transversal Action Plan for Public Administration Digital Transformation (which contains transversal actions contributing for the implementation of the Strategy for Public Administration Digital Transformation 2021-2026), it is set up as transversal measure (https://tic.gov.pt/estrategias/plano-de-acao-transversal/valorizacao-dados-acao-transversal). It is emphasized that data literacy capacity building is crucial, as well as a great focus on inclusion and digital literacy. This is consistent with the Open Data Guide, in which there is a clear outline of the advantages for open data for different users and the emphasis on the importance of establishing an open data ecosystem that involves various stakeholders (examples below) in the process of open data and reuse (https://www.ama.gov.pt/documents/24077/24804/guia_dados_abertos_ama.pdf/aa97d8e8-c5fe-47ab-9500-734948c02b19, especially pages 7-8 and 23).
+An important example of establishing an open data ecosystem that involves various stakeholders, namely citizens, is citizen science projects. Several entities foster these data ecosystems to provide services to the community and contribute to science. Examples of such projects are: IPMA (https://www.ipma.pt/) and CIIMAR (https://www.ciimar.up.pt/), which have a project for monitoring jellyfish on the Portuguese coast, GelAvista (https://www.cienciacidada.pt/project/15); the RadAR project (https://eu-citizen.science/project/467), in which three Portuguese schools participate in an international effort to reduce indoor radon exposure; and CCMAR (https://ccmar.ualg.pt/en/our-strategy), which has several projects for citizen data sharing related to the marine environment (https://ccmar.ualg.pt/en/citizen-science). Several others can be found on this site: https://www.cienciacidada.pt/projects."
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";no;"Only by events like webinars, workshops and public presentations; Not explicitly fostered in strategy/policy.";Change;Yes;Datasets published on the national open data portal dados.gov.pt are discoverable and accessible thorugh the data.europa.eu portal. URL: https://data.europa.eu/data/datasets?query=Portugal&locale=en&dataScope=countryData&country=countryData&catalog=dados-gov-pt&page=1
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"Providing free data analysis and visualization tools, on the national open data portal (dados.gov). Through awareness, public events, webinars, workshops, etc. 
+The following national policy/strategy foresees these mentioned actions to support the re-use of open data by the public sector:
+""Plano de Ação Transversal para a Transformação Digital da AP 2021-2023""  (https://tic.gov.pt/documentos/plano-de-acao-para-a-transformacao-digital-da-ap-2021-2023), which corresponds to the Action Plan for ""Estratégia de Transformação Digital da AP 2021-2023"" (https://tic.gov.pt/estrategias/estrategia-2021-2026), Action 2, Measure 2.1 (in page 6) several measures are presented to support the re-use of open data by the public sector.";Complement;;Also, the National Data Strategy sets out a path to maximize the creation of value in the use of data, including open, personal, non-personal and industrial data, promoting their sharing, accessibility and reuse
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Change;Yes;"The National Data Strategy foresees a reinforced collaboration and cooperation between the public, private, third sector, academia and research centers
+research, through the creation of collaborative networks to share resources, knowledge and experiences. This cooperation should also promote the development of data-based solutions that consider data quality, privacy and security, integrity and transparency
+Also, the national open government partnerships include 1) government entities, 2) academia, and 3) business associations and civil society. One of the 4 pillars of its first Open Administration National Action Plan (URL: https://ogp.eportugal.gov.pt/monitorizacao) is precisely open data. OGP Portugal aims to guarantee concrete commitments from governments to promote transparency, encourage public participation, fight corruption, and use new technologies to strengthen participatory democracy - https://ogp.eportugal.gov.pt/inicio. 
+In December of 2022, following the pillars of the second Open Administration National Action Plan 2022 (URL: https://ogp.eportugal.gov.pt/ii-panaa), AMA launched the Mosaico platform (URL: https://mosaico.gov.pt/), which promotes universal access to information between the state and the citizen. The third Open Administration National Action Plan (2024-27) is now underway (URL: https://ogp.eportugal.gov.pt/iii-panna)
+Besides OGP, other examples are: 
+1) Arquivo.pt, which promotes an annual contest for innovative works based on open data (preserved by Arquivo.pt). Arquivo.pt is developed by the Scientific Computing Unit of FCT - Foundation for Science and Technology - https://sobre.arquivo.pt/pt/colabore/premios-arquivo-pt/premio-arquivo-pt-2024/. 
+2) The Urban Co-Creation Data Lab project aims to support decision-making at the city level regarding high-quality services for citizens. The project is a collaboration between the Portuguese government (AMA) and NOVA IMS University. The project supports new planning and management approaches with new tools to evaluate the impact and predict various service demands (URL: https://www.urbandatalab.pt/). 
+3) The DSPA represents the Data Science sector and promotes data science in Portugal and internationally. The association also promotes regulation, ethics, and security in the field of data science. It shares experiences, innovations, case-studies, and success stories and promotes innovation and entrepreneurship of Portuguese companies (URL: https://dspa.pt/)"
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;"[Response to reviewer]
+Correction: The provided answer was a mistake, we keep last year's reply.
+By the Law No. 68/2021, entities must make available, on their website, updated lists of documents and data available for reuse; inventories must be made available, with accessible related metadata, and a multilingual search of documents and data must be possible.";Complement;Yes;"By the Law No. 68/2021, entities must make available, on their website, updated lists of documents and data available for reuse; inventories must be made available, with accessible related metadata, and a multilingual search of documents and data must be possible."
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;"In their inventories, entities must describe which datasets cannot be opened and for what reason. Example: Referred to in the catalogs as ""Com Restrições"" (i.e. Not Open Data). URL: https://snig.dgterritorio.gov.pt/rndg/srv/eng/catalog.search#/search?fast=index";Confirm;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;"AMA, the entity that manages the national open data portal, dados.gov, in line with law No. 68/2021, has an ongoing project in which one of its main objectives is to implement a framework to monitor the level of re-use of high-value datasets, in coordination with measures to catalogue and promote the re-use of high-value datasets. A monitoring dashboard on the open data portal is being finalized and is expected to be operational soon.  A special group/contact point was created within the scope of CTIC 2021-2023-2026 governance, responsible for the high-value datasets/re-use in the respective governance area. An example of such collaboration was the following workshop for all the public administration centred on HVD's publication requisites and socioeconomic impacts (URL: https://dados.gov.pt/pt/posts/a-ama-e-o-ctic-promoveram-o-workshop-conjuntos-de-dados-de-elevado-valor-dados-abertos-na-administracao-publica-1/). 
+
+#Reply following the questions from the research team:
+We have previously classified 'N/A' in 'adressing legal barriers' as in our interpretation, there are no legal barriers in disclosing the statistical or geospatial HVD datasets, since they consist of information that is already publicly disclosed by INE (statistics office).
+However, in view of the interpretation sent by the research team, with the respective score assignment, and since this item does not currently constitute a barrier, we change our answer to 5. 
+
+The Portuguese Institute of the Sea and Atmosphere (IPMA), is in the process of reviewing data policy, including what are considered high-data values. However, currently IPMA provides through its API (api.ipma.com) a very high amount of data entering into this category, such as data from our network of surface stations, climate data or forecast data. For this reason, the assignment of value 4 in some of the cells would be the most correct classification. Corrections have been made as well."
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;AMA, the entity that manages the national open data portal, dados.gov, in line with law No. 68/2021, has an ongoing project in which one of its main objectives is to implement a framework to monitor the level of re-use of high-value datasets, in coordination with measures to catalogue and promote the re-use of high-value datasets. A monitoring dashboard on the open data portal is being finalized and is expected to be operational in soon.  A special group/contact point was created within the scope of CTIC 2021-2023-2026 governance, responsible for the high-value datasets/re-use in the respective governance area. An example of such collaboration was the following workshop for all the public administration centred on HVD's publication requisites and socioeconomic impacts (URL: https://dados.gov.pt/pt/posts/a-ama-e-o-ctic-promoveram-o-workshop-conjuntos-de-dados-de-elevado-valor-dados-abertos-na-administracao-publica-1/).
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"The National Data Strategy has a strategic pillar for “Governance” which is materialized in a set of three strategic actions 1) the establishment of solid guidelines for the ethical and efficient management of data, promoting their reliability and security throughout their life cycle; 2)effective collaboration between stakeholders, encouraging the exchange of data and resources in a mutually beneficial way to drive innovation and value creation; 3)continuous monitoring and monitoring of the progress of data-related actions, using models to assess the impact that the initiatives proposed in the strategy have on society and the economy.
+Also, the Agency for Administrative Modernization (AMA) is mandated to establish and maintain the national open data portal dados.pt. This also include conducting broader consultations with various stakeholders from the government, private sector, civil society, academia and other experts in designing and implementing national policies and strategies related to  open data."
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;A national top-down strategy has not yet been formalized by the central government. Regarding local government, initiatives are developed in a bottom-up logic. Other central entities are free to pursue their own initiatives but generally coordinate voluntarily with AMA, through dados.gov;Complement;;Refering question P2, with the adoption of the National Data Strategy a governance model will be adopted for the PA.
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;"dados.gov.pt is the Portuguese Public Administration’s open data portal. Its function is to aggregate, reference and host open data from different bodies and sectors of Public Administration, constituting the central catalog of open data in Portugal. In addition to functioning as a shared data hosting and publishing service, which can be used by any public body, it also functions as an indexing portal for content hosted on other open data portals/catalogs, whether sectoral (e.g. Health, Justice, Environment ) or local (e.g. Lisbon City Council, Águeda City Council). It also promotes cases of reuse that use public shared data, and provides varied information on the movement of open data, publication and reuse of data, among others.
+Example 1: Lisbon City Council (Lisboa Aberta, URL: https://lisboaaberta.cm-lisboa.pt/index.php/pt/dados/estrategia-de-dados-abertos). Example 2: Porto City Council (URL:https://www.portodigital.pt/wp-content/uploads/2021/03/Plano-de-Gestão-e-Valorização-de-Dados-do-Município-do-Porto-_VFinal.pdf); etc."
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";few public bodies;;Confirm;Few public bodies;"Under the scope of the new Smart Territories National Strategy, in May a notice was launched for municipalities and inter-municipal entities to access financing for the acquisition of vertical platforms (for the intelligent management of activities such as public lighting, solid waste, irrigation, traffic, etc.); https://www.ama.gov.pt/documents/24077/320185/ENTI_RCM_V2_atualizado.pdf/634a2167-0e64-48e5-9ddc-ef1fd3fc0ca8"
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";no;;Change;Yes;Under the scope of the new Smart Territories National Strategy, governance model that is based on four levels of coordination – general, strategic, territorial, and technical support and monitoring – and an advisory body, called an advisory council.https://www.ama.gov.pt/documents/24077/320185/ENTI_RCM_V2_atualizado.pdf/634a2167-0e64-48e5-9ddc-ef1fd3fc0ca8
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"The National open data team manages the national open data portal, dados.gov.pt. This teams works at AMA - Administrative Modernization Agency (https://www.ama.gov.pt/web/english/competences), now under the department ""Centro de Competências Digitais da Administração Pública (TicAPP) "". You can consult the organization's organogram in the link https://www.ama.gov.pt/documents/24077/27653/Organograma_AMA_Site_20230201.pdf/2fce90b5-c7a3-4f00-a1d7-e860f8c95ec8 . That organogram is high level and shows the data and interoperability team, in which the open data team is parf of.
+In document ""Plano de Ação Transversal para a Transformação Digital da AP 2021-2023""  (https://tic.gov.pt/documentos/plano-de-acao-para-a-transformacao-digital-da-ap-2021-2023), page 6, Action 2, is patent the AMA's role as the main responsble for the Action coordination. In the national open data portal, dados.gov (https://dados.gov.pt/pt/contact/), you can check in the footnote that AMA is the site's manager.";Confirm;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;"As described for question 10c, the CTIC appointed a task force dedicated to data subjects including open data.
+
+[Response to reviewer] Further explanation: 
+Yes, this task force (TF) includes various public public sector bodies responsibles for open data. Please see file attached in the email ""CTIC - TF presentation.pdf"", that is the last TF presentaion. On page 5, in the textbox ""CONSTITUIÇÃO"", members (data officers that are responsible, as well, for the open data) form different bodies are enumerated; On page 6 are described several open data and HVD initiatives (PT - ""dados abertos"", ""dados de elevado valor"").";Complement;;The CTIC appointed a task force dedicated to data subjects including open data. This task force (TF) includes various public public sector bodies responsibles for open data
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;Through meetings, Workshops, Webinars. URL examples: https://ogp.eportugal.gov.pt/open-gov-week-portugal. https://pasc.pt/actividades/clusters-tematicos/cluster-administracao-publica/rede-nacional-de-administracao-aberta/open-gov-week-2o-workshop-sobre-administracao-aberta%ef%bf%bc/. Does not avaiable meeting agendas.;Confirm;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"AMA participates in events regularly: with academia has partenered in the project UCD Lab (https://urbandatalab.pt/index.php/partners/ama) and participated in several events, example: https://www.facebook.com/photo/?fbid=796035811340405&set=pcb.796037531340233, presentaion day 10, 12h); with the community, conducted webinars on open data, example: https://dados.gov.pt/pt/posts/webinar-ama-o-sucesso-em-forma-de-dados-abertos-1/).";Confirm;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";no;;Change;Yes;There is a specific guideline for data management process for publication of datasets on the national open data portal dados.gov.pt. URL: https://dados.gov.pt/en/pages/faqs/publish/ 
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";no;A monitoring dashboard is, still, being designed to be published on the national open data portal (dados.gov), with indicators of entities activity regarding to open data (example: the degree of compliance with the Law regarding High Value Datasets);Change;Yes;"The national open data portal, dados.gov, a dashboard updates the number of publications of re-uses and their temporal evolution.
+A monitoring improved dashboard is also being designed to be published at the national open data portal (dados.gov), with indicators of entities' activity regarding open data (for example, the degree of compliance with the Law regarding High-Value Datasets). This dashboard is expected to be operational and launched soon.
+
+#Reply following the questions of the research team:
+The progress of public administration policies for digital transformation, particularly for open data initiatives, is evaluated annually based on the monitoring indicators defined and published in specific reports (https://www.ama.gov.pt/web/agencia-para-a-modernizacao-administrativa/quar). The attached document (Monitorização - QUAR - PA2023 - Após revisão.xlsx) contains the results for 2023. Since these indicators are quantitative and downstream of the Open Data measures, they tend to reflect the numerical evolution of the dados.gov portal, as defined in documents Ref.ª 33 and 59 (see column D)."
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;"The National Data Strategy foresees that emerging technologies are constantly evolving and therefore the Action Plan should also be a living document, target of inclusion of new initiatives or updating existing ones. Any updates must maintain the alignment with the strategy and vision in theme of the data but reflecting the dynamism of priorities, needs and concerns of the economy and society.
+
+#Reply followind the questions from the research teams:
+As mentioned in P23, the indicators are annually taken into account to assess the evolution of the implemented measures. The strategy/policies are informed by those results with no specified frequency, as it depends on several conditions, namely political ones. The recent strategy is an example of that process."
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;Under the Law No. 68/2021, a cost simulator will be made available on the national open data portal (dados.gov);Confirm;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;1- A formal national open data strategy, 2-  Political and institutional support/adherence, 3-More human and technical resources;Confirm;N/A;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"There are two major pillars on which we are working to respond to these three major challenges: a) Law No. 68/2019, b) Recovery and Resilience Plan/Digital Transition (Specific projects aimed at open data).
+Several projects are being developed to address some of the challenges, this process has enforced the Political and institutional support/adherence, and more HR were outsourced to execute the palnned tasks. Namely, the project mentioned in question 2, point 6 -  ""Public Administration's Data National Strategy and Action Plan"";";Confirm;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;"The National Data Strategy focuses as well on empowering people, contributing to a more inclusive, informed society equipped with concrete tools (legislative and practical) to understand, critically evaluate and use data in a conscious and safe way, promoting an environment conducive to active participation in the digital era. 
+The Agency for Administrative Modernization (AMA) is mandated to establish and maintain the national open data portal dados.pt. This also include providing assistance to data holders in publishing their data as an open data on the national portal. Also, the CTIC appointed a task force dedicated to data subjects including open data. This task force (TF) includes various public public sector bodies responsibles for open data. Also, the national open data portal Dados.gov makes available a tutotial on how to publish open data on the portal - https://dados.gov.pt/pt/pages/api-tutorial/"
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;As part of programme INCoDe.2030 (national digital competencies programme), the Portuguese government has launched an initiative for the digital qualification of public servants to promote coherent execution of digital and open data policies. For instance, there are short term courses on several ICT domains, including open data, provided by the national institute for competencies in the public administration. INA - https://www.ina.pt/index.php/centro-de-formacao-oferta-formativa;Confirm;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, >9;"https://portugalsmartcities.fil.pt/programa-2022/; https://www.galp.com/corp/pt/sobre-nos/a-galp/datathon; https://www.fpf.pt/pt/News/Todas-as-not%C3%ADcias/Not%C3%ADcia/news/34967; https://makeitmillennium.pt/; https://hackacity.eu/; https://dspa.pt/; https://www.dssg.pt/; https://www.lisbondatascience.org/; https://www.meetup.com/pt-BR/datascienceportugal/; https://datachallenge.pt/";Complement;Yes, >9;"#Reply following the questions of the research team:
+
+Editions of the “Data with Purpose Summit”, a collaboration between NOVA IMS (the School of Information Management and Data Science of the Nova University of Lisbon) and a Media Partner (currently on the second edition, 21 May 2024, Rectorate of NOVA University of Lisbon, https://www.novaims.unl.pt/en/here-now/events/data-with-purpose-summit/)
+
+Winter School on Open Data 2024, organized by the University of Minho - 14-16 February 2024, Braga, http://www.sdum.uminho.pt/ModuleLeft.aspx?mdl=~/Modules/UMEventos/EventoView.ascx&ItemID=27395&Mid=432&lang=pt-PT&pageid=3&tabid=0&fbclid=IwAR2QCOOwsVGUsTdsbJTuuTh6VJye5oe5JG6HhVmlkEUx0OwfR0sXWEhNsL8
+
+Online learning course on the use of open data platforms, under the framework of the Open Administration Action Plan and prepared by Iscte (University Institute of Lisbon) - https://online-learning.iscte-iul.pt/courses/plano-nacional-de-acao-de-administracao-aberta-pt  
+
+Portugal Smart Cities Summit (10th edition) - 9-10 October 2024, Lisbon, https://portugalsmartcities.fil.pt/ 
+
+Datathon Portuguese Football Observatory, September 2022, Lisbon - https://www.fpf.pt/pt/News/Todas-as-not%C3%ADcias/Not%C3%ADcia/news/34967
+
+Initiatives from the Lisbon Data Science Academy, 2022, Lisbon and online - https://www.lisbondatascience.org/ 
+
+Initiatives - Meet up Data Science Portugal, diverse locations:
+https://www.meetup.com/lisbon-open-data-meetup/
+https://www.meetup.com/datascienceportugal/
+https://www.meetup.com/big-data-lisbon/
+https://www.meetup.com/big-data-developers-in-lisbon/
+https://www.meetup.com/pydata-lisbon/
+
+Hack a city – hackathon to develop impactful solutions exploring open city data, 2023, 6th edition in Porto - https://hackacity.eu/
+
+Lisbon Data Science Portuguese Association (DSPA) Insights 2024 – AI Enhancing Business, 18-19 September 2024 - https://dspa.pt/ 
+
+Initiatives from the open community Data Science for Social Good Portugal - https://www.dssg.pt/ 
+
+Initiatives from private companies:
+-	Datathon organized by company GALP to award innovative solutions for organizational efficiency using big data analytics – 2019, online,  https://www.galp.com/corp/pt/sobre-nos/a-galp/datathon
+-	The Open Data Academy Challenge, to award academic work under the theme “energy transition” and using open data. Promoted by e-Redes, an energy provider company – Online, 2024, https://www.e-redes.pt/pt-pt/premio-open-data-academy-challenge
+-	Datathon targeted at university students organized by Millennium bcp bank – regularly, in four Portuguese universities, https://makeitmillennium.pt/ 
+-	Data Challenge by Santander bank (in partnership with two universities – 2021, https://datachallenge.pt/
+-              Datamakers Fest, Data Makers Fest is a festival dedicated to all data practitioners. The next edition will take place from 24 to 25 of September at Alfândega Congress Center in Porto, Portugal - https://www.datamakersfest.com/;
+-              Portugal Digital Summit - gathers industry leaders, experts and innovators to discuss and explore the latest trends and technologies in the digital, Lisbon, https://portugaldigitalsummit.pt/; 
+-             Big Data Computing Conference, International Research Conference is a federated organization dedicated to bringing together a significant number of diverse scholarly events for presentation within the conference program, https://waset.org/big-data-computing-conference-in-october-2024-in-lisbon;"
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;https://dados.gov.pt/pt/;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;Yes;Based on uData with several customizations.
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;All documentation and reference is available here: https://dados.gov.pt/pt/docapi/
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;No;
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"All documentation and reference is available here: https://dados.gov.pt/pt/docapi/;
+And a tutorial is available as well here: https://dados.gov.pt/pt/pages/api-tutorial/"
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.";new question;new question;Change;Yes;"Users can add Community Resources to a dataset using the option/link ""Publicar um recurso"" in front of the option ""Recursos comunitários"" for each dataset;
+"
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://dados.gov.pt/pt/contact/;Confirm;;
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"Example for a specific dataset:
+URL: https://dados.gov.pt/pt/datasets/captacoes-de-agua-subterranea/#discussion-create";Confirm;;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://dados.gov.pt/pt/posts/;Confirm;;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;"When a dataset is opened, the user can select to be notified about the activity associated with that dataset, by clicking on the 'star' button, under the files attached. The notification is made by email and by a message to the user's administration area. See the attached image ""70"".   Example on https://dados.gov.pt/pt/datasets/monitorizacao-de-parametros-ambientais-da-cidade-de-lisboa/";Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"https://dados.gov.pt/pt/contact/ - there is not a ""request data"" button per se, but on the field description of the portal's contact form, it is explicit that it is meant, among other things, to request new datasets";Confirm;;
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no;;Confirm;;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;With internal tools, eg. Excel spreadsheet - https://dados.gov.pt/stats - Using this tool, we can know when the requests are made and if an answer has been given, including if the requested datasets had been published after. We have a team to follow up on the information generated by this tool.;Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;The portal allows for a forum in each dataset, even though it does not have one general forum at a higher level to discuss open data in general, as mentioned in the question #66b (https://dados.gov.pt/pt/datasets/captacoes-de-agua-subterranea/#discussion-create);Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://dados.gov.pt/pt/reuses/;Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;The datasets are indicated under the showcase. An example on https://dados.gov.pt/pt/reuses/portal-da-transparencia-municipal/;Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;Only allowed to registered users. But any person can create an account.;Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;"When entering a dataset, the ""Preview"" button shows data in a tabular format. Example: https://dados.gov.pt/pt/datasets/websites-dos-projetos-de-investigacao-desenvolvimento-financiados-pela-comissao-europeia-h2020/#_";Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";no;;Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;Piwik/Matomo. Dashboard in portal homepage.;Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";no ;N/A;Confirm;;
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;Web analytics with Matomo service. A survey made in collaboration with Data Science Portuguese Association (sent to their associates: private entities - energy, communication, mobility, health, insurance, data, digital and technology enterprises - and public institutions - universities, R&D institutions, town halls). We are developing a survey to monitor and support the entities until the end of 2023.;Change;Yes;We collect feedback through surveys and interviews from our initiatives such as webinars, conferences, and meetings with stakeholders from both the public and private sectors, as well as developers. This helps us understand the activities and needs of the users of the portal. Additionally, we interact with users who comment on the portal to further understand their needs.
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;"We collect several insights from the portal usage and needs that we strive to address. Typically, we include these improvements in our backlog after a thorough analysis of the effort and impact. These improvements must wait for their inclusion in the next project, or in urgent cases, the current project. An important step in this process is interacting with the uData framework development team to determine if some of these improvements are also in their roadmap.
+
+From these insights, we can provide three concrete examples that were included in the previously mentioned backlog. The first was the need expressed by users to have a preview tool for structured data. This feature, developed by us, is already operational on dados.gov. The second was the need for a simple way for providers to check compliance with quality standards. This was implemented in due time by the uData team and is already functional on dados.gov. The last one addresses numerous complaints about the loss of thematic organization of the datasets in the new version of uData. To mitigate this problem, we are in discussions with the uData team to understand how we can provide users with a thematic approach to finding datasets. In summary, we collect feedback and take action to improve."
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;"The dados.gov team participates in regular events, such as conferences, with various audiences (public-sector, academia and public in general). An important annual event about data is organized by the Data & Interoperability team from the agency AMA (https://www.youtube.com/watch?v=cB3uyZ_Nfn0&ab_channel=AMA-Ag%C3%AAnciaparaaModerniza%C3%A7%C3%A3oAdministrativa).
+Some examples of the more important events are:
+10º Forum de Gestão de Dados de Investigação conference , https://www.youtube.com/watch?v=dBJYSNdd01k;
+JIIDE2023 conference, https://www.dgterritorio.gov.pt/jiide2023/ - https://www.youtube.com/@JIIDE2023;
+ENIIG conference, https://eniig.dgterritorio.gov.pt/2023/inicio."
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;No;
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;No;
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;Inform publishers of the importance of giving a detailed description of the published datasets and of using tags that well represent those datasets.;Confirm;;
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Complement;;"URL: https://dados.gov.pt/pt/datasets/listas-de-subvencoes-e-beneficios-publicos-e-de-doacoes-ano-2023/
+In this example, similar to many others, we have the description of the dataset and all the metadata (dataset and resources) is accessible to human reading and  undestanding."
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";few public sector data providers;"Develop a governance structure, implement an Open data National Strategy, make data inventories/catalogs (that include information about data, data that cannot be opened, and data that can be opened and is not yet published), send a survey to the entities on data maturity (to each of the government agencies and the departments within), create awareness initiatives (webinar on open data concept and benefits, and the open data directive), and make a portal improvement. Also define methodologies to monitor/evaluate the impact of open data in areas such as government efficiency / public policies; reduction of operating costs; quality of public service provided; environmental impact; social impact; macroeconomic and microeconomic impact, etc. Design a user satisfaction survey.
+Public sector data providers still demonstrate some reluctance, there is some cultural tightness, low awareness and data literacy, some departments have limited technological and human resources, and, most basilary, the lack of a general governance structure, in Portugal.";Complement;;As explained in question P2, the National Data Strategy has been finalized and is awaiting publication in the coming months. The effort to create data inventories/catalogues is progressing for most of the important entities that also represent many other entities. Both of these aspects will serve as leverage for the implementation of data governance in the Public Administration.
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;Sharing tutorials on registration, publication, and reuse, and establishing direct contact with organizations, when questions were more complex. You can find the tutorial on youtube, as they were published last year on the youtube page of the portal management organization (AMA) - https://www.youtube.com/watch?v=G7-qftX_org&t=6s - https://www.youtube.com/watch?v=tvccaRmz9UQ&t=10s - https://www.youtube.com/watch?v=jCVfKgQQTZE&t=32s;Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;"https://ckan.sig.cm-agueda.pt/
+https://srea.azores.gov.pt/
+https://idealg.ccdr-alg.pt/
+https://dadosabertos.cascais.pt/
+https://oeirasinterativa.oeiras.pt/#/portal/home
+https://ckan.sig.cm-agueda.pt/dataset/captacoes-perimetros-de-protecao
+https://sig.cm-guimaraes.pt/dadosabertos/#one
+https://www.portugalglobal.pt/PT/Biblioteca/Paginas/Homepage.aspx
+https://www.base.gov.pt/base4
+http://datacentro.ccdrc.pt/Viewer.aspx
+https://www.dgeec.mec.pt/np4/home
+http://www.siej.dgpj.mj.pt/SIEJ/SJ/main/home.aspx
+https://www.seg-social.pt/estatisticas
+http://www.geosaude.dgs.pt/websig/v5/portal2/public/index.php?par=geosaude
+http://www.igeo.pt/
+https://www.ine.pt/xportal/xmain?xpgid=ine_main&xpid=INE
+https://lisboaaberta.cm-lisboa.pt/index.php/pt/
+https://transparencia.sns.gov.pt/explore/?sort=modified
+http://www.ansr.pt/Estatisticas/RelatoriosDeSinistralidade/Pages/default.aspx
+https://snig.dgterritorio.gov.pt/
+https://snirh.apambiente.pt/";Complement;Yes;"https://ckan.sig.cm-agueda.pt/
+https://srea.azores.gov.pt/
+https://idealg.ccdr-alg.pt/
+https://dadosabertos.cascais.pt/
+https://oeirasinterativa.oeiras.pt/#/portal/home
+https://sig.cm-guimaraes.pt/dadosabertos/#one
+https://www.base.gov.pt/base4
+http://datacentro.ccdrc.pt/Viewer.aspx
+https://www.dgeec.mec.pt/np4/home
+http://www.siej.dgpj.mj.pt/SIEJ/SJ/main/home.aspx
+https://www.seg-social.pt/estatisticas
+https://www.ine.pt/xportal/xmain?xpgid=ine_main&xpid=INE
+https://lisboaaberta.cm-lisboa.pt/index.php/pt/
+https://transparencia.sns.gov.pt/explore/?sort=modified
+http://www.ansr.pt/Estatisticas/RelatoriosDeSinistralidade/Pages/default.aspx
+https://snig.dgterritorio.gov.pt/
+https://snirh.apambiente.pt/
+https://www.e-redes.pt/pt-pt/portal-open-data
+https://opendata.porto.digital/
+https://dados.azores.gov.pt/"
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";the majority of datasets;;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;https://dados.gov.pt/pt/datasets/prociv-ocorrencias-em-aberto/;Confirm;;
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;Yes;"Every user can publish a datasets, the user can decide if it is published by his/her organization (in case he/her is associated to an organization) or not. It is a feature of the uData framework; So it it is distingushed by the publisher name, user name or organization name.
+URL: https://dados.gov.pt/pt/datasets/associacoes-de-badminton-em-portugal/"
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";no;;Confirm;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;"In addition to all the initiatives implemented by the Portuguese Public Administration (PA) to maintain and evolve the portal, and with the intention of securing the portal’s relevance and importance, AMA has decided to assign a critical role to the portal. Leveraging the importance and impact that the “Portal Mais Transparência” (https://transparencia.gov.pt/pt/), a reuse of open data, has on transparency, citizen awareness, and participation, AMA decided that dados.gov will be the single point of access and aggregator for the high-quality data needed to update the “Portal Mais Transparência” in near real-time. This strategy, agreed upon by 9 entities (2 more to come), makes dados.gov a critical part of this reuse, which is internationally recognized and has a significant impact on the media and society (see attached document “Reuse_portal mais transparencia.pdf”). Without the option to participate in a marketplace where data monetization is a reality, we have concluded that the only strategy is to increase the positive impact and relevance of the portal to ensure its future financial sustainability.
+Another contribution to the sustainability of the portal is the publication of open data from public service and feedback from citizens, which are the basis of an internal service of AMA, GIAP (see attach document ""TICAPP202203_Guia de Utilização do Portal do gIAp_V2.0.pdf""), which contributes to the following objectives: Improve citizen satisfaction; Contribute to the continuous improvement of the quality of public service delivery, combining different channels: in person; voice and digital; Simplify administrative processes; and Evaluate the quality of services, taking into account the expectations of citizens.
+Another relevant strategic decision is that it was decided to use an open source framework, uData, to improve sustainability."
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"We use AMA's official page and social media accounts (youtube and LinkedIn), and tic.gov.
+
+[Response to reviewer]
+Links:
+AMA's youtube page: https://www.youtube.com/@AMA_gov_pt
+AMA's youtube page dados.gov tutorial (na exmaple): https://www.youtube.com/watch?v=G7-qftX_org&ab_channel=AMA-Ag%C3%AAnciaparaaModerniza%C3%A7%C3%A3oAdministrativa
+AMA's LinkedIN: https://www.linkedin.com/company/ama-gov-pt/
+AMA's LinkedIN post relating to dados.gov: https://www.linkedin.com/feed/update/urn:li:activity:7029061388530556928/?utm_source=share&utm_medium=member_desktop
+AMA's FB: https://www.facebook.com/ama.gov.pt/?locale=pt_PT
+AMA's FB relating dados.gov: https://www.facebook.com/ama.gov.pt/posts/pfbid0374E9s7bFpUKy8hURWB7oJvSvHf66yN2D4q82FCFVj1ZUpuMVEXaU7rwoUW6oT3Hil
+TIC.GOV: https://tic.gov.pt/noticias/parabens-dados-gov";Change;Yes;"We use AMA's official page, PA official tic.gov.pt page and social media accounts like youtube, FB and LinkedIn.
+
+AMA's youtube page: https://www.youtube.com/@AMA_gov_pt
+AMA's youtube page dados.gov tutorial (one example): https://www.youtube.com/watch?v=G7-qftX_org&ab_channel=AMA-Ag%C3%AAnciaparaaModerniza%C3%A7%C3%A3oAdministrativa
+
+AMA's LinkedIN: https://www.linkedin.com/company/ama-gov-pt/
+AMA's LinkedIN post relating to dados.gov: https://www.linkedin.com/feed/update/urn:li:activity:7029061388530556928/?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/ama-gov-pt_transforma%C3%A7%C3%A3odigital-amagov-digitaliza%C3%A7%C3%A3o-activity-7166831021307510784-Fhel/?originalSubdomain=pt
+https://www.linkedin.com/posts/ama-gov-pt_eniig-dadosabertos-amagov-activity-7140279209406492672-snMF/?originalSubdomain=pt
+https://www.linkedin.com/posts/ama-gov-pt_emerge23-powered-by-data-activity-7069224454098141185-ZLbh/?trk=public_profile_like_view&originalSubdomain=pt
+https://www.linkedin.com/posts/ama-gov-pt_emerge23-powered-by-data-activity-7072902904357019648-Vgm2/?originalSubdomain=pt
+https://www.linkedin.com/posts/ama-gov-pt_emerge-datascience-datavisualization-activity-7067470754795200513-gYCc/?trk=public_profile_like_view&originalSubdomain=pt
+
+
+AMA's FB: https://www.facebook.com/ama.gov.pt/?locale=pt_PT
+AMA's FB relating dados.gov: https://www.facebook.com/ama.gov.pt/videos/224933743735084
+ 
+
+TIC.GOV: https://tic.gov.pt/noticias/parabens-dados-gov
+https://tic.gov.pt/agenda/evento-dados
+https://tic.gov.pt/agenda/evento-conjunto-dados-elevado-valor"
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.";yes;"https://github.com/amagovpt/docs.dados.gov.pt
+https://github.com/amagovpt/udata-front-pt
+https://github.com/amagovpt/gouvpt";Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";No;"[Response to reviewer] 
+Revised answer:
+We don't have a  Dashboard publicly available for that purpose.  Sorry for the misleading answer.";Change;Yes;See attached files
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature.";yes;"In the administration area, login access exclusive, users can check metadata update, data update, followers, visualizations, use cases uploaded to the national portal referencing their data, any problems with the data (for example ...), and any discussion regarding some dataset published by them. Files attached ""106b"" and ""106b.1"". Any visitor can see this information on the datasets pages.
+
+[Response to reviewer] Further explanation: 
+In the administration area, login access exclusive, users or providers can check metadata update, data update, followers, visualizations, use cases uploaded to the national portal referencing their data, any problems with the data (for example ...), and any discussion regarding some dataset published by them. 
+Files attached ""dashborad dataset example.pdf"" shows an example for the a specific dataset, on the right side are visible the quality comments. On the top the visualizations.  On the bottom other parameters and infos, like followers, community resources and comments.
+Files attached ""dashborad provider example.pdf"" shows an example for a provider. On the top are visible the visualizations and followers. Other infos are visible, like different status indicators for each dataset, providers' followers and community comments.";Complement;Yes;"In the administration area, login access exclusive, users or providers can check metadata update, data update, followers, visualizations, use cases uploaded to the national portal referencing their data, any problems with the data (for example ...), and any discussion regarding some dataset published by them. 
+Files attached ""dashborad dataset example.pdf"" shows an example for the a specific dataset, on the right side are visible the quality comments. On the top the visualizations.  On the bottom other parameters and infos, like followers, community resources and comments.
+Files attached ""dashborad provider example.pdf"" shows an example for a provider. On the top are visible the visualizations and followers. Other infos are visible, like different status indicators for each dataset, providers' followers and community comments."
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;"The metadata is automatically generated by actions on the datasets, so they are always up to date.
+
+[Response to reviewer] Further explanation: 
+There are 3 main forms for dataset registry, the following 2 are an approach to keep up-to date the metada: via portal API, whera data and metada is updated; and Harvesting.
+The manual approach registry should be used for non dynamic data, but such is not controlled by us.
+
+Examples:
+API
+https://dados.gov.pt/pt/datasets/dataset-estrutura-de-missao-prr-contratualizacao/
+Harvesting
+https://dados.gov.pt/pt/datasets/justica-no-mapa/";Complement;Yes;"The metadata is automatically generated by actions on the datasets, so they are always up to date. 
+There are 3 main forms for dataset registry, the following 2 are an approach to keep up-to date the metadata: via portal API, where data and metadata is updated; and Harvesting.
+The manual approach registry should be used for non-dynamic data, but such is not controlled by us.
+
+Examples:
+API
+https://dados.gov.pt/pt/datasets/dataset-estrutura-de-missao-prr-contratualizacao/
+Harvesting
+https://dados.gov.pt/pt/datasets/justica-no-mapa/"
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;50-69%;The workflow is implemented by the uData framework fo all the harvesting processess. The fraction of datasets update automatically by the harvesting processes is in the  range 50%-69%.
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;Where the responsability of the portal applies, i.e., the harvesting process, the average delay is one day, because all harvesting processes are executed daily. 
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;"Where the responsability of the portal applies, i.e., the harvesting process, the data covers the full period from when it was first published until the last available data points from the providers, because all harvesting processes are executed daily.
+The additional effort we make is done at the moment we bring a new data provider on board, explaining in detail the good practices of open data which includes the topic of keeping the data complete and updated at all times."
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;For categories “Geospatial”, “Earth Observations and Environment” and “Mobility”, that represent more than 50% of all HVDs, an ad-hoc keyword that identifies the HVDs is implemented by the coordinating entity of the INSPIRE directive and the entity responsible for the SNIG (https://snig.dgterritorio.gov.pt/) National Geographic Data Portal, while the DCAT-AP HVD is not implemented. Part of the delay in this implementation is due to some ambiguity in the mapping between the INSPIRE directive and the DCAT-AP HVD.
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"In the administration area, the user can access the published datasets. For each dataset, there is a ""quality"" box. That box aims to help the user improve the quality of the (meta)data associated with that dataset. It gives an overview of what will be useful for contributors to find and reuse that data. Publishing a dataset involves filling in several fields. The system analyzes whether this filling was done correctly. From there comes information about the quality of the dataset - it can suggest a more accurate and detailed description, the use of more tags, or the attachment of resources in a more open and machine-readable format. See attachment ""111.a""";Complement;Yes;"In the administration area, the user can access the published datasets. For each dataset, there is a ""quality"" box. That box aims to help the user improve the quality of the metadata associated with that dataset. It gives an overview of what will be useful for contributors to find and reuse that data. Publishing a dataset involves filling in several fields. The system analyzes whether this filling was done correctly. From there comes information about the quality of the dataset - it can suggest a more accurate and detailed description, the use of more tags, or the attachment of resources in a more open and machine-readable format. See attachment Dashboard qualidade_admin.pdf."
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;"Each dataset in a metadata quality rating.
+
+[Response to reviewer] Further explanation: 
+For all datasets in dados.gov there is a built-in tool in the udata (6.0.2) framework that informs the user about the metada quality. This information is given by a dropdown window, below the dataset title on to the "" [ i ] Qualidade dos metadados"" (ENG: Metadata quality)
+
+See Example: https://dados.gov.pt/pt/datasets/justica-no-mapa/";Complement;Yes;"Each dataset has a metadata quality rating. 
+For all datasets in dados.gov there is a built-in tool in the udata (6.0.2) framework that informs the user about the metadata quality. This information is given by a dropdown window, below the dataset title on to the "" [ i ] Qualidade dos metadados"" (ENG: Metadata quality)
+
+See Example: https://dados.gov.pt/pt/datasets/justica-no-mapa/"
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;The Agency (AMA) has published a platform named MOSAICO (https://mosaico.gov.pt/homepage) which consists of a Common Model of Portugal for the design and development of digital public services centered on citizens and companies. It has a technical area dedicated to open data (https://mosaico.gov.pt/areas-tecnicas), conveys principles related to open data (https://mosaico.gov.pt/principios/11), has published a good practice guide for the provision of open data according to FAIR principles (https://guias.mosaico.gov.pt/guias-praticos/como-disponibilizar-e-reutilizar-dados-abertos) and an area dedicated to the national open data portal (https://mosaico.gov.pt/plataformas-comuns/dados-gov).
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;"For the three types of datasets registered in dados.gov - manually, via API, and Harvesting - the following applies:
+For manual registration in dados.gov, the uData framework defines the minimum metadata that must be filled in;
+Via API, the payload of the request is defined (fully documented in the reference provided in dados.gov), for example for a POST the minimum metadata is, created_at, description, frequency, last_modified, last_update, url, slug, title and uri;
+For the harvesting process, which we cannot control, the framework controls a mapping to the provider’s metadata standard."
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;Yes, a recommendation is made in the Documentation part of dados.gov (https://dados.gov.pt/pt/pages/faqs/licenses/)  for these licenses and links are provided to obtain all the legal information.
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;5-10;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;"In addition to the guidelines and regular meetings with providers to assist publishers in supplying high-quality datasets, the dados.gov team participates in regular events, such as conferences, with various audiences. An important annual event about data is organized by the Data & Interoperability team from the agency AMA (https://www.youtube.com/watch?v=cB3uyZ_Nfn0&ab_channel=AMA-Ag%C3%AAnciaparaaModerniza%C3%A7%C3%A3oAdministrativa). Some examples of these conferences are:
+10º Forum de Gestão de Dados de Investigação conference , https://www.youtube.com/watch?v=dBJYSNdd01k;
+JIIDE2023 conference, https://www.dgterritorio.gov.pt/jiide2023/ - https://www.youtube.com/@JIIDE2023;
+ENIIG conference, https://eniig.dgterritorio.gov.pt/2023/inicio."
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;The dados.gov is based on the framework uData, that follows the DCAT-AP standard and has tools for mapping other frameworks and standards, namely CKAN and ODS. 
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);>90%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";no ;;Confirm;;
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;Yes;For the automatic cataloguing of datasets (harvesting) the main cause is the lack of clarity how the uData framework manages and maps other metada formats implemented by other frameworks, for example, CKAN and ODS, or  other standards.
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;udata framework from which the portal is developed has already a built-in dataset quality meter.;Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;Frequent meetings with business and and technical teams from data providers to ensure the datasets are high quality.;Confirm;;
+Q25;What percentage of datasets are made available under an open licence? ;71-90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;71-90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;>90%;N/A;Change;51-70%;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;>90%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;>90%;N/A;Change;<10%;N/A
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"""[Response to reviewer] 
+The definition is objectively laid down in the national law No. 68/2021 (Article No. 3, g), which transposes the EU directive 1024/2019. URL: https://dre.pt/dre/detalhe/lei/68-2021-170221042  - """"The utilization, by individuals or entities, of administrative documents or data held by the authorities and entities referred to in the following article (Article No. 4- Subjective scope of application), or held on their behalf, for commercial or non-commercial purposes other than the initial purpose for which the documents were produced."""". 
+Complementary information about that definition is given in the national open data portal dados.gov 
+URL: https://dados.gov.pt/pt/docs/reuse/""";Confirm;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;"The CADA's monitoring activities are (role defined in the national law No. 68/2019 on open data, https://dre.pt/dre/detalhe/lei/68-2021-170221042), among others: the social and economic impact of re-use; the number of re-uses; and the HVD impact.
+Futhermore, at the national open data portal, dados.gov, a dashboard updates the number of publications of re-uses and its temporal evolution.
+A monitoring improved dashboard is also being designed to be published at the national open data portal (dados.gov), with indicators of entities activity regarding to open data (example: the degree of compliance with the Law regarding High Value Datasets).";Complement;;"Furthermore, at the national open data portal, dados.gov, a dashboard updates the number of publications of re-uses and their temporal evolution.
+A monitoring improved dashboard is also being designed to be published at the national open data portal (dados.gov), with indicators of entities' activity regarding open data (for example, the degree of compliance with the Law regarding High-Value Datasets). This dashboard is expected to be operational and launched soon."
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer.";yes;"In several activities like, webinars, workshops, public presentations, datathons, hackathons, to which public bodies are invited, a direct diologue is established between different stakeholders to promote and incentivate the encourage entities to monitor the re-use of their own published data. A few examples are: the Webinar ""Data Strategy in Public Administration"" (URL: https://dados.gov.pt/pt/posts/a-ama-dinamizou-um-workshop-sobre-estrategia-de-dados-na-administracao-publica-ap/), ""The importance of Open Data"" (URL: https://dados.gov.pt/pt/posts/ogw-ii/) and ""Open Data"" (URL: https://dados.gov.pt/pt/posts/webinar-dados-abertos-1/)
+There are also direct contacts with publishers at the national portal to monitor the activity of the portal. This channel is an incentive to the public bodies to monitor this kind of users' activity (in ""Atividade da Comunidade"" from https://dados.gov.pt/pt/dashboard/).";Complement;;"In several activities like webinars, workshops, public presentations, datathons, hackathons, to which public bodies are invited, a direct dialogue is established between different stakeholders to promote and encourage entities to monitor the re-use of their own published data. A few examples are: the Webinar ""Data Strategy in Public Administration"" (URL: https://dados.gov.pt/pt/posts/a-ama-dinamizou-um-workshop-sobre-estrategia-de-dados-na-administracao-publica-ap/), the workshop ""High-Value Datasets - Open Data on Public Administration"" (URL: https://dados.gov.pt/pt/posts/a-ama-e-o-ctic-promoveram-o-workshop-conjuntos-de-dados-de-elevado-valor-dados-abertos-na-administracao-publica-1/), or the ""Open Data Day"" (https://dados.gov.pt/pt/posts/open-data-day-2023/).
+There are also direct contacts with publishers at the national portal to monitor the portal's activity. This channel is an incentive for public bodies to monitor this kind of user activity (in ""Atividade da Comunidade"" from https://dados.gov.pt/pt/dashboard/)."
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"AMA, the entity that manages the national open data portal, dados.gov, in line with law No. 68/2021, has an ongoing project in which one of its main objectives is to implement a framework to monitor the level of re-use of high-value datasets, in coordination with measures to catalogue and promote the re-use of high-value datasets. A monitoring dashboard on the open data portal is being finalized and is expected to be operational soon.  A special group/contact point was created within the scope of CTIC 2021-2023-2026 governance, responsible for the high-value datasets/re-use in the respective governance area. An example of such collaboration was the following workshop for all the public administration centred on HVD's publication requisites and socioeconomic impacts (URL: https://dados.gov.pt/pt/posts/a-ama-e-o-ctic-promoveram-o-workshop-conjuntos-de-dados-de-elevado-valor-dados-abertos-na-administracao-publica-1/).
+
+#Reply following the questions from the research team:
+Apart from the information previously disclosed regarding the monitoring of resuse of HVDs, as of 2024 there are no updates to report."
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"According to the Strategy and Studies Unit of the Portuguese Government, the impact ""is measured by considering the activities developed to monitor the reuse of data, as well as the results of that reuse."" And ""the positive impacts range from the creation of value in the economy, the improvement of scientific and technological capacity, to the promotion of transparency, citizen participation and accountability of public bodies."" URL: https://www.gee.gov.pt/pt/estudos-e-seminarios/artigos-category/32493-em-analise-dados-abertos-em-portugal";Confirm;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;"At AMA there is an ongoing project entitled""Dados Abertos - Definição de modelo de avaliação de impacto"" (Open Data- impact assessment model definition; URL https://www.base.gov.pt/Base4/pt/detalhe/?type=contratos&id=9601046) funded under the Recovery and Resilience Plan (Digital Transition). The aim of such project is to:
+1) Compile an international benchmark of methodologies, use cases and best practices to assess the impact (economic, social, etc.) of using open data;
+2) Define metrics for impact assessment and monitoring;
+3) Stimulate cooperation among public administration (PA) entities (central, local and regional) in joint initiatives to make open data available and reused;
+4) Develop and communicate metrics and indicators of success for data publication by PA entities
+5) Demonstrate the value of open data, with simple reuse cases (e.g. visualizations) of datasets published by entities registered in data.gov, chosen by the potential to generate benefits and innovation, and relevance of this information;
+6) Identify criteria and model for evaluating the quality of datasets highlighting good practices in the publication of datasets
+At the present moment, this project has already done itens 1 and 2 and is working on case studies";Complement;;"At AMA there is an ongoing project entitled""Dados Abertos - Definição de modelo de avaliação de impacto"" (Open Data- impact assessment model definition; URL https://www.base.gov.pt/Base4/pt/detalhe/?type=contratos&id=9601046) funded under the Recovery and Resilience Plan (Digital Transition). The aim of the project is to:
+1) Compile an international benchmark of methodologies, use cases and best practices to assess the impact (economic, social, etc.) of using open data;
+2) Define metrics for impact assessment and monitoring;
+3) Stimulate cooperation among public administration (PA) entities (central, local and regional) in joint initiatives to make open data available and reused;
+4) Develop and communicate metrics and indicators of success for data publication by PA entities
+5) Demonstrate the value of open data, with simple reuse cases (e.g. visualisations) of datasets published by entities registered in data.gov, chosen by the potential to generate benefits and innovation, and relevance of this information;
+6) Identify criteria and model for evaluating the quality of datasets, highlighting good practices in the publication of datasets
+This project is ongoing, and the impact measurement methodology has already been applied to different case studies in the country. The methodology is based on surveys to data providers and reusers. It assesses the acknowledgement, knowledge and evidence of the impact of open data in four different areas: governmental, economic, social, and environmental. Future steps include increasing the number of case studies and entities participating in the project. More details on this project can be on the file attached to this survey_Relatório Casos de Estudo.pdf"
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"The national open government partnerships include 1) government entities, 2) academia, and 3) business associations and civil society. One of the 4 pillars of its first Open Administration National Action Plan (URL: https://ogp.eportugal.gov.pt/monitorizacao) is precisely open data. OGP Portugal aims to guarantee concrete commitments from governments to promote transparency, encourage public participation, fight corruption, and use new technologies to strengthen participatory democracy - https://ogp.eportugal.gov.pt/inicio. 
+In December of 2022, in accordance with the pillars of the second Open Administration National Action Plan 2022 (URL: https://ogp.eportugal.gov.pt/ii-panaa), AMA launched the Mosaico platform (URL: https://mosaico.gov.pt/) which promotes universal access to information between the state and the citizen.
+Besides OGP, other examples are: 
+1) Arquivo.pt, which promotes an annual contest for innovative works carried out based on open data (preserved by Arquivo.pt). Arquivo.pt is developed by the Scientific Computing Unit of FCT - Foundation for Science and Technology - https://sobre.arquivo.pt/pt/conheca-os-vencedores-do-premio-arquivo-pt-2022/. 
+2) The Urban Co-Creation Data Lab is a project that aims to provide support on decision making at the city level on high-quality services for citizens. The project is a collaboration between the Portuguese government (AMA) and NOVA IMS University. The project supports new planning and management approaches altogether with new tools to evaluate the impact and predict various services demand (URL: https://www.urbandatalab.pt/). 
+3) The DSPA represents the Data Science sector and promotes data science in Portugal and internationally. The association also promotes regulation, ethics, and security in the field of data science. It shares experiences, innovations, case-studies, and success stories and promotes innovation and entrepreneurship of Portuguese companies (URL: https://dspa.pt/)";Complement;;"The national open government partnerships include 1) government entities, 2) academia, and 3) business associations and civil society. One of the 4 pillars of its first Open Administration National Action Plan (URL: https://ogp.eportugal.gov.pt/monitorizacao) is precisely open data. OGP Portugal aims to guarantee concrete commitments from governments to promote transparency, encourage public participation, fight corruption, and use new technologies to strengthen participatory democracy - https://ogp.eportugal.gov.pt/inicio. 
+In December of 2022, following the pillars of the second Open Administration National Action Plan 2022 (URL: https://ogp.eportugal.gov.pt/ii-panaa), AMA launched the Mosaico platform (URL: https://mosaico.gov.pt/), which promotes universal access to information between the state and the citizen. The third Open Administration National Action Plan (2024-27) is now underway (URL: https://ogp.eportugal.gov.pt/iii-panna)
+Besides OGP, other examples are: 
+1) Arquivo.pt, which promotes an annual contest for innovative works based on open data (preserved by Arquivo.pt). Arquivo.pt is developed by the Scientific Computing Unit of FCT - Foundation for Science and Technology - https://sobre.arquivo.pt/pt/colabore/premios-arquivo-pt/premio-arquivo-pt-2024/. 
+2) The Urban Co-Creation Data Lab project aims to support decision-making at the city level regarding high-quality services for citizens. The project is a collaboration between the Portuguese government (AMA) and NOVA IMS University. The project supports new planning and management approaches with new tools to evaluate the impact and predict various service demands (URL: https://www.urbandatalab.pt/). 
+3) The DSPA represents the Data Science sector and promotes data science in Portugal and internationally. The association also promotes regulation, ethics, and security in the field of data science. It shares experiences, innovations, case-studies, and success stories and promotes innovation and entrepreneurship of Portuguese companies (URL: https://dspa.pt/)"
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Change;Yes;N/A
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;Yes;Monitoring dashboard in dados.gov and Access control to each data set
+I8-b;Surveys;new question;new question;Change;Yes;DGPJ carries out surveys. Also, you can consult this civil society entity in collaboration with PA bodies survey - URL: https://dados.gov.pt/pt/datasets/observatorio-dspa-o-setor-de-data-science-em-portugal/
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;"IPMA (Weather Agency) carries them out together with civil protection authorities and water management agency. Also, in the context of the project ""Dados Abertos - Definição de modelo de avaliação de impacto"" (URL https://www.base.gov.pt/Base4/pt/detalhe/?type=contratos&id=9601046), interviews are conducted with the reusers of the open data initiatives being studied to assess the governmental, economic, social and environmental impact of open data reuse."
+I8-d;Other;new question;new question;Change;Yes;Analytic tools (PIWIK) applied to the dados.gov
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;"The portal allows users to ask questions, make suggestions for data sets, and interact with supplier entities through the ""contact"" functionality (URL: https://dados.gov.pt/pt/contact/)."
+I9-b;Social media sentiment analysis ;new question;new question;Change;Yes;A yearly session for media journalists  is organized by AGIF and IPMA makes use of the session to explain meteorological fire risk data use. DGPJ also gathers news and information on data related matters.
+I9-c;Other;new question;new question;Change;Yes;DGPJ carries out user satisfaction questionnaires. Also, several activities namely, webinars, (https://dados.gov.pt/pt/posts/webinar-dados-abertos-importancia-para-as-empresas-2/), workshops (https://dados.gov.pt/pt/posts/a-ama-e-o-ctic-promoveram-o-workshop-conjuntos-de-dados-de-elevado-valor-dados-abertos-na-administracao-publica-1/) public presentations (https://dados.gov.pt/pt/posts/ogp-internacional/), and other events destined to the entire community that uses the open data portal (https://dados.gov.pt/pt/posts/open-data-day-2023/).
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;"[Response to reviewer] 
+The ongoing project entitled ""Open Data - Impact Assessment Model Definition"" (URL: https://www.base.gov.pt/Base4/pt/detalhe/?type=contratos&id=9601046) has implemented systematic methods for collecting (re)use cases, incorporating best practices (while also accounting for the cautionary lessons) from reports such as ""Rethinking the Impact of Open Data,"" ""The Economic Impact of Open Data,"" and ""The Use Case Observatory Volume I"" available on data.europa.eu.
+The systematic methods for gathering eligible entities for building use cases about the impact they create when (re)using open data are the following prioritization rules:
+a) having ongoing or scheduled data platforms, explicit data policies, data quality control procedures, and/or a general knowledge of its platform users
+b) the data platform is in the form of a website, data portal, or web application
+c) entities can be classified as private, public (government) or academic institutions
+d) entities can maintain regular and effective communication with the Administrative Modernization Agency, I.P. (AMA)
+e) entities can underpin if their operational influence is in at least one of the following sectors: social, governmental, environmental or economic
+f) entities can be classified into at least one of the following positions of the open data value chain: data reuser, data portal, data intermediary
+Upon their acceptance of the collaboration, they were provided with an impact assessment questionnaire.";Complement;;"The ongoing project entitled ""Open Data - Impact Assessment Model Definition"" (URL: https://www.base.gov.pt/Base4/pt/detalhe/?type=contratos&id=9601046) has implemented systematic methods for collecting (re)use cases, incorporating best practices (while also accounting for the cautionary lessons) from reports such as ""Rethinking the Impact of Open Data,"" ""The Economic Impact of Open Data,"" and ""The Use Case Observatory Volume I"" available on data.europa.eu. The first reports of the project can be consulted here for more information [Please check the file attached to this survey_Relatório Casos de Estudo.pdf]
+The systematic methods for gathering eligible entities for building use cases about the impact they create when (re)using open data are the following prioritization rules:
+a) having ongoing or scheduled data platforms, explicit data policies, data quality control procedures, and/or general knowledge of its platform users
+b) the data platform is in the form of a website, data portal, or web application
+c) entities can be classified as private, public (government) or academic institutions
+d) entities can maintain regular and effective communication with the Administrative Modernization Agency, I.P. (AMA)
+e) entities can underpin if their operational influence is in at least one of the following sectors: social, governmental, environmental or economic
+f) entities can be classified into at least one of the following positions of the open data value chain: data reuser, data portal, data intermediary
+Upon their acceptance of the collaboration, they were provided with an impact assessment questionnaire."
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";No;;Change;Yes;"The study from AMA, ""Projeto Impacto dos Dados Abertos. Casos de Estudo"", categorizes the information of the use cases in different topic areas. 
+The reuse cases and their impacts are assessed and classified by data providers and reusers under four possible areas or dimensions: governmental, economic, social, and environmental. The project is implementing surveys to the entities to assess different metrics related to the knowledge and evidence of the impacts of the reuse cases in each of the four dimensions. This allows the measure of the impact of the open data in each dimension and to perform a global analysis, from which the cases can be classified considering their impacts. This was already applied in a set of reuse cases, and future plans include applying it to a larger set. [Please check the file attached to this survey Relatório Casos de Estudo.pdf]
+The metrics that are being produced in the context of this project were inspired on “Rethinking the impact of open data” (Ooijen et al., 2023), “The Use Case Observatory” (Carsaniga, Dogger e Regeczi, 2022), “European DATA Market Study 2021–2023” (European Commission, 2023a), “Creating Value through Open Data” (Capgemini Consulting et al., 2015) e “The economic impact of open data” (Huyer e Knippenberg, 2020)."
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.";yes;"[Response to reviewer] 
+1 - The study ""Smart & open cities: Portuguese municipalities open data policies evaluation"" (URL: https://ieeexplore.ieee.org/abstract/document/7975912) provides a quantitative overview of the open data landscape in Portuguese cities based on the use of the Local Open Data Census platform (provided by Open Knowledge International - OKI) to evaluate the capacity to implement policies and frames its progress in terms of economic development and innovation, government transparency and citizen engagement impact.
+2 - The study ""The Open Data policies in Portugal: analysis of its implementation and impact"" makes an assessment based on homologous data sources - OKI - and expands its framework to the national level, and applied to the implementation of scientific data and public sector data, including data portals (URL: https://www.researchgate.net/profile/Paulo-Silva-119/publication/322011884_As_Politicas_de_Open_Data_em_Portugal_analise_da_sua_implementacao_e_impacto/links/5a3d6ced0f7e9ba8688e8fbf/As-Politicas-de-Open-Data-em-Portugal-analise-da-sua-implementacao-e-impacto.pdf)";Complement;;"1 - The study ""Smart & open cities: Portuguese municipalities open data policies evaluation"" (URL: https://ieeexplore.ieee.org/abstract/document/7975912) provides a quantitative overview of the open data landscape in Portuguese cities based on the use of the Local Open Data Census platform (provided by Open Knowledge International - OKI) to evaluate the capacity to implement policies and frames its progress in terms of economic development and innovation, government transparency and citizen engagement impact.
+2 - The study ""The Open Data policies in Portugal: analysis of its implementation and impact"" makes an assessment based on homologous data sources - OKI - and expands its framework to the national level, and applied to the implementation of scientific data and public sector data, including data portals (URL: https://www.researchgate.net/profile/Paulo-Silva-119/publication/322011884_As_Politicas_de_Open_Data_em_Portugal_analise_da_sua_implementacao_e_impacto/links/5a3d6ced0f7e9ba8688e8fbf/As-Politicas-de-Open-Data-em-Portugal-analise-da-sua-implementacao-e-impacto.pdf)
+3- The ""Dados Abertos - Definição de modelo de avaliação de impacto"" project is assessing the impact of different reuse cases in a systematic way in different areas, including the governmental area, based on surveys to data providers and reusers.[Please check the file attached to this survey_Relatório Casos de Estudo.pdf]"
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"1- Publishing data on the dematerialization of medical paper prescriptions by electronic means exemplifies how open data has a substantial impact on the efficiency and effectiveness of a government in delivering public services by reducing administrative burdens, eliminating paper-based processes, enhancing accuracy, facilitating faster access to prescriptions, and enabling seamless coordination among healthcare providers, ultimately resulting in improved healthcare delivery and patient care outcomes (URL: https://transparencia.sns.gov.pt/explore/dataset/desmaterializacao-eletronica-da-receita/table/?sort=periodo).
+2- The use of open data on illegal parking (URL: https://urbandatalab.pt/index.php/component/sppagebuilder/?view=page&id=118pen) allows for the identification of patterns and prediction of parking in the city of Lisbon, thus improving surveillance efficiency. 
+3- The Primary Health Care Identity Card allows for the proper management and efficiency in the use of health resources (URL: https://www.spms.min-saude.pt/2020/07/bi-csp-bilhete-de-identidade-dos-cuidados-de-saude-primarios/)"
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Mais Transparência portal (URL: https://transparencia.gov.pt/pt/) is a digital information platform on various management topics and public resources under the responsibility of AMA - Agency for Administrative Modernization. The information is permanently updated with data available on the national open data portal under the responsibility of the entities.
+Mais Transparência Portal allows citizens to access information provided by the Government in a more accessible way, reinforcing their relationship of trust with the Public Administration. The Mais Transparencia Portal , a barometer of the NextGenerationEU fund application at the national and municipal levels, allowing citizens to have access to information through a data visualization tool (URL: https://transparencia.gov.pt/pt/fundos-europeus/prr/barometro/ complemented with straightforward channels for downloading the source open data (URL: https://transparencia.gov.pt/pt/fundos-europeus/prr/barometro/ and technical documentation URL: https://transparencia.gov.pt/pt/fundos-europeus/prr/dimensao/resiliencia/). It also allows evaluating how Portugal compares in the NextGenerationEU fund application to other member states, e.g., URL: https://www.portugal.gov.pt/pt/gc23/comunicacao/noticia?i=portugal-e-dos-paises-mais-avancados-na-execucao-do-prr.
+Also, the data on public contracts and procurement provided at base.gov (URL: https://www.base.gov.pt/base4) has been used in academia as a source to study topics related to accountability and transparency in the public sector. Some examples are the following: ""Public sector corruption and accountability in cost deviation and overruns of public projects"" by  Catalão et al. (2023) (URL: https://link.springer.com/article/10.1007/s11115-022-00616-x); ""The entanglement of time and cost deviations in public projects"" by Catalao et al. (2023)  (URL: https://onlinelibrary.wiley.com/doi/full/10.1111/apce.12364); ""Essays on the Socioeconomic Impacts of Digital Government - Chapter 5"", by Martins J. (2024) (URL: https://repositorium.sdum.uminho.pt/handle/1822/88833?mode=full)
+Futhermore, The Complementary tool to the Electronic national official journal (https://incm-tst.outsystemsenterprise.com/INOV_DRE/Home) offers open access to legal information and fosters a deeper comprehension of laws and regulations, thereby ensuring transparency in decision-making processes and facilitating accountability by empowering citizens to hold public administrations responsible through enhanced accessibility to legal content; 
+Finally, the Open data and statistics regarding criminality indicators https://partilha.justica.gov.pt/Transparencia/Cadernos-Tematicos/Criminalidade is a tool that allows research journalists to delve deeper into, for example, corruption crimes, allowing long-term assessments of the state of anti-corruption efforts with detailed accounts of the number of investigations, convictions and sentences and, thus, substanciate trends in levels of criminality, severity of penalties, rates of case dismissals, duration of investigation and appropriateness of investigative resource allocation."
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Examples are:
+1- The platform to support the participatory processes of the public administration (URL: https://participa.gov.pt/base/about). This platform presents current and past participation initiatives and enables citizens and stakeholders to engage in policy discussions actively and thus, by providing a means for collaboration, gathering input, and incorporating diverse perspectives, the platform promotes policy-making processes, including problem identification and policy formulation. 
+2- The Competition Authority has implemented an internal procedure for assessing the competitive impact of public policies by analyzing existing legislation and regulation data in selected sectors and proposed pro-competitive changes URL: https://www.compete2020.gov.pt/noticias/detalhe/Proj12272IMPACT2020. The resulting Competition Assessment Project can be accessed in URL: https://www.oecd.org/daf/competition/portugal-competition-assessment-project.htm
+3- The More Transparency Portal (URL: https://transparencia.gov.pt/pt/), a barometer of the NextGenerationEU fund application at the national and municipal levels, allowing:
+3.1 - citizens to have access to information through a data visualization tool (URL: https://transparencia.gov.pt/pt/fundos-europeus/prr/barometro/ complemented with straightforward channels for downloading the source open data (URL: https://transparencia.gov.pt/pt/fundos-europeus/prr/barometro/ and technical documentation URL: https://transparencia.gov.pt/pt/fundos-europeus/prr/dimensao/resiliencia/) 
+3.2 - evaluating how does Portugal compare in the NextGenerationEU fund application to other member states, e.g., URL: https://www.portugal.gov.pt/pt/gc23/comunicacao/noticia?i=portugal-e-dos-paises-mais-avancados-na-execucao-do-prr"
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"1- The Strategic Global Plan for Rationalization and Cost Reduction in Public Administration (PGETIC) aims at, through Information and Communication Technologies, improving the efficiency of the internal processes of the Public Administration and improve the quality of services provided to Citizens and Companies (URL: https://pgetic.tic.gov.pt/ticgov/pgetic);
+2- In the EU project UCD Lab (Grant Agreement - INES / CEF / ICT / A2018 / 1837945, Action 2018 - EU - IA – 0099), in which AMA is a partner, several applications with open data were developed for the efficiency and effectiveness improvement of public services at the municipality level. Predictive model of micro mobility. Besides the predicted commute pattern, the model results will be also useful for micro mobility vehicles operation, improving effectiveness. URL:https://urbandatalab.pt/index.php/component/sppagebuilder/?view=page&id=116"
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.";yes;"[Response to reviewer]
+The following study used a focus group to test what is the impact digital tools, operating with various data sources, including open data, are having on societal chalenges, especially smart cities, and concluded that portuguese parishes will become smarter by the implementation of ongoing innovation accelerators URL: https://run.unl.pt/bitstream/10362/110862/1/Innovation_accelerator_to_make_Portuguese_smarter.pdf";Complement;Yes;"A study on the impact assessment of Open Data,""Projeto Impacto dos Dados Abertos. Casos de Estudo"", was developed by Agência para a Modernização Administrativa (AMA) and DGT participated in this study as coordinator of SNIG, which was one of the study case studies. The study used an approach based on the use of a questionnaire which included the followinga areas; governmental, social, environmental, economical."
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"The ""Migra Play"" is a platform that dynamically shows the evolution of statistical data on immigrants in Portugal URL: https://www.om.acm.gov.pt/migra-play. It displays in an animated and interactive way data of annual reports on: migrants and their political rights including woman, asilum seekers and religious minorities; the reports and the source data can be downloaded from the main website. "
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Examples of iniciatives having an impact on the society's level of awareness concerning housing in urban areas:
+1- The ""Arrendamento Acessível"" platform uses government's datasets on social housing and house rent support (e.g., https://dados.gov.pt/pt/datasets/edificios-de-habitacao-social-n-o/ https://dados.gov.pt/pt/datasets/candidaturas-a-programas-municipais-de-acesso-a-habitacao-e-de-apoio-ao-arrendamento/) to improve market offer gaps of affordable houses for families with different levels of household income https://www.portaldahabitacao.pt/web/guest/arrendamento-acessivel 
+2 - Space for knowledge and information sharing on urban policies and analytical tools for urban development - https://www.forumdascidades.pt/forum; 
+3 - Scientific publications on the topic of open address data (https://www.tandfonline.com/doi/full/10.1080/17445647.2022.2114862) facilitate the comparison of census-based estimates of population distribution with more direct evidence. This expedites the reuse of variables, such as the number of buildings and accommodations per person or age group, for conducting comprehensive analyses on housing conditions in the Portuguese territory. There are also scientific publications on the topic of urban infrastructure using open data from Direção Geral do território https://www.sciencedirect.com/science/article/pii/S2352340923006844
+4- https://dados.gov.pt/pt/ also has datasets available. These data require some improvement in terms of quantity and quality, an effort which is currently being deployed."
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"The Ministry of Health in Portugal is responsible for the open data initiative known as the ""Transparency Portal"". The primary objective of this initiative is to ensure full access and transparency to a wide range of data concerning the operations and transactions of the National Health System (SNS). This involves information from different organizations involved in providing healthcare nationwide. This portal has a significant impact on health:Access to detailed health data allows for better monitoring of health outcomes, identification of trends, and early detection of issues, enabling timely interventions and also, Policymakers and health administrators can use this data to make informed decisions regarding healthcare policies, resource allocation, and management of healthcare services.
+Other examples:
+1- The ""Resposta Sazonal em Saúde"" (Seasonal Health Response) is a platform with interactive dashboards of the daily updates on the progression, accessibility, and use of healthcare services by citizens, namely primary Healthcare, hospital healthcare, and emergency healthcare. It provides timely information to the populace and healthcare sector stakeholders, facilitating their effective preparedness for response https://www.sns.gov.pt/plano-de-contingencia-sazonal/
+2- The Daily Evolution of Emergency Calls seeks to inform the public on health initiatives, resource allocation, and the development of preventive measures.URL: https://transparencia.sns.gov.pt/explore/dataset/acionamentos-de-meios-de-emergencia-medica/table/?sort=periodo
+In particular, it allows to monitor the response times relative to the number of daily emergency events and determine the nation-wide average response time as well as allow nation-wide media outlets to create awareness on the public to sub-optimal response times https://expresso.pt/sociedade/2022-10-23-INEM-demorou-uma-hora-ou-mais-a-acionar-meios-em-mais-de-mil-chamadas-d36ee608 
+3 - The ""Centro de Saúde Fora de Horas"" (After-hours Healthcare Centers, URL: https://www.arslvt.min-saude.pt/centros-de-saude-fora-de-horas/#14) is a data visualization map of healthcare centers with extended working hours. Its primary goal is to reduce the demand for hospital emergency services among patients who, while experiencing an acute illness, do not require such specialized care. This tool has been featured in national-level media outlets, e.g., https://www.publico.pt/2022/11/23/sociedade/noticia/portal-sns-passa-informacao-centros-saude-abertos-ate-tarde-2028846
+Link for more information: https://transparencia.sns.gov.pt/page/ajuda/"
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"In fact, Directorate-General for Education and Science Statistics (DGEEC) provide data that can be freely used, reused and redistributed by anyone, without restrictions of copyright, patents or other control mechanisms, and which subject, at most, to the requirement to cite the source. According to this question, open data is available for all data that does not require authorisation to be processed, and this is the case for all DGEEC statistical data available on the website.
+In our website, you can access to our open data for example concerning: 
+- Teachers: https://www.dgeec.medu.pt/art/educacao-pre-escolar-basico-e-secundario/bases-de-dados/undefined/652d5371121f641a986cc643;
+- Pupil enrollment: https://www.dgeec.medu.pt/art/educacao-pre-escolar-basico-e-secundario/bases-de-dados/undefined/652d2759121f641a986cc636 
+- or Eurydice reports on Sustainability:
+https://www.dgeec.medu.pt/art/6499db7d9eff36f307f07bdb/65293837121f641a986cc618/653b96736ac1e15eea50c5db/6566f1631a5e26972f636ebe#artigo-661e1fb548f22fa765197a7a  
+
+Then, you can also access to 7 datasets: https://dados.gov.pt/pt/organizations/direcao-geral-de-estatisticas-da-educacao-e-ciencia-dgeec/?datasets_page=7#organization-datasets.
+1) Reuse cases: https://dados.gov.pt/pt/organizations/direcao-geral-de-estatisticas-da-educacao-e-ciencia-dgeec/?datasets_page=7#organization-reuses
+2) Examples of Open Dataset used by the reuse case: 
+- https://empregocientificoedocente.dgeec.mec.pt/ ; 
+- https://dados.gov.pt/pt/reu; 
+3) Description: For example InfoCursos Portal (https://infocursos.medu.pt/), is a tool that presents data and statistics on the Higher Professional Technician (TeSP), 1st cycle Bachelor's, Integrated Master's and 2nd cycle Master's programmes offered by Portuguese higher education institutions. The ‘Course statistics’ tab shows information for all courses that had students enrolled in the 1st year for the first time, according to the data reported to the DGEEC by higher education establishments through the RAIDES survey. No statistics are provided for military or police courses. The ‘Course data’ tab shows the information contained in the Guide to Entrance Exams, issued by the Directorate-General for Higher Education, for 1st cycle Bachelor's and Integrated Master's programmes.
+
+This is a project included in a broader initiative that try to use the different educations databases and give some added value for the differentes users. In this area, it includes also Info escolas – focus in non-higher education information and where we can found several indicators as (mainly at a school level and compared with student similar students’ background):
+• Students who completed the 1st cycle in 4 years (%)
+• Students from poor background who completed the 1st cycle in 4 years
+• Students who completed upper sec in 3 years (%) and succeeded in the national exams
+• Students who completed the VET programmes in 3 years
+• Comparison between students’ internal and national assessment scores
+• Progression between 9th and 12th grades scores
+
+Returning to the InfoCursos portal (http://infocursos.pt), it was developed in 2015 (as part of a bigger initiative that included also infoescolas portal) provides data and statistics on the mains Higher Education programs (Technical Vocational Courses (TeSP), 1st cycle degrees, Integrated Masters and 2nd cycle Masters), taught at Portuguese higher education institutions. Is also part of the measures to fight failure and dropout in higher education.
+
+Infocursos is a “need to improve” result, for allowing:
+1. To increase public information about the educational system
+2. To improve the technical quality of the indicators available to the educational community
+3. To transform results and demographic indicators in a more qualitative information, that can contribute to a better knowledge of the education system
+But, more important was the Infocursos portal allows students, together with their families, to make a supported decision when choosing the higher education course they wish to follow. 
+
+In the same perspective, we can refer InfoEscolas Portal (https://infoescolas.medu.pt/) as a “need to improve” result, for allowing:
+1. To increase public information about the educational system
+2. To improve the technical quality of the indicators available to the educational community
+3. To give back to schools statistical data useful for self-evaluation processes
+4. To transform results and demographic indicators in a more qualitative information, that can contribute to a better knowledge of the education system."
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.";No;"[Response to reviewer]
+1- On the environmental challenges of achieving more environmental-friendly cities  and increasing the use of renewable sources of energy the following scientific publication provide insights about the ecological footprint in Portuguese cities, namely the annual demand for natural resources and ecological services by the city's residents and compares it against the “carrying capacity” of the city's ecological assets (URL:https://www.sciencedirect.com/science/article/pii/S0264275119302306#s0065) calculated from open datasets such as the ecological footprint and biocapacity open dataset - NGO Global Footprint Network (https://data.footprintnetwork.org/#/). 
+2- On the environmental challenge of fighting climate change and connected disasters the following scientific publications provide:
+2.1. quantitative insight on the current rate of water depletion under climate change
+https://www.sciencedirect.com/science/article/abs/pii/S0048969720329946 calculated from open datasets such as the EURO-CORDEX iniciative (https://www.euro-cordex.net/060378/index.php.en).
+2.2 wildfire proneness under (severe) draught periods https://www.sciencedirect.com/science/article/abs/pii/S0048969719323393) calculated from open ERA-Interim datasets (the Copernicus Climate Change service predecessor) https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-interim";Change;Yes;"1- On energy transition and renewable sources, the following study uses open data from INEGI and APREN to identify Portugal's current state and prospects, with references to the European Green Pact https://www.mdpi.com/1996-1073/16/1/551
+2- On the environmental challenges of achieving more environmental-friendly cities and increasing the use of renewable sources of energy the following scientific publication provide insights about the ecological footprint in Portuguese cities, namely the annual demand for natural resources and ecological services by the city's residents and compares it against the “carrying capacity” of the city's ecological assets (URL:https://www.sciencedirect.com/science/article/pii/S0264275119302306#s0065) calculated from open datasets such as the ecological footprint and biocapacity open dataset - NGO Global Footprint Network (https://data.footprintnetwork.org/#/). 
+3- On the environmental challenge of fighting climate change and connected disasters, the following scientific publications provide:
+3.1. quantitative insight on the current rate of water depletion under climate change
+https://www.sciencedirect.com/science/article/abs/pii/S0048969720329946 calculated from open datasets such as the EURO-CORDEX initiative (https://www.euro-cordex.net/060378/index.php.en).
+3.2 wildfire proneness under (severe) draught periods https://www.sciencedirect.com/science/article/abs/pii/S0048969719323393) calculated from open ERA-Interim datasets (the Copernicus Climate Change service predecessor) https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-interim
+4- The following case study on Portugal reviews the country's status regarding clean technologies value chains, the country's main challenges and recommendations for further improvement. Uses open-data from multiple sources, including the PORDATA portal. https://www.apren.pt/contents/publicationsothers/e3g-report-making-clean-technology-value-chains-work-for-eu-economic-convergence.pdf
+5- The ""Dados Abertos - Definição de modelo de avaliação de impacto"" project is assessing the impact of different reuse cases in a systematic way in different dimensions, including the environmental dimension, based on surveys to data providers and reusers.[Please check the file attached to this survey_Relatório Casos de Estudo.pdf]"
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"1- The use of municipal open data repositories of liquid and atmospheric pollutents (URL: https://urbandatalab.pt/index.php/component/sppagebuilder/?view=page&id=119) enables the elaboration of public-available predictive models of the propagation of pollutants that impact air and water quality. In other words, the ""objective of these predictive tools is to simulate different pollutant emission scenarios allowing the creation of emergency measures to minimize the impact of an eventual hazard on public health and other citizen's life aspects.""; 
+2- The Waste water quality open data and re-use (URL: https://www.ersar.pt/pt/consumidor/qualidade-da-agua) creates awareness about the waste water and can be used to infer the health of the population; 
+3- The Portuguese Environment Agency (APA) creates the Info Praia app for the rapid availability of up-to-date information on beaches and the quality of coastal, transitional and inland bathing waters. - https://play.google.com/store/apps/details?id=pt.apambiente.info_praia&hl=pt_PT&gl=US; Related Open Datasets URLs: https://dados.gov.pt/pt/datasets/rh4-zonas-de-risco-de-erosao/; https://dados.gov.pt/pt/datasets/praias-com-bandeira-azul-n-o/; https://dados.gov.pt/pt/datasets/instrucoes-para-colheita-de-amostras-de-aguas-balneares/"
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Inspired by the know-how, the NEXUS consortium developed a common vision for the agenda with a focus on the development and exploitation of a technologically advanced portfolio of products and services, which complement each other to build innovative value propositions. The project is based on an Open Data Collaboration Platform for Multimodal Transport Collaboration that uses the existing landscape of systems and the massive pool of logistics network data and events as catalysts for innovation and promoters of synergies between products. NEXUS is expected to have a very significant impact on the Transport, Mobility and Logistics Sector, representing a total of 11.500 companies, 116.000 jobs and 5.7% of the national Gross Added Value, and an estimated 25% reduction of carbon emissions. 
+Other examples:
+1- Predictive model of micro mobility. Besides the predicted commute pattern, the model results will be also useful for micro mobility vehicles operation, improving effectiveness. URL:https://urbandatalab.pt/index.php/component/sppagebuilder/?view=page&id=116 
+2- Identification of patterns/profiles and solid waste production prediction. Creation of a service to predict solid waste production a day before, to optimize waste collection in Lisbon. URL:https://urbandatalab.pt/index.php/component/sppagebuilder/?view=page&id=117
+3- Environmental impact of municipal trees in public space (including the analysis of levels of carbon sequestered, removal of pollutants and levels of rainwater runoff avoided). URLs: https://dados.gov.pt/pt/datasets/projeto-itree-contribuicao-ambiental-das-arvores-em-espaco-publico/; https://dados.gov.pt/pt/datasets/projeto-itree-contribuicao-ambiental-das-arvores-em-espaco-publico/
+Examples 1 and 2 are outputs of the EU project UCD Lab (Grant Agreement - INES / CEF / ICT / A2018 / 1837945, Action 2018 - EU - IA – 0099), in which AMA is a partner, several applications with open data were developed for the efficiency and effectiveness improvement of public services at the municipality level. Example 3 is an iniciative of CascaisData, the open data platform of the local administration of the municipality of Cascais."
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Examples are:
+1- Scientific publications on the topic of water scarcity provide numbers on the current rate of water depletion under climate change and wildfire proneness under (severe) drought periods (URLs: https://www.sciencedirect.com/science/article/abs/pii/S0048969720329946 ; https://www.sciencedirect.com/science/article/abs/pii/S0048969719323393). These publications raise awareness of the climate change impact on water scarcity, promoting the adoption of different behaviours)
+2- Drought Severity Index. URL: https://www.ipma.pt/en/oclima/observatorio.secas/. This index promotes de awareness of drought severity across regions in Portugal and time, which leads to behabvior change, having an impact on the fight against climate change. 
+3- Risk assessment of connected disasters URL: http://www.pnrrc.pt/index.php/geo/. This map promotes the adoption of self-protection behaviours in the face of potential risks of natural, technological or mixed origin"
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"There are 4 areas of open data that are available and that may be influencing the market and be interesting for those who follow the renewables sector, namely:
+- E-Redes: provides a website with it's data. One of the important examples for the renewables implementation is the availability of installed power at transformation stations and its use, which helps in the planning the of network and connections. For example, for industrial, tt is possible to know whether or not power is available in the grids at a certain area. The same applies to residential areas (https://e-redes.opendatasoft.com/explore/dataset/postos-transformacao-distribuicao/mapa/). It is available in English;
+- OMIE: Energy values"
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";yes;"[Response to Reviewer] 
+The study, titled ""Value Creation through the Reuse of Open Data: Architecture and Implementation of a Serverless Platform in AWS Cloud, Targeting Online Food Retail,"" aims to quantify the economic impact of reusing open data in the online food retail sector through comprehensive exploration of market data. It emphasizes the development of business insights through advanced analytics within the online retail landscape in Portugal (URL: https://run.unl.pt/handle/10362/149576).";Change;Yes;"1-The study, titled ""Value Creation through the Reuse of Open Data: Architecture and Implementation of a Serverless Platform in AWS Cloud, Targeting Online Food Retail,"" aims to quantify the economic impact of reusing open data in the online food retail sector through comprehensive exploration of market data. It emphasizes the development of business insights through advanced analytics within the online retail landscape in Portugal (URL: https://run.unl.pt/handle/10362/149576).
+2- The ""Dados Abertos - Definição de modelo de avaliação de impacto"" project is assessing the impact of different reuse cases in a systematic way in different dimensions, including the economic impacts, based on surveys to data providers and reusers. [Please check the file attached to this survey_Relatório Casos de Estudo.pdf]"
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"It is possible to infer that the use of open data has impact on employment, since there are new several projects appearing every day that use open data. Those projects require technical and specialized empoyment. Some examples are: 
+1- The PORDATA portal that embodies the collection, compilation, systematization and dissemination of open data on multiple areas of society; URL: https://www.pordata.pt/en/home 
+2- A study by the New IMS University and the Automobile Club of Portugal, which is in its first phase, analyzes the impact of bicycle paths on mobility in the cities of Lisbon and Porto. This sudy is based on open data from the minicipalities about the bicicle paths. URL: https://www.acp.pt/o-clube/revista-acp/noticias-do-clube/detalhe/impacto-das-ciclovias-na-mobilidade
+3- the SOLIS project, Solar Potential in Lisbon, is a platform for the promotion of a wide acceptance of solar technology among the citizen. The Platform provided:- three different maps, with the possibility of three territorial display levels - the city, the parish and the building; and is based on open data on solar irradiation. URL: https://www.solis-lisboa.pt/"
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"a) Report DSAIPA research projects “Research in Data Science and Artificial Intelligence applied to Public Administration” on the reuse of administrative Open Data: relatório https://www.fct.pt/wp-content/uploads/2022/06/Brochura_ResearchinDataScienceandAIappliedtoPA.pdf
+Examples of businesses creation and its products through the re-use of open data can be foud at URL: https://lisboaaberta.cm-lisboa.pt/index.php/pt/apps-e-analitica/apps
+b) Portal da Inovação presents information about the entities of NIS (National Innovation System) search investigator's specific skills, entities that work with specific technologies, find business partners, among many functionalities. Several data about Innovation and R&D Entities can be found at https://www.portaldainovacao.pt/Portal_Inovacao/Search.aspx?MobileSearchViewId=1 
+c) GovWise is a Data Science company, with professionals in GovTech, and aims to generate value savings, profitability, and return on investment for Public Organizations and Companies that work with the State. It uses open data about public public tendering. URL: https://govwise.ai/"
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"1- Some examples include the Travel BI online platform, from the Tourism of Portugal,  an online platform where several data, statistics, graphics and studies regarding the Portuguese tourism are made available to the public. Impact is created by independently monitoring and promoting sustainable tourism practices, facilitating informed decision-making, and fostering regional development and sustainability, both environmental and socio-economic. - URL: https://travelbi.turismodeportugal.pt/sustentabilidade/observatorios-regionais-de-sustentabilidade/
+2- Examples of business creation and its products through the re-use of open data. URL: https://lisboaaberta.cm-lisboa.pt/index.php/pt/apps-e-analitica/apps namely:
+2.1- https://www.visor.ai/ an AI platform for non-technical customer service teams
+2.2 https://load.digital/digital-product-development a web design and UX solutions company in several sectors including medical devices, construction and mobility. 
+2.3 https://360waste.pt/ a waste management platform created by https://www.evox.pt/"
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"1- The PORDATA portal makes available productivity data for Portugal https://www.pordata.pt/portugal/produtividade+aparente+do+trabalho-2817 
+2- Scientific publications using open data from PORDATA and INE on the topic of productivity of the Portuguese economy https://www.tandfonline.com/doi/full/10.1080/09654313.2022.2073787"

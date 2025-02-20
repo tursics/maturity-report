@@ -1,0 +1,588 @@
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;"Wet Hergebruik Overheidsinformatie  https://wetten.overheid.nl/BWBR0036795/2021-07-01
+In this law, the Open Data Directive will be implemented.";Complement;;"Wet Hergebruik Overheidsinformatie:  https://wetten.overheid.nl/BWBR0036795/2021-07-01
+The law implementing the Open Data Directive is recently finalised and accepted (June 2024)."
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"https://www.rijksoverheid.nl/documenten/rapporten/2021/10/31/nl-digitaal-interbestuurlijke-datastrategie-nederland
+The IBDS describes the ambition and the approach for reaching these goals. The key points are:
+- working towards technically, legally and ethically better considerations regarding data use
+- develop government-wide system functions, like a federative data system
+- Using concrete use cases with social value.";Confirm;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;Yes for example Amsterdam: https://www.amsterdam.nl/innovatie/digitalisering-technologie/data/amsterdamse-datastrategie;Complement;;"Yes, there are multiple municipalities and provinces with datastrategies that include open data. In general, these strategies describe plans for working with data, becoming a more 'data-driven' organization, with a focus on how to do it responsibly, respecting human values. For example: 1) province of Utrecht: ""Datastrategie 2024-2026, op weg naar verantwoord datagebruik"" https://www.provincie-utrecht.nl/sites/default/files/2024-04/Datastrategie_2024_-_2026.pdf, 2) the municipality of Haarlem ""Data, de Haarlemmerolie van nu, datastrategie 2023-2026"": https://gemeentebestuur.haarlem.nl/bestuurlijke-stukken/20221754574-2-Bijlage-1-Datastrategie-2023-2026-1.pdf"
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;"https://www.rijksoverheid.nl/documenten/rapporten/2021/10/31/nl-digitaal-interbestuurlijke-datastrategie-nederland
+Some of the measures/actions:
+- publish a data manifest
+- develop a federative data system
+- assign responsibilities
+- develop a 'toolkit' for data experts
+- develop data leadership";Confirm;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";no;;Confirm;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;The IBDS (national data strategy) supports the reuse of open data by creating a federative data system, that will make data easier findable and usable, aiming to increase the number of reuse cases, especially for social issues.;Confirm;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";no;;Confirm;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";no;;Confirm;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;The Ministry for the Interior is taking the lead in implementing the HVD regulation. Data providers are meeting regularly to discuss progress and remaining issues. Most of the data concerned was already open in the Netherlands and available through national level services. All providers did an inventory and impact assessment. There is still uncertainty wrt the scope of the environmental data. Wrt company register there has been uncertainty wrt the inclusion of personal data. There is a national level register (aanmerkingsregister.nl) that indicates which agency is responsible for HVD sources. The national open data portal is yet to add a HVD category to it, which is dependent also on a few outstanding metadata issues over all HVD themes.
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;The aanmerkingsregister.nl provides an overview which public bodies are responsible for which data sets under e.g. HVD and INSPIRE as well as other regulations and directives. This will be the basis for adding metadata to denoted datasets, which is yet to be done (e.g. for the national open data portal). There is also still some discussion within the European INSPIRE community on how to denote HVD for INSPIRE data sets in metadata and how that might be harvested in the European INSPIRE portal
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"On the national level, the Ministry of the Interior is responsible for open data policies and practices, but they work together with all the departments, implementing organisations, provinces, municipalities, and the water boards. For example on the creation of the national data strategy (IBDS) and its implementation, the governance structure has been described here on page 25: https://realisatieibds.nl/file/download/1c9729a6-70a9-4bda-a245-49c1d6d63adb/meerjarenaanpak-interbestuurlijke-datastrategie6maart2023.pdf ; there is OBDO: Overheidsbreed Beleidsoverleg Digitale Overheid 'intergovernmental policy committee for digital administration. OBDO is an advisory board for digital policy and ICT use within the public sector, with representatives from all layers of government. And IDO: Interbestuurlijk Data Overleg, intergovernmental data committee, mandated by OBDO to determine the strategy for government data policy and (inter)governmental data related programs (such as IBDS, the intergovernmental data strategy), for which it sets the scope and direction. And there is a focusgroup working on the implementation."
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;Hybrid since it combines the advantages of top-down and bottom-up;Confirm;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;The National dataportal gives an overview of initiatives and events on national, regional and local level and are involved in a lot of these activities. 
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";approximately half of the public bodies;;Confirm;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";yes;The responsibilities of the national team (data.overheid.nl) are described here: https://data.overheid.nl/ondersteuning/algemeen/over-dataoverheidnl;Confirm;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;The team maintaining the national portal is part of the national open data team. ;Confirm;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;The (chief) data officers are often also responsible for open data. Some organizations (for example CBS) have a dedicated open data officer.;Confirm;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Events and news items can be found on the website of the national data portal: https://data.overheid.nl/actueel
+Knowledge and support is also shared via the website: https://data.overheid.nl/ondersteuning/data-publiceren/handreiking-open-data RESPONSE: Every 3 months there is a meeting about the national data strategy (https://realisatieibds.pleio.nl/events/view/f4bfbc3b-ef62-4ece-bc61-528c0b003c86/save-the-date-ibds-cafe-hoe-kunnen-data-maatschappelijke-opgaven-verder-helpen).";Complement;;Every 3 months there is a meeting (IBDS Café) organised by IBDS (the organisation working on the implementation of the national data strategy) where different topics are discussed with a wider network of data officers: https://realisatieibds.nl/events/view/23378149-533d-4ee2-b9d4-6553527dc81a/save-the-date-ibds-cafe-aan-de-slag-met-datagedreven-samenwerken
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;For example on the Geoform, there is a lot of contact between data providers such as PDOK and users. Online, and on events: https://geoforum.nl/ and  https://geoforum.nl/c/events/49;Confirm;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;There are standard publication plans on national and local level provided by the National dataportal and biggest cities. These plans also implement the DCAT standardized value list for mandatory fields to fill during publication. There is in addition a staged publication process. The biggest data owning organization first publish data in internal catalogues, before it is published in the public and national datapportals. ;Confirm;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;The implementation of the IBDS (strategy) is handled by an organization (ICTU) focusing on the realisation of the strategy (see: https://realisatieibds.pleio.nl/) by stimulating and facilitating the intergovernmental cooperation.;Confirm;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;"The national strategy (IBDS) was proposed in 2021, but the plans for implementation of the strategy are more recently shaped in cooperation with all partners; there is plan for multiple years (https://realisatieibds.nl/file/download/1c9729a6-70a9-4bda-a245-49c1d6d63adb/meerjarenaanpak-interbestuurlijke-datastrategie6maart2023.pdf)  and one for 2024 alone (https://realisatieibds.nl/files/view/0e3756f4-9437-4ed9-b3c2-d7bdc304e109/ibds-jaarplan2024-def.pdf). This plan is set for 2023-2027, so it will be updated in 2027."
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;All public sector bodies provide their data free of charge, except for a couple of organizations that are allowed to charge fees, as regulated by specific laws.;Confirm;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;1. Data quality 2. Trust in data 3. Lack of data interoperability;Confirm;N/A;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"The measures are described in the national data strategy: https://www.digitaleoverheid.nl/document/interbestuurlijke-datastrategie-2021/ 
+For example the development of a federative data system, that will contribute to better data quality and interoperability. RESPONSE: The national data strategy also offers a toolkit that provides help with the responsible use of data. This could help enhance the trust in data. https://realisatieibds.pleio.nl/cms/view/628d59dd-0755-4c20-8217-d3f26d9d8a5c/toolbox-voor-verantwoord-datagebruik";Confirm;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;"The team of the national dataportal is available for help, and extensive support content for data publishers is available in Dutch on the website: https://data.overheid.nl/ondersteuning/data-publiceren/datasets-publiceren, combined with a ""handreiking"" which is an extensive guidline to help makes the choices how to publish data"
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;The RADIO (National Academy for Digital and Information Government) provides such trainings: https://www.it-academieoverheid.nl/onderwerpen/d/data;Complement;;The RADIO (National Academy for Digital and Information Government) provides such trainings/e-learning/webinars, about data, digital literacy and digitalisation but also about bid data and AI: https://www.it-academieoverheid.nl/onderwerpen
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, >9;"- https://data.overheid.nl/actueel/evenementen
+- https://www.open-overheid.nl/actueel/activiteiten?trefwoord=&periode=alle-activiteiten-uit-het-verleden&organisator=Alle+organisatoren&type=Alle+typen+activiteiten
+- https://www.meetup.com/osgeonl/";Complement;;PDOK (Public Services on the map, platform for geo data) is often present on geo/data related events, promoting their platform which is entirely based on open data: https://www.pdok.nl/events, OSGeo organizes events https://www.meetup.com/osgeonl/, Data Sharing Festival (6-7 feb 2024) https://www.tno.nl/nl/newsroom/agenda/data-sharing-festival-next-level-data/ , Dutch Data Summit: https://www.dutchdatasummit.nl/agenda , list of events from 'open government': https://www.open-overheid.nl/actueel/activiteiten
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;data.overheid.nl;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;N/A;The portal is based on CKAN.
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;The API can be found here:https://data.overheid.nl/data/api/3/
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;No;
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;https://docs.datacommunities.nl/data-overheid-nl-documentatie/data.overheid.nl-werking/apis-met-de-data-van-data.overheid.nl
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.";new question;new question;Change;Yes;"Documentation and supporting material can be added during publication of the data (requires login, and only possible for official data): https://data.overheid.nl/dataset/dataset-publiceren 
+also explained on this page:
+https://docs.datacommunities.nl/data-overheid-nl-documentatie/datasets-aanmelden/handleiding-datasets-aanmelden-op-data.overheid.nl"
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://data.overheid.nl/ondersteuning/algemeen/contact;Confirm;;
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;Every dataset page has a Feedback option, where people can give a thumbs up/down and leave comments. Example: https://data.overheid.nl/dataset/259-asielverzoeken-en-nareizigers--nationaliteit--geslacht-en-leeftijd;Confirm;;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;Users can give a thumbs up/down to vote or rate the dataset;Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://data.overheid.nl/actueel;Confirm;;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://data.overheid.nl/rss/actueel;Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://data.overheid.nl/community/dataverzoeken/dataverzoek-indienen;Confirm;;
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://data.overheid.nl/community/dataverzoeken;Confirm;;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;In the data request form follow up actions are being tracked. This functionality is internal eyes only.We monitor the overview and status of unresolved requests.;Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://data.overheid.nl/datacommunities;Change;No;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://data.overheid.nl/community/toepassingen;Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;For every application the datasets are referenced, example: https://data.overheid.nl/community/application/6022/datasets;Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://data.overheid.nl/community/toepassingen/toepassing-aanmelden;Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;"There is a button 'Voorbeeld' (preview) right after the link to download the tabular data:
+https://data.overheid.nl/dataset/immigratie-ind-asiel-eerste-en-volgende-aanvragen ";Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";no;;Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;Piwik Pro;Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Change;No;
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;We organize user days.;Complement;;We investigate how we are found through other search engines. This gives us insight in what users are looking for.
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;"The information about what users are looking for helps us to improve search results; that the right datasets are found more easily."
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;Product owners have been visiting universities to inform students about the data portal, which also helped students to use open data for their projects.
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;This process works automatically: all search requests are registered. We use these insights to improve the portal's search system, and to see whether there are trends (data/topics people are interested in). This information helps us to see if there are actions we can take to better help these users (i.e. get in touch with data providers on this topic).
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;Yes, Piwik pro collects these statistics. And we also analyse the most populair datasets through google searches. Periodically, we look at these statistics to see if we can make any improvements. Most popular datasets: 1) https://data.overheid.nl/dataset/6883f4e8-cc6d-442a-9022-ac325e1c02b5 2) https://data.overheid.nl/dataset/0ff83e1e-3db5-4975-b2c1-fbae6dd0d8e0 3) https://data.overheid.nl/dataset/8e164de4-ca78-4aa8-8169-a4f9545027d8 4) https://data.overheid.nl/dataset/6a707ed7-00e2-4a26-879c-8f9299c130ce 5) https://data.overheid.nl/dataset/bb1fb116-5a84-4284-911c-24036a4739e0
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;Yes, we use an advanced SOLR based suggestor system, use taxonomies to optimize search and add editorial datasets, groups and content to make data better findable. We implemented Schema.org to provide better findability in Google. ;Confirm;;
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Complement;;Information about each dataset is presented on the website as well as downloadable in XML/RDF format, see this example: https://data.overheid.nl/dataset/prorail-referentiesysteem
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;Public sector data providers are willing to publish on the dataportal. Most auto sync their own catalogues. A lot of relation management is important to keep data owners to provide datasets on the portal. We sync all catalogues. Only some organization wiothout a catalogue may have manually added datasets on their websites that are not in the national data portal. ;Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;We work together with these data providers, and we support all data providers by making all documentation available on the portal.;Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;data.utrecht.nl, data.amsterdam.nl, data.nijmegen,nl, and more;Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";all datasets;;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;"For example these datasets:
+https://data.overheid.nl/dataset/533-pompprijzen-motorbrandstoffen--locatie-tankstation--brandstofsoort 
+https://data.overheid.nl/dataset/d78f80c4-6049-4a56-8807-a01b40b6401a
+https://data.overheid.nl/dataset/5c60eee8-201c-4566-b8db-45544ca2147c";Complement;;"For example these datasets:
+https://data.overheid.nl/dataset/533-pompprijzen-motorbrandstoffen--locatie-tankstation--brandstofsoort 
+https://data.overheid.nl/dataset/22475-real-time-fijnstof-monitoring"
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;No;
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;These datasets can be found on the national portal by filtering (Access) on datasets that are 'Not Public'. In the description of the data it is explained why the data cannot be made available as open data. See this example: https://data.overheid.nl/dataset/nederlandse-gedetineerden-in-het-buitenland;Complement;;These datasets can be found on the national portal by filtering on datasets for which Access is 'Not public'. In the description of the dataset is sometimes made clear why the dataset is not publicly available for reuse, for example to protect people's privacy. See this example: https://data.overheid.nl/dataset/aansprakelijkheid
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;The portal is centrally financed by the Ministry with a long term maintenance contract. And on this page we set up our code base to ensure continuity: https://github.com/dataoverheid
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"https://www.linkedin.com/company/20355889
+https://twitter.com/opendatanl";Change;No;
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.";yes;Github: https://github.com/dataoverheid;Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;https://data.overheid.nl/statistieken;Confirm;;
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature.";yes;Yes, we use the statistics (also a lot of non-public figures in our Piwik Pro system) to steer the content production for impact stories, social media activities and need for support pages. Important here is how successful users are to find data without help. ;Confirm;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;We have a clearly defined metadata approach conform DCAT. So the government organisations can check if the metadata is up to date conform the standard. The datamanagement team of the portal every day checks if the (meta)data is right and if we miss datasets we contact the data owners. Documentation is published for anyone to check how to validate against the Dutch DCAT application profile of DCAT. Currently the DCAT-AP 2 DONL is being created which will implement DCAT AP 2;Complement;;We have a clearly defined metadata approach conform DCAT. So the government organisations can check if the metadata is up to date conform the standard. The datamanagement team of the portal checks every day to see if the (meta)data is right and if we miss datasets we contact the data owners. Documentation is published for anyone to check how to validate against the Dutch DCAT application profile of DCAT. Currently the DCAT-AP-NL 3.0 is being created, which will implement DCAT-AP 3.
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;90-99%;1) Full update of meta data description of data set, linkchecker to validate the existence of the set, push-pull mechanism for synchonization with other catalogs. 2) for all data
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;The process described above happens automatically every day.
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;No;It is up to the data providers how they would like to present and update their data (multiple entries, or all in one place). For example for this real-time data, downloading the data as CSV-file only shows the last ten timestamps, while it is possible to get all data via an API: https://data.overheid.nl/dataset/22475-real-time-fijnstof-monitoring . For annual datasets, when they are presented as separate datasets, earlier editions can easily be found under 'Related datasets', see this example: https://data.overheid.nl/dataset/monitor-lalo-2015 There are no actions taken to incentivise data providers to provide full time series.
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;A lot of the data that will become available as high-value open data, is INSPIRE data. These datasets/meta data are already interoperable with other countries.
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;We validate at the moment metadata is synced from connected portals. Every dataset must validate against the mandatory setting in our Dutch DCAT application profile. If datasets do not validate, they can't be added to the portal. Responsibility is with the data owner to make sure their metadata validates.  ;Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;We check the condition of links to resources every night. In the monitoring statistics results are shown (Quality of the data): https://data.overheid.nl/statistieken/monitor;Confirm;;
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;There is a guideline for publishing data on the portal, including an explanation on the DCAT metadata standard: https://docs.datacommunities.nl/data-overheid-nl-documentatie/datasets-aanmelden/handleiding-datasets-aanmelden-op-data.overheid.nl
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;The metadata must be conform the Dutch implementation of the DCAT-AP standard.Mandatory field are: title, language, metadata language, description, theme, status, data owner, organisation, license, level of openness, source.
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;It is mandatory to select a license, and it is mentioned that the CC-0 license is recommended. On this page the possible licenses are explained: https://data.overheid.nl/ondersteuning/data-publiceren/licentie-keuze
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;5-10;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;New data providers are always assisted in their data publication process The team is available for support, and there is documentation on the website. 
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;Data publishers are required to follow the DCAT-AP-DONL metadata form when they are submitting a dataset. If it not complies, it is not accepted on the portal.
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);10-30%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;"To optimise the searchability and findability of datasets, enrichment of EU standard. There are less free answer options, which enables easier verification of the quality of the metadata. Documentation: https://data.overheid.nl/ondersteuning/open-data/dcat
+DCAT 1.1: https://dcat-ap-donl.readthedocs.io/en/latest/
+DCAT 2.0: https://github.com/dataoverheid/dcat-ap-donl";Complement;;"To optimise the searchability and findability of datasets, we created a Dutch version as an enrichment of the EU standard. There are less free answer options, which enables easier verification of the quality of the metadata. The latest version (3.0, implementing DCAT-AP 3) is now in consultation:  https://docs.geostandaarden.nl/dcat/dcat-ap-nl30/ Documentation on the standards can be found on the portal: https://data.overheid.nl/ondersteuning/open-data/dcat
+DCAT 1.1: https://dcat-ap-donl.readthedocs.io/en/latest/
+DCAT 2.0: https://github.com/dataoverheid/dcat-ap-donl"
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;No;There is no lack of DCAT-AP compliance. As mentioned in question Q15 above, the portal only accepts the submission if it complies with the DCAT standard.
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;51-70%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";no ;;Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;We get in contact with the data providers also on user days, and we promote the DCAT AP standard and ask them to join in the development of the  DCAT AP NL.;Confirm;;
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;>90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;>90%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;71-90%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;10-30%;N/A;Confirm;;N/A
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"In the Who (Dutch law on the reuse  of governmental data) the definition of reuse is specified as follows:  hergebruik: het gebruik van informatie, neergelegd in documenten berustend bij een met een publieke taak belaste instelling, voor andere doeleinden dan het oorspronkelijke doel binnen de publieke taak waarvoor de informatie is geproduceerd, anders dan de uitwisseling van informatie tussen met een publieke taak belaste instellingen onderling uitsluitend met het oog op de vervulling van hun publieke taken; https://wetten.overheid.nl/BWBR0036795/2021-07-01";Confirm;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;To get insight in the level of reuse of open data, people can submit their applications based on open data on the national open data portal: https://data.overheid.nl/community/toepassingen;Confirm;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer.";no ;;Confirm;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;There is no general national effort to monitor re-use of open data nor HVD, but for some data sources there is some measurement available through the usage of services and APIs. E.g. the open geo information available through PDOK registered over 30 billion hits in 2023.
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;Impact is defined as the effect on processes in four different domains: Economic, Environmental, Political/Governmental and Societal impact. https://data.overheid.nl/community/impact;Confirm;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;- monitor statistics on open data portal, - create Impact stories, - create insight in applications of open data use. See https://data.overheid.nl/community/impact and  https://data.overheid.nl/impact;Confirm;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"Yes, government works with NGO's like Open State Foundation, Waag Society, University of Amsterdam, Univeristiy of Delft on various projects to create impact; most initiatives are focused on creating datasets that have a national coverage (instead of fragmented sets) or introducing impact frameworks or assessment frameworks (like the TaDa principles setup in Amsterdam in cooperation with the Waag, see https://www.tada.city";Confirm;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;Yes;Metrics are being collected and analyzed by data.overheid.nl
+I8-b;Surveys;new question;new question;Change;No;
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;The team of data.overheid.nl conducts interviews to describe the impact of reuse cases.
+I8-d;Other;new question;new question;Change;No;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";Yes;N/A;Confirm;;N/A
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;For example the organization CBS organizes 'user days' to get feedback from users
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;
+I9-c;Other;new question;new question;Change;Yes;Users can leave feedback on every dataset page of the national data portal. Users can also request data, showing us what they need.
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";Yes;"Two ways: 
+Impact stories are collected by conducting interviews: https://data.overheid.nl/actueel/impact-story
+Applications are collected on the open data portal, where people can submit their cases: https://data.overheid.nl/community/toepassingen/toepassing-aanmelden";Confirm;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";Yes;The Applications of open data are categorized by Theme, there are 14 main themes, such as Economy, Housing, Traffic. The cases are also classified by type of application (app/mobile/visualisation/website). See https://data.overheid.nl/community/toepassingen;Complement;;The Applications of open data are categorized by Theme, there are 14 main themes, such as Economy, Housing, Traffic. It is also possible to filter on the  owner of the applications. See https://data.overheid.nl/community/toepassingen
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.";No;"The ""impact stories"" we collect provide incredible insight in how public and private parties achieve results in all kinds of challenges. All stories are here: https://data.overheid.nl/zoek/nieuws?search=impact%20story
+Some specific stories pointing to governmental impact: 
+- https://data.overheid.nl/actueel/impact-story/impact-story-overheidsfinancien
+- https://data.overheid.nl/actueel/impact-story/impact-story-gebiedsprogramma-haarlem
+RESPONSE TO REVIEWER 1 COMMENTS:
+No, there are no recent quantitative studies on open data impact.";Confirm;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;In this impact story it is mentioned that the creation of this application improved the efficiency of the governmental organization because it put open data in one structured place, when first the civil servants had multiple different (personal) excel documents they had to search through: https://data.overheid.nl/actueel/impact-story/impact-story-gebiedsprogramma-haarlem CASE: https://ipp.haarlem.nl/_ipp/dashboard/prod/mjgp/gebiedsprogramma DATA: https://data.overheid.nl/community/application/1665/datasets
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;The transparency and accountability of the government is improved by this dashboard on their finances: CASE: https://www.cbs.nl/nl-nl/visualisaties/dashboard-overheidsfinancien Also published as a reuse case on the national portal: https://data.overheid.nl/community/application/dashboard-overheidsfinancin DATA:  https://data.overheid.nl/community/application/3586/datasets
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;De Leefbarometer application is used as information in the policy-making processes regarding the quality of life in neighbourhoods: CASE: https://www.leefbaarometer.nl/home.php DATA: https://www.leefbaarometer.nl/page/Opendata This case is also published as a reuse case on the national portal: https://data.overheid.nl/community/application/1746
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;This dashboard ('Zicht op ondermijning') based on open data is used by municipalities in decision-making processes about preventing crime: CASE: https://data.overheid.nl/community/application/zicht-op-ondermijning DATA: https://data.overheid.nl/community/application/1740/datasets
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.";No;"The ""impact stories"" we collect provide incredible insight in how public and private parties achieve results in all kinds of challenges. All stories are here: https://data.overheid.nl/zoek/nieuws?search=impact%20story
+Specific stories pointing to social impact: 
+- https://data.overheid.nl/actueel/impact-story/impact-story-nieuwbouwmonitor
+- https://data.overheid.nl/actueel/impact-story/impact-story-vzinfonl
+- https://data.overheid.nl/actueel/impact-story/impact-story-studiekeuze123";Confirm;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;There is a dashboard based on open data that provides insight in equality of opportunity in education, which is used by the GKA (equal opportunity alliance) to take measures and reduce inequality: CASE: https://www.ocwincijfers.nl/themas/kansengelijkheid/dashboard/gelijke-kansen-landelijk  DATA: https://data.overheid.nl/community/application/4104/datasets
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;This application (de Nieuwbouwmonitor) shows where new building projects are, and what kind of houses are built: CASE: https://geodienst.xyz/nieuwbouwmonitor/  DATA: https://data.overheid.nl/community/application/5143/datasets
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;This application provides insight on mulitple topics regarding health and well-being that are being used for new policies to improve health and wellbeing in the Netherlands: CASE: https://data.overheid.nl/community/application/regiobeeld-nl DATA: all data is available as open data: https://www.regiobeeld.nl/open-data
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;This application helps future students in their choice of study, by combining open data sources: CASE https://data.overheid.nl/actueel/impact-story/impact-story-studiekeuze123 DATA: https://data.overheid.nl/community/application/4052/datasets
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.";No;"The ""impact stories"" we collect provide incredible insight in how public and private parties achieve results in all kinds of challenges. All stories are here: https://data.overheid.nl/zoek/nieuws?search=impact%20story
+Specific stories pointing to environmental impact: 
+-  https://data.overheid.nl/actueel/impact-story/impact-story-klimaatmonitor
+- https://data.overheid.nl/actueel/impact-story/impact-story-npres
+- https://data.overheid.nl/actueel/impact-story/impact-story-zonnedakje
+- https://data.overheid.nl/actueel/impact-story/impact-story-nexus";Confirm;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;This application shows which roofs offer opportunities for 'sustainable rooftops', which contributes to solving problems regarding heat in the city, water storage and air pollution: CASE: https://data.overheid.nl/community/application/4026 DATA: https://data.overheid.nl/community/application/4026/datasets
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;This application helps municipalities to make decisions about how to make their cities more sustainable, for example by providing information on types of houses and social characteristics of neighborhoods that play a role in the transition: CASE: https://data.overheid.nl/community/application/datavoorziening-energietransitie-gebouwde-omgeving DATA: https://data.overheid.nl/community/application/4474/datasets
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;This application shows which roofs offer opportunities for solar panels, which helps to make cities more eco-friendly by using more renewable energy: CASE: https://zonnedakje.nl/ also published as an impact story: https://data.overheid.nl/actueel/impact-story/impact-story-zonnedakje DATA: https://data.overheid.nl/dataset/10491-bag
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;This website uses open data to provide insight in the use of energy in the Netherlands, and to show what needs to be done in order to make the transition to renewables happen: CASE: https://energieinnederland.nl/ DATA: https://data.overheid.nl/community/application/4405/datasets
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";No;"The ""impact stories"" we collect provide incredible insight in how public and private parties achieve results in all kinds of challenges. All stories are here: https://data.overheid.nl/zoek/nieuws?search=impact%20story
+Specific stories pointing to economic impact: 
+- https://data.overheid.nl/actueel/impact-story/impact-story-kvk-locatiescan
+- https://data.overheid.nl/actueel/impact-story/impact-story-kvk-bedrijventeller
+- https://data.overheid.nl/actueel/impact-story/impact-story-datapedia-smart-mobility
+RESPONSE TO REVIEWER 1 COMMENTS:
+No, there are no recent kwantitative studies on open data impact.";Confirm;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;This application used open data on the number of children/students and cycling routes to visualize the distance for children to cycle to school. This helped the schools in the area to see how many schools and teachers would be needed, and where they should be: CASE: https://data.overheid.nl/actueel/impact-story/impact-story-fietsafstanden DATA: https://data.overheid.nl/dataset/32938-schoolfietsroutes-fietspaden
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;I don't know;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;This application (KvK Bedrijventeller) gives an overview of the number of businesses per branche, which can be used for a competition analyses, helping entrepeneurs to make their business case work: CASE: https://www.kvk.nl/runnen-en-groeien/kvk-bedrijventeller/ , also published as an impact story: https://data.overheid.nl/actueel/impact-story/impact-story-kvk-bedrijventeller DATA: https://data.overheid.nl/dataset/kvk-hr-open-data-set
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;This application makes it easier to see connections between Dutch and European laws. This can help to speed up research processes, and therefore increase productivity. CASE: https://linkeddata.overheid.nl/front/portal/ DATA: https://data.overheid.nl/community/application/1536/datasets

@@ -1,0 +1,923 @@
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";other;"Guidelines for making public data available - https://www.regjeringen.no/no/dokumenter/retningslinjer-ved-tilgjengeliggjoring-av-offentlige-data/id2536870/. Transposition of the Open Directive is still in progress: https://www.regjeringen.no/no/sub/eos-notatbasen/notatene/2018/juni/endring-viderebruksdirektivet/id2604081/
+
+The Government has trough ""Data as a resource"" (https://www.regjeringen.no/en/dokumenter/meld.-st.-22-20202021/id2841118/?ch=2) set the following principles for its data policy:
+1. Data must be as open as possible and as closed as necessary.
+2. Data should be findable, accessible, interoperable and reusable (FAIR).
+3. Data must be shared and used in ways that create value for the private sector, the public sector and society.
+4. Data must be shared and used in ways that respect fundamental rights and freedoms and preserve Norwegian social values.
+
+The Norwegian government has established a public committee to assess the appropriate implementation of the directive (https://www.regjeringen.no/no/dep/kdd/org/styrer-rad-og-utvalg/viderebruksutvalget/id2926740/). The committee's proposed regulation of the reuse of data will be based on the Public Access to Information Act with regulations and EU Directive (EU) 2019/1024 on open data and reuse of information from the public sector. The above-mentioned directive is a minimum directive, and therefore the committee is asked to consider whether Norway should go beyond the thematic categories that follow from the directive when it comes to datasets of high value, and also include other datasets than those covered by the EU's implementing act on datasets of high value.";Confirm;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"Norway has several strategic documents and policies that cover data sharing (including open data), digitalisation, artificial intelligence, etc. Listed below are some relevant documents
+
+Digital agenda for Norway
+Establishes information as a key resource in the public sector. Emphasis on once-only and holistic information management.
+Establishes three main reasons why access to open public data is important for society:
+1. Streamlining and innovation
+2. Business development
+3. An open and democratic society
+
+In addition, cross-sectoral instruments have been established to promote access to and re-use of public data:
+- Dataportal (data.norge.no)
+- Dataset distribution service
+- Guidelines for re-use of public data
+- Guidance for making open data available
+- Development of a Norwegian license for public data
+The strategy also identifies important sectors with open data that are socio-economically important
+
+National strategy on access to and sharing of research data
+The strategy is part of the follow-up to Meld. St. 27 (2015–2016), Digital agenda for Norway.
+The strategy deals with increased accessibility to and reuse of publicly funded research data. It describes the state of affairs on which the policy is based and the current situation at the research institutions. Three basic principles relating to the accessibility and sharing of research data are set out:
+1. Research data must be as open as possible, as closed as necessary
+2. Research data should be managed and curated to take full advantage of their potential
+3. Decisions concerning archiving and management of";Confirm;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";not applicable;The digitalisation strategy and accompanying action plan are a collaboration between the government and The Norwegian Association of Local and Regional Authorities (KS). ;Confirm;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;"Action plan for One digital public sector
+https://www.digdir.no/handlingsplanen/handlingsplan-digitalisering-av-offentlig-sektor/1229
+Excerpt from the list of specific follow-ups for the area of data sharing:
+• Establish a national center for data sharing (established)
+• Establish The Data Factory (https://datafabrikken.norge.no) as a project to facilitate G2B datasharing (completed)
+• Establish a national toolbox for data sharing (established/reassessment)
+• Investigate a legal obligation to publish open data (ongoing)
+• Develop a strategy for artificial intelligence (completed)
+• Develop a method for measuring the effects of data sharing (completed for open data from the public sector used in the private sector)
+
+Digtial Agenda specifies that it will continue with and build upon existing tools for open data and that sectoral strategies be prepared in the culture, education, transport, mapping and Government spending sectors. Open data strategies have been made for five of these sectors and can be found here. 
+•Culture https://www.regjeringen.no/no/dokumenter/kulturdepartementets-strategi-for-apne-data/id2576038/?q=strategi%20kultur
+•Geodata: https://www.geonorge.no/Geodataarbeid/nasjonal-geodatastrategi/
+•Research: https://www.forskningsradet.no/contentassets/e4cd6d2c23cf49d4989bb10c5eea087a/policy-for-apen-tilgang-til-forskningsdata.pdf
+•Transport: https://www.regjeringen.no/no/dokumenter/strategi-for-tilgjengeliggjoring-av-offentlige-data--samferdselssektoren/id2598229/
+•Education and Research: https://kunnskapsdata.no/";Confirm;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"""Data as a resource"" describes dynamic/realtime data as an importent part of the future data driven economy. In the Government's follow-up points [unofficial translation]: Contribute to the development of standards for the collection and making available of real-time data, sensor data and the like from the public sector for further use.  https://www.regjeringen.no/no/dokumenter/meld.-st.-22-20202021/id2841118/?ch=5#kap5-6
+
+Sharing of industrial data (Expert group) 
+Sharing of industrial data recommends a sharper distinction between static data (datasets) and dynamic data (data streams). This is because dynamic data is more often operational than datasets, and for dynamic data there will be greater expectations of what obligations the provider of the data service has. The expert group does not explicitly differentiate between open and closed data, but instead looks closer at different usage rights (licensing) for data.";Confirm;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";yes;"We don't directly foster the discoverability of the aforementioned types of data, but our national data portal and our geo data portal (https://www.geonorge.no/) are automatically published on data.europe.eu. 
+
+The Norwegian geodata strategy refers to the Inspire directive and points out that geodata should be easy to find, assess whether they are suitable for a relevant purpose and find out the conditions that apply to be able to use them.";Confirm;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"""Digital Agenda"" has an entire chapter of Information Management and the ‘Once Only’ Principal where reuse of data within the public sector is paramount.
+
+In ""One digital public sector"" data sharing is one of six prioritised areas. Description: the public sector shall exploit the potential of sharing and using data to create user-friendly services, and to promote value creation in the business sector
+https://www.regjeringen.no/en/dokumenter/one-digital-public-sector/id2653874/?ch=2
+
+""One digital public sector"" states that The public sector shall share data when it can and protect data when it must. Open public data shall be made available for reuse for developing new services and value creation in the business sector https://www.regjeringen.no/en/dokumenter/one-digital-public-sector/id2653874/?ch=4
+
+See question 5, or the action plan for updated status: https://www.digdir.no/handlingsplanen/samlet-oversikt-over-status-pa-handlingsplanens-tiltak/2595";Confirm;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"""Data as a resource"" is largely dedicated to the subject . Chapter 5 - Public data as a resource for the business sector contains concrete measures.  https://www.regjeringen.no/no/dokumenter/meld.-st.-22-20202021/id2841118/?ch=5#kap5
+
+""One digital public sector"" states that The public sector shall share data when it can and protect data when it must. Open public data shall be made available for reuse for developing new services and value creation in the business sector https://www.regjeringen.no/en/dokumenter/one-digital-public-sector/id2653874/?ch=4
+
+""Sharing of industrial data"" Chapter 8 deals with sharing from the public sector to the private sector. Among other things, the expert group recommends a larger investigation. https://www.regjeringen.no/id2916456/?ch=8";Confirm;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;"The strategy ""One digital public sector"" states that public agencies must keep track of what data they have, where they are located, and how they can be used: https://www.regjeringen.no/en/dokumenter/one-digital-public-sector/id2653874/?ch=4
+
+The Framework for Information Management specifies that each organisation should create and maintain a data inventory https://www.digdir.no/informasjonsforvaltning/rammeverk-informasjonsforvaltning/2118. Some examples of organisations with very good inventories are The Norwegian Labour and Welfare Administration, The company register, Stavanger Municipality, The tax Authorities.
+
+The national guidance for information management https://data.norge.no/guide/veileder-orden-i-eget-hus/ states:
+""Den enkelte virksomhet skal ha oversikt over hvilke data den håndterer, hva dataene betyr, hva de brukes til, hvilke prosesser de inngår i, og hvem som kan bruke dem (informasjonsforvaltning).""
+
+Unofficial translation is as follows 
+""Each organisation must have an overview over which data they manage, what the data means, what it is being used for, which processes they are involved in, and who can use them"".
+
+The digitalisation circular  https://www.regjeringen.no/id2952701/
+obliges all state enterprises to register the national data catalogue. Unofficial translation: ""The company must register data sets in the Common Data Catalog (data.norge.no). This must be done as a minimum when the company changes or establishes services, including establishing new ones, or upgrading existing professional systems or digital services.""";Confirm;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;"The digitalisation circular applies to all types of data, and each public sector state organisation has to create and share its total inventory  https://www.regjeringen.no/id2952701/
+
+""Den enkelte virksomhet skal ha tilstrekkelig oversikt over hvilke data den håndterer. [...] Virksomheten skal registere datasett i Felles datakatalog(data.norge.no). [...] Virksomheter som registerer/synliggjør datasett, må klargjøre forutsetningene for å dele datasettet med andre virksomheter.""
+
+Unofficial translation is as follows 
+""The individual company (public) must have a sufficient overview of what data it handles. [...] The company must register data sets in the National Data Catalog (data.norge.no).[...] Companies that register/make data sets visible must clarify the prerequisites for sharing the data set with other companies.""
+
+The national portal:
+https://data.norge.no/datasets";Confirm;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Not Applicable;Norway is an EFTA country
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"Several governance structures exist for different data sharing areas. The governance structures consist of various stakeholders from the state, local and private sector.                   To further elaborate on this we have recently published an ""Offical Norwegian Report"" which can be found here:https://www.regjeringen.no/no/dokumenter/nou-2024-14/id3046520/. In this report there has been suggested a new ""data law"". This data law would enable public sector, private sector, voluntary sector (nonprofit organizations) and research sector through a prioritisaition counsil where all of the aforementioned sector a proposed to be involved."
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;We have a number of national top down initiatives such as guidelines, governance, laws etc. This is coupled with a strategy of encouraging bottom up initiatives, smart cities being a very good example here. ;Confirm;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;"Norway is a small country with a relatively small open data community in comparison with larger countries. Either we coordinate initiatives at national level or we advise. At the very least we know about the vast majority of initiatives which are happening. 
+
+We have 357 municipalities in Norway, varying in vastly in population. KS (The Norwegian Association of Local and Regional Authorities is an organisation which operates on behalf of all municipalities. In our Digitalisation strategy (2019-2025): https://www.regjeringen.no/no/tema/statlig-forvaltning/it-politikk/digitaliseringsstrategi-for-offentlig-sektor/id2612415/. we emphasize the importance of cooperation between KS and the national government."
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";the majority of public bodies;;Confirm;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";no;;Confirm;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"The people with data sharing as their main task and the team responsible for the portal are all employed by the same agency and have a close dialogue.
+
+To reach out to a wider network of professionals we have ""Arena for data sharing and information management"" weekly: https://www.digdir.no/informasjonsforvaltning/faglig-arena-datadeling-og-informasjonsforvaltning/2120
+We also answer questions in the online community: https://datalandsbyen.norge.no/
+Example: publisher with question on update frequency in data portal: https://datalandsbyen.norge.no/topic/192/hva-er-oppdateringsfrekvensen-for-publisering-i-fdk/4";Confirm;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";no;;Confirm;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"To reach out to a wider network of professionals we have ""Arena for data sharing and information management"" weekly: https://www.digdir.no/informasjonsforvaltning/faglig-arena-datadeling-og-informasjonsforvaltning/2120
+
+The Norwegian Digitalisation Agency is in continuous dialogue with data professionals across the private, public and civil sectors.
+One of the channels is the online forum: https://datalandsbyen.norge.no/
+
+Datajegeren (The data hunter) is a service that will help users find and get data, and contribute to the dialogue with data providers, including the dialogue with various ""open data officers"" roles
+https://datafabrikken.norge.no/finn-data/datajegeren
+https://datafabrikken.norge.no/nyheter/datafabrikken-lanserer-datajegeren-15";Confirm;;
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"Norwegian Digitalisation Agency is together with Digital Norway building the ""data factory"" to improve the private sector's access to data. Communication with reusers is a key feature of the data factory.  https://digitalnorway.com/prosjekter/datafabrikk/
+
+We have regular meatings about different aspects of datasharing
+https://www.digdir.no/digdir/arrangementsoversikt/692?field_end_date_value=2&field_global_taxonomy_target_id=293&field_course_type_target_id=All&field_start_date_value=2022
+
+Online forum launched in 2021: https://datalandsbyen.norge.no/";Confirm;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";yes;"Strategic Cooperation Council for the Public Sector (SKATE), organized by the Norwegian Digitalisation Agency, has decided on the process for publication to data.norge.no and has agreed on a publication strategy https://www.digdir.no/digitalisering-og-samordning/skate/1259
+
+We have guidelines for publishing data:
+https://www.regjeringen.no/no/dokumenter/retningslinjer-ved-tilgjengeliggjoring-av-offentlige-data/id2536870/";Confirm;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;"Norway has an action plan for follow-up of ""One digital public sector"" where data sharing is one of the main priorities. Re-prioritization is carried out continuously in dialogue with data owners and with data re-users. Data needs are obtained via interaction arenas (described earlier), the National Resource Center for data sharing, Datafabrikken or at direct requests from data users. In addition, public bodies at various levels have their own user groups where data needs are raised. 
+
+We have established:
+- National resource center for data sharing
+- National toolbox for data sharing
+- The Data factory
+- Community for the national portal
+
+As part of the management dialogue between the ministries and the agencies, any deviations from the allocation letter and the digitilisation circular are discussed. Deviations from the digitilisation circular shall be entered in the annual report to the agencies
+
+As part of the data portal, we have an overview of companies that have published data sets. An overview of government bodies that have not published data sets is under development. https://github.com/Informasjonsforvaltning/behov/issues/755";Confirm;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;"As mentioned in questions P1 and P2, we have several strategic documents and policies. These are updated when needed to ensure success in reaching our open data policy goals. The most relevant update to mention is that we are in a process of updating our Digitalization strategy. 
+
+The process of updating is not neccessarily a clear cut correlation between data collected for monitoring and updates in the strategies and policies, but the updates on the strategies and policies relies on data and monitoring on goals set in various strategies. 
+
+One of these monitoring processes/evaluations can be found here: https://www.digdir.no/rikets-digitale-tilstand/status-pa-malene-i-digitaliseringsstrategien/3478
+
+We also have other processes such as reports from the Office of the Auditor General. They released a report on the governments enabling of sharing and reuse of data within public sector. It can be found here:  https://www.riksrevisjonen.no/rapporter-mappe/no-2023-2024/myndighetenes-tilrettelegging-for-deling-og-gjenbruk-av-data-i-forvaltningen/
+
+These evaluations and reports describe the status of digitalization i different aspects based on various data and experiences, and are key elements for updating excisting policies and strategies."
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;"A study of the Norwegian data economy has been carried out over the past year. The purpose of the study has been to identify key challenges and opportunities related to the public sector's role and tasks that manage and provide public data for further use. The issue of charching for data above marignal cost are discussed, and some measures are proposed. https://www.regjeringen.no/contentassets/cb9240c57f8b4c5cb916e86ebee32ecb/rapport-utredning-av-dataokonomien-i-offentlig-sektor-ak-l80868.pdf 
+
+A public committee has been appointed and has been tasked with putting forward proposals for a more comprehensive regulation for the use of public information (data). The purpose is to ensure business, researchers and civil society access to public information in a way that allows it to be used in new contexts, create new services and provide increased value creation. Funding models for data are part of the assignment. https://www.regjeringen.no/id2926740/";Confirm;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;The three biggest challenges are management and organizational issues, legal issues and expertise when it comes to utilizing data.;Change;N/A;The three biggest challenges are management and organizational issues, legal issues and expertise when it comes to utilizing data.
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";Yes;"A working group has been established to investigate where the responsibility for important data may be placed, and which overarching principles should apply so that it becomes easier to use data from the public sector. As a follw up  to the strategy ""Ine Digital Public Sector"" a national resource centre for sharing data has been established, with expertise in the relationship between law, technology, business and administrative processes as a learning environment and a knowledge repository for the entire public sector. Furthermore, we have measures that apply to offer effective legal advice for data providers, including an open online forum for guidance. We also have Datafabrikken, which is a project aimed at small and medium-sized companies, where the purpose is to help them to utilize the data.";Confirm;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;"An active API working group for public sector providers to give support and share knowledge.  Norways’ API catalogue is  established. 
+A standardized way to describe APIs is in the Norwegian Digitalisation Agency's roadmap for information management.                                          A National Geodata Strategy has been established, which is supplemented by an action plan and a National Geodata Council. https://www.geonorge.no/Geodataarbeid/nasjonal-geodatastrategi/"
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;"The Norwegian Directorate for ICT and Joint Services in Higher Education & Research (unit.no) has together with Digital Norway launched a digital learning platform, which also covers data and related topics: https://digitalnorway.com/laeringsportalen-handler-om-a-fa-alle-med/
+Courses are also available on https://datafabrikken.norge.no/kurs
+
+The government also collaborates with digital norway, which has a number of courses adapted to the private sector. https://digitalnorway.com/prosjekter/eu/
+
+Some agencies have their own learning platform, for example The Norwegian Agency for Public and Financial Management (DFØ) https://laeringsplattformen.difi.no/kurs-kategori/digitalisering-og-ikt
+
+We also have a number of guides and training materials, for example:
+Guide to ""order in your own house"" https://data.norge.no/guide/veileder-orden-i-eget-hus/
+
+The municipalities have their own tools https://www.ks.no/fagomrader/digitalisering/felleslosninger/digiorden/";Confirm;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, >9;"Annual hackatons, conferences etc. orcestrated from the central government has since 2017 been replaced by sectoral/local iniativs and selforganising groups. The central government gives support if needed.
+
+Examples:
+https://datalandsbyen.norge.no/topic/127/open-data-challenge-10-03-2022
+https://datalandsbyen.norge.no/topic/167/open-data-hackathon
+https://datalandsbyen.norge.no/topic/182/cassini-hackathon-for-f%C3%B8rste-gang-i-norge
+https://datalandsbyen.norge.no/topic/253/bergen-by-hack-for-studenter
+
+
+Dataforeningen BI & A.
+https://www.meetup.com/dnd-bi-analytics-oslo/
+
+Slekt og data
+https://www.slektogdata.no/nb/slektsforskerdagen-2022
+
+The Munin Conference on Scholarly Publishing
+https://site.uit.no/muninconf/
+
+Digitalisation conference https://www.digdir.no/digitaliseringskonferansen/digitaliseringskonferansen/1172
+
+Many hackathons and similar events are also listed in the calendar in the online community: 
+https://datalandsbyen.norge.no/category/3/m%C3%B8ter-og-arrangementer";Confirm;;
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;data.norge.no https://datafabrikken.norge.no/;Change;Yes;https://data.norge.no/
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;N/A;Custom developed portal (Open Source). Technology stack: React, Java/Kotlin, Python, Jena, Fuseki, ElasticSearch, PostgreSQL, MongoDB, Kafka.
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;"There is the search api and a SPARQL endpoint
+https://search.api.fellesdatakatalog.digdir.no
+https://sparql.fellesdatakatalog.digdir.no (gui: https://data.norge.no/sparql)"
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;https://data.norge.no/sparql
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;"https://informasjonsforvaltning.github.io/felles-datakatalog/datasett-katalog/api/
+https://github.com/Informasjonsforvaltning/fdk-search-service/blob/main/openapi.yaml
+https://github.com/Informasjonsforvaltning/fdk-resource-service/blob/main/openapi.yaml"
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;https://informasjonsforvaltning.github.io/felles-datakatalog/s%C3%B8k_og_filter/sparql/
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.";new question;new question;Change;Yes;"It is possible for users to administrate harvesting of dataset descriptions to the national data portal (data.norge.no). The portal consists of 5 catalogs (datasets, APIs, concepts, information models and events/services) where the resources may be linked together, according to  applicable standards. Users can also use functionality to register descriptions of datasets, APIs, concepts and services manually. 
+
+https://data.norge.no/publishing"
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;See: https://datalandsbyen.norge.no/category/4/tilbakemeldinger-og-nyheter;Complement;;"See: https://datalandsbyen.norge.no/category/4/tilbakemeldinger-og-nyheter
+
+There is also an email address in the footer of data.norge.no, where users can contact us directly if they don't want their feedback to be published online."
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"https://datalandsbyen.norge.no/category/6/ettersp%C3%B8r-datasett-og-api-er
+We also offer the possibility to comment on a specific dataset in our national portal e.g. https://data.norge.no/datasets/562afcb4-63de-3ffb-940f-d375968bdef6#comment-section";Complement;;"Currently users have the ability to add comments to all resources available on the portal. The underlying stack is NodeBB and is used as a community forum for data sharing. The forum can be accessed on https://datalandsbyen.norge.no
+All comment threads can be found here: https://datalandsbyen.norge.no/category/12/kommentartr%C3%A5der
+Example thread:
+Portal: https://data.norge.no/datasets/64e9b230-3022-3a80-b453-afcf8c2b309e
+Datalandsbyen: https://datalandsbyen.norge.no/topic/441/datasett-produksjons-og-avl%C3%B8sertilskudd-ti[…]ruksforetak-s%C3%B8knadsomgang-2023-landbruksdirektoratet (edited)"
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;See: https://datalandsbyen.norge.no/;Confirm;;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;See: https://data.norge.no/datasets.rss;Complement;;"https://data.norge.no/datasets.rss
+https://data.norge.no/datasets.atom"
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;See: https://datalandsbyen.norge.no/category/6/ettersp%C3%B8r-datasett-og-api-er;Complement;Yes;"https://data.norge.no/requests
+https://datalandsbyen.norge.no/category/6/ettersp%C3%B8r-datasett-og-api-er"
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;See: https://datalandsbyen.norge.no/category/6/ettersp%C3%B8r-datasett-og-api-er;Complement;;"https://data.norge.no/requests
+https://datalandsbyen.norge.no/category/6/ettersp%C3%B8r-datasett-og-api-er"
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;"https://datalandsbyen.norge.no/category/6/ettersp%C3%B8r-datasett-og-api-er
+
+A dedicated team of ""data hunters"" is following up requests from users and monitors progress. Request are posted here: https://datafabrikken.norge.no/finn-data/datajegeren and followed up in the community service: https://datalandsbyen.norge.no/category/6/ettersp%C3%B8r-datasett-og-api-er";Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;See: https://datalandsbyen.norge.no/;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;See: https://datalandsbyen.norge.no/category/2/gode-eksempler-p%C3%A5-bruk;Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;See: https://datalandsbyen.norge.no/topic/79/s%C3%B8k-i-enhetsregisteret-med-n%C3%A6ringskoder-i-hierarki;Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;See: https://datalandsbyen.norge.no/category/2/gode-eksempler-p%C3%A5-bruk;Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;"https://data.norge.no/datasets/288aa74c-e3d3-492e-9ede-e71503b3bfd9
+Preview is provided for dataset distributions where dcat:downloadUrl is provided. Expand ""distributions"" on the provided link and click on ""Se forhåndsvisning"". (there is a bug in the english translation. )";Complement;;"""https://data.norge.no/datasets/288aa74c-e3d3-492e-9ede-e71503b3bfd9
+Preview is provided for dataset distributions where dcat:downloadUrl is provided. Expand ""distributions"" on the provided link and click on ""More information about this dataset""."
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;"The Norwegian data portal (data.norge.no) is a metadata portal and does not contain actual data. Norway has its own geoportal that shows geospatial data. It includes data sets that are also registered in the national data portal.
+
+See for example ""Administrative units counties"": https://data.norge.no/datasets/cffde12f-3530-4406-9aa0-d6d4519ef077
+
+where the Access URL  leads to several possible  geospatial views: https://kartkatalog.geonorge.no/metadata/6093c8a8-fa80-11e6-bc64-92361f002671
+
+There is also a open API referenced in the national data portal: https://data.norge.no/dataservices/41e77491-1562-3eda-a006-f56a3064d274";Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;Google Analytics and surveys;Complement;Yes;Monsido and surveys
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Change;No;
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;Google Analytics and surveys;Complement;;"Monsido, surveys and in depth user interviews.
+Monsido helps us understand how the portal is being used through analytics data.
+Surveys helps us test our hypothesis and better understand why users behave as they do in the portal. 
+In depth user interviews helps us understand the user needs better, what they need, how they find and use data in their work life, and how we can lift the portal to meet their needs.  "
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;"Insights on which browser that supports the page
+Surveys look at who the users are, user satisfaction (usability and quality of data), missing datasets, requested functionality.
+User feedback are gathered and used actively in further developing of the portal. "
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;"We have been visible in media on several occations the last year to tell users about the portal. target audience: businesses, public sector, academia as data consumers
+
+Linkedin articles about data sharing and future plans. target audience: businesses, public sector as data consumers. Public sector as data providers.
+
+Presentations at various gatherings. target audience: Public sector as data providers. "
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;Search behaviour is tracked by monsido. The insights are used to improve the search service and to consider new methods to make data findable. (for instance by testing search services based on AI-technology)
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"Yes. Most and least popular pages are tracked in Monsido, included datasets. We have not used this information directly to improve the portal yet. As we lack information about why these datasets are popular/less popular. 
+
+The five most popular datasets are: 
+https://data.norge.no/datasets/a8533876-cca7-4417-90be-b368f7d9542c
+https://data.norge.no/datasets/288aa74c-e3d3-492e-9ede-e71503b3bfd9
+https://data.norge.no/datasets/64e9b230-3022-3a80-b453-afcf8c2b309e
+https://data.norge.no/datasets/0b566eca-cb0c-46e8-bd82-57ebab85a98a
+https://data.norge.no/datasets/6fcdc384-c853-40a7-b9d9-bb6b3e8f1adf"
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;The national data portal is continuously developed with improvements to the search engine and for exploration via GUI https://github.com/Informasjonsforvaltning/behov/issues;Complement;;The national data portal is continuously developed with improvements to the search engine and for exploration via GUI https://github.com/Informasjonsforvaltning/behov/issues. We have also developed a pilot to test a search based on AI technology. 
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Complement;;"https://data.norge.no/datasets/a8533876-cca7-4417-90be-b368f7d9542c
+Use a plugin, like modheader, to accept text/turtle to show the same page in turtle format."
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";approximately half of the public sector data providers;"Norway has a highly centralized system where data is accumulated from small data providers to larger regional or government agencies. A good example is geographical data where all counties collaborate with Geonorge.no, which in turn delivers metadata to the national portal. https://www.geonorge.no/globalassets/geonorge2/parter/regionale-parter-i-norge-digitalt.pdf
+
+We also have an unofficial monitoring of which actors in the public sector deliver data directly to the national portal. https://livarbergheim.no/datadeling/?side=staten";Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;The national data portal  have a team dedicated to engage data providers. The Norwegian Digitalisation Agency have also launched National toolbox for data sharing: https://www.digdir.no/apne-data/nasjonal-verktoykasse-deling-av-data/2243;Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;There are many regional and local data directories. We do not have a comprehensive overview. An example: https://opencom.no/organization;Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";yes;;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";all datasets;All local data catalogs can be harvested, if they wish to.;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;The API catalog, is our real-time and dynamic data portal: https://data.norge.no/dataservices;Confirm;;
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;No;
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;"https://data.norge.no/datasets
+The portal uses the Publication Offices vocabulary to denote access level . 
+Restricted: https://data.norge.no/datasets?accessrights=RESTRICTED
+Non-public: https://data.norge.no/datasets?accessrights=NON_PUBLIC 
+Public:
+https://data.norge.no/datasets?accessrights=PUBLIC 
+Note: Only datasets denoted ""PUBLIC"" with at least one distribution or connected dataservice with an open licence is denoted as ""open data"" in the norwegian portal.";Confirm;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;Yes;"The national data portal is centrally funded and the strategy is described in several key documents.
+
+Some excerpts
+Letter of allocation: https://www.regjeringen.no/contentassets/7f9b178a808649dfad4bc4ae2401ae07/2021_tildelingsbrev-2021-digitaliseringsdirektoratet.pdf
+
+Digitalisation circular (a compilation of orders and recommendations on digitalisation in the public sector): [unofficial translation] The individual company (public body) must have a sufficient overview of what data it handles. [...] The company must register datasets in the data directory (data.norge.no).
+
+One digital public sector (Digital strategy for the public sector 2019–2025): The national data directory (national data portal) is central to realizing the goal of increased data sharing and value creation. https://www.regjeringen.no/en/dokumenter/one-digital-public-sector/id2653874/?ch=4
+
+The national data directory is also described as a component of the ""common ecosystem for national digital collaboration"". https://www.regjeringen.no/en/dokumenter/one-digital-public-sector/id2653874/?ch=6
+
+Data as a resource - Data-driven economy and innovation:  The national data directory (national data portal)  is described as a [unofficial translation] ""National measures for making public data available"" and ""The Government will further develop the national data directory, data.norge.no."" https: // www.regjeringen.no/no/dokumenter/meld.-st.-22-20202021/id2841118/?ch=5#kap5-4-1"
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"https://www.linkedin.com/company/digitaliseringsdirektoratet
+https://twitter.com/datakatalogen
+https://podcasts.apple.com/no/podcast/digitaliseringsbloggen/id1248203683";Complement;;"""https://www.linkedin.com/company/digitaliseringsdirektoratet
+https://podcasts.apple.com/no/podcast/digitaliseringsbloggen/id1248203683"""
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.";yes;"https://github.com/Informasjonsforvaltning
+https://informasjonsforvaltning.github.io/";Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;https://data.norge.no/reports;Confirm;;
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature.";yes;Metada asessment reports are provided for each provider. Example. https://data.norge.no/organizations/889640782/datasets These assessments results are supported with 1-1 meetings with major providers.;Confirm;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;"DCAT, https://informasjonsforvaltning.github.io/dcat-ap-no/, is a recommended standard in the national reference catalog for IT standards
+https://www.digdir.no/digitale-felleslosninger/beskriving-av-datasett-og-datakatalogar/1484";Confirm;;
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;90-99%;Users register their endpoint to their catalog, and information about which type of resource it describes in an admin interface for harvesting. The harvester checks each catalog for updates once per hour. The harvesting solution applies to both open and restricted data, and supports harvesting of descriptions of datasets, APIs, concepts, information models, services and events. 
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;All data that is visible in the portal.
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;We don't provide guidance for ensuring that the received data is of an acceptable quality. However we do provide guidance to the data providers when they publish their data on the portal. The quality of the data is thus taken care of in the process of publishing. 
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"https://data.norge.no/guidance/metadata
+https://data.norge.no/reports
+https://data.norge.no/organizations/974760673
+https://data.norge.no/organizations/974760673/datasets/68d08f28-a16d-4fab-a953-ed4ab08ce2e2
+
+The metadata assessment-service reuses open sourced code and rules provided by data.europa.eu: https://gitlab.com/dataeuropa/mqa";Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;"https://data.norge.no/guidance/metadata
+https://data.norge.no/reports
+https://data.norge.no/organizations/974760673
+https://data.norge.no/organizations/974760673/datasets/68d08f28-a16d-4fab-a953-ed4ab08ce2e2";Confirm;;
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;See: https://data.norge.no/guide/veileder-apne-data/#_lisensiering_av_data
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;no;
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;"CC licences. The Government's ""Guidelines for making public data available"" state that all data offered must have clear conditions for use and recommend the use of Creative Commons 4.0 or the Norwegian Public Data License (NLOD). ""Recommend"" in this context means ""you must"" https://www.regjeringen.no/no/dokumenter/retningslinjer-ved-tilgjengeliggjoring-av-offentlige-data/id2536870/
+
+https://data.norge.no/guide/veileder-apne-data/#_lisensiering_av_data"
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;>90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;1-4;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;"Weekly meetings. 
+
+We have weekly meetings within a large network of data professionals. Here's a link to one of these recent meetings: https://www.digdir.no/datadeling/fagleg-arena-datadeling-og-informasjonsforvaltning/6127.
+Here professional can present and discuss various subjects regarding data with each other. 
+
+We also have https://datalandsbyen.norge.no/ where such discussions can take place online, at any given time."
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;The dataset catalog in the portal, is based on the dcat-ap-no specification, which is compliant with dcat-ap. dataset descriptions are saved as rdf and validated automatically. 
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);>90%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);31-50%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";yes;"
+https://data.norge.no/specification/dcat-ap-no";Confirm;;
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;No;
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;31-50%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;The calculation of metadata quality is based on a number of criteria divided into different categories according to the FAIR-principals: https://data.norge.no/guidance/metadata;Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;We promote quality at weekly meetings, on our blog and have initiatives aimed at individual companies/agencies. We also have training materials for follow-up of development projects. We also show the dataquality for each dataset description.;Confirm;;
+Q25;What percentage of datasets are made available under an open licence? ;71-90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;>90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;>90%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;>90%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;>90%;N/A;Confirm;;N/A
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"""Å gjøre data tilgjengelig for viderebruk handler om å gi næringsliv, forskere og sivilsamfunn tilgang til åpne data som offentlig forvaltning har, på en slik måte at de lett kan brukes i nye sammenhenger av både mennesker og maskiner. "" Definition from https://www.regjeringen.no/no/tema/statlig-forvaltning/ikt-politikk/viderebruk-av-offentlig-informasjon/id2343341/
+
+Unofficial translation:
+Making data accessible for re-use is about giving businesses, scientists and civil society access to open data that the public administration possess, in such a way that they are easily applicable in new contexts by both humans and machines.";Confirm;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;"The Norwegian Digitalisation Agency has implemented a methologhy for measuring impact of reuse. The first result are ready in august 2023 (no links available). In addition, the national portal provides crowdsourced examples of reuse: https://datalandsbyen.norge.no/category/2/gode-eksempler-p%C3%A5-bruk . These are also automatically linked to the datasets in use, and integrated with the dataset catalog. Example: https://data.norge.no/datasets/68d08f28-a16d-4fab-a953-ed4ab08ce2e2 
+
+In the data portal, the number of published datasets and the number of new ones are used as a measure of data reuse in the public sector. A new service catalog with a link to datasets is envisaged as a possible future indicator.";Confirm;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer.";no ;;Confirm;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;"""Data as a resource"", focuses on the impact of sharing data between public and private sector. The policy emphasize how data may have be an economic resource and contribute to economic growth and creating new activities. 
+https://www.regjeringen.no/no/dokumenter/meld.-st.-22-20202021/id2841118/?ch=1
+
+A framework has also been developed to measure impact. The framework is now in a testing phase. Impact is defined as socio-economic value + private economic value: https://www.digdir.no/media/3339/download (p. 17).";Confirm;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;"The Norwegian Digitalisation Agency has developed and implemented a methologhy for measuring impact of reuse in the private sector. The first result are ready in august 2023 (no links available).
+
+A framework has also been developed to measure impact. The framework is now in a testing phase. Impact is defined as socio-economic value + private economic value: https://www.digdir.no/media/3339/download (p. 17).
+
+The Institute of Transport Economics (Transportøkonomisk institutt, TØI) is national institution for transport research and development.  The Institute recently conducted a study where open science methodology was used. Norway is still assessing whether this is a suitable method. The analyzes so far indicate that the method is not suitable for measuring impact of data reuse. The method used is The futures wheel: https://en.wikipedia.org/wiki/Futures_wheel
+https://www.toi.no/english/?lang=en_GB";Confirm;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;"The Norwegian Language Bank. In order to develop high-quality language technology for Norwegian big datasets with Norwegian speech and text are needed. Språkbanken, the Language Bank, at the National Library of Norway, provides such datasets. The resources are aimed at companies that develop language technology software, as well as language researchers and students, and all the resources we create are available online and have an open-source license. 
+
+Nemonoor is a national center for artificial intelligence (AI) consisting of 8 Norwegian companies with broad expertise in AI: https://www.nemonoor.no/om-oss";Confirm;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Change;Yes;N/A
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;No;
+I8-b;Surveys;new question;new question;Change;Yes;Last year Brønnøysundregistrene (The Central Coordinating Register for Legal Entities) deployed a survey with reusers to better understand their needs, how their datas were being used and what they achieved by using the data. 
+I8-c;Interviews/workshops with reusers;new question;new question;Change;No;
+I8-d;Other;new question;new question;Change;No;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;We have regular sessions with portal users where we interview them to understand their behavior when they look for data, and what they need to be able to use the data they find. We also go through the interface of the portal with the user. 
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;
+I9-c;Other;new question;new question;Change;Yes;"Last year Brønnøysundregistrene (The Central Coordinating Register for Legal Entities) deployed a survey with reusers to better understand their needs, how their datas were being used and what they achieved by using the data. 
+
+Based on the answers they got, they have now implemented updates in their strategy."
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;Reusers can choose to describe their re-use/product on the community-pages in the national data portal. Datasets mentioned here will be fed back as metadata in the dataset-catalog. Example: https://data.norge.no/datasets/288aa74c-e3d3-492e-9ede-e71503b3bfd9;Confirm;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;Relations between descriptions of reuse  and  the datasets in the dataset catalog, makes it is possible to use the dataset theme taxonomy ;Confirm;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.";yes;"Norway does not have a general report on the effects of open data on governmental challenges. Use of data and analyzes of effects are largely linked to use cases, and essentially the data used is a mixture of open data and data with restrictions. A recent report (2022) concludes that measuring effects and gains from a single data set, especially into services, is difficult and that there are few feasible methods.
+
+We have several reports relating to the effect of various use cases. For the example used in the answer, the White Paper on Readily Available and Accessible (Open) Marine Geospatial Information can be referred to. 
+
+In 2020, an assessment was made of the societal benefit of BarentsWatch. In the report presented, it is concluded that they fulfill an important societal need. Furthermore, the report points out that measuring the usefulness of information sharing is demanding as it is not the information itself, but the use of it that possibly creates value for society. Of benefit to society, the following are highlighted:
+• Cost savings in the public sector
+• Increased profit for business
+• Reduced environmental costs
+• Reduced accident costs
+• Reduced crime (increased safety)
+• Increased trust
+
+Within different sectors there are several different reports and analyses. Examples:
+• Faster response time with geographical analysis (planning of ambulance services): https://geodata.no/bransjer/raskere-responstid-med-geografisk-analyse
+• The value of free map and property data: https://www.regjeringen.no/globalassets/upload/kmd/plan/verdien-av-gratis-kart-og-eiendomsdata.pdf
+•The environmental sector is characterized by extensive data collection activities and monitoring of the environment and natural resources, as a basis for decisions and trade-offs between different considerations. The Norwegian Environment Agency, in its capacity as the national coordinator for environmental data, has conducted a systematic review of opportunities and challenges for increased use of environmental data. A key aspect is  environmental data as a basis for decision-making: https://www.menon.no/wp-content/uploads/2021-153-Hovedrapport-KVU-Fremtidens-miljodata.pdf
+• Value and effect of data sharing: https://www.digdir.no/datadeling/verdi-og-effekt-av-datadeling-en-kartlegging-av-norske-virksomheters-praksis/3925";Change;Yes;"Norway does not have a general report on the effects of open data on governmental challenges. Use of data and analyzes of effects are largely linked to use cases, and essentially the data used is a mixture of open data and data with restrictions. A recent report (2022) concludes that measuring effects and gains from a single data set, especially into services, is difficult and that there are few feasible methods.
+
+We have several reports relating to the effect of various use cases. For the example used in the answer, the White Paper on Readily Available and Accessible (Open) Marine Geospatial Information can be referred to. 
+
+In 2020, an assessment was made of the societal benefit of BarentsWatch. In the report presented, it is concluded that they fulfill an important societal need. Furthermore, the report points out that measuring the usefulness of information sharing is demanding as it is not the information itself, but the use of it that possibly creates value for society. Of benefit to society, the following are highlighted:
+• Cost savings in the public sector
+• Increased profit for business
+• Reduced environmental costs
+• Reduced accident costs
+• Reduced crime (increased safety)
+• Increased trust
+
+Within different sectors there are several different reports and analyses. Examples:
+• Faster response time with geographical analysis (planning of ambulance services): https://geodata.no/bransjer/raskere-responstid-med-geografisk-analyse
+• The value of free map and property data: https://www.regjeringen.no/globalassets/upload/kmd/plan/verdien-av-gratis-kart-og-eiendomsdata.pdf
+•The environmental sector is characterized by extensive data collection activities and monitoring of the environment and natural resources, as a basis for decisions and trade-offs between different considerations. The Norwegian Environment Agency, in its capacity as the national coordinator for environmental data, has conducted a systematic review of opportunities and challenges for increased use of environmental data. A key aspect is  environmental data as a basis for decision-making: https://www.menon.no/wp-content/uploads/2021-153-Hovedrapport-KVU-Fremtidens-miljodata.pdf
+• Value and effect of data sharing: https://www.digdir.no/datadeling/verdi-og-effekt-av-datadeling-en-kartlegging-av-norske-virksomheters-praksis/3925"
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"All invoicing has better quality due to the company register and the possibility for correct information about companies and public bodies. (https://data.norge.no/datasets/5a5374c3-c6a7-49f8-b9cc-0a9e48c1acd7)  data and Company register ( https://data.norge.no/datasets/68d08f28-a16d-4fab-a953-ed4ab08ce2e2)
+
+Kompensasjonsordningen:
+https://kompensasjonsordning.brreg.no/en
+https://data.norge.no/dataservices/08a05ace-5b69-3d58-8849-da30918d3259
+https://data.norge.no/datasets/7aa53892-ef52-33d5-8dd6-f46044be37db"
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"There are several transparency services based on open data
+https://statsregnskapet.dfo.no/   -->  https://data.norge.no/datasets/cb6767c3-81ac-4dd5-a0c2-a78f9902a2c4
+https://einnsyn.no/sok
+https://www.regjeringen.no/no/aktuelt/einnsyn/id604997/
+
+https://statsregnskapet.no/ (Stat accounts) is an application that provides an overview of actual income and expenses in addition to an overview of changes in the capital balance in the Norwegian state. All data used can also be downloaded: https://statsregnskapet.dfo.no/last-ned. In the application, it is possible to see details for a single ministry or a single agency.
+
+https://einnsyn.no is a system developed to be a common access solution for state, municipal and county bodies. This will contribute to more openness and access in the administration, and will make it easier for users to find information about public case processing. Postal journals (correspondence registers) from state, municipal and county bodies are published on eInnsyn, along with information about meetings and committees of such bodies. The goal is to make it easier to search what may be perceived as complex and inaccessible. eInnsyn a service that anyone can use to search for information related to the public sector.
+ See also https://einnsyn.no/informasjon/om-oss"
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Ensuring that oil drilling is planned outside protected areas is based on open data: https://kartkatalog.miljodirektoratet.no/Dataset/Details/702   
+
+In Norway, there is a debate about where to drill for oil. Open data contributes to policy formulation.  See also: https://www.npolar.no/en/themes/the-marginal-ice-zone/"
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"The national statistics bank is freely and openly available and utilised by many organisations in their decision making processes. https://data.norge.no/datasets/e74957b7-d052-4d93-9afb-4a2fce65882f
+
+""The national statistics bank is used for various purposes. One example is The Technical Calculation Committee for Income Settlements.""The Technical Calculation Committee for Income Settlements uses statistical data in several ways in its work:
+
+Analysis of Economic Trends: They use statistical data to analyze economic trends, including inflation, wage development, employment, and other economic indicators. This provides them with a picture of the current economic situation.
+
+Reference Data: Statistical data serve as reference data to compare current income levels and working conditions with previous years. This helps them assess changes over time.
+
+Modeling and Forecasts: They can use statistical models to create forecasts for future economic conditions, including wage growth, price inflation, and other economic variables. This is important for planning income settlements.
+
+Insight into Sectors: Statistical data provide insight into various sectors of the economy, such as industry, services, the public sector, etc. This allows them to assess how changes in income settlements will affect different parts of the economy.
+
+Comparisons with Other Countries: They can also compare Norwegian data with statistics from other countries to assess how competitive wage and working conditions are compared to international standards.
+
+The Norwegian Public Roads Administration collects a lot of data about road, environment, weather and so on. This data is used extensively when planning traffic, environmental and fiscal policy or measures. Most of the data is open. https://data.norge.no/organizations/971032081
+https://dataut.vegvesen.no/
+https://transportportal.atlas.vegvesen.no/en/gen/about/
+
+The same applies to The Norwegian Mapping Authority https://data.norge.no/organizations/971040238"
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.";yes;"https://www.menon.no/wp-content/uploads/2018-69-Helsedata-store-verdier-p%C3%A5-spill.pdf This report states that health care data positively impacts the citizens' healthcare, efficiency with in the health care sector, and business reliant on such data. Open data is not mentioned explicitly, but the definition of healt data in the report (found in section 2.1 in the report) clearly involves open data.
+
+In the knowledge sector (education), a study has recently been carried out and a new organization for data sharing in the knowledge sector has been established (https://kunnskapsdata.no/). The study includes all types of data from the sector, including open data.
+The study can be read here:
+https://www.regjeringen.no/contentassets/0ff78b4f861b43e8a7e52d5f02dbbd34/sluttrapport-fremtidig-deling-av-data-1.1.pdf";Confirm;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"The research and development groups Giellatekno and Divvun at the University of Tromsø (http://giellatkeno.uit.no, http://divvun.no) have  built language tools and resources that have made it possible to use minority languages in digital context.  Language use is increasingly dependent upon a wide range of digital applications, and (lack of) access to such applications will essentially govern the possibilities linguistic minorities have to use their languages. Dictionary resources are freely abailable for others to use, not only in open interfaces (https://sanit.oahpa.no/, etc.) but also the content. As a result, the dictionary has been reused both for machine translation, pedagogical applications, and other dictionary providers, such as dinordbok.no and others. The core data are structured, machine-readable grammatical models: https://giellalt.github.io/LanguageModels.html. The language models and documentation and source code are openly available. The key factor is to build, document and share language models that makes reuse possible. These resources have changed the prerequisites for use of minority languages. Earlier, North Saami newspapers were e.g. publised every second day, at most. With the spellchecker it was possible to publish the newspaper http://avvir.no daily. The availability of proofing tools in standard word processors, a functionality taken for granted by all majority language users, is now either in place or within reach for the Nordic national minority languages. The source code is available under an open license:
+https://github.com/apertium/apertium-sme-nob
+https://github.com/apertium/apertium-sme-smj"
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Finn.no is Norways largest property portal. This utilises data from mapping, transport, weather etc. https://www.finn.no/realestate/homes/search.html
+https://data.norge.no/datasets/d291d325-db30-4c69-a82e-e19b0928e487
+https://data.norge.no/datasets/749cc842-54a2-42a3-8c4c-feabaa021a9a
+https://data.norge.no/datasets/4d12590c-bf33-3bc4-b292-abc4942260e7 
+
+SSB House market data is used to give an overview of the situation in the market. https://www.ssb.no/priser-og-prisindekser/artikler-og-publikasjoner/prisene-pa-nye-boliger-stiger / https://www.ssb.no/priser-og-prisindekser/boligpriser-og-boligprisindekser
+SSB also has statistics on living conditions etc: https://www.ssb.no/bygg-bolig-og-eiendom/bolig-og-boforhold / https://www.ssb.no/bygg-bolig-og-eiendom?de=Bolig+og+boforhold&innholdstype=publikasjon-artikkel
+
+hjemla.no  is a new service aimed at making information on home sales and value estimation for homes available. Utilises open data and a mix of public data and there own data.
+https://www.hjemla.no/innsikt/om-hjemla. Prognosesenteret is a similar service that uses data, some open, to calculate housing value: https://prognosesenteret.no/boligverdi/
+https://data.norge.no/datasets/4d12590c-bf33-3bc4-b292-abc4942260e7
+https://data.norge.no/datasets/d20046fe-362d-37bd-8eba-4a8e2d0cd0c0
+
+The media  regulary utilises open datasets about maping, transport, sold prices etc. to make stories/maps etc. about the housing market
+https://www.aftenposten.no/oslo/i/AP3oWM/her-er-den-stoerste-samlingen-av-boligverdier-i-oslo"
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Open data has been used throughout the pandemic, both by central government and by local authorities. An example is the municipalities' dashboard for infection tracking. The municipalities also have more advanced dashboards intended for internal use, such as planning, quarantines etc.
+Application (Oslo): https://experience.arcgis.com/experience/742a281a0fa74ab79147a76e6b52833b (The service has ended.)
+Dataset: https://github.com/folkehelseinstituttet/surveillance_data (the Norwegian Institute of Public Health)
+
+Media is using open data to create stories and visualisations, example:
+https://www.vg.no/spesial/corona/ (The service is not being updated.)
+Data set: https://data.norge.no/datasets/07df7566-311d-36dc-911b-fbb0a1557eb0 (The data is not being updated)"
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;I don't know;
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.";yes;"Open data on stock exchange and open research data has given insight into environmental challenges
+https://energiogklima.no/meninger-og-analyse/kommentar/apne-data-har-snudd-klimakampen/
+
+The Norwegian Environment Agency, in its capacity as the national coordinator for environmental data, has conducted a systematic review of opportunities and challenges for increased use of environmental data. One of the aspects covered is effects (impact). It also contains comprehensive descriptions of how data and open data will contribute to new solutions https://www.menon.no/wp-content/uploads/2021-153-Hovedrapport-KVU-Fremtidens-miljodata.pdf
+
+A study of the future environmental data has also been carried out, : https://www.menon.no/wp-content/uploads/2021-153-Hovedrapport-KVU-Fremtidens-miljodata.pdf
+Chapter 2 of the report has a detailed review of the current situation including the value chains for environmental data (production, management, consumption) where raw data is refined into knowledge and finally becomes concrete products for use for various purposes (p. 24). One of the examples that is referred to is the priority map for efforts against acute pollution: https://www.miljodirektoratet.no/ansvarsomrader/vann-hav-og-kyst/beredskap-mot-akutt-forusurningen/prioriteringskart-for-inssats-mot - acute pollution/";Confirm;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"We monitor the air quality https://luftkvalitet.nilu.no/ and predict the upcoming air quality https://luftkvalitet.miljodirektoratet.no/. We also provide a calculator to test the effect of measures to try to reduce air pollution https://www.miljodirektoratet.no/tjenester/tiltakskalkulator-for-luftkvalitet/
+
+Some municipalities use air quality data to implement restrictions on driving and wood-burning: https://www.bergen.kommune.no/hvaskjer/tema/luftkvalitet/strakstiltak/hvilke-regler-gjelder-ved-datokjoring
+
+In some municipalities, air quality data is utilized to assess the level of air pollution, particularly in terms of particulate matter (PM) and pollutants such as nitrogen dioxide (NO2) and carbon monoxide (CO). When air quality deteriorates to a certain extent, these municipalities may implement restrictions on activities that contribute to air pollution, such as:
+
+Driving Restrictions: They may impose temporary driving restrictions, particularly on vehicles with high emissions or during periods of high pollution, like smog or haze events. This can include measures like alternating license plate numbers allowed on the road on specific days.
+
+Wood-Burning Bans: During periods of poor air quality or high pollution, some municipalities may ban or restrict the use of wood-burning stoves or fireplaces to reduce the emission of particulate matter and other pollutants from burning wood.
+
+These measures aim to improve air quality and protect public health by reducing exposure to harmful pollutants. The specific restrictions and their enforcement can vary from one municipality to another, depending on local air quality conditions and regulations."
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"We monitor the air quality https://luftkvalitet.nilu.no/ and predict the upcoming air quality https://luftkvalitet.miljodirektoratet.no/. We also provide a calculator to test the effect of measures to try to reduce air pollution https://www.miljodirektoratet.no/tjenester/tiltakskalkulator-for-luftkvalitet/
+Dataset: https://data.norge.no/datasets/d962c1b2-f233-43f7-8959-60463f0534e8
+Cities use the aforementioned calculator to achieve more environment-friendly cities
+
+NILU has good infrastructure and high competence in measuring and developing new measurement methods and instrumentation. This knowledge is used, inter alia, to advise local and national authorities on issues that are relevant to the development of measures and regulations to achieve better air quality. The information is particularly important for those living with diseases that can be exacerbated by high air pollution, such as respiratory and cardiovascular diseases.
+
+We can also add https://artsdatabanken.no has the goal of bridging the gap between biodiversity, science and policy. At the Artsdatabanken, there is a large amount of data and information about natural diversity in Norway that you can freely download. These are provided by knowledge institutions, voluntary organisations, administration, business and private individuals.
+
+Information and data on biodiversity are found in natural history museums, research institutions, environmental agencies and NGOs run by professional and amateur biologists. NBIC works with all these groups to collate and disseminate this material so that it can become available to everyone.
+
+NBIC's main tasks are to provide:
+
+Risk assessments for species and ecosystems
+Digital tools and services for knowledge on biodiversity
+New knowledge on species and ecosystems in Norway
+
+https://www.biodiversity.no/Pages/135580/About_Norwegian_Biodiversity_Information_Centre
+See also: https://www.biodiversity.no/Pages/195122/Species_online"
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"We monitor our progress on the fight of climate change, and also present the effect on the connected disaster (e.g. sea level rise and global warming). https://energiogklima.no/klimavakten/ . In the same overview we also have a grading system where we strive towards ""green"" results, thus affecting our policy on the fight of climate change. Open data from Norway and from other countries is used in the service."
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Open data is also used for services to calculate and display emissions https://www.tilnull.no/. The service will be expanded as new datasets are released
+With tilnull.no, the Norwegian Climate Foundation wants to make visible in a simple and credible way where Norway stands in the climate transition - and contribute to ongoing debate about measures that can increase the pace of climate work. The data for the service is provided by the Norwegian Public Roads Administration, county municipalities, municipalities, ferry operators etc. The data is also donwloadble, example: https://www.tilnull.no/ferger/fergedataene"
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";yes;"On behaf of the Confederation of Norwegian Enterprise (NHO) Menon Economic conducted a study to monitor the economic impact of open data. 
+https://www.nho.no/siteassets/veikart/rapporter/verdiskaping-med-data-menon.pdf
+
+Data as a resource - Data-driven economy and innovation:  https://www.regjeringen.no/no/dokumenter/meld.-st.-22-20202021/id2841118/";Confirm;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;I don't know;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;I don't know;
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Fiskher (directly translates to «Fish here») has used open geodata to create an app for fishers and have expanded to several countries and gotten a research-grant
+https://digitalnorway.com/slik-skapte-fiskher-en-app-suksess-av-apne-data-fra-kartverket/
+
+Data from the population register and other open data from power companies has impacted business creation by providing data for https://www.motkraft.no/ . Motkraft is a non-profit power provider.
+
+Data from our road administration (Statens Vegvesen) provides open data regarding car ownership. https://datalandsbyen.norge.no/topic/52/bileier-hvem-eier-bilen / https://bileier.app/ The use case showcases an app that makes it easy to gain access to the owner of a car by typing in the cars license plate number."
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;I don't know;

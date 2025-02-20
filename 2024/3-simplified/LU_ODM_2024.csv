@@ -1,0 +1,690 @@
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";yes;Luxembourg's open data policy is expressed in the law https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo#:~:text=base%20non%20modifi%C3%A9-,Loi%20du%2029%20novembre%202021%20sur%20les%20donn%C3%A9es%20ouvertes%20et,des%20informations%20du%20secteur%20public.&text=de%20donn%C3%A9es%20de%20la%20recherche,d%C3%A9finies%20%C3%A0%20l'article%2010. which transposes the open data directive.;Confirm;;
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";yes;"https://data.public.lu/fr/strategy/
+
+o PSI: public sector institutions are invited to make their data available as much as possible, and to profit from existing open data.
+o Metadata: an important factor in the open data project is the availability of complete and normalized metadata.
+o Infrastructure: Central platform – decentralised data : Datasets are to be made available online by the data producers, either at their own websites or at the level of the national open data portal http://data.public.lu, where all existing data should be registered. Links and APIs are to be used to avoid double storage of data and versioning differences and to permit access to live data.
+o Searchability: quality and precision of the tags assigned to the data sets allow for a focused search.";Confirm;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";not applicable;;Confirm;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;"The road map https://data.public.lu/en/pages/5yearplan/ contains more concrete actions to be undertaken, like f.e.
+Ensure, in the light of the Open data Act and the Freedom of Information Act, that more data is opened up by providing technical and legal assistance to data owners to publish their data. The focus will be on the following topics
+file formats, standards, automation of data publication;
+decision support for licensing;
+data protection considerations.
+Promote the publication of higher quality and easier to use Open data.
+Collaborate with the Luxembourg government's interoperability programme to encourage the publication of data in standard and interoperable formats.
+Collaborate with the Luxembourg government's AI4Gov programme to foster the availability of open datasets that can be used for AI.
+Collaborate with the ecosystem established under the Data Governance Act (re-use of certain categories of protected data held by public sector bodies).
+Organise events:
+Collaborative hackathons on a given theme;
+Training for public sector employees;
+Awareness-raising events.
+Improve the quality and currency of metadata through awareness campaigns and audit procedures. Quality metadata allows data to be found more easily by users of the Open data Portal.
+Recurrent monitoring of data and metadata quality and of the activity of organisations in the field. Present monitoring results in a public dashboard.";Confirm;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"The strategy says ....
+""Data quality
+Data should be offered and updated as much as possible in standard, interoperable, machine-readable formats, accessible and delivered via web services, APIs and mass download. Real-time data should be provided unless disproportionately burdened.""
+.. and the roadmap contains the following passage:
+""Real-time data:
+promote and increase the visibility of real-time datasets and reuses on the portal;
+identify strategic real-time data that has not yet been published and support its implementation and publication;
+organise an event to raise awareness of real-time data: added value for end-users, success stories, links to the Internet of Things, technical architectures, interoperability and standards.""";Confirm;;
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";yes;"The strategy says: Coordinated collaboration with other national data initiatives as well as with European and international data portals ensures that Luxembourg data are visible and usable in a wider context and can lead to added value contributions.
+... and ...
+For this reason - unless prohibited by law - this data must be collected, properly described, published and thus made discoverable and reusable, via national and European platforms including the national portal data.public.lu, the geoportal, the statistical portal and the European portal.
+
+";Confirm;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"Extract from the strategy text : 
+Public sector institutions are encouraged to make greater use of Open data (principle of data-driven government and data-driven decision-making), and to document their re-use cases on the national Open data portal. Re-use of data within the public sector reduces 
+production costs and improves the quality and impact of this data.
+";Confirm;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;No;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";yes;"Extract from the strategy text: 
+A key objective of this strategy is to publish inventories of existing data from public sector institutions, including lists of datasets considered to be of high value, in accordance with the legislation.
+";Confirm;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";yes;The proposed template for the data inventory https://data.public.lu/fr/datasets/template-pour-linventaire-de-donnees-dans-le-cadre-de-lopen-data/ suggests to insert also data that cannot be published as open data. This will indeed be interesting in the scope of the DGA;Confirm;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Yes;"Luxembourg is working intensively on the High Value Data project. Here some key information:
+- the open data strategy https://data.public.lu/fr/pages/strategy/ mentions the 6 HVD themes as priority
+- in the scope of the national interoperability programme, the Ministry of digitalisation sponsers a project called ""HVD4Gov"", aiming at implementing a central national technical platform for Luxembourg's High Value data. In the scope of this project, which is ongoing since 2023, the stakeholders have been contacted, inventories have been made, a gap-analysis has been or is performed for each dataset to assess it's conformity to the regulations specifications and a dedicated infrastructure has been implemented. This infrastructure is built on top of Luxembourg's national INSPIRE portal https://catalog.inspire.geoportail.lu/geonetwork/srv/eng/catalog.search#/home an will provide a central data warehouse for the HVD as well as metadata and API and bulk download functionality.
+The project is progressing well and we aim at being online for the deadline with a part of the data. Some of the data (meteo) will be provided directly by the data owners who have an own infrastructure. As far as is known today, this data will be available for the deadline."
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;As mentioned before about Luxembourg's HVD4Gov project, an initial action was to identify possible HVD data owners and to contact them  to initiate inventory processes in relation to the IR 2023/138. As project team we provided initial inventories with the datasets that were already known and that we considered possibly relevant in this context. In several meetings and exchanges it was possible to achieve complete lists of existing HVD relevant data. Most of the participants considered the gap analysis, where the requirements in the annex of the IR were checked in regard to the actual properties of the data, as quite challenging.
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;There is a national governmental group of the open data officers. Indeed the letter of the Prime Minister about open data https://data.public.lu/fr/datasets/lettre-circulaire-aux-departements-ministeriels-administrations-et-services-de-letat-donnees-ouvertes/ requires every public sector organism to designate responsible contact persons for open data. And the governmental organisation that is responible for the opendata dossier ( Service information et presse - open data & access to information division) animates this group as part of its efforts of sensibilisation and coordination. Regular events like meet-ups or trainings are part of the initiative. https://data.public.lu/fr/posts/le-premier-open-data-meetup-du-gouvernement/
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";hybrid;In the beginning of Luxembourg's open data initiative, the first important data input came from interested organisations like Administration du cadastre et de la topographie, Centre des Technologies de l'Information CTIE, Transport Ministry, Statistics administration STATEC etc. Their strategic datasets allowed interesting re-uses which could be displayed int our re-use section to demonstrate the potential of opendata and to trigger further data opening. This bottom-up approach was completed later by strategic top-down measures like the creation of the divison open data et accès à l'information at State Ministry / SIP, the launch of the open data strategy working group, the collaboration with the Digital Luxembourg programme or the AI 4 Government project, and recently the official decision of the strategic texts (strategy  https://data.public.lu/en/pages/strategy/, roadmap https://data.public.lu/en/pages/5yearplan/ and governance https://data.public.lu/en/pages/governance/);Confirm;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;As in Luxembourg there are no regional structures, only governmental and local (municipality) level exist.Municipalities have a certain degree of administrative autonomy but are represented in the open data initiative by the ministry of home affairs.
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";few public bodies;;Confirm;Few public bodies;Most of the municipalities are of very small size and do not have the staff or other means to focus on open data. There are only 2 relatively big municipalities which actively participate in the open data project on their own.
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";yes;https://data.public.lu/en/pages/governance/;Confirm;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;The portal is operated on the technical level together with the national geoportal and the national INSPIRE portal by the geoportal department, in collaboration with the open data team, as described in the document https://data.public.lu/en/pages/governance/;Confirm;;
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";yes;"The governance text https://data.public.lu/en/pages/governance/ says ""In these roles, the division's staff cooperate on an ongoing basis with the geoportal service and regularly exchange information with the data managers and disclosure officers of public bodies."". Indeed the official letter of the Prime Minister to all ministries and governmental services https://data.public.lu/fr/datasets/lettre-circulaire-aux-departements-ministeriels-administrations-et-services-de-letat-donnees-ouvertes/ orders all organisms to name official open data representatives in the scope of the open data legislation. The names and contact details of these representatives have to be communicated to the open data team at SIP/Ministry of State.";Confirm;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;"The above mentioned letter by the PM https://data.public.lu/fr/datasets/lettre-circulaire-aux-departements-ministeriels-administrations-et-services-de-letat-donnees-ouvertes/ has only been sent quite recently, and actually (April 2023) the process of receiving the answers, with the names of the open data officers, is still ongoing. Therefore there have so far only been 1 -to-1 meetings with every organisation, to discuss the relevant topics like:
+- co-existence of the legislation of access to information (disclosure of administrative documents) and the opendata legislation (re-use of documents and data)
+- what data is concerned
+- data inventory
+- use of the data portal, metadata, tagging, contact and exchange with users
+- data harvesting
+- legal exceptions
+These exchanges happen via Skype calls, and there is no documentation about these calls online unfortunately.";Complement;Yes;In addition to what has been said in 2023 we would like to  mention the continuous exchanges with the open data offices at personal level to  focus on data awareness, inventory and interaction with the national portal, as well as the newly launched meet-up series with the opendata officials to  provide a platform for exchanges, best practices and presentation, also in collaboration with the new national data service Luxembourg National Data Service LNDS https://www.lnds.lu/. Here an article about the first event of the series https://data.public.lu/fr/posts/le-premier-open-data-meetup-du-gouvernement/
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";yes;These exchanges happen on the one hand via the feedback mechanism of the portal (where there is a noticeable rise of the incoming messages and questions) and during events like the hackathons (example for last event https://govtechlab.public.lu/en/agenda/2022/hackathon-opendata1.html );Confirm;;
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";no;;Change;Yes;"There exist several particular data publication plans and corresponding workflows :
+- all of Luxembourg's INSPIRE datasets are made available via a central INSPIRE platform with a well defined workflow starting with the obligation for the data owner to first publish the data in its ""AS-IS"" state on the open data portal, where it is retrieved by the ETL backoffice and integrated into the INSPIRE data warehouse. From here it is made available through the legally mandatory services and it is then described in the central catalog https://catalog.inspire.geoportail.lu/geonetwork/srv/eng/catalog.search#/home. Here the datasets as they are displayed on the open data portal following the automatic publication workflow https://data.public.lu/fr/datasets/?q=INSPIRE
+- the national geoportal map viewer https://maps.geoportail.lu contains a large amount of map layers (around 1500, a great part of which are open to the public) and an ongoing project aims at implementing a workflow to automatically publish any geoportal layer with the correct metadata and via bulk download opportunities as well as webservice / API access as open data on the national open data portal
+- some major data owners have made up data publication plans together with the open data team, linked to internal data consolidation efforts, but so far these documents are not public"
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";yes;"The responsible team at SIP / division open data and access to information constantly monitors the national open data portal in terms of its contents, the announced data and documents, the metadata quality, the licences as well as  re-uses that document potential public interest in some of the data.
+The roadmap document https://data.public.lu/en/pages/5yearplan/ specifies more concrete measures that allow to meet the strategic objectives. With regard to the Open data law https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo  and the Freedom of Information law https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/jo, the national open data team assists data owners to publish (more) data by providing technical and legal assistance, while focussing on data quality considerations, interoperability issues, legal constraints and licensing as well as possible automation of data publication.
+In this context the open data team closely collaborates with the Luxembourg government's interoperability programme and the governmental AI4Gov programme to foster the availability of open datasets that can be used for AI. Both programmes consist of yearly call for projects at the level of government administration and services, where data and opendata should be an important aspect.
+An important aspect is the consistent professional training for public sector employees, to help the be more aware of the opendata topics and become an active part in the open data ecosystem.";Complement;Yes;"The responsible team at SIP / division open data and access to information constantly monitors the national open data portal in terms of its contents, the announced data and documents, the metadata quality, the licenses as well as re-uses that document potential public interest in some of the data.
+The roadmap document https://data.public.lu/en/pages/5yearplan/ specifies more concrete measures that allow to meet the strategic objectives. With regard to the Open data law https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo and the Freedom of Information law https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/jo, the national open data team assists data owners in publishing (more) data by providing technical and legal assistance, while focusing on data quality considerations, interoperability issues, legal constraints and licensing as well as possible automation of data publication.
+Like the European Interoperability Framework, the National Interoperability Framework https://mindigital.gouvernement.lu/fr/dossiers/2019/NIF-2019.html  adopted in 2019 by the Luxembourg government covers open data by its very first principle “openness”. Under the principle of openness, this strategic document recommends to “Publish own data as open data by default, unless restrictions (security, data protection, etc.) apply”.
+The open data team also contributes to the Ministry for Digitalisation’s three call for projects aimed at government administrations and services: NIF4Gov to further develop interoperability in the public sector domain; DATA4Gov to promote the use of data within the public sector; as well as,  AI4Gov to foster the use of artificial intelligence within the public sector. All three subject matters benefit greatly from an open data approach.
+An important aspect is the consistent professional training for public sector employees, to help them be more aware of open data topics and become an active part in the open data ecosystem.
+It should also be mentioned that the Ministry for Digitalisation works on several national projects - in collaboration with the open data team as well as the Luxembourg National Data Service (LNDS) - that are important contributions to the open data strategy:
+- a national general data strategy is being finalised and due for publication soon. The data strategy reiterates the National Interoperability Framework’s approach of openness by default.
+- a common and generalised data inventory effort is ongoing, together with the open data team at SIP, the above mentioned LNDS and all the other public sector organisations that work on cataloguing data: national library BNL, university and national archive etc"
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;Yes;If new concepts, as-is standards or other requirements are detected in the european ecosystem, we try to adapt the strategy text accordingly and submit the text to the government council for approval. There have been no adaptations last year though.
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";yes;Manual follow-up by the national open data team at SIP to check this....No public sector organisation is known to charge for data. The Luxembourg business register, mentioned last year as the only exception, has stopped delivering any open data, and only offers extracts upon demand in the context of registered users.;Confirm;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;"a) lack of digitalisation in the daily processes of many organisms
+b) lack of awareness of the obligations and the multiple advantages of open data
+c) lack of internal measures to take care of the open data topic in each organisation : data inventories, open data officers, internal re-use of open data in administrative processes etc";Confirm;N/A;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";yes;"Challenge a is taken into account by a series of programs launched and financed by the luxembourgish ministry of digitalisation. For instance the ""NIF4Gov"" initiative which aims at making Government organisations more interoperable at every level (https://digital.gouvernement.lu/fr/dossiers/2019/NIF-2019.html) and where the opening up of data is one important element. In the same scope, there are workshops with government experts and the civil society (example https://digital.gouvernement.lu/fr/actualites/article/2023/15-03-hc-atelier1.html) to share knowledge,experience and ideas about these topics with the intention to improve the current situation.
+In order to address the problem b, we go on with our permanent sensibilisation and education efforts. The Prime Minister's letter (https://data.public.lu/fr/datasets/lettre-circulaire-aux-departements-ministeriels-administrations-et-services-de-letat-donnees-ouvertes/) has helped bringing the open data legislation and its obligations in the focus of decision makers, and it contains measures to help with the  organisational aspects mentioned in point c";Confirm;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;"There exist different activities to assist data owners in their endeavor to open up their data:
+- during our  sensibilisation meetings we discuss their datasets and inventory documents, to assess the possible obstacles that have prevented the opening of the data so far. We provide information in case of legal considerations and offer help when technical considerations prevail
+- we regularly write own harvester scripts, after discussing with the data owners and obtaining their feedbacks and consent about licence, description, validity etc
+- we provide help and guidance for those who write automatic publication scripts on their side, 
+- we create and maintain central infrastructure aiming at preparing, describing, modifying and publishing particular data from data owners, like the national INSPIRE platform, the geoportal or the recent HVD platform HVD4Gov which is still under construction. They come with a clear workflow for the data which ends up as open data, searchable, downloadable or usable via API/Webservices on the national open data portal"
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;"At the national public sector training institute ""Institut national d'administration publique"" (INAP) there are actually several data-related courses on the regular program. Our  2 day training about ""introduction in data management"" has proved to be much more appreciated than expected, and due to its success we have been asked to offer it more often. Apart from this one, INAP proposes in its catalogue an interesting series of courses related to data, data bases,  geodata, digital accessibility of documents, legal aspects etc. As the individual links for each course are not permanent, here as example the link to the catalogue, searched by the keyword ""donnée"" (data): https://fonction-publique.public.lu/fr/formation-developpement/catalogue-formations/secteur-etatique.html?q=donn%C3%A9es";Confirm;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";yes, >9;"At the above mentioned institute INAP we had at least, in 2022 :
+- 3 events of the 2 day course ""Introduction to data mangement"", online per videoconference, about 20 participants each time [update 16/08/2023] https://fonction-publique.public.lu/fr/formation-developpement/catalogue-formations/secteur-etatique/06compdig/06-1-digbase/et_06-1-1-161.html
+- 6 events for the courses ""accessibility of PDF documents"" and ""Accessibility of Word documents"", videoconference, about 20 participants per course https://fonction-publique.public.lu/fr/formation-developpement/catalogue-formations/secteur-etatique/04organisat/04-6-egalch/et_04-6-3-31.html
+- 3 events of the course ""The geoportal and the open data portal as central data platforms"", videoconferences [update 16/08/2023] https://fonction-publique.public.lu/fr/formation-developpement/catalogue-formations/secteur-etatique/05admdroit/05-3-presen/et_05-3-1-05-01.html
+- 1 official open data hackathon at our national GovTecLab, about the use of open housing data [update 16/08/2023] https://data.public.lu/fr/posts/hackathon-open-data-x-housing/
+- 3 events of the (quite new, and informal) Data Scientist Working Group, at the GovTechLab, with presentations of data management projects, and other data related projects ([update 16/08/2023] no URL, this is an internal group)";Complement;Yes, >9;"Update and complements in the text:
+
+At the above mentioned institute INAP we had at least, in 2023 :
+- 3 events of the 2 day course ""Introduction to data mangement"", online per videoconference, about 20 or more participants each time  https://fonction-publique.public.lu/fr/formation-developpement/catalogue-formations/secteur-etatique/06compdig/06-1-digbase/et_06-1-1-161.html
+- 6 events for the courses ""accessibility of PDF documents"" and ""Accessibility of Word documents"", videoconference, about 20 participants per course https://fonction-publique.public.lu/fr/formation-developpement/catalogue-formations/secteur-etatique/04organisat/04-6-egalch/et_04-6-3-31.html
+- 3 events of the course ""The geoportal and the open data portal as central data platforms"", videoconferences https://fonction-publique.public.lu/fr/formation-developpement/catalogue-formations/secteur-etatique/05admdroit/05-3-presen/et_05-3-1-05-01.html
+- 1 official open data hackathon at our national GovTecLab, about the use of language data https://data.public.lu/fr/posts/a-new-range-of-ideas-to-enhance-language-tools/
+- 4 events of the (quite new, and informal) Data Scientist Working Group, at the GovTechLab, with presentations of data management projects, and other data related projects ( no URL, this is an internal group)"
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;https://data.public.lu;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;yes;udata
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;Yes;https://data.public.lu/api/1
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;No;
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;Yes;https://data.public.lu/en/docapi/
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.";new question;new question;Change;Yes;"The users can create an account and publish their own datasets. They can publish the documentation as a resource of the type documentation (a resource can be a link), or put the documentation in the description of their dataset. If they want to enrich a dataset, they can publish data as ""community"" resources on the dataset. Here is an example of community resources: https://data.public.lu/en/datasets/archives-bruit-des-avions/"
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Change;Yes;"We have a ""contact us"" link with a mailto to our contact address on all pages. The url is the following: mailto:info@data.public.lu"
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"At the level of each dataset (in its subpage) there is a dataset-related user forum providing the possibility to add  questions/discussions linked to this particular dataset. Here examples of datasets with quite a lot of interaction in the related forum part at the bottom of the page 
+https://data.public.lu/fr/datasets/horaires-et-arrets-des-transport-publics/ 
+https://data.public.lu/fr/datasets/parc-automobile-du-luxembourg/";Confirm;;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;The datasets can be listed sorted by relevance https://data.public.lu/en/datasets/ and on the other hand we regularly publish small news articles in the news section about  interesting data or related projects;Confirm;;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;We automatically announce the arrival of every new dataset on our social media accounts - see @OpenDataLU on twitter and https://mas.to/@OpenDataLu on mastodon.;Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://data.public.lu/fr/requesting/;Confirm;;
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";yes;https://data.public.lu/fr/datasets/demandes-de-publications-de-donnees-en-open-data/;Confirm;;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";yes;Manual follow-up and assistance with publication of the data.;Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;Yes there is a discussion / feedback forum at the bottom of the sup-page of every dataset. This means that every discussion is per se related to this dataset.;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;https://data.public.lu/en/reuses/;Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";yes;example : https://data.public.lu/fr/reuses/safe-crossing-project-potentially-unsafe-pedestrian-crossings-in-luxembourg-city/;Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";yes;Any user can publish a re-use, and indicate the datasets that have been taken into account. Here an example https://data.public.lu/fr/reuses/comparaison-de-prix-des-carburants-par-motorisation/;Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";yes;"Please click on the ""preview"" button next to the data resource https://data.public.lu/en/datasets/operations-delta-des-vehicules-au-luxembourg/ ";Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";No;;Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"all high-value datasets have the tag ""high-value-dataset"" and can be found at this URL https://data.public.lu/en/datasets/?tag=high-value-dataset"
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;We use matomo and an internal, more complete, solution to monitor all aspects of the portal.;Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Confirm;;
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;We have developed an (internal) monitoring solution, based upon a dedicated datbase where the activities in the portal are registered and historized. Search terms and feedbacks are also part of this information, which is used for quite detailed analysis. For example we have created a first version of a data provider quality scoring system, helping us to  consider the pros and cons of the open data approach of our partners.;Confirm;;
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;Yes;We have for example detected that some outdated datasets are getting lots of views compared to new and up to date datasets on the same topic. In this case, we have updated the documentation of the outdated dataset to redirect the users to the new one. Example: https://data.public.lu/en/datasets/villes-rues-et-codes-postaux-de-luxembourg-1/
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;Yes;"The portal is acknowledged as the central national platform for open data, which is manifested by its increasing notoriety in projects and strategic texts. To continue fostering it, the open data team regularly undertakes promotion and sensibilisation activities.
+On the public sector side, we have built a group of open data representatives of all ministries, administrations and other public sector organisations, with the intention to enhance their knowledge about the importance of their data being available as opendata and the opportunities provided by the portal in this context. We have started a series of dedicated open data meetups, where they can better understand how to use the portal and how to represent their organisation on the portal. The agenda of the first event of this series contained presentations about the basics of the open data portal https://data.public.lu/en/posts/le-premier-open-data-meetup-du-gouvernement/ as well as  insights aboiut ongoing inventory and High Value Data projects.
+On the general public side, we traditionally organisie hackathon events, at least once per year, about topics focussing on opendata that already exists on the portal and where we encourage the participants to create user accounts and to publish their reuses. When we discover in the media eventual re-uses of open data, we generally get in touch with the reusers to invite the to also use the portal functions to publicly announce their reuse case.
+These activities contribute to the constantly rising number of portal users."
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;Yes;We monitor the keywords used on google via the google search console and via our internal web analytics Matomo
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;Yes;"We monitor the most consulted pages via our matomo web analytics. The data coming from matomo are accessible in the admin section of the portal. With these figures we can identify the most consulted pages, and we regularly check  them to make sure they have no issues regarding the metadata quality and the availability of the data resources. Here is the actual list of the 5 most popular datasets on the portal :
+https://data.public.lu/en/datasets/covid-19-rapports-hebdomadaires/
+https://data.public.lu/en/datasets/prix-annonces-des-logements-par-commune/
+https://data.public.lu/en/datasets/prix-de-vente-des-appartements-par-commune/
+https://data.public.lu/en/datasets/covid-19-rapports-journaliers/
+https://data.public.lu/en/datasets/prix-de-vente-des-appartements-prix-affines-hors-annexes-par-commune/"
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;We manually monitor the metadata content, the tags, associated themes and optimize as much as possible. We regularly scan the tags and associated data categories to update them.;Confirm;;
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Complement;Yes;On all our datasets, there is a metadata tab showing the metadata for humans. For machines the metadata is available via our API and our DCAT endpoints.
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";the majority of public sector data providers;"All  governmental organisations are obliged to proceed with the publication of their ""administrative documents"" - that is an obligation from the access-to-information-law (https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/jo). The corresponding instruction letter by the Prime Minister (https://data.public.lu/fr/datasets/lettre-circulaire-aux-departement-ministeriels-administrations-et-services-de-letat-administration-transparente-et-ouverte/) indicates the national data portal as the platform to be used for this purpose. This means that principally all public sector entities should already be active as data providers. A second instruction letter by the Prime minister (https://data.public.lu/fr/datasets/lettre-circulaire-aux-departements-ministeriels-administrations-et-services-de-letat-donnees-ouvertes/) requires all governmental organisations to provide data inventories as well as dedicated contact persons. Actually 75% of ministries are already active on the portal as such.";Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Change;Yes, or all public sector data providers already publish data;This analysis has been presented during our first open data meetup 
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;"Identified organisms that have unopened data are contacted to be further sensibilised. To the greatest possible extent we offer our help  with the practical steps to join the portal, to use the API, but also to work on data formats and harvesting scripts etc. Sometimes it is only a problem of availability, but often there are legal or other considerations .  
+
+Examples:
+- the entire government has been sensibilized in the scope of the impact assessment of our access to information law, to publish all documents and several actors have launched an integrated approach to proceed accordingly, like f.e. the ministry of economic affairs https://data.public.lu/fr/organizations/ministere-de-leconomie-direction-generale-du-tourisme/ or the Civil Aviation department https://data.public.lu/fr/organizations/direction-de-laviation-civile/
+- Further more we have set up harvesting scripts, that automatically reference complete data / document publications from existing web sites on the portal: example the national access to information commission CAD https://data.public.lu/fr/datasets/rapports-dactivite-de-la-cad/
+";Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;"There are no local or regional open data portals due to the size of the countries and the corresponding size of the local governments.
+But there is an ongoing project to create another platform for national data exchange - also destined at data that cannot be opened up as ""open data"" but that still should be re-usable. This society (form : Groupement d'intérêt économique GIE) is called PNED GIE (Plateforme nationale d'échanges de données = National Data exchange platform). Both systems are meant to collaborate, as re-uses of opendata  in combination with ""non-open"" data should also be mentioned and described on the open data portal, and as on the other hand open data will be likely to be re-used in such projects.";Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";not applicable;There are no local or regional open data portals due to the size of the countries and the corresponding size of the local governments. But as soon as the above mentioned PNED platform will be launched, it will be listed as partner.;Confirm;;
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";not applicable;;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;"Example 1 : Raw GNSS data https://data.public.lu/fr/datasets/raw-gnss-data-from-the-spslux-network/  https://act.public.lu/fr/gps-reseaux/spslux1/1spsluxaccess.html
+Example 2  : https://data.public.lu/fr/datasets/daily-meteorological-parameters-luxembourg-findel-airport-wmo-id-06590/";Confirm;;
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;Yes;"The Luxembourgish open data portal is open for anyone to publish own data, and there is in principle no previous validation neither of data nor of new organisations. To distinguish between official providers and others, we use a ""badge"" system : the public sector organisations that have been verified are marked by a corresponding badge stamp."
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";No;We are still working on a complete data inventory that contains all data, open or not, but in the meantime we have the list of data requests which shows data that have been requested and which eventually has not been provided yet https://data.public.lu/fr/datasets/demandes-de-publications-de-donnees-en-open-data/.;Change;No;Luxembourg's Ministry for Digitalisation, together with the open data team as well as other concerned actors, are working on a general public sector data inventory project, which includes protected data that cannot be made open without aggregating, pseudonymising or anonymising it first. To make a clear distinction between open data and other data, it has been decided to use a separate dedicated catalog for the protected data. A prototype of this catalog is currently under construction.
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;No;
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;"OpenDataLU on twitter and https://mas.to/@OpenDataLu on mastodon
+youtube channel  https://www.youtube.com/channel/UCNc9Gufuv_yDDrwZZ1wOp7A";Complement;Yes;We are now also available on Linkedin https://www.linkedin.com/company/opendatalu/?viewAsMember=true
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.";yes;on github https://github.com/opendatalu/ ;Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";yes;We monitor the portal, its data publishers, their data, metadata, popularity, feedbacks, updating discipline, user interaction etc with the help of a dedicated dashboard, which is however only for internal use (at the moment), so there is no URL to share. This dashboard relies on a dedicated database, where all the transactional information of the portal are retrieved and  stored after the necessary cleaning and adaptation. We also store precedent states of the data, which enables us to make in-depth analysis of the evolution in time.;Confirm;;
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature.";yes;"This monitoring has for example helped the Open data team to intensify the work with the data providers on the license indications - although ther has been some progress, there are still too many datasets without a license specification.
+It has also helped the Open data team to gain insights about the relevance of data producers compared to others : indeed we are moving from the concept of maximum dataset counts to a broader concept of relevance, where the number of accesses, downloads, re-uses and feedbacks enter into consideration.";Confirm;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;Our  internal monitoring tool allows us to track the potential difference between the announced updating frequency and the real one -  this helps covering at least this particular aspect and allows the Open data team to check this with the data producers. When the portal functions are used (to update or to replace) normally the corresponding metadata fields are updated correctly to reflect the actual situation.;Complement;Yes;Apart from the information in the text from 2023, we also would like to mention that we check the links to the data resources that are mentioned in the metadata. This is important to prevent dead links to spoil the overall quality of the portal. The scans are made by scripts that run regularly and send reports with detected anomalies.
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;30-49%;The datasets that are created and updated automatically basically concern the following categories : geodata from the geoportal and/or the INSPIRE portal, geodata from the Greater-Region-Atlas project, national statistics and  statistical data from the national social security system. The geodata are all integrated via scripts on the producer (data owner) side, invoking the API of data.public.lu to create the datasets, create and update the metadata and the corresponding resource. For the statistical data the open data team has written dedicated harvesting scripts that scan the data owners' sites to retrieve the data and the descriptions. For the data from the national statistics office, this data harvesting happens with active mutual collaboration.
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Within one day;The datasets that are automatically created and updated by the data owners via the above mentioned scripts, benefit from immediate updating at the moment they are modified. The other data that benefit from portal-side harvesting are scanned by scripts that run daily.
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;"The open data team checks the whereabouts of new datasets and  gets in touch with the data producers to see whether former time series can be added. Sensibilisation for the importance of long time data series is often necessary as most data producers tend to focus on the actual figures / data. In some cases the actual data can be delivered automatically whereas the retrieval of former series may need manual actions. Generally we sensibilise the data owner to implement an update procedure that keeps older data intact and available. We also advise them to consider a posteriori packaging of yearly data into one-year-archive files to prevent an excessive amount of resources in the datasets and allow an easier bulk download, or depending on the technical resources, to consider implementing an API.
+Here an example : from the very beginning of Luxembourg's open data project, the quarterly anonymised extractions of statistics from the national person register RNPP are important datasets https://data.public.lu/fr/datasets/?q=rnpp ."
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;"We have decided to denote the High Value datasets with the tag ""high value dataset"" and to add tags about the 6 HVD themes."
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Yes;The HVD datasets go through an ETL pipeline to have their data model adapted as closely as possible to the specifications.
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;"Our portal indicates to the data provider which metadata is poor in quality and when there has been an update. In the data set sub-page, the portal also gives advice on open file types and an appropriate number of tags. But it is not possible to give an URL as this section is only available to data providers. See screenshot in annexed Word document.
+With our new internal dashboard tool, we can monitor the metadata quality in greater detail at several levels, at the level of the portal, one organisation, or its datasets. The metadata quality is assessed following several axes on all datasets, based on the priorities defined in DCAT-AP and aggregated at the level of an organisation. ";Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";yes;"It is possible to get the metadata quality metrics of any of our datasets by using our API.
+The API call is described here: 
+https://data.public.lu/fr/docapi/#operations-datasets-list_datasets
+and the ""X-Fields"" header needs to have the following value ""data{id,title,quality},*""
+";Confirm;;
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;Yes;"We have a small informal information document about how to best use the portal to provide good metadata for open data sets.
+In this context it is woth mentioning the instruction document about licenses https://data.public.lu/fr/pages/fact-sheets/licenses/"
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;Yes;"On the portal a dataset can only be published if certain key metadata fields have been filled (or options been selected). This accounts for a certain minimum metadata quality. Among the mandatory fields on a datasets are the title, a description, an update frequency, a creation date and an author. Here we are stricter than DCAT-AP on the frequency and author fields. For a distribution, the mandatory fields are the title, the URL and the format. Here we are stricter than DCAT-AP for the format.
+In our opendata strategy we insist on the importance of choosing an open licence and strongly advocate the use of CC0. At the opendata team we regularly manually check the datasets to add tags. There are also written guideline-documents like https://data.public.lu/fr/pages/fact-sheets/data-quality/ and https://data.public.lu/fr/pages/fact-sheets/licenses/"
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;In our opendata strategy https://data.public.lu/en/pages/strategy/ we strongly advocate the use of CC0. This is also the reason the great majority use this license. We also have published an information sheet about licenses to provide more insights about the CC licenses https://data.public.lu/en/pages/fact-sheets/licenses/.
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;71-90%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;1-4;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;Yes;"There is a 3 tier approach to achieve good or at least continuously better public sector open data quality in Luxembourg : 
+- the first concerns chapters dedicated to public sector open data, the national portal, and related topics in the regular trainings proposed to any public sector agent at the training institute INAP
+- the second is the (recently built) group of open data representatives at the public sector organisations. This group has been mentioned in other questions above, and has been created following the Prime Minister's order to officially name such representatives, in his letter https://data.public.lu/fr/datasets/lettre-circulaire-aux-departements-ministeriels-administrations-et-services-de-letat-donnees-ouvertes/ , where several practical measures have been outlined to fulfill the obligations of the open data directive and corresponding national laws. The idea behind this permanent group is to intensify exchanges, best practices, technical help and general open data related information between the responsible persons via regular meetings. The first meeting of this series has taken place in April 2024 https://data.public.lu/fr/posts/le-premier-open-data-meetup-du-gouvernement/
+- the third is the 1-to-1 approach we already mentioned before : the open data team usually is in touch with each individual data owner and helps with advice or technical assistance when data is published. Due to this good connection to the data owners, we are able to help focussing on quality aspects like updates, resource formats, problems in the data itself, metadata etc. This has proven to be of great value for the general data quality on the portal. In this context we should name our link checking programme : To avoid presenting data which is not available anymore, we have automated tests in place to check the availability of data, for all the data which is not hosted directly on the portal. Every month, an automatic check is conveyed, which is filtered manually to avoid false positives, then the team of the open data portal contacts all the organisations which have an availability issue (dead links), and try to find a solution with them to have the data back online as soon as possible. It can range from simple url fixes to more complex operations such ass setting up an automated synchronisation with the open data portal. This has been the case for example with our national weather data provider, Meteolux: 
+https://data.public.lu/fr/datasets/present-weather-condition-at-luxembourg-airport-ellx-decoded-from-metar-message/"
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;Yes;To ensure interoperability between Luxembourg's national open data portal data.public.lu and other portals in Europe, data.public.lu offers an API to provide all its metadata in the DCAT and DCAT-AP formats, i.e. all metadata about the data stored or referenced on data.public.lu can be retrieved in this format. For example, the datasets published on data.public.lu are also published on data.europa.eu via the DCAT API from data.public.lu. More details can be found here https://data.public.lu/en/datasets/dcat-ap-api-endpoints-for-data-public-lu/
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);>90%;;Confirm;;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);31-50%;;Confirm;;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);31-50%;;Confirm;;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";no ;;Confirm;;
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;Yes;"The main causes of DCAT-AP non-compliance:
+-	The DCAT-AP endpoint is part of the core platform we use for our portal, which we have to update regularly. This can be a costly update, because we have to keep some customisations and settings, so we are not doing it every year. In the meantime, the DCAT-AP standard is constantly updated. It could be interesting to have a more stable standard, which would be less frequently updated, giving us the time to catch up. On our side, we analyse regularly our compatibility with the DCAT-AP standard (see the gap analysis here https://data.public.lu/fr/datasets/r/f6097aa5-fbfd-4aa3-94a2-d6fd8d5a8882 and we discuss possible improvements of its implementation with the upstream (udata) project https://github.com/opendatateam/udata/issues/2854 )
+-	Moreover, we don’t have any known user of our DCAT-AP endpoint except the european data portal.  We have not received any feedback about our DCAT-API endpoint implementation so far. This lack of feedback does not help us to prioritise fixes on the DCAT-AP endpoint."
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;>90%;N/A;Confirm;;N/A
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;"We mention the 5 star model in our meetings with data providers and in our trainings for public sector agents about data, opendata, transparency etc. There we try to promote at least ** and *** level. We also explain the FAIR principles.
+Internally at the portal level we have an own metadata quality rating system, that helps data providers to be aware of potential quality issues at a glance.";Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;We mention the 5 star model in our meetings with data providers and in our trainings for public sector agents about data, opendata, transparency etc. There we try to promote at least ** and *** level. This topic has gained increased interest and visibility due to the national Network Interoperability Framework programme, proposed by Luxembourg's Ministry of digitalisation (https://digital.gouvernement.lu/en/dossiers/2019/NIF-2019.html).;Complement;Yes;Please see - in addition to the answer from 2023 for this question - also the answer above provided for Q14.
+Q25;What percentage of datasets are made available under an open licence? ;>90%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;71-90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;71-90%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;<10%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;Confirm;;N/A
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;"The law on open data gives the following definition:
+« réutilisation » : l’utilisation par des personnes physiques ou morales de documents détenus par :
+a) des organismes du secteur public, à des fins commerciales ou non commerciales autres que l’objectif initial de la mission de service public pour lequel les documents ont été produits, à l’exception de l’échange de documents entre des organismes du secteur public aux seules fins de l’exercice de leur mission de service public ; ou
+b) des entreprises publiques, à des fins commerciales ou non commerciales autres que l’objectif initial de fournir les services d’intérêt général pour lequel les documents ont été produits, à l’exception de l’échange de documents entre des entreprises publiques et des organismes du secteur public aux seules fins de l’exercice de leur mission de service public ;";Confirm;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;The portal has a section which focuses on re-uses that are declared as such https://data.public.lu/en/reuses/.In reality we notice that many re-uses are detected separately, f.e. during discussions or collaborations,  and only announced and described upon our invitation.;Confirm;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer.";yes;"The SIP open data team actively searches for visible re-use cases of opendata and encourages their description in the dedicated section of the national portal https://data.public.lu/fr/reuses/ .
+To trigger the data producers' interest in monitoring potential re-uses of their data, the open data team highlights interesting cases via articles in the open data news section, and messages in the social media, to give a positive visibility to the data producers. Example https://data.public.lu/fr/posts/stroummonitor-la-vigie-qui-na-jamais-vire-au-rouge/";Confirm;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;No;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;Luxembourg's concept of open data  impact is related to effects of the availability of open data in the areas of economic growth, the digitalisation of public services, the innovation sector, the Greater Region collaboration and particularly important challenges of the local society in Luxembourg. https://data.public.lu/en/pages/impact/ ;Confirm;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";yes;"The use of the open data portal and of its data sets is monitored in detail, which allows to gain insights about re-use cases and their impact. In the portal, the internal statistic dashboard which renders key information about every dataset, is a good way to track the popularity of datasets, from the perspective of the data producers.
+We keep an eye on the exchanges between data users and providers in the corresponding portal sections, to deduce possibly interesting re-use cases, and - as far as possible with the available means - we try to know more in order  to properly document the re-use to evaluate it's impact as well as to use it as an example to trigger further visibility for open data.
+A particular case are API's where it is possible to require the use of a personal key, which obliges re-users to  be identified and the data providers to get detailed information about the uses. This is also the case of the geoportal API, which is used a lot at the national level, or the  public transport API for example.
+Currently however these insights are not yet handled in a coordinated way.";Confirm;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";yes;We definitely try to reach out beyond the public sector institutions to achieve concrete results from interesting open data. One example might be our private sector data provider myEnergy https://data.public.lu/fr/organizations/my-energy-g-i-e/, who proposes data about electric mobility, heating etc, as well as a re-use of existing open data (national person register) in form of a  subsidy calculator (https://data.public.lu/fr/reuses/base-de-calcul-pour-la-determination-de-la-subvention-variable-annuelle-liee-a-la-certification-european-energy-award/);Confirm;;
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Confirm;;N/A
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;Yes;"The portal API allows access to datasets, and is monitored. The analytics are presented on every dataset in the back-office to all data producers, acting as an automated feedback mechanism.
+Several important datasets are available via dedicated APIs and are also tracked by their providers. Some APIs can only be used with a (free) API key that  has to be given beforehand. This enables the data producer to monitor individual API usage."
+I8-b;Surveys;new question;new question;Change;Yes;"We indeed launched a survey to gain insights about the needs of the portal users https://data.public.lu/fr/posts/your-opinion-matters/. 
+https://data.public.lu/fr/posts/beyond-satisfaction-unveiling-the-desires-of-our-users/"
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;"Preparation meetings about the data, hackathon event and a posteriori follow-ups : language data by Zentrum fir Letzebuerger Sprooch ZLS https://data.public.lu/fr/posts/a-new-range-of-ideas-to-enhance-language-tools/
+We also regularly conduct interviews with actual open data re-users and document their experience in dedicated blog articles:
+https://data.public.lu/fr/posts/lutilisation-du-sol-une-information-precieuse-pour-les-antennes-relais/
+https://data.public.lu/fr/posts/sur-la-trace-des-luxembourgeois-outre-atlantique/
+https://data.public.lu/fr/posts/bruno-rodrigues-defend-une-approche-basee-sur-la-reproductibilite-de-la-data-science-au-luxembourg/
+https://data.public.lu/fr/posts/stroummonitor-la-vigie-qui-na-jamais-vire-au-rouge/"
+I8-d;Other;new question;new question;Change;No;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";yes;N/A;Change;Yes;N/A
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;Yes;"Luxembourg's parliament (Chambre des Députés) has become an eminent partner in the open data project and is present on the portal with a growing list of datasets. They have recently conducted a survey among journalists to check their needs in terms of data and information. This initiative has led to an adapted data publication agenda and an interesting series of re-uses
+https://data.public.lu/fr/reuses/use-of-languages-in-the-34th-chamber-of-deputies-luxembourg-2018-2023/
+https://data.public.lu/fr/reuses/parlamentarische-anfragen-wieso-weshalb-warum/
+https://data.public.lu/fr/reuses/deputes-actifs-a-la-chambre-des-deputes-du-luxembourg/
+https://data.public.lu/fr/reuses/wei-gewessenhaft-ginn-dletzebuerger-deputeiert-an-dchamber/
+https://data.public.lu/fr/reuses/interventiounen-an-der-chamber-si-schwatzen-am-dacksten-clement-kartheiser-goergen/"
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;
+I9-c;Other;new question;new question;Change;No;
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";yes;Indeed one of the main sections of our national data portal is the re-use section, which is supposed to gather and showcase real use cases of existing open data.This section is progressing well in the last time because of our systematic endeavor to identify interesting cases and to document them. [update 16/08/2023] Any citizen or administration with an account on the open data portal can publish a reuse. Moreover, the Information and press service has organised a technological watch. This watch aggregates news coming from the luxembourgish newspapers and also online media. A daily keywords based search brings all articles related to open data. The articles are then reviewed by the open data team and published as a reuse on the open data portal if relevant.;Confirm;;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";yes;We have thematic categories and tags. [update 16/08/2023] A reuse is linked to a topic, like for example Agriculture, Economy and Finance, Environment and Climate, etc. as shown on this page https://data.public.lu/en/reuses/ Moreover, all reuses can be tagged with user-generated tags.;Confirm;;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.";no;;Change;No;"CHD has published QP and generated good re-use figures as well as exchanges in the question section
+impact created for policy, national language use https://data.public.lu/fr/reuses/use-of-languages-in-the-34th-chamber-of-deputies-luxembourg-2018-2023/
+impact : topics aimed at by political parties"
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;API of national geoportal https://data.public.lu/fr/datasets/api-geoportail/ and the corresponding re-use of a QGIS plugin https://data.public.lu/fr/reuses/qgis-plugin-geoportail-lu/ destined to easily integrate the national land use plans https://data.public.lu/fr/datasets/?q=pag in the free software in order to create plan modifications by the engineering bureaus. These plans are of crucial importance for the  government and their management has been much improved through this new process.
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;The national land use plans https://data.public.lu/fr/datasets/?q=pag  are provided not only as downloadable open geodata, with a nationally standardized data model, but is also re-used  for example in information systems or web pages of local municipalities lie here https://bouswaldbredimus.lu/urbanisme/pag/ . This is a very huge step for the citizens in term of transparency and accounatability of their local government.
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;The ministry of home affairs has presented their work on the bill on land tax and the mobilisation of land and housing https://maint.gouvernement.lu/en/dossiers/2022/impot-foncier.html as a result on open data based policy making. Among others it is referred to the data provided for by the https://data.public.lu/en/organizations/ministere-du-logement-et-de-lamenagement-du-territoire-observatoire-de-lhabitat/
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Example of a private firm using public sector open data on land use, provided for by the Ministry of environment,  to make strategic decisions about the position of antennae. https://data.public.lu/fr/posts/lutilisation-du-sol-une-information-precieuse-pour-les-antennes-relais/
+In the public sector : example of an administration in the agriculture domain https://ma.gouvernement.lu/fr/administrations/asta.html using public sector open geodata https://data.public.lu/en/datasets/referentiel-des-parcelles-flik/ to assess farmers' subvention rights."
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.";No;;Confirm;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;As analysed and described in the following article https://accessibilite.public.lu/fr/news/2024-01-22-rapport2023.html, the publication of the audit reports on the digital accessibility of public sector websites and mobile applications https://data.public.lu/fr/datasets/?tag=accessibilite&q=accessibility has led to a significant progress in this matter which has a great impact on the minority of handicapped people. In this other article https://accessibilite.public.lu/fr/news/2024-05-14-memoire.html one of the interviewees admits being motivated because of the publicity of the report data.
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;This is an example of a re-use of public sector open data on housing, provided by https://data.public.lu/en/organizations/ministere-du-logement-et-de-lamenagement-du-territoire-observatoire-de-lhabitat/, to allow quick value estimations of real estate : https://data.public.lu/fr/reuses/outil-destimation-indicative-de-la-valeur-dun-bien-immobilier/. In difficult times marked by a crisis in real estate sales, tools like this one are a good indicator of the relevance of data.
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Open data on national statistics, provided by the national statistics administration STATEC (https://data.public.lu/fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-du-grand-duche-de-luxembourg/) leaves its mark in many analyses and publications like f.e. this public report on a national indicator on well-being https://statistiques.public.lu/dam-assets/catalogue-publications/analyses/2022/analyses-03-22.pdf. Another example is the impact created by our complete transparency in regard to the digital accessibility of public sector websites and apps. This triggers on the one hand a noticeable effort on the decision makers' side to improve the situation, hoping to achieve better results the next time an audit happens, and on the other hand it leads to concrete complaints  from concerned users to have specific malfunctions corrected. Here the data about the complaints https://data.public.lu/fr/datasets/historique-des-reclamations-relatives-a-laccessibilite-numerique/, and here the link to the data sets https://data.public.lu/fr/datasets/?q=accessibilit%C3%A9%20service%20information
+We also have new re-uses with dashboards informing about mortality:
+https://data.public.lu/fr/reuses/mortalite-foeto-infantile/
+https://data.public.lu/fr/reuses/dashboard-mortalite-generale/"
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"The professional training courses about data literacy for public servants like f.e. https://fonction-publique.public.lu/fr/formation-developpement/catalogue-formations/secteur-etatique/06compdig/06-1-digbase/et_06-1-1-161.html offers insights for participants from all horizons, and shows results visible at the level of participation and publication rate on the open data portal. Government also considers opendata as a general asset in regard of its interoperability framework (https://mindigital.gouvernement.lu/en/dossiers/2019/NIF-2019.html) and related trainings (https://fonction-publique.public.lu/fr/formation-developpement/catalogue-formations/secteur-communal/06compdig/06-1-digbase/co_06-1-2-210.html)
+Another interesting training, destined to all public, is about publishing opendata on the EU portal
+https://www.lifelong-learning.lu/formation/the-european-data-portal-how-to-provide-publish/en"
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.";No;;Confirm;;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"The AEV (Administration de l'Environnement) has currently published 7 datasets on air quality on OpenData: Air Quality Datasets. We do not know if these are also actually being used for the protection of biodiversity and thus cannot provide written proof so far.
+Regarding noise data, the data owners have already been in touch within the framework of a research group at the University of Salford to ensure that these data are used in the scope of projects about bird diversity."
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"The solar cadastre is an interesting dataset in this regard (https://data.public.lu/fr/datasets/analyse-densoleillement/) and it is used for analysis and project planning in the context of individuals as well as of collectivities, for example with the help of the geoportal functionalities (re-use of the data in the geoportal map application https://map.geoportail.lu/theme/energie?version=3&zoom=16&X=696269&Y=6379269&lang=en&rotation=0&layers=1818-1813-2537&opacities=1-1-1&time=----&bgLayer=basemap_2015_global) or other more specific re-uses. In the same context, the city of Luxembourg proposes online applications of this and correlated data (https://www.vdl.lu/fr/la-ville/engagements-de-la-ville/actions-environnementales/subventions-attribuables-en-vue-de-la-protection-du-climat/installations-pour-energies-renouvelables#cadastre-solaire), like the estimation of possible subsidies. Another interesting project is about an analysis on dangerous and inadequate pedestrian crossings https://data.public.lu/fr/organizations/zentrum-fir-urban-gerechtegkeet/, based on a re-use of open data.
+Some other, new, re-uses show a growing impact of open data in the context of more environment-friendly cities :
+https://data.public.lu/fr/reuses/energieauer-key-energy-figures-for-luxembourg/ with a dashboard provided by the national climate agency,
+https://data.public.lu/fr/reuses/whispers-of-the-wheel/ Whispers of the wheel, a dashboard about the availability of rental bikes in the city of Luxembourg
+https://data.public.lu/fr/reuses/air-quality-luxembourg/ , a dashboard about the air quality in Luxembourg"
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"1.	We consider that the following study has an impact on prevention: Climate and Energy: The Climate-Ecology Situation in Luxembourg (https://data.public.lu/fr/datasets/climate-and-energy-the-climate-ecology-situation-in-luxembourg/)
+Based on this study, the municipality of Esch, for example, conducted a more detailed analysis of their terrain. Additionally, the LIST (Luxembourg Institute of Science and Technology) has started a larger-scale and more detailed analysis.
+2.	From the national emission inventories, the following datasets are currently available on OpenData: Air Quality: https://data.public.lu/fr/datasets/air-quality-spatial-emissions-mapping-of-luxembourg/ and https://data.public.lu/fr/datasets/climate-and-energy-national-emission-inventories/
+More explanations can be found on emwelt.lu: Climate and Energy - Emission Inventory (https://environnement.public.lu/fr/klima-an-energie/changement-climatique/inventaire-ges0.html)
+These data also flow into the PNEC (National Energy and Climate Plan), where most of the measures are recorded: National Energy and Climate Plan Update (https://environnement.public.lu/content/dam/environnement/actualites/2023/juillet-2023/pnec/pnec-projet-de-mise-jour-luxembourg.pdf)
+Due to the obligation of fulfilling the HVD regulation, further publications will have to be made on the nation OpenData portal."
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;Hard to prove that there is a quantifiable impact in this domain from the re-use of open data, but we do have examples of reuses in the context of energy consumption. The first one hereafter demonstrates the different levels of energy consumption in transport, depending on the engine type https://data.public.lu/fr/reuses/comparaison-de-prix-des-carburants-par-motorisation/, which is good for the awareness of this topic. Another one (https://data.public.lu/fr/reuses/energieauer-key-energy-figures-for-luxembourg/) is about a visualisation of the key energy figures for the country. It is linked to the national energy and climate plan PNEC and aims at triggering an active participation in the energy transition.
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";No;;Confirm;No;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"We have been able to detect and document reuses on this topic:
+- https://data.public.lu/fr/reuses/tableaux-interactifs-sur-les-demandeurs-demploi-inscrits-a-ladem/ These are dashboards about unemployment in Luxembourg with lots of details, and the evolution of some data is also available. They have been developed by the public sector. They show that the category ""IT systems and telecommunication"" is one of the most important categories in terms of job offers. This information helped the Education ministry to develop a new concept of professional training in this domain, with the initiative DLH (digital learning hub) which started in 2022. The goal of DLH is to assist persons in  their professional transition to software development and other IT skills. It has been a great success, and an additional training institue  ""42Luxembourg"" has been created https://42luxembourg.lu/ which is an example of PPP.
+- https://data.public.lu/fr/reuses/unemployment-luxembourg-facilitons-lemploi-chiffres-cles/ this dashboard is quite similar but maybe more synthetic and has been developed by a private sector company.
+Both reuses are based on the same datasets."
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Examples: several projects aiming at implementing  AI-based technologies at governmental organisms have been relying on data available as opendata 
+https://gouvernement.lu/fr/dossiers.gouv_mindigital%2Bfr%2Bdossiers%2B2021%2BAI4Gov.html#bloub-1. Open data is also one of the key factors of interest in the recently launched  ""Data4Gov"" call series by the Ministry of digitalisation
+https://mindigital.gouvernement.lu/fr/dossiers/2023/data4gov.html"
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;No;
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;No;

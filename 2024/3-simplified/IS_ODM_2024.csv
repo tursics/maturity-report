@@ -1,0 +1,585 @@
+ID;Question;Answer from 2023;Explanation from 2023;Confirm, change or complement answer/explanation from 2023;Provide updated answer (if applicable);Provide updated explanation (if applicable)
+P1;"Is there a national open data policy in your country and, if your country is an EU Member State, does this include a national legislation for the transposition of the Open Data Directive?
+
+For Explanation:
+* If yes, please provide (1) the URL and (2) title of the policy document and (3) briefly describe.
+* If ‘other’, please provide (1) a brief explanation to support your answer choice and (2) provide the URL and indicate the policy section which explicitly references open data.";other;"Entry into force of the EEA Joint Committee Decision is pending incorporating the Open Data Directive into the EEA agreement. Work has begun in the Ministry of Higher Education, Science and Innovation on a draft legislation to be introduced to parliament in the autumn. Iceland previously implemented the PSI, see https://www.althingi.is/lagas/153b/2018045.html.
+There is not a specific national open data policy but it it is addressed in the following policies: 
+-The policy regarding digital public services (digital policy) where open data maturity is a metric, see https://island.is/en/o/digital-iceland/digital-strategy
+-The information policy of the government, which states that information and data sets should be digitally available for use and processing, see https://www.stjornarradid.is/verkefni/log-og-rettur/upplysingalog/upplysingastefna-stjornvalda/ 
+-The regulation on the publication of information at the initiative of the government, no 464/2018, see https://island.is/reglugerdir/nr/0464-2018
+-The Agreement on the Platform for the Coalition Government that work will continue on co-ordinating the processing, storage and presentation of public data, and on facilitating public access to data, see https://www.stjornarradid.is/rikisstjorn/stjornarsattmali/.";Change;Yes;"The Open Data Directive was incorporated into the Icelandic PSI legislation 30 April this year, see https://www.althingi.is/lagas/154b/2018045.html.
+There is not a specific national open data policy but it it is addressed in the following policies: 
+-The policy regarding digital public services (digital policy) where open data maturity is a metric, see https://island.is/en/o/digital-iceland/digital-strategy
+-The information policy of the government, which states that information and data sets should be digitally available for use and processing, see https://www.stjornarradid.is/verkefni/log-og-rettur/upplysingalog/upplysingastefna-stjornvalda/ 
+-The regulation on the publication of information at the initiative of the government, no 464/2018, see https://island.is/reglugerdir/nr/0464-2018
+-The Agreement on the Platform for the Coalition Government that work will continue on co-ordinating the processing, storage and presentation of public data, and on facilitating public access to data, see https://www.stjornarradid.is/rikisstjorn/stjornarsattmali/."
+P2;"Is there a national open data strategy in your country?
+
+For Explanation:
+* If yes, please provide (1) the URL to the strategy and (2) describe the main highlights.  
+* If 'not applicable', please provide (1) a brief explanation to support your answer choice and provide (2) the URL and indicate the policy section which explicitly references objectives, actions/measures, delivery timelines etc.";not applicable;"There is not a specific strategy for open data. 
+-According to regulation no 464/2018 public sector bodies must work systematically to make databases and files readily available electronically. To this end, each ministry shall make a timed plan for the disclosure of information on its own initiative and that of public sector bodies under its authority. The plan shall be published on the ministry's website. Public sector bodies are encouraged to publish their data on the website www.opingogn.is.
+-Iceland's digital strategy includes action on open data, including metrics for the score on the European Data Maturity index for open data, see https://island.is/en/o/digital-iceland/digital-strategy.  
+-Work has begun on an open science strategy in the Ministry of Higher Education, Science and Innovation and a Data Strategy is planned by the Ministry of Finance and Economic Affairs.
+ - Data Security Classification has already been published, https://www.stjornarradid.is/gogn/rit-og-skyrslur/stakt-rit/2023/05/19/Oryggisflokkar-gagna-islenska-rikisins-utgafa-1.2";Confirm;;
+P3;"Is there an open data policy/strategy at regional or local level?
+
+For Explanation:
+* If yes, please (1) provide the URL and (2) title of the document(s) and (3) briefly describe.";yes;Reykjavik has adopted an Information Strategy and an Information Policy Action Plan, see https://reykjavik.is/en/policies. The policy addresses open data sets should be in a standard form so they can be used to create new value, access is generally free and reproduction and distribution is allowed. The action plan states that Reykjavik should have a single point access for open data.;Confirm;;
+P4;"Does the national strategy/policy include an action plan with measures to be implemented in the open data field?
+
+For Explanation:
+If yes, please briefly describe the main measures described by the action plan.";yes;According to regulation no 464/2018 public sector bodies must work systematically to make databases and files readily available elctronically. To this end, each ministry shall make a timed plan for the disclosure of information on its own initiative and that of public sector bodies under its authority. The plan shall be published on the ministry's website. Public sector bodies are encouraged to publish their data on the website www.opingogn.is.;Confirm;;
+P5;"Does the national strategy/policy outline measures to incentivise the publication of and access to real-time or dynamic data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"Iceland is in the process of implementing a secure national data exchange infrastructure, Straumurinn, which relies on X-Road technology. All government agencies, municipalities and privately owned companies can connect to the X-Road for data exchange, see https://island.is/en/x-road.
+Response to reviewer: The X-Road makes it easier for government agencies and municipalities to share dynamic/real-time data. Iceland is in the process of implementing the Open Data Directive, and a bill will most likely be set forth in the parliament in October. ";Change;Yes;"Iceland has incorporated the Open Data Directive. According to the PSI legislation public sector bodies shall make dynamic data available for re-use immediatly after collecting, unless it exceeds the financial and technical capacities of the public sector body.
+Iceland is in the process of implementing a secure national data exchange infrastructure, Straumurinn, which relies on X-Road technology. All government agencies, municipalities and privately owned companies can connect to the X-Road for data exchange, see https://island.is/en/x-road.The X-Road makes it easier for government agencies and municipalities to share dynamic/real-time data. "
+P6;"Does the national strategy/policy outline measures to incentivise the publication of and access to citizen-generated data?
+
+For Explanation:
+* If yes, please briefly describe the measures.";no;;Confirm;;
+P7;"Does the national strategy/policy foster the discoverability of the aforementioned types of data from your country on data.europa.eu?
+
+For Explanation:
+* If yes, please briefly describe how.";no;;Confirm;;
+P8;"Does the national strategy/policy outline measures to support the reuse of open data by the public sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;"The Digital Policy states that public sector data should be accessible and exploitable and that as a general rule, data need only be recorded once in communication with the government and data travels between institutions instead of people, see https://island.is/en/o/digital-iceland/digital-strategy.
+With the implementation of Straumurinn, public sector can exhange data in a more efficient way than before.";Confirm;;
+P9;"Does the national strategy/policy outline measures to support the reuse of open data by the private sector?
+
+For Explanation:
+* If yes, please briefly describe the measures.";yes;A national data portal is operated to enable the private sector to reuse open data. The government has had datathon initiatives to increase awareness of the existing datasets, see https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2020/08/12/Gagnathon-fyrir-umhverfid-hefst-i-dag-/;Confirm;;
+P10-a;"Does the national strategy/policy mandate carrying out and maintaining a data inventory by public bodies, whether at national or local level?
+
+For Explanation:
+* If yes, please briefly specify.";no;;Confirm;;
+P10-b;"Do these data inventories include the data collected by public bodies that cannot be published as open data (e.g. in relation to the EU Data Governance Act (EU) 2022/868)? 
+
+For Explanation:
+* If yes, please briefly specify.";no;;Confirm;;
+P11;"Is your country applying the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+* If yes, how is it progressing? 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.
+** In the table below, please indicate your progress with respect to a) organisation, b) legal aspects, c) technical aspects on a scale from 1 to 5. 1 = no progress; 2 = few progress; 3 = some progress; 4 = considerable progress; 5 = works are finalised.";new question;new question;Change;Not applicable;
+P12;"Have the public bodies in your country denoted relevant datasets as high-value datasets in their metadata following the publication of the implementing regulation (EU) 2023/138 on high-value datasets?
+
+For Explanation:
+*  If yes, please specify how and highlight challenges, if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;
+P13;"Is there a governance structure in place that enables the participation and/or inclusion of various open data stakeholders? 
+
+For Explanation:
+*  If yes, please briefly describe the governance structure and its operating model ";new question;new question;Change;Yes;"The governance  structure is mostly informal. The ministry of higher education, science and innovation is responsible for open data in Iceland. We have meetings with the larger data holders, such as the biggest municipalities , Statistics Iceland and National Land Survey of Icleand.
+The meetings are mostly on an ad hoc basis or related to certain projects on open data. They involve different stakeholders but some stakeholders, for example Statics Iceland, we meet on a more regulat basis."
+P14;"How would you classify the model used for governing open data in your country? 
+
+For Explanation:
+*  Please briefly explain why this model was chosen/works best for your country";Hybrid;We have a decentralised public sector but the Ministry of Finance and Ministry of Higher Education, Science and Innovation are responsible for open data. Currently the stewardship is at ministerial level but execution at decentralised level. Our digital agency within ministry of finance is responsible for the data portal and works with institutions to make the data available. ;Confirm;;
+P15;"Does the governance structure ensure that the local and regional open data initiatives are facilitated and supported at national level?
+
+For Explanation:
+* If yes, please give an example of what kind of support.
+* If not applicable, please explain why.";new question;new question;Change;Yes;The governance  structure is mostly informal. The ministry of higher education, science and innovation is responsible for open data in Iceland. We have meetings with the larger data holders, such as the  municipalities and support regional data initiatives.
+P16;"To what degree do local/regional public bodies conduct open data initiatives? 
+
+For Explanation:
+* If not applicable, please explain why.";Few public bodies;;Confirm;;
+P17;"Is a document describing the responsibilities and governance structure of the national (and/or regional/local) open data team publicly available?
+
+For Explanation:
+* If yes, please provide the URL where this information is published. ";No;;Confirm;;
+P18;"Is there a regular exchange of knowledge or experiences between the national open data team and the team maintaining the national portal? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";Yes;"There are informal meetings.
+Response to reviever: The answer from 2022 is partially relevant. Open Data Policies moved from the Ministry of Finance to the Ministry of Higher Education, Science and Innovation in spring 2023. Both ministries are in the same building. The current open data policies team has had meetings with the team maintining the national portal, as well as communicating with e-mails. There is a project underway to relaunch the portal when Open Data Directive is implemented into Icelandic law";Change;Yes;"There are informal meetings.
+Open Data Policies moved from the Ministry of Finance to the Ministry of Higher Education, Science and Innovation in spring 2023. The current open data policies team has had meetings with the team maintining the national portal, as well as communicating with e-mails. There is a project underway to relaunch the portal when the high-value datasets regulation is implemented into national law. See     attachment 1.
+The meetings are at least twice a year, but will be more frequent now that the open data portal is being updated."
+P19;"Does the governance model include the appointment of official roles in civil services that are dedicated to open data (e.g. open data officers)?
+
+For Explanation:
+* If yes, please describe how this task is fulfilled at public body level.";Yes;"Digital Iceland holds various seminars during the year, see https://island.is/en/o/digital-iceland/conferences.
+Response to reviewer: There is currently one person within the Ministry of Higher Eductiona, Science and Innovation dedicated to open data (as well as other data regulations) and is tasked with preparing implementation of EU regulations. There is also an open data team, with other civil cervants who take part in the work.";Confirm;;
+P20;"Is there a regular exchange of knowledge or experiences between the national open data team and the wider network of open data officers in your country? 
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";Yes;"Digital Iceland holds various seminars during the year, see https://island.is/en/o/digital-iceland/conferences
+Response to reviewer: Yes. This year there has been a workshop with government bodies that hold HVDs that took place 9 June. There have also been both individual and joint meetings with open data officers of government bodies and there are planned meetings with open data officers of municipalities.";Change;Yes;"There have  been both individual and joint meetings with open data officers of government bodies and there are planned meetings with open data officers of municipalities.
+There is a yearly meeting of a network of open data officers in geospatial, which the open data team took part of. 
+The meetings take place at least once a year."
+P21;"Is there a regular exchange of knowledge or experiences between public sector bodies (i.e. the providers) and open data reusers (e.g. academia, citizens, businesses)?
+
+For Explanation:
+* If yes, please briefly describe how this exchange takes place and provide evidence supporting your answer (e.g. meeting agendas, URLs to news items).";Yes;Digital Iceland holds various seminars during the year, see https://island.is/en/o/digital-iceland/conferences;Complement;Yes;"There have been meetings with data users, including a work shop with users of open data in relation to artificial intelligence and a work shop with academia and reasearchers regarding open science. Both work shops were half day work shops.
+The meetings are ad hoc meetings and are not systematically set up."
+P22;"Do data publication plans exist at public body level?
+
+For Explanation:
+* If yes, please provide the URL and briefly highlight the key aspects covered. ";No;;Confirm;;
+P23;"Are there processes to ensure that the open data policies/strategy previously mentioned are implemented (e.g. monitoring)?
+
+For Explanation:
+* If yes, please specify the process(es).";Yes;"Yes through a yearly publication; https://www.stjornarradid.is/verkefni/efnahagsmal-og-opinber-fjarmal/opinber-fjarmal/arsskyrslur-radherra/";Confirm;;
+P24;"Do you update your policy/strategy as appropriate to ensure its success, such as based on data collected for monitoring?
+
+For explanation:
+* If yes, please describe the process and any recent updates made to strategy/policy";new question;new question;Change;No;"We are currently updating the data strategy for Iceland with an aim of having it ready for public consultation autumn 2024.
+This will be the first open data strategy, as previously the open data legislation has mostly provided the policy. There has not been made a decision how often the strategy will need to be updated. There will be broad consultation with various stakeholders.
+The legislation on open data was updated earlier this year, and was subject to open consulatation before being put forth in the parliament."
+P25;"Are there any processes in place to assess if public sector bodies are charging for data above marginal cost? (please see directive (EU) 2019/1024 on open data and the reuse of public sector information).
+
+For Explanation:
+* If yes, please specify the process(es).";Yes;Yes, the party being charged can appeal the decision to the Complaints committee on Information Matters , according to the Information Act no 140/2012 and the Administrative Act no 37/1993. Furthermore, the party can lodge a complaint to the Althingi Ombudsman or take the matter before Icelandic courts.;Confirm;;
+P26-a;"What are the top 3 challenges that your country is facing in the implementation of the mentioned open data policies/strategy?
+
+For Explanation:
+* Please briefly describe.";N/A;1) Open data calls for collaboration between different ministries and public bodies 2) Clearer governance structure 3) More focused on concrete actions/measures;Confirm;N/A;
+P26-b;"Are there activities in place to address these challenges in your country (e.g. with specific national/regional/local plans or initiatives)?
+
+For Explanation:
+* If yes, please briefly describe the measures that you have adopted or plan to adopt to address these challenges. 
+* If no, please specifiy what is hampering finding a strategic approach to solve these challenges.";Yes;The PSI legislation now fall under the Ministry of Higher Education, Science and Innovation since February 2023 which will take the lead in matters regarding Open Data. There is currently work being done on a clearer governance structure and an action plan in connection to the implementation of  the Open Data Directive and HVD.;Confirm;;
+P27;"Are there any activities in place to assist data holders with publishing their data as open data (i.e. to help them with the data opening process)?
+
+For Explanation:
+* If yes, please describe/provide examples of these activities.";new question;new question;Change;Yes;"Data holders can get assistance from Digital Iceland with publishing data as open data.
+Data holders can contact Digital Iceland directly and get the assistance needed for publishing their data on the open data portal."
+P28;"Is there a professional development or training plan for civil servants working with data in your country? 
+
+For Explanation:
+* If yes, please briefly describe these training activities.";yes;Those working with data, have opportunities to systematically expand their knowledge and expertise by attending seminars, workshops, courses, etc. These activities may be financed either through individual work places and/or educational funds via their unions.;Confirm;;
+P29;"Are there annually held national, regional or local events (e.g. hackathons, courses, conferences, users meet-ups, summer/winter schools) to promote open data and open data literacy in your country beyond the target group of public servants? 
+ 
+For Explanation:
+* If yes, please provide examples (e.g. title, date, location of the event and URL).";Yes, 3-5;"Digital Iceland holds conferences, see https://island.is/en/o/digital-iceland/conferences
+Statistics Iceland holds annually a competition for 15-18 year olds to promote open data literacy, see https://www.greindubetur.is/verkefnin & https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2020/08/12/Gagnathon-fyrir-umhverfid-hefst-i-dag-/";Complement;Yes, 3-5;"For exampla
+Datathon: https://www.rikiskaup.is/is/moya/news/gagnathon-rikiskaupa-1
+Workshop for user of open data, 5 March 24."
+PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+
+For Explanation:
+* If yes, please provide the URL of the national portal.";yes;www.opingogn.is and https://island.is/en/o/digital-iceland/webservices;Confirm;;
+PT2;"For Explanation:
+* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)";new question;new question;Change;Yes;CKAN
+PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;No;
+PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.";new question;new question;Change;No;
+PT5;"Does the national portal offer/link to documentation on the use of APIs?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";new question;new question;Change;No;
+PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+
+For explanation:
+* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature.";new question;new question;Change;No;
+PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;https://island.is/s/stafraent-island/hafa-samband;Confirm;;
+PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";yes;"See under ""documentations/Responsible party"" feature where you can contact the relevant agency https://island.is/en/o/digital-iceland/webservices
+Response to reviewer: The user does not need to email the data provider but they need to state the topic, name, e-mail and feedback.";Confirm;;
+PT10;"Does the national portal provide a mechanism for users to rate datasets?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no;;Confirm;;
+PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";no ;;Confirm;;
+PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature.  ";No;"Through contacting various institutions that produce data on the portal under ""responsible party"" https://island.is/en/o/digital-iceland/webservices
+Response to reviewers: No";Confirm;;
+PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+
+For Explanation:
+* If yes, please describe how this monitoring is conducted.";no;;Confirm;;
+PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature or describe how this functionality is provided.";no;;Confirm;;
+PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";no;;Confirm;;
+PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+
+For Explanation:
+* If yes, please provide the URL to this feature/to an example documenting this feature.";no;;Confirm;;
+PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature. ";no;;Confirm;;
+PT20;"Does the national portal offer a preview function for tabular data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";no;;Confirm;;
+PT21;"Does the national portal offer a preview function for geospatial data?
+
+For Explanation:
+* If yes, please provide the URL to an example documenting this feature.";no;;Confirm;;
+PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;
+PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
+
+For Explanation:
+* If yes, which tool(s) do you use?";yes;Plausible;Confirm;;
+PT24;"Do you run analytics on API usage?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";yes;N/A;Confirm;;
+PT25;"Besides monitoring portal traffic, do you perform any further activities to better understand the behaviour and needs of users of your portal (e.g. web analytics, surveys, or analysis of social media feeds)?
+
+For Explanation:
+* If yes, please (1) specify the activities and explain (2) how they help you understand user needs";yes;Many different actions are taken to understand users, the most effective thing for us is that we register all communication with users who contact us (phone, email, chat, bot) Why did the user contact us? Out of what issues? We compile statistics for all communications once a week and assess whether improvements need to be made.;Confirm;;
+PT26;"Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?
+
+For Explanation:
+* If yes, please explain your process for improving the portal based on user insights and feedback
+* If relevant, kindly highlight some improvements made in the past year";new question;new question;Change;No;
+PT27;"Do you undertake any activities to promote the portal and attract new users or new audiences?
+
+For explanation:
+* If yes, please (1) explain what activities your perform, and (2) mention if these activities are directed at any specific target audience (e.g. business, public sector, academia, etc.)";new question;new question;Change;No;
+PT28;"Do you monitor what keywords are used to search for data and content on the portal?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal";new question;new question;Change;No;
+PT29;"Do you monitor the most and least consulted pages?
+
+For Explanation:
+* If yes, please briefly (1) describe your process and (2) how you use the insights to improve the portal
+* For informational purposes, kindly provide the URLs to the five most popular datasets on the portal";new question;new question;Change;No;
+PT30;"Do you take measures to optimise the search and discoverability of content (data and editorial)? 
+
+For Explanation:
+*If yes, please briefly describe how your optimise the search";yes;The site is really small at the moment so it's easy to find your way around it - the site is designed to meet users needs and is designed so everything can be found easilly. https://island.is/s/stafraent-island/thjonustur/vefir-stofnana;Confirm;;
+PT31;"Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it? 
+
+For Explanation:
+*If yes, please provide the URL to an example documenting this feature.";yes;;Confirm;;
+PT32;"To what degree do public sector data providers contribute data to the portal? 
+
+For Explanation:
+*Please describe what is the agreed approach.
+* If less than the majority of data providers, please briefly explain why (e.g. technical incompatibilities, governance aspects, low awareness etc.).";few public sector data providers;The portal is still young and is a work in progress;Confirm;;
+PT33;Do you identify the data providers that are not yet publishing data on the national portal?;yes, or all public sector data providers already publish data;N/A;Confirm;;N/A
+PT34;"Were there concrete actions taken to assist these data providers with their publication process?
+
+For Explanation:
+* If yes, could you provide some examples of the actions taken in this regard.";yes, or all public sector data providers already publish data;Digital Iceland has a priority list to what institution to work with and work based on what is high value datasets;Confirm;;
+PT35;"Besides the national open data portal, are there other regional and local portals? 
+
+For Explanation:
+* If yes, please provide a complete list and the links to these portals.";yes;"Many institutions provide data on their own site, the biggest portal is the geo-spatial portal; https://www.lmi.is/ and our old data portal; https://opingogn.is/, statistical office https://hagstofa.is/, energy portal https://nea.is/the-national-energy-authority/energy-data/, Icelandic Regional Development Institute https://byggdastofnun.data.is/account/public-report?id=b36b8664-016c-4ce5-ab26-b164cd2ce29c, Reykjavik municipality open data https://data-reykjavik.opendata.arcgis.com/";Confirm;;
+PT36;"Are regional and local portals listed above and their data sources discoverable via the national portal? 
+
+For Explanation:
+* If not applicable, please briefly explain why. ";no;;Change;Yes;There is a link to regional and local portals in the data portal, so that they are discoverable. For example https://opingogn.is/dataset?organization=reykjavikurborg
+PT37;"To what degree are  regional and local sources harvested automatically? 
+
+For Explanation:
+* If less than the majority of existing sources is harvested by the national portal, please briefly explain why.                        
+* If not applicable, please briefly explain why. ";None of the datasets;Response to reviewer: No;Confirm;;
+PT38;"Does the national portal include datasets that are real-time or dynamic?
+
+For Explanation:
+* If yes, please provide URLs to real-time and/or dynamic data featured via the national portal. ";yes;"https://island.is/en/o/digital-iceland/webservices
+Response to reviewer: Real-time and/or dynamic data is gernerally sectoral and not provided in the national portal, for example air quality https://loftgaedi.is/?zoomLevel=7&lat=64.894972&lng=-18.675028, traffic https://www.vegagerdin.is/upplysingar-og-utgafa/gagnaveita-vegagerdarinnar/umferdarteljarar/ and weather https://www.vedur.is/um-vi/vefurinn/xml/";Confirm;;
+PT39;"Does the national portal provide a way for non-official data (i.e. not stemming from official sources, such as community-sourced/citizen-generated data) to be published? 
+
+For Explanation:
+* If yes, please explain how non-official data is distiguished for offical data (e.g. using a different section of the portal or tags) 
+* And please provide a URL to an example of a non-official dataset on the portal ";new question;new question;Change;No;
+PT40;"Does the national portal allow users to see what data exists but cannot be made available as open data?
+
+For Explanation:
+* If yes, please (1) provide the URL to an example and (2) briefly describe the approach used to ensure this transparency.";yes;https://island.is/en/developers/webservices through the filter search you can choose open and therefore see what is open and the rest is not.;Confirm;;
+PT41;"Does the national portal have a strategy to ensure its sustainability?
+
+For Explanation:
+* If yes, please (1) provide the URL to this document and (2) describe the main measures to keep the portal running in the long-term and continue to serve its audience";new question;new question;Change;No;
+PT42;"Is your national portal active on social media? 
+
+For Explanation:
+* If yes, please provide the URL(s) to your social media accounts. ";yes;https://www.facebook.com/islandid;Confirm;;
+PT43;"Are the portal’s source code and relevant documentation and artefacts made available to the public (e.g. on platforms such as GitHub or GitLab)?
+
+For Explanation:
+*If yes, please provide the (1) platform name and (2) the URL to the portal’s account on this platform.";yes;https://island.is/en/o/digital-iceland/development;Confirm;;
+PT44;"Do you monitor the characteristics of the data published on the portal, such as the distribution across categories, static vs. real-time data and how these change over time?
+
+For Explanation:
+* If yes, please provide the direct-URL to this feature";no;;Confirm;;
+PT45;"Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?
+
+For Explanation:
+* If yes, please (1) explain how and (2) if applicable provide the direct-URL to this feature.";no;;Confirm;;
+Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+
+For Explanation:
+* If yes, please briefly describe your approach.";yes;By requiring OpenAPI 3 compliance basic description of data is implied and required.;Confirm;;
+Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+
+For Explanation:
+* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to";new question;new question;Change;<30%;The portal is being revised and a new or updated portal will be used autumn24/winter25.
+Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+
+For Explanation:
+* Please explain the approach for updating metadata in a timely manner";new question;new question;Change;Longer than one month or I don't know;I don't know what is the average delay.
+Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+
+For Explanation:
+* If yes, please explain the measures in place to ensure complete series of datasets";new question;new question;Change;Yes;"The efforts are taken within the public bodies that gather the data.
+Public bodies can ask Digital Iceland for assistance in this matter."
+Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;
+Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+
+For Explanation:
+* If yes, please specify how and highlight challenges if any.
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;
+Q7;"Do you monitor the quality of the metadata available on your portal?
+
+For Explanation:
+* If yes, please briefly explain how this monitoring takes place. 
+* If applicable, please provide the URL to this monitoring mechanism.";yes;Reponse to reviewer: Quality of metadata is monitored on sectoral portals such as https://gatt.lmi.is/geonetwork/srv/ice/catalog.search#/home. The monitoring is done by National Land Survey of Iceland;Confirm;;
+Q8;"Do you publish information on the quality of the metadata available on the portal?
+
+For Explanation:
+* If yes, please provide the URL to this section. ";no;The Digital Iceland teams has this as a part of their processes for each API included. ;Confirm;;
+Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+
+For Explanation:
+* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools.";new question;new question;Change;No;
+Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+
+For Explanation:
+* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe ";new question;new question;Change;No;
+Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+
+For Explanation:
+* If yes, is this mandatory (e.g. prescribed by law) or recommended?
+* Please provide a URL link to the guidelines";new question;new question;Change;Yes;Licensing is not prescribed by laws but there is a recommendation in https://opingogn.is/pages/notkunarleidbeiningar
+Q12;What percentage of the open data available on the national portal is accompanied by licensing information? ;<10%;N/A;Confirm;;N/A
+Q13;How many different licences are used on your portal?;1-4;N/A;Confirm;;N/A
+Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+
+For Explanation:
+* If yes, please explain the support you provide?";new question;new question;Change;No;N/A
+Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+
+For explanation:
+* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
+* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured";new question;new question;Change;No;The open data portal has relied on CKAN API
+Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource);no priority;The legislation does not specify what type of standards should be used and it is therefore not mandatory but recommended.;Change;<10%;N/A
+Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document);no priority;The legislation does not specify what type of license should be used and it is therefore not mandatory but recommended.;Change;<10%;N/A
+Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency);no priority;The legislation does not specify what type of license should be used and it is therefore not mandatory but recommended.;Change;<10%;N/A
+Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+
+For Explanation:
+* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
+* If applicable, please provide the URL to the documentation of the national DCAT-AP extension.";no ;;Confirm;;
+Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+
+For Explanation:
+* If yes, what are the main causes for the lack of DCAT-AP compliance?";new question;new question;Change;No;
+Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?;0 %;N/A;Change;<10%;N/A
+Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?;0 %;N/A;Change;<10%;N/A
+Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+
+For Explanation:
+* If yes, please briefly describe.";yes;The practical guidelines on open data for public sector bodies is in part based on the 5-Star Open Data model, see https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2015/11/19/Efni-fra-namskeidi-um-opin-gogn/;Confirm;;
+Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+
+For Explanation:
+* If yes, please briefly describe.";yes;"Through conferences and meetings with institutions.
+Response to reviewer: The promotion is more on a sectoral basis, with institution who are owners of similar type of data (for example geo-spatial or data that is the basis for publishing of statistics), meeting in conferences or smaller meetings. 
+";Confirm;;
+Q25;What percentage of datasets are made available under an open licence? ;<10%;N/A;Confirm;;N/A
+Q26;What percentage of licences are provided in a structured data format?;>90%;N/A;Confirm;;N/A
+Q27;What percentage of datasets are provided in an open and machine-readable format?;>90%;N/A;Confirm;;N/A
+Q28;What percentage of datasets consistely use Uniform Resource Identifiers?;<10%;N/A;Confirm;;N/A
+Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?;<10%;N/A;Confirm;;N/A
+I1;"Do you have a definition of open data reuse in your country?
+ 
+For Explanation:
+* If yes, please specify it.";yes;There is a definition of the reuse of public information in Article 1 (2) of legislation implementing the PSI, see https://www.althingi.is/lagas/153b/2018045.html. It states that: Reuse of public information refers to the fact that a private party uses such information for a different purpose than was intended when it was obtained by a public party. Sharing of information between public bodies in the interest of their work is not considered to be reuse of information in this sense.;Confirm;;
+I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer.";yes;"https://docs.devland.is/technical-overview/api-design-guide 
+Response to reviewer: There is a possibility to monitor what datasets are being used but it is not accessable online.";Confirm;;
+I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+ 
+For Explanation:
+* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer.";yes;"There have been datathons and training for civil servants in the past, see https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2015/11/19/Efni-fra-namskeidi-um-opin-gogn/ and https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2020/08/12/Gagnathon-fyrir-umhverfid-hefst-i-dag-/
+Additionally, institutions, particularly those working with high value datasets, have their own courses of action to make data available.";Confirm;;
+I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+ 
+For Explanation:
+* If yes, please specify how and highlight challenges if any. 
+* If you are an EFTA or a candidate country to the EU, please select 'not applicable'.";new question;new question;Change;Not Applicable;
+I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+ 
+For Explanation:
+* If yes, how do you define the impact of open data in your country? 
+* If possible, please provide a URL to a public document describing it.";yes;Iceland measures number of high value datasets available, see under KPI (Mælikvarðar) - https://island.is/s/stafraent-island/stafraen-stefna;Confirm;;
+I6;"Do you have a methodology in place to measure the impact of open data in your country?
+ 
+For Explanation:
+* If yes, please briefly describe the key points of this methodology.";No;"Iceland measures number of high value datasets available, see under KPI (Mælikvarðar) - https://island.is/s/stafraent-island/stafraen-stefna
+Response to reviewer: 
+Additionally the score on the European Data Maturity index is used to assess among other re-use of data.";Confirm;;
+I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+
+For Explanation:
+* If yes, please provide an example
+* If possible, URLs to such projects and collaborations.";I don't know;;Change;Yes;Yes, there was a datathon with two univercities and one municipality https://www.rikiskaup.is/is/moya/news/gagnathon-rikiskaupa-1
+I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+
+For Explanation:
+* If yes, which of the following activities?
+* Multiple answers are possible.";yes;N/A;Change;Yes;N/A
+I8-a;Automated feedback mechanisms tracking users´ access to datasets;new question;new question;Change;No;
+I8-b;Surveys;new question;new question;Change;Yes;The ministry of higher education, science and innovation has publicly wished for feedback from users of open data in relation to a change in the PSI legislation
+I8-c;Interviews/workshops with reusers;new question;new question;Change;Yes;The ministry of higher education, science and innovation has held workshops both with public bodies and users of open data 2023 to understand better which data is being reused and how it is being reused.
+I8-d;Other;new question;new question;Change;No;
+I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+
+For Explanation:
+* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
+* Multiple answers are possible.";I don't know;N/A;Change;No;N/A
+I9-a;Regular feedback sessions with portal users ;new question;new question;Change;No;
+I9-b;Social media sentiment analysis ;new question;new question;Change;No;
+I9-c;Other;new question;new question;Change;No;"Reykjavík has launched a ""data buffet"" where citizens and others can access open data in a simple manner. The city has encouraged users to give feedback. "
+I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: How does the gathering happen? ";I don't know;;Confirm;No;
+I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+
+For Explanation:
+* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?";I don't know;;Confirm;No;
+I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.";I don't know;;Confirm;;
+I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Yes, for example the open access of the National Planning Agency to country wide spatial planning.  https://luk.skipulag.is/adalskipulagssja/
+Private and public entities can download spatial planning data."
+I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes; www.opinberumsvif.is which is making government spending more transparent in addition to www.rikisreikningur.is and www.opnirreikningar.is, where all invoices sent to government entities are available. There are numerouse use cases where journalists have followed up on issues after seeing for example invoices made by certain companies to public entities.
+I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;Key figures on how public entities (gov't and municipalities) are operated in terms of expenditure and revenue. The data is used as evidence in providing coherent and logical status of public operations - https://opinberumsvif.is/ 
+I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Open data has impacted decision-making processing when managing the situation regarding the active volcanic zone in the Reykjanes peninsula.
+https://atlas.lmi.is/mapview/?application=umbrotasja"
+I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data.";I don't know;;Confirm;;
+I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;I don't know;
+I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;I don't know;
+I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;I don't know;
+I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;Statistics Iceland uses open data to enhance data literacy for 14-18 year olds by holding an annual competition https://www.greindubetur.is/
+I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data.";No;"Open data are used to monitor waste and waste management in municipalities, see https://urgangur.is/maelabord/
+A number of projects resulted from a hackathon for the environment https://gagnathon.devpost.com/project-gallery
+Response to reviewers: No.";Change;I don't know;
+I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;"Open data are used to monitor waste and waste management in municipalities, see https://urgangur.is/maelabord/
+A number of projects resulted from a hackathon for the environment https://gagnathon.devpost.com/project-gallery"
+I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;Information on ambient air quality for Iceland is available at https://xn--loftgi-tua4f.is/en?zoomLevel=7&lat=64.894972&lng=-18.675028. Municipalities use this information to advise citizens on using less polluting modes of transport by for example offering free fares on buses.
+I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;Strætó, public transportation company of the municipalities of the Reykjavik area, gives third parties access to route system data, see https://straeto.is/en/about-straeto/open-data. Tourists, for example, can therefore receive information on the public transport through apps such as google maps.
+I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;The Icelandic Automobile Association provides information on where electric vehicle charging is, regardless of service provider, see https://www.fib.is/is/billinn/rafbilar/notkun
+I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+
+For Explanation:
+* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
+
+";No;"Investment initiative in innovation in health funded twelve innovation projects and organised the hackathon""Hack the crisis Iceland"". The Futuristics project was chosen the best project but that uses data from the University hospital to predict the number of patients in the emergency department https://www.youtube.com/watch?v=tme9fo-133U.
+Response to reviewer: No";Confirm;;
+I28;"Is the use of open data in your country having an impact on the level of employment? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;I don't know;
+I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes; https://www.snerpapower.com/about is using open datasets to assist users adjust their energy consumption, especially big users. What open datasets they use is however not official, as it is a part of their business strategy.
+I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;Yes;The example provided above is good example of entrepreneurship of women, as the company was founded by two women.
+I31;"Is the use of open data in your country having an impact on the level of productivity? 
+
+For Explanation:
+* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain.";new question;new question;Change;I don't know;

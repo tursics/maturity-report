@@ -2,8 +2,18 @@ var countries = (function () {
     var idElement = 'countries',
         csvPath = '{year}/3-simplified/{country}_ODM_{year}{language}.csv';
         loadList = {
-            2024: ['fr','pl','ua','sk','ie','es','lt','cz','cy','ee','it','lv','dk','si','no','pt','at','rs','lu','ch','se','nl','fi','hu','de','be','ro','hr','bg','el','is','al','mt','ba'],
-            2023: ['fr','pl','ua','ee','es','cy','lt','ie','it','sk','at','dk','no','si','cz','de','pt','fi','nl','lu','se','lv','hu','ch','rs','bg','be','ro','me','el','hr','is','mt','al','ba'],
+            2024: [
+                {n:'fr',s:2510},{n:'pl',s:2460},{n:'ua',s:2445},{n:'sk',s:2405},{n:'ie',s:2395},{n:'es',s:2388},{n:'lt',s:2370},{n:'cz',s:2365},{n:'cy',s:2360},{n:'ee',s:2360},{n:'it',s:2360},
+                {n:'lv',s:2280},{n:'dk',s:2273},{n:'si',s:2253},{n:'pt',s:2240},{n:'no',s:2238},{n:'at',s:2193},{n:'rs',s:2125},{n:'lu',s:2100},
+                {n:'ch',s:2018},{n:'se',s:2005},{n:'nl',s:1998},{n:'fi',s:1970},{n:'hu',s:1945},{n:'de',s:1890},{n:'be',s:1875},
+                {n:'ro',s:1750},{n:'hr',s:1740},{n:'bg',s:1545},{n:'el',s:1430},{n:'is',s:1310},{n:'al',s:1195},{n:'mt',s:1195},{n:'ba',s:385}
+            ],
+            2023: [
+                {n:'fr',s:2497},{n:'pl',s:2485},{n:'ua',s:2443},{n:'ee',s:2440},
+                {n:'es',s:2405},{n:'cy',s:2383},{n:'lt',s:2373},{n:'ie',s:2351},{n:'it',s:2345},{n:'sk',s:2324},{n:'at',s:2298},{n:'dk',s:2297},{n:'no',s:2294},{n:'si',s:2288},{n:'cz',s:2224},
+                {n:'de',s:2164},{n:'pt',s:2164},{n:'fi',s:2123},{n:'nl',s:2111},{n:'lu',s:2102},{n:'se',s:2055},{n:'lv',s:2040},{n:'hu',s:2018},{n:'ch',s:2002},{n:'rs',s:1914},{n:'bg',s:1883},{n:'be',s:1843},
+                {n:'ro',s:1653},{n:'me',s:1587},{n:'el',s:1545},{n:'hr',s:1518},{n:'is',s:1466},{n:'mt',s:1322},{n:'al',s:1068},{n:'ba',s:365}
+            ],
         };
     var data = {};
 
@@ -27,7 +37,7 @@ var countries = (function () {
             node.innerHTML = year;
             document.getElementById(idElement).appendChild(node);
 
-            loadList[year].forEach((item) => {funcAdd(item, year)});
+            loadList[year].forEach((item) => {funcAdd(item.n, year)});
 
             node = document.createElement('br');
             document.getElementById(idElement).appendChild(node);

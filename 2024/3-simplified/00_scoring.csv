@@ -1,6 +1,6 @@
 ID;Weight;value1;score1;value2;score2;value3;score3;value4;score4;value5;score5;value6;score6
 P1;40;no;0;yes;40;other;40;;;;;;
-P2;40;no;0;yes;40;;;;;;;;
+P2;40;no;0;yes;40;not applicable;40;;;;;;
 P3;20;no;0;yes;20;not applicable;20;;;;;;
 P4;20;no;0;yes;20;;;;;;;;
 P5;20;no;0;yes;20;;;;;;;;
@@ -116,11 +116,11 @@ I8-a;0;no;0;yes;0;;;;;;;;
 I8-b;0;no;0;yes;0;;;;;;;;
 I8-c;0;no;0;yes;0;;;;;;;;
 I8-d;0;no;0;yes;0;;;;;;;;
-I9;40;no;0;yes;40;;;;;;;;
+I9;40;i don't know;0;no;0;yes;40;;;;;;
 I9-a;0;no;0;yes;0;;;;;;;;
 I9-b;0;no;0;yes;0;;;;;;;;
 I9-c;0;no;0;yes;0;;;;;;;;
-I10;20;no;0;yes;20;;;;;;;;
+I10;20;i don't know;0;no;0;yes;20;;;;;;
 I11;20;i don't know;0;no;0;yes;20;;;;;;
 I12;20;i don't know;0;no;0;yes;20;;;;;;
 I13;15;i don't know;0;no;0;yes;15;;;;;;

@@ -2,7 +2,7 @@ var countries = (function () {
     var idElement = 'countries',
         csvPath = '{year}/3-simplified/{country}_ODM_{year}{language}.csv';
         loadList = {
-            2024: ['fr','pl','ua','sk','ie','es','lt','cz','cy','ee','it','lv','dk','si','no','pt','at',     'lu','ch','se','nl','fi','hu','de','be',     'ro'],
+            2024: ['fr','pl','ua','sk','ie','es','lt','cz','cy','ee','it','lv','dk','si','no','pt','at','rs','lu','ch','se','nl','fi','hu','de','be','ro','hr'],
             2023: ['fr','pl','ua','ee','es','cy','lt','ie','it','sk','at','dk','no','si','cz','de','pt','fi','nl','lu','se','lv','hu','ch','rs','bg','be','ro','me','el','hr','is','mt','al','ba'],
         };
     var data = {};

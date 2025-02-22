@@ -19,10 +19,14 @@ var countries = (function () {
 
     function funcInit() {
         var linePrefixes = [
-            '<span data-i18n="countries" style="margin-right: .5em">' + _.get('countries') + '</span>',
+//            '<span data-i18n="countries" style="margin-right: .5em">' + _.get('countries') + '</span>',
 			'<span class="vlist">' +
-				'<a href="#" data-i18n="countriesAll" onclick="goto(\'allCountries\',event)">' + _.get('countriesAll') + '</a><br>' +
-				'<a href="#" data-i18n="countriesNone" onclick="goto(\'noCountries\',event)">' + _.get('countriesNone') + '</a>' +
+				'<a href="#" data-i18n="countriesAll" onclick="goto(\'allCountries\',event,2024)">' + _.get('countriesAll') + '</a><br>' +
+				'<a href="#" data-i18n="countriesNone" onclick="goto(\'noCountries\',event,2024)">' + _.get('countriesNone') + '</a>' +
+			'</span>',
+			'<span class="vlist">' +
+				'<a href="#" data-i18n="countriesAll" onclick="goto(\'allCountries\',event,2023)">' + _.get('countriesAll') + '</a><br>' +
+				'<a href="#" data-i18n="countriesNone" onclick="goto(\'noCountries\',event,2023)">' + _.get('countriesNone') + '</a>' +
 			'</span>'
         ];
         Object.keys(loadList).reverse().forEach((year) => {

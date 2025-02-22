@@ -59,9 +59,9 @@ function goto(destination, event, year) {
     } else if ('search' === destination) {
         toggleSearch();
     } else if ('allCountries' === destination) {
-        addAllCountries();
+        addAllCountries(year);
     } else if ('noCountries' === destination) {
-        removeAllCountries();
+        removeAllCountries(year);
     } else if ('upwards' === destination) {
         questionAnswer.jumpUpwards();
     } else if ('prev' === destination) {
@@ -104,8 +104,8 @@ function toggleCountry() {
     }
 }
 
-function addAllCountries() {
-    var selectedLang = document.querySelectorAll('figure.shield-button[data-country]:not(.selected)');
+function addAllCountries(year) {
+    var selectedLang = document.querySelectorAll('figure.shield-button[data-country][data-year="' + year + '"]:not(.selected)');
     selectedLang.forEach((elem) => {
         var country = elem.dataset.country;
         var year = elem.dataset.year;
@@ -114,8 +114,8 @@ function addAllCountries() {
     })
 }
 
-function removeAllCountries() {
-    var selectedLang = document.querySelectorAll('figure.shield-button[data-country].selected');
+function removeAllCountries(year) {
+    var selectedLang = document.querySelectorAll('figure.shield-button[data-country][data-year="' + year + '"].selected');
     selectedLang.forEach((elem) => {
         var country = elem.dataset.country;
         var year = elem.dataset.year;

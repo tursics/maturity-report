@@ -791,6 +791,9 @@ input[type="search"]:focus-visible {
 .shield.blue-sky > .shield-background > .shield-chevron {
     color: aliceblue;
 }
+.shield.blue-sky.selected > .shield-background > .shield-chevron {
+    color: steelblue;
+}
 .shield.blue-sky > .shield-background > .shield-chevron svg g {
     fill: aliceblue;
     stroke: aliceblue;

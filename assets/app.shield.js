@@ -190,8 +190,8 @@ class Shield {
             year = Object.keys(obj.id)[0];
         }
 
-        var tooltip = _.get(obj.id[year]).split('<br>')[0];
-        var str = '<span onclick="goto(\'' + obj.id[year] + '\',null,' + year + ')" data-i18n-title="' + (obj.id[year]) + '" title="' + tooltip + '" class="answerbox ' + color + '" style="' + style + '"></span>';
+        var tooltip = _.get(obj.id[year], year).split('<br>')[0];
+        var str = '<span onclick="goto(\'' + obj.id[year] + '\',null,' + year + ')" data-i18n-title="' + (obj.id[year]) + '" data-year="' + year + '" title="' + tooltip + '" class="answerbox ' + color + '" style="' + style + '"></span>';
 
         if (!showGray && (color === 'bg-gray')) {
             str = '';

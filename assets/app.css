@@ -386,8 +386,22 @@ input[type="search"]:focus-visible {
     width: 5em;
 }
 .shield-flag.year-2023 {
-    background: deeppink;
-    color: #fff;
+    background: #694d00;
+    color: goldenrod;
+}
+.shield.indian-red .shield-flag {
+    background: #b14446;
+}
+.shield.indian-red .shield-flag.year-2023 {
+    background: #7a2f30;
+    color: #d66464;
+}
+.shield.sea-green .shield-flag {
+    background: #089455;
+}
+.shield.sea-green .shield-flag.year-2023 {
+    background: #044b2b;
+    color: mediumseagreen;
 }
 .shield-ribbon {
     background: goldenrod;

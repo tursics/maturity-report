@@ -213,7 +213,7 @@ function hideSearch() {
     button1.style.display = 'none';
 }
 
-function formatHit(country, id, text, value, pos) {
+function formatHit(country, year, id, text, value, pos) {
     var start = Math.max(0, pos - 15);
     start = text.lastIndexOf(' ', start);
     start = start === -1 ? 0 : start;
@@ -226,11 +226,11 @@ function formatHit(country, id, text, value, pos) {
 
     ret += '<div class="result-header">';
     ret += '<span class="fi fi-' + country + ' fis"></span> ';
-    ret += '<span data-i18n="Question">' + _.get('Question') + '</span>' + ' ' + id;
+    ret += '<span data-i18n="question">' + _.get('question') + '</span>' + ' ' + id + ', ' + year;
     ret += '</div>';
 
     ret += '<div class="result-body">';
-    ret += '<a href="#" data-id="' + id + '" onclick="onResult(this, event)">';
+    ret += '<a href="#" data-id="' + id + '" data-year="' + year + '" onclick="onResult(this, event)">';
     if (start > 0) {
         ret += '&hellip;';
     }
@@ -244,10 +244,11 @@ function formatHit(country, id, text, value, pos) {
     return ret;
 }
 
-function findInTranslations(flag, questions, value) {
+function findInTranslations(flag, questions, year, value) {
     var ret = '';
+    questions = Object.entries(questions);
 
-    questions.forEach((question) => {
+    questions.forEach(([key, question]) => {
         var pos = '';
         var str = '';
 
@@ -258,7 +259,7 @@ function findInTranslations(flag, questions, value) {
         str = _.get(headlineKey).replace(/<br\s*\/?>/gi,' ');
         pos = str.toLowerCase().indexOf(value);
         if (pos !== -1) {
-            ret += formatHit('eu', question.ID, str, value, pos);
+            ret += formatHit('eu', year, question.ID, str, value, pos);
         }
 
         var guideKey = 'G' + question.ID;
@@ -266,28 +267,60 @@ function findInTranslations(flag, questions, value) {
         if (str !== ('{' + guideKey + '}')) {
             pos = str.toLowerCase().indexOf(value);
             if (pos !== -1) {
-                ret += formatHit('eu', question.ID, str, value, pos);
+                ret += formatHit('eu', year, question.ID, str, value, pos);
             }
         }
 
-        pos = question.Answer.toLowerCase().indexOf(value);
-        if (pos !== -1) {
-            ret += formatHit(flag, question.ID, question.Answer, value, pos);
+        if (question.Answer) {
+            pos = question.Answer.toLowerCase().indexOf(value);
+            if (pos !== -1) {
+                ret += formatHit(flag, year, question.ID, question.Answer, value, pos);
+            }
+        }
+        if (question['Answer from 2023']) {
+            pos = question['Answer from 2023'].toLowerCase().indexOf(value);
+            if (pos !== -1) {
+                ret += formatHit(flag, year, question.ID, question['Answer from 2023'], value, pos);
+            }
+        }
+        if (question['Provide updated answer (if applicable)']) {
+            pos = question['Provide updated answer (if applicable)'].toLowerCase().indexOf(value);
+            if (pos !== -1) {
+                ret += formatHit(flag, year, question.ID, question['Provide updated answer (if applicable)'], value, pos);
+            }
         }
 
-        pos = question.Justification.toLowerCase().indexOf(value);
-        if (pos !== -1) {
-            ret += formatHit(flag, question.ID, question.Justification, value, pos);
+        if (question.Justification) {
+            pos = question.Justification.toLowerCase().indexOf(value);
+            if (pos !== -1) {
+                ret += formatHit(flag, year, question.ID, question.Justification, value, pos);
+            }
+        }
+        if (question['Explanation from 2023']) {
+            pos = question['Explanation from 2023'].toLowerCase().indexOf(value);
+            if (pos !== -1) {
+                ret += formatHit(flag, year, question.ID, question['Explanation from 2023'], value, pos);
+            }
+        }
+        if (question['Provide updated explanation (if applicable)']) {
+            pos = question['Provide updated explanation (if applicable)'].toLowerCase().indexOf(value);
+            if (pos !== -1) {
+                ret += formatHit(flag, year, question.ID, question['Provide updated explanation (if applicable)'], value, pos);
+            }
         }
 
-        pos = question['Reviewer 1 Comments'].toLowerCase().indexOf(value);
-        if (pos !== -1) {
-            ret += formatHit(flag, question.ID, question['Reviewer 1 Comments'], value, pos);
+        if (question['Reviewer 1 Comments']) {
+            pos = question['Reviewer 1 Comments'].toLowerCase().indexOf(value);
+            if (pos !== -1) {
+                ret += formatHit(flag, year, question.ID, question['Reviewer 1 Comments'], value, pos);
+            }
         }
 
-        pos = question['Reviewer 2 Comments'].toLowerCase().indexOf(value);
-        if (pos !== -1) {
-            ret += formatHit(flag, question.ID, question['Reviewer 2 Comments'], value, pos);
+        if (question['Reviewer 2 Comments']) {
+            pos = question['Reviewer 2 Comments'].toLowerCase().indexOf(value);
+            if (pos !== -1) {
+                ret += formatHit(flag, year, question.ID, question['Reviewer 2 Comments'], value, pos);
+            }
         }
     });
 
@@ -309,7 +342,7 @@ function onTextSearch() {
             var translations = countries.get(country, year);
             if (translations) {
                 var translation = translations[_.getLanguage()] ? translations[_.getLanguage()] : translations['en']
-                str += findInTranslations(flag, translation, value);
+                str += findInTranslations(flag, translation, year, value);
             }
         })
     }

@@ -176,6 +176,23 @@ li {
     border-top-color: #6cb4df !important;
 }
 
+.sidebar .group-2-left {
+    margin-right: -.2rem;
+    transform: rotate(-10deg);
+    z-index: 1;
+}
+.sidebar .group-2-left.selected {
+    z-index: 2;
+}
+.sidebar .group-2-right {
+    margin-left: -.2rem;
+    transform: rotate(10deg);
+    z-index: 1;
+}
+.sidebar .group-2-right.selected {
+    z-index: 2;
+}
+
 .sidebar .sidebar-content, .sidebar .sidebar-search {
     padding: 0 .5em;
 }

@@ -22,6 +22,7 @@ function onFinishLoading() {
     questionAnswer.jumpToID(INIT_ROOT, INIT_YEAR);
 
     countries.init();
+    changeYear(INIT_YEAR);
     countries.select(INIT_COUNTRY, INIT_YEAR);
 }
 
@@ -59,9 +60,14 @@ function goto(destination, event, year) {
     } else if ('search' === destination) {
         toggleSearch();
     } else if ('allCountries' === destination) {
-        addAllCountries(year);
+        var years = document.querySelectorAll('#year-switch figure.shield-button.selected');
+        if (years.length === 1) {
+            year = parseInt(years[0].dataset.year, 10);
+
+            addAllCountries(year);
+        }
     } else if ('noCountries' === destination) {
-        removeAllCountries(year);
+        removeAllCountries();
     } else if ('upwards' === destination) {
         questionAnswer.jumpUpwards();
     } else if ('prev' === destination) {
@@ -114,8 +120,8 @@ function addAllCountries(year) {
     })
 }
 
-function removeAllCountries(year) {
-    var selectedLang = document.querySelectorAll('figure.shield-button[data-country][data-year="' + year + '"].selected');
+function removeAllCountries() {
+    var selectedLang = document.querySelectorAll('figure.shield-button[data-country].selected');
     selectedLang.forEach((elem) => {
         var country = elem.dataset.country;
         var year = elem.dataset.year;
@@ -135,6 +141,26 @@ function changeLanguage(newLang) {
     });
 
     _.setLanguage(newLang);
+}
+
+function changeYear(newYear) {
+    var years = document.querySelectorAll('#year-switch figure.shield-button');
+    years.forEach((elem) => {
+        var year = parseInt(elem.dataset.year, 10);
+
+        elem.classList.remove('selected');
+
+        if (year === newYear) {
+            elem.classList.add('selected');
+        }
+    })
+
+    var yearLang = document.querySelectorAll('figure.shield-button[data-country]');
+    yearLang.forEach((elem) => {
+        var year = parseInt(elem.dataset.year, 10);
+
+        elem.style.display = year === newYear ? 'inline-block' : 'none';
+    })
 }
 
 function openSidebar() {

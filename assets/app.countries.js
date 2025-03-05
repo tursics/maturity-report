@@ -1,5 +1,6 @@
 var countries = (function () {
     var idElement = 'countries',
+        idYearSwitch = 'year-switch',
         csvPath = '{year}/3-simplified/{country}_ODM_{year}{language}.csv';
         loadList = {
             2024: [
@@ -18,33 +19,37 @@ var countries = (function () {
     var data = {};
 
     function funcInit() {
-        var linePrefixes = [
-//            '<span data-i18n="countries" style="margin-right: .5em">' + _.get('countries') + '</span>',
-			'<span class="vlist">' +
-				'<a href="#" data-i18n="countriesAll" onclick="goto(\'allCountries\',event,2024)">' + _.get('countriesAll') + '</a><br>' +
-				'<a href="#" data-i18n="countriesNone" onclick="goto(\'noCountries\',event,2024)">' + _.get('countriesNone') + '</a>' +
-			'</span>',
-			'<span class="vlist">' +
-				'<a href="#" data-i18n="countriesAll" onclick="goto(\'allCountries\',event,2023)">' + _.get('countriesAll') + '</a><br>' +
-				'<a href="#" data-i18n="countriesNone" onclick="goto(\'noCountries\',event,2023)">' + _.get('countriesNone') + '</a>' +
-			'</span>'
-        ];
-        Object.keys(loadList).reverse().forEach((year) => {
-            var node = document.createElement('span');
-            node.style.display = 'inline-block';
-            node.style.width = '5.5em';
-            node.innerHTML = linePrefixes.shift();
-            document.getElementById(idElement).appendChild(node);
+        var node = document.createElement('span');
+        node.style.display = 'inline-block';
+        node.innerHTML = '<span id="' + idYearSwitch + '"></span>';
+        document.getElementById(idElement).appendChild(node);
 
-            node = document.createElement('span');
-            node.className = 'country-year';
-            node.innerHTML = year;
-            document.getElementById(idElement).appendChild(node);
+        node = document.createElement('span');
+        node.classList = 'vlist';
+        node.innerHTML = 
+            '<a href="#" data-i18n="countriesAll" onclick="goto(\'allCountries\',event)">' + _.get('countriesAll') + '</a><br>' +
+            '<a href="#" data-i18n="countriesNone" onclick="goto(\'noCountries\',event)">' + _.get('countriesNone') + '</a>';
+        document.getElementById(idElement).appendChild(node);
+
+        var count = 0;
+        Object.keys(loadList).reverse().forEach((year) => {
+            ++count;
+
+            node = document.createElement('figure');
+            node.classList = 'shield shield-button blue-sky ' + (count === 1 ? 'group-2-left' : 'group-2-right');
+            node.dataset.year = year;
+            node.onclick = function() { changeYear(parseInt(year, 10)); }
+            node.innerHTML =
+				'<div class="shield-border"><div class="shield-borderhat"></div></div>' +
+				'<div class="shield-background">' +
+					'<div class="shield-backgroundhat"></div>' +
+					'<div class="shield-chevron" style="font-size:6.5em;line-height:2.5em">' +
+						'<span class="">' + year + '</span>' +
+					'</span>' +
+				'</div>';
+            document.getElementById(idYearSwitch).appendChild(node);
 
             loadList[year].forEach((item) => {funcAdd(item.n, year)});
-
-            node = document.createElement('br');
-            document.getElementById(idElement).appendChild(node);
         });
     }
 
@@ -53,7 +58,7 @@ var countries = (function () {
         node.classList.add('shield');
         node.classList.add('shield-button');
         node.classList.add('blue-sky');
-        node.style = 'display:inline-block';
+        node.style = 'display:none';
         node.dataset.country = country;
         node.dataset.year = year;
         node.onclick = OnCountryClick;

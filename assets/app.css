@@ -176,20 +176,22 @@ li {
     border-top-color: #6cb4df !important;
 }
 
-.sidebar .group-2-left {
+.shield-button.group-2-left {
     margin-right: -.2rem;
     transform: rotate(-10deg);
     z-index: 1;
 }
-.sidebar .group-2-left.selected {
+.shield-button.group-2-left.selected {
+    top: 0 !important;
     z-index: 2;
 }
-.sidebar .group-2-right {
+.shield-button.group-2-right {
     margin-left: -.2rem;
     transform: rotate(10deg);
     z-index: 1;
 }
-.sidebar .group-2-right.selected {
+.shield-button.group-2-right.selected {
+    top: 0 !important;
     z-index: 2;
 }
 
@@ -260,13 +262,12 @@ input[type="search"]:focus-visible {
 }
 
 .content {
-    margin: 11.8em 0 0 16em;
+    margin: 8em 0 0 16em;
     padding: 0 1em;
     transition: margin-left 250ms, margin-top 250ms;
 }
 .content.maximized {
     margin-left: 0;
-    margin-top: 8em;
 }
 
 #sidebar-shield {
@@ -641,7 +642,7 @@ input[type="search"]:focus-visible {
     background: linear-gradient(180deg, #87cefa 0%, #6cb4df 100%);
     border-left: 0.15em dashed steelblue;
     color: #222;
-    height: 7.6em;
+    height: 3.8em;
     left: 16em;
     line-height: 3.8em;
     overflow-x: auto;
@@ -670,13 +671,6 @@ input[type="search"]:focus-visible {
 }
 #countries .vlist a:hover {
     text-decoration: underline;
-}
-#countries .country-year {
-    display: inline-block;
-    height: 3.8em;
-    text-align: center;
-    transform: rotate(-90deg);
-    width: 2em;
 }
 #countries .shield-button {
     margin-left: 0;
@@ -740,11 +734,8 @@ input[type="search"]:focus-visible {
 }
 #page-controls {
     bottom: unset;
-    top: 13.8em;
-    transition: top 250ms;
-}
-.content.maximized #page-controls {
     top: 9em;
+    transition: top 250ms;
 }
 
 .shield-board {

@@ -141,7 +141,9 @@ var _ = (function () {
 
                 if (newValue !== '') {
                     if ('Confirm' === status) {
-                        console.error('Country: ' + country + "\nQuestion: " + translation.ID + "\nYear: " + year + "\n> Unchanged value has changes\nOld value: "+ value + "\nNew value: " + newValue);
+                        if (newValue.toLowerCase() !== value.toLowerCase()) {
+                            console.error('Country: ' + country + "\nQuestion: " + translation.ID + "\nYear: " + year + "\n> Unchanged value has changes\nOld value: " + value + "\nNew value: " + newValue);
+                        }
                     }
                     if (newValue.toLowerCase() !== value.toLowerCase()) {
                         value = newValue + '<br><span style="color:goldenrod;font-size:.8em">2023: ' + value + '</span>';

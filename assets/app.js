@@ -399,7 +399,7 @@ function zoomIn() {
     shields.forEach((shield) => shield.zoomIn());
 
     var elem = document.getElementById(shields[0].id);
-    var zoom = elem.classList.value.replace('shield', '').replace('indian-red', '').replace('golden-rod', '').replace('sea-green', '').trim();
+    var zoom = elem.classList.value.replace('shield', '').replace('indian-red', '').replace('golden-rod', '').replace('sea-green', '').replace('gray', '').trim();
     shield.classList.add(zoom);
 }
 
@@ -418,7 +418,7 @@ function zoomOut() {
     shields.forEach((shield) => shield.zoomOut());
 
     var elem = document.getElementById(shields[0].id);
-    var zoom = elem.classList.value.replace('shield', '').replace('indian-red', '').replace('golden-rod', '').replace('sea-green', '').trim();
+    var zoom = elem.classList.value.replace('shield', '').replace('indian-red', '').replace('golden-rod', '').replace('sea-green', '').replace('gray', '').trim();
 
     shield.classList.add(zoom);
 }

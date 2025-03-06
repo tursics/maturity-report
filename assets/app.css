@@ -421,6 +421,13 @@ input[type="search"]:focus-visible {
     background: #044b2b;
     color: mediumseagreen;
 }
+.shield.gray .shield-flag {
+    background: #ccb18a;
+}
+.shield.gray .shield-flag.year-2023 {
+    background: rosybrown;
+    color: navajowhite;
+}
 .shield-ribbon {
     background: goldenrod;
     background: linear-gradient(180deg, #e7b02e 0%, #e7b02e 10%, #b58500 100%);
@@ -990,6 +997,45 @@ input[type="search"]:focus-visible {
 .shield.sea-green .shield-board::-webkit-scrollbar-track {
     background: lightgreen;
     border: 2px solid lightgreen;
+}
+
+/* ---- */
+/* gray */
+
+.shield.gray .shield-border {
+    background: navajowhite;
+    background: linear-gradient(180deg, #ffe4bd 0%, #ffe4bd 10%, #ccb18a 100%);
+}
+.shield.gray .shield-border::before {
+    border-top-color: #ccb18a;
+}
+.shield.gray .shield-borderhat {
+    background: #ffe4bd;
+}
+.shield.gray .shield-ribbon {
+    background: navajowhite;
+    background: linear-gradient(180deg, #ffe4bd 0%, #ffe4bd 10%, #ccb18a 100%);
+}
+.shield.gray .shield-ribbon::before, .shield.gray .shield-ribbon::after {
+    border-bottom-color: lightyellow;
+}
+.shield.gray .shield-score, .shield.gray .shield-chevron {
+    color: navajowhite;
+}
+.shield.gray .shield-board {
+    scrollbar-color: navajowhite lightyellow;
+}
+.shield.gray .shield-board::-webkit-scrollbar-button {
+    background: navajowhite;
+}
+.shield.gray .shield-board::-webkit-scrollbar-thumb {
+    background: navajowhite;
+    border-left: 2px solid lightyellow;
+    border-right: 2px solid lightyellow;
+}
+.shield.gray .shield-board::-webkit-scrollbar-track {
+    background: lightyellow;
+    border: 2px solid lightyellow;
 }
 
 /* -------- */

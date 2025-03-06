@@ -12,7 +12,7 @@ class Shield {
         var zoom = null;
         if (shields.length > 0) {
             var elem = document.getElementById(shields[0].id);
-            zoom = elem.classList.value.replace('shield', '').replace('indian-red', '').replace('golden-rod', '').replace('sea-green', '').trim();
+            zoom = elem.classList.value.replace('shield', '').replace('indian-red', '').replace('golden-rod', '').replace('sea-green', '').replace('gray', '').trim();
         }
 
         var node = document.createElement('figure');
@@ -252,6 +252,7 @@ class Shield {
         elem.classList.remove('indian-red');
         elem.classList.remove('golden-rod');
         elem.classList.remove('sea-green');
+        elem.classList.remove('gray');
 
         if (score === '0%') {
             elem.classList.add('indian-red');
@@ -259,6 +260,8 @@ class Shield {
             elem.classList.add('sea-green');
         } else if (score !== '') {
             elem.classList.add('golden-rod');
+        } else {
+            elem.classList.add('gray');
         }
     }
 

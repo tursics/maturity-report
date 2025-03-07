@@ -546,8 +546,13 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '77', 2024: 'PT22'},
+                            id: {2023: '77'},
                             title: '... HVD ... are you progressing in the promotion of such datasets on your national portal ...'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2024: 'PT22'},
+                            title: 'Do you promotion high-value datasets on your national portal ...'
                         }
                     ]
                 },

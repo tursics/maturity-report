@@ -135,94 +135,94 @@ P29;"Gibt es in Ihrem Land jährlich stattfindende nationale, regionale oder lok
 Zur Einordnung:
 * Wenn ja, geben Sie bitte Beispiele an (z. B. Titel, Datum, Ort der Veranstaltung und URL)."
 D2;Dimension 2: Open Data Portal
-D2.1;2.1 Portal features
-PT1;"Is there a national portal in your country for that enables users to search for open datasets and find where to download open data? 
+D2.1;2.1 Funktionen des Portals
+PT1;"Gibt es in Ihrem Land ein nationales Portal, auf dem Benutzer nach offenen Datensätzen suchen und herausfinden können, wo offene Daten heruntergeladen werden können?
 
 Zur Einordnung:
-* If yes, please provide the URL of the national portal."
+* Wenn ja, geben Sie bitte die URL des nationalen Portals an."
 PT2;"Zur Einordnung:
-* What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)"
-PT3;"Does the national portal offer to its users a way to programmatically query the metadata via an API?
+* Wie sieht der Technologie-Stack Ihres Portals aus (z. B. basierend auf uData, CKAN usw.)"
+PT3;"Bietet das nationale Portal seinen Benutzern eine Möglichkeit, die Metadaten programmgesteuert über eine API abzufragen?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature."
-PT4;"Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an."
+PT4;"Bietet das nationale Portal seinen Benutzern eine Möglichkeit, die Metadaten programmgesteuert über einen SPARQL-Zugangspunkt abzufragen?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature."
-PT5;"Does the national portal offer/link to documentation on the use of APIs?
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an."
+PT5;"Bietet das nationale Portal eine Dokumentation zur Verwendung von APIs bzw. enthält einen Link dazu?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature.  "
-PT6;"Does the national portal offer/link to documentation on the use of SPARQL? 
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an."
+PT6;"Bietet das nationale Portal eine Dokumentation zur Verwendung von SPARQL an bzw. verlinkt diese?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature.  "
-PT7;"Does the national portal provide functionality for users to contribute datasets they have produced or enriched? 
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an."
+PT7;"Bietet das nationale Portal den Benutzern die Möglichkeit, von ihnen erstellte oder angereicherte Datensätze beizutragen?
 
 Zur Einordnung:
-* If yes, please (1) explain how  the portal facilitate the linking of documentation and supporting materials to these user-contributed datasets and (2) provide the direct-URL to this feature."
-PT8;"Does the national portal offer a mechanism for users to provide general feedback, such  a 'Contact us' or 'Feedback' button that is placed in a visible spot and would allows users to send a general comment concerning the portal?
+* Wenn ja, (1) erläutern Sie bitte, wie das Portal die Verknüpfung von Dokumentationen und unterstützenden Materialien mit diesen von Benutzern beigesteuerten Datensätzen erleichtert, und (2) geben Sie die direkte URL zu dieser Funktion an."
+PT8;"Bietet das nationale Portal einen Mechanismus, mit dem Benutzer allgemeines Feedback geben können, etwa eine an sichtbarer Stelle platzierte Schaltfläche „Kontakt“ oder „Feedback“, mit der Benutzer allgemeine Kommentare zum Portal senden können?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature or describe how this functionality is provided."
-PT9;"Does the national portal offer a mechanism for users to provide feedback on specific datasets, such as a 'feedback button' or a comment/discussion section under the dataset?
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an oder beschreiben Sie, wie diese Funktionalität bereitgestellt wird."
+PT9;"Bietet das nationale Portal einen Mechanismus, mit dem Benutzer Feedback zu bestimmten Datensätzen geben können, etwa eine „Feedback-Schaltfläche“ oder einen Kommentar-/Diskussionsbereich unter dem Datensatz?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature or describe how this functionality is provided."
-PT10;"Does the national portal provide a mechanism for users to rate datasets?
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an oder beschreiben Sie, wie diese Funktionalität bereitgestellt wird."
+PT10;"Bietet das nationale Portal Benutzern einen Mechanismus zur Bewertung von Datensätzen?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature or describe how this functionality is provided."
-PT11;"Does the national portal enable users to find information and news on relevant open data topics in the country?
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an oder beschreiben Sie, wie diese Funktionalität bereitgestellt wird."
+PT11;"Ermöglicht das nationale Portal den Nutzern, Informationen und Neuigkeiten zu relevanten Open-Data-Themen im Land zu finden?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature.  "
-PT12;"Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an."
+PT12;"Bietet das nationale Portal den Benutzern die Möglichkeit, Benachrichtigungen zu erhalten, wenn neue Datensätze auf dem nationalen Portal verfügbar sind (RSS, ATOM-Feeds, E-Mail-Benachrichtigungen usw.)?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature.  "
-PT13;"Does the national portal enable users to request datasets, such as through a ""request data"" button? 
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an."
+PT13;"Gibt das nationale Portal seinen Nutzern die Möglichkeit, Datensätze anzufordern, etwa über eine Schaltfläche „Daten anfordern“?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature or describe how this functionality is provided."
-PT14;"Are requests for datasets and their progress status presented in a transparent manner on the national portal? 
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an oder beschreiben Sie, wie diese Funktionalität bereitgestellt wird."
+PT14;"Werden die Anfragen nach Datensätzen und deren Bearbeitungsstand auf dem nationalen Portal transparent dargestellt?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature.  "
-PT15;"Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an."
+PT15;"Überwacht das Team, inwieweit Anfragen (entweder über das Portal oder auf andere Weise) zur Veröffentlichung der angeforderten Daten führen?
 
 Zur Einordnung:
-* If yes, please describe how this monitoring is conducted."
-PT16;"Does the national portal offer a mechanism for users to exchange with others, such as a discussion forum?
+* Wenn ja, beschreiben Sie bitte, wie diese Überwachung durchgeführt wird."
+PT16;"Bietet das nationale Portal einen Mechanismus zum Austausch mit anderen Nutzern, beispielsweise ein Diskussionsforum?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature or describe how this functionality is provided."
-PT17;"Does the national portal showcase reuse cases, such as in a designated section of the portal?
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an oder beschreiben Sie, wie diese Funktionalität bereitgestellt wird."
+PT17;"Stellt das nationale Portal Wiederverwendungsfälle dar, beispielsweise in einem dafür vorgesehenen Bereich des Portals?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature. "
-PT18;"Does the national portal reference the datasets that the showcased reuse cases are based on (i.e. there is a link between the reuse case in the showcase and the underlying dataset on the portal)?
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an."
+PT18;"Verweist das nationale Portal auf die Datensätze, auf denen die vorgestellten Wiederverwendungsfälle basieren (d. h. es besteht eine Verknüpfung zwischen dem Anwendungsfall im Schaukasten und dem zugrunde liegenden Datensatz auf dem Portal)?
 
 Zur Einordnung:
-* If yes, please provide the URL to this feature/to an example documenting this feature."
-PT19;"Does the national portal provide the possibility for users to submit their own reuse cases?
+* Wenn ja, geben Sie bitte die URL zu dieser Funktion bzw. zu einem Beispiel an, das diese Funktion dokumentiert."
+PT19;"Bietet das nationale Portal den Nutzern die Möglichkeit, eigene Wiederverwendungsfälle einzureichen?
 
 Zur Einordnung:
-* If yes, please provide the direct-URL to this feature. "
-PT20;"Does the national portal offer a preview function for tabular data?
+* Wenn ja, geben Sie bitte die direkte URL zu dieser Funktion an."
+PT20;"Bietet das nationale Portal eine Vorschaufunktion für tabellarische Daten?
 
 Zur Einordnung:
-* If yes, please provide the URL to an example documenting this feature."
-PT21;"Does the national portal offer a preview function for geospatial data?
+* Wenn ja, geben Sie bitte die URL zu einem Beispiel an, das diese Funktion dokumentiert."
+PT21;"Bietet das nationale Portal eine Vorschaufunktion für Geodaten an?
 
 Zur Einordnung:
-* If yes, please provide the URL to an example documenting this feature."
-PT22;"Do you promote high-value datastes on your national portal (e.g. use filtering features for reusers to easily find such datasets, use editorial features to promote the datasets, etc.))?
+* Wenn ja, geben Sie bitte die URL zu einem Beispiel an, das diese Funktion dokumentiert."
+PT22;"Machen Sie auf Ihrem nationalen Portal Werbung für hochwertige Datensätze (verwenden Sie beispielsweise Filterfunktionen, damit Weiterverwender solche Datensätze leicht finden können, nutzen Sie redaktionelle Funktionen, um die Datensätze zu bewerben usw.)?
 
 Zur Einordnung:
-* If yes, please specify how and highlight challenges if any. 
-* If you are an EFTA or a candidate country to the EU, please select 'not applicable'."
+* Wenn ja, geben Sie bitte an, wie und heben Sie etwaige Herausforderungen hervor.
+* Wenn Sie ein EFTA- oder EU-Kandidatenland sind, wählen Sie bitte „nicht zutreffend“ aus."
 D2.2;2.2 Portal usage
 PT23;"Do you monitor the portal's traffic (e.g. in terms of number of unique visitors, visitor profiles, percentage of machine traffic, number of downloads according to the number of datasets etc.)? 
 

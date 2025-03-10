@@ -226,7 +226,7 @@ class Shield {
         return str;
     }
 
-    setCaption(score) {
+    setCaption(score, id) {
         var elem = document.getElementById(this.id);
         var elemCaption = elem.getElementsByClassName('shield-caption')[0];
         var elemBoard = elem.getElementsByClassName('shield-board')[0];
@@ -260,7 +260,7 @@ class Shield {
             elem.classList.add('sea-green');
         } else if (score !== '') {
             elem.classList.add('golden-rod');
-        } else {
+        } else if (undefined === id) {
             elem.classList.add('gray');
         }
     }
@@ -272,7 +272,7 @@ class Shield {
         var that = this;
 
         var percentage = this.getPercentage(questionAnswer.get('root', this.year));
-        this.setCaption(percentage);
+        this.setCaption(percentage, 'debug');
 
         function processChildren(root) {
             root.children.forEach((child) => {
@@ -301,7 +301,8 @@ class Shield {
         var str = '';
 
         var percentage = this.getPercentage(question);
-        this.setCaption(percentage);
+        var questionId = question ? question.id[this.year] : undefined;
+        this.setCaption(percentage, questionId);
 
         if (question && question.children) {
             question.children.forEach((child) => {

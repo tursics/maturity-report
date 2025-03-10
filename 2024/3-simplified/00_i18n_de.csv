@@ -411,149 +411,147 @@ Q26;What percentage of licences are provided in a structured data format?
 Q27;What percentage of datasets are provided in an open and machine-readable format?
 Q28;What percentage of datasets consistely use Uniform Resource Identifiers?
 Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?
-D4;Dimension 4: Open Data Impact
-D4.1;4.1. Strategic awareness
-I1;"Do you have a definition of open data reuse in your country?
+D4;Dimension 4: Auswirkungen von offenen Daten
+D4.1;4.1. Strategisches Bewusstsein
+I1;"Gibt es in Ihrem Land eine Definition für die Wiederverwendung offener Daten?
  
 Zur Einordnung:
-* If yes, please specify it."
-I2;"Are there any processes in place to monitor the level of reuse of your country's open data?
+* Wenn ja, bitte angeben."
+I2;"Gibt es Prozesse zur Überwachung des Grads der Weiterverwendung der offenen Daten Ihres Landes?
  
 Zur Einordnung:
-* If yes, please (1) briefly describe these processes and (2) provide the URLs to support the answer."
-I3;"Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?
+* Wenn ja, (1) beschreiben Sie diese Prozesse bitte kurz und (2) geben Sie die URLs zur Unterstützung der Antwort an."
+I3;"Gibt es Aktivitäten, um öffentliche Stellen zu ermutigen, die Weiterverwendung ihrer eigenen veröffentlichten Daten zu überwachen (z. B. Anreize oder Verpflichtungen für öffentliche Stellen oder Beamte der nationalen Regierung)?
  
 Zur Einordnung:
-* If yes, please (1) briefly describe these activities/incentives and (2) provide the URLs to support the answer."
-I4;"Does your country have processes in place to monitor and measure the level of reuse of high-value datasets ((EU) 2023/138)?
+* Wenn ja, (1) beschreiben Sie bitte kurz diese Aktivitäten/Anreize und (2) geben Sie die URLs zur Unterstützung der Antwort an."
+I4;"Verfügt Ihr Land über Prozesse zur Überwachung und Messung des Ausmaßes der Weiterverwendung hochwertiger Datensätze ((EU) 2023/138)?
  
 Zur Einordnung:
-* If yes, please specify how and highlight challenges if any. 
-* If you are an EFTA or a candidate country to the EU, please select 'not applicable'."
-I5;"Has your government specified what 'impact of open data' means (e.g. in a strategy document)?
+* Wenn ja, geben Sie bitte an, wie und heben Sie etwaige Herausforderungen hervor.
+* Wenn Sie ein EFTA- oder EU-Kandidatenland sind, wählen Sie bitte „nicht zutreffend“ aus."
+I5;"Hat Ihre Regierung konkretisiert, was „Auswirkungen offener Daten“ bedeuten (z. B. in einem Strategiedokument)?
  
 Zur Einordnung:
-* If yes, how do you define the impact of open data in your country? 
-* If possible, please provide a URL to a public document describing it."
-I6;"Do you have a methodology in place to measure the impact of open data in your country?
+* Wenn ja, wie definieren Sie die Auswirkungen offener Daten in Ihrem Land?
+* Wenn möglich, geben Sie bitte eine URL zu einem öffentlichen Dokument an, in dem es beschrieben wird."
+I6;"Verfügen Sie über eine Methodik, um die Auswirkungen offener Daten in Ihrem Land zu messen?
  
 Zur Einordnung:
-* If yes, please briefly describe the key points of this methodology."
-I7;"Is there collaboration between government and civil society or academia to create open data impact in your country?
+* Wenn ja, beschreiben Sie bitte kurz die Kernpunkte dieser Methodik."
+I7;"Gibt es in Ihrem Land eine Zusammenarbeit zwischen der Regierung und der Zivilgesellschaft oder der Wissenschaft, um Open-Data-Wirkung zu erzielen?
 
 Zur Einordnung:
-* If yes, please provide an example
-* If possible, URLs to such projects and collaborations."
-D4.2;4.2 Measuring reuse
-I8;"Have any public bodies in your country launched or performed any activities in the past year to understand which and how (open) datasets are reused?
+* Wenn ja, geben Sie bitte ein Beispiel an
+* Wenn möglich, URLs zu solchen Projekten und Kooperationen."
+D4.2;4.2 Messung der Wiederverwendung
+I8;"Haben öffentliche Stellen in Ihrem Land im vergangenen Jahr Aktivitäten gestartet oder durchgeführt, um zu verstehen, welche (offenen) Datensätze und wie wiederverwendet werden?
 
 Zur Einordnung:
-* If yes, which of the following activities?
-* Multiple answers are possible."
-I8-a;Automated feedback mechanisms tracking users´ access to datasets
-I8-b;Surveys
-I8-c;Interviews/workshops with reusers
-I8-d;Other
-I9;"Have any public bodies in your country launched or performed any activities in the past year to better understand reusers' needs in order to further stimulate the reuse of open data?
+* Wenn ja, welche der folgenden Aktivitäten?
+* Mehrfachnennungen sind möglich."
+I8-a;Automatisierte Feedback-Mechanismen, die den Zugriff der Benutzer auf Datensätze verfolgen
+I8-b;Umfragen
+I8-c;Interviews/Workshops mit Wiederverwendern
+I8-d;Sonstiges
+I9;"Haben öffentliche Stellen in Ihrem Land im vergangenen Jahr Aktivitäten gestartet oder durchgeführt, um die Bedürfnisse der Weiterverwender besser zu verstehen und so die Weiterverwendung offener Daten weiter zu fördern?
 
 Zur Einordnung:
-* If yes, which of the following activities have been performed? Please describe how the activity has helped you better stimulate reuse.
-* Multiple answers are possible."
-I9-a;Regular feedback sessions with portal users 
-I9-b;Social media sentiment analysis 
-I9-c;Other
-I10;"Have any public bodies in your country developed any systematic way of gathering reuse cases?
+* Falls ja, welche der folgenden Aktivitäten wurden durchgeführt? Bitte beschreiben Sie, wie die Aktivität Ihnen geholfen hat, die Wiederverwendung besser zu fördern.
+* Mehrfachantworten sind möglich."
+I9-a;Regelmäßige Feedbackgespräche mit Portalnutzern
+I9-b;Analyse der Stimmung in sozialen Medien
+I9-c;Sonstiges
+I10;"Haben öffentliche Stellen in Ihrem Land eine systematische Methode zur Erfassung von Wiederverwendungsfällen entwickelt?
 
 Zur Einordnung:
-* If yes, please provide a brief explanation of the process: How does the gathering happen? "
-I11;"Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?
+* Wenn ja, erläutern Sie bitte kurz den Ablauf: Wie läuft die Versammlung ab?"
+I11;"Gibt es in Ihrem Land öffentliche Stellen, die eine systematische Methode zur Klassifizierung der gesammelten Wiederverwendungsfälle entwickelt haben?
 
 Zur Einordnung:
-* If yes, please provide a brief explanation of the process: According to which categories are reuse cases classified (e.g. by policy field)?"
-D4.3;4.3 Created impact
-D4.3a;4.3a Governmental impact
-I12;"Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+* Wenn ja, erläutern Sie bitte kurz den Ablauf: Nach welchen Kategorien werden Wiederverwendungsfälle klassifiziert (z. B. nach Politikfeld)?"
+D4.3;4.3 Erzeugte Wirkung
+D4.3a;4.3a Staatliche Auswirkungen
+I12;"Sind in Ihrem Land Daten zu den Auswirkungen offener Daten auf staatliche Herausforderungen (z. B. Effizienz, Effektivität, Transparenz, Entscheidungsfähigkeit), etwa aus Forschungsstudien, Folgenabschätzungen oder anderen systematischen Untersuchungen, die die Ergebnisse oder umfassenderen Auswirkungen der Wiederverwendung offener Daten quantifizieren?
 
 Zur Einordnung:
-* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data."
-I13;"Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services? 
+* Wenn ja, (1) geben Sie bitte an, welche Art von Daten diese Auswirkungen belegen, und (2) geben Sie die URLs zu diesen Daten an."
+I13;"Hat die Nutzung offener Daten in Ihrem Land Auswirkungen auf die Effizienz und Effektivität der Regierung (auf welcher Ebene auch immer) bei der Erbringung öffentlicher Dienstleistungen?
 
 Zur Einordnung:
-* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain."
-I14;"Is the use of open data in your country having an impact on transparency and accountability of public administrations?
+* Wenn ja, geben Sie bitte ein Beispiel für einen Wiederverwendungsfall an. Geben Sie für diesen Wiederverwendungsfall bitte (1) eine URL zum Wiederverwendungsfall, (2) eine URL zum offenen Datensatz an, der vom Wiederverwendungsfall verwendet wird, und (3) eine Beschreibung des Wiederverwendungsfalls und seiner Auswirkungen in dieser Subdomäne."
+I14;"Hat die Nutzung offener Daten in Ihrem Land Auswirkungen auf die Transparenz und Rechenschaftspflicht öffentlicher Verwaltungen?
 
 Zur Einordnung:
-* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain."
-I15;"Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)? 
+* Wenn ja, geben Sie bitte ein Beispiel für einen Wiederverwendungsfall an. Geben Sie für diesen Wiederverwendungsfall bitte (1) eine URL zum Wiederverwendungsfall, (2) eine URL zum offenen Datensatz an, der vom Wiederverwendungsfall verwendet wird, und (3) eine Beschreibung des Wiederverwendungsfalls und seiner Auswirkungen in dieser Subdomäne."
+I15;"Hat die Nutzung offener Daten in Ihrem Land Auswirkungen auf politische Entscheidungsprozesse (d. h. nutzen öffentliche Verwaltungen die Daten als Beweis für die Problemerkennung und Politikformulierung)?
 
 Zur Einordnung:
-* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain."
-I16;"Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?
+* Wenn ja, geben Sie bitte ein Beispiel für einen Wiederverwendungsfall an. Geben Sie für diesen Wiederverwendungsfall bitte (1) eine URL zum Wiederverwendungsfall, (2) eine URL zum offenen Datensatz an, der vom Wiederverwendungsfall verwendet wird, und (3) eine Beschreibung des Wiederverwendungsfalls und seiner Auswirkungen in dieser Subdomäne."
+I16;"Hat die Nutzung offener Daten in Ihrem Land Auswirkungen auf Entscheidungsprozesse (d. h. nutzen öffentliche Verwaltungen die Daten als Beweismittel für ihre täglichen Abläufe)?
 
 Zur Einordnung:
-* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain."
-D4.3b;4.3b Social impact
-I17;"Is any data on the impact created by open data on social challenges (e.g. inequality, healthcare, education) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+* Wenn ja, geben Sie bitte ein Beispiel für einen Wiederverwendungsfall an. Geben Sie für diesen Wiederverwendungsfall bitte (1) eine URL zum Wiederverwendungsfall, (2) eine URL zum offenen Datensatz an, der vom Wiederverwendungsfall verwendet wird, und (3) eine Beschreibung des Wiederverwendungsfalls und seiner Auswirkungen in dieser Subdomäne."
+D4.3b;4.3b Gesellschaftliche Auswirkungen
+I17;"Sind in Ihrem Land Daten zu den Auswirkungen offener Daten auf soziale Herausforderungen (z. B. Ungleichheit, Gesundheitsversorgung, Bildung), etwa aus Forschungsstudien, Folgenabschätzungen oder anderen systematischen Untersuchungen, die die Ergebnisse oder umfassenderen Auswirkungen der Wiederverwendung offener Daten quantifizieren?
 
 Zur Einordnung:
-* If yes, please (1) specify what kind of data source proves this impact and (2) provide the URLs to this data."
-I18;"Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees? 
+* Wenn ja, (1) geben Sie bitte an, welche Art von Datenquelle diesen Einfluss belegt und (2) geben Sie die URLs zu diesen Daten an."
+I18;"Hat die Nutzung offener Daten in Ihrem Land Auswirkungen auf die Fähigkeit der Gesellschaft, Ungleichheit zu verringern und Minderheiten, Migranten und/oder Flüchtlinge besser einzubeziehen?
 
 Zur Einordnung:
-* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain."
-I19;"Is the use of open data in your country having an impact on issues about housing in urban areas? 
+* Wenn ja, geben Sie bitte ein Beispiel für einen Wiederverwendungsfall an. Geben Sie für diesen Wiederverwendungsfall bitte (1) eine URL zum Wiederverwendungsfall, (2) eine URL zum offenen Datensatz an, der vom Wiederverwendungsfall verwendet wird, und (3) eine Beschreibung des Wiederverwendungsfalls und seiner Auswirkungen in dieser Subdomäne."
+I19;"Hat die Nutzung offener Daten in Ihrem Land Auswirkungen auf die Wohnraumfrage in städtischen Gebieten?
 
 Zur Einordnung:
-* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain."
-I20;"Is the use of open data in your country having an impact on the issues of health and wellbeing? 
+* Wenn ja, geben Sie bitte ein Beispiel für einen Wiederverwendungsfall an. Geben Sie für diesen Wiederverwendungsfall bitte (1) eine URL zum Wiederverwendungsfall, (2) eine URL zum offenen Datensatz an, der vom Wiederverwendungsfall verwendet wird, und (3) eine Beschreibung des Wiederverwendungsfalls und seiner Auswirkungen in dieser Subdomäne."
+I20;"Hat die Nutzung offener Daten in Ihrem Land Auswirkungen auf die Themen Gesundheit und Wohlbefinden?
 
 Zur Einordnung:
-* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain."
-I21;"Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?
+* Wenn ja, geben Sie bitte ein Beispiel für einen Wiederverwendungsfall an. Geben Sie für diesen Wiederverwendungsfall bitte (1) eine URL zum Wiederverwendungsfall, (2) eine URL zum offenen Datensatz an, der vom Wiederverwendungsfall verwendet wird, und (3) eine Beschreibung des Wiederverwendungsfalls und seiner Auswirkungen in dieser Subdomäne."
+I21;"Hat die Nutzung offener Daten in Ihrem Land Auswirkungen auf das Bildungs- und Kompetenzniveau der Gesellschaft (z. B. Datenkompetenz)?
 
 Zur Einordnung:
-* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain."
-D4.3c;4.3c Environmental impact
-I22;"Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+* Wenn ja, geben Sie bitte ein Beispiel für einen Wiederverwendungsfall an. Geben Sie für diesen Wiederverwendungsfall bitte (1) eine URL zum Wiederverwendungsfall, (2) eine URL zum offenen Datensatz an, der vom Wiederverwendungsfall verwendet wird, und (3) eine Beschreibung des Wiederverwendungsfalls und seiner Auswirkungen in dieser Subdomäne."
+D4.3c;4.3c Umweltauswirkungen
+I22;"Sind in Ihrem Land Daten über die Auswirkungen offener Daten auf Umweltherausforderungen (z. B. Klimawandel und Umweltzerstörung, wie im Europäischen Green Deal hervorgehoben), etwa aus Forschungsstudien, Folgenabschätzungen oder anderen systematischen Untersuchungen, die die Ergebnisse oder umfassenderen Auswirkungen der Wiederverwendung offener Daten verfügbar?
 
 Zur Einordnung:
-* If yes, please specify (1)  what kind of data source proves this impact and (2) provide the URLs to this data."
-I23;"Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)? 
+* Wenn ja, geben Sie bitte an, (1) welche Art von Daten diese Auswirkungen belegen, und (2) geben Sie die URLs zu diesen Daten an."
+I23;"Hat die Nutzung offener Daten in Ihrem Land Auswirkungen auf das Schutzniveau der biologischen Vielfalt (z. B. die Aufrechterhaltung einer guten Luft- und Wasserqualität)?
 
 Zur Einordnung:
-* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain."
-I24;"Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)? 
+* Wenn ja, geben Sie bitte ein Beispiel für einen Wiederverwendungsfall an. Geben Sie für diesen Wiederverwendungsfall bitte (1) eine URL zum Wiederverwendungsfall, (2) eine URL zum offenen Datensatz an, der vom Wiederverwendungsfall verwendet wird, und (3) eine Beschreibung des Wiederverwendungsfalls und seiner Auswirkungen in dieser Subdomäne."
+I24;"Hat die Nutzung offener Daten in Ihrem Land Auswirkungen auf die Verwirklichung umweltfreundlicherer Städte (z. B. umweltfreundliche Transportsysteme, Abfallwirtschaft usw.)?
 
 Zur Einordnung:
-* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain."
-I25;"Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?
+* Wenn ja, geben Sie bitte ein Beispiel für einen Wiederverwendungsfall an. Geben Sie für diesen Wiederverwendungsfall bitte (1) eine URL zum Wiederverwendungsfall, (2) eine URL zum offenen Datensatz an, der vom Wiederverwendungsfall verwendet wird, und (3) eine Beschreibung des Wiederverwendungsfalls und seiner Auswirkungen in dieser Subdomäne."
+I25;"Hat die Nutzung offener Daten in Ihrem Land Auswirkungen auf den Kampf gegen den Klimawandel, beispielsweise durch vorausschauende Überwachung, präventive Maßnahmen oder eine differenzierte Reaktion auf damit verbundene Katastrophen?
 
 Zur Einordnung:
-* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain."
-I26;"Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables? 
+* Wenn ja, geben Sie bitte ein Beispiel für einen Wiederverwendungsfall an. Geben Sie für diesen Wiederverwendungsfall bitte (1) eine URL zum Wiederverwendungsfall, (2) eine URL zum offenen Datensatz an, der vom Wiederverwendungsfall verwendet wird, und (3) eine Beschreibung des Wiederverwendungsfalls und seiner Auswirkungen in dieser Subdomäne."
+I26;"Hat die Nutzung offener Daten in Ihrem Land Auswirkungen auf den Energieverbrauch auf Basis von Kraftstoffen und die Umstellung auf erneuerbare Energien?
 
 Zur Einordnung:
-* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain."
-D4.3d;4.3d Economic impact
-I27;"Is any data on the economic impact (e.g. GDP, employment, productivity, innovation,  new businesses created etc.) of open data available in your country such as from research studies, impact assessments, or other systematic investigations that quantify the results or broader effects of open data being reused?
+* Wenn ja, geben Sie bitte ein Beispiel für einen Wiederverwendungsfall an. Geben Sie für diesen Wiederverwendungsfall bitte (1) eine URL zum Wiederverwendungsfall, (2) eine URL zum offenen Datensatz an, der vom Wiederverwendungsfall verwendet wird, und (3) eine Beschreibung des Wiederverwendungsfalls und seiner Auswirkungen in dieser Subdomäne."
+D4.3d;4.3d Wirtschaftliche Auswirkungen
+I27;"Sind in Ihrem Land Daten über die wirtschaftlichen Auswirkungen (z. B. BIP, Beschäftigung, Produktivität, Innovation, neu gegründete Unternehmen usw.) von offenen Daten verfügbar, etwa aus Forschungsstudien, Folgenabschätzungen oder anderen systematischen Untersuchungen, die die Ergebnisse oder umfassenderen Auswirkungen der Wiederverwendung offener Daten quantifizieren?
 
 Zur Einordnung:
-* If yes, please specify what kind of data source proves this impact and provide the URLs to this data.
-
-"
-I28;"Is the use of open data in your country having an impact on the level of employment? 
+* Wenn ja, geben Sie bitte an, welche Art von Datenquelle diese Auswirkungen belegen, und geben Sie die URLs zu diesen Daten an."
+I28;"Hat die Nutzung offener Daten in Ihrem Land Auswirkungen auf das Beschäftigungsniveau?
 
 Zur Einordnung:
-* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain."
-I29;"Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies? 
+* Wenn ja, geben Sie bitte ein Beispiel für einen Wiederverwendungsfall an. Geben Sie für diesen Wiederverwendungsfall bitte (1) eine URL zum Wiederverwendungsfall, (2) eine URL zum offenen Datensatz an, der vom Wiederverwendungsfall verwendet wird, und (3) eine Beschreibung des Wiederverwendungsfalls und seiner Auswirkungen in dieser Subdomäne."
+I29;"Hat die Nutzung offener Daten in Ihrem Land Auswirkungen auf den Innovationsgrad und die Einführung neuer Technologien?
 
 Zur Einordnung:
-* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain."
-I30;"Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)? 
+* Wenn ja, geben Sie bitte ein Beispiel für einen Wiederverwendungsfall an. Geben Sie für diesen Wiederverwendungsfall bitte (1) eine URL zum Wiederverwendungsfall, (2) eine URL zum offenen Datensatz an, der vom Wiederverwendungsfall verwendet wird, und (3) eine Beschreibung des Wiederverwendungsfalls und seiner Auswirkungen in dieser Subdomäne."
+I30;"Hat die Nutzung offener Daten in Ihrem Land Auswirkungen auf das Niveau des Unternehmertums (insbesondere von Frauen und Minderheiten) und der Unternehmensgründung (insbesondere bei kleinen und mittleren Unternehmen)?
 
 Zur Einordnung:
-* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain."
-I31;"Is the use of open data in your country having an impact on the level of productivity? 
+* Wenn ja, geben Sie bitte ein Beispiel für einen Wiederverwendungsfall an. Geben Sie für diesen Wiederverwendungsfall bitte (1) eine URL zum Wiederverwendungsfall, (2) eine URL zum offenen Datensatz an, der vom Wiederverwendungsfall verwendet wird, und (3) eine Beschreibung des Wiederverwendungsfalls und seiner Auswirkungen in dieser Subdomäne."
+I31;"Hat die Nutzung offener Daten in Ihrem Land Auswirkungen auf die Produktivität?
 
 Zur Einordnung:
-* If yes, please provide an example of one reuse case. For this reuse case, please provide (1) a URL to the reuse case, (2) a URL to the open dataset used by the reuse case, and (3) a description of the reuse case and its impact in this sub-domain."
+* Wenn ja, geben Sie bitte ein Beispiel für einen Wiederverwendungsfall an. Geben Sie für diesen Wiederverwendungsfall bitte (1) eine URL zum Wiederverwendungsfall, (2) eine URL zum offenen Datensatz an, der vom Wiederverwendungsfall verwendet wird, und (3) eine Beschreibung des Wiederverwendungsfalls und seiner Auswirkungen in dieser Subdomäne."

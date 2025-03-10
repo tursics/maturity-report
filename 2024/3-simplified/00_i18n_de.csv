@@ -320,97 +320,97 @@ PT45;"Ermöglicht diese Überwachung dem Portalteam und/oder den Datenanbietern,
 
 Zur Einordnung:
 * Wenn ja, (1) erklären Sie bitte, wie und (2) geben Sie gegebenenfalls die direkte URL zu dieser Funktion an."
-D3;Dimension 3: Open Data Quality
-D3.1;3.1 Currency and completeness
-Q1;"Is there a pre-defined approach to ensure that metadata is kept up-to-date?
+D3;Dimension 3: Qualität offener Daten
+D3.1;3.1 Aktualität und Vollständigkeit
+Q1;"Gibt es einen vordefinierten Ansatz, um sicherzustellen, dass Metadaten auf dem neuesten Stand gehalten werden?
 
 Zur Einordnung:
-* If yes, please briefly describe your approach."
-Q2;"What percentage of the metadata on the national portal is obtained from the source automatically, rather than edited manually? 
+* Wenn ja, beschreiben Sie bitte kurz Ihr Vorgehen."
+Q2;"Wie viel Prozent der Metadaten auf dem nationalen Portal werden automatisch aus der Quelle bezogen und nicht manuell bearbeitet?
 
 Zur Einordnung:
-* Please describe (1) the workflows you have to automate the harvesting of metadata and (2) for which types of data these apply to"
-Q3;"What is the average delay from the moment the metadata describing a dataset is updated at the source, and the moment the change is visible on the portal?
+* Bitte beschreiben Sie (1) die Workflows, die Sie zur Automatisierung der Metadatenerfassung nutzen, und (2) für welche Datentypen diese gelten."
+Q3;"Wie groß ist die durchschnittliche Verzögerung zwischen der Aktualisierung der Metadaten, die einen Datensatz beschreiben, an der Quelle und dem Zeitpunkt, an dem die Änderung im Portal sichtbar ist?
 
 Zur Einordnung:
-* Please explain the approach for updating metadata in a timely manner"
-Q4;"Do you undertake efforts to ensure that published data covers the full period from when it was first published until today, for example,the complete time series?
+* Bitte erläutern Sie den Ansatz zur zeitnahen Aktualisierung der Metadaten"
+Q4;"Unternehmen Sie Anstrengungen, um sicherzustellen, dass die veröffentlichten Daten den gesamten Zeitraum seit ihrer Erstveröffentlichung bis heute abdecken, beispielsweise die komplette Zeitreihe?
 
 Zur Einordnung:
-* If yes, please explain the measures in place to ensure complete series of datasets"
-Q5;"Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?
+* Falls ja, erläutern Sie bitte die getroffenen Maßnahmen zur Sicherstellung der Vollständigkeit der Datensatzreihen"
+Q5;"Haben Sie den Tag „DCAT-AP High Value Datasets“ (semiceu.github.io) implementiert, um die High-Value Datasets in Ihrem (nationalen) Open-Data-Portal(en) zu kennzeichnen?
 
 Zur Einordnung:
-* If yes, please specify how and highlight challenges if any.
-* If you are an EFTA or a candidate country to the EU, please select 'not applicable'."
-Q6;"Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?
+* Falls ja, geben Sie bitte an, wie, und heben Sie etwaige Herausforderungen hervor.
+* Falls Ihr Land ein EFTA-Staat oder ein Beitrittskandidat zur EU ist, wählen Sie bitte „nicht zutreffend“ aus."
+Q6;"Haben Sie neben dem oben erwähnten DCAT-AP-Tag noch weitere Maßnahmen umgesetzt, um sicherzustellen, dass hochwertige Datensätze ((EU) 2023/138) mit Datensätzen anderer Länder kompatibel sind?
 
 Zur Einordnung:
-* If yes, please specify how and highlight challenges if any.
-* If you are an EFTA or a candidate country to the EU, please select 'not applicable'."
-D3.2;3.2 Monitoring and measures
-Q7;"Do you monitor the quality of the metadata available on your portal?
+* Falls ja, geben Sie bitte an, wie, und heben Sie etwaige Herausforderungen hervor.
+* Falls Ihr Land ein EFTA-Staat oder ein Beitrittskandidat zur EU ist, wählen Sie bitte „nicht zutreffend“ aus."
+D3.2;3.2 Überwachung und Maßnahmen
+Q7;"Überwachen Sie die Qualität der auf Ihrem Portal verfügbaren Metadaten?
 
 Zur Einordnung:
-* If yes, please briefly explain how this monitoring takes place. 
-* If applicable, please provide the URL to this monitoring mechanism."
-Q8;"Do you publish information on the quality of the metadata available on the portal?
+* Wenn ja, erläutern Sie bitte kurz, wie diese Überwachung erfolgt.
+* Falls zutreffend, geben Sie bitte die URL zu diesem Überwachungsmechanismus an."
+Q8;"Veröffentlichen Sie Informationen zur Qualität der auf dem Portal verfügbaren Metadaten?
 
 Zur Einordnung:
-* If yes, please provide the URL to this section. "
-Q9;"Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata? 
+* Wenn ja, geben Sie bitte die URL zu diesem Abschnitt an."
+Q9;"Veröffentlichen Sie Richtlinien (z. B. schriftliche Materialien) und verfügen Sie über Tools, die Herausgeber bei der Veröffentlichung hochwertiger Metadaten unterstützen?
 
 Zur Einordnung:
-* If yes, please (1) briefly describe this material and (2) provide the URLs to these materials and/or tools."
-Q10;"Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)
+* Wenn ja, (1) beschreiben Sie dieses Material bitte kurz und (2) geben Sie die URLs zu diesen Materialien und/oder Tools an."
+Q10;"Legen Sie Standards für die Metadatenqualität fest, an die sich Datenanbieter halten müssen (z. B. hinsichtlich der Verwendung von Lizenzen, Mindestbeschreibungen von Metadaten, Verwendung bestimmter DCAT-AP-Eigenschaften usw.)?
 
 Zur Einordnung:
-* If yes, please describe the standards you have in place, i.e. what is minimum information the metadata should describe "
-Q11;"Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences, specifically CC BY 4.0 and CC0?
+* Wenn ja, beschreiben Sie bitte die von Ihnen festgelegten Standards, d. h. welche Informationen die Metadaten mindestens enthalten müssen"
+Q11;"Geben Ihre Open-Data-Publikations-/Lizenzierungsrichtlinien Empfehlungen für die Nutzung von Creative Commons (CC)-Lizenzen, insbesondere CC BY 4.0 und CC0?
 
 Zur Einordnung:
-* If yes, is this mandatory (e.g. prescribed by law) or recommended?
-* Please provide a URL link to the guidelines"
-Q12;What percentage of the open data available on the national portal is accompanied by licensing information? 
-Q13;How many different licences are used on your portal?
-Q14;"Besides providing guidelines, are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets (metadata quality and data quality)?
+* Wenn ja, ist dies obligatorisch (z. B. gesetzlich vorgeschrieben) oder empfohlen?
+* Bitte geben Sie einen URL-Link zu den Richtlinien an"
+Q12;Wie viel Prozent der auf dem nationalen Portal verfügbaren offenen Daten sind mit Lizenzinformationen versehen?
+Q13;Wie viele verschiedene Lizenzen werden auf Ihrem Portal verwendet?
+Q14;"Gibt es neben der Bereitstellung von Leitlinien regelmäßige Aktivitäten oder Mechanismen, um Herausgeber bei der Bereitstellung qualitativ hochwertiger Datensätze (Metadatenqualität und Datenqualität) zu unterstützen?
 
 Zur Einordnung:
-* If yes, please explain the support you provide?"
-D3.3;3.3 DCAT-AP Compliance
-Q15;"Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?
+* Wenn ja, erläutern Sie bitte die Unterstützung, die Sie leisten."
+D3.3;3.3 DCAT-AP-Konformität
+Q15;"Folgt das nationale Portal dem DCAT-AP-Framework oder gibt es, falls nicht, Standards, die die Interoperabilität mit DCAT-AP gewährleisten?
 
 Zur Einordnung:
-* If the  portal follow the DCAT-AP framework, please describe how compliance with DCAT-AP is ensured
-* If the portal does not follow the DCAT-AP framework, please describe how interoperability with DCAT-AP is ensured"
-Q16;What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource)
-Q17;What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document)
-Q18;What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency)
-Q19;"Is there a national extension of the DCAT-AP standard developed for your country? 
+* Wenn das Portal dem DCAT-AP-Framework folgt, beschreiben Sie bitte, wie die Konformität mit DCAT-AP sichergestellt wird.
+* Wenn das Portal nicht dem DCAT-AP-Framework folgt, beschreiben Sie bitte, wie die Interoperabilität mit DCAT-AP sichergestellt wird."
+Q16;Wie hoch ist der Prozentsatz der Metadaten auf Ihrem Portal, die DCAT-AP-kompatibel sind, gemessen an den obligatorischen Klassen? (Agent, Katalog, Datensatz, Literal, Ressource)
+Q17;Wie hoch ist der Prozentsatz der Metadaten in Ihrem Portal, die von DCAT-AP empfohlene Klassen verwenden? (Kategorie, Kategorienschema, Distribution, Lizenzdokument)
+Q18;Wie hoch ist der Prozentsatz der Metadaten in Ihrem Portal, die optionale DCAT-AP-Klassen verwenden? (Katalogdatensatz, Prüfsumme, Dokument, Häufigkeit)
+Q19;"Gibt es für Ihr Land eine nationale Erweiterung des DCAT-AP-Standards?
 
 Zur Einordnung:
-* If yes, please (1) briefly outline the reasons for this decision, and (2) what the main differences between the national variation and the EU standard are.
-* If applicable, please provide the URL to the documentation of the national DCAT-AP extension."
-Q20;"Do you investigate the most common causes for the lack of DCAT-AP compliance?
+* Wenn ja, erläutern Sie bitte (1) kurz die Gründe für diese Entscheidung und (2) was die wesentlichen Unterschiede zwischen der nationalen Variante und dem EU-Standard sind.
+* Gegebenenfalls geben Sie bitte die URL zur Dokumentation der nationalen DCAT-AP-Erweiterung an."
+Q20;"Untersuchen Sie die häufigsten Ursachen für die mangelnde DCAT-AP-Konformität?
 
 Zur Einordnung:
-* If yes, what are the main causes for the lack of DCAT-AP compliance?"
-Q21;What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?
-Q22;What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?
-D3.4;3.4 Deployment quality and linked data
-Q23;"Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?
+* Wenn ja, was sind die Hauptursachen für die mangelnde DCAT-AP-Konformität?"
+Q21;Wie hoch ist der Prozentsatz der Datensätze, deren Metadaten einen Hinweis darauf bieten, wo die Daten heruntergeladen werden können oder auf deren API zugegriffen werden kann („Download-URL“ in der DCAT-AP-Spezifikation)?
+Q22;Wie hoch ist der Prozentsatz der Datensätze, deren Metadaten einen Verweis auf eine Webseite bereitstellen, von der aus auf die Daten zugegriffen werden kann („Zugriffs-URL in der DCAT-AP-Spezifikation“)?
+D3.4;3.4 Bereitstellungsqualität und verknüpfte Daten
+Q23;"Verwenden Sie ein Modell (z. B. 5-Sterne Open Data oder FAIR), um die Qualität der Datenbereitstellung in Ihrem Land zu bewerten?
 
 Zur Einordnung:
-* If yes, please briefly describe."
-Q24;"Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data?
+* Wenn ja, bitte kurz beschreiben."
+Q24;"Führen Sie Aktivitäten durch, um Datenanbieter zu fördern und sie mit Möglichkeiten zur Sicherstellung höherer Datenqualität vertraut zu machen?
 
 Zur Einordnung:
-* If yes, please briefly describe."
-Q25;What percentage of datasets are made available under an open licence? 
-Q26;What percentage of licences are provided in a structured data format?
-Q27;What percentage of datasets are provided in an open and machine-readable format?
-Q28;What percentage of datasets consistely use Uniform Resource Identifiers?
-Q29;What percentage of datasets link to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?
+* Wenn ja, bitte kurz beschreiben."
+Q25;Wie viel Prozent der Datensätze werden unter einer offenen Lizenz verfügbar gemacht?
+Q26;Wie viel Prozent der Lizenzen werden in einem strukturierten Datenformat bereitgestellt?
+Q27;Wie viel Prozent der Datensätze werden in einem offenen und maschinenlesbaren Format bereitgestellt?
+Q28;Wie viel Prozent der Datensätze verwenden durchgängig Uniform Resource Identifiers?
+Q29;Wie viel Prozent der Datensätze verlinken auf andere bekannte Quellen, um den Benutzern zusätzlichen Kontext zu bieten, z.B. im Wege von Linked Data?
 D4;Dimension 4: Auswirkungen von offenen Daten
 D4.1;4.1. Strategisches Bewusstsein
 I1;"Gibt es in Ihrem Land eine Definition für die Wiederverwendung offener Daten?

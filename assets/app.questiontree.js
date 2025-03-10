@@ -1080,7 +1080,12 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '109', 2024: 'Q4'},
+                            id: {2023: '109'},
+                            title: '... published data cover the full period from when it was first published ...'
+                        },
+                        {
+                            type: 'entry',
+                            id: {2024: 'Q4'},
                             title: '... published data cover the full period from when it was first published ...'
                         },
                         {

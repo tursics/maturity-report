@@ -180,12 +180,13 @@ var _ = (function () {
 
                 if ('Confirm' === status) {
                     if ((newValue !== '') && (newValue !== value)) {
-                        console.error('Country: ' + country + "\nQuestion: " + translation.ID + "\nYear: " + year + "\n> Unchanged explanation has changes\nOld value: "+ value + "\nNew value: " + newValue);
+//                        console.error('Country: ' + country + "\nQuestion: " + translation.ID + "\nYear: " + year + "\n> Unchanged explanation has changes\nOld value: "+ value + "\nNew value: " + newValue);
+                        value = newValue + '<br><br><span style="color:goldenrod;font-size:.8em"><span data-i18n="former_value_2023">' + _.get('former_value_2023') + '</span><br>' + value + '</span>';
                     }
                 } else if ('Change' === status) {
-                    value = newValue + '<br><br><span style="color:goldenrod;font-size:.8em">Former value from 2023<br>' + value + '</span>';
+                    value = newValue + '<br><br><span style="color:goldenrod;font-size:.8em"><span data-i18n="former_value_2023">' + _.get('former_value_2023') + '</span><br>' + value + '</span>';
                 } else if ('Complement' === status) {
-                    value += '<br><br><span style="color:goldenrod;font-size:.8em">Complement from 2024</span><br>' + newValue;
+                    value += '<br><br><span style="color:goldenrod;font-size:.8em"><span data-i18n="complement_2024">' + _.get('complement_2024') + '</span></span><br>' + newValue;
                 } else {
                     console.error(status);
                 }

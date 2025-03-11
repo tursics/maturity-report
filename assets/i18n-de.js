@@ -1,5 +1,6 @@
 var i18n = i18n || [];
 i18n['de'] = {
+    'complement_2024': 'Ergänzung von 2024',
     'countries': 'Staaten:',
     'countriesAll': 'Zeige alle',
     'countriesNone': 'Zeige keine',
@@ -43,10 +44,11 @@ i18n['de'] = {
     'empty': 'Bitte wählen Sie einen Staat aus',
     'EU': 'EU',
     'footer_code': 'Codebasis',
-    'footer_EU_modified': 'EU, geändert',
     'footer_data': 'Daten',
     'footer_data_version_2023': 'Dez. 2023',
     'footer_data_version_2024': 'Dez. 2024',
+    'footer_EU_modified': 'EU, geändert',
+    'former_value_2023': 'Ehemaliger Wert von 2023',
     'guide': 'Anleitung zum antworten',
     'headline': 'Überschrift',
     'Info': 'Info',

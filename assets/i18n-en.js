@@ -1,5 +1,6 @@
 var i18n = i18n || [];
 i18n['en'] = {
+    'complement_2024': 'Complement from 2024',
     'countries': 'Countries:',
     'countriesAll': 'Show all',
     'countriesNone': 'Show none',
@@ -47,6 +48,7 @@ i18n['en'] = {
     'footer_data_version_2023': '12/2023',
     'footer_data_version_2024': '12/2024',
     'footer_EU_modified': 'EU, modified',
+    'former_value_2023': 'Former value from 2023',
     'guide': 'Guide to answering',
     'headline': 'Headline',
     'Info': 'Info',

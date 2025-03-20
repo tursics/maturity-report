@@ -191,7 +191,11 @@ class Shield {
         }
 
         var tooltip = _.get(obj.id[year], year).split('<br>')[0];
-        var str = '<span onclick="goto(\'' + obj.id[year] + '\',null,' + year + ')" data-i18n-title="' + (obj.id[year]) + '" data-year="' + year + '" title="' + tooltip + '" class="answerbox ' + color + '" style="' + style + '"></span>';
+        var quoteYear = year;
+        if ('live' === quoteYear) {
+            quoteYear = '\'' + quoteYear + '\'';
+        }
+        var str = '<span onclick="goto(\'' + obj.id[year] + '\',null,' + quoteYear + ')" data-i18n-title="' + (obj.id[year]) + '" data-year="' + year + '" title="' + tooltip + '" class="answerbox ' + color + '" style="' + style + '"></span>';
 
         if (!showGray && (color === 'bg-gray')) {
             str = '';
@@ -351,8 +355,12 @@ class Shield {
                         value = '25%';
                     }
 
-                    str += '<div onclick="goto(\'' + dimension.id + '\',null,' + this.year + ')" class="score-barchart" style="left: ' + (x + .5) + 'em;background: repeating-linear-gradient(0,' + color + ',' + color + ' ' + value + ',#555 0,#555 100%);"></div>';
-                    str += '<div onclick="goto(\'' + dimension.id + '\',null,' + this.year + ')" class="score-barchart-label" style="left: ' + x + 'em;" title="' + dimension.score + '">' + label + '</div>';
+                    var quoteYear = this.year;
+                    if ('live' === quoteYear) {
+                        quoteYear = '\'' + quoteYear + '\'';
+                    }
+                    str += '<div onclick="goto(\'' + dimension.id + '\',null,' + quoteYear + ')" class="score-barchart" style="left: ' + (x + .5) + 'em;background: repeating-linear-gradient(0,' + color + ',' + color + ' ' + value + ',#555 0,#555 100%);"></div>';
+                    str += '<div onclick="goto(\'' + dimension.id + '\',null,' + quoteYear + ')" class="score-barchart-label" style="left: ' + x + 'em;" title="' + dimension.score + '">' + label + '</div>';
 
                     x += 3;
                 }

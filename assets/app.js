@@ -27,7 +27,10 @@ function onFinishLoading() {
 }
 
 function onFileScoring(filepath, data) {
-    var year = parseInt(filepath.split('/').shift(), 10);
+    var year = filepath.split('/').shift();
+    if ('live' !== year) {
+        year = parseInt(year, 10);
+    }
 
     loadedDataScore[year] = [];
     data.forEach((obj) => {

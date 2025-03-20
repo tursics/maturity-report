@@ -3,6 +3,9 @@ var countries = (function () {
         idYearSwitch = 'year-switch',
         csvPath = '{year}/3-simplified/{country}_ODM_{year}{language}.csv';
         loadList = {
+            live: [
+                {n:'de',s:0}
+            ],
             2024: [
                 {n:'fr',s:2510},{n:'pl',s:2460},{n:'ua',s:2445},{n:'sk',s:2405},{n:'ie',s:2395},{n:'es',s:2388},{n:'lt',s:2370},{n:'cz',s:2365},{n:'cy',s:2360},{n:'ee',s:2360},{n:'it',s:2360},
                 {n:'lv',s:2280},{n:'dk',s:2273},{n:'si',s:2253},{n:'pt',s:2240},{n:'no',s:2238},{n:'at',s:2193},{n:'rs',s:2125},{n:'lu',s:2100},
@@ -36,9 +39,19 @@ var countries = (function () {
             ++count;
 
             node = document.createElement('figure');
-            node.classList = 'shield shield-button blue-sky ' + (count === 1 ? 'group-2-left' : 'group-2-right');
+            if (loadList.length === 2) {
+                node.classList = 'shield shield-button blue-sky ' + (count === 1 ? 'group-2-left' : 'group-2-right');
+            } else {
+                node.classList = 'shield shield-button blue-sky ' + (count === 1 ? 'group-3-left' : (count === 2 ? 'group-3-middle' : 'group-3-right'));
+            }
             node.dataset.year = year;
-            node.onclick = function() { changeYear(parseInt(year, 10)); }
+            node.onclick = function() {
+                if ('live' === year) {
+                    changeYear(year);
+                } else {
+                    changeYear(parseInt(year, 10));
+                }
+            }
             node.innerHTML =
 				'<div class="shield-border"><div class="shield-borderhat"></div></div>' +
 				'<div class="shield-background">' +

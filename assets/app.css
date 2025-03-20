@@ -176,21 +176,31 @@ li {
     border-top-color: #6cb4df !important;
 }
 
-.shield-button.group-2-left {
+.shield-button.group-2-left, .shield-button.group-3-left {
     margin-right: -.2rem;
     transform: rotate(-10deg);
     z-index: 1;
 }
-.shield-button.group-2-left.selected {
+.shield-button.group-2-left.selected, .shield-button.group-3-left.selected {
     top: 0 !important;
     z-index: 2;
 }
-.shield-button.group-2-right {
+.shield-button.group-3-middle {
+    margin-left: -.2rem;
+    margin-right: -.2rem;
+    transform: rotate(0deg);
+    z-index: 1;
+}
+.shield-button.group-3-middle.selected {
+    top: 0 !important;
+    z-index: 2;
+}
+.shield-button.group-2-right, .shield-button.group-3-right {
     margin-left: -.2rem;
     transform: rotate(10deg);
     z-index: 1;
 }
-.shield-button.group-2-right.selected {
+.shield-button.group-2-right.selected, .shield-button.group-3-right.selected {
     top: 0 !important;
     z-index: 2;
 }

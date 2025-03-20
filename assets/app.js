@@ -2,7 +2,7 @@
 
 var DEFAULT_LANG = 'de',
     LOAD_LANG = ['de', 'en'],
-    LOAD_YEAR = [2023, 2024],
+    LOAD_YEAR = [2023, 2024, 'live'],
     INIT_COUNTRY = 'de',
     INIT_YEAR = 2024,
     INIT_ROOT = 'root',
@@ -146,7 +146,10 @@ function changeLanguage(newLang) {
 function changeYear(newYear) {
     var years = document.querySelectorAll('#year-switch figure.shield-button');
     years.forEach((elem) => {
-        var year = parseInt(elem.dataset.year, 10);
+        var year = elem.dataset.year;
+        if ('live' !== year) {
+            year = parseInt(year, 10);
+        }
 
         elem.classList.remove('selected');
 
@@ -157,7 +160,10 @@ function changeYear(newYear) {
 
     var yearLang = document.querySelectorAll('figure.shield-button[data-country]');
     yearLang.forEach((elem) => {
-        var year = parseInt(elem.dataset.year, 10);
+        var year = elem.dataset.year;
+        if ('live' !== year) {
+            year = parseInt(year, 10);
+        }
 
         elem.style.display = year === newYear ? 'inline-block' : 'none';
     })

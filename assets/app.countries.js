@@ -35,7 +35,7 @@ var countries = (function () {
         document.getElementById(idElement).appendChild(node);
 
         var count = 0;
-        Object.keys(loadList).reverse().forEach((year) => {
+        Object.keys(loadList)./*reverse().*/forEach((year) => {
             ++count;
 
             node = document.createElement('figure');

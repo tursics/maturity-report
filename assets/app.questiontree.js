@@ -384,24 +384,24 @@ var questionTree = {
         },
         {
             type: 'dimension',
-            id: {2023: 'D3', 2024: 'D2'},
+            id: {2023: 'D3', 2024: 'D2', live: 'D2'},
             title: 'Open Data Portal',
             color: '#001d85',
             children: [
                 {
                     type: 'dimension',
-                    id: {2023: 'D3.1', 2024: 'D2.1'},
+                    id: {2023: 'D3.1', 2024: 'D2.1', live: 'D2.1'},
                     title: 'Portal features',
                     color: '#001d85',
                     children: [
                         {
                             type: 'entry',
-                            id: {2023: '59', 2024: 'PT1'},
+                            id: {2023: '59', 2024: 'PT1', live: 'PT1'},
                             title: 'Is there a national portal in your country for ...'
                         },
                         {
                             type: 'entry',
-                            id: {2024: 'PT2'},
+                            id: {2024: 'PT2', live: 'PT2'},
                             title: 'What is the technology stack of your portal (e.g. based on uData, CKAN, etc.)'
                         },
                         {
@@ -431,12 +431,12 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2024: 'PT3'},
+                            id: {2024: 'PT3', live: 'PT3'},
                             title: 'Does the national portal offer to its users a way to programmatically query the metadata via an API?'
                         },
                         {
                             type: 'entry',
-                            id: {2024: 'PT4'},
+                            id: {2024: 'PT4', live: 'PT4'},
                             title: 'Does the national portal offer to its users a way to programmatically query the metadata via a SPARQL access point?'
                         },
                         {
@@ -446,12 +446,12 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2024: 'PT5'},
+                            id: {2024: 'PT5', live: 'PT5'},
                             title: 'Does the national portal offer/link to documentation on the use of APIs?'
                         },
                         {
                             type: 'entry',
-                            id: {2024: 'PT6'},
+                            id: {2024: 'PT6', live: 'PT6'},
                             title: 'Does the national portal offer/link to documentation on the use of SPARQL?'
                         },
                         {
@@ -461,37 +461,37 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2024: 'PT7'},
+                            id: {2024: 'PT7', live: 'PT7'},
                             title: 'Does the national portal provide functionality for users to contribute datasets they have produced or enriched?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '66a', 2024: 'PT8'},
+                            id: {2023: '66a', 2024: 'PT8', live: 'PT8'},
                             title: 'Does the national portal offer a general feedback mechanism for users (e.g. a ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '66b', 2024: 'PT9'},
+                            id: {2023: '66b', 2024: 'PT9', live: 'PT9'},
                             title: 'Does the national portal offer a feedback mechanism at dataset level? (e.g. a ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '66c', 2024: 'PT10'},
+                            id: {2023: '66c', 2024: 'PT10', live: 'PT10'},
                             title: 'Does the national portal provide a mechanism for users to rate datasets?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '67', 2024: 'PT11'},
+                            id: {2023: '67', 2024: 'PT11', live: 'PT11'},
                             title: 'Does the national portal enable users to find information and news on relevant open data topics in the country?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '68', 2024: 'PT12'},
+                            id: {2023: '68', 2024: 'PT12', live: 'PT12'},
                             title: 'Does the national portal offer the possibility for users to receive notifications when new datasets are available on the national portal (RSS, ATOM feeds, email notifications etc.)?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '69a', 2024: 'PT13'},
+                            id: {2023: '69a', 2024: 'PT13', live: 'PT13'},
                             title: 'Does the national portal offer the possibility for users to request datasets?'
                         },
                         {
@@ -501,12 +501,12 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '69c', 2024: 'PT14'},
+                            id: {2023: '69c', 2024: 'PT14', live: 'PT14'},
                             title: 'Are these requests and their progress status presented in a transparent manner on the national portal?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '70a', 2024: 'PT15'},
+                            id: {2023: '70a', 2024: 'PT15', live: 'PT15'},
                             title: 'Does the team monitor the extent to which requests (either via the portal or otherwise) result in the publication of the requested data?'
                         },
                         {
@@ -516,32 +516,32 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '71', 2024: 'PT16'},
+                            id: {2023: '71', 2024: 'PT16', live: 'PT16'},
                             title: 'Does the national portal include a discussion forum ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '72', 2024: 'PT17'},
+                            id: {2023: '72', 2024: 'PT17', live: 'PT17'},
                             title: 'Does the national portal have a designated area to showcase use cases?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '73', 2024: 'PT18'},
+                            id: {2023: '73', 2024: 'PT18', live: 'PT18'},
                             title: 'Does the national portal reference the datasets that the showcased ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '74', 2024: 'PT19'},
+                            id: {2023: '74', 2024: 'PT19', live: 'PT19'},
                             title: 'Does the national portal provide the possibility for users to submit their own ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '75', 2024: 'PT20'},
+                            id: {2023: '75', 2024: 'PT20', live: 'PT20'},
                             title: 'Does the national portal offer a preview function for tabular data?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '76', 2024: 'PT21'},
+                            id: {2023: '76', 2024: 'PT21', live: 'PT21'},
                             title: 'Does the national portal offer a preview function for geospatial data?'
                         },
                         {
@@ -551,14 +551,14 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2024: 'PT22'},
+                            id: {2024: 'PT22', live: 'PT22'},
                             title: 'Do you promotion high-value datasets on your national portal ...'
                         }
                     ]
                 },
                 {
                     type: 'dimension',
-                    id: {2023: 'D3.2', 2024: 'D2.2'},
+                    id: {2023: 'D3.2', 2024: 'D2.2', live: 'D2.2'},
                     title: 'Portal usage',
                     color: '#001d85',
                     children: [
@@ -569,12 +569,12 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '79', 2024: 'PT23'},
+                            id: {2023: '79', 2024: 'PT23', live: 'PT23'},
                             title: 'Do you monitor the portal\'s traffic ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '90a', 2024: 'PT24'},
+                            id: {2023: '90a', 2024: 'PT24', live: 'PT24'},
                             title: 'Do you run analytics on API usage ...'
                         },
                         {
@@ -589,7 +589,7 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '80b', 2024: 'PT25'},
+                            id: {2023: '80b', 2024: 'PT25', live: 'PT25'},
                             title: 'Do you perform further activities to better understand ...'
                         },
                         {
@@ -604,12 +604,12 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2024: 'PT26'},
+                            id: {2024: 'PT26', live: 'PT26'},
                             title: 'Do you used the insights about portal usage and about the behaviour and needs of portal users to improve the portal accordingly?'
                         },
                         {
                             type: 'entry',
-                            id: {2024: 'PT27'},
+                            id: {2024: 'PT27', live: 'PT27'},
                             title: 'Do you undertake any activities to promote the portal and attract new users or new audiences?'
                         },
                         {
@@ -624,12 +624,12 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '84', 2024: 'PT28'},
+                            id: {2023: '84', 2024: 'PT28', live: 'PT28'},
                             title: 'Do you monitor what keywords are used to search for data and content on the portal?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '85', 2024: 'PT29'},
+                            id: {2023: '85', 2024: 'PT29', live: 'PT29'},
                             title: 'Do you monitor the most and least consulted pages?'
                         },
                         {
@@ -644,55 +644,55 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '88', 2024: 'PT30'},
+                            id: {2023: '88', 2024: 'PT30', live: 'PT30'},
                             title: 'Do you take measures to optimise the search and discoverability of content (data and editorial)?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '89', 2024: 'PT31'},
+                            id: {2023: '89', 2024: 'PT31', live: 'PT31'},
                             title: 'Is the metadata on your portal available in clear plain language to enable both humans and machines to read and understand it?'
                         }
                     ]
                 },
                 {
                     type: 'dimension',
-                    id: {2023: 'D3.3', 2024: 'D2.3'},
+                    id: {2023: 'D3.3', 2024: 'D2.3', live: 'D2.3'},
                     title: 'Data provision',
                     color: '#001d85',
                     children: [
                         {
                             type: 'entry',
-                            id: {2023: '91', 2024: 'PT32'},
+                            id: {2023: '91', 2024: 'PT32', live: 'PT32'},
                             title: 'To what degree do public sector data providers contribute data to the portal?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '92a', 2024: 'PT33'},
+                            id: {2023: '92a', 2024: 'PT33', live: 'PT33'},
                             title: 'Do you identify the data providers that are not yet publishing data on the national portal?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '92b', 2024: 'PT34'},
+                            id: {2023: '92b', 2024: 'PT34', live: 'PT34'},
                             title: 'Were there concrete actions taken to assist these data providers with their publication process?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '93a', 2024: 'PT35'},
+                            id: {2023: '93a', 2024: 'PT35', live: 'PT35'},
                             title: 'Besides the national open data portal, are there other regional and local portals?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '93b', 2024: 'PT36'},
+                            id: {2023: '93b', 2024: 'PT36', live: 'PT36'},
                             title: '... their data sources discoverable via the national portal?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '93c', 2024: 'PT37'},
+                            id: {2023: '93c', 2024: 'PT37', live: 'PT37'},
                             title: '... to what degree are existing regional and local sources harvested automatically?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '94a', 2024: 'PT38'},
+                            id: {2023: '94a', 2024: 'PT38', live: 'PT38'},
                             title: 'Does the national portal include datasets that are real-time or dynamic?'
                         },
                         {
@@ -702,7 +702,7 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '95', 2024: 'PT39'},
+                            id: {2023: '95', 2024: 'PT39', live: 'PT39'},
                             title: 'Does the national portal provide a separate section where non-official data ...'
                         },
                         {
@@ -712,20 +712,20 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '97', 2024: 'PT40'},
+                            id: {2023: '97', 2024: 'PT40', live: 'PT40'},
                             title: 'Does the national portal allow users to see what data exists but cannot be made available as open data?'
                         }
                     ]
                 },
                 {
                     type: 'dimension',
-                    id: {2023: 'D3.4', 2024: 'D2.4'},
+                    id: {2023: 'D3.4', 2024: 'D2.4', live: 'D2.4'},
                     title: 'Portal sustainability',
                     color: '#001d85',
                     children: [
                         {
                             type: 'entry',
-                            id: {2023: '98', 2024: 'PT41'},
+                            id: {2023: '98', 2024: 'PT41', live: 'PT41'},
                             title: 'Does the national portal have a strategy to ensure its sustainability?'
                         },
                         {
@@ -735,7 +735,7 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '100', 2024: 'PT42'},
+                            id: {2023: '100', 2024: 'PT42', live: 'PT42'},
                             title: 'Is your national portal active on social media?'
                         },
                         {
@@ -745,7 +745,7 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '102', 2024: 'PT43'},
+                            id: {2023: '102', 2024: 'PT43', live: 'PT43'},
                             title: 'Are the portals source code ...'
                         },
                         {
@@ -770,12 +770,12 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '105a', 2024: 'PT44'},
+                            id: {2023: '105a', 2024: 'PT44', live: 'PT44'},
                             title: '... the characteristics of the data published on the portal, such as the distribution across categories, ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '105b', 2024: 'PT45'},
+                            id: {2023: '105b', 2024: 'PT45', live: 'PT45'},
                             title: 'Does this monitoring enable the portal team and/or data providers to take action to improve their performance on the national portal?'
                         }
                     ]
@@ -784,19 +784,19 @@ var questionTree = {
         },
         {
             type: 'dimension',
-            id: {2023: 'D2', 2024: 'D4'},
+            id: {2023: 'D2', 2024: 'D4', live: 'D4'},
             title: 'Open Data Impact',
             color: '#dc5149',
             children: [
                 {
                     type: 'dimension',
-                    id: {2023: 'D2.1', 2024: 'D4.1'},
+                    id: {2023: 'D2.1', 2024: 'D4.1', live: 'D4.1'},
                     title: 'Strategic awareness',
                     color: '#dc5149',
                     children: [
                         {
                             type: 'entry',
-                            id: {2023: '28', 2024: 'I1'},
+                            id: {2023: '28', 2024: 'I1', live: 'I1'},
                             title: 'Do you have a definition of open data reuse in your country?'
                         },
                         {
@@ -806,27 +806,27 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '30', 2024: 'I2'},
+                            id: {2023: '30', 2024: 'I2', live: 'I2'},
                             title: 'Are there any processes in place to monitor the level of reuse of your country ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '31', 2024: 'I3'},
+                            id: {2023: '31', 2024: 'I3', live: 'I3'},
                             title: 'Are there any activities in place to encourage public bodies to monitor the reuse of their own published data (e.g. incentives or obligations in place for public bodies or civil servants of national government)?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '32', 2024: 'I4'},
+                            id: {2023: '32', 2024: 'I4', live: 'I4'},
                             title: '... to monitor and measure the level of reuse of high-value datasets ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '33', 2024: 'I5'},
+                            id: {2023: '33', 2024: 'I5', live: 'I5'},
                             title: 'Has your government specified what \'impact of open data\' means (e.g. in a strategy document)?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '34', 2024: 'I6'},
+                            id: {2023: '34', 2024: 'I6', live: 'I6'},
                             title: 'Do you have a methodology in place to measure the impact of open data in your country?'
                         },
                         {
@@ -836,20 +836,20 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '36', 2024: 'I7'},
+                            id: {2023: '36', 2024: 'I7', live: 'I7'},
                             title: 'Is there collaboration between government and civil society or academia to create open data impact in your country?'
                         }
                     ]
                 },
                 {
                     type: 'dimension',
-                    id: {2023: 'D2.2', 2024: 'D4.2'},
+                    id: {2023: 'D2.2', 2024: 'D4.2', live: 'D4.2'},
                     title: 'Measuring reuse',
                     color: '#dc5149',
                     children: [
                         {
                             type: 'entry',
-                            id: {2023: '37', 2024: 'I8'},
+                            id: {2023: '37', 2024: 'I8', live: 'I8'},
                             title: 'Have any public bodies in your country launched or performed any activities in the past year to ... which and how (open) datasets are reused?'
                         },
                         {
@@ -859,190 +859,190 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '37.2', 2024: 'I8-a'},
+                            id: {2023: '37.2', 2024: 'I8-a', live: 'I8-a'},
                             title: 'Automated feedback mechanisms tracking users access to datasets'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '37.3', 2024: 'I8-b'},
+                            id: {2023: '37.3', 2024: 'I8-b', live: 'I8-b'},
                             title: 'Surveys'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '37.4', 2024: 'I8-c'},
+                            id: {2023: '37.4', 2024: 'I8-c', live: 'I8-c'},
                             title: 'Interviews/workshops with reusers'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '37.5', 2024: 'I8-d'},
+                            id: {2023: '37.5', 2024: 'I8-d', live: 'I8-d'},
                             title: 'Other'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '38', 2024: 'I9'},
+                            id: {2023: '38', 2024: 'I9', live: 'I9'},
                             title: 'Have any public bodies in your country launched or performed any activities in the past year to better understand reusers ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '38.1', 2024: 'I9-a'},
+                            id: {2023: '38.1', 2024: 'I9-a', live: 'I9-a'},
                             title: 'Regular feedback sessions with portal users'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '38.2', 2024: 'I9-b'},
+                            id: {2023: '38.2', 2024: 'I9-b', live: 'I9-b'},
                             title: 'Social media sentiment analysis '
                         },
                         {
                             type: 'entry',
-                            id: {2023: '38.3', 2024: 'I9-c'},
+                            id: {2023: '38.3', 2024: 'I9-c', live: 'I9-c'},
                             title: 'Other'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '39a', 2024: 'I10'},
+                            id: {2023: '39a', 2024: 'I10', live: 'I10'},
                             title: 'Have any public bodies in your country developed any systematic way of gathering reuse cases?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '39b', 2024: 'I11'},
+                            id: {2023: '39b', 2024: 'I11', live: 'I11'},
                             title: 'Are there any public bodies in your country that have developed a systematic ways of classifying the gathered reuse cases?'
                         }
                     ]
                 },
                 {
                     type: 'dimension',
-                    id: {2023: 'D2.3', 2024: 'D4.3'},
+                    id: {2023: 'D2.3', 2024: 'D4.3', live: 'D4.3'},
                     title: 'Created impact',
                     color: '#dc5149',
                     children: [
                         {
                             type: 'dimension',
-                            id: {2023: 'D2.3a', 2024: 'D4.3a'},
+                            id: {2023: 'D2.3a', 2024: 'D4.3a', live: 'D4.3a'},
                             title: 'Governmental impact',
                             color: '#dc5149',
                             children: [
                                 {
                                     type: 'entry',
-                                    id: {2023: '40', 2024: 'I12'},
+                                    id: {2023: '40', 2024: 'I12', live: 'I12'},
                                     title: 'Is any data on the impact created by open data on governmental challenges (e.g. efficiency, effectiveness, transparency, decision-making capacity) available in your country ...'
                                 },
                                 {
                                     type: 'entry',
-                                    id: {2023: '41', 2024: 'I13'},
+                                    id: {2023: '41', 2024: 'I13', live: 'I13'},
                                     title: 'Is the use of open data in your country having an impact on the efficiency and effectiveness of the government (at any level) in delivering public services?'
                                 },
                                 {
                                     type: 'entry',
-                                    id: {2023: '42', 2024: 'I14'},
+                                    id: {2023: '42', 2024: 'I14', live: 'I14'},
                                     title: 'Is the use of open data in your country having an impact on transparency and accountability of public administrations?'
                                 },
                                 {
                                     type: 'entry',
-                                    id: {2023: '43', 2024: 'I15'},
+                                    id: {2023: '43', 2024: 'I15', live: 'I15'},
                                     title: 'Is the use of open data in your country having an impact on policy-making processes (i.e. are public administrations making use of the data as evidence for the problem identification and policy formulation)?'
                                 },
                                 {
                                     type: 'entry',
-                                    id: {2023: '44', 2024: 'I16'},
+                                    id: {2023: '44', 2024: 'I16', live: 'I16'},
                                     title: 'Is the use of open data in your country having an impact on decision-making processes (i.e. are public administrations making use of the data as evidence to be included in their daily operations)?'
                                 }
                             ]
                         },
                         {
                             type: 'dimension',
-                            id: {2023: 'D2.3b', 2024: 'D4.3b'},
+                            id: {2023: 'D2.3b', 2024: 'D4.3b', live: 'D4.3b'},
                             title: 'Social impact',
                             color: '#dc5149',
                             children: [
                                 {
                                     type: 'entry',
-                                    id: {2023: '45', 2024: 'I17'},
+                                    id: {2023: '45', 2024: 'I17', live: 'I17'},
                                     title: 'Is any data on the impact created by open data on social challenges ...'
                                 },
                                 {
                                     type: 'entry',
-                                    id: {2023: '46', 2024: 'I18'},
+                                    id: {2023: '46', 2024: 'I18', live: 'I18'},
                                     title: 'Is the use of open data in your country having an impact on society´s ability to reduce inequality and better include minorities, migrants, and/or refugees ...'
                                 },
                                 {
                                     type: 'entry',
-                                    id: {2023: '47', 2024: 'I19'},
+                                    id: {2023: '47', 2024: 'I19', live: 'I19'},
                                     title: 'Is the use of open data in your country having an impact on ... housing in urban areas?'
                                 },
                                 {
                                     type: 'entry',
-                                    id: {2023: '48', 2024: 'I20'},
+                                    id: {2023: '48', 2024: 'I20', live: 'I20'},
                                     title: 'Is the use of open data in your country having an impact on ... health and wellbeing ...'
                                 },
                                 {
                                     type: 'entry',
-                                    id: {2023: '49', 2024: 'I21'},
+                                    id: {2023: '49', 2024: 'I21', live: 'I21'},
                                     title: 'Is the use of open data in your country having an impact on the society´s level of education and skills (e.g. data literacy)?'
                                 }
                             ]
                         },
                         {
                             type: 'dimension',
-                            id: {2023: 'D2.3c', 2024: 'D4.3c'},
+                            id: {2023: 'D2.3c', 2024: 'D4.3c', live: 'D4.3c'},
                             title: 'Environmental impact',
                             color: '#dc5149',
                             children: [
                                 {
                                     type: 'entry',
-                                    id: {2023: '50', 2024: 'I22'},
+                                    id: {2023: '50', 2024: 'I22', live: 'I22'},
                                     title: 'Is any data on the impact created by open data on environmental challenges (e.g. climate change and environmental degradation, as highlighted in the Eurpean Green Deal) available in your country ...'
                                 },
                                 {
                                     type: 'entry',
-                                    id: {2023: '51', 2024: 'I23'},
+                                    id: {2023: '51', 2024: 'I23', live: 'I23'},
                                     title: 'Is the use of open data in your country having an impact on the level of protection of biodiversity (e.g. maintaining a good air and water quality)?'
                                 },
                                 {
                                     type: 'entry',
-                                    id: {2023: '52', 2024: 'I24'},
+                                    id: {2023: '52', 2024: 'I24', live: 'I24'},
                                     title: 'Is the use of open data in your country having an impact on the achievement of more environment-friendly cities (e.g., environment-friendly transport systems, waste management etc.)?'
                                 },
                                 {
                                     type: 'entry',
-                                    id: {2023: '53', 2024: 'I25'},
+                                    id: {2023: '53', 2024: 'I25', live: 'I25'},
                                     title: 'Is the use of open data in your country having an impact on the fight against climate change, for example by undertaking predictive monitoring, preventive actions, or a differentiated response to connected disasters?'
                                 },
                                 {
                                     type: 'entry',
-                                    id: {2023: '54', 2024: 'I26'},
+                                    id: {2023: '54', 2024: 'I26', live: 'I26'},
                                     title: 'Is the use of open data in your country having an impact on the consumption of energy based on fuel and the switch to renewables?'
                                 }
                             ]
                         },
                         {
                             type: 'dimension',
-                            id: {2023: 'D2.3d', 2024: 'D4.3d'},
+                            id: {2023: 'D2.3d', 2024: 'D4.3d', live: 'D4.3d'},
                             title: 'Economic impact',
                             color: '#dc5149',
                             children: [
                                 {
                                     type: 'entry',
-                                    id: {2023: '55', 2024: 'I27'},
+                                    id: {2023: '55', 2024: 'I27', live: 'I27'},
                                     title: 'Is any data on the economic impact (e.g. ...'
                                 },
                                 {
                                     type: 'entry',
-                                    id: {2023: '56', 2024: 'I28'},
+                                    id: {2023: '56', 2024: 'I28', live: 'I28'},
                                     title: 'Is the use of open data in your country having an impact on the level of employment?'
                                 },
                                 {
                                     type: 'entry',
-                                    id: {2023: '57', 2024: 'I29'},
+                                    id: {2023: '57', 2024: 'I29', live: 'I29'},
                                     title: 'Is the use of open data in your country having an impact on the level of innovation and the adoption of new technologies?'
                                 },
                                 {
                                     type: 'entry',
-                                    id: {2023: '58', 2024: 'I30'},
+                                    id: {2023: '58', 2024: 'I30', live: 'I30'},
                                     title: 'Is the use of open data in your country having an impact on the level of entrepreneurship (especially of women and minorities) and business creation (especially with Small- and Medium-sized Enterprises)?'
                                 },
                                 {
                                     type: 'entry',
-                                    id: {2024: 'I31'},
+                                    id: {2024: 'I31', live: 'I31'},
                                     title: 'Is the use of open data in your country having an impact on the level of productivity?'
                                 }
                             ]
@@ -1053,29 +1053,29 @@ var questionTree = {
         },
         {
             type: 'dimension',
-            id: {2023: 'D4', 2024: 'D3'},
+            id: {2023: 'D4', 2024: 'D3', live: 'D3'},
             title: 'Open Data Quality',
             color: '#ff9933',
             children: [
                 {
                     type: 'dimension',
-                    id: {2023: 'D4.1', 2024: 'D3.1'},
+                    id: {2023: 'D4.1', 2024: 'D3.1', live: 'D3.1'},
                     title: 'Currency and completeness',
                     color: '#ff9933',
                     children: [
                         {
                             type: 'entry',
-                            id: {2023: '106', 2024: 'Q1'},
+                            id: {2023: '106', 2024: 'Q1', live: 'Q1'},
                             title: 'Is there a pre-defined approach to ensure that metadata is kept up-to-date?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '107', 2024: 'Q2'},
+                            id: {2023: '107', 2024: 'Q2', live: 'Q2'},
                             title: '... is obtained from the source automatically, rather than edited manually?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '108', 2024: 'Q3'},
+                            id: {2023: '108', 2024: 'Q3', live: 'Q3'},
                             title: 'What is the average delay from the moment the metadata describing a dataset is updated at ...'
                         },
                         {
@@ -1085,7 +1085,7 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2024: 'Q4'},
+                            id: {2024: 'Q4', live: 'Q4'},
                             title: '... published data cover the full period from when it was first published ...'
                         },
                         {
@@ -1095,30 +1095,30 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2024: 'Q5'},
+                            id: {2024: 'Q5', live: 'Q5'},
                             title: 'Have you implemented the DCAT-AP High Value Datasets (semiceu.github.io) tag to denote the High-Value Datasets in your (national) open data portal(s)?'
                         },
                         {
                             type: 'entry',
-                            id: {2024: 'Q6'},
+                            id: {2024: 'Q6', live: 'Q6'},
                             title: 'Besides the DCAT-AP tag mentioned above, have you implemented any other measures to ensure that high-value datasets ((EU) 2023/138) are interoperable with datasets of other country?'
                         }
                     ]
                 },
                 {
                     type: 'dimension',
-                    id: {2023: 'D4.2', 2024: 'D3.2'},
+                    id: {2023: 'D4.2', 2024: 'D3.2', live: 'D3.2'},
                     title: 'Monitoring and measures',
                     color: '#ff9933',
                     children: [
                         {
                             type: 'entry',
-                            id: {2023: '111a', 2024: 'Q7'},
+                            id: {2023: '111a', 2024: 'Q7', live: 'Q7'},
                             title: 'Do you monitor the quality of the metadata available on your portal?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '111b', 2024: 'Q8'},
+                            id: {2023: '111b', 2024: 'Q8', live: 'Q8'},
                             title: 'Do you publish information on the quality of the metadata available on the portal?'
                         },
                         {
@@ -1133,22 +1133,22 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2024: 'Q9'},
+                            id: {2024: 'Q9', live: 'Q9'},
                             title: 'Do you publish guidelines (e.g. written materials) and have tools in place, to assist publishers in publishing high-quality metadata?'
                         },
                         {
                             type: 'entry',
-                            id: {2024: 'Q10'},
+                            id: {2024: 'Q10', live: 'Q10'},
                             title: 'Do you set any standards on metadata quality that data providers must abide by (e.g. on the use of licence, minimum metadata describes, use of certain DCAT-AP properties, etc)'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '114', 2024: 'Q11'},
+                            id: {2023: '114', 2024: 'Q11', live: 'Q11'},
                             title: 'Do your open data publication/licensing guidelines provide recommendations for the use of Creative Commons (CC) licences ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '115', 2024: 'Q12'},
+                            id: {2023: '115', 2024: 'Q12', live: 'Q12'},
                             title: 'What percentage of the open data available on the national portal is accompanied by licensing information?'
                         },
                         {
@@ -1158,7 +1158,7 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '117', 2024: 'Q13'},
+                            id: {2023: '117', 2024: 'Q13', live: 'Q13'},
                             title: '... how many different licences are used on your portal?'
                         },
                         {
@@ -1178,14 +1178,14 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2024: 'Q14'},
+                            id: {2024: 'Q14', live: 'Q14'},
                             title: '... are there regular activities conducted or mechanisms in place to  assist publishers in supplying high-quality datasets ...'
                         }
                     ]
                 },
                 {
                     type: 'dimension',
-                    id: {2023: 'D4.3', 2024: 'D3.3'},
+                    id: {2023: 'D4.3', 2024: 'D3.3', live: 'D3.3'},
                     title: 'DCAT-AP Compliance',
                     color: '#ff9933',
                     children: [
@@ -1196,32 +1196,32 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2024: 'Q15'},
+                            id: {2024: 'Q15', live: 'Q15'},
                             title: 'Does the national portal follow the DCAT-AP framework or, if not, are standards in place to ensure interoperability with DCAT-AP?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '121', 2024: 'Q16'},
+                            id: {2023: '121', 2024: 'Q16', live: 'Q16'},
                             title: 'What is the percentage of metadata on your portal that is DCAT-AP compliant, in terms of mandatory classes? (agent, catalogue, dataset, literal, resource)'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '122a', 2024: 'Q17'},
+                            id: {2023: '122a', 2024: 'Q17', live: 'Q17'},
                             title: 'What is the percentage of metadata on your portal that uses DCAT-AP recommended classes? (category, category scheme, distribution, licence document)'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '122b', 2024: 'Q18'},
+                            id: {2023: '122b', 2024: 'Q18', live: 'Q18'},
                             title: 'What is the percentage of metadata on your portal that uses DCAT-AP optional classes? (catalogue record, checksum, document, frequency)'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '123', 2024: 'Q19'},
+                            id: {2023: '123', 2024: 'Q19', live: 'Q19'},
                             title: 'Is there a national extension of the DCAT-AP standard developed for your country?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '124a', 2024: 'Q20'},
+                            id: {2023: '124a', 2024: 'Q20', live: 'Q20'},
                             title: 'Do you investigate the most common causes for the lack of DCAT-AP compliance?'
                         },
                         {
@@ -1231,55 +1231,55 @@ var questionTree = {
                         },
                         {
                             type: 'entry',
-                            id: {2023: '125a', 2024: 'Q21'},
+                            id: {2023: '125a', 2024: 'Q21', live: 'Q21'},
                             title: 'What is the percentage of datasets whose metadata provides a reference to where the data can be downloaded, or its API accessed (“download-URL” in the DCAT-AP specification)?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '125b', 2024: 'Q22'},
+                            id: {2023: '125b', 2024: 'Q22', live: 'Q22'},
                             title: 'What is the percentage of datasets whose metadata provides a reference to a web page from where the data can be accessed (“access-URL in the DCAT-AP specification)?'
                         }
                     ]
                 },
                 {
                     type: 'dimension',
-                    id: {2023: 'D4.4', 2024: 'D3.4'},
+                    id: {2023: 'D4.4', 2024: 'D3.4', live: 'D3.4'},
                     title: 'Deployment quality and linked data',
                     color: '#ff9933',
                     children: [
                         {
                             type: 'entry',
-                            id: {2023: '126', 2024: 'Q23'},
+                            id: {2023: '126', 2024: 'Q23', live: 'Q23'},
                             title: 'Do you use a model (such as the 5-Star Open Data or FAIR) to assess the quality of deployment of data in your country?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '127', 2024: 'Q24'},
+                            id: {2023: '127', 2024: 'Q24', live: 'Q24'},
                             title: 'Do you conduct activities to promote and familiarise data providers with ways to ensure higher quality data ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '128a', 2024: 'Q25'},
+                            id: {2023: '128a', 2024: 'Q25', live: 'Q25'},
                             title: 'What percentage of datasets is made available under a standard open licence ...'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '128b', 2024: 'Q26'},
+                            id: {2023: '128b', 2024: 'Q26', live: 'Q26'},
                             title: '... in a structured data format?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '128c', 2024: 'Q27'},
+                            id: {2023: '128c', 2024: 'Q27', live: 'Q27'},
                             title: '... in an open and machine-readable format?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '128d', 2024: 'Q28'},
+                            id: {2023: '128d', 2024: 'Q28', live: 'Q28'},
                             title: '... consistely use Uniform Resource Identifiers?'
                         },
                         {
                             type: 'entry',
-                            id: {2023: '128e', 2024: 'Q29'},
+                            id: {2023: '128e', 2024: 'Q29', live: 'Q29'},
                             title: '... to other renowned sources to provide additional context for the users, e.g. in a linked data fashion?'
                         },
                         {

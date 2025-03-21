@@ -132,6 +132,10 @@ var questionAnswer = (function () {
 
         dataObject.reverse();
         dataObject.forEach(obj => {
+            if ('live' === obj.year) {
+                return;
+            }
+
             var item = '';
             if (sidebarHeadlineSingle === '') {
                 item += '<div>';

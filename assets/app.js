@@ -39,11 +39,14 @@ function onFileScoring(filepath, data) {
 }
 
 function onFileReport(filepath, data) {
-    var year = parseInt(filepath.split('/').shift(), 10);
+    var year = filepath.split('/').shift();
     var filename = filepath.split('/').pop();
     var file = filename.split('.').shift();
     var language = file.split('_').pop().toLowerCase();
 
+    if ('live' !== year) {
+        year = parseInt(year, 10);
+    }
     if ('i18n' === language) {
         language = 'en';
     }

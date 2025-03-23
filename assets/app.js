@@ -68,7 +68,10 @@ function goto(destination, event, year) {
     } else if ('allCountries' === destination) {
         var years = document.querySelectorAll('#year-switch figure.shield-button.selected');
         if (years.length === 1) {
-            year = parseInt(years[0].dataset.year, 10);
+            year = years[0].dataset.year;
+            if ('live' !== year) {
+                year = parseInt(year, 10);
+            }
 
             addAllCountries(year);
         }

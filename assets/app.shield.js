@@ -61,9 +61,9 @@ class Shield {
         }
 
         if (status) {
-            var value2023 = item['Answer from 2023'];
-            var value2024 = item['Answer from 2024'];
-            var oldValue = (value2023 ? value2023 : value2024).toLowerCase();
+            var value2023 = item['Answer from 2023'] || '';
+            var value2024 = item['Answer from 2024'] || '';
+            var oldValue = (value2023 !== '' ? value2023 : value2024).toLowerCase();
             var newValue = item['Provide updated answer (if applicable)'].toLowerCase();
             var value = '';
 

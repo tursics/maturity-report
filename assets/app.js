@@ -321,6 +321,12 @@ function findInTranslations(flag, questions, year, value) {
                 ret += formatHit(flag, year, question.ID, question['Answer from 2023'], value, pos);
             }
         }
+        if (question['Answer from 2024']) {
+            pos = question['Answer from 2024'].toLowerCase().indexOf(value);
+            if (pos !== -1) {
+                ret += formatHit(flag, year, question.ID, question['Answer from 2024'], value, pos);
+            }
+        }
         if (question['Provide updated answer (if applicable)']) {
             pos = question['Provide updated answer (if applicable)'].toLowerCase().indexOf(value);
             if (pos !== -1) {
@@ -338,6 +344,12 @@ function findInTranslations(flag, questions, year, value) {
             pos = question['Explanation from 2023'].toLowerCase().indexOf(value);
             if (pos !== -1) {
                 ret += formatHit(flag, year, question.ID, question['Explanation from 2023'], value, pos);
+            }
+        }
+        if (question['Explanation from 2024']) {
+            pos = question['Explanation from 2024'].toLowerCase().indexOf(value);
+            if (pos !== -1) {
+                ret += formatHit(flag, year, question.ID, question['Explanation from 2024'], value, pos);
             }
         }
         if (question['Provide updated explanation (if applicable)']) {

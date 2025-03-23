@@ -49,6 +49,7 @@ i18n['en'] = {
     'footer_data_version_2024': '12/2024',
     'footer_EU_modified': 'EU, modified',
     'former_value_2023': 'Former value from 2023',
+    'former_value_2024': 'Former value from 2024',
     'guide': 'Guide to answering',
     'headline': 'Headline',
     'Info': 'Info',

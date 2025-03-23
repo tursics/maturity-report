@@ -151,6 +151,24 @@ var _ = (function () {
                         value = newValue;
                     }
                 }
+            } else if (translation['Answer from 2024']) {
+                // live
+                var status = translation['Confirm, change or complement answer/explanation from 2024'];
+                var newValue = translation['Provide updated answer (if applicable)'];
+                value = translation['Answer from 2024'];
+
+                if (newValue !== '') {
+                    if ('Confirm' === status) {
+                        if (newValue.toLowerCase() !== value.toLowerCase()) {
+                            console.error('Country: ' + country + "\nQuestion: " + translation.ID + "\nYear: " + year + "\n> Unchanged value has changes\nOld value: " + value + "\nNew value: " + newValue);
+                        }
+                    }
+                    if (newValue.toLowerCase() !== value.toLowerCase()) {
+                        value = newValue + '<br><span style="color:goldenrod;font-size:.8em">2024: ' + value + '</span>';
+                    } else {
+                        value = newValue;
+                    }
+                }
             }
         }
 
@@ -172,23 +190,36 @@ var _ = (function () {
             if (translation.Justification) {
                 // 2023
                 value = translation.Justification;
-            } else if (translation['Explanation from 2023']) {
-                // 2024
-                var status = translation['Confirm, change or complement answer/explanation from 2023'];
-                var newValue = translation['Provide updated explanation (if applicable)'];
-                value = translation['Explanation from 2023'];
+            } else {
+                // 2024 and live
+                var status = translation['Confirm, change or complement answer/explanation from 2023'] || translation['Confirm, change or complement answer/explanation from 2024'] || '';
+                var newValue = translation['Provide updated explanation (if applicable)'] || '';
+                value = translation['Explanation from 2023'] || translation['Explanation from 2024'] || '';
 
-                if ('Confirm' === status) {
-                    if ((newValue !== '') && (newValue !== value)) {
-//                        console.error('Country: ' + country + "\nQuestion: " + translation.ID + "\nYear: " + year + "\n> Unchanged explanation has changes\nOld value: "+ value + "\nNew value: " + newValue);
-                        value = newValue + '<br><br><span style="color:goldenrod;font-size:.8em"><span data-i18n="former_value_2023">' + _.get('former_value_2023') + '</span><br>' + value + '</span>';
+                var year = '';
+                if (translation['Explanation from 2023'] || translation['Confirm, change or complement answer/explanation from 2023']) {
+                    year = 2023;
+                } else  if (translation['Explanation from 2024'] || translation['Confirm, change or complement answer/explanation from 2024']) {
+                    year = 2024;
+                }
+
+                if (year !== '') {
+                    if ('Confirm' === status) {
+                        if ((newValue !== '') && (newValue !== value)) {
+//                            console.error('Country: ' + country + "\nQuestion: " + translation.ID + "\nYear: " + year + "\n> Unchanged explanation has changes\nOld value: "+ value + "\nNew value: " + newValue);
+                            value = newValue + '<br><br><span style="color:goldenrod;font-size:.8em"><span data-i18n="former_value_' + year + '">' + _.get('former_value_' + year) + '</span><br>' + value + '</span>';
+                        }
+                    } else if ('Change' === status) {
+                        if (value === '') {
+                            value = newValue;
+                        } else {
+                            value = newValue + '<br><br><span style="color:goldenrod;font-size:.8em"><span data-i18n="former_value_' + year + '">' + _.get('former_value_' + year) + '</span><br>' + value + '</span>';
+                        }
+                    } else if ('Complement' === status) {
+                        value += '<br><br><span style="color:goldenrod;font-size:.8em"><span data-i18n="complement_2024">' + _.get('complement_2024') + '</span></span><br>' + newValue;
+                    } else {
+                        console.error(status);
                     }
-                } else if ('Change' === status) {
-                    value = newValue + '<br><br><span style="color:goldenrod;font-size:.8em"><span data-i18n="former_value_2023">' + _.get('former_value_2023') + '</span><br>' + value + '</span>';
-                } else if ('Complement' === status) {
-                    value += '<br><br><span style="color:goldenrod;font-size:.8em"><span data-i18n="complement_2024">' + _.get('complement_2024') + '</span></span><br>' + newValue;
-                } else {
-                    console.error(status);
                 }
             }
         }

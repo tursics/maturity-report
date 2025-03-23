@@ -417,11 +417,19 @@ input[type="search"]:focus-visible {
     background: #694d00;
     color: goldenrod;
 }
+.shield-flag.year-live {
+    background: antiquewhite;
+    color: goldenrod;
+}
 .shield.indian-red .shield-flag {
     background: #b14446;
 }
 .shield.indian-red .shield-flag.year-2023 {
     background: #7a2f30;
+    color: #d66464;
+}
+.shield.indian-red .shield-flag.year-live {
+    background: lightpink;
     color: #d66464;
 }
 .shield.sea-green .shield-flag {
@@ -431,11 +439,19 @@ input[type="search"]:focus-visible {
     background: #044b2b;
     color: mediumseagreen;
 }
+.shield.sea-green .shield-flag.year-live {
+    background: papayawhip;
+    color: mediumseagreen;
+}
 .shield.gray .shield-flag {
     background: #647485;
 }
 .shield.gray .shield-flag.year-2023 {
     background: darkslategray;
+    color: lightslategray;
+}
+.shield.gray .shield-flag.year-live {
+    background: lightgrey;
     color: lightslategray;
 }
 .shield-ribbon {

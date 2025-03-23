@@ -53,10 +53,17 @@ class Shield {
 
         var item = this.answers['en'][obj.id[this.year]];
         var score = item && item.Score ? parseInt(item.Score, 10) : NaN;
-        var status = item && item['Confirm, change or complement answer/explanation from 2023'];
+        var status = undefined;
+        if (item && item['Confirm, change or complement answer/explanation from 2023']) {
+            status = item['Confirm, change or complement answer/explanation from 2023'];
+        } else if (item && item['Confirm, change or complement answer/explanation from 2024']) {
+            status = item['Confirm, change or complement answer/explanation from 2024'];
+        }
 
         if (status) {
-            var oldValue = item['Answer from 2023'].toLowerCase();
+            var value2023 = item['Answer from 2023'];
+            var value2024 = item['Answer from 2024'];
+            var oldValue = (value2023 ? value2023 : value2024).toLowerCase();
             var newValue = item['Provide updated answer (if applicable)'].toLowerCase();
             var value = '';
 
@@ -149,7 +156,8 @@ class Shield {
         var score = this.getScore(question);
         var maxScore = this.getMaxScore(question);
 
-        return maxScore === 0 ? '' : (parseInt(score / maxScore * 1000, 10) / 10) + '%';
+//        return maxScore === 0 ? '' : (parseInt(score / maxScore * 1000, 10) / 10) + '%';
+        return maxScore === 0 ? '' : (Math.round(score / maxScore * 1000, 10) / 10) + '%';
     }
 
     getAnswerBox(obj, showGray) {

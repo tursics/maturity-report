@@ -325,7 +325,7 @@ Berlin (Bundesland):
 - Konferenzen: Berlin Open Data Day: https://projektzukunft.berlin.de/news/news-detail/rueckblick-berlin-open-data-day-2019
 - Hackdays: Open Data Berlin unterstützt die vom Berliner Senat geförderten Hackathons mit Open Data: https://www.urbaninnovation.berlin/urban-innovation-forum-2023
 
-Thüringen: Aktivitäten zur Förderung von Open Data und Open Data Literacy gibt es beispielsweise in der Wissenschaft für Forschungsdaten (Thüringer Kompezenzzentrum Forschungsdaten: https://forschungsdaten-thueringen.de).";Complement;Yes, >9;"BMEL:
+Thüringen: Aktivitäten zur Förderung von Open Data und Open Data Literacy gibt es beispielsweise in der Wissenschaft für Forschungsdaten (Thüringer Kompezenzzentrum Forschungsdaten: https://forschungsdaten-thueringen.de).";Complement;ja, >9;"BMEL:
 Yes, beyond what was reported last year, the institutes under responsibility of the Federal Ministry of Food and Agriculture participate for example in the LoveDataWeek (https://rdm4bs.tu-braunschweig.de/index.php/love-data-weel-2024); another important example is the FairAgro Community Summit (https://fairagro.net/fairagro-community-summit/), this event connects the community of agricultural data across users from public sector, research, civil society, and business. 
 
 Schleswig-Holstein:
@@ -397,15 +397,15 @@ PT29;neue Frage;neue Frage;Change;ja;GovData: We use the analysis of the number 
 PT30;ja;Für die Suche bieten wir Autovervollständigung und alternative Begriffsvorschläge zur Optimierung der Ergebnisse an. Darüber hinaus werden linguistische Suchmethoden eingesetzt, um das Ergebnis zu verbessern.;Complement;ja;Berlin: we want to implement Large Langugae Models
 PT31;ja;;Complement;ja;GovData: yes. Every dataset is displayed on it's own page, sample: https://www.govdata.de/web/guest/suchen/-/details/zugriffsstatistik-daten-berlin-dec9fb3 The metadata is human readable und we provide a link to machine readable RDF file
 D2.3;;;;;
-PT32;alle Datenanbieter des öffentlichen Sektors;Die Daten aller Open-Data-Portale des öffentlichen Sektors sind in GovData verfügbar. Die Datenbereitstellung erfolgt über Fach- oder Landesportale. Wo dies nicht möglich ist, stellen die regionalen Portale diese direkt zur Verfügung.;Change;All public sector data providers;The data of all open data portals of the public sector is available in GovData. The data is provided via specialized or federal state portals. Where this is not possible, the regional portals will provide it directly.
-PT33;ja, oder alle Datenanbieter des öffentlichen Sektors veröffentlichen bereits Daten;Entfällt;Confirm;Yes, or all public sector data providers already publish data;GovData: yes
+PT32;alle Datenanbieter des öffentlichen Sektors;Die Daten aller Open-Data-Portale des öffentlichen Sektors sind in GovData verfügbar. Die Datenbereitstellung erfolgt über Fach- oder Landesportale. Wo dies nicht möglich ist, stellen die regionalen Portale diese direkt zur Verfügung.;Change;alle Datenanbieter des öffentlichen Sektors;The data of all open data portals of the public sector is available in GovData. The data is provided via specialized or federal state portals. Where this is not possible, the regional portals will provide it directly.
+PT33;ja, oder alle Datenanbieter des öffentlichen Sektors veröffentlichen bereits Daten;Entfällt;Confirm;ja, oder alle Datenanbieter des öffentlichen Sektors veröffentlichen bereits Daten;GovData: yes
 PT34;ja, oder alle Datenanbieter des öffentlichen Sektors veröffentlichen bereits Daten;"- Das Kompetenzzentrum für Open Data (CCOD) hat eine Wissensbibliothek aufgebaut, die verschiedene Richtlinien, Handbücher etc. aus allen Bundesebenen umfasst. (https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/Vorlagen-Hilfsmittel/vorlagen-hilfsmittel_node.html)
 CCOD bietet außerdem mehrere Workshops an und führt diese durch, die sich mit unterschiedlichen Themen bei der Veröffentlichung offener Daten befassen.
 
-- https://www.itb.ec.europa.eu/shacl/dcat-ap.de/upload";Confirm;Yes, or all public sector data providers already publish data;Berlin:with the open data informationsstelle berlin we assist them
+- https://www.itb.ec.europa.eu/shacl/dcat-ap.de/upload";Confirm;ja, oder alle Datenanbieter des öffentlichen Sektors veröffentlichen bereits Daten;Berlin:with the open data informationsstelle berlin we assist them
 PT35;ja;Eine Liste aller Datenanbieter ist als Filterliste unter folgendem Link abrufbar, der auch alle regionalen Portale umfasst: https://www.govdata.de/web/guest/daten;Complement;ja;Berlin Geoportal Wasserportal, Energieatlas, Gewerbedatenatlas, Urbane Datenplattform PRISMA, digitale Plattform Stadtverkehr, there ar many portals in Berlin
 PT36;ja;Eine Liste aller Datenanbieter ist als Filterliste unter folgendem Link abrufbar, der auch alle regionalen Portale umfasst: https://www.govdata.de/web/guest/daten;Confirm;ja;
-PT37;die meisten Datensätze;Kurznotiz: Einige, meist regionale Datenanbieter, geben ihre Daten bei GovData manuell ein;Change;The majority of datasets;"Short noted: A few, mostly regional data providers, enter their data at GovData manually 
+PT37;die meisten Datensätze;Kurznotiz: Einige, meist regionale Datenanbieter, geben ihre Daten bei GovData manuell ein;Change;die meisten Datensätze;"Short noted: A few, mostly regional data providers, enter their data at GovData manually 
 
 Follow up: Thanks for the hint. We updated the column H"
 PT38;ja;"Ja, es gibt einige Beispiele:
@@ -656,7 +656,7 @@ Publshing data as FAIR open data reduces the effort of making data available for
 I14;neue Frage;neue Frage;Change;ja;"Bavaria: Yes, e.g. the City of Augsburg published financial data on shareholding https://augsburg.bydata.de/?locale=de&page=3&limit=10
 
 Berlin: the visualisation of the finance data of berlin: https://odis-berlin.de/projekte/2022-09-haushaltsdaten"
-I15;neue Frage;neue Frage;Change;I don't know;
+I15;neue Frage;neue Frage;Change;Ich weiß nicht;
 I16;neue Frage;neue Frage;Change;ja;"BMG:
 open data is used as a basis for multiple dasboards for example: https://infektionsradar.gesund.bund.de/de"
 D4.3b;;;;;
@@ -703,9 +703,9 @@ Berlin (state): we have an ""Sozialinformationssystem"" which is an Open Data Po
 https://www.sozial-informations-system.de/home?lang=de
 
 Hamburg: Hamburg: -The social impact is hereby defined as the beneficial effect of the use of open data on four specific challenges for society: 1) Including minorities, migrants, and/or refugees  and reducing inequality, 2) Alleviating housing issues, 3) Fostering health and wellbeing, 4) Improving education."
-I18;neue Frage;neue Frage;Change;I don't know;
-I19;neue Frage;neue Frage;Change;I don't know;
-I20;neue Frage;neue Frage;Change;I don't know;
+I18;neue Frage;neue Frage;Change;Ich weiß nicht;
+I19;neue Frage;neue Frage;Change;Ich weiß nicht;
+I20;neue Frage;neue Frage;Change;Ich weiß nicht;
 I21;neue Frage;neue Frage;Change;ja;"BMAS:
 At https://www.arbeitsagentur.de/jobsuche/ of the Bundesagentur für Arbeit (Federal Employment Agency), people looking for an vocational training can find out information about vacant (vocational) training places."
 D4.3c;;;;;

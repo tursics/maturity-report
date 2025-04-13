@@ -367,18 +367,18 @@ PT7;neue Frage;neue Frage;Change;ja;"GovData: The national data portal GovData d
 
 Berlin offers an example. The “Open Data Handbook” of the Open Data Portal Berlin describes the provision and that local communities may contribute: https://berlinonline.github.io/open-data-handbuch/#wer-darf-im-datenportal-verffentlichen . Examples include the Allgemeiner Deutscher Fahrrad-Club, but also the Civic Tech and Open Data Community in the OK Labs of Code for Germany, Freifunk and Open Street Map."
 PT8;ja;;Change;nein;
-PT9;ja;A form can be used to report comments, mistakes or suggestions for improvement for each individual dataset (as an example: https://www.govdata.de/web/guest/daten/-/details/abkurzungsverzeichnis-des-bundes);Change;nein;
-PT10;nein;For a short explanation: a corresponding function w a s previously available, but it has now been discontinued due to low demand/use.;Confirm;nein;
+PT9;ja;Über ein Formular können Kommentare, Fehler oder Verbesserungsvorschläge für jeden einzelnen Datensatz gemeldet werden (Beispiel: https://www.govdata.de/web/guest/daten/-/details/abkurzungsverzeichnis-des-bundes);Change;nein;
+PT10;nein;Zur kurzen Erklärung: Eine entsprechende Funktion war bereits verfügbar, wurde jedoch aufgrund geringer Nachfrage/Nutzung eingestellt.;Confirm;nein;
 PT11;ja;;Change;nein;
-PT12;ja;"Yes, the portal offers the possibility for users to receive notivations when new data sets are abailable on the national portal. We use RSS for that:
- https://www.govdata.de/web/guest/suchen/-/atomfeed/f/type%3Adataset%2C/s/relevance_desc";Change;nein;
-PT13;nein;"No, but we are discussing on having a ""data request button"" on the portal, though we still need to figure out the political and adminstrative processes behind it so that every request also gets to the respective public body. ";Confirm;nein;
+PT12;ja;"Ja, das Portal bietet Benutzern die Möglichkeit, Benachrichtigungen zu erhalten, wenn neue Datensätze auf dem nationalen Portal verfügbar sind. Wir nutzen dafür RSS:
+  https://www.govdata.de/web/guest/suchen/-/atomfeed/f/type%3Adataset%2C/s/relevance_desc";Change;nein;
+PT13;nein;Nein, aber wir diskutieren über einen „Datenanfrage-Button“ auf dem Portal, allerdings müssen wir noch die politischen und administrativen Prozesse dahinter klären, damit jede Anfrage auch bei der jeweiligen öffentlichen Stelle ankommt.;Confirm;nein;
 PT14;nein;;Confirm;nein;
-PT15;ja;After a certain amount of time (about a month), we ask the data provider if such a data set could be published.;Change;nein;
-PT16;ja;"We provide a closed discussion forum for registered users. So we can’t offer you a URL. Registered users are those that provide data, meaning the responsible person in every public body. If you like to join, please contact us via Mail: info@govdata.de
-Open discussion forum: https://github.com/GovDataOfficial/DCAT-AP.de";Change;nein;GovData: The Open Data Competence Center is planning to set up a public discussion forum in the second half of 2024. The national data portal will provide the entry point to this forum.
+PT15;ja;Nach einer gewissen Zeit (etwa einem Monat) fragen wir den Datenanbieter, ob ein solcher Datensatz veröffentlicht werden könnte.;Change;nein;
+PT16;ja;"Für registrierte Benutzer stellen wir ein geschlossenes Diskussionsforum zur Verfügung. Daher können wir Ihnen keine URL anbieten. Registrierter Nutzer ist derjenige, der Daten bereitstellt, also der Verantwortliche in jeder öffentlichen Stelle. Wenn Sie mitmachen möchten, kontaktieren Sie uns bitte per Mail: info@govdata.de
+Offenes Diskussionsforum: https://github.com/GovDataOfficial/DCAT-AP.de";Change;nein;GovData: The Open Data Competence Center is planning to set up a public discussion forum in the second half of 2024. The national data portal will provide the entry point to this forum.
 PT17;ja;;Complement;ja;"Berlin: =HYPERLINK(""#""; ""https://daten.berlin.de/anwendungen"")"
-PT18;ja;Yes, in the use cases presented, the assigned datasets are also mentioned/described.;Change;nein;
+PT18;ja;Ja, in den vorgestellten Anwendungsfällen werden auch die zugeordneten Datensätze erwähnt/beschrieben.;Change;nein;
 PT19;ja;;Change;nein;
 PT20;nein;;Confirm;nein;
 PT21;nein;;Confirm;nein;
@@ -388,27 +388,27 @@ GovData: We offer a special filter function in our simple search and in the adva
 D2.2;;;;;
 PT23;ja;Matomo;Complement;ja;"Berlin: =HYPERLINK(""#""; ""https://odis-berlin.de/projekte/2024-01-daten-neuheiten ""); GovData still use Matomo to monitor portal's traffic but there are additional more statistics. We harvest more portal' statistic, find some here https://www.govdata.de/web/guest/suchen/-/searchresult/q/Zugriffsstatistik/s/lastmodification_desc"
 PT24;ja;Entfällt;Change;nein;GovData: No
-PT25;ja;"We meet the users. We take part in network meetings with administration, science, the internet community and the open data community. There we actively participate in exchange rounds, bar camps, give lectures, workshops (e.g. at the re:publica), hackthons. Listening is important.
-In addition, reactions in the social media channels as well as questions and feedback via the contact page of the portal are evaluated on an ongoing basis.";Complement;ja;Berlin: surveys, an mapp inztelligence to track which data is downloaded the most
+PT25;ja;"Wir treffen die Benutzer. Wir nehmen an Netzwerktreffen mit Verwaltung, Wissenschaft, der Internet-Community und der Open-Data-Community teil. Dort nehmen wir aktiv an Austauschrunden, Barcamps teil, halten Vorträge, Workshops (z. B. auf der re:publica), Hackathons. Zuhören ist wichtig.
+Darüber hinaus werden laufend Reaktionen in den Social-Media-Kanälen sowie Fragen und Rückmeldungen über die Kontaktseite des Portals ausgewertet.";Complement;ja;Berlin: surveys, an mapp inztelligence to track which data is downloaded the most
 PT26;neue Frage;neue Frage;Change;ja;GovData:: We are in constant communication with users of the portal. The wishes of the communities are sometimes specifically requested in workshops and are incorporated into the planned roadmap for the portal. The functionalities are adapted based on the analysis (via Matomo) of the use of the portal.
 PT27;neue Frage;neue Frage;Change;ja;Berlin: we do schooling on publishing at the open data portal and using the portal at open data crashcourse
 PT28;neue Frage;neue Frage;Change;ja;GovData: We use Matomo on an irregular basis to analyze the search terms on our portal. Incoming links from search engines are also analyzed for their search terms. This has enabled us to determine that there is an increased need for information to provide high-value datasets. However, a targeted analysis of searches for datasets will lead to misinterpretations. There are too many sub-data portals in Germany where users also search, but whose data we do not analyze.
 PT29;neue Frage;neue Frage;Change;ja;GovData: We use the analysis of the number of hits to scrutinize the structure of our pages. A data portal has many different user groups, so it is all the more difficult for everyone to find the right content quickly.
-PT30;ja;For searching we offer autocomplete and alternative term suggestions for optimising the results. In addition, linguistic search methods are used to improve the result.;Complement;ja;Berlin: we want to implement Large Langugae Models
+PT30;ja;Für die Suche bieten wir Autovervollständigung und alternative Begriffsvorschläge zur Optimierung der Ergebnisse an. Darüber hinaus werden linguistische Suchmethoden eingesetzt, um das Ergebnis zu verbessern.;Complement;ja;Berlin: we want to implement Large Langugae Models
 PT31;ja;;Complement;ja;GovData: yes. Every dataset is displayed on it's own page, sample: https://www.govdata.de/web/guest/suchen/-/details/zugriffsstatistik-daten-berlin-dec9fb3 The metadata is human readable und we provide a link to machine readable RDF file
 D2.3;;;;;
-PT32;all public sector data providers;The data of all open data portals of the public sector is available in GovData. The data is provided via specialized or federal state portals. Where this is not possible, the regional portals will provide it directly.;Change;All public sector data providers;The data of all open data portals of the public sector is available in GovData. The data is provided via specialized or federal state portals. Where this is not possible, the regional portals will provide it directly.
-PT33;yes, or all public sector data providers already publish data;Entfällt;Confirm;Yes, or all public sector data providers already publish data;GovData: yes
-PT34;yes, or all public sector data providers already publish data;"- The Competence Center for Open Data (CCOD) established a knowledge library, including different guidelines, manuals, etc. from all federal levels. (https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/Vorlagen-Hilfsmittel/vorlagen-hilfsmittel_node.html) 
-CCOD also offers and conducts several Workshops addressing different issues in publicating open data.
+PT32;alle Datenanbieter des öffentlichen Sektors;Die Daten aller Open-Data-Portale des öffentlichen Sektors sind in GovData verfügbar. Die Datenbereitstellung erfolgt über Fach- oder Landesportale. Wo dies nicht möglich ist, stellen die regionalen Portale diese direkt zur Verfügung.;Change;All public sector data providers;The data of all open data portals of the public sector is available in GovData. The data is provided via specialized or federal state portals. Where this is not possible, the regional portals will provide it directly.
+PT33;ja, oder alle Datenanbieter des öffentlichen Sektors veröffentlichen bereits Daten;Entfällt;Confirm;Yes, or all public sector data providers already publish data;GovData: yes
+PT34;ja, oder alle Datenanbieter des öffentlichen Sektors veröffentlichen bereits Daten;"- Das Kompetenzzentrum für Open Data (CCOD) hat eine Wissensbibliothek aufgebaut, die verschiedene Richtlinien, Handbücher etc. aus allen Bundesebenen umfasst. (https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/Vorlagen-Hilfsmittel/vorlagen-hilfsmittel_node.html)
+CCOD bietet außerdem mehrere Workshops an und führt diese durch, die sich mit unterschiedlichen Themen bei der Veröffentlichung offener Daten befassen.
 
 - https://www.itb.ec.europa.eu/shacl/dcat-ap.de/upload";Confirm;Yes, or all public sector data providers already publish data;Berlin:with the open data informationsstelle berlin we assist them
-PT35;ja;A list of all data providers can be accessed as a filter list at the following link, which also includes all regional portals: https://www.govdata.de/web/guest/daten;Complement;ja;Berlin Geoportal Wasserportal, Energieatlas, Gewerbedatenatlas, Urbane Datenplattform PRISMA, digitale Plattform Stadtverkehr, there ar many portals in Berlin
-PT36;ja;A list of all data providers can be accessed as a filter list at the following link, which also includes all regional portals: https://www.govdata.de/web/guest/daten;Confirm;ja;
-PT37;the majority of datasets;Short noted: A few, mostly regional data providers, enter their data at GovData manually ;Change;The majority of datasets;"Short noted: A few, mostly regional data providers, enter their data at GovData manually 
+PT35;ja;Eine Liste aller Datenanbieter ist als Filterliste unter folgendem Link abrufbar, der auch alle regionalen Portale umfasst: https://www.govdata.de/web/guest/daten;Complement;ja;Berlin Geoportal Wasserportal, Energieatlas, Gewerbedatenatlas, Urbane Datenplattform PRISMA, digitale Plattform Stadtverkehr, there ar many portals in Berlin
+PT36;ja;Eine Liste aller Datenanbieter ist als Filterliste unter folgendem Link abrufbar, der auch alle regionalen Portale umfasst: https://www.govdata.de/web/guest/daten;Confirm;ja;
+PT37;die meisten Datensätze;Kurznotiz: Einige, meist regionale Datenanbieter, geben ihre Daten bei GovData manuell ein;Change;The majority of datasets;"Short noted: A few, mostly regional data providers, enter their data at GovData manually 
 
 Follow up: Thanks for the hint. We updated the column H"
-PT38;ja;"Yes, there are some examples available:
+PT38;ja;"Ja, es gibt einige Beispiele:
 https://www.govdata.de/web/guest/suchen/-/details/pegelonline
 https://www.govdata.de/web/guest/suchen/-/details/aktuellste-10-minutige-stationsmessungen-der-niederschlagshohe-in-deutschland";Complement;ja;Berlin:but a very few, not many
 PT39;neue Frage;neue Frage;Change;ja;"Berlin:citizen based data such as the Radverkehrsdaten from the project ""Berlin zählt Mobilität""
@@ -419,19 +419,19 @@ Example: https://www.govdata.de/web/guest/suchen/-/details/osm-strassen-koln-bon
 PT40;nein;;Change;ja;"Berlin: yes, we have monitored the ""Cora datasets of Berlin ""berliner Kerndatensätze: https://odis-berlin.de/projekte/2023-02-kerndatens%C3%A4tze"
 D2.4;;;;;
 PT41;neue Frage;neue Frage;Change;ja;GovData: After the project launch, the GovData portal became a product of the IT Planungsrat. Funding has been secured via an administrative agreement with all 16 federal states and the federal government. FITKO was founded as a new authority to ensure the long-term operation of all products of the German IT Planungsrats https://www.it-planungsrat.de/fileadmin/beschluesse/2021/Beschluss2021-21_FITKO_Gruendungsbeschluss.pdf When it was founded in 2020, GovData was explicitly mentioned as a product that would be taken over. Legislation stipulates the delivery of data to GovData.
-PT42;ja;"Yes, see
+PT42;ja;"Ja, sehen Sie
 https://twitter.com/govdata_de
 https://social.bund.de/@opendata";Change;nein;Berlin:-Not any more, since Twitter became X
-PT43;ja;We provide our source code on GitHub: https://github.com/govdataofficial and on Open CoDE (a GitLab hosted by Germany): https://gitlab.opencode.de/fitko/govdata;Complement;ja;"Berlin: =HYPERLINK(""#""; ""https://github.com/berlinonline "")"
-PT44;ja;The Dashboard is using our SHACL Validator (online Version available under: https://www.itb.ec.europa.eu/shacl/dcat-ap.de/upload) and gives the data providers links how to improve their metadata quality and their performance on the national portal.;Change;nein;
-PT45;ja;With the SHACL Validator, data providers receive feedback on metadata quality and broken links in their database. Furthermore, the validator provides information on troubleshooting.;Change;nein;
+PT43;ja;Wir stellen unseren Quellcode auf GitHub zur Verfügung: https://github.com/govdataofficial und auf Open CoDE (ein von Deutschland gehostetes GitLab): https://gitlab.opencode.de/fitko/govdata;Complement;ja;"Berlin: =HYPERLINK(""#""; ""https://github.com/berlinonline "")"
+PT44;ja;Das Dashboard verwendet unseren SHACL-Validator (Online-Version verfügbar unter: https://www.itb.ec.europa.eu/shacl/dcat-ap.de/upload) und bietet den Datenanbietern Links zur Verbesserung ihrer Metadatenqualität und ihrer Leistung auf dem nationalen Portal.;Change;nein;
+PT45;ja;Mit dem SHACL Validator erhalten Datenanbieter Feedback zur Metadatenqualität und zu defekten Links in ihrer Datenbank. Darüber hinaus liefert der Validator Hinweise zur Fehlerbehebung.;Change;nein;
 D3;;;;;
 D3.1;;;;;
-Q1;ja;The metadata is subject to a harvesting process continuously, with control of the metadata and automatic scan for duplicates.;Confirm;;
+Q1;ja;Die Metadaten unterliegen einem kontinuierlichen Ernteprozess mit Kontrolle der Metadaten und automatischer Suche nach Duplikaten.;Confirm;;
 Q2;neue Frage;neue Frage;Change;70-89%;"Berlin: harvesting over the Geoportal
 
 90-99%. We have an open data portal for almost every federal state in Germany. The large (but also smaller) cities operate their own open data portal. In addition, there are various thematic data portals, such as for traffic data and geodata. All these data portals are linked together in a large network or tree and harvest each other. At the end is GovData, which harvests almost all of the metadata from sub-portals. Only a small amount of data is entered directly into GovData by hand."
-Q3;neue Frage;neue Frage;Change;Within one week;"GovData: On average, the metadata is updated after 2 days. If metadata is changed manually directly in the GovData portal, the changes are visible immediately. If a dataset is changed in the geoportal of a city, the city harvests its geoportal, the city may be harvested by the portal of the district, which in turn is harvested by the federal state, which is harvested by GovData. This chain can result in a delay of several days when updating the data.
+Q3;neue Frage;neue Frage;Change;innerhalb einer Woche;"GovData: On average, the metadata is updated after 2 days. If metadata is changed manually directly in the GovData portal, the changes are visible immediately. If a dataset is changed in the geoportal of a city, the city harvests its geoportal, the city may be harvested by the portal of the district, which in turn is harvested by the federal state, which is harvested by GovData. This chain can result in a delay of several days when updating the data.
 
 Follow up: confirmation"
 Q4;neue Frage;neue Frage;Change;ja;"GovData: Until recently, it was not possible to mark up data series in the metadata. Therefore, data series were created as differently as possible in the past. The local sub-portals all have their own strategy for dealing with this. With the introduction of DCAT-AP.de 3.0, an example of a correct data series is planned. Based on this, we could work towards harmonization.
@@ -444,10 +444,10 @@ Q6;neue Frage;neue Frage;Change;nein;"GovData: In some cases, the specialist com
 
 Follow up: The correct answer is still 'no'. INSPIRE and weather data are older than HVD. So we have interoperable datasets but we do no special activities for HVD datasets that there are interoperable with other countries"
 D3.2;;;;;
-Q7;ja;"Broken links, monitoring of import errors, validation is being transformed according to DCAT-AP.de (https://www.itb.ec.europa.eu/shacl/dcat-ap.de/upload )
-We provide a Dashboard, which provides information about the published data. While a trial period the Dashboard is only reachable for registered users.
-Please contact us to join via mail at info@govdata.de.";Confirm;;
-Q8;ja;We provide a Dashboard, which provides information about the published data. While a trial period the Dashboard is only reachable for registered users. Please contact us to join via mail at info@govdata.de.;Complement;ja;"GovData: We provide a dashboard that provides information about the published data. During a test phase, the dashboard is only accessible to registered users. The underlying data, however, can be accessed openly via our SPAQL interface.
+Q7;ja;"Unterbrochene Links, Überwachung von Importfehlern, Validierung wird gemäß DCAT-AP.de umgestellt (https://www.itb.ec.europa.eu/shacl/dcat-ap.de/upload)
+Wir stellen ein Dashboard zur Verfügung, das Auskunft über die veröffentlichten Daten gibt. Während der Testphase ist das Dashboard nur für registrierte Benutzer zugänglich.
+Bitte kontaktieren Sie uns zur Teilnahme per E-Mail an info@govdata.de.";Confirm;;
+Q8;ja;Wir stellen ein Dashboard zur Verfügung, das Auskunft über die veröffentlichten Daten gibt. Während der Testphase ist das Dashboard nur für registrierte Benutzer zugänglich. Bitte kontaktieren Sie uns zur Teilnahme per E-Mail an info@govdata.de.;Complement;ja;"GovData: We provide a dashboard that provides information about the published data. During a test phase, the dashboard is only accessible to registered users. The underlying data, however, can be accessed openly via our SPAQL interface.
 
 Follow up: https://govdata.de/metadatenqualitaet/qualitaetsmerkmale This URL will be available later this month. We remove the 'accessible to registered user'"
 Q9;neue Frage;neue Frage;Change;ja;"Berlin: =HYPERLINK(""#""; ""https://odis-berlin.de/file-download/Vorlage_Metadaten.xlsx "")
@@ -474,22 +474,22 @@ Q15;neue Frage;neue Frage;Change;ja;We only harvest datasources in DCAT-AP.de 2.
 Q16;>90%;;Change;51-70%;Follow up: Thanks for the hint. As described in Q15 we follow the DCAT-AP compliance. There is no decrease. We corrected the answers
 Q17;>90%;;Change;51-70%;Follow up: Thanks for the hint. As described in Q15 we follow the DCAT-AP compliance. There is no decrease. We corrected the answers
 Q18;71-90%;;Change;31-50%;Follow up: Thanks for the hint. As described in Q15 we follow the DCAT-AP compliance. There is no decrease. We corrected the answers
-Q19;ja;"DCAT-AP.de is only complement to DCAT-AP, so it is completely conforming to DCAT-AP. The complement to DCAT-AP are necessary to depict German peculiarities.
-https://www.dcat-ap.de/ // R2: For an exact explanation, we would have to answer the question separately.
+Q19;ja;"DCAT-AP.de stellt lediglich eine Ergänzung zu DCAT-AP dar und ist daher vollständig DCAT-AP-konform. Die Ergänzung zu DCAT-AP ist notwendig, um deutsche Besonderheiten abzubilden.
+https://www.dcat-ap.de/ // R2: Für eine genaue Erklärung müssten wir die Frage separat beantworten.
 
-In short, there are two legally different approaches between the CC BY 4.0 licence and the German data licence. CC BY focuses on material property law, while the German variant classifies the licensing of (official) datasets as a dedication/administrative act. This results in a different legal assessment. In addition, there are aspects from the regulations in Germany regarding general terms and conditions (GTC) in the context of civil law.
+Kurz gesagt gibt es zwei rechtlich unterschiedliche Ansätze zwischen der CC BY 4.0-Lizenz und der deutschen Datenlizenz. CC BY konzentriert sich auf das materielle Eigentumsrecht, während die deutsche Variante die Lizenzierung von (amtlichen) Datensätzen als Widmungsakt einstuft. Daraus ergibt sich eine andere rechtliche Beurteilung. Hinzu kommen Aspekte aus den Regelungen in Deutschland zu Allgemeinen Geschäftsbedingungen (AGB) im zivilrechtlichen Kontext.
 
-So there is a subtle legal distinction behind the data licence - a ""German peculiarity"". :-)
+Es gibt also einen subtilen rechtlichen Unterschied hinter der Datenlizenz – eine „deutsche Besonderheit“. :-)
 
-Nevertheless, the necessity of a national licence is currently being discussed and possibly reassessed in future.";Complement;;Follow up: Thanks for the hint. We still have a national extension. We will release the new DCAT-AP.de 3.0 in December 2024
+Dennoch wird die Notwendigkeit einer nationalen Lizenz derzeit diskutiert und möglicherweise in Zukunft neu bewertet.";Complement;;Follow up: Thanks for the hint. We still have a national extension. We will release the new DCAT-AP.de 3.0 in December 2024
 Q20;neue Frage;neue Frage;Change;nein;GovData: No. The investigation and improvement of metadata quality is on our to-do list.
 Q21;31-50%;Entfällt;Confirm;31-50%;GovData: '31-50%
 Q22;>90%;Entfällt;Change;51-70%;"GovData: '>90%
 
 Follow up: Thanks for the hint. We corrected the answer to 90+%"
 D3.4;;;;;
-Q23;ja;The Fair Principles are an central part of the quality check in the portal's dashboard.;Complement;ja;Berlin: for finance data and for the organigramm tool
-Q24;ja;Since 2021 we have the dashboard for quality control. The data providers themselves have the possibility to check their metadata quality there. Furthermore, extracts are regularly sent to the data providers with the most important quality parameters.;Complement;ja;Berlin: Barcamp Linked Open Data
+Q23;ja;Die Fair Principles sind ein zentraler Bestandteil der Qualitätsprüfung im Dashboard des Portals.;Complement;ja;Berlin: for finance data and for the organigramm tool
+Q24;ja;Seit 2021 haben wir das Dashboard zur Qualitätskontrolle. Die Datenanbieter selbst haben dort die Möglichkeit, ihre Metadatenqualität zu überprüfen. Darüber hinaus werden regelmäßig Auszüge mit den wichtigsten Qualitätsparametern an die Datenlieferanten gesendet.;Complement;ja;Berlin: Barcamp Linked Open Data
 Q25;>90%;Entfällt;Confirm;>90%;Entfällt
 Q26;>90%;Entfällt;Confirm;>90%;Entfällt
 Q27;71-90%;Entfällt;Confirm;71-90%;Entfällt
@@ -497,27 +497,27 @@ Q28;51-70%;Entfällt;Confirm;51-70%;Entfällt
 Q29;31-50%;Entfällt;Confirm;31-50%;Entfällt
 D4;;;;;
 D4.1;;;;;
-I1;ja;"Although there is no single definition, § 12a (6) EGovG regulates the re-use of open data as follows:
+I1;ja;"Obwohl es keine einheitliche Definition gibt, regelt § 12a Abs. 6 EGovG die Weiterverwendung offener Daten wie folgt:
 
-""The retrieval of data pursuant to the first sentence of (1) [(= § 12a (1) contains the obligation for publishing open data by federal authorities)] shall be made possible free of charge and for the unrestricted re-use of the data by any person. Retrieval of data pursuant to the first sentence of (1) should be possible at any time, without mandatory registration and without justification.""
+„Der Abruf von Daten nach Absatz 1 Satz 1 [(= § 12a Abs. 1 enthält die Verpflichtung zur Veröffentlichung offener Daten durch Bundesbehörden)] soll unentgeltlich und zur uneingeschränkten Weiterverwendung der Daten durch jede Person ermöglicht werden. Der Abruf der Daten nach Absatz 1 Satz 1 soll jederzeit, ohne Registrierungspflicht und ohne Angabe von Gründen möglich sein.“
 
-Furthermore the open data strategy defines as follows:
-""When is open government data for the purposes of this [open data]strategy?
-- Authorities have collected the data themselves or have them collected by third parties;
-- freely accessible on public networks,
-- machine-readable,
-- non-personal
-- freely usable,
-- No safety-related information.""";Confirm;;
-I2;ja;"Yes, there are various methods for estimating the re-use of open data. They include the collection, tracking and publication of use cases and other monitoring mechanisms, such as:
+Darüber hinaus definiert die Open-Data-Strategie Folgendes:
+„Wann sind offene Regierungsdaten im Sinne dieser [Open-Data]-Strategie?“
+- Behörden die Daten selbst erhoben haben oder durch Dritte erheben lassen;
+- frei zugänglich in öffentlichen Netzwerken,
+- maschinenlesbar,
+- nicht persönlich
+- frei nutzbar,
+- Keine sicherheitsrelevanten Informationen.“";Confirm;;
+I2;ja;"Ja, es gibt verschiedene Methoden zur Schätzung der Wiederverwendung offener Daten. Dazu gehören die Sammlung, Verfolgung und Veröffentlichung von Anwendungsfällen und andere Überwachungsmechanismen, wie zum Beispiel:
 
-- National level: Examples for data usage are collected via open government networking and made public as articles as well as on the CCOD website: https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/Use_Cases/use_cases_node.html
-- The usage of CODE-DE is extensively measured and regularly evaluated.
-- Regular INSPIRE-Monitoring by GDI-DE, Germany's geodata infrastructure. 
+- Nationale Ebene: Beispiele für die Datennutzung werden über Open Government Networking gesammelt und als Artikel sowie auf der CCOD-Website veröffentlicht: https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/Use_Cases/use_cases_node.html
+- Die Nutzung von CODE-DE wird umfassend gemessen und regelmäßig ausgewertet.
+- Regelmäßiges INSPIRE-Monitoring durch GDI-DE, Deutschlands Geodateninfrastruktur.
 
-- Regional/local:
-- Berlin (State): we do publish the applications that are generated by Open Data of Berlin on our Open Data Portal: https://daten.berlin.de/anwendungen
-- In the state of NRW, data owners/providers and IT-Service Providers monitor downloads and Service-Use as internal data.";Change;ja;"Berlin: Yes, there are various methods for estimating the re-use of open data. They include the collection, tracking and publication of use cases and other monitoring mechanisms, such as:
+- Regional/lokal:
+- Berlin (Land): Wir veröffentlichen die von Open Data of Berlin generierten Anwendungen auf unserem Open Data Portal: https://daten.berlin.de/anwendungen
+- Im Land NRW überwachen Dateneigentümer/-anbieter und IT-Dienstleister Downloads und Service-Nutzung als interne Daten.";Change;ja;"Berlin: Yes, there are various methods for estimating the re-use of open data. They include the collection, tracking and publication of use cases and other monitoring mechanisms, such as:
 
 - National level: Examples for data usage are collected via open government networking and made public as articles as well as on the CCOD website: https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/Use_Cases/use_cases_node.html
 - The usage of CODE-DE is extensively measured and regularly evaluated.
@@ -530,10 +530,10 @@ I2;ja;"Yes, there are various methods for estimating the re-use of open data. Th
 
 Hamburg:
 -The governmental impact is hereby defined as the beneficial effect of the use of open data on three specific challenges faced by the government/public administrations: 1) Being efficient and effective in delivering public services; 2) Being transparent and accountable in their actions; 3) Improving their capacity to make decisions and policies."
-I3;ja;"Berlin University Alliance promotes in objective 3, the monitoring of Open Data practices (https://www.berlin-university-alliance.de/en/commitments/research-quality/index.html)
+I3;ja;"Die Berlin University Alliance fördert in Ziel 3 das Monitoring von Open-Data-Praktiken (https://www.berlin-university-alliance.de/en/commitments/forschungsqualität/index.html)
 
-Examples at regional level:
-Berlin (State): we have our project database, where we monitor the reuse of the own published data and make it popular with our social media activities or press releases:
+Beispiele auf regionaler Ebene:
+Berlin (Land): Wir verfügen über unsere Projektdatenbank, in der wir die Wiederverwendung der eigenen veröffentlichten Daten überwachen und diese durch unsere Social-Media-Aktivitäten oder Pressemitteilungen bekannt machen:
 1) offene Haushaltsdaten: https://odis-berlin.de/projekte/haushaltsdaten/
 2) Organigramm-Tool: https://odis-berlin.de/projekte/organigramme/
 3) Wahlbezirke-Editor: https://odis-berlin.de/projekte/wahlbezirke/";Complement;ja;"Bavaria:
@@ -541,42 +541,42 @@ Berlin (State): we have our project database, where we monitor the reuse of the 
 
 North Rhine-Westphalia: Reuse cases are pulblished in a showroom (https://open.nrw/open-data/open-data-showroom."
 I4;neue Frage;neue Frage;Change;nein;
-I5;ja;"Yes, but there is no one-size-fits-all definition of the impact of open data in Germany (which would, due to the constitutional division between federal level (Bund) and regional level (Länder) as mentioned above, hardly be applicable to Germany): most public bodies and institutions dealing with open data have delineated what the impact of open data (can) entail from their perspective.
-- For instance, the overall impact of open data is described in the Data Stategy (see here https://www.bundesregierung.de/resource/blob/992814/1845634/f073096a398e59573c7526feaadd43c4/datenstrategie-der-bundesregierung-download-bpa-data.pdf?download=1.
-- The Open data Strategy also contains a broad definition of the objectives and impacts of open data (page 5, 6), see URL: https://www.bundesregierung.de/resource/blob/992814/1940386/1d269a2ad1b6346fcf60663bdea9c9f8/2021-07-07-open-data-strategie-data.pdf?download=1
-- Open data is a key aspect of the mFUND funding program. Innovation projects are supported financially that make their project results and research data available as open data at the latest after the project has ended. BMVI's open data portal mCLOUD (https://mcloud.de/) is the primary repository for the publication of open data for mFUND projects. The scope of the planned open data provision already plays a decisive role in the assessment of the submitted project proposals.
-- A number of federal agencies have implented Open Data in all data relevant processes and in their strategic orientation (change management), e.g. BAW, BSH, DWD.
-- The study  ""Kommunales Open Government. Gebrauchsanleitung für eine Utopie"" published by the  Ministry of the Interior, Building and Community moreover presents several concrete expectations of positive impact thanks to open government data (URL: https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/moderne-verwaltung/leitfaden-modellkommune-open-govt.pdf?__blob=publicationFile&v=1) 
--  In the course of the Ministry's project ""Modellkomune Open Government"", eight impact dimensions of openness and nine expected impacts for public bodies were identified (see pp. 61 & p. 65, URL:  https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/moderne-verwaltung/projektbericht-modellkommune-open-government.pdf?__blob=publicationFile&v=2)
-- The study ""Digitales Gold"" from Berlin's ""Technologiestiftung"" outlines concrete impacts in different fields of open data application (URL: https://www.technologiestiftung-berlin.de/fileadmin/Redaktion/PDFs/Bibliothek/Studien/2014/140201_Studie_Digitales_Gold_Open_Data.pdf)";Complement;ja;"Berlin: Yes, but there is no one-size-fits-all definition of the impact of open data in Germany (which would, due to the constitutional division between federal level and regional level hardly be applicable to Germany): most public bodies and institutions dealing with open data have delineated what the impact of open data (can) entail from their perspective.
+I5;ja;"Ja, aber es gibt keine einheitliche Definition der Auswirkungen offener Daten in Deutschland (die aufgrund der oben erwähnten verfassungsrechtlichen Trennung zwischen Bund und Ländern kaum anwendbar auf Deutschland wäre): Die meisten öffentlichen Stellen und Institutionen, die sich mit offenen Daten befassen, haben dargelegt, welche Auswirkungen offene Daten aus ihrer Sicht haben (können).
+- Die Gesamtwirkung offener Daten ist beispielsweise in der Datenstrategie beschrieben (siehe hier https://www.bundesregierung.de/resource/blob/992814/1845634/f073096a398e59573c7526feaadd43c4/datenstrategie-der-bundesregierung-download-bpa-data.pdf?download=1.
+- Die Open-Data-Strategie enthält auch eine umfassende Definition der Ziele und Auswirkungen von Open Data (Seite 5, 6), siehe URL: https://www.bundesregierung.de/resource/blob/992814/1940386/1d269a2ad1b6346fcf60663bdea9c9f8/2021-07-07-open-data-strategie-data.pdf?download=1
+- Offene Daten sind ein zentraler Aspekt des mFUND-Förderprogramms. Finanziell werden Innovationsprojekte gefördert, die ihre Projektergebnisse und Forschungsdaten spätestens nach Projektende als Open Data zur Verfügung stellen. Das Open-Data-Portal mCLOUD (https://mcloud.de/) des BMVI ist das primäre Repository für die Veröffentlichung offener Daten für mFUND-Projekte. Der Umfang der geplanten Open-Data-Bereitstellung spielt bereits bei der Bewertung der eingereichten Projektvorschläge eine entscheidende Rolle.
+- Eine Reihe von Bundesbehörden haben Open Data in allen datenrelevanten Prozessen und in ihrer strategischen Ausrichtung (Change Management) implementiert, z.B. BAW, BSH, DWD.
+- Die vom Ministerium des Innern, für Bau und Heimat herausgegebene Studie „Kommunales Open Government. Gebrauchsanleitung für eine Utopie“ stellt darüber hinaus mehrere konkrete Erwartungen an positive Wirkungen durch Open-Government-Daten dar (URL: https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/moderne-verwaltung/leitfaden-modellkommune-open-govt.pdf?__blob=publicationFile&v=1)
+- Im Rahmen des Ministeriumsprojekts „Modellkomune Open Government“ wurden acht Wirkungsdimensionen der Offenheit und neun erwartete Wirkungen für öffentliche Stellen identifiziert (siehe S. 61 & S. 65, URL: https://www.bmi.bund. de/SharedDocs/downloads/DE/veroeffentlichungen/themen/moderne-verwaltung/projektbericht-modellkommune-open-government.pdf?__blob=publicationFile&v=2)
+- Die Studie „Digitales Gold“ der Berliner Technologiestiftung skizziert konkrete Auswirkungen in verschiedenen Bereichen der Open-Data-Anwendung (URL: https://www.technologiestiftung-berlin.de/fileadmin/Redaktion/PDFs/Bibliothek/Studien/2014/140201_Studie_Digitales_Gold_Open_Data.pdf)";Complement;ja;"Berlin: Yes, but there is no one-size-fits-all definition of the impact of open data in Germany (which would, due to the constitutional division between federal level and regional level hardly be applicable to Germany): most public bodies and institutions dealing with open data have delineated what the impact of open data (can) entail from their perspective.
 - For instance, the overall impact of open data is described in the new Data Stategy of 2023 ""Progress through data use"", see here: https://bmdv.bund.de/SharedDocs/DE/Anlage/K/nationale-datenstrategie.pdf?__blob=publicationFile
 - The Open data Strategy also contains a broad definition of the objectives and impacts of open data (page 5, 6), see URL: https://www.bundesregierung.de/resource/blob/992814/1940386/1d269a2ad1b6346fcf60663bdea9c9f8/2021-07-07-open-data-strategie-data.pdf?download=1"
-I6;ja;"As impact is defined in different ways (see Q33 above), there are different methodologies used on the national, regional, local and project-level. 
-- On the national level, the implementation and corresponding impact of the open data law is measured through an online questionnaire and writing of a bi-annual ""Fortschrittsbericht"" (Progress report). See the first one and also the results of the mearung here: https://dip21.bundestag.de/dip21/btd/19/141/1914140.pdf
-*(the second report is currently being prepared).
-- The State (Land) NRW has developed a through evaluation for its overall open government strategy, which includes measuring its open-data-goals and the associated impact (URL: 
-https://www-open-nrw.prod-drupal.nrw.de/system/files/media/document/file/opennrwt1web.pdf) 
-- The project ""Modellkomune Open Government"" published an accompanying guidebook that specifies ""expectations"" associated with openness and concrete steps to achieve them. These are at the same time the basis for impact evaluation (URL: https://open-government-kommunen.de/goto.php?target=file_425_download&client_id=civitalis) 
-- the Open Data Impact Award of the Stifterverband suggests that ""impact"" of open data in research means that the data has successfully been implemented in another societal field (creating an added value for society, openly available for a large number of users) (URL: https://www.stifterverband.org/innosci/open-data-impact-award)
+I6;ja;"Da Auswirkungen auf unterschiedliche Weise definiert werden (siehe Frage 33), werden auf nationaler, regionaler, lokaler und Projektebene unterschiedliche Methoden verwendet.
+- Auf nationaler Ebene werden die Umsetzung und die entsprechenden Auswirkungen des Open-Data-Gesetzes durch einen Online-Fragebogen und die Erstellung eines halbjährlichen „Fortschrittsberichts“ gemessen. Den ersten und auch die Ergebnisse der Abstimmung finden Sie hier: https://dip21.bundestag.de/dip21/btd/19/141/1914140.pdf
+*(der zweite Bericht wird derzeit erstellt).
+- Das Land NRW hat eine durchgehende Evaluierung seiner gesamten Open-Government-Strategie entwickelt, die die Messung seiner Open-Data-Ziele und der damit verbundenen Auswirkungen umfasst (URL:
+https://www-open-nrw.prod-drupal.nrw.de/system/files/media/document/file/opennrwt1web.pdf)
+- Das Projekt „Modellkomune Open Government“ hat einen begleitenden Leitfaden veröffentlicht, der „Erwartungen“ an Offenheit und konkrete Schritte zu deren Erreichung konkretisiert. Diese sind zugleich Grundlage für die Wirkungsevaluation (URL: https://open-gouvernement-kommunen.de/goto.php?target=file_425_download&client_id=civitalis)
+- Der Open Data Impact Award des Stifterverbandes weist darauf hin, dass „Impact“ von Open Data in der Forschung bedeutet, dass die Daten erfolgreich in einem anderen gesellschaftlichen Bereich umgesetzt wurden (einen Mehrwert für die Gesellschaft schaffen, offen für eine große Anzahl von Nutzern verfügbar) (URL: https://www.stifterverband.org/innosci/open-data-impact-award)
 
-Finally: in its coalition agreement from 2021, the Federal Government stipulated the establishment of an independent data institute in Germany. One task of this institution will be in future to develop further methods.";Complement;ja;"Berlin: As impact is defined in different ways, there are different methodologies used on the national level:
+Schließlich: In ihrem Koalitionsvertrag aus dem Jahr 2021 hat die Bundesregierung die Gründung eines unabhängigen Dateninstituts in Deutschland festgelegt. Eine Aufgabe dieser Einrichtung wird in Zukunft darin bestehen, weitere Methoden zu entwickeln.";Complement;ja;"Berlin: As impact is defined in different ways, there are different methodologies used on the national level:
 - On the national level, the implementation and corresponding impact of the open data law is measured through an online questionnaire and writing of a bi-annual ""Fortschrittsbericht"" (Progress report). See the first one and also the results of the mearung here: https://dip21.bundestag.de/dip21/btd/19/141/1914140.pdf
 *(the second report is currently being prepared for 2024).
 
 Finally: in its coalition agreement from 2021, the Federal Government stipulated the establishment of an independent Data Institute in Germany. One task of this institution will be in future to develop further methods."
-I7;ja;"Yes, see some examples below:
-- the FU Berlin Open Acccess Initiative: https://www.fu-berlin.de/sites/open_access/akteure/oa-policy
+I7;ja;"Ja, siehe unten einige Beispiele:
+- die FU Berlin Open Access Initiative: https://www.fu-berlin.de/sites/open_access/akteure/oa-policy
 
-- there is funding and other activities to promote research data management with the goal to make this high quality data accessible through the FAIR-principles for the benefit of science, business and civil society.
+- Es gibt Fördermittel und andere Aktivitäten zur Förderung des Forschungsdatenmanagements mit dem Ziel, diese hochwertigen Daten durch die FAIR-Prinzipien zum Nutzen von Wissenschaft, Wirtschaft und Zivilgesellschaft zugänglich zu machen.
 
-- In the mFUND program there are a number of projects that emerge from civil society engagement. One example is the project miki (""mobil im Kiez"", https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-projekte/miki.html), that aims to develop solutions for the navigation and orientation of people with reduced mobility under participation of civil society engagement. In total there are 15 mFUND-projects under participation of civil society organizations that use open data and/ or create open data.
+- Im mFUND-Programm gibt es eine Reihe von Projekten, die aus zivilgesellschaftlichem Engagement hervorgehen. Ein Beispiel ist das Projekt miki („mobil im Kiez“, https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-projekte/miki.html), dessen Ziel es ist, Lösungen für die Navigation und Orientierung von Menschen mit eingeschränkter Mobilität zu entwickeln unter Einbeziehung zivilgesellschaftlichen Engagements. Insgesamt gibt es 15 mFUND-Projekte unter Beteiligung zivilgesellschaftlicher Organisationen, die Open Data nutzen und/oder Open Data erstellen.
 
-- OParl is an initiative to promote the openness of parliamentary information systems at municipal level in Germany, see: https://oparl.org/
+- OParl ist eine Initiative zur Förderung der Offenheit parlamentarischer Informationssysteme auf kommunaler Ebene in Deutschland, siehe: https://oparl.org/
 
-- There are currently 34 so called ""OK Labs"" all over germany which operate under the leadership of Code for Germany. These Labs work with open data on a daily basis and create several projects, applications and use cases. See an overview of the labs here:
+- Derzeit gibt es bundesweit 34 sogenannte „OK Labs“, die unter der Leitung von Code for Germany agieren. Diese Labore arbeiten täglich mit offenen Daten und erstellen verschiedene Projekte, Anwendungen und Anwendungsfälle. Eine Übersicht der Labore finden Sie hier:
 https://www.codefor.de/; https://www.codefor.de/about/
-An overview of the projects the labs are working on: https://www.codefor.de/projekte/
-Some example websites of a few labs:
+Eine Übersicht über die Projekte, an denen die Labore arbeiten: https://www.codefor.de/projekte/
+Einige Beispiel-Websites einiger Labore:
 https://www.codefor.de/berlin/
 https://www.codefor.de/ruhrgebiet/
 https://www.codefor.de/niederrhein/
@@ -584,9 +584,9 @@ https://www.codefor.de/bonn/
 https://www.codefor.de/koeln/
 https://www.codefor.de/muenchen/
 
-Response to R1: Select another link that should fit better. The FU has an open access strategy.
+Antwort zu R1: Wählen Sie einen anderen Link aus, der besser passen sollte. Die FU verfügt über eine Open-Access-Strategie.
 
-Extract from the Preamble: The Free University of Berlin is committed to promoting open access and attaches great importance to the high quality of scientific publications in compliance with all technical standards. It actively participates in relevant open access initiatives and is committed in particular to the objectives of the Open Access Strategy for Berlin (Land).";Change;nein;
+Auszug aus der Präambel: Die Freie Universität Berlin setzt sich für die Förderung von Open Access ein und legt großen Wert auf die hohe Qualität wissenschaftlicher Publikationen unter Einhaltung aller technischen Standards. Sie beteiligt sich aktiv an einschlägigen Open-Access-Initiativen und engagiert sich insbesondere für die Ziele der Open-Access-Strategie für Berlin (Land).";Change;nein;
 D4.2;;;;;
 I8;ja;Entfällt;Confirm;ja;Entfällt
 I8-a;neue Frage;neue Frage;Change;ja;"BMEL:
@@ -633,22 +633,22 @@ BMDV:
 Mobility Data Space and Mobilithek use feedback measures with portal users."
 I9-b;neue Frage;neue Frage;Change;ja;Entfällt
 I9-c;neue Frage;neue Frage;Change;ja;Entfällt
-I10;ja;"e.g. at regional levels:
-NRW: Research; possibility to report on the portal: https://open.nrw/open-data/showroom
-Berlin: Open Data Projects are collected on this website: https://odis-berlin.de/projekte/";Complement;ja;"Bavaria: Use Cases are collected with a possibility to report new ones at https://oc.bydata.de/using/usecases
+I10;ja;"z.B. auf regionaler Ebene:
+NRW: Forschung; Möglichkeit zur Berichterstattung auf dem Portal: https://open.nrw/open-data/showroom
+Berlin: Open-Data-Projekte werden auf dieser Website gesammelt: https://odis-berlin.de/projekte/";Complement;ja;"Bavaria: Use Cases are collected with a possibility to report new ones at https://oc.bydata.de/using/usecases
 
 Berlin: Prototyping of data with the ODIS
 
 North Rhine-Westphalia: Reuse cases are published in a showroom (https://open.nrw/open-data/open-data-showroom)"
-I11;ja;As part of the development of the National Research Data Infrastructure, the Directorate-General for Cultural Heritage of Rhineland-Palatinate (DGKE) is involved as a co-applicant in the NFDI4Objects consortium. In this context, a survey on the archiving of digital archaeological data was carried out in 2021 to assess the requirements of wide and sustainable availability and re-use of research data through professional archiving and provision in accordance with the FAIR principles. NFDI4Objects is planning to provide methods, standards and interfaces for long-term archiving, e.g. for researchers dealing with the material heritage of human history (i.e. not only archaeologists).;Complement;ja;"BMG:
+I11;ja;Im Rahmen des Aufbaus der Nationalen Forschungsdateninfrastruktur ist die Generaldirektion Kulturelles Erbe Rheinland-Pfalz (DGKE) als Mitantragsteller im NFDI4Objects-Konsortium beteiligt. In diesem Zusammenhang wurde im Jahr 2021 eine Umfrage zur Archivierung digitaler archäologischer Daten durchgeführt, um die Anforderungen einer breiten und nachhaltigen Verfügbarkeit und Nachnutzung von Forschungsdaten durch professionelle Archivierung und Bereitstellung gemäß den FAIR-Prinzipien zu ermitteln. NFDI4Objects plant die Bereitstellung von Methoden, Standards und Schnittstellen für die Langzeitarchivierung, z.B. für Forscher, die sich mit dem materiellen Erbe der Menschheitsgeschichte befassen (also nicht nur Archäologen).;Complement;ja;"BMG:
 As part of the NFDI4Health consortium systemetic ways of classifying reuse cases are currently developed"
 D4.3;;;;;
 D4.3a;;;;;
-I12;nein;"There is currently no study or data available that fits exactly the question. The answer must therefore be ‘no’.
+I12;nein;"Derzeit gibt es keine Studie oder Daten, die genau zu dieser Fragestellung passen. Die Antwort muss daher „Nein“ lauten.
 =====
-Berlin (State): Yes, we have a transparency project for he datasets ""Haushaltsdaten"", which the senate department of finance publishes and where we have a visualisation to show the citizens where the public money is used in the government. We have the ""Energie Checkpoint"" that shows he energy efficiency of public buildings, so that we can show, whether we can reach our climate goals in Berlin or not.
-(1) Open ""Haushaltsdaten"" is a transparency project: https://haushaltsdaten.odis-berlin.de/
-(2) Energiecheckpoint: ""efficiency & effectiveness of renewable regulations"" https://energiecheckpoint.odis-berlin.de/";Change;ja;"Berlin: the study ""Open data in der Berliner Verwaltung"": https://odis-berlin.de/file-download/01_Handout-OpenData-Kurzerklaert.pdf"
+Berlin (Land): Ja, wir haben ein Transparenzprojekt für die Datensätze „Haushaltsdaten“, die die Senatsverwaltung für Finanzen veröffentlicht und wo wir eine Visualisierung haben, um den Bürgern zu zeigen, wo die öffentlichen Gelder in der Regierung verwendet werden. Wir haben den „Energie Checkpoint“, der die Energieeffizienz öffentlicher Gebäude anzeigt, damit wir zeigen können, ob wir unsere Klimaziele in Berlin erreichen können oder nicht.
+(1) Open „Haushaltsdaten“ ist ein Transparenzprojekt: https://haushaltsdaten.odis-berlin.de/
+(2) Energiecheckpoint: „Effizienz & Wirksamkeit erneuerbarer Regulierungen“ https://energiecheckpoint.odis-berlin.de/";Change;ja;"Berlin: the study ""Open data in der Berliner Verwaltung"": https://odis-berlin.de/file-download/01_Handout-OpenData-Kurzerklaert.pdf"
 I13;neue Frage;neue Frage;Change;ja;"Berlin: the library dashboard shos the use of data to improve public services https://odis-berlin.de/projekte/2023-03-pankow-bibliotheksdaten 
 
 BMEL:
@@ -660,24 +660,24 @@ I15;neue Frage;neue Frage;Change;I don't know;
 I16;neue Frage;neue Frage;Change;ja;"BMG:
 open data is used as a basis for multiple dasboards for example: https://infektionsradar.gesund.bund.de/de"
 D4.3b;;;;;
-I17;nein;"There is currently no study or data available that fits exactly the question. The answer must therefore be ‘no’.
+I17;nein;"Derzeit gibt es keine Studie oder Daten, die genau zu dieser Fragestellung passen. Die Antwort muss daher „Nein“ lauten.
 =====
-The social budget dataset offers an overview of the range of services and the financing of the social security system in Germany. The social budget dataset is linked as open data with www.govdata.de. The publication of the dataset increases transparency and accountability in Germany.
+Der Sozialhaushaltsdatensatz bietet einen Überblick über das Leistungsspektrum und die Finanzierung des Sozialversicherungssystems in Deutschland. Der Sozialhaushaltsdatensatz ist als Open Data mit www.govdata.de verknüpft. Die Veröffentlichung des Datensatzes erhöht die Transparenz und Rechenschaftspflicht in Deutschland.
 
-The Federal Government is required to regularly present a Poverty and Wealth Report as an instrument to review political measures and to suggest new ones. Six reports have been published so far. All reports as well as their accompanying scientific research are published on the internet. 
-ARB - Startseite (armuts-und-reichtumsbericht.de)
-Within the framework of the Poverty and Wealth Report, indicators are published on the internet and made available as open data files.
+Als Instrument zur Überprüfung politischer Maßnahmen und zur Anregung neuer Maßnahmen ist die Bundesregierung verpflichtet, regelmäßig einen Armuts- und Reichtumsbericht vorzulegen. Bisher wurden sechs Berichte veröffentlicht. Alle Berichte sowie die dazugehörige wissenschaftliche Forschung werden im Internet veröffentlicht.
+ARB - Startseite (armuts-und-erreichtumsbericht.de)
+Im Rahmen des Armuts- und Reichtumsberichts werden Indikatoren im Internet veröffentlicht und als offene Datendateien zur Verfügung gestellt.
 ARB - Open Data (armuts-und-reichtumsbericht.de)
 
-Fakten zur Rente (Facts on Pensions) is an information base. Its aim is to support the discussion on the future of old-age security. With facts and figures on old-age provision, a contribution is to be made to objectifying the debate. In doing so, both development lines and the current status of selected aspects of old-age provision are described, thus providing a basis for a better understanding of the topic of old-age provision.
+Fakten zur Rente ist eine Informationsbasis. Ziel ist es, die Diskussion über die Zukunft der Alterssicherung zu unterstützen. Mit Zahlen und Fakten zur Altersvorsorge soll ein Beitrag zur Versachlichung der Debatte geleistet werden. Dabei werden beide Entwicklungslinien sowie der aktuelle Stand ausgewählter Aspekte der Altersvorsorge beschrieben und so eine Grundlage für ein besseres Verständnis des Themas Altersvorsorge geschaffen.
 BMAS - Klargestellt: Fakten zur Rente, Link: https://www.bmas.de/DE/Soziales/Rente-und-Altersvorsorge/Fakten-zur-Rente/fakten-zur-rente.html
-In a separate section, the data used is presented in an open data format for the interested public.
+In einem separaten Abschnitt werden die verwendeten Daten in einem offenen Datenformat für die interessierte Öffentlichkeit präsentiert.
 BMAS - Daten zur Rente zum Download, Link: https://www.bmas.de/DE/Service/Statistiken-Open-Data/Daten-zur-Rente/daten-zur-rente.html
 
-The Federal Ministry for Food and Agriculture provides several datasets e.g. on nutritional behaviour
+Das Bundesministerium für Ernährung und Landwirtschaft stellt mehrere Datensätze zur Verfügung, z.B. zum Thema Ernährungsverhalten
 
-examples at regional level:
-Berlin (state): we have an ""Sozialinformationssystem"" which is an Open Data Portal on topics like social challenges
+Beispiele auf regionaler Ebene:
+Berlin (Land): Wir haben ein „Sozialinformationssystem“, ein offenes Datenportal zu Themen wie gesellschaftlichen Herausforderungen
 https://www.sozial-informations-system.de/home?lang=de";Change;nein;"BMAS:
 There is currently no study or data available that fits exactly the question. The answer must therefore be ‘no’.
 =====
@@ -709,11 +709,11 @@ I20;neue Frage;neue Frage;Change;I don't know;
 I21;neue Frage;neue Frage;Change;ja;"BMAS:
 At https://www.arbeitsagentur.de/jobsuche/ of the Bundesagentur für Arbeit (Federal Employment Agency), people looking for an vocational training can find out information about vacant (vocational) training places."
 D4.3c;;;;;
-I22;nein;"There is currently no study or data available that fits exactly the question. The answer must therefore be ‘no’.
+I22;nein;"Derzeit gibt es keine Studie oder Daten, die genau zu dieser Fragestellung passen. Die Antwort muss daher „Nein“ lauten.
 =====
-mFund-Project: “SmartAQnet”: „Smart Air Quality Network“: The ""Smart Air Quality Network"" (SmartAQnet) project aims to implement an intelligent, reproducible, very finely resolved and yet inexpensive measurement network for air quality. Links: https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/mfund-projekte/smart-air-quality-network-smartaqnet.html; Data: https://www.smartaq.net/en/dashboard/#/home
+mFund-Projekt: „SmartAQnet“: „Smart Air Quality Network“: Das Projekt „Smart Air Quality Network“ (SmartAQnet) zielt darauf ab, ein intelligentes, reproduzierbares, sehr fein aufgelöstes und dennoch kostengünstiges Messnetzwerk für Luftqualität zu implementieren. Links: https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/mfund-projekte/smart-air-quality-network-smartaqnet.html; Daten: https://www.smartaq.net/en/dashboard/#/home
 
-Berlin (state): the enrgieatlas has for example data on the impact created by open data on environmental challlenges, Link: energieatlas.berlin.de ";Change;nein;"Bavaria: Yes, e.g. the Start-Up ""Urbansens"" uses open data for analyzing heat and environmental problems in cities https://oc.bydata.de/using/usecases/urbansens
+Berlin (Bundesland): Der Energieatlas verfügt beispielsweise über Daten zu den Auswirkungen offener Daten auf Umweltherausforderungen, Link: energieatlas.berlin.de";Change;nein;"Bavaria: Yes, e.g. the Start-Up ""Urbansens"" uses open data for analyzing heat and environmental problems in cities https://oc.bydata.de/using/usecases/urbansens
 
 Hamburg: -The environmental impact is hereby defined as the beneficial effect of the use of open data on four specific challenges connected to the environment: 1) Protecting biodiversity (e.g. maintaining a good level of air and water quality), 2) Achieving more environmental-friendly cities (e.g. in terms of transport and waste management), 3) Fighting climate change and connected disasters, 4) Increasing the use of renewable sources of energy. 
 
@@ -726,13 +726,13 @@ I25;neue Frage;neue Frage;Change;ja;"Bavaria: Yes, e.g. the Start-Up ""Urbansens
 I26;neue Frage;neue Frage;Change;ja;"Schleswig-Holstein: 
 The Solar potential cadastre https://www.solarkataster-sh.de has been created based on data from the open data portal."
 D4.3d;;;;;
-I27;nein;"There is currently no study or data available that fits exactly the question. The answer must therefore be ‘no’.
+I27;nein;"Derzeit gibt es keine Studie oder Daten, die genau zu dieser Fragestellung passen. Die Antwort muss daher „Nein“ lauten.
 =====
-Dashboard Germany, Economics and Economy section: It offers indicators around the economy and the economy, general economic development and recovery plans, as well as specific sectors, external trade, consumption and prices:
+Dashboard Deutschland, Rubrik Wirtschaft und Konjunktur: Es bietet Indikatoren rund um Wirtschaft und Konjunktur, allgemeine Wirtschaftsentwicklung und Erholungspläne sowie spezifische Branchen, Außenhandel, Konsum und Preise:
 https://www.dashboard-deutschland.de/konjunktur_wirtschaft/aussenhandel
-Add.: While studies on the economic impact of open data exist, there is no knowledge of recurring data collection.
+Ergänzung: Es liegen zwar Studien zu den wirtschaftlichen Auswirkungen offener Daten vor, es liegen jedoch keine Erkenntnisse zur wiederkehrenden Datenerhebung vor.
 
-Berlin (state): this data is available on the plattform of the ""Amt für Statistik Berlin-Brandenburg"" for Berlin. For the new business created we have our daa from the ""Gewerbedatenbank"":
+Berlin (Land): Diese Daten sind auf der Plattform des Amtes für Statistik Berlin-Brandenburg für Berlin verfügbar. Für das neu gegründete Unternehmen beziehen wir unsere Daten aus der Gewerbedatenbank:
 Bevölkerungsdaten: https://www.statistik-berlin-brandenburg.de/bevoelkerung
 Daten der Gewerbedatenbank: https://senweb.leto.polyteia.de/app/ac755f96-46a2-49d1-9f60-0534f3b0e833/1a705925-d1d8-49a6-8d12-1d229095f57a";Confirm;;
 I28;neue Frage;neue Frage;Change;ja;"BMAS:

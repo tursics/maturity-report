@@ -430,52 +430,52 @@ PT45;ja;Mit dem SHACL Validator erhalten Datenanbieter Feedback zur Metadatenqua
 D3;;;;;
 D3.1;;;;;
 Q1;ja;Die Metadaten unterliegen einem kontinuierlichen Ernteprozess mit Kontrolle der Metadaten und automatischer Suche nach Duplikaten.;Confirm;;
-Q2;neue Frage;neue Frage;Change;70-89%;"Berlin: harvesting over the Geoportal
+Q2;neue Frage;neue Frage;Change;70-89%;"Berlin: Datenerhebung über das Geoportal
 
-90-99%. We have an open data portal for almost every federal state in Germany. The large (but also smaller) cities operate their own open data portal. In addition, there are various thematic data portals, such as for traffic data and geodata. All these data portals are linked together in a large network or tree and harvest each other. At the end is GovData, which harvests almost all of the metadata from sub-portals. Only a small amount of data is entered directly into GovData by hand."
-Q3;neue Frage;neue Frage;Change;innerhalb einer Woche;"GovData: On average, the metadata is updated after 2 days. If metadata is changed manually directly in the GovData portal, the changes are visible immediately. If a dataset is changed in the geoportal of a city, the city harvests its geoportal, the city may be harvested by the portal of the district, which in turn is harvested by the federal state, which is harvested by GovData. This chain can result in a delay of several days when updating the data.
+90–99 %. Wir verfügen für fast jedes Bundesland über ein Open-Data-Portal. Die größeren (aber auch kleineren) Städte betreiben ein eigenes Open-Data-Portal. Darüber hinaus gibt es verschiedene thematische Datenportale, beispielsweise für Verkehrs- und Geodaten. Alle diese Datenportale sind in einem großen Netzwerk oder Baum miteinander verknüpft und ernten sich gegenseitig. Am Ende steht GovData, das fast alle Metadaten aus den Unterportalen sammelt. Nur ein kleiner Teil der Daten wird manuell direkt in GovData eingegeben."
+Q3;neue Frage;neue Frage;Change;innerhalb einer Woche;"GovData: Die Metadaten werden durchschnittlich nach zwei Tagen aktualisiert. Werden Metadaten manuell direkt im GovData-Portal geändert, sind die Änderungen sofort sichtbar. Wird ein Datensatz im Geoportal einer Stadt geändert, nutzt die Stadt ihr Geoportal. Die Stadt kann dann vom Portal des Landkreises und dieses wiederum vom Bundesland und dieses wiederum von GovData genutzt werden. Diese Kette kann zu einer Verzögerung von mehreren Tagen bei der Datenaktualisierung führen.
 
-Follow up: confirmation"
-Q4;neue Frage;neue Frage;Change;ja;"GovData: Until recently, it was not possible to mark up data series in the metadata. Therefore, data series were created as differently as possible in the past. The local sub-portals all have their own strategy for dealing with this. With the introduction of DCAT-AP.de 3.0, an example of a correct data series is planned. Based on this, we could work towards harmonization.
+Nachtrag: Bestätigung"
+Q4;neue Frage;neue Frage;Change;ja;"GovData: Bis vor Kurzem war es nicht möglich, Datenreihen in den Metadaten zu kennzeichnen. Daher wurden Datenreihen in der Vergangenheit so unterschiedlich wie möglich erstellt. Die lokalen Unterportale verfolgen jeweils eigene Strategien, um damit umzugehen. Mit der Einführung von DCAT-AP.de 3.0 ist ein Beispiel für eine korrekte Datenreihe geplant. Darauf aufbauend könnten wir an einer Harmonisierung arbeiten.
 
-Follow up: Yes the new DCAT-AP.de version make it possible to mark dataset series correctly and unique. Today we do not measure this aspect because there is no standardized way and 4+ ways used to mark dataseries."
-Q5;neue Frage;neue Frage;Change;ja;"Berlin: but it is not getting used as the data providers publish from other plattforms such as GENESIS Online, where there is an interface to the Govdata Portal, or they publish over the Geoportal Berlin, where there is an API to the Berlin Open Data Portal, but they do not have to indicate extra on the Berlin Portal, as it gets indicated at the Geoportal 
-GovData: 
-We are proud to have been the second state to correctly transfer the high-value datasets award to the European data portal. In order to do this successfully, we had to extend CKAN so that HVD data could be imported into a CKAN system and then exported. Our changes have been transferred to the official repo according to the open source rules. For the geodata, we had to adapt the converter of the geo-ISO data. A lengthy coordination process with and within the geo-community was necessary beforehand. Please also refer to the answer to question PT22."
-Q6;neue Frage;neue Frage;Change;nein;"GovData: In some cases, the specialist communities themselves ensure that the individual data records are compatible. Two specialist areas are cited as examples. The geodata are collected in the federal states and, thanks to established structures, they can be harmonized and offered as a common dataset for the whole of Germany. The INSPIRE specifications mean that the datasets are comparable throughout Europe. The weather data is not only compatible within Europe but is also internationally interoperable thanks to its standardization.
+Nachtrag: Ja, die neue Version von DCAT-AP.de ermöglicht die korrekte und eindeutige Kennzeichnung von Datensatzreihen. Derzeit messen wir diesen Aspekt nicht, da es keine standardisierte Methode gibt und mehr als vier Methoden zur Kennzeichnung von Datenreihen verwendet werden."
+Q5;neue Frage;neue Frage;Change;ja;"Berlin: Es wird jedoch nicht genutzt, da die Datenanbieter von anderen Plattformen wie GENESIS Online veröffentlichen, wo es eine Schnittstelle zum Govdata-Portal gibt, oder über das Geoportal Berlin, wo es eine API zum Berliner Open Data-Portal gibt. Sie müssen die Daten jedoch nicht extra auf dem Berliner Portal angeben, da dies im Geoportal angegeben wird.
+GovData:
+Wir sind stolz darauf, als zweiter Staat die Auszeichnung für hochwertige Datensätze korrekt an das europäische Datenportal übertragen zu haben. Um dies erfolgreich durchführen zu können, mussten wir CKAN erweitern, sodass HVD-Daten in ein CKAN-System importiert und anschließend exportiert werden konnten. Unsere Änderungen wurden gemäß den Open-Source-Regeln in das offizielle Repo übertragen. Für die Geodaten mussten wir den Konverter der Geo-ISO-Daten anpassen. Im Vorfeld war ein langwieriger Abstimmungsprozess mit und innerhalb der Geo-Community erforderlich. Bitte beachten Sie auch die Antwort auf Frage PT22."
+Q6;neue Frage;neue Frage;Change;nein;"GovData: Teilweise stellen die Fachgemeinschaften selbst die Kompatibilität der einzelnen Datensätze sicher. Zwei Fachbereiche werden als Beispiele genannt. Die Geodaten werden in den Bundesländern erhoben und können dank etablierter Strukturen harmonisiert und als gemeinsamer Datensatz für ganz Deutschland angeboten werden. Die INSPIRE-Spezifikationen sorgen dafür, dass die Datensätze europaweit vergleichbar sind. Die Wetterdaten sind nicht nur innerhalb Europas kompatibel, sondern dank ihrer Standardisierung auch international interoperabel.
 
-Follow up: The correct answer is still 'no'. INSPIRE and weather data are older than HVD. So we have interoperable datasets but we do no special activities for HVD datasets that there are interoperable with other countries"
+Nachtrag: Die richtige Antwort lautet weiterhin „nein“. INSPIRE und Wetterdaten sind älter als HVD. Wir verfügen also über interoperable Datensätze, führen aber keine speziellen Aktivitäten für HVD-Datensätze durch, die mit anderen Ländern interoperabel sind."
 D3.2;;;;;
 Q7;ja;"Unterbrochene Links, Überwachung von Importfehlern, Validierung wird gemäß DCAT-AP.de umgestellt (https://www.itb.ec.europa.eu/shacl/dcat-ap.de/upload)
 Wir stellen ein Dashboard zur Verfügung, das Auskunft über die veröffentlichten Daten gibt. Während der Testphase ist das Dashboard nur für registrierte Benutzer zugänglich.
 Bitte kontaktieren Sie uns zur Teilnahme per E-Mail an info@govdata.de.";Confirm;;
-Q8;ja;Wir stellen ein Dashboard zur Verfügung, das Auskunft über die veröffentlichten Daten gibt. Während der Testphase ist das Dashboard nur für registrierte Benutzer zugänglich. Bitte kontaktieren Sie uns zur Teilnahme per E-Mail an info@govdata.de.;Complement;ja;"GovData: We provide a dashboard that provides information about the published data. During a test phase, the dashboard is only accessible to registered users. The underlying data, however, can be accessed openly via our SPAQL interface.
+Q8;ja;Wir stellen ein Dashboard zur Verfügung, das Auskunft über die veröffentlichten Daten gibt. Während der Testphase ist das Dashboard nur für registrierte Benutzer zugänglich. Bitte kontaktieren Sie uns zur Teilnahme per E-Mail an info@govdata.de.;Complement;ja;"GovData: Wir bieten ein Dashboard mit Informationen zu den veröffentlichten Daten an. Während einer Testphase ist das Dashboard nur für registrierte Nutzer zugänglich. Die zugrunde liegenden Daten sind jedoch über unsere SPAQL-Schnittstelle frei zugänglich.
 
-Follow up: https://govdata.de/metadatenqualitaet/qualitaetsmerkmale This URL will be available later this month. We remove the 'accessible to registered user'"
+Nachtrag: https://govdata.de/metadatenqualitaet/qualitaetmerkmale. Diese URL wird im Laufe des Monats verfügbar sein. Wir entfernen die Option „Zugriff für registrierte Nutzer“."
 Q9;neue Frage;neue Frage;Change;ja;"Berlin: =HYPERLINK(""#""; ""https://odis-berlin.de/file-download/Vorlage_Metadaten.xlsx "")
 
-GovData: We offer information on this on our information page on the provision of data on GovData https://www.govdata.de/web/guest/datenbereitstellungaufgovdata. There we refer to the self-service tool for testing DCAT-AP.de-compatible metadata. When we connect new data providers to GovData, their endpoint is extensively tested and they receive a written analysis of their metadata quality. In the course of the release of DCAT-AP.de 3.0, we will provide various examples of high-quality metadata."
-Q10;neue Frage;neue Frage;Change;ja;"Berlin: the Musterdatenkatalog of the Bertelsmann Stiftung
+GovData: Informationen hierzu finden Sie auf unserer Informationsseite zur Datenbereitstellung auf GovData unter https://www.govdata.de/web/guest/datenbereitstellungaufgovdata. Dort verweisen wir auf das Self-Service-Tool zur Prüfung DCAT-AP.de-kompatibler Metadaten. Bei der Anbindung neuer Datenanbieter an GovData wird deren Endpunkt umfassend getestet und die Anbieter erhalten eine schriftliche Analyse der Metadatenqualität. Im Zuge der Veröffentlichung von DCAT-AP.de 3.0 werden wir verschiedene Beispiele für qualitativ hochwertige Metadaten bereitstellen."
+Q10;neue Frage;neue Frage;Change;ja;"Berlin: Der Musterdatenkatalog der Bertelsmann Stiftung
 
-GovData: All data suppliers must provide their metadata in at least DCAT-AP.de 2.0 format. The standard itself contains specifications on the use of licenses, among other things. The conventions manual https://www.dcat-ap.de/def/dcatde/2.0/implRules/ contains 41 conventions that apply to the delivery to GovData."
-Q11;neue Frage;neue Frage;Change;ja;"in the Open Data Verordnung we recommed mostly open licenses such as CC 0, or at least CC By 4.0
+GovData: Alle Datenlieferanten müssen ihre Metadaten mindestens im DCAT-AP.de 2.0-Format bereitstellen. Der Standard selbst enthält unter anderem Vorgaben zur Lizenznutzung. Das Konventionshandbuch (https://www.dcat-ap.de/def/dcatde/2.0/implRules/) enthält 41 Konventionen für die Anlieferung an GovData."
+Q11;neue Frage;neue Frage;Change;ja;"In der Open-Data-Verordnung empfehlen wir überwiegend offene Lizenzen wie CC 0 oder mindestens CC BY 4.0.
 
-Follow up:
-License Guideline on GovData: https://www.govdata.de/web/guest/datenbereitsteller
-License guide in DCAT-AP.de: https://www.dcat-ap.de/def/licenses/
-The Open Data Verordnung Berlin https://www.berlin.de/sen/wirtschaft/digitalisierung/open-data/verordnung/"
-Q12;>90%;Entfällt;Change;51-70%;"GovData: >90%
+Nachtrag:
+Lizenzleitfaden für GovData: https://www.govdata.de/web/guest/datenbereitsteller
+Lizenzleitfaden auf DCAT-AP.de: https://www.dcat-ap.de/def/licenses/
+Berliner Open-Data-Verordnung: https://www.berlin.de/sen/wirtschaft/digitalisierung/open-data/verordnung/"
+Q12;>90%;Entfällt;Change;51-70%;"GovData: >90 %
 
-Follow up: 90+% is correct"
+Nachtrag: 90+ % sind korrekt"
 Q13;5-10;Entfällt;Change;1-4;"GovData: 5-10
 
-Follow up: 5-10 is correct"
+Nachtrag: 5-10 ist korrekt"
 Q14;neue Frage;neue Frage;Change;nein;
 D3.3;;;;;
-Q15;neue Frage;neue Frage;Change;ja;We only harvest datasources in DCAT-AP.de 2.0 or better. If not possible (INSPIRE metadata) we provide and develop own CKAN converter extension. We developed DCAT-AP.de years ago to follow the European DCAT-AP with some Germany extensions
-Q16;>90%;;Change;51-70%;Follow up: Thanks for the hint. As described in Q15 we follow the DCAT-AP compliance. There is no decrease. We corrected the answers
-Q17;>90%;;Change;51-70%;Follow up: Thanks for the hint. As described in Q15 we follow the DCAT-AP compliance. There is no decrease. We corrected the answers
-Q18;71-90%;;Change;31-50%;Follow up: Thanks for the hint. As described in Q15 we follow the DCAT-AP compliance. There is no decrease. We corrected the answers
+Q15;neue Frage;neue Frage;Change;ja;Wir nutzen ausschließlich Datenquellen in DCAT-AP.de 2.0 oder höher. Falls dies nicht möglich ist (INSPIRE-Metadaten), entwickeln wir eine eigene CKAN-Konverter-Erweiterung. DCAT-AP.de wurde vor Jahren entwickelt, um dem europäischen DCAT-AP mit einigen deutschen Erweiterungen zu folgen.
+Q16;>90%;;Change;51-70%;Nachtrag: Danke für den Hinweis. Wie in Frage Q15 beschrieben, befolgen wir die DCAT-AP-Konformität. Es gibt keinen Rückgang. Wir haben die Antworten korrigiert.
+Q17;>90%;;Change;51-70%;Nachtrag: Danke für den Hinweis. Wie in Frage Q15 beschrieben, befolgen wir die DCAT-AP-Konformität. Es gibt keinen Rückgang. Wir haben die Antworten korrigiert.
+Q18;71-90%;;Change;31-50%;Nachtrag: Danke für den Hinweis. Wie in Frage Q15 beschrieben, befolgen wir die DCAT-AP-Konformität. Es gibt keinen Rückgang. Wir haben die Antworten korrigiert.
 Q19;ja;"DCAT-AP.de stellt lediglich eine Ergänzung zu DCAT-AP dar und ist daher vollständig DCAT-AP-konform. Die Ergänzung zu DCAT-AP ist notwendig, um deutsche Besonderheiten abzubilden.
 https://www.dcat-ap.de/ // R2: Für eine genaue Erklärung müssten wir die Frage separat beantworten.
 
@@ -483,14 +483,14 @@ Kurz gesagt gibt es zwei rechtlich unterschiedliche Ansätze zwischen der CC BY 
 
 Es gibt also einen subtilen rechtlichen Unterschied hinter der Datenlizenz – eine „deutsche Besonderheit“. :-)
 
-Dennoch wird die Notwendigkeit einer nationalen Lizenz derzeit diskutiert und möglicherweise in Zukunft neu bewertet.";Complement;;Follow up: Thanks for the hint. We still have a national extension. We will release the new DCAT-AP.de 3.0 in December 2024
-Q20;neue Frage;neue Frage;Change;nein;GovData: No. The investigation and improvement of metadata quality is on our to-do list.
+Dennoch wird die Notwendigkeit einer nationalen Lizenz derzeit diskutiert und möglicherweise in Zukunft neu bewertet.";Complement;;Nachtrag: Danke für den Hinweis. Wir haben noch eine nationale Erweiterung. Wir werden das neue DCAT-AP.de 3.0 im Dezember 2024 veröffentlichen.
+Q20;neue Frage;neue Frage;Change;nein;GovData: Nein. Die Untersuchung und Verbesserung der Metadatenqualität steht auf unserer To-Do-Liste.
 Q21;31-50%;Entfällt;Confirm;31-50%;GovData: '31-50%
-Q22;>90%;Entfällt;Change;51-70%;"GovData: '>90%
+Q22;>90%;Entfällt;Change;51-70%;"GovData: '>90 %
 
-Follow up: Thanks for the hint. We corrected the answer to 90+%"
+Nachtrag: Danke für den Hinweis. Wir haben die Antwort auf 90+ % korrigiert."
 D3.4;;;;;
-Q23;ja;Die Fair Principles sind ein zentraler Bestandteil der Qualitätsprüfung im Dashboard des Portals.;Complement;ja;Berlin: for finance data and for the organigramm tool
+Q23;ja;Die Fair Principles sind ein zentraler Bestandteil der Qualitätsprüfung im Dashboard des Portals.;Complement;ja;Berlin: für Finanzdaten und für das Organigramm-Tool
 Q24;ja;Seit 2021 haben wir das Dashboard zur Qualitätskontrolle. Die Datenanbieter selbst haben dort die Möglichkeit, ihre Metadatenqualität zu überprüfen. Darüber hinaus werden regelmäßig Auszüge mit den wichtigsten Qualitätsparametern an die Datenlieferanten gesendet.;Complement;ja;Berlin: Barcamp Linked Open Data
 Q25;>90%;Entfällt;Confirm;>90%;Entfällt
 Q26;>90%;Entfällt;Confirm;>90%;Entfällt

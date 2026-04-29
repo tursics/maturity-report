@@ -1,6 +1,6 @@
 # Open Data Maturity Report
 
-The [Open Data Maturity Report 2024](https://data.europa.eu/en/publications/open-data-maturity/2024) ([2023](https://data.europa.eu/en/publications/open-data-maturity/2023)) shows the current implementation status of open data across the EU. It is based on a survey of all member states. The result of the report is available as a PDF and all raw data has been published as Excel files. A website with a dashboard exists.
+The [Open Data Maturity Report 2025](https://data.europa.eu/en/open-data-maturity/2025) ([2024](https://data.europa.eu/en/publications/open-data-maturity/2024), [2023](https://data.europa.eu/en/publications/open-data-maturity/2023)) shows the current implementation status of open data across the EU. It is based on a survey of all member states. The result of the report is available as a PDF and all raw data has been published as Excel files. A website with a dashboard exists.
 
 Try the current version [here](https://demo.govdata.de/maturity-report/)
 
@@ -29,18 +29,20 @@ That's why I built my own visualization of the Maturity Report. I valued the fol
 
 You are invited to prepare the data for another year or another state. Here is a guide on how the current data was prepared:
 
-1. Download the zip file "Download Country Questionnaire 2024" from the site [Open Data Maturity 2024](https://data.europa.eu/en/publications/open-data-maturity/2024)
-2. Extract the content of the zip file to folder `/2024` in the root of this project
-3. Copy the files with question and answers to folder `/2024/1-source-data`.
+1. Download the zip file "2025 Open Data Maturity Questionnaire Data" from the site [Method and resources](https://data.europa.eu/en/open-data-maturity/2025#method-and-resources)
+2. Extract the content of the zip file to folder `/2025` in the root of this project - or - if there is not a zip file download additionally every answer file from the countries page.
+3. Copy the files with question and answers to folder `/2025/1-source-data`.
 
   - If available, rename the questionnaire file to `00_ODM2023...` (found in year 2023 but not in 2024)
 
-4. Convert all Excel files to csv file and save them in folder `/2024/2-csv-files`.
+4. Convert all Excel files to csv file and save them in folder `/2025/2-csv-files`.
 
-  - If available, save the 4 pages of questionnaire Excel file to 4 csv files
+  - If available, save the 5 pages of questionnaire Excel file to 5 csv files
   - in 2024 the 1 page Excel file was changed to a 4 page Excel file. Convert all pages to csv files
+  - in 2025 the 4 page Excel was changed to a 5 page Excel file. Ignore the files, because...
+  - in 2025 the questionnaire file contains a new page with 'merged_responses'. That's the data we are looking for
 
-5. Open all csv files, improve the files and save the results in folder `/2024/3-simplified` with the name like `AL_ODM_2024.csv`
+5. Open all csv files, improve the files and save the results in folder `/2025/3-simplified` with the name like `AL_ODM_2025.csv`
 
   - if you have multiple files for one country concatenate them (e.g. in simple text editor)
   - fill in the first column with valid values. No cell may remain empty
@@ -58,4 +60,4 @@ You are invited to prepare the data for another year or another state. Here is a
 
 ## Copyright
 
-The code is licensed under MIT license (the code is free to use and can be modified). The flag icons are free too, see https://github.com/lipis/flag-icons. The used data are from the [European Union Maturity Report 2023](https://data.europa.eu/en/publications/open-data-maturity/2023), [European Union Maturity Report 2024](https://data.europa.eu/en/publications/open-data-maturity/2024) and licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) (and are modified, e.g. translated).
+The code is licensed under MIT license (the code is free to use and can be modified). The flag icons are free too, see https://github.com/lipis/flag-icons. The used data are from the [European Union Maturity Report 2023](https://data.europa.eu/en/publications/open-data-maturity/2023), [European Union Maturity Report 2024](https://data.europa.eu/en/publications/open-data-maturity/2024), [European Union Maturity Report 2025](https://data.europa.eu/en/open-data-maturity/2025) and licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) (and are modified, e.g. translated).

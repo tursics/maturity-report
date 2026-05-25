@@ -3,7 +3,10 @@ var countries = (function () {
         idYearSwitch = 'year-switch',
         csvPath = '{year}/3-simplified/{country}_ODM_{year}{language}.csv';
         loadList = {
-            live: [
+/*            live: [
+                {n:'de',s:0}
+            ],*/
+            2025: [
                 {n:'de',s:0}
             ],
             2024: [

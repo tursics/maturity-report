@@ -169,6 +169,9 @@ var _ = (function () {
                         value = newValue;
                     }
                 }
+            } else if (translation.response) {
+                // 2025
+                value = translation.response;
             }
         }
 
@@ -190,6 +193,9 @@ var _ = (function () {
             if (translation.Justification) {
                 // 2023
                 value = translation.Justification;
+            } else if (translation.explanation) {
+                // 2025
+                value = translation.explanation;
             } else {
                 // 2024 and live
                 var status = translation['Confirm, change or complement answer/explanation from 2023'] || translation['Confirm, change or complement answer/explanation from 2024'] || '';

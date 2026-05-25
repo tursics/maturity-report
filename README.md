@@ -58,6 +58,8 @@ You are invited to prepare the data for another year or another state. Here is a
 - translate all cells
 - or: just leave the headline and row "R1" to translate the name of the state
 
+7. Append the new year to the question tree in file `/assets/app.questiontree.js`.
+
 ## Copyright
 
 The code is licensed under MIT license (the code is free to use and can be modified). The flag icons are free too, see https://github.com/lipis/flag-icons. The used data are from the [European Union Maturity Report 2023](https://data.europa.eu/en/publications/open-data-maturity/2023), [European Union Maturity Report 2024](https://data.europa.eu/en/publications/open-data-maturity/2024), [European Union Maturity Report 2025](https://data.europa.eu/en/open-data-maturity/2025) and licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) (and are modified, e.g. translated).

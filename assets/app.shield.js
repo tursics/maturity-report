@@ -52,7 +52,8 @@ class Shield {
         }
 
         var item = this.answers['en'][obj.id[this.year]];
-        var score = item && item.Score ? parseInt(item.Score, 10) : NaN;
+        var score = item && item.Score ? parseInt(item.Score, 10) :
+            (item && item.awarded_score ? parseInt(item.awarded_score, 10) : NaN);
         var status = undefined;
         if (item && item['Confirm, change or complement answer/explanation from 2023']) {
             status = item['Confirm, change or complement answer/explanation from 2023'];
